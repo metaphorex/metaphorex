@@ -156,6 +156,27 @@ metaphorex-agents/
 └── CODEOWNERS
 ```
 
+## Three Types of Import Work
+
+| Type | Shape | Playbook? | Ends? |
+|------|-------|-----------|-------|
+| **Archive** | Finite, enumerable (a book, GoF patterns) | Yes — static once written | Yes — when manifest complete |
+| **Vein** | Ongoing direction (developer culture, a field) | Yes — evolves across runs | No — always more to find |
+| **Nugget** | One-off metaphor submission | No — too small | Instantly — single mapping |
+
+GitHub labels: `archive`, `vein`, `nugget`, `in-progress`.
+
+- **Archive**: Prospector enumerates ALL candidates, creates all sub-issues.
+- **Vein**: Prospector identifies a batch per run, playbook evolves.
+- **Nugget**: Goes directly to Miner, no Prospector involved.
+
+Agent pick-next priority (when invoked without a target):
+1. Nuggets (quick wins, community-responsive)
+2. Archive sub-issues (clear specs)
+3. Vein sub-issues (need more judgment)
+
+Agents claim work by adding the `in-progress` label before starting.
+
 ## Playbook Format
 
 ```yaml

@@ -1,0 +1,52 @@
+name: Nugget — drop a metaphor you heard
+description: Submit a one-off metaphor for agents to mine into a full mapping
+labels: ["nugget"]
+body:
+  - type: textarea
+    id: metaphor
+    attributes:
+      label: The metaphor
+      description: The phrase, expression, or concept
+      placeholder: '"Let''s not boil the ocean"'
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Where you heard it
+      description: Context — meeting, blog post, conversation, book
+      placeholder: Sprint planning meeting, PM describing scope reduction
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind (best guess)
+      options:
+        - conceptual-metaphor
+        - design-pattern
+        - archetype
+        - cross-field-mapping
+        - dead-metaphor
+        - paradigm
+        - not sure
+    validations:
+      required: false
+  - type: textarea
+    id: mapping-guess
+    attributes:
+      label: What it might map to
+      description: Source domain, target domain, related mappings — just your instinct
+      placeholder: |
+        Source: cooking / thermodynamics
+        Target: project scoping
+        Related to "eating the elephant" — both about overwhelming scale
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else — why it's interesting, where it breaks, other expressions
+    validations:
+      required: false

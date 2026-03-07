@@ -1,0 +1,43 @@
+name: Import project — mine a source for metaphors
+description: Propose a source to systematically extract metaphors from
+labels: ["import-project"]
+body:
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: What is the source? Book, website, corpus, API, etc.
+      placeholder: 'Lakoff, G. & Johnson, M. *Metaphors We Live By* (1980)'
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Project type
+      description: Is this a finite archive or an ongoing vein?
+      options:
+        - archive — finite, enumerable (a specific book, a fixed pattern catalog)
+        - vein — ongoing direction (developer culture, a field of study)
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: Why is this source worth mining?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Estimated scope
+      description: Rough number of mappings, what kinds, any known candidates
+    validations:
+      required: false
+  - type: textarea
+    id: approach
+    attributes:
+      label: Suggested approach
+      description: How should an agent access and extract from this source?
+    validations:
+      required: false
