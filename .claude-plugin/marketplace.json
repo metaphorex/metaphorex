@@ -1,0 +1,9 @@
+{
+  "name": "metaphorex-dev",
+  "plugins": [
+    {
+      "name": "metaphorex-agents",
+      "source": "./"
+    }
+  ]
+}

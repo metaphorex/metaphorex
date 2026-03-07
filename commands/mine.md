@@ -1,19 +1,21 @@
 ---
 name: mine
-description: Extract mappings from a source using an approved playbook
+description: Extract mappings — from a playbook, a nugget, or the next available issue
 ---
 
-Launch the Miner agent to work through an approved playbook and extract
-mapping entries.
+Launch the Miner agent to extract mapping entries.
 
-**Usage:** `/mine <project-name>`
+**Usage:**
+- `/mine <project-name>` — mine from an approved playbook
+- `/mine <issue-url>` — mine a specific issue (nugget or sub-issue)
+- `/mine` — pick the next available work (nuggets first, then archive, then vein)
 
-The project must have an approved playbook at `projects/<project-name>/playbook.md`.
-The Miner will:
+The Miner handles three types of work:
+- **Nuggets** — standalone one-off metaphors, no playbook needed
+- **Archive sub-issues** — follows the project playbook
+- **Vein sub-issues** — follows the project playbook with more judgment
 
-1. Read the playbook and identify unprocessed sub-issues
-2. Extract each mapping following the playbook strategy
-3. Open PRs into metaphorex/metaphorex (one per mapping)
-4. Post a run summary on the parent issue
+When picking next, the Miner claims the issue with an `in-progress` label
+before starting work.
 
-Invoke the Miner agent with the project name as context.
+Invoke the Miner agent with the target (or empty for pick-next).

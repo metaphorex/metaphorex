@@ -3,16 +3,14 @@ name: prospect
 description: Research a source and build an extraction playbook for Metaphorex
 ---
 
-Launch the Prospector agent to research the import source identified by the
-given GitHub issue URL and produce:
+Launch the Prospector agent to research an import source and produce a
+playbook, extraction scripts, and sub-issues.
 
-1. An extraction playbook (`projects/<name>/playbook.md`)
-2. Extraction scripts if applicable (`projects/<name>/scripts/`)
-3. Sub-issues on the parent issue (one per mapping candidate)
-4. A PR into this repo with all artifacts
+**Usage:**
+- `/prospect <issue-url>` — prospect a specific import-project issue
+- `/prospect` — pick the next unprospected import-project issue
 
-**Usage:** `/prospect <issue-url>`
+The Prospector handles both `archive` (finite) and `vein` (ongoing) projects.
+It is not involved in `nugget` issues.
 
-The issue should be an `import-project` labeled issue in metaphorex/metaphorex.
-
-Invoke the Prospector agent with the issue URL as context.
+Invoke the Prospector agent with the issue URL (or empty for pick-next).
