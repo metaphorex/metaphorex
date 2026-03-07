@@ -2,6 +2,7 @@
 slug: cognitive-science
 name: "Cognitive Science"
 related:
+  - psychology
   - linguistics
   - philosophy
 ---

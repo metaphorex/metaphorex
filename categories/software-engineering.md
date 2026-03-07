@@ -2,6 +2,7 @@
 slug: software-engineering
 name: "Software Engineering"
 related:
+  - computer-science
   - systems-thinking
 ---
 

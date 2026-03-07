@@ -1,6 +1,7 @@
 ---
 slug: bodily-failure
 name: "Bodily Failure"
+broader: embodied-experience
 related:
   - natural-selection
 roles:

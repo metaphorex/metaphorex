@@ -1,6 +1,7 @@
 ---
 slug: technical-discussion
 name: "Technical Discussion"
+broader: collaborative-work
 related:
   - software-programs
   - argumentation

@@ -1,6 +1,7 @@
 ---
 slug: dominance-display
 name: "Dominance Display"
+broader: social-behavior
 related:
   - competition
   - social-roles
