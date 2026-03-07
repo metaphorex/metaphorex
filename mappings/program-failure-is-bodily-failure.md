@@ -10,7 +10,7 @@ categories:
 author: fshot
 contributors: []
 related:
-  - technical-debate-is-dominance-display
+  - data-flow-is-fluid-flow
 ---
 
 ## What It Brings
