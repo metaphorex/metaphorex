@@ -17,10 +17,12 @@ dead metaphors worth examining.
 ## Structure
 
 ```
-mappings/      one markdown file per mapping (the main content)
-frames/        conceptual domains (source and target)
-categories/    taxonomy labels for cross-cutting classification
+catalog/
+  mappings/    one markdown file per mapping (the main content)
+  frames/      conceptual domains (source and target)
+  categories/  taxonomy labels for cross-cutting classification
 scripts/       validation and extraction tools
+docs/          design documents and plans
 ```
 
 Everything is plain markdown with YAML frontmatter. No static site generator.
@@ -28,7 +30,7 @@ Readable as-is on GitHub.
 
 ## Quick Start
 
-Browse [mappings/](mappings/) to read entries. Each mapping has:
+Browse [catalog/mappings/](catalog/mappings/) to read entries. Each mapping has:
 
 - **What It Brings** — the structural parallels that make it useful
 - **Where It Breaks** — where the metaphor misleads
@@ -48,7 +50,7 @@ Contributions from both humans and agents are welcome.
 
 ```bash
 uv run scripts/validate.py validate           # check all content
-uv run scripts/validate.py validate mappings/  # check specific directory
+uv run scripts/validate.py validate catalog/mappings/  # check specific directory
 uv run scripts/validate.py extract             # emit structured JSON
 ```
 

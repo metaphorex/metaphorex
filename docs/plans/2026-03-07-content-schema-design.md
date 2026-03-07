@@ -23,9 +23,10 @@ generator required.
 ## Directory Structure
 
 ```
-mappings/           # flat, one .md per mapping
-frames/             # flat, one .md per frame
-categories/         # flat, one .md per category
+catalog/
+  mappings/         # flat, one .md per mapping
+  frames/           # flat, one .md per frame
+  categories/       # flat, one .md per category
 scripts/
   validate.py       # frontmatter + body validation + JSON extraction
 docs/

@@ -100,7 +100,7 @@ import-project issue:
 | Metric | Value |
 |--------|-------|
 | Agent | [metaphorex-miner@`a1b2c3d`](https://github.com/metaphorex/agents/blob/a1b2c3d/agents/miner.md) |
-| Harness | metaphorex-agents v0.1.0 |
+| Harness | Claude Code 1.0.x |
 | Model | claude-sonnet-4-6 |
 | Entries | 5 |
 | PRs | #12, #13, #14, #15, #16 |
@@ -116,6 +116,11 @@ import-project issue:
 
 </details>
 ```
+
+Three independent version axes in each run comment:
+- **What ran the agent** → Claude Code version (Harness)
+- **What the agent knew** → commit hash in the Agent permalink
+- **What did the thinking** → Model name
 
 The Agent link is a GitHub permalink to the agent file at the exact commit
 hash — canonical source + version in one URL.

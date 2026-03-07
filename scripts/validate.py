@@ -8,7 +8,7 @@
 
 Usage:
     uv run scripts/validate.py validate          # validate all content
-    uv run scripts/validate.py validate mappings/ # validate specific dir
+    uv run scripts/validate.py validate catalog/mappings/ # validate specific dir
     uv run scripts/validate.py extract            # emit JSON to stdout
 """
 
@@ -22,9 +22,10 @@ from pathlib import Path
 import frontmatter
 
 ROOT = Path(__file__).resolve().parent.parent
-MAPPINGS_DIR = ROOT / "mappings"
-FRAMES_DIR = ROOT / "frames"
-CATEGORIES_DIR = ROOT / "categories"
+CATALOG_DIR = ROOT / "catalog"
+MAPPINGS_DIR = CATALOG_DIR / "mappings"
+FRAMES_DIR = CATALOG_DIR / "frames"
+CATEGORIES_DIR = CATALOG_DIR / "categories"
 
 VALID_KINDS = {
     "conceptual-metaphor",
@@ -88,7 +89,7 @@ def validate_mapping(path: Path, frame_slugs: set[str], category_slugs: set[str]
                      mapping_slugs: set[str], errors: list[str], warnings: list[str]) -> None:
     post = frontmatter.load(path)
     meta = post.metadata
-    prefix = f"mappings/{path.name}"
+    prefix = f"catalog/mappings/{path.name}"
 
     # Check required fields
     for field in REQUIRED_MAPPING_FIELDS:
@@ -131,7 +132,7 @@ def validate_mapping(path: Path, frame_slugs: set[str], category_slugs: set[str]
 def validate_frame(path: Path, frame_slugs: set[str], errors: list[str], warnings: list[str]) -> None:
     post = frontmatter.load(path)
     meta = post.metadata
-    prefix = f"frames/{path.name}"
+    prefix = f"catalog/frames/{path.name}"
 
     for field in REQUIRED_FRAME_FIELDS:
         if field not in meta:
@@ -152,7 +153,7 @@ def validate_frame(path: Path, frame_slugs: set[str], errors: list[str], warning
 def validate_category(path: Path, category_slugs: set[str], errors: list[str], warnings: list[str]) -> None:
     post = frontmatter.load(path)
     meta = post.metadata
-    prefix = f"categories/{path.name}"
+    prefix = f"catalog/categories/{path.name}"
 
     for field in REQUIRED_CATEGORY_FIELDS:
         if field not in meta:
@@ -179,7 +180,9 @@ def validate(target: str | None = None) -> tuple[list[str], list[str]]:
 
     dirs_to_check = {"mappings", "frames", "categories"}
     if target:
-        dirs_to_check = {target.rstrip("/")}
+        # Accept both "mappings" and "catalog/mappings"
+        normalized = target.rstrip("/").removeprefix("catalog/")
+        dirs_to_check = {normalized}
 
     if "frames" in dirs_to_check:
         for f in sorted(FRAMES_DIR.glob("*.md")):
