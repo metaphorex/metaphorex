@@ -3,7 +3,7 @@ slug: organizational-behavior
 name: "Organizational Behavior"
 related:
   - software-engineering
-  - social-dynamics
+  - systems-thinking
 ---
 
 Metaphors used in how groups of people coordinate, compete, and make

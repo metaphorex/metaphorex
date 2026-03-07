@@ -1,10 +1,10 @@
 ---
 slug: technical-discussion
 name: "Technical Discussion"
-broader: collaborative-work
 related:
   - software-programs
-  - decision-making
+  - argumentation
+  - social-roles
 roles:
   - participant
   - proposal

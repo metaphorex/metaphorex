@@ -2,8 +2,7 @@
 slug: marine-biology
 name: "Marine Biology"
 related:
-  - evolution
-  - reproduction
+  - natural-selection
 roles:
   - organism
   - environment

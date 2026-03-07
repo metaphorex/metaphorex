@@ -1,9 +1,9 @@
 ---
 slug: software-programs
 name: "Software Programs"
-broader: computing
 related:
-  - software-systems
+  - data-processing
+  - software-abstraction
 roles:
   - program
   - input

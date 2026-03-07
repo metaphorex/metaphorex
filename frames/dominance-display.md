@@ -1,10 +1,9 @@
 ---
 slug: dominance-display
 name: "Dominance Display"
-broader: social-behavior
 related:
   - competition
-  - mating-ritual
+  - social-roles
 roles:
   - challenger
   - rival

@@ -1,9 +1,8 @@
 ---
 slug: bodily-failure
 name: "Bodily Failure"
-broader: embodied-experience
 related:
-  - disease
+  - natural-selection
 roles:
   - sufferer
   - symptom
