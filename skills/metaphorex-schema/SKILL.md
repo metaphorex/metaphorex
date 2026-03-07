@@ -25,9 +25,9 @@ knowledge graph of metaphors at https://github.com/metaphorex/metaphorex.
 slug: kebab-case-name          # must match filename
 name: "Human Readable Name"
 kind: conceptual-metaphor       # see valid kinds below
-source_frame: frame-slug        # must exist in frames/
-target_frame: frame-slug        # must exist in frames/
-categories:                     # at least one, must exist in categories/
+source_frame: frame-slug        # must exist in catalog/frames/
+target_frame: frame-slug        # must exist in catalog/frames/
+categories:                     # at least one, must exist in catalog/categories/
   - category-slug
 author: github-username          # or agent:<agent-name>
 contributors: []                 # people/agents who made substantial edits

@@ -78,7 +78,7 @@ Use the metaphorex-schema skill for the canonical schema. Additionally:
 
 Post on the parent issue after processing a batch. Include:
 - Agent permalink (your agent file at current commit)
-- Harness version
+- Harness (Claude Code version)
 - Model used
 - Per-entry token counts and PR links
 - Total tokens and estimated cost
