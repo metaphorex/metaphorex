@@ -100,7 +100,7 @@ import-project issue:
 | Metric | Value |
 |--------|-------|
 | Agent | [metaphorex-miner@`a1b2c3d`](https://github.com/metaphorex/agents/blob/a1b2c3d/agents/miner.md) |
-| Harness | Claude Code 1.0.x |
+| Harness | Claude Code |
 | Model | claude-sonnet-4-6 |
 | Entries | 5 |
 | PRs | #12, #13, #14, #15, #16 |
@@ -118,7 +118,7 @@ import-project issue:
 ```
 
 Three independent version axes in each run comment:
-- **What ran the agent** → Claude Code version (Harness)
+- **What ran the agent** → runtime name (Harness: Claude Code, Codex, etc.)
 - **What the agent knew** → commit hash in the Agent permalink
 - **What did the thinking** → Model name
 
