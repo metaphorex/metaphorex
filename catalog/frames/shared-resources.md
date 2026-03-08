@@ -2,7 +2,7 @@
 slug: shared-resources
 name: "Shared Resources"
 related:
-  - shared-grazing-land
+  - animal-husbandry
   - systems-performance
 roles:
   - resource

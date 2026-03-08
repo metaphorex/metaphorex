@@ -2,14 +2,14 @@
 slug: the-facade-pattern
 name: "The Facade Pattern"
 kind: design-pattern
-source_frame: architectural-facades
+source_frame: architecture-and-building
 target_frame: software-abstraction
 categories:
   - software-engineering
 author: metaphorex
 contributors: []
 related:
-  - the-observer-pattern
+  - firewall
 ---
 
 ## What It Brings

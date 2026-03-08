@@ -2,7 +2,7 @@
 slug: firewall
 name: "Firewall"
 kind: dead-metaphor
-source_frame: fire-safety
+source_frame: architecture-and-building
 target_frame: network-security
 categories:
   - software-engineering

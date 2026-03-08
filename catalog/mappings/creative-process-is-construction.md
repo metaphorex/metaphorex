@@ -2,7 +2,7 @@
 slug: creative-process-is-construction
 name: "Creative Process Is Construction"
 kind: cross-field-mapping
-source_frame: construction
+source_frame: architecture-and-building
 target_frame: creative-process
 categories:
   - systems-thinking

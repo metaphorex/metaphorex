@@ -2,7 +2,7 @@
 slug: program-failure-is-bodily-failure
 name: "Program Failure Is Bodily Failure"
 kind: conceptual-metaphor
-source_frame: bodily-failure
+source_frame: embodied-experience
 target_frame: software-programs
 categories:
   - software-engineering

@@ -2,9 +2,8 @@
 slug: software-abstraction
 name: "Software Abstraction"
 related:
-  - architectural-facades
+  - architecture-and-building
   - representation
-  - construction
 roles:
   - interface
   - implementation

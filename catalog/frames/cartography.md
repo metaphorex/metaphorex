@@ -3,7 +3,6 @@ slug: cartography
 name: "Cartography"
 related:
   - representation
-  - observation
 roles:
   - mapmaker
   - territory

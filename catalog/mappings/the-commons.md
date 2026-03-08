@@ -2,7 +2,7 @@
 slug: the-commons
 name: "The Commons"
 kind: archetype
-source_frame: shared-grazing-land
+source_frame: animal-husbandry
 target_frame: shared-resources
 categories:
   - organizational-behavior

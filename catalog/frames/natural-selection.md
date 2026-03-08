@@ -12,6 +12,7 @@ roles:
   - fitness
   - adaptation
   - generation
+  - behavior
 ---
 
 The mechanism by which differential reproductive success drives population

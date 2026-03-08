@@ -2,7 +2,7 @@
 slug: network-security
 name: "Network Security"
 related:
-  - fire-safety
+  - architecture-and-building
   - containers
 roles:
   - perimeter
