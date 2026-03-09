@@ -1,13 +1,13 @@
 ---
 slug: creative-process-is-construction
 name: "Creative Process Is Construction"
-kind: cross-field-mapping
+kind: conceptual-metaphor
 source_frame: architecture-and-building
 target_frame: creative-process
 categories:
   - systems-thinking
   - arts-and-culture
-author: metaphorex
+author: fshot
 contributors: []
 related:
   - creative-process-is-gardening
@@ -15,10 +15,10 @@ related:
 
 ## What It Brings
 
-The default metaphor for making things. So deeply embedded that it
-barely registers as metaphor at all — of course you *build* software,
-*construct* an argument, *lay the foundation* for a project. The
-construction frame is the water we swim in.
+The default metaphor for making things. So embedded it barely registers
+as metaphor. Of course you *build* software, *construct* an argument,
+*lay the foundation* for a project. The construction frame is the water
+we swim in.
 
 Key structural parallels:
 
@@ -36,8 +36,8 @@ Key structural parallels:
   any complex artifact with internal dependencies.
 - **Scaffolding** — temporary support structures that enable
   construction but are removed from the finished work. One of the
-  metaphor's most useful gifts: it gives you permission to build ugly
-  temporary things in service of the final structure. Scaffolding in
+  metaphor's best gifts: permission to build ugly temporary things
+  in service of the final structure. Scaffolding in
   education (Vygotsky), scaffolding in code, scaffolding in writing.
 - **Specialists and trades** — architect, engineer, builder, inspector.
   The construction frame naturally decomposes complex work into roles
@@ -45,26 +45,26 @@ Key structural parallels:
 
 ## Where It Breaks
 
-- **Construction assumes you know what you're building.** This is the
+- **Construction assumes you know what you're building** — this is the
   metaphor's deepest limitation. A building that "discovers its purpose
-  mid-construction" is a catastrophe. But creative work — a novel, a
-  research program, a startup — often *must* discover its goal through
+  mid-construction" is a catastrophe. But creative work (a novel, a
+  research program, a startup) often *must* discover its goal through
   the process of making. The construction frame makes this feel like
   failure rather than method.
-- **Buildings don't grow, adapt, or reproduce.** Once constructed, a
+- **Buildings don't grow, adapt, or reproduce** — once constructed, a
   building is static. Software, organizations, and creative works
-  *evolve*. The construction metaphor has no concept of organic change —
+  *evolve*. The construction metaphor has no concept of organic change:
   post-construction modification is always "renovation" or "demolition,"
   never growth.
-- **The architect/builder split creates false hierarchies.** In
+- **The architect/builder split creates false hierarchies** — in
   construction, the architect designs and the builder executes. When
   mapped onto creative work, this privileges "visionary" thinking over
   craft. In practice, the best creative work happens when thinking and
   making are the same activity.
-- **"Done" is a construction concept.** Buildings are finished. Creative
+- **"Done" is a construction concept** — buildings are finished. Creative
   works, software systems, and organizations are *never* finished —
-  they're abandoned or maintained. The construction frame makes ongoing
-  evolution feel like an aberration rather than the natural state.
+  they're abandoned or maintained. The construction frame makes
+  ongoing evolution feel aberrant.
 - **Construction is subtractive risk** — you reduce uncertainty over
   time. Creative work often *increases* uncertainty before resolving it.
   The metaphor makes the messy middle feel like a structural failure
@@ -95,20 +95,19 @@ Key structural parallels:
 
 Brian Eno framed the distinction in his "Gardening vs. Architecture"
 talks, arguing that Western creative culture defaults to the
-architectural/construction model: conceive the whole, plan it, build it,
-finish it. He proposed gardening as an alternative (see
+architectural/construction model: conceive, plan, build, finish. He
+proposed gardening as the alternative (see
 creative-process-is-gardening). We use "construction" rather than
-"architecture" here to avoid overloading — "architecture" has become
-its own rich metaphorical domain in software, and conflating the two
-creates confusion.
+"architecture" here because "architecture" has become its own rich
+metaphorical domain in software, and conflating the two creates
+confusion.
 
 The construction metaphor for creative work predates Eno considerably.
 "Building an argument" appears in English rhetoric from at least the
 18th century. Software adopted construction language from its earliest
-days — "software engineering" was coined at a 1968 NATO conference
-precisely to import the rigor and predictability of engineering
-construction into programming. Whether that import was successful is
-still being debated.
+days. "Software engineering" was coined at a 1968 NATO conference
+precisely to import engineering's rigor and predictability into
+programming. Whether that import succeeded is still debated.
 
 ## References
 

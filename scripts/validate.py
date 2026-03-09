@@ -29,9 +29,7 @@ CATEGORIES_DIR = CATALOG_DIR / "categories"
 
 VALID_KINDS = {
     "conceptual-metaphor",
-    "design-pattern",
     "archetype",
-    "cross-field-mapping",
     "dead-metaphor",
     "paradigm",
 }

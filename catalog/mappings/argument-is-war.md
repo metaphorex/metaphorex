@@ -7,17 +7,16 @@ target_frame: argumentation
 categories:
   - cognitive-science
   - linguistics
-author: metaphorex
+author: fshot
 contributors: []
-related: []
+related:
+  - argument-is-dance
 ---
 
 ## What It Brings
 
-The ur-example of conceptual metaphor theory, and still the most revealing.
-We don't just *talk about* arguments in terms of war — we *experience* them
-that way. Your pulse quickens. You scan for weak points. You feel the need
-to *win*.
+The ur-example of conceptual metaphor theory, still the most revealing.
+We *talk about* arguments in terms of war and *experience* them that way. Your pulse quickens. You scan for weak points. You need to *win*.
 
 Key structural parallels:
 
@@ -34,31 +33,26 @@ Key structural parallels:
   "people who updated their beliefs" but people who *prevailed* or were
   *destroyed*.
 
-This isn't decorative language. The metaphor structures behavior: we
-interrupt, we refuse to yield, we strategize about *when* to introduce
-evidence for maximum impact. The war frame makes all of this feel natural.
+The metaphor structures behavior: we interrupt, refuse to yield,
+strategize about *when* to deploy evidence for maximum impact. The war
+frame makes this feel natural.
 
 ## Where It Breaks
 
-- **War produces destruction; arguments should produce understanding.**
-  The metaphor makes it genuinely difficult to *change your mind* —
-  updating your position feels like surrender, not learning. Every
-  productive conversation requires fighting the frame.
-- **War has exactly two sides; arguments don't.** The metaphor forces
+- **War produces destruction; arguments should produce understanding** —
+  the metaphor makes it difficult to *change your mind*. Updating your
+  position feels like surrender, not learning. Every productive
+  conversation requires fighting the frame.
+- **War has two sides; arguments don't** — the metaphor forces
   false binaries. Nuanced positions get flattened into "with us or
   against us."
-- **The alternative Lakoff proposed but never developed: ARGUMENT IS
-  DANCE.** Imagine if argumentation were structured by dance instead of
-  war. Partners, not opponents. The goal is an *aesthetic performance*
-  that neither could achieve alone. Leading and following are both
-  honorable. Missteps are corrected gracefully, not exploited. You'd
-  *practice* together, build toward something, care about the audience's
-  experience. "That was a beautiful argument" would mean something
-  entirely different. We don't have this culture — but some academic
-  seminars and improvisational theater come close. The absence of an
-  ARGUMENT IS DANCE culture tells you how deeply the war frame has won.
-- **The metaphor naturalizes escalation.** "Nuclear option" in Senate
-  procedure, "scorched earth" in divorce proceedings — the war frame
+- **The war frame crowds out alternatives** — Lakoff proposed ARGUMENT IS
+  DANCE as a counter-frame (see argument-is-dance) but couldn't develop
+  it. Even the theorist who named the trap couldn't escape it. The
+  absence of collaborative argumentation tells you how deeply the war
+  frame has won.
+- **The metaphor naturalizes escalation** — "nuclear option" in Senate
+  procedure, "scorched earth" in divorce proceedings. The war frame
   provides an escalation ladder that feels *logical* even when it's
   destructive.
 
@@ -75,28 +69,20 @@ evidence for maximum impact. The war frame makes all of this feel natural.
 - "Flame war" — internet arguments where the war metaphor becomes
   recursive (the fire is itself metaphorical)
 - "I destroyed him in that debate" — annihilation as rhetorical success
-- "She brought receipts" — ammunition, but from the accounting frame
-  (a hybrid that reveals the metaphor's flexibility)
-- "Ratio'd" — modern Twitter expression where the community's
-  collective response overwhelms the original position, a kind of
-  siege warfare by volume
-- "Main character syndrome" — not strictly war, but the adversarial
-  internet frame where discourse becomes a battle for narrative control
 - "That's a bad faith argument" — the interlocutor as treacherous
   combatant, violating the rules of engagement
 
 ## Origin Story
 
 The foundational example in Lakoff and Johnson's *Metaphors We Live By*
-(1980), introduced on page one. They chose it because it's so pervasive
-that most English speakers cannot discuss argumentation *without* war
-language. The insight wasn't that people use warlike metaphors for
-arguments — it was that the metaphor *structures the activity itself*.
+(1980), introduced on page one. They chose it because most English
+speakers cannot discuss argumentation *without* war language. The insight
+wasn't that people use warlike metaphors for arguments. The metaphor
+*structures the activity itself*.
 
-Lakoff briefly suggested ARGUMENT IS DANCE as an alternative frame,
-noting that a culture with this metaphor would argue differently. He
-didn't develop the idea, which is itself revealing — even the theorist
-who identified the war frame couldn't fully escape it.
+Lakoff proposed ARGUMENT IS DANCE as a thought experiment (see
+argument-is-dance), but the war entry stands on its own. It's the
+frame we actually have.
 
 ## References
 
