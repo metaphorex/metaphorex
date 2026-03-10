@@ -2,15 +2,15 @@
 slug: shared-resources
 name: "Shared Resources"
 related:
-  - shared-grazing-land
+  - animal-husbandry
   - systems-performance
 roles:
   - resource
   - contributor
   - consumer
   - governance
-  - depletion
-  - sustainability
+  - boundary
+  - rule
 ---
 
 Any pool of finite resources accessed by multiple parties under some

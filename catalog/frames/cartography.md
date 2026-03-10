@@ -3,7 +3,6 @@ slug: cartography
 name: "Cartography"
 related:
   - representation
-  - observation
 roles:
   - mapmaker
   - territory
@@ -11,7 +10,6 @@ roles:
   - scale
   - legend
   - projection
-  - distortion
 ---
 
 The art of representing spatial reality in compressed, selective form. Every

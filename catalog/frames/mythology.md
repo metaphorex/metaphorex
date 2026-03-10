@@ -9,7 +9,7 @@ roles:
   - narrative
   - moral
   - transformation
-  - boundary-crossing
+  - threshold
 ---
 
 Sacred or traditional narratives that encode a culture's understanding of

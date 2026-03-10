@@ -4,14 +4,13 @@ name: "Social Behavior"
 related:
   - social-roles
   - competition
-  - dominance-display
 roles:
   - individual
   - group
   - norm
   - status
-  - cooperation
-  - conflict
+  - challenger
+  - ally
 ---
 
 How organisms (including humans) interact in groups. Covers

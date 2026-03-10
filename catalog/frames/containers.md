@@ -8,8 +8,7 @@ roles:
   - container
   - contents
   - opening
-  - capacity
-  - flow-restriction
+  - boundary
 ---
 
 Bounded enclosures that hold, protect, and regulate access to their contents.

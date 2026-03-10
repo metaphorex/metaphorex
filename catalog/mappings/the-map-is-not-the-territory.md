@@ -8,16 +8,16 @@ categories:
   - cognitive-science
   - systems-thinking
   - philosophy
-author: metaphorex
+author: fshot
 contributors: []
 related: []
 ---
 
 ## What It Brings
 
-The single most important thing any metaphor catalog can say: every
-representation omits. A map is useful precisely because it leaves things
-out — a 1:1 map is just the territory again, and useless for navigation.
+The single most important thing a metaphor catalog can say: every
+representation omits. A map is useful *because* it leaves things out.
+A 1:1 map is the territory again, useless for navigation.
 
 This is the meta-entry. It applies to every other mapping in this
 repository, including itself.
@@ -32,8 +32,8 @@ Key structural parallels:
   same holds for any abstraction: the level of detail determines what's
   legible and what's invisible.
 - **Maps are made for purposes** — a road map and a geological survey
-  of the same area look nothing alike. The useful question about any
-  model isn't "is it true?" but "what is it for?"
+  of the same area look nothing alike. The question for any model isn't
+  "is it true?" but "what is it for?"
 
 The real gift: intellectual humility as a structural feature, not a
 personality trait. If you internalize this mapping, you stop asking
@@ -41,25 +41,24 @@ personality trait. If you internalize this mapping, you stop asking
 
 ## Where It Breaks
 
-Taken to its logical extreme, this becomes corrosive. If no map is the
-territory, why make maps at all? If every model is wrong, why bother
-modeling?
+Taken to its extreme, this becomes corrosive. If no map is the
+territory, why make maps? If every model is wrong, why bother modeling?
 
-This is the nihilism trap, and it's real. Three failure modes:
+This is the nihilism trap. Three failure modes:
 
 - **Analysis paralysis** — "we can't act on this model because it's
   incomplete" becomes an excuse for never acting on anything. Every model
   is incomplete. Act anyway.
 - **False equivalence** — "all models are wrong" does not mean all
-  models are equally wrong. A topographic map of Denver is more useful
-  for hiking than a subway map of Tokyo. The incompleteness of models
-  is not a license to treat them as interchangeable.
+  models are equally wrong. A topographic map is more useful for hiking
+  than a subway map. The incompleteness of models is not a license to
+  treat them as interchangeable.
 - **Weaponized skepticism** — "that's just a model" becomes a way to
   dismiss any framework you find inconvenient. Climate models are
-  incomplete; this does not make them useless.
+  incomplete. This does not make them useless.
 
-The answer to "why make maps?" is: because maps that are useful don't
-need to be complete. Usefulness is the standard, not truth.
+The answer: useful maps don't need to be complete. Usefulness is the
+standard, not truth.
 
 ## Expressions
 
@@ -78,10 +77,10 @@ need to be complete. Usefulness is the standard, not truth.
 ## Origin Story
 
 Alfred Korzybski coined the phrase in *Science and Sanity* (1933) as
-part of his general semantics program — an attempt to make people aware
-of the gap between symbols and referents. Borges wrote "On Exactitude
-in Science" (1946), a one-paragraph story about a map so detailed it
-covered the entire territory 1:1, and was therefore abandoned as useless.
+part of his general semantics program to make people aware of the gap
+between symbols and referents. Borges wrote "On Exactitude in Science"
+(1946), a one-paragraph story about a map so detailed it covered the
+territory 1:1, and was abandoned as useless.
 Gregory Bateson picked it up in *Steps to an Ecology of Mind* (1972)
 and extended it into cybernetics and systems theory. George Box gave it
 its statistical form: "All models are wrong, but some are useful" (1976).

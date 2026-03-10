@@ -2,7 +2,6 @@
 slug: embodied-experience
 name: "Embodied Experience"
 related:
-  - bodily-failure
   - natural-selection
 roles:
   - body
@@ -10,6 +9,9 @@ roles:
   - movement
   - orientation
   - boundary
+  - sufferer
+  - symptom
+  - cause
 ---
 
 The lived experience of having a body — sensation, proprioception,

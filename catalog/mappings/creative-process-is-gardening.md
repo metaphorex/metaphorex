@@ -1,13 +1,13 @@
 ---
 slug: creative-process-is-gardening
 name: "Creative Process Is Gardening"
-kind: cross-field-mapping
+kind: conceptual-metaphor
 source_frame: horticulture
 target_frame: creative-process
 categories:
   - systems-thinking
   - arts-and-culture
-author: metaphorex
+author: fshot
 contributors: []
 related:
   - creative-process-is-construction
@@ -37,28 +37,27 @@ Key structural parallels:
   The best gardens (and the best creative work) have productive
   adjacencies that nobody planned.
 - **Cultivation vs. creation** — the gardener cultivates: tends,
-  nurtures, stewards. The word implies that the thing being grown has
-  its own agency. This is the deepest gift of the metaphor — it
-  suggests that ideas have a life of their own, and the creator's job
-  is to serve them.
+  nurtures, stewards. The word implies the thing being grown has
+  its own agency. This is the metaphor's deepest gift: ideas have
+  a life of their own, and the creator's job is to serve them.
 
 ## Where It Breaks
 
-- **Gardens still need planning.** Soil preparation, climate assessment,
+- **Gardens still need planning** — soil preparation, climate assessment,
   layout, drainage. The metaphor can romanticize "going with the flow"
-  in ways that excuse a lack of craft. Eno himself is meticulous about
-  setting up generative systems — the emergence is *designed*.
-- **Pure emergence produces wilderness, not a garden.** A garden is
+  to excuse a lack of craft. Eno himself is meticulous about
+  setting up generative systems. The emergence is *designed*.
+- **Pure emergence produces wilderness, not a garden** — a garden is
   *curated* emergence. Without active pruning and shaping, you don't
-  get a productive creative practice — you get a folder of unfinished
+  get a productive creative practice; you get a folder of unfinished
   drafts. The metaphor needs the gardener's agency to work.
-- **Gardens are slow; some creative work isn't.** The metaphor imports
+- **Gardens are slow; some creative work isn't** — the metaphor imports
   patience as a virtue, which is useful for novels and less useful for
   ad copy. Not everything benefits from letting it "grow organically."
-- **The metaphor can obscure power.** Who owns the garden? Who decides
+- **The metaphor can obscure power** — who owns the garden? Who decides
   what's a weed and what's a flower? In organizational contexts,
-  "cultivating a creative culture" can mean "I set the aesthetic
-  criteria and you do the growing."
+  "cultivating a creative culture" can mean "I set the criteria
+  and you do the growing."
 
 ## Expressions
 
@@ -81,15 +80,15 @@ Key structural parallels:
 Brian Eno articulated this most clearly in his 1996 talk "Gardening vs.
 Architecture" (later developed in various interviews and his diary
 *A Year with Swollen Appendices*). His argument: the dominant metaphor
-for creative work is architecture — you have a plan, you execute the
-plan, you're done. But his actual practice is gardening — you set up
+for creative work is architecture: you have a plan, you execute the
+plan, you're done. But his actual practice is gardening: you set up
 conditions (a generative music system, a set of Oblique Strategies
 cards, a studio configuration) and then you *tend* what emerges.
 
 The insight has roots in Japanese garden aesthetics (controlled wildness),
 permaculture design (working with natural systems rather than against
-them), and complexity theory (emergence from simple rules). But Eno gave
-it legs in Western creative practice by connecting it to specific working
+them), and complexity theory (emergence from simple rules). Eno gave it
+legs in Western creative practice by connecting it to specific working
 methods.
 
 ## References

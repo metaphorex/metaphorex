@@ -3,7 +3,7 @@ slug: social-roles
 name: "Social Roles"
 related:
   - mythology
-  - observation
+  - social-behavior
 roles:
   - role
   - occupant

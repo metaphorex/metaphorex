@@ -3,14 +3,15 @@ slug: collaborative-work
 name: "Collaborative Work"
 related:
   - social-roles
-  - technical-discussion
   - shared-resources
 roles:
   - collaborator
+  - facilitator
   - task
-  - process
   - artifact
+  - proposal
   - review
+  - decision
   - consensus
 ---
 

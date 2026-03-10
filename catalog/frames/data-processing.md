@@ -4,7 +4,6 @@ name: "Data Processing"
 related:
   - fluid-dynamics
   - systems-performance
-  - event-systems
 roles:
   - data
   - pipeline

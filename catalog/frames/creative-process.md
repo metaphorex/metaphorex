@@ -2,7 +2,7 @@
 slug: creative-process
 name: "Creative Process"
 related:
-  - construction
+  - architecture-and-building
   - representation
 roles:
   - creator

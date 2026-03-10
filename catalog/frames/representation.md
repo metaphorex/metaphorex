@@ -8,7 +8,6 @@ roles:
   - model
   - subject
   - abstraction
-  - fidelity
   - omission
   - interpreter
 ---

@@ -9,9 +9,9 @@ roles:
   - soil
   - seed
   - season
-  - pruning
   - harvest
   - pest
+  - root
 ---
 
 The deliberate cultivation of plants — planting, tending, pruning, and

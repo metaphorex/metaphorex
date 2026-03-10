@@ -5,9 +5,9 @@ kind: paradigm
 source_frame: natural-selection
 target_frame: competition
 categories:
-  - cognitive-science
   - organizational-behavior
-author: metaphorex
+  - systems-thinking
+author: fshot
 contributors: []
 related:
   - the-commons
@@ -16,10 +16,9 @@ related:
 ## What It Brings
 
 Explains how complex, adapted systems emerge without anyone planning
-them. Markets, ecosystems, languages, technologies — all shaped by
-selection pressure rather than design. The mapping gives you a powerful
-lens: instead of asking "who designed this?" you ask "what selection
-pressures produced this?"
+them. Markets, ecosystems, languages, technologies: all shaped by
+selection pressure rather than design. The lens shifts the question from
+"who designed this?" to "what selection pressures produced this?"
 
 Key structural parallels:
 
@@ -36,32 +35,32 @@ Key structural parallels:
 
 ## Where It Breaks
 
-This is where the entry earns its keep, because "survival of the fittest"
-is one of the most dangerously misapplied metaphors in history.
+"Survival of the fittest" is one of the most dangerously misapplied
+metaphors in history.
 
-- **"Fittest" does not mean "strongest."** It means best-fitting the
-  current environment. Cockroaches are fitter than dinosaurs — not
-  because they're more powerful, but because they're more adaptable.
-  The metaphor smuggles in an assumption that winners deserve to win
-  because they're superior. They don't. They fit.
-- **Cooperation is at least as fundamental as competition.** Symbiosis,
-  mutualism, kin selection, and group selection are all evolutionary
-  strategies. Mitochondria didn't compete their way into cells; they
+- **"Fittest" does not mean "strongest"** — it means best-fitting the
+  current environment. Cockroaches are fitter than dinosaurs, not
+  because they're more powerful but because they're more adaptable.
+  The metaphor smuggles in the assumption that winners deserve to win.
+  They don't. They fit.
+- **Cooperation is as fundamental as competition** — symbiosis,
+  mutualism, kin selection, and group selection are evolutionary
+  strategies too. Mitochondria didn't compete their way into cells; they
   moved in and both parties benefited. The metaphor foregrounds
-  competition and backgrounds cooperation, which is a massive distortion
-  of actual evolutionary biology.
-- **Social Darwinism is the canonical weaponized metaphor.** Spencer
+  competition and hides cooperation, a massive distortion of
+  evolutionary biology.
+- **Social Darwinism is the canonical misapplication** — Spencer
   (who coined the phrase, not Darwin) used it to justify laissez-faire
   economics and racial hierarchy. The argument: if nature selects the
-  fit, then society should too. This is a moral claim dressed up as a
-  natural law, and it has caused immense harm.
-- **Evolution has no direction.** It doesn't optimize toward "better" —
-  it optimizes toward "fitting." Parasites are as evolved as their
+  fit, then society should too. This is a moral claim dressed as
+  natural law. It has caused immense harm.
+- **Evolution has no direction** — it doesn't optimize toward "better"
+  but toward "fitting." Parasites are as evolved as their
   hosts. The metaphor imports a progress narrative that biology doesn't
   support.
-- **Individual selection isn't the whole story.** The "selfish gene"
+- **Individual selection isn't the whole story** — the "selfish gene"
   framing (Dawkins) is one lens. Multi-level selection, niche
-  construction, and epigenetics all complicate the picture. Reducing
+  construction, and epigenetics complicate the picture. Reducing
   evolution to individual competition is like reducing an economy to
   individual transactions.
 
@@ -83,13 +82,13 @@ is one of the most dangerously misapplied metaphors in history.
 
 ## Origin Story
 
-Darwin published *On the Origin of Species* in 1859, but the phrase
-"survival of the fittest" was Herbert Spencer's, coined in *Principles
-of Biology* (1864) after reading Darwin. Darwin adopted it in later
-editions, somewhat reluctantly. Spencer ran with it much further than
-Darwin intended — applying it to human societies, economies, and races.
-The resulting Social Darwinism became intellectual scaffolding for
-colonialism, eugenics, and robber-baron capitalism.
+Darwin published *On the Origin of Species* in 1859, but Herbert
+Spencer coined "survival of the fittest" in *Principles of Biology*
+(1864) after reading Darwin. Darwin adopted the phrase in later
+editions, reluctantly. Spencer pushed it far beyond Darwin's intent,
+applying it to human societies, economies, and races. Social Darwinism
+became intellectual scaffolding for colonialism, eugenics, and
+robber-baron capitalism.
 
 The irony: Darwin's actual insight was about *fit* (adaptation to
 environment), not *fitness* (superiority). Spencer's rebranding turned

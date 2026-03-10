@@ -2,7 +2,7 @@
 slug: program-failure-is-bodily-failure
 name: "Program Failure Is Bodily Failure"
 kind: conceptual-metaphor
-source_frame: bodily-failure
+source_frame: embodied-experience
 target_frame: software-programs
 categories:
   - software-engineering
@@ -15,10 +15,10 @@ related:
 
 ## What It Brings
 
-Maps the visceral, universal experience of bodily malfunction onto software
-failure. This makes abstract computational problems *feelable* — when someone
-says "the server is choking," every listener immediately grasps the urgency,
-the partial functioning, the sense that something is stuck.
+Maps the visceral experience of bodily malfunction onto software failure.
+This makes abstract computational problems *feelable*: "the server is
+choking" conveys urgency, partial functioning, and the sense that
+something is stuck.
 
 Key structural parallels:
 
@@ -33,12 +33,12 @@ Key structural parallels:
 
 ## Where It Breaks
 
-- **Programs don't suffer.** The metaphor imports empathy where none is
+- **Programs don't suffer** — the metaphor imports empathy where none is
   warranted. "The poor server" anthropomorphizes in ways that can distort
   prioritization.
-- **Bodies heal themselves; programs don't.** Saying a service "recovered"
+- **Bodies heal themselves; programs don't** — "the service recovered"
   implies self-healing, but usually a human or watchdog process intervened.
-- **Bodily failure is continuous; program failure is often binary.** A
+- **Bodily failure is continuous; program failure is often binary** — a
   process is running or it isn't. The metaphor can obscure this by suggesting
   gradual degradation where there's actually a hard crash.
 
@@ -56,11 +56,11 @@ Key structural parallels:
 
 ## Origin Story
 
-Deeply rooted in the broader PROGRAMS ARE PEOPLE conceptual metaphor
-identified by Lakoff and others. The bodily-failure specialization is
-particularly common in operations and SRE culture, where practitioners
-develop an almost clinical relationship with system health — complete
-with "diagnoses," "autopsies" (post-mortems), and "vital signs" (metrics).
+Rooted in the broader PROGRAMS ARE PEOPLE conceptual metaphor identified
+by Lakoff and others. The bodily-failure specialization thrives in
+operations and SRE culture, where practitioners develop a clinical
+relationship with system health, complete with "diagnoses," "autopsies"
+(post-mortems), and "vital signs" (metrics).
 
 ## References
 
