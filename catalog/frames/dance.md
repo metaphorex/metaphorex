@@ -12,9 +12,7 @@ roles:
   - rhythm
   - step
   - choreography
-  - improvisation
   - audience
-  - flow
 ---
 
 Coordinated movement between bodies, ranging from rigidly choreographed

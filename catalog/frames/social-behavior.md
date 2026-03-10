@@ -9,10 +9,8 @@ roles:
   - group
   - norm
   - status
-  - cooperation
-  - conflict
   - challenger
-  - display-behavior
+  - ally
 ---
 
 How organisms (including humans) interact in groups. Covers

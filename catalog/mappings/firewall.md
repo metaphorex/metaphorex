@@ -14,49 +14,52 @@ related: []
 
 ## What It Brings
 
-Security as BARRIER: something placed between danger and what you're
+Security as barrier: something placed between danger and what you're
 protecting. Physical, spatial, binary: fire side / safe side.
 
-A literal firewall is a fireproof wall between buildings, designed to stop fire
-from spreading. The mapping to network security preserves the core structure
-remarkably well: there is an untrusted outside (the internet, the fire), a
-trusted inside (the internal network, the building you're protecting), and a
-barrier between them that enforces separation. You don't negotiate with a
-firewall. You don't reason with it. It simply blocks.
-
-This spatial simplicity makes network security *thinkable* for
-non-specialists. Even a CEO who has never read an RFC understands "we're
-behind the firewall." The metaphor collapses packet inspection rules
-into a single physical image: a wall that fire cannot cross.
+- **Binary separation** — a literal firewall is a fireproof wall between
+  buildings, designed to stop fire from spreading. The mapping to network
+  security preserves the core structure remarkably well: untrusted
+  outside (the internet, the fire), trusted inside (the internal
+  network, the building), and a barrier that enforces separation. You
+  don't negotiate with a firewall. It simply blocks.
+- **Physical-to-digital fidelity** — the structural correspondence is
+  unusually tight. Both the source and target have an inside, an
+  outside, and a non-negotiable boundary. Few dead metaphors preserve
+  their source geometry this faithfully.
+- **Instant legibility** — the spatial simplicity makes network security
+  *thinkable* for non-specialists. Even a CEO who has never read an RFC
+  understands "we're behind the firewall." The metaphor collapses packet
+  inspection rules into a single physical image: a wall that fire cannot
+  cross.
 
 ## Where It Breaks
 
-Fire is indiscriminate: it spreads in all directions, consuming whatever is
-combustible, following physics. Network threats are targeted, adaptive, and
-intelligent. An attacker probes for specific vulnerabilities, changes tactics
-when blocked, and may already be inside the perimeter. The firewall metaphor
-assumes the threat is *outside*. Modern breaches overwhelmingly start
-*inside*: phishing, compromised credentials, supply chain attacks.
-
-A physical firewall is passive: once built, it sits there being fireproof.
-A network firewall must inspect every packet, maintain state tables, update
-rules, and make real-time decisions. Less a wall than a fast, paranoid
-customs officer.
-
-The barrier metaphor also implies a clean perimeter: inside is safe,
-outside is dangerous. This held in the 1990s when networks had clear
-boundaries. It is catastrophically wrong now. Cloud services, remote
-workers, SaaS integrations, and mobile devices have dissolved the
-perimeter.
-"Zero trust" architecture is an explicit, named rejection of the firewall
-metaphor: assume nothing is safe, verify everything, trust no location.
-
-The metaphor died once (from literal fire barrier to unremarkable technical
-term), got resurrected in networking, and is now dying again as the perimeter
-model it encodes becomes obsolete. Meanwhile it's escaping into casual use
-("I need to firewall my work from my personal life"), where the binary
-inside/outside framing might actually be *more* appropriate than it is in
-the domain that adopted it.
+- **Threats aren't fire** — fire is indiscriminate: it spreads in all
+  directions, consuming whatever is combustible, following physics.
+  Network threats are targeted, adaptive, and intelligent. An attacker
+  probes for specific vulnerabilities, changes tactics when blocked, and
+  may already be inside the perimeter. The firewall metaphor assumes the
+  threat is *outside*. Modern breaches overwhelmingly start *inside*:
+  phishing, compromised credentials, supply chain attacks.
+- **Walls are passive** — a physical firewall sits there being
+  fireproof. A network firewall must inspect every packet, maintain
+  state tables, update rules, and make real-time decisions. Less a wall
+  than a fast, paranoid customs officer.
+- **The perimeter dissolved** — the barrier metaphor implies a clean
+  boundary: inside is safe, outside is dangerous. This held in the 1990s
+  when networks had clear edges. It is catastrophically wrong now. Cloud
+  services, remote workers, SaaS integrations, and mobile devices have
+  dissolved the perimeter. "Zero trust" architecture is an explicit
+  rejection of the firewall metaphor: assume nothing is safe, verify
+  everything, trust no location.
+- **Double death, second life** — the metaphor died once (from literal
+  fire barrier to unremarkable technical term), got resurrected in
+  networking, and is now dying again as the perimeter model it encodes
+  becomes obsolete. Meanwhile it is escaping into casual use ("I need to
+  firewall my work from my personal life"), where the binary
+  inside/outside framing might actually be *more* appropriate than it is
+  in the domain that adopted it.
 
 ## Expressions
 

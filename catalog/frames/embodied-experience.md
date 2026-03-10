@@ -12,7 +12,6 @@ roles:
   - sufferer
   - symptom
   - cause
-  - recovery
 ---
 
 The lived experience of having a body — sensation, proprioception,

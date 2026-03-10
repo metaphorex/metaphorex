@@ -15,45 +15,48 @@ related:
 
 ## What It Brings
 
-System throughput is limited by its narrowest point. Widen everything else
-(bigger pipes, faster processors, more staff), but if you don't widen the
-neck, nothing changes. The flow rate of the entire system equals the flow
-rate of its most constrained point.
+System throughput is limited by its narrowest point. Widen everything
+else (bigger pipes, faster processors, more staff), but if you don't
+widen the neck, nothing changes. The flow rate of the entire system
+equals the flow rate of its most constrained point.
 
-This is Goldratt's Theory of Constraints compressed into a single word. The
-physical mapping carries real structural insight: a bottle has a wide body
-(excess capacity) narrowing to a single restriction (the constraint). Pour
-faster and all you get is spillage, not throughput. The metaphor tells you
-*where to look* and *what not to bother optimizing*.
-
-The metaphor is so dead that "bottleneck analysis" is a formal methodology
-in operations research, taught in business schools without anyone pausing to
-note they're extending a figure of speech about glass containers.
-Profilers identify bottlenecks. Capacity planners eliminate them. The
-word has become a technical term.
+- **Constraint as geometry** — Goldratt's Theory of Constraints
+  compressed into a single word. A bottle has a wide body (excess
+  capacity) narrowing to a single restriction (the constraint). Pour
+  faster and all you get is spillage, not throughput. The metaphor tells
+  you *where to look* and *what not to bother optimizing*.
+- **Diagnostic focus** — the physical mapping carries real structural
+  insight. It directs attention to the narrowest point and away from
+  everything else. This is genuinely useful: most optimization effort is
+  wasted on non-constraints.
+- **Terminal dead metaphor** — "bottleneck analysis" is a formal
+  methodology in operations research, taught in business schools without
+  anyone pausing to note they're extending a figure of speech about
+  glass containers. Profilers identify bottlenecks. Capacity planners
+  eliminate them. The word has become a technical term.
 
 ## Where It Breaks
 
-Bottles have ONE neck. Real systems have shifting, multiple, or
-cascading bottlenecks. Widen one neck and you reveal the next; the
-constraint migrates downstream. Goldratt knew this (his methodology
-is a cycle: identify, exploit, subordinate, elevate, repeat), but the
-bottleneck metaphor doesn't encode the cycle. It implies a single,
-findable, fixable restriction. Many performance engineers have optimized
-one bottleneck and declared victory, only to discover they'd relocated
-the constraint.
-
-A bottleneck is fixed geometry. It doesn't adapt, hide, or move. Real
-performance constraints do all three. A database that's fine at 100 QPS
-becomes the bottleneck at 10,000 QPS, then stops being the bottleneck when
-you add read replicas and the network becomes the constraint instead. The
-physical metaphor suggests permanence; real constraints are dynamic.
-
-The metaphor also implies that flow is *good*, that the goal is always
-maximum throughput. But sometimes the bottleneck does useful work.
-A code review process that slows down deployments is a "bottleneck," but
-removing it might increase throughput of bugs along with features. Not every
-narrow neck is a problem. Some are filters.
+- **Bottles have one neck** — real systems have shifting, multiple, or
+  cascading bottlenecks. Widen one neck and you reveal the next; the
+  constraint migrates downstream. Goldratt knew this (his methodology is
+  a cycle: identify, exploit, subordinate, elevate, repeat), but the
+  bottleneck metaphor doesn't encode the cycle. It implies a single,
+  findable, fixable restriction. Many performance engineers have
+  optimized one bottleneck and declared victory, only to discover they
+  had relocated the constraint.
+- **Fixed geometry, dynamic reality** — a bottleneck doesn't adapt,
+  hide, or move. Real performance constraints do all three. A database
+  that's fine at 100 QPS becomes the bottleneck at 10,000 QPS, then
+  stops being the bottleneck when you add read replicas and the network
+  becomes the constraint instead. The physical metaphor suggests
+  permanence; real constraints are dynamic.
+- **Throughput isn't always good** — the metaphor implies that flow is
+  the goal, that maximum throughput is always desirable. But sometimes
+  the bottleneck does useful work. A code review process that slows
+  deployments is a "bottleneck," but removing it might increase
+  throughput of bugs along with features. Not every narrow neck is a
+  problem. Some are filters.
 
 ## Expressions
 

@@ -10,7 +10,6 @@ roles:
   - scale
   - legend
   - projection
-  - distortion
 ---
 
 The art of representing spatial reality in compressed, selective form. Every

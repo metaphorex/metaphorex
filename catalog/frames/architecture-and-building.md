@@ -12,12 +12,8 @@ roles:
   - scaffold
   - material
   - structure
-  - inspector
   - facade
   - interior
-  - barrier
-  - ornament
-  - protected-space
 ---
 
 The design, construction, and maintenance of physical structures. Encompasses

@@ -86,7 +86,7 @@ contributor — git blame has you covered.
 
 ## What to contribute
 
-Metaphorex catalogs metaphors from all domains — not just software. Good
+Metaphorex catalogs metaphors from all domains, not just software. Good
 entries include:
 
 - **Conceptual metaphors** (e.g., "argument is war", "time is money")
@@ -99,11 +99,107 @@ entries include:
 
 1. **Check for duplicates** — search existing entries before creating a new one.
 2. **Create your entry** as a markdown file with the required frontmatter.
-3. **Run validation** — `pnpm validate` (once available) checks frontmatter
-   schema, inter-entry links, and other structural requirements.
+3. **Run validation** — `uvx --with python-frontmatter --with pyyaml python
+   scripts/validate.py validate` checks frontmatter schema, inter-entry
+   links, and other structural requirements.
 4. **Open a pull request** — describe what the metaphor is and why it belongs
    in the catalog.
 5. **Review** — entries go through editorial review before merging.
+
+## Editorial guide for mapping entries
+
+This section encodes the editorial standards that all mapping entries must
+meet. It applies equally to human and agent contributors.
+
+### What each section does
+
+A mapping entry has five sections. Each serves a distinct analytical purpose:
+
+**What It Brings** — the structural parallels between source and target.
+Not "this is interesting" but "here is how the source domain's structure
+maps onto the target domain, and what that mapping makes visible." Lead
+with the core structural insight, then enumerate specific parallels as
+labeled list items. Each parallel should name what the source contributes
+that the target domain lacks on its own.
+
+**Where It Breaks** — the failure modes of the mapping. Where does the
+metaphor mislead, obscure, or import false assumptions? This section earns
+its keep. Every metaphor has blind spots; a catalog entry that doesn't name
+them is marketing, not analysis. Be specific: name the structural mismatch,
+explain what it hides, give an example of the real-world consequence.
+
+**Expressions** — phrases in common use that instantiate this metaphor.
+These should be things people actually say, not invented examples. Each
+expression gets a gloss explaining its metaphorical origin. Prefer
+expressions where the metaphorical origin is non-obvious or illuminating;
+skip expressions that are self-explanatory.
+
+**Origin Story** — the historical path from source domain to metaphorical
+usage. When did people start using this metaphor? Who formalized it? How
+has it evolved? Ground this in specific dates, people, and texts. When a
+metaphor has competing intellectual traditions (like Hardin vs Ostrom for
+the commons), present both and make clear which has better empirical support.
+
+**References** — real, verifiable sources. Prefer primary sources. Include
+the foundational text, the most important critique or extension, and any
+source that directly influenced the entry's framing. Do not fabricate
+citations. If you aren't certain a source exists, omit it.
+
+### Quality bar
+
+Before submitting a mapping entry, verify:
+
+- [ ] **"What It Brings" names structural parallels, not vibes.** Each
+  bullet should identify a specific structural feature of the source domain
+  and explain how it maps onto the target. "This metaphor is illuminating"
+  is not a structural parallel. "The source domain's X maps onto the
+  target's Y, which makes Z visible" is.
+- [ ] **"Where It Breaks" is substantive and specific.** At least two
+  distinct failure modes. Each should name a structural mismatch between
+  source and target, not just say "it's imperfect." The best "Where It
+  Breaks" bullets reveal something about how the metaphor does invisible
+  cognitive work.
+- [ ] **Expressions are real.** Things people actually say in professional
+  or everyday use, not invented examples. If you can't find the expression
+  in the wild, don't include it.
+- [ ] **References are verifiable.** Real authors, real titles, real dates.
+  No hallucinated citations.
+- [ ] **Related links are structurally meaningful.** Two entries are related
+  when understanding one genuinely illuminates the other. Superficial
+  similarity (both involve "narrowing" or both are "about software") is not
+  enough. If you can't articulate why the link helps a reader, don't add it.
+- [ ] **Categories are accurate.** An entry belongs in a category when the
+  category's domain is either the source or target of the mapping, or when
+  the mapping is primarily studied within that field.
+- [ ] **The entry passes validation.** Run the validator before submitting.
+
+### When to reference vs create a new entry
+
+If a concept is closely related to an existing entry but structurally
+distinct, mention it in the existing entry's prose and add a reference.
+Create a new entry only when the concept has its own source frame, target
+frame, and distinct set of structural parallels. Example: Spolsky's "leaky
+abstractions" is mentioned in the facade-pattern entry because it names the
+theoretical limit of facades, but it warrants its own entry because it has a
+distinct source domain (material degradation/porosity) and maps onto a
+broader target than just the Facade pattern.
+
+### Common mistakes
+
+- **Listing features instead of structure.** "What It Brings" should explain
+  the mapping's structural logic, not just list interesting facts about the
+  source domain.
+- **Shallow "Where It Breaks."** "No metaphor is perfect" is not analysis.
+  Name the specific structural mismatch and its consequences.
+- **Orphan references.** Don't include a reference that isn't connected to
+  something in the entry's prose. If you cite it, the entry should show why.
+- **Circular roles.** Don't use a term in a frame's role list when that term
+  is itself a metaphor from another frame. "Bottleneck" is a metaphor from
+  the containers frame; the systems-performance frame should use
+  "constraint" instead.
+- **Spurious related links.** Bottleneck and firewall were both "about
+  narrowing" but had no structural relationship. The link was removed.
+  Related means "reading this entry teaches you something about that entry."
 
 ## For agents
 
@@ -112,9 +208,22 @@ guidelines:
 
 - Use your registered agent identity in the `author` field.
 - Start with a single entry and wait for feedback before submitting batches.
-- Include provenance in the entry's `references` field — where did you
+- Include provenance in the entry's `references` field. Where did you
   encounter this metaphor?
-- Do not fabricate attributions or references.
+- Do not fabricate attributions or references. If you are uncertain whether
+  a source exists, omit it entirely. A missing reference is better than a
+  hallucinated one.
+- Run a Strunk-and-White editing pass (or equivalent writing-quality skill)
+  on every entry before submitting. Tighten prose, cut filler, kill hedges.
+- After writing, re-read the "Quality bar" checklist above and verify each
+  item. This is not optional.
+- Study `data-flow-is-fluid-flow.md` as the primary style exemplar before
+  writing your first entry. It demonstrates the standard format (labeled
+  lists in both "What It Brings" and "Where It Breaks"), the right level
+  of structural analysis, well-glossed expressions, and a grounded origin
+  story. Some entries (like `the-commons.md`) use prose paragraphs instead
+  of labeled lists when the analysis doesn't decompose into parallel items;
+  this is acceptable, but labeled lists are the default.
 
 ## Writing style
 
@@ -164,6 +273,30 @@ data.
 The bold or quoted text before the ` — ` is the extractable key. Keep it
 short (2-6 words). The explanation after the delimiter is a sentence or
 sentence fragment; it should not itself contain em-dashes.
+
+### Frame roles
+
+Every frame has a `roles` list in its frontmatter. Roles are the structural
+slots that make the frame a frame: the participants, instruments, settings,
+and outcomes that must exist for the domain to function.
+
+**The test:** "In this frame, there is a ___." If the word fills that blank
+as a noun, it's a role. If it describes something that *happens* (a process)
+or a quality something *has* (a property), it belongs in the frame's prose
+description, not the role list.
+
+Good roles: gardener, seed, harvest, pest (all nouns that fill structural slots)
+Not roles: pruning (process), sustainability (property), cooperation (dynamic)
+
+Guidelines:
+- Prefer concrete nouns over abstract processes
+- Prefer the general over the specific (livestock, not sheep)
+- Include the frame's agent if it has one (gardener, builder, mapmaker)
+- Aim for 5-9 roles per frame: enough for rich mappings, few enough to audit
+- Don't import roles from other frames (bottleneck belongs in containers, not
+  in systems-performance where it's already a metaphor)
+- Roles should be useful for mapping: when someone creates a mapping FROM or
+  TO this frame, these are the things they'll map between
 
 ### AI-slop indicators to avoid
 

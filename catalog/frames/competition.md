@@ -7,9 +7,7 @@ related:
   - argumentation
 roles:
   - competitor
-  - rival
   - arena
-  - advantage
   - strategy
   - outcome
   - prize

@@ -19,57 +19,51 @@ A framework for shared resources and the tension between individual
 incentive and collective benefit. The source mapping is vivid: a shared
 grazing pasture where each herder benefits from adding one more cow, but
 if every herder does this, the pasture is destroyed. Individual
-rationality produces collective ruin.
+rationality produces collective ruin. The pattern recurs everywhere:
+open source projects, shared codebases, public APIs, fisheries, the
+atmosphere, and this project. Any resource that is non-excludable (hard
+to fence off) and rivalrous (my use diminishes yours) is a commons.
 
-The pattern recurs everywhere: open source projects, shared codebases,
-public APIs, knowledge bases, Wikipedia, fisheries, the atmosphere, and
-this project. Any resource that is non-excludable (hard to fence off)
-and rivalrous (my use diminishes yours) is a commons.
-
-But the archetype has two versions, and which one you carry determines what
+The archetype has two versions, and which one you carry determines what
 you build:
 
-**Hardin's version** (1968): the commons inevitably degrades. Rational actors
-will always overexploit shared resources. The only solutions are privatization
-or top-down regulation. This framing dominated policy for decades.
-
-**Ostrom's version** (1990): communities routinely govern commons
-successfully, and have for centuries. Her eight design principles (clear
-boundaries, graduated sanctions, collective choice arrangements,
-monitoring, conflict resolution mechanisms) describe how real communities
-manage shared resources without privatizing them or handing control to
-the state.
-
-Ostrom won the Nobel Prize in Economics for this work. Hardin's essay is still
-cited more often.
+- **Hardin's tragedy** — the commons inevitably degrades. Rational actors
+  will always overexploit shared resources. The only solutions are
+  privatization or top-down regulation. This framing dominated policy
+  for decades.
+- **Ostrom's governance** — communities routinely govern commons
+  successfully, and have for centuries. Her eight design principles
+  (clear boundaries, graduated sanctions, collective choice
+  arrangements, monitoring, conflict resolution mechanisms) describe how
+  real communities manage shared resources without privatizing them or
+  handing control to the state. Ostrom won the Nobel Prize in Economics
+  for this work. Hardin's essay is still cited more often.
 
 ## Where It Breaks
 
-Hardin's version assumes purely self-interested rational actors. Ostrom
-showed this is empirically wrong. Communities routinely govern commons
-successfully, from Swiss alpine meadows to Japanese fishing villages to
-Maine lobster fisheries. The "tragedy" framing is a misleading metaphor
-that biases toward privatization: a thought experiment dressed as
-inevitability.
-
-The grazing-land metaphor also implies that use depletes the resource.
-This maps well to fisheries and forests but poorly to information commons.
-Reading a Wikipedia article doesn't degrade it for you. Software doesn't
-wear out when copied. The commons metaphor, applied to information,
-imports scarcity thinking where abundance applies.
-Open source is not a grazing pasture; code is not grass.
-
-The archetype also struggles with *scale*. Ostrom's principles work in
-communities where members know each other, can monitor behavior, and can
-impose social sanctions. A global open source project with anonymous
-contributors lacks these properties. The commons metaphor suggests that
-what works for a village fishery should work for npm, which is not
-obviously true.
-
-Framing something as "a commons" is itself a political act. It implies
-shared ownership and collective governance. Calling the same resource
-"intellectual property" implies private ownership and market governance.
-The metaphor selects the solution before the analysis begins.
+- **Tragedy assumes selfishness** — Hardin's version assumes purely
+  self-interested rational actors. Ostrom showed this is empirically
+  wrong: communities from Swiss alpine meadows to Japanese fishing
+  villages to Maine lobster fisheries govern commons successfully. The
+  "tragedy" framing is a thought experiment dressed as inevitability,
+  biasing toward privatization.
+- **Information isn't grass** — the grazing-land metaphor implies that
+  use depletes the resource. This maps well to fisheries and forests but
+  poorly to information commons. Reading a Wikipedia article doesn't
+  degrade it. Software doesn't wear out when copied. The commons
+  metaphor, applied to information, imports scarcity thinking where
+  abundance applies.
+- **Scale breaks governance** — Ostrom's principles work in communities
+  where members know each other, can monitor behavior, and can impose
+  social sanctions. A global open source project with anonymous
+  contributors lacks these properties. The commons metaphor suggests
+  that what works for a village fishery should work for npm, which is
+  not obviously true.
+- **Naming is a political act** — framing something as "a commons"
+  implies shared ownership and collective governance. Calling the same
+  resource "intellectual property" implies private ownership and market
+  governance. The metaphor selects the solution before the analysis
+  begins.
 
 ## Expressions
 

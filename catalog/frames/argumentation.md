@@ -11,6 +11,7 @@ roles:
   - evidence
   - rebuttal
   - conclusion
+  - audience
 ---
 
 Structured discourse aimed at establishing or refuting a claim through

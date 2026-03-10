@@ -9,7 +9,7 @@ roles:
   - throughput
   - constraint
   - resource
-  - bottleneck
+  - capacity
   - latency
 ---
 

@@ -6,16 +6,13 @@ related:
   - shared-resources
 roles:
   - collaborator
-  - task
-  - process
-  - artifact
-  - review
-  - consensus
-  - participant
-  - proposal
-  - critique
-  - decision
   - facilitator
+  - task
+  - artifact
+  - proposal
+  - review
+  - decision
+  - consensus
 ---
 
 Work done by multiple people toward a shared goal. Encompasses

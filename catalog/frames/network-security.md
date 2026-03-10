@@ -5,6 +5,7 @@ related:
   - architecture-and-building
   - containers
 roles:
+  - defender
   - perimeter
   - threat
   - traffic

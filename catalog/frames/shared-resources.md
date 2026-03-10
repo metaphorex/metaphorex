@@ -9,8 +9,8 @@ roles:
   - contributor
   - consumer
   - governance
-  - depletion
-  - sustainability
+  - boundary
+  - rule
 ---
 
 Any pool of finite resources accessed by multiple parties under some

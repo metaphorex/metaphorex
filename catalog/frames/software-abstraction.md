@@ -8,7 +8,7 @@ roles:
   - interface
   - implementation
   - consumer
-  - complexity
+  - internals
   - layer
 ---
 

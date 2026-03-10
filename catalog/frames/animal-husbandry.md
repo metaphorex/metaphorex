@@ -10,12 +10,8 @@ roles:
   - livestock
   - pasture
   - commons
-  - flock
-  - breed
-  - domestication
-  - steward
   - boundary
-  - depletion
+  - season
 ---
 
 The raising, breeding, and management of domesticated animals. Source domain
