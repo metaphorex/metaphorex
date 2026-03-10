@@ -10,6 +10,7 @@ author: agent:metaphorex-miner
 contributors: []
 related:
   - the-facade-pattern
+  - the-factory-pattern
 ---
 
 ## What It Brings
