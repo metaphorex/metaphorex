@@ -63,9 +63,11 @@ Each pattern becomes one mapping entry. The extraction template:
    as manufactured goods). "The observer is listening" (treating
    notification as perception).
 
-5. **Determine kind** -- most GoF patterns are `design-pattern`. Some
-   Alexander patterns are `conceptual-metaphor` or `paradigm`. Fowler
-   patterns are `design-pattern` or `cross-field-mapping`.
+5. **Determine kind** -- most GoF and Fowler patterns are
+   `conceptual-metaphor`. Some Alexander patterns are `paradigm`. Patterns
+   whose names are so embedded the metaphorical origin is forgotten are
+   `dead-metaphor`. The only valid kinds are: `conceptual-metaphor`,
+   `archetype`, `dead-metaphor`, `paradigm`.
 
 ### Prioritization
 
@@ -103,12 +105,15 @@ Existing categories that apply: `software-engineering`,
 
 ### Kind assignments
 
-- GoF patterns: `design-pattern`
+Valid kinds: `conceptual-metaphor`, `archetype`, `dead-metaphor`, `paradigm`.
+
+- GoF patterns: `conceptual-metaphor` (they're A→B mappings with active
+  source domains — calling something a "factory" still evokes manufacturing)
+- GoF patterns with forgotten origins: `dead-metaphor` (e.g., Iterator,
+  Singleton — most developers don't think about the source domain)
 - Alexander patterns that map beyond architecture: `conceptual-metaphor`
   or `paradigm`
-- Fowler patterns: `design-pattern` or `cross-field-mapping`
-- Patterns whose names are so embedded they are forgotten metaphors:
-  `dead-metaphor`
+- Fowler patterns: `conceptual-metaphor`
 
 ## Candidates
 
@@ -201,9 +206,10 @@ Existing categories that apply: `software-engineering`,
    architectural pattern illuminates software/creative work. These should
    be attempted after the GoF patterns establish the project's rhythm.
 
-6. **Kind selection.** Most GoF patterns are `design-pattern`. But some
+6. **Kind selection.** Most GoF patterns are `conceptual-metaphor`. But some
    names are so embedded in developer vocabulary that they function as
-   dead metaphors (Factory, Observer, Iterator). The Miner should choose
+   dead metaphors (Iterator, Singleton). The Miner should choose
    `dead-metaphor` when the metaphorical origin is genuinely forgotten
-   by most users, and `design-pattern` when the name still evokes its
-   source domain.
+   by most users, and `conceptual-metaphor` when the name still evokes its
+   source domain. Do not use `design-pattern` or `cross-field-mapping` —
+   these are not valid kinds.
