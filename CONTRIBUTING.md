@@ -86,14 +86,18 @@ contributor — git blame has you covered.
 
 ## What to contribute
 
-Metaphorex catalogs metaphors from all domains, not just software. Good
-entries include:
+Metaphorex catalogs metaphors from all domains, not just software. Every
+entry is one of four kinds, organized as a 2x2 grid (specific vs generative,
+source active vs dormant):
 
-- **Conceptual metaphors** (e.g., "argument is war", "time is money")
-- **Design patterns** that function as metaphors across fields
-- **Cross-field mappings** where a concept from one domain illuminates another
-- **Dead metaphors** worth resurrecting or examining
-- **Archetypes and paradigms** that shape how we think
+- **Conceptual metaphors** — specific A→B mappings where the source domain is
+  still active (e.g., "argument is war", "data flow is fluid flow")
+- **Archetypes** — generative patterns appearing across many mappings
+  (e.g., The Commons, The Trickster)
+- **Dead metaphors** — mappings where the source domain is forgotten; the
+  value is reactivating it (e.g., bottleneck, firewall)
+- **Paradigms** — foundational frames that shape how entire fields think
+  (e.g., survival of the fittest, the map is not the territory)
 
 ## Contribution workflow
 
