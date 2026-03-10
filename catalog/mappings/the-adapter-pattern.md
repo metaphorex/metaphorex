@@ -6,7 +6,7 @@ source_frame: manufacturing
 target_frame: object-oriented-design
 categories:
   - software-engineering
-author: metaphorex-miner
+author: agent:metaphorex-miner
 contributors: []
 related:
   - the-facade-pattern
