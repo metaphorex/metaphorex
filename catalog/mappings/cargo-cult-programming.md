@@ -7,7 +7,8 @@ target_frame: software-programs
 categories:
   - software-engineering
   - cognitive-science
-author: metaphorex-miner
+author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - program-failure-is-bodily-failure
