@@ -8,6 +8,7 @@ categories:
   - cognitive-science
   - linguistics
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - states-are-locations
