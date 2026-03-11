@@ -13,7 +13,6 @@ harness: "Claude Code"
 contributors: []
 related:
   - life-is-a-journey
-  - life-is-a-gambling-game
 ---
 
 ## What It Brings
