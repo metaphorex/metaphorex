@@ -1,0 +1,1039 @@
+{
+  "project": "lakoff-johnson-mwlb",
+  "project_issue": 1,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/metaphors/",
+    "https://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/MetaphorHome.html",
+    "http://araw.mede.uic.edu/~alansz/metaphor/METAPHORLIST.pdf"
+  ],
+  "candidates": [
+    {
+      "slug": "happy-is-up",
+      "name": "HAPPY IS UP; SAD IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Euphoric_States_Are_Up.html",
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "First orientational metaphor introduced. L&J use 'HAPPY IS UP' naming."
+    },
+    {
+      "slug": "having-control-is-up",
+      "name": "HAVING CONTROL IS UP; BEING SUBJECT TO CONTROL IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Control_Is_Up.html",
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Orientational. L&J pair: control/up, subject-to-control/down."
+    },
+    {
+      "slug": "rational-is-up",
+      "name": "RATIONAL IS UP; EMOTIONAL IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Rational_Is_Up.html",
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Orientational. Paired with EMOTIONAL IS DOWN in MWLB."
+    },
+    {
+      "slug": "the-visual-field-is-a-container",
+      "name": "THE VISUAL FIELD IS A CONTAINER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "vision",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "The_Visual_Field_Is_A_Container.html",
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "Container metaphor for perception. 'The ship is coming into view.'"
+    },
+    {
+      "slug": "the-visual-field-is-a-bounded-region",
+      "name": "THE VISUAL FIELD IS A BOUNDED REGION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "vision",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "The_Visual_Field_Is_A_Bounded_Region.html",
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "Variant of visual field container metaphor."
+    },
+    {
+      "slug": "the-mind-is-a-machine",
+      "name": "THE MIND IS A MACHINE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "The_Mind_Is_A_Machine.html",
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "Ontological metaphor. 'My mind just isn't operating today.'"
+    },
+    {
+      "slug": "the-mind-is-a-brittle-object",
+      "name": "THE MIND IS A BRITTLE OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Mind,_Or_Mental_Self_Is_A_Brittle_Object.html",
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "Ontological metaphor. 'He cracked under pressure.'"
+    },
+    {
+      "slug": "the-conduit-metaphor",
+      "name": "THE CONDUIT METAPHOR",
+      "kind": "paradigm",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "The_Conduit_Metaphor.html",
+      "mwlb_chapters": [
+        3,
+        10
+      ],
+      "description": "Reddy's conduit metaphor. IDEAS ARE OBJECTS, WORDS ARE CONTAINERS, COMMUNICATION IS SENDING."
+    },
+    {
+      "slug": "ideas-are-people",
+      "name": "IDEAS ARE PEOPLE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Ideas_Are_People.html",
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'The theory of relativity gave birth to an enormous number of ideas.'"
+    },
+    {
+      "slug": "ideas-are-light-sources",
+      "name": "IDEAS ARE LIGHT-SOURCES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "vision",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Ideas_Are_Light_Sources.html",
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "Related to UNDERSTANDING IS SEEING. 'That was a brilliant remark.'"
+    },
+    {
+      "slug": "ideas-are-resources",
+      "name": "IDEAS ARE RESOURCES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Ideas_Are_Resources.html",
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'He ran out of ideas.' Scarcity framing for thought."
+    },
+    {
+      "slug": "ideas-are-fashions",
+      "name": "IDEAS ARE FASHIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-behavior",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Ideas_Are_Fashions.html",
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'That idea went out of style years ago.'"
+    },
+    {
+      "slug": "ideas-are-objects",
+      "name": "IDEAS ARE OBJECTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Ideas_Are_Objects.html",
+      "mwlb_chapters": [
+        3,
+        6,
+        10
+      ],
+      "description": "Foundation of conduit metaphor. 'Grasp an idea.'"
+    },
+    {
+      "slug": "life-is-a-journey",
+      "name": "LIFE IS A JOURNEY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "journeys",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Longterm_Purposeful_Activity_Is_A_Journey.html",
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "Archive uses general form. MWLB instantiates as LIFE IS A JOURNEY."
+    },
+    {
+      "slug": "causation",
+      "name": "CAUSATION (PARTLY METAPHORICAL)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Causation_Is_Control_Over_Relative_Location.html",
+      "mwlb_chapters": [
+        14
+      ],
+      "description": "L&J treat causation as partly emergent, partly metaphorical."
+    },
+    {
+      "slug": "time-is-a-limited-resource",
+      "name": "TIME IS A LIMITED RESOURCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Time_Is_A_Resource.html",
+      "mwlb_chapters": [
+        2,
+        3
+      ],
+      "description": "Entailment of TIME IS MONEY."
+    },
+    {
+      "slug": "time-is-a-moving-object",
+      "name": "TIME IS A MOVING OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Time_Is_Something_Moving_Toward_You.html",
+      "mwlb_chapters": [
+        9
+      ],
+      "description": "'The time will come when...' 'The time for action has arrived.'"
+    },
+    {
+      "slug": "time-is-stationary-and-we-move-through-it",
+      "name": "TIME IS STATIONARY AND WE MOVE THROUGH IT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Time_Is_A_Landscape_We_Move_Through.html",
+      "mwlb_chapters": [
+        9
+      ],
+      "description": "Counterpart to TIME IS A MOVING OBJECT. 'As we go through the years...'"
+    },
+    {
+      "slug": "love-is-madness",
+      "name": "LOVE IS MADNESS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Love_Is_Madness.html",
+      "mwlb_chapters": [
+        10,
+        16
+      ],
+      "description": "'I'm crazy about her.' 'He's gone mad over her.'"
+    },
+    {
+      "slug": "love-is-a-unity",
+      "name": "LOVE IS A UNITY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Love_Is_A_Unity_(of_Two_Complementary_Parts).html",
+      "mwlb_chapters": [
+        16
+      ],
+      "description": "'We are one.' 'They broke up.' 'We're inseparable.'"
+    },
+    {
+      "slug": "emotional-stability-is-balance",
+      "name": "EMOTIONAL STABILITY IS BALANCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Emotional_Stability_Is_Balance.html",
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Implicit in orientational discussion. 'She's well-balanced.'"
+    },
+    {
+      "slug": "emotions-are-entities-within-a-person",
+      "name": "EMOTIONS ARE ENTITIES WITHIN A PERSON",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Emotions_Are_Entities_Within_A_Person.html",
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "Ontological. 'He could barely contain his joy.'"
+    },
+    {
+      "slug": "states-are-locations",
+      "name": "STATES ARE LOCATIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "States_Are_Locations.html",
+      "mwlb_chapters": [
+        6,
+        14
+      ],
+      "description": "'He's in a state of euphoria.' Part of event structure metaphor."
+    },
+    {
+      "slug": "existence-is-a-location",
+      "name": "EXISTENCE IS A LOCATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Existence_Is_A_Location_(here).html",
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "Ontological. 'The idea came into existence.'"
+    },
+    {
+      "slug": "action-is-motion",
+      "name": "ACTION IS MOTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Action_Is_Motion.html",
+      "mwlb_chapters": [
+        14,
+        15
+      ],
+      "description": "Part of the grounding discussion. 'Things are moving along.'"
+    },
+    {
+      "slug": "change-is-motion",
+      "name": "CHANGE IS MOTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Change_Is_Motion.html",
+      "mwlb_chapters": [
+        14,
+        15
+      ],
+      "description": "'Things have changed a lot.' 'The situation is moving fast.'"
+    },
+    {
+      "slug": "seeing-is-touching",
+      "name": "SEEING IS TOUCHING; EYES ARE LIMBS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "vision",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Seeing_Is_Touching,_Eyes_Are_Limbs.html",
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'I can't take my eyes off her.' 'His eyes picked out every detail.'"
+    },
+    {
+      "slug": "ideas-are-plants",
+      "name": "IDEAS ARE PLANTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "People_Are_Plants.html",
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "Osaka uses PEOPLE ARE PLANTS; MWLB discusses IDEAS ARE PLANTS (same source domain)."
+    },
+    {
+      "slug": "difficulties-are-impediments-to-motion",
+      "name": "DIFFICULTIES ARE IMPEDIMENTS TO MOTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Difficulties_Are_Containers.html",
+      "mwlb_chapters": [
+        14
+      ],
+      "description": "Osaka variant. MWLB discusses difficulties as obstacles/impediments."
+    },
+    {
+      "slug": "longterm-purposeful-change-is-a-journey",
+      "name": "LONGTERM PURPOSEFUL CHANGE IS A JOURNEY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Longterm_Purposeful_Change_Is_A_Journey.html",
+      "mwlb_chapters": [
+        14,
+        15
+      ],
+      "description": "Event structure metaphor variant. Related to LIFE IS A JOURNEY."
+    },
+    {
+      "slug": "love-is-war",
+      "name": "LOVE IS WAR",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Competition_Is_War.html",
+      "mwlb_chapters": [
+        10,
+        16
+      ],
+      "description": "Osaka has COMPETITION IS WAR; MWLB specifically discusses LOVE IS WAR as a variant."
+    },
+    {
+      "slug": "love-is-a-physical-force",
+      "name": "LOVE IS A PHYSICAL FORCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Desires_Are_Forces_Between_The_Desired_And_The_Desirer.html",
+      "mwlb_chapters": [
+        10,
+        16
+      ],
+      "description": "Osaka generalization. MWLB instantiates as LOVE IS A PHYSICAL FORCE."
+    },
+    {
+      "slug": "people-are-machines",
+      "name": "PEOPLE ARE MACHINES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "People_Are_Machines.html",
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "Related to THE MIND IS A MACHINE. 'He's a real workhorse.'"
+    },
+    {
+      "slug": "obligations-are-forces",
+      "name": "OBLIGATIONS ARE FORCES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Obligations_Are_Forces.html",
+      "mwlb_chapters": [
+        14
+      ],
+      "description": "Part of causation/force discussion in Ch 14."
+    },
+    {
+      "slug": "properties-are-possessions",
+      "name": "PROPERTIES ARE POSSESSIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Properties_Are_Possessions.html",
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "Ontological. 'He has a lot of courage.' 'She lost her patience.'"
+    },
+    {
+      "slug": "psychological-forces-are-physical-forces",
+      "name": "PSYCHOLOGICAL FORCES ARE PHYSICAL FORCES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "archive_file": "Psychological_Forces_Are_Physical_Forces..html",
+      "mwlb_chapters": [
+        14
+      ],
+      "description": "Part of causation discussion. 'She pushed me into it.'"
+    },
+    {
+      "slug": "more-is-up",
+      "name": "MORE IS UP; LESS IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Orientational. 'The number of books is going up.' Not in Osaka archive by this name."
+    },
+    {
+      "slug": "good-is-up",
+      "name": "GOOD IS UP; BAD IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        4,
+        5
+      ],
+      "description": "Orientational. 'Things are looking up.' Not in Osaka archive by this name."
+    },
+    {
+      "slug": "conscious-is-up",
+      "name": "CONSCIOUS IS UP; UNCONSCIOUS IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Orientational. 'He fell asleep.' 'Wake up.' Not in Osaka archive."
+    },
+    {
+      "slug": "status-is-up",
+      "name": "HIGH STATUS IS UP; LOW STATUS IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "social-roles",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Orientational. 'She has a lofty position.' Not in Osaka archive."
+    },
+    {
+      "slug": "health-is-up",
+      "name": "HEALTH IS UP; SICKNESS IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Orientational. 'He fell ill.' 'She's in top shape.'"
+    },
+    {
+      "slug": "virtue-is-up",
+      "name": "VIRTUE IS UP; DEPRAVITY IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "social-behavior",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        4,
+        5
+      ],
+      "description": "Orientational. 'He's an upstanding citizen.' 'That was a low thing to do.'"
+    },
+    {
+      "slug": "foreseeable-future-is-up",
+      "name": "FORESEEABLE FUTURE EVENTS ARE UP AND AHEAD",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Orientational. 'What's coming up this week?'"
+    },
+    {
+      "slug": "unknown-is-up",
+      "name": "UNKNOWN IS UP; KNOWN IS DOWN",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Orientational. 'That's up in the air.' 'The matter is settled.'"
+    },
+    {
+      "slug": "finished-is-up",
+      "name": "FINISHED IS UP",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        4
+      ],
+      "description": "Orientational. 'Time is up.' Noted in MWLB Ch 4."
+    },
+    {
+      "slug": "inflation-is-an-entity",
+      "name": "INFLATION IS AN ENTITY / PERSON",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "economics",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        6,
+        7
+      ],
+      "description": "Main ontological + personification example. 'Inflation is eating up profits.'"
+    },
+    {
+      "slug": "ideas-are-cutting-instruments",
+      "name": "IDEAS ARE CUTTING INSTRUMENTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'That's an incisive idea.' 'He has a keen mind.'"
+    },
+    {
+      "slug": "ideas-are-products",
+      "name": "IDEAS ARE PRODUCTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'We've generated a lot of ideas.' 'His intellectual productivity has decreased.'"
+    },
+    {
+      "slug": "ideas-are-commodities",
+      "name": "IDEAS ARE COMMODITIES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'It's important how you package your ideas.' 'That idea won't sell.'"
+    },
+    {
+      "slug": "ideas-are-money",
+      "name": "IDEAS ARE MONEY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'Let me put in my two cents worth.' 'He's rich in ideas.'"
+    },
+    {
+      "slug": "significant-is-big",
+      "name": "SIGNIFICANT IS BIG",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'That's a big idea.' 'He's a giant in the field.'"
+    },
+    {
+      "slug": "love-is-a-collaborative-work-of-art",
+      "name": "LOVE IS A COLLABORATIVE WORK OF ART",
+      "kind": "conceptual-metaphor",
+      "source_frame": "collaborative-work",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        21,
+        23
+      ],
+      "description": "The 'new metaphor' example. 'They're building something beautiful together.'"
+    },
+    {
+      "slug": "love-is-a-patient",
+      "name": "LOVE IS A PATIENT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        16
+      ],
+      "description": "'This is a sick relationship.' 'Their marriage is on the mend.'"
+    },
+    {
+      "slug": "life-is-a-gambling-game",
+      "name": "LIFE IS A GAMBLING GAME",
+      "kind": "conceptual-metaphor",
+      "source_frame": "competition",
+      "target_frame": "journeys",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'I'll take my chances.' 'Those are high stakes.'"
+    },
+    {
+      "slug": "life-is-a-container",
+      "name": "LIFE IS A CONTAINER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "journeys",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'He had a full life.' 'Her life is empty.'"
+    },
+    {
+      "slug": "labor-is-a-resource",
+      "name": "LABOR IS A RESOURCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "economics",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        13
+      ],
+      "description": "Grounding of structural metaphors. 'We don't have enough labor.'"
+    },
+    {
+      "slug": "communication-is-sending",
+      "name": "COMMUNICATION IS SENDING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        3,
+        10
+      ],
+      "description": "Part of conduit metaphor system. 'Did the message get across?'"
+    },
+    {
+      "slug": "argument-is-a-journey",
+      "name": "ARGUMENT IS A JOURNEY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "argumentation",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        16
+      ],
+      "description": "'We've covered a lot of ground.' 'We've arrived at a conclusion.'"
+    },
+    {
+      "slug": "argument-is-a-building",
+      "name": "ARGUMENT IS A BUILDING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "argumentation",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        10,
+        11,
+        16
+      ],
+      "description": "'We need to support that claim.' 'The argument collapsed.'"
+    },
+    {
+      "slug": "purposes-are-destinations",
+      "name": "PURPOSES ARE DESTINATIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "journeys",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        14,
+        15
+      ],
+      "description": "Part of event structure metaphor. 'He's on his way to a promotion.'"
+    },
+    {
+      "slug": "activities-are-containers",
+      "name": "ACTIVITIES ARE CONTAINERS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "'He's in the race.' 'She got out of the washing.'"
+    },
+    {
+      "slug": "an-instrument-is-a-companion",
+      "name": "AN INSTRUMENT IS A COMPANION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "manufacturing",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        6
+      ],
+      "description": "Personification variant. 'My car needs a rest.'"
+    },
+    {
+      "slug": "problems-are-puzzles",
+      "name": "PROBLEMS ARE PUZZLES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "intellectual-inquiry",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-linguistics"
+      ],
+      "source": "llm",
+      "archive_file": null,
+      "mwlb_chapters": [
+        10
+      ],
+      "description": "'I need to figure this out.' 'The pieces fell into place.'"
+    }
+  ]
+}
