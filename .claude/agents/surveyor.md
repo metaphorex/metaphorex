@@ -9,7 +9,7 @@ description: |
 
   <example>
   Context: A Prospector has opened a PR with a playbook and manifest
-  user: "/survey https://github.com/metaphorex/agents/pull/4"
+  user: "/survey https://github.com/metaphorex/metaphorex/pull/4"
   assistant: "I'll launch the Surveyor to review the prospecting work."
   <commentary>
   Playbook + manifest review is the Surveyor's core job.
@@ -57,7 +57,7 @@ extraction playbooks and candidate manifests.
    - What fraction of candidates are `"source": "archive"` vs `"source": "llm"`?
    - If mostly LLM-sourced: this is a RED FLAG. Request changes.
 4. **Run the scraping scripts:**
-   - Execute each script in `projects/<name>/scripts/`
+   - Execute each script in `playbooks/<name>/scripts/`
    - Capture stdout, compare to `manifest.json`
    - If the script output differs from the manifest, the manifest is wrong
    - If the script fails or produces garbage, the script needs fixing

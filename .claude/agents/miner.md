@@ -5,7 +5,7 @@ email: miner@metaphorex.org
 description: |
   Use this agent when extracting mappings from a source that already has an
   approved playbook. The Miner follows the playbook, generates mapping
-  markdown files, and opens PRs into the content repo.
+  markdown files, and opens PRs.
 
   <example>
   Context: A playbook has been approved and the user wants to start extraction
@@ -66,13 +66,13 @@ If invoked without a specific project or issue:
   entries as your guide. The issue description has the metaphor, context,
   and optional mapping suggestions. You decide the final framing.
 - **Archive sub-issue** — consult the parent's playbook at
-  `projects/<project-name>/playbook.md`. Follow the extraction strategy.
+  `playbooks/<project-name>/playbook.md`. Follow the extraction strategy.
 - **Vein sub-issue** — same as archive, but expect less specific guidance
   in the playbook. Use more judgment.
 
 **Process (project sub-issues):**
 
-1. Read the playbook at `projects/<project-name>/playbook.md`
+1. Read the playbook at `playbooks/<project-name>/playbook.md`
 2. List sub-issues using the parent's native GitHub sub-issues:
    ```bash
    gh api graphql -f query='{ repository(owner: "metaphorex", name: "metaphorex") { issue(number: <PARENT>) { subIssues(first: 100) { nodes { number title state labels(first: 5) { nodes { name } } } } } } }'
@@ -82,7 +82,7 @@ If invoked without a specific project or issue:
 5. For each sub-issue:
    a. Read the sub-issue for the candidate details
    b. Follow the playbook's extraction strategy
-   c. Run extraction scripts if available (`projects/<name>/scripts/`)
+   c. Run extraction scripts if available (`playbooks/<name>/scripts/`)
    d. Write the mapping file with full frontmatter + body sections
    e. Create any needed frame or category files (upsert rule)
    f. Run `uv run scripts/validate.py validate` — fix any errors
@@ -106,7 +106,7 @@ If invoked without a specific project or issue:
 
 Use the metaphorex-schema skill for the canonical schema. Additionally:
 
-- Read 2-3 seed entries from the content repo to match tone and depth
+- Read 2-3 seed entries from `catalog/mappings/` to match tone and depth
 - "Where It Breaks" must be substantive — never a throwaway section
 - Expressions must come from real usage, not invented examples
 - Include Origin Story and References when the source provides them

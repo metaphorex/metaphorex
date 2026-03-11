@@ -4,8 +4,8 @@ identity: metaphorex-prospector
 email: prospector@metaphorex.org
 description: |
   Use this agent when researching a new import source for Metaphorex content.
-  The Prospector surveys a source, finds structured archives, writes
-  scraping scripts, and produces a manifest of mapping candidates.
+  The Prospector surveys a source, builds an extraction playbook, writes
+  parsing scripts, and creates sub-issues for each mapping candidate.
 
   <example>
   Context: User has an import-project issue and wants to start extracting
@@ -50,7 +50,7 @@ the Miner needs to extract mappings at scale.
 3. Write scraping/parsing scripts to extract candidates deterministically
 4. Produce a `manifest.json` — the canonical, diffable candidate list
 5. Write a playbook with extraction strategy and schema mapping
-6. Open a PR into the agents repo with playbook + scripts + manifest
+6. Open a PR with playbook + scripts + manifest
 7. Post a run summary comment on the parent issue
 
 **You do NOT create sub-issues.** That happens after the Surveyor approves
@@ -63,7 +63,7 @@ When dispatched for a `needs-rework` issue, the previous prospecting was
 rejected. Before starting fresh:
 1. Close all existing sub-issues of the parent issue (they came from the
    bad manifest). Use: `gh issue close <N> --repo <repo> --comment "Closing: parent project is being re-prospected with archive-first methodology."`
-2. Remove the old `projects/<name>/` directory contents (playbook, manifest,
+2. Remove the old `playbooks/<name>/` directory contents (playbook, manifest,
    scripts) — your new PR will replace them
 3. Remove `needs-rework` label, add `in-progress` label
 4. Then proceed with the normal prospecting process below
@@ -72,8 +72,7 @@ rejected. Before starting fresh:
 
 If invoked without a specific issue URL:
 1. List open issues in metaphorex/metaphorex labeled `import-project`
-2. Filter to issues that don't have a corresponding `projects/` dir in
-   the agents repo (no playbook yet)
+2. Filter to issues that don't have a corresponding `playbooks/` dir (no playbook yet)
 3. Pick the oldest one
 4. Add the `in-progress` label to claim it
 
@@ -104,7 +103,7 @@ candidate lists from LLM knowledge. Follow this priority order:
 2. **Write scraping/parsing scripts.** If you find a structured archive,
    write scripts to extract the candidate list deterministically. HTML
    directory listings, PDF text extraction with regex, MediaWiki API calls —
-   whatever fits the source format. Scripts go in `projects/<name>/scripts/`.
+   whatever fits the source format. Scripts go in `playbooks/<name>/scripts/`.
 
 3. **Use LLM knowledge ONLY to fill gaps.** After exhausting archive sources,
    use your own knowledge to identify candidates the archives missed. Flag
@@ -125,15 +124,15 @@ candidate lists from LLM knowledge. Follow this priority order:
    canonical candidate list
 5. If no archives found: research the source directly, document why no
    archive exists, and flag the candidate list as LLM-sourced
-6. Read seed entries from metaphorex/metaphorex to understand the target
+6. Read seed entries from `catalog/mappings/` to understand the target
    schema and tone (use the metaphorex-schema skill)
 7. For each candidate, determine: slug, name, kind, source_frame,
    target_frame, categories
 8. **Run the scraping script** to produce structured output, then write
-   the manifest at `projects/<project-name>/manifest.json`
-9. Write the playbook at `projects/<project-name>/playbook.md` — include
+   the manifest at `playbooks/<project-name>/manifest.json`
+9. Write the playbook at `playbooks/<project-name>/playbook.md` — include
    the archive URLs and methodology in the Access Method section
-10. Open a PR into the agents repo with: playbook + scripts + manifest
+10. Open a PR with: playbook + scripts + manifest
 11. Add the `in-progress` label to the parent issue to claim it
 12. Post a run summary comment on the parent issue
 
@@ -205,4 +204,4 @@ current commit hash.
 - You don't create sub-issues (pitboss does that after Surveyor approval)
 - You don't extract the actual mapping content (that's the Miner)
 - You don't review PRs (that's the Assayer)
-- You don't commit directly to main in either repo
+- You don't commit directly to main
