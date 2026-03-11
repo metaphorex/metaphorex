@@ -3,12 +3,13 @@ slug: existence-is-a-location
 name: "Existence Is A Location"
 kind: conceptual-metaphor
 source_frame: journeys
-target_frame: intellectual-inquiry
+target_frame: mental-experience
 categories:
   - cognitive-science
   - linguistics
   - philosophy
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - states-are-locations

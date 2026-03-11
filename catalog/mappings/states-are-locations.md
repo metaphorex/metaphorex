@@ -9,6 +9,7 @@ categories:
   - linguistics
   - philosophy
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - existence-is-a-location

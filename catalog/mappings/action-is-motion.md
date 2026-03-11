@@ -3,11 +3,12 @@ slug: action-is-motion
 name: "Action Is Motion"
 kind: conceptual-metaphor
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
+target_frame: mental-experience
 categories:
   - cognitive-science
   - linguistics
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - states-are-locations
