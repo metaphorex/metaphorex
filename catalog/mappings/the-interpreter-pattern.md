@@ -10,7 +10,9 @@ categories:
 author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
-related: []
+related:
+  - the-iterator-pattern
+  - the-command-pattern
 ---
 
 ## What It Brings
@@ -66,11 +68,14 @@ Key structural parallels:
   maintains Context** — a professional interpreter doesn't carry state
   between sessions. The pattern's Context object explicitly accumulates
   state. The metaphor suggests freshness that doesn't exist.
-- **The pattern scales poorly; human interpretation scales infinitely**
-  — human interpreters handle arbitrarily complex language. The GoF
-  pattern, as written, creates deep recursion and poor performance for
-  complex grammars. The metaphor of fluent interpretation hides the
-  pattern's limitations.
+- **Human interpreters handle ambiguity; the pattern requires a complete
+  grammar** — a professional interpreter encounters underspecified,
+  ambiguous, and culturally loaded speech and navigates it through
+  judgment and world knowledge. The Interpreter pattern requires a
+  fully specified, unambiguous formal grammar. If your grammar is
+  incomplete or ambiguous, you don't get interpretation — you get a
+  parse error. The metaphor's connotation of flexible understanding
+  hides the pattern's brittleness toward novel inputs.
 - **"Interpreter" suggests real-time; the pattern is usually ahead-of-
   time** — human interpreters work synchronously, translating as speech
   happens. Most uses of the Interpreter pattern parse an entire

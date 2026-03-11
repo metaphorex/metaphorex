@@ -2,14 +2,16 @@
 slug: the-iterator-pattern
 name: "The Iterator Pattern"
 kind: dead-metaphor
-source_frame: social-roles
+source_frame: travel
 target_frame: object-oriented-design
 categories:
   - software-engineering
 author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
-related: []
+related:
+  - the-interpreter-pattern
+  - data-flow-is-fluid-flow
 ---
 
 ## What It Brings

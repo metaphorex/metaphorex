@@ -11,6 +11,7 @@ harness: "Claude Code"
 contributors: []
 related:
   - the-chain-of-responsibility-pattern
+  - the-mediator-pattern
 ---
 
 ## What It Brings
