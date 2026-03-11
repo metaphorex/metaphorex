@@ -9,6 +9,7 @@ categories:
   - linguistics
   - organizational-behavior
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - time-is-money
