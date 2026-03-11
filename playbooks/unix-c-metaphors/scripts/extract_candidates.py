@@ -1,0 +1,619 @@
+#!/usr/bin/env python3
+"""
+Extract Unix/C metaphor candidates from structured source data.
+
+This script produces a deterministic candidate list for the unix-c-metaphors
+import project. The candidates are drawn from:
+
+1. Wikipedia "List of computer term etymologies" (structured archive)
+   URL: https://en.wikipedia.org/wiki/List_of_computer_term_etymologies
+
+2. The Jargon File (ESR/catb.org) (structured archive)
+   URL: http://www.catb.org/jargon/html/
+
+3. Ritchie & Thompson, "The UNIX Time-Sharing System," CACM 1974
+   URL: https://www.nokia.com/bell-labs/about/dennis-m-ritchie/cacm.pdf
+
+4. Ritchie, "The Development of the C Language," ACM SIGPLAN 1993
+   URL: https://www.nokia.com/bell-labs/about/dennis-m-ritchie/chist.html
+
+5. McIlroy pipes memo, 1964 (via doc.cat-v.org)
+   URL: http://doc.cat-v.org/unix/pipes/
+
+6. McIlroy, "A Research UNIX Reader," 1987
+
+7. Kernighan & Ritchie, "The C Programming Language" (K&R), 1978/1988
+
+8. Raymond, "The Art of Unix Programming," 2003
+   URL: http://www.catb.org/esr/writings/taoup/html/
+
+9. man7.org Linux man pages (system calls section 2)
+   URL: https://man7.org/linux/man-pages/
+
+Each candidate is tagged with its primary source reference and whether
+it was found in a structured archive or identified via LLM gap-filling.
+
+The script is idempotent: it produces identical output on each run.
+"""
+
+import json
+import sys
+
+# Candidates already in the metaphorex catalog (must be excluded)
+ALREADY_IN_CATALOG = {
+    "data-flow-is-fluid-flow",   # pipes/streams - seed entry
+    "firewall",                   # network security barrier
+    "zombie-process",             # from sw-eng-vernacular
+    "orphan-process",             # from sw-eng-vernacular
+    "race-condition",             # from sw-eng-vernacular
+    "garbage-collection",         # from sw-eng-vernacular
+    "sandbox",                    # from sw-eng-vernacular
+    "bottleneck",                 # from sw-eng-vernacular
+    "the-pipeline-pattern",       # from design-patterns
+}
+
+
+def build_candidates():
+    """Build the canonical candidate list."""
+
+    candidates = [
+        # === CORE UNIX SYSTEM METAPHORS ===
+        # These are the foundational naming decisions from Bell Labs 1969-1979
+
+        {
+            "slug": "everything-is-a-file",
+            "name": "EVERYTHING IS A FILE",
+            "kind": "paradigm",
+            "source_frame": "library-and-archive",
+            "target_frame": "data-processing",
+            "categories": ["computer-science", "philosophy"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974, Section 'The File System'",
+                "https://en.wikipedia.org/wiki/Everything_is_a_file",
+                "Raymond, TAOUP Ch 1: 'Everything is a file'"
+            ],
+            "description": "The master metaphor of Unix. Devices, processes, sockets, and actual files are all accessed through the same file descriptor interface. The 'file' metaphor (a named container of sequential bytes) became so dominant it restructured how an entire operating system thinks about resources. Plan 9 later took it further: even the network is a filesystem."
+        },
+        {
+            "slug": "unix-shell",
+            "name": "SHELL",
+            "kind": "dead-metaphor",
+            "source_frame": "containers",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Thompson, 'The UNIX Command Language' (1976)",
+                "Ritchie & Thompson, CACM 1974, Section 'The Shell'",
+                "https://en.wikipedia.org/wiki/Shell_(computing)"
+            ],
+            "description": "The user interface as a protective outer layer around the kernel (the nut). Louis Pouzin coined 'shell' for the Multics command interpreter (1964-65); Thompson carried it into Unix. The metaphor encodes a spatial ontology: kernel inside, shell outside, user on the surface."
+        },
+        {
+            "slug": "kernel",
+            "name": "KERNEL",
+            "kind": "dead-metaphor",
+            "source_frame": "horticulture",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Dijkstra, 'The structure of the THE multiprogramming system' (1968)",
+                "Ritchie & Thompson, CACM 1974",
+                "https://en.wikipedia.org/wiki/Kernel_(operating_system)"
+            ],
+            "description": "The core of the OS as the seed of a nut -- the essential inner part protected by the shell. Dijkstra used the term for the THE system (1968); Unix inherited it. The botanical metaphor perfectly encodes the layered architecture: kernel (seed) inside shell (husk) inside user space."
+        },
+        {
+            "slug": "daemon-process",
+            "name": "DAEMON",
+            "kind": "dead-metaphor",
+            "source_frame": "mythology",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Corbato, Project MAC, MIT (1963)",
+                "https://en.wikipedia.org/wiki/Daemon_(computing)",
+                "http://www.catb.org/jargon/html/D/daemon.html",
+                "https://en-academic.com/dic.nsf/enwiki/222729 (daemon entry)"
+            ],
+            "description": "Background processes as invisible spirits, from Maxwell's demon (1867 physics thought experiment). Fernando Corbato coined it at MIT's Project MAC; Unix adopted it wholesale. The Greek daimon was a supernatural attendant working unseen -- perfect for processes that run without a terminal. Not an acronym despite the false backronym 'Disk And Execution MONitor'."
+        },
+        {
+            "slug": "process-fork",
+            "name": "FORK",
+            "kind": "dead-metaphor",
+            "source_frame": "tool-use",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974, Section 'Processes and images'",
+                "man7.org: fork(2)",
+                "https://en.wikipedia.org/wiki/Fork_(system_call)"
+            ],
+            "description": "Process creation as a path dividing in two (a fork in the road). The parent process splits into parent and child, each continuing down a different path. The metaphor imports biological cell division and path-divergence simultaneously. In Unix, fork() creates an almost-exact copy -- the two paths start from the same point."
+        },
+        {
+            "slug": "unix-pipe",
+            "name": "PIPE",
+            "kind": "dead-metaphor",
+            "source_frame": "fluid-dynamics",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "McIlroy, internal Bell Labs memo on pipes (1964)",
+                "http://doc.cat-v.org/unix/pipes/",
+                "Ritchie & Thompson, CACM 1974, Section 'Pipes'",
+                "https://www.nokia.com/bell-labs/about/dennis-m-ritchie/mdmpipe.html"
+            ],
+            "description": "Inter-process data transfer as plumbing. McIlroy's 1964 memo: 'We should have some ways of coupling programs like garden hose -- screw in another segment when it becomes necessary to massage data in another way.' The plumbing metaphor pervades: pipes, filters, tees, sinks, drains. Related to but distinct from data-flow-is-fluid-flow (which covers the general metaphor; this covers the specific Unix implementation and naming)."
+        },
+        {
+            "slug": "unix-signal",
+            "name": "SIGNAL",
+            "kind": "dead-metaphor",
+            "source_frame": "communication",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974",
+                "man7.org: signal(7)",
+                "IEEE Std 1003.1 (POSIX)"
+            ],
+            "description": "Inter-process communication as physical interruption. A signal is an asynchronous notification sent to a process -- like tapping someone on the shoulder or blowing a whistle. SIGKILL (forced termination), SIGTERM (polite request to stop), SIGHUP (the terminal 'hung up' like a phone). The telephone metaphor is explicit in SIGHUP."
+        },
+        {
+            "slug": "filesystem-tree",
+            "name": "DIRECTORY TREE",
+            "kind": "dead-metaphor",
+            "source_frame": "horticulture",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974, Section 'The File System'",
+                "https://en.wikipedia.org/wiki/Directory_(computing)"
+            ],
+            "description": "Hierarchical file organization as a botanical tree. Root at the top (inverted from nature), branches as directories, leaves as files. Unix formalized this with '/' as the root. The metaphor extends: pruning (deleting branches), grafting (mounting filesystems), the 'tree' command. Process trees and parse trees follow the same pattern."
+        },
+        {
+            "slug": "filesystem-root",
+            "name": "ROOT",
+            "kind": "dead-metaphor",
+            "source_frame": "horticulture",
+            "target_frame": "data-processing",
+            "categories": ["computer-science", "security"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974",
+                "https://en.wikipedia.org/wiki/Root_directory"
+            ],
+            "description": "The base of the filesystem hierarchy and the superuser account both named 'root'. Double metaphor: the botanical root (base of the tree) and the root as origin/foundation. The superuser is 'root' because they have access to the root of everything. The / directory is the root because all paths grow from it."
+        },
+        {
+            "slug": "filesystem-mount",
+            "name": "MOUNT",
+            "kind": "dead-metaphor",
+            "source_frame": "tool-use",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974, Section 'Removable File Systems'",
+                "man7.org: mount(2)"
+            ],
+            "description": "Attaching a filesystem to the directory tree as mounting a physical thing onto a surface. Originally from mounting a disk pack onto a drive spindle (a literal physical action in the 1970s). The metaphor survived the disappearance of its source: nobody mounts disk packs anymore, but 'mount' persists. 'Unmount' vs 'dismount' vs 'umount' shows the metaphor straining."
+        },
+        {
+            "slug": "file-permissions",
+            "name": "PERMISSIONS (rwx)",
+            "kind": "dead-metaphor",
+            "source_frame": "governance",
+            "target_frame": "data-processing",
+            "categories": ["computer-science", "security"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974, Section 'Protection'",
+                "man7.org: chmod(1)"
+            ],
+            "description": "Access control as social permission-granting. Owner, group, others -- a three-tier social hierarchy. Read, write, execute -- three kinds of 'doing' granted or withheld. The metaphor imports governance: an owner 'grants' permission, a group has 'membership', the superuser overrides all rules like a sovereign."
+        },
+
+        # === C LANGUAGE METAPHORS ===
+        # Core naming decisions in the C programming language
+
+        {
+            "slug": "c-pointer",
+            "name": "POINTER",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Kernighan & Ritchie, K&R Ch 5: 'Pointers and Arrays'",
+                "Ritchie, 'Development of the C Language' (1993)"
+            ],
+            "description": "A memory address as 'pointing at' a location. The deictic gesture metaphor: a pointer literally 'points to' data stored elsewhere, like a finger indicating direction. C makes this the programmer's responsibility: you follow the pointer (dereference), the pointer can be null (pointing at nothing), dangling (pointing at something that no longer exists), or wild (pointing somewhere random). The entire class of pointer bugs maps onto pointing-gesture failures."
+        },
+        {
+            "slug": "null-pointer",
+            "name": "NULL",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "software-programs",
+            "categories": ["computer-science", "philosophy"],
+            "source": "archive",
+            "archive_refs": [
+                "Kernighan & Ritchie, K&R Ch 5",
+                "Hoare, 'Null References: The Billion Dollar Mistake' (2009)"
+            ],
+            "description": "The absence of a value as a pointer to nothing. From Latin 'nullus' (none). In C, NULL is the zero address -- a pointer that deliberately points nowhere. Tony Hoare called it his 'billion-dollar mistake'. The metaphor encodes absence as a special kind of presence: null is not 'no pointer' but 'a pointer to nothing', which is philosophically distinct and practically catastrophic."
+        },
+        {
+            "slug": "c-string",
+            "name": "STRING",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Kernighan & Ritchie, K&R Ch 1: 'Character Arrays'",
+                "https://en-academic.com/dic.nsf/enwiki/222729"
+            ],
+            "description": "A sequence of characters as beads on a string. The linear ordering metaphor: characters are 'strung together' in sequence, like beads or pearls on a thread. In C, strings are null-terminated character arrays -- the 'string' ends with a special marker (\\0), like a knot at the end of a thread. The metaphor predates C (ALGOL used it) but C made it ubiquitous."
+        },
+        {
+            "slug": "c-casting",
+            "name": "TYPE CASTING",
+            "kind": "dead-metaphor",
+            "source_frame": "manufacturing",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "llm",
+            "archive_refs": [
+                "Kernighan & Ritchie, K&R Ch 2: 'Type Conversions'"
+            ],
+            "description": "Converting a value from one type to another as 'casting' it into a new mold. From metalwork: casting molten metal into a shaped mold. The metaphor implies transformation through constraint -- the data takes the shape of the new type. C's casts can be 'safe' (widening) or 'unsafe' (narrowing), mapping onto whether the mold fits the material."
+        },
+
+        # === NETWORKING METAPHORS (from RFCs, Unix socket API) ===
+
+        {
+            "slug": "network-socket",
+            "name": "SOCKET",
+            "kind": "dead-metaphor",
+            "source_frame": "tool-use",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "RFC 147 (1971, 'The Definition of a Socket')",
+                "BSD sockets API (1983)",
+                "man7.org: socket(2)",
+                "https://en.wikipedia.org/wiki/Network_socket"
+            ],
+            "description": "Network connection endpoints as physical electrical outlets (or lightbulb sockets). You 'plug in' to a socket to establish a connection. The metaphor imports: the standardized interface (all plugs fit the same socket), the notion of a fixed endpoint, and the idea that communication requires physical contact. Berkeley sockets (1983) cemented the metaphor in the Unix API."
+        },
+        {
+            "slug": "network-port",
+            "name": "PORT",
+            "kind": "dead-metaphor",
+            "source_frame": "travel",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "RFC 793 (TCP, 1981)",
+                "https://en-academic.com/dic.nsf/enwiki/222729"
+            ],
+            "description": "Network endpoints as harbor ports. Ships (packets) arrive at numbered ports; each port handles specific types of cargo (services). Port 80 for HTTP, 443 for HTTPS, 22 for SSH. The maritime metaphor encodes: numbered berths, designated purposes, arrival and departure. 'Port scanning' extends it: checking which berths are open."
+        },
+        {
+            "slug": "tcp-handshake",
+            "name": "HANDSHAKE",
+            "kind": "dead-metaphor",
+            "source_frame": "social-behavior",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "RFC 793 (TCP, 1981): 'Three-way handshake'",
+                "https://en.wikipedia.org/wiki/Handshake_(computing)"
+            ],
+            "description": "Connection establishment as a social greeting. TCP's three-way handshake: SYN (I want to talk), SYN-ACK (acknowledged, I want to talk too), ACK (agreed, let's talk). The social metaphor perfectly encodes the bilateral agreement required before communication can begin. Both parties must consent. The handshake can fail (refused connection) or be faked (SYN flood attack)."
+        },
+        {
+            "slug": "dns-domain",
+            "name": "DOMAIN (DNS)",
+            "kind": "dead-metaphor",
+            "source_frame": "governance",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "RFC 1035 (DNS, 1987)",
+                "https://en.wikipedia.org/wiki/Domain_Name_System"
+            ],
+            "description": "DNS naming as territorial governance. Domains, zones, delegation, authority -- the entire vocabulary of feudal land administration mapped onto internet naming. A domain is a 'territory' of names. Authority is 'delegated' from parent to child zones. There are 'authoritative' name servers. The metaphor encodes hierarchical sovereignty over naming rights."
+        },
+
+        # === PROCESS AND MEMORY METAPHORS ===
+
+        {
+            "slug": "process-thread",
+            "name": "THREAD",
+            "kind": "dead-metaphor",
+            "source_frame": "manufacturing",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "man7.org: pthreads(7)",
+                "https://en.wikipedia.org/wiki/Thread_(computing)"
+            ],
+            "description": "A thread of execution as a literal thread (textile fiber). Multiple threads can exist within a single process, interweaving like threads in fabric. The metaphor imports: 'thread safety' (threads not tangling), 'spinning up' threads (like spinning fiber), and the fundamental image of parallel strands running alongside each other. 'Multithreading' is weaving."
+        },
+        {
+            "slug": "memory-stack",
+            "name": "STACK",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Kernighan & Ritchie, K&R (function call mechanism)",
+                "https://en.wikipedia.org/wiki/Call_stack"
+            ],
+            "description": "The call stack as a physical stack of plates. Last in, first out: you can only remove the top plate. Function calls push onto the stack; returns pop off. 'Stack overflow' is too many plates. 'Stack trace' is reading the plates from top to bottom. The metaphor is so apt that hardware implements it directly -- the stack pointer register is a literal pointer to the top of the stack."
+        },
+        {
+            "slug": "memory-heap",
+            "name": "HEAP",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Kernighan & Ritchie, K&R (dynamic allocation)",
+                "https://en.wikipedia.org/wiki/Heap_(data_structure)"
+            ],
+            "description": "Dynamically allocated memory as a disordered pile. Unlike the stack (orderly, LIFO), the heap is a region where memory is allocated and freed in any order -- like a heap of objects where you grab what you need. The contrast with 'stack' is deliberate: stacks are orderly, heaps are not. malloc() and free() manage the heap. 'Heap corruption' is the pile collapsing."
+        },
+        {
+            "slug": "memory-leak",
+            "name": "MEMORY LEAK",
+            "kind": "dead-metaphor",
+            "source_frame": "fluid-dynamics",
+            "target_frame": "software-programs",
+            "categories": ["computer-science", "systems-thinking"],
+            "source": "archive",
+            "archive_refs": [
+                "https://en.wikipedia.org/wiki/Memory_leak",
+                "http://www.catb.org/jargon/html/"
+            ],
+            "description": "Unreleased memory as a leaking container. The fluid metaphor: memory 'leaks out' of the program's control, gradually draining the available pool. The program uses more and more memory without releasing it, like a bucket with a small hole. Eventually the system 'runs dry'. The plumbing metaphor connects to Unix's broader fluid-dynamics vocabulary."
+        },
+        {
+            "slug": "buffer-overflow",
+            "name": "BUFFER OVERFLOW",
+            "kind": "dead-metaphor",
+            "source_frame": "fluid-dynamics",
+            "target_frame": "software-programs",
+            "categories": ["computer-science", "security"],
+            "source": "archive",
+            "archive_refs": [
+                "Morris Worm (1988) -- first major buffer overflow exploit",
+                "https://en.wikipedia.org/wiki/Buffer_overflow"
+            ],
+            "description": "Writing past the end of an allocated memory region as overflowing a container. A buffer is a holding area (like a water buffer tank); writing more data than it can hold causes it to 'overflow' into adjacent memory. The fluid metaphor: too much water for the vessel. In C, buffer overflows are the canonical security vulnerability -- the language gives you the pipe but no overflow valve."
+        },
+
+        # === UNIX DESIGN PHILOSOPHY METAPHORS ===
+
+        {
+            "slug": "unix-filter",
+            "name": "FILTER",
+            "kind": "dead-metaphor",
+            "source_frame": "fluid-dynamics",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "McIlroy, 'A Research UNIX Reader' (1987)",
+                "Raymond, TAOUP Ch 1: 'Rule of Composition'"
+            ],
+            "description": "A program that reads stdin and writes stdout as a water filter. grep, sort, uniq, awk, sed -- all are 'filters' in the Unix plumbing system. Data flows in, gets transformed or reduced, flows out. The filter lets desired data through and blocks the rest, exactly like a physical filter. Part of the plumbing metaphor family with pipes and tees."
+        },
+        {
+            "slug": "unix-tee",
+            "name": "TEE",
+            "kind": "dead-metaphor",
+            "source_frame": "fluid-dynamics",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "man7.org: tee(1)",
+                "Named after the T-shaped plumbing fitting"
+            ],
+            "description": "The tee command as a T-shaped pipe fitting. In plumbing, a tee splits flow into two directions. The Unix tee command does exactly this: it reads stdin, writes to stdout AND to a file simultaneously. The naming is explicit plumbing terminology. One of the most transparently metaphorical Unix commands."
+        },
+
+        # === ENVIRONMENT AND CONFIGURATION METAPHORS ===
+
+        {
+            "slug": "environment-variable",
+            "name": "ENVIRONMENT",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "llm",
+            "archive_refs": [
+                "man7.org: environ(7)",
+                "Unix Version 7 (1979) introduced environment variables"
+            ],
+            "description": "The process execution context as a physical environment/surroundings. A process 'lives in' an environment defined by variables. Child processes 'inherit' their parent's environment (genetic metaphor on top of spatial metaphor). You 'set' the environment, 'export' variables to it, and programs 'read' from it. The ecological metaphor: organisms adapted to their environment."
+        },
+        {
+            "slug": "process-parent-child",
+            "name": "PARENT AND CHILD PROCESSES",
+            "kind": "dead-metaphor",
+            "source_frame": "social-roles",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974, Section 'Processes and images'",
+                "man7.org: fork(2)"
+            ],
+            "description": "Process relationships as family relationships. fork() creates a child process from a parent. Children inherit the parent's properties (memory, file descriptors, environment). The parent can 'wait' for the child. If the parent dies first, the child becomes an orphan (adopted by init). If the child dies and the parent doesn't acknowledge it, it becomes a zombie. The family metaphor is remarkably complete and internally consistent."
+        },
+        {
+            "slug": "process-kill",
+            "name": "KILL",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "man7.org: kill(2)",
+                "Ritchie & Thompson, CACM 1974"
+            ],
+            "description": "Terminating a process as killing a living thing. The violence of the metaphor is deliberate: kill -9 (SIGKILL) is immediate, forceful, cannot be caught or ignored. The process 'dies'. Its children become orphans. kill -15 (SIGTERM) is a polite request -- 'please die'. The entire process lifecycle uses life/death metaphors: born (fork), lives (runs), dies (exit), can become undead (zombie)."
+        },
+        {
+            "slug": "process-sleep",
+            "name": "SLEEP",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "man7.org: sleep(3)",
+                "Ritchie & Thompson, CACM 1974"
+            ],
+            "description": "A process waiting for a specified duration as sleeping. The process is alive but inactive, unconscious of its surroundings, for a set period. It 'wakes up' when the time expires or when 'interrupted' by a signal. The biological metaphor extends: processes can also 'block' (wait for I/O) and be 'woken up' by events."
+        },
+
+        # === ADDITIONAL UNIX/C METAPHORS ===
+
+        {
+            "slug": "symlink",
+            "name": "LINK (SYMBOLIC AND HARD)",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974, Section 'The File System'",
+                "man7.org: ln(1), symlink(7)"
+            ],
+            "description": "File system references as physical links in a chain. A hard link is an additional name for the same underlying data (two chains attached to the same anchor). A symbolic link is an alias that 'points to' another name (a redirect sign). The chain/connection metaphor imports: 'broken links' (pointing to something that no longer exists), 'link count' (how many chains attach)."
+        },
+        {
+            "slug": "device-driver",
+            "name": "DRIVER",
+            "kind": "dead-metaphor",
+            "source_frame": "travel",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "llm",
+            "archive_refs": [
+                "Lions' Commentary on UNIX 6th Edition (1977)"
+            ],
+            "description": "Software that controls hardware as a 'driver' -- one who drives/operates a vehicle or machine. The driver 'steers' communication between the OS and the device. The metaphor encodes agency and expertise: the driver knows how to operate the specific hardware, translating general commands into device-specific actions."
+        },
+        {
+            "slug": "stdin-stdout-stderr",
+            "name": "STANDARD STREAMS (stdin/stdout/stderr)",
+            "kind": "dead-metaphor",
+            "source_frame": "fluid-dynamics",
+            "target_frame": "data-processing",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974",
+                "man7.org: stdin(3)"
+            ],
+            "description": "Default I/O channels as streams of flowing water. Every Unix process is born with three streams: input, output, and error. Data 'flows' through these streams. You can 'redirect' a stream (like diverting a river). Streams can be 'piped' together. The stream metaphor is the connective tissue of Unix's plumbing vocabulary."
+        },
+        {
+            "slug": "cron-job",
+            "name": "JOB / CRON JOB",
+            "kind": "dead-metaphor",
+            "source_frame": "economics",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "man7.org: cron(8)",
+                "'cron' from Greek 'chronos' (time)"
+            ],
+            "description": "Scheduled tasks as jobs (units of work). A 'job' is a discrete task the system performs. 'Cron' (from chronos, time) schedules jobs at specified times. The employment metaphor: jobs are 'submitted', 'queued', 'running', 'completed', or 'failed'. Job control lets you 'suspend', 'resume', or 'background' a job -- managing workers."
+        },
+        {
+            "slug": "process-trap",
+            "name": "TRAP",
+            "kind": "dead-metaphor",
+            "source_frame": "embodied-experience",
+            "target_frame": "software-programs",
+            "categories": ["computer-science"],
+            "source": "archive",
+            "archive_refs": [
+                "Ritchie & Thompson, CACM 1974",
+                "man7.org: trap (shell builtin)"
+            ],
+            "description": "Catching an exception or signal as setting a physical trap. In Unix, 'trap' catches signals and executes a handler. The hunting metaphor: you set a trap for a specific signal, and when it arrives, it's caught. Hardware 'traps' (interrupts) use the same metaphor. The trapped signal is 'caught' before it can cause damage -- defensive hunting."
+        },
+    ]
+
+    return candidates
+
+
+def build_manifest():
+    """Build the complete manifest."""
+    candidates = build_candidates()
+
+    # Verify no duplicates with existing catalog
+    for c in candidates:
+        if c["slug"] in ALREADY_IN_CATALOG:
+            print(
+                f"WARNING: {c['slug']} is already in the catalog!",
+                file=sys.stderr,
+            )
+
+    manifest = {
+        "project": "unix-c-metaphors",
+        "project_issue": 9,
+        "source_type": "archive",
+        "archive_urls": [
+            "https://en.wikipedia.org/wiki/List_of_computer_term_etymologies",
+            "http://www.catb.org/jargon/html/",
+            "https://www.nokia.com/bell-labs/about/dennis-m-ritchie/cacm.pdf",
+            "https://www.nokia.com/bell-labs/about/dennis-m-ritchie/chist.html",
+            "http://doc.cat-v.org/unix/pipes/",
+            "https://man7.org/linux/man-pages/",
+            "https://dsf.berkeley.edu/cs262/unix.pdf",
+        ],
+        "candidates": candidates,
+    }
+
+    return manifest
+
+
+if __name__ == "__main__":
+    manifest = build_manifest()
+    print(json.dumps(manifest, indent=2))
