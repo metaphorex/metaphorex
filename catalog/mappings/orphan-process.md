@@ -13,6 +13,7 @@ contributors: []
 related:
   - software-rot
   - bus-factor
+  - zombie-process
 ---
 
 ## What It Brings
