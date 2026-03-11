@@ -3,7 +3,7 @@ slug: significant-is-big
 name: "Significant Is Big"
 kind: conceptual-metaphor
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
+target_frame: social-behavior
 categories:
   - cognitive-science
   - linguistics
