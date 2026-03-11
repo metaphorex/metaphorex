@@ -110,6 +110,24 @@ source active vs dormant):
    in the catalog.
 5. **Review** — entries go through editorial review before merging.
 
+## Import projects and sub-issues
+
+Large-scale imports are organized as **import projects** — a parent issue
+describing the source, with individual mapping candidates tracked as native
+GitHub sub-issues of that parent.
+
+- **Parent issues** are labeled `import-project` and describe the source
+  (a book, a pattern catalog, a field of study).
+- **Sub-issues** are created as children of the parent using GitHub's native
+  sub-issue relationship (`addSubIssue` GraphQL mutation). Each sub-issue
+  represents one mapping candidate.
+- **Do not use body text** like "Parent issue: #3" to express parent/child
+  relationships. Use GitHub's native sub-issue feature so the relationship
+  is visible in the UI and queryable via the API.
+
+The pipeline agents (Prospector, Miner, Assayer, Smelter) use native
+sub-issue queries to discover and track work.
+
 ## Editorial guide for mapping entries
 
 This section encodes the editorial standards that all mapping entries must
