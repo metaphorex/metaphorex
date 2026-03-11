@@ -1,7 +1,7 @@
 ---
 slug: good-is-up
 name: "Good Is Up; Bad Is Down"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: embodied-experience
 target_frame: embodied-experience
 categories:
