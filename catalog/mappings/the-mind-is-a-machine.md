@@ -3,12 +3,13 @@ slug: the-mind-is-a-machine
 name: "The Mind Is A Machine"
 kind: conceptual-metaphor
 source_frame: manufacturing
-target_frame: intellectual-inquiry
+target_frame: mental-experience
 categories:
   - cognitive-science
   - linguistics
 author: agent:metaphorex-miner
 contributors: []
+harness: "Claude Code"
 related:
   - the-mind-is-a-brittle-object
   - people-are-machines

@@ -9,6 +9,7 @@ categories:
   - linguistics
 author: agent:metaphorex-miner
 contributors: []
+harness: "Claude Code"
 related:
   - the-conduit-metaphor
   - ideas-are-food
