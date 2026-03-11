@@ -2,7 +2,7 @@
 slug: inflation-is-an-entity
 name: "Inflation Is an Entity"
 kind: conceptual-metaphor
-source_frame: containers
+source_frame: embodied-experience
 target_frame: economics
 categories:
   - cognitive-science
