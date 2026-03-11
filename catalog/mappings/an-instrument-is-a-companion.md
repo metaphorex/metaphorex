@@ -3,7 +3,7 @@ slug: an-instrument-is-a-companion
 name: "An Instrument Is a Companion"
 kind: conceptual-metaphor
 source_frame: social-roles
-target_frame: collaborative-work
+target_frame: tool-use
 categories:
   - cognitive-science
   - linguistics
@@ -11,7 +11,7 @@ author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
 related:
-  - people-are-machines
+  - the-mind-is-a-machine
 ---
 
 ## What It Brings
