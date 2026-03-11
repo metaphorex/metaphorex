@@ -89,8 +89,13 @@ You are NOT involved in `nugget` issues — those go directly to the Miner.
 7. Write the playbook at `projects/<project-name>/playbook.md`
 8. Write extraction scripts at `projects/<project-name>/scripts/` if
    the source is structured enough for deterministic parsing
-9. Create sub-issues on the parent issue (one per mapping candidate)
-   with the slug, kind, and brief description
+9. Create sub-issues for each mapping candidate with the slug, kind,
+   and brief description. After creating each issue, set its native
+   GitHub parent using the GraphQL `addSubIssue` mutation:
+   ```bash
+   gh api graphql -f query='mutation { addSubIssue(input: { issueId: "<PARENT_NODE_ID>", subIssueId: "<CHILD_NODE_ID>" }) { subIssue { number } } }'
+   ```
+   Get node IDs with: `gh api graphql -f query='{ repository(owner: "metaphorex", name: "metaphorex") { issue(number: N) { id } } }' --jq '.data.repository.issue.id'`
 10. Open a PR into the agents repo with all artifacts
 11. Post a run summary comment on the parent issue
 
@@ -114,6 +119,7 @@ Title: `[<project-name>] <mapping-name>`
 Body: slug, kind, source_frame, target_frame, brief description of
 what makes this mapping interesting.
 Label: `import-project`
+Parent: set via `addSubIssue` GraphQL mutation (NOT via body text)
 
 **Run Comment:**
 

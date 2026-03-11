@@ -73,7 +73,10 @@ If invoked without a specific project or issue:
 **Process (project sub-issues):**
 
 1. Read the playbook at `projects/<project-name>/playbook.md`
-2. List sub-issues on the parent import-project issue
+2. List sub-issues using the parent's native GitHub sub-issues:
+   ```bash
+   gh api graphql -f query='{ repository(owner: "metaphorex", name: "metaphorex") { issue(number: <PARENT>) { subIssues(first: 100) { nodes { number title state labels(first: 5) { nodes { name } } } } } } }'
+   ```
 3. Filter to unprocessed sub-issues (open, no linked PR, no `in-progress`)
 4. Claim the issue (add `in-progress` label)
 5. For each sub-issue:
