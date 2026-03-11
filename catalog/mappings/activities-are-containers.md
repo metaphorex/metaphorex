@@ -3,7 +3,7 @@ slug: activities-are-containers
 name: "Activities Are Containers"
 kind: conceptual-metaphor
 source_frame: containers
-target_frame: embodied-experience
+target_frame: event-structure
 categories:
   - cognitive-science
   - linguistics
