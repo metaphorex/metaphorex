@@ -10,7 +10,6 @@ author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
 related:
-  - zombie-process
   - software-rot
 ---
 
