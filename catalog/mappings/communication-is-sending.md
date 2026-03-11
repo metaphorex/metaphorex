@@ -3,7 +3,7 @@ slug: communication-is-sending
 name: "Communication Is Sending"
 kind: conceptual-metaphor
 source_frame: containers
-target_frame: intellectual-inquiry
+target_frame: communication
 categories:
   - cognitive-science
   - linguistics
