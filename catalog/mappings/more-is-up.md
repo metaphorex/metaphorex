@@ -1,7 +1,7 @@
 ---
 slug: more-is-up
 name: "More Is Up; Less Is Down"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: embodied-experience
 target_frame: embodied-experience
 categories:
