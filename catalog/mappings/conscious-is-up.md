@@ -1,7 +1,7 @@
 ---
 slug: conscious-is-up
 name: "Conscious Is Up; Unconscious Is Down"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: embodied-experience
 target_frame: mental-experience
 categories:
