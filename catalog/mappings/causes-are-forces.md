@@ -1,9 +1,9 @@
 ---
-slug: causation
-name: "Causation"
+slug: causes-are-forces
+name: "Causes Are Forces"
 kind: conceptual-metaphor
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
+target_frame: causal-reasoning
 categories:
   - cognitive-science
   - linguistics
