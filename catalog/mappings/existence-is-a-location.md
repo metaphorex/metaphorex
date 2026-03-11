@@ -3,7 +3,7 @@ slug: existence-is-a-location
 name: "Existence Is A Location"
 kind: conceptual-metaphor
 source_frame: journeys
-target_frame: mental-experience
+target_frame: event-structure
 categories:
   - cognitive-science
   - linguistics

@@ -3,7 +3,7 @@ slug: action-is-motion
 name: "Action Is Motion"
 kind: conceptual-metaphor
 source_frame: embodied-experience
-target_frame: mental-experience
+target_frame: event-structure
 categories:
   - cognitive-science
   - linguistics

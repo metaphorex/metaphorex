@@ -3,7 +3,7 @@ slug: states-are-locations
 name: "States Are Locations"
 kind: conceptual-metaphor
 source_frame: journeys
-target_frame: mental-experience
+target_frame: event-structure
 categories:
   - cognitive-science
   - linguistics
