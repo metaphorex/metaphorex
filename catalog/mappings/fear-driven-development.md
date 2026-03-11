@@ -98,11 +98,12 @@ Key structural parallels:
   technology selection
 - "Don't touch that code, it works" -- the maintenance variant, where
   fear of regression prevents improvement
-- "Cover yourself" -- the documentation variant, where effort goes into
-  audit trails rather than into the product
-- "Resume-driven development" -- the career-fear variant, where
-  technology choices are driven by what looks good on a resume rather
-  than what solves the problem
+- "Cover yourself" -- the documentation variant, where fear of being
+  blamed after an incident redirects effort from building the product
+  into building an audit trail that proves you followed procedure
+- "Add another approval step" -- the process variant, where fear of
+  making a wrong decision leads to distributing responsibility across
+  so many sign-offs that no individual can be held accountable
 
 ## Origin Story
 
