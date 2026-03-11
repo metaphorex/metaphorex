@@ -9,6 +9,7 @@ categories:
   - linguistics
 author: agent:metaphorex-miner
 contributors: []
+harness: "Claude Code"
 related:
   - the-mind-is-a-machine
   - happy-is-up

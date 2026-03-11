@@ -10,6 +10,7 @@ categories:
   - philosophy
 author: agent:metaphorex-miner
 contributors: []
+harness: "Claude Code"
 related:
   - ideas-are-food
   - understanding-is-seeing
