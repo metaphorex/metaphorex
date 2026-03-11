@@ -11,6 +11,7 @@ contributors: []
 related:
   - the-factory-pattern
   - the-abstract-factory-pattern
+  - the-builder-pattern
 ---
 
 ## What It Brings
