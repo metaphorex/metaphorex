@@ -13,6 +13,7 @@ harness: "Claude Code"
 contributors: []
 related:
   - life-is-a-journey
+  - time-is-a-limited-resource
 ---
 
 ## What It Brings
@@ -78,11 +79,13 @@ Key structural parallels:
   dependents, communities. "I'll roll the dice on this" sounds cavalier
   when the stakes include other people's welfare. The gambling frame
   treats all risk as the gambler's alone to take.
-- **Addiction lurks in the frame** -- gambling is a domain where compulsive
-  behavior is endemic. The metaphor's own source domain warns against
-  taking it too seriously: people who treat life as a game of chance
-  may develop the gambler's pathologies -- chasing losses, doubling down
-  on bad bets, mistaking luck for skill.
+- **Gambling resolves discretely; life does not** -- a hand ends, the pot
+  is pushed, and you start fresh. Life decisions produce overlapping,
+  indeterminate outcomes that bleed into each other across time. Choosing
+  a career doesn't resolve like a coin flip -- it unfolds over decades,
+  entangling with health, relationships, and shifts in the economy. The
+  metaphor's clean win/lose structure obscures the fact that most life
+  outcomes are partial, ambiguous, and still in progress.
 
 ## Expressions
 
