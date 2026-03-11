@@ -2,7 +2,7 @@
 slug: rubber-duck-debugging
 name: "Rubber Duck Debugging"
 kind: conceptual-metaphor
-source_frame: social-behavior
+source_frame: communication
 target_frame: software-programs
 categories:
   - software-engineering
