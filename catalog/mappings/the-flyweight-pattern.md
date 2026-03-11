@@ -2,7 +2,7 @@
 slug: the-flyweight-pattern
 name: "The Flyweight Pattern"
 kind: conceptual-metaphor
-source_frame: competition
+source_frame: combat-sports
 target_frame: object-oriented-design
 categories:
   - software-engineering
