@@ -7,6 +7,7 @@ target_frame: software-programs
 categories:
   - software-engineering
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - technical-debt
