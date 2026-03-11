@@ -11,7 +11,6 @@ harness: "Claude Code"
 contributors: []
 related:
   - cargo-cult-programming
-  - deep-magic
 ---
 
 ## What It Brings
