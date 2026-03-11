@@ -3,7 +3,7 @@ slug: the-mind-is-a-brittle-object
 name: "The Mind Is A Brittle Object"
 kind: conceptual-metaphor
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
+target_frame: mental-experience
 categories:
   - cognitive-science
   - linguistics
