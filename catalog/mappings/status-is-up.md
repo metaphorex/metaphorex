@@ -1,7 +1,7 @@
 ---
 slug: status-is-up
 name: "Status Is Up; Lack Of Status Is Down"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: embodied-experience
 target_frame: social-roles
 categories:
