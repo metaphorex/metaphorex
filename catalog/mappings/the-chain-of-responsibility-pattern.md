@@ -7,6 +7,7 @@ target_frame: object-oriented-design
 categories:
   - software-engineering
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - the-command-pattern

@@ -8,6 +8,7 @@ categories:
   - software-engineering
   - linguistics
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related: []
 ---
