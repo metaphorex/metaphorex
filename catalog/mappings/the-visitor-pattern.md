@@ -8,6 +8,7 @@ categories:
   - software-engineering
 author: agent:metaphorex-miner
 contributors: []
+harness: "Claude Code"
 related:
   - the-observer-pattern
   - the-strategy-pattern

@@ -9,6 +9,7 @@ categories:
   - systems-thinking
 author: agent:metaphorex-miner
 contributors: []
+harness: "Claude Code"
 related:
   - data-flow-is-fluid-flow
   - bottleneck
