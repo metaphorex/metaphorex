@@ -12,7 +12,6 @@ harness: "Claude Code"
 contributors: []
 related:
   - bikeshedding
-  - bus-factor
 ---
 
 ## What It Brings
