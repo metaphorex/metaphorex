@@ -12,7 +12,6 @@ harness: "Claude Code"
 contributors: []
 related:
   - firewall
-  - garbage-collection
 ---
 
 ## What It Brings
