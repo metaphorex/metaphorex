@@ -41,7 +41,8 @@ so the user sees progress.
    - If `needs_assay` is non-empty: TaskCreate "Assaying PRs...", then
      dispatch `metaphorex-agents:assayer` with model `sonnet`
    - If `needs_miner_fix` is non-empty: TaskCreate "Fixing flagged PRs...",
-     then dispatch `metaphorex-agents:miner` with model `opus`
+     then dispatch `metaphorex-agents:miner` with model `opus`,
+     isolation `worktree`
    - **Surveying** — if `needs_survey` is non-empty: TaskCreate
      "Surveying playbooks...", then dispatch `metaphorex-agents:surveyor`
      with model `sonnet`. Runs scraping scripts, verifies manifest against
@@ -74,7 +75,7 @@ so the user sees progress.
    projects — the survey script filters accordingly):
    - Take up to 5 unclaimed issues from the survey
    - TaskCreate "Mining 5 issues...", dispatch `metaphorex-agents:miner`
-     with model `opus`, run_in_background: true
+     with model `opus`, isolation `worktree`, run_in_background: true
    - Wait for completion, TaskUpdate to completed
 
 **Label management is deterministic.** Each agent is responsible for setting
@@ -84,13 +85,13 @@ agent bug to fix in the agent prompt, not a pitboss workaround.
 
 **Agent dispatch reference:**
 
-| Agent | subagent_type | model |
-|-------|---------------|-------|
-| Smelter | metaphorex-agents:smelter | haiku |
-| Assayer | metaphorex-agents:assayer | sonnet |
-| Miner | metaphorex-agents:miner | opus |
-| Surveyor | metaphorex-agents:surveyor | sonnet |
-| Prospector | metaphorex-agents:prospector | opus |
+| Agent | subagent_type | model | isolation |
+|-------|---------------|-------|-----------|
+| Smelter | metaphorex-agents:smelter | haiku | — |
+| Assayer | metaphorex-agents:assayer | sonnet | — |
+| Miner | metaphorex-agents:miner | opus | worktree |
+| Surveyor | metaphorex-agents:surveyor | sonnet | — |
+| Prospector | metaphorex-agents:prospector | opus | — |
 
 ## Phase C — Round summary & loop
 
