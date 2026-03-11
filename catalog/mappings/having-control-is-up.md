@@ -1,9 +1,9 @@
 ---
 slug: having-control-is-up
 name: "Having Control Is Up; Being Subject To Control Is Down"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
+target_frame: social-behavior
 categories:
   - cognitive-science
   - linguistics

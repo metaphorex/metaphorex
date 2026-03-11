@@ -1,7 +1,7 @@
 ---
 slug: rational-is-up
 name: "Rational Is Up; Emotional Is Down"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
 categories:

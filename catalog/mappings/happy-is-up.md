@@ -1,7 +1,7 @@
 ---
 slug: happy-is-up
 name: "Happy Is Up; Sad Is Down"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: embodied-experience
 target_frame: embodied-experience
 categories:
