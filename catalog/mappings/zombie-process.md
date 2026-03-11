@@ -2,7 +2,7 @@
 slug: zombie-process
 name: "Zombie Process"
 kind: conceptual-metaphor
-source_frame: embodied-experience
+source_frame: mythology
 target_frame: software-programs
 categories:
   - software-engineering
@@ -13,6 +13,7 @@ contributors: []
 related:
   - software-rot
   - bus-factor
+  - orphan-process
 ---
 
 ## What It Brings
