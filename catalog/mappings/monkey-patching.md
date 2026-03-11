@@ -12,7 +12,6 @@ contributors: []
 related:
   - cargo-cult-programming
   - deep-magic
-  - duck-typing
 ---
 
 ## What It Brings
