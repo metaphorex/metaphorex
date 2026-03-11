@@ -6,7 +6,7 @@ on:
 
 jobs:
   post-summary:
-    if: contains(github.event.issue.labels.*.name, 'import-project') && contains(github.event.issue.labels.*.name, 'parent')
+    if: contains(github.event.issue.labels.*.name, 'import-project')
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -23,15 +23,28 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_NAME: ${{ github.event.repository.name }}
         run: |
-          gh issue list -R "$GITHUB_REPOSITORY" \
-            --label import-project --state all \
-            --json number,state --limit 200 \
+          gh api graphql \
+            -f owner="$REPO_OWNER" \
+            -f name="$REPO_NAME" \
+            -F number="$ISSUE_NUMBER" \
+            -f query='query($owner: String!, $name: String!, $number: Int!) {
+              repository(owner: $owner, name: $name) {
+                issue(number: $number) {
+                  subIssues(first: 200) { nodes { number state } }
+                }
+              }
+            }' --jq '.data.repository.issue.subIssues.nodes' \
             | python3 -c "
           import json, os, sys
-          issues = json.load(sys.stdin)
-          parent = int(os.environ['ISSUE_NUMBER'])
-          subs = [i for i in issues if i['number'] != parent]
+          subs = json.load(sys.stdin)
+          if not subs:
+              # Not a parent issue (no sub-issues) — skip
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write('complete=false\n')
+              sys.exit(0)
           open_count = sum(1 for i in subs if i['state'] == 'OPEN')
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
               f.write(f'total={len(subs)}\n')

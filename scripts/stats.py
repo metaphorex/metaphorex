@@ -204,20 +204,17 @@ def query_project_timeline(repo: str, issue: int) -> dict | None:
         )
         created_at = result.stdout.strip()
 
-        # Get all sub-issues (issues that reference this parent)
-        # We use the comments to find stats lines with issue numbers,
-        # then check those issues for closed_at
+        # Get sub-issues using native GitHub sub-issue relationships
+        owner, name = repo.split("/")
         result = subprocess.run(
-            ["gh", "issue", "list", "-R", repo,
-             "--label", "import-project", "--state", "all",
-             "--json", "number,title,state,closedAt,createdAt",
-             "--limit", "200"],
+            ["gh", "api", "graphql",
+             "-f", f"owner={owner}", "-f", f"name={name}",
+             "-F", f"number={issue}",
+             "-f", "query=query($owner: String!, $name: String!, $number: Int!) { repository(owner: $owner, name: $name) { issue(number: $number) { subIssues(first: 100) { nodes { number title state closedAt createdAt } } } } }",
+             "--jq", ".data.repository.issue.subIssues.nodes"],
             capture_output=True, text=True, check=True,
         )
-        sub_issues = json.loads(result.stdout)
-
-        # Filter to sub-issues (exclude parent itself)
-        subs = [s for s in sub_issues if s["number"] != issue]
+        subs = json.loads(result.stdout)
 
         total = len(subs)
         closed = [s for s in subs if s["state"] == "CLOSED"]
