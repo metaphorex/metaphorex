@@ -2,7 +2,7 @@
 slug: duck-typing
 name: "Duck Typing"
 kind: conceptual-metaphor
-source_frame: natural-selection
+source_frame: folk-taxonomy
 target_frame: software-programs
 categories:
   - software-engineering
@@ -11,7 +11,7 @@ author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
 related:
-  - rubber-duck-debugging
+  - the-map-is-not-the-territory
 ---
 
 ## What It Brings
@@ -45,14 +45,15 @@ Key structural parallels:
   technical mechanism. Duck-typed languages are, in a sense, pragmatist
   languages: they refuse to adjudicate identity in advance and instead
   let runtime behavior settle the question.
-- **Fitness as functional compatibility** -- borrowing from the natural
-  selection frame, duck typing echoes the principle that organisms are
-  identified by their functional adaptations rather than their
-  phylogenetic classification. A bat flies like a bird but is not a
-  bird. In duck typing, a string-like object that supports iteration
-  can be used wherever an iterable is expected, regardless of its
-  class ancestry. Functional fitness, not taxonomic lineage, determines
-  belonging.
+- **Folk taxonomy over formal taxonomy** -- the folk classifier does not
+  consult a phylogenetic tree or a formal type hierarchy. A bat flies
+  like a bird and is colloquially called a bird in many contexts, even
+  though it is a mammal. Folk taxonomy groups things by observable
+  behavioral markers, not by lineage or formal declaration. Duck typing
+  applies the same logic: a string-like object that supports iteration
+  can be used wherever an iterable is expected, regardless of its class
+  ancestry. The category is constituted by the markers, not the
+  pedigree.
 
 ## Where It Breaks
 
