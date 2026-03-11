@@ -2,7 +2,7 @@
 slug: monkey-patching
 name: "Monkey-Patching"
 kind: conceptual-metaphor
-source_frame: animal-husbandry
+source_frame: social-behavior
 target_frame: software-programs
 categories:
   - software-engineering
