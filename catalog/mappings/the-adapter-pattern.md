@@ -2,7 +2,7 @@
 slug: the-adapter-pattern
 name: "The Adapter Pattern"
 kind: conceptual-metaphor
-source_frame: manufacturing
+source_frame: hardware-compatibility
 target_frame: object-oriented-design
 categories:
   - software-engineering
