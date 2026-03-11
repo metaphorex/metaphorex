@@ -9,6 +9,7 @@ categories:
   - linguistics
   - social-dynamics
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - having-control-is-up
