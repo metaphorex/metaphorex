@@ -1,0 +1,68 @@
+name: Post project summary on close
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  post-summary:
+    if: contains(github.event.issue.labels.*.name, 'import-project')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check if all sub-issues are closed
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_NAME: ${{ github.event.repository.name }}
+        run: |
+          gh api graphql \
+            -f owner="$REPO_OWNER" \
+            -f name="$REPO_NAME" \
+            -F number="$ISSUE_NUMBER" \
+            -f query='query($owner: String!, $name: String!, $number: Int!) {
+              repository(owner: $owner, name: $name) {
+                issue(number: $number) {
+                  subIssues(first: 200) { nodes { number state } }
+                }
+              }
+            }' --jq '.data.repository.issue.subIssues.nodes' \
+            | python3 -c "
+          import json, os, sys
+          subs = json.load(sys.stdin)
+          if not subs:
+              # Not a parent issue (no sub-issues) — skip
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write('complete=false\n')
+              sys.exit(0)
+          open_count = sum(1 for i in subs if i['state'] == 'OPEN')
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f'total={len(subs)}\n')
+              f.write(f'open={open_count}\n')
+              f.write(f'complete={\"true\" if open_count == 0 else \"false\"}\n')
+          "
+
+      - name: Post summary
+        if: steps.check.outputs.complete == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          summary=$(gh api "repos/${REPO}/issues/${ISSUE_NUMBER}/comments" \
+            --paginate --jq '.[].body' \
+            | python3 scripts/stats.py summary \
+              --repo "$REPO" --issue "$ISSUE_NUMBER")
+
+          gh api "repos/${REPO}/issues/${ISSUE_NUMBER}/comments" \
+            -f body="$summary"
