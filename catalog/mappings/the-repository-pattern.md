@@ -2,7 +2,7 @@
 slug: the-repository-pattern
 name: "The Repository Pattern"
 kind: conceptual-metaphor
-source_frame: governance
+source_frame: library-and-archive
 target_frame: software-abstraction
 categories:
   - software-engineering
