@@ -6,7 +6,8 @@ source_frame: food-and-cooking
 target_frame: software-programs
 categories:
   - software-engineering
-author: metaphorex-miner
+author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - data-flow-is-fluid-flow
