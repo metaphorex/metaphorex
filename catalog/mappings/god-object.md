@@ -2,7 +2,7 @@
 slug: god-object
 name: "God Object"
 kind: conceptual-metaphor
-source_frame: mythology
+source_frame: religion
 target_frame: software-programs
 categories:
   - software-engineering
