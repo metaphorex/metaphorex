@@ -110,23 +110,48 @@ def survey(repo: str) -> dict:
         else:
             sub_issues.append(issue)
 
-    # Parents without in-progress = not yet prospected
+    # Categorize parent issues by pipeline stage:
+    #   no labels         → needs_prospecting
+    #   in-progress only  → needs_survey (prospected, not yet verified)
+    #   in-progress + surveyed → prospected_projects (ready for mining)
+    #   needs-rework      → needs_rework (prospecting rejected)
     needs_prospecting = []
+    needs_survey = []
+    prospected_projects = []
+    needs_rework = []
 
     for p in parents:
         label_names = [l["name"] for l in p.get("labels", {}).get("nodes", [])]
-        if "in-progress" not in label_names:
+        if "needs-rework" in label_names:
+            needs_rework.append({
+                "number": p["number"],
+                "title": p["title"],
+            })
+        elif "in-progress" not in label_names:
             needs_prospecting.append({
+                "number": p["number"],
+                "title": p["title"],
+            })
+        elif "surveyed" in label_names:
+            prospected_projects.append({
+                "number": p["number"],
+                "title": p["title"],
+            })
+        else:
+            needs_survey.append({
                 "number": p["number"],
                 "title": p["title"],
             })
 
     # Sub-issues without in-progress = unclaimed mining work
+    # Only include sub-issues whose parent project is surveyed (verified).
+    surveyed_parent_numbers = {p["number"] for p in prospected_projects}
     unclaimed = []
 
     for issue in sub_issues:
         label_names = [l["name"] for l in issue.get("labels", {}).get("nodes", [])]
-        if "in-progress" not in label_names:
+        parent_num = issue.get("parent", {}).get("number") if issue.get("parent") else None
+        if "in-progress" not in label_names and parent_num in surveyed_parent_numbers:
             unclaimed.append({
                 "number": issue["number"],
                 "title": issue["title"],
@@ -136,11 +161,15 @@ def survey(repo: str) -> dict:
         "needs_smelting": smelting,
         "needs_assay": assay,
         "needs_miner_fix": miner_fix,
+        "needs_survey": needs_survey,
+        "needs_rework": needs_rework,
         "in_progress": in_progress,
         "unclaimed": unclaimed,
         "needs_prospecting": needs_prospecting,
+        "prospected_projects": prospected_projects,
         "total_actionable": (
             len(smelting) + len(assay) + len(miner_fix)
+            + len(needs_survey) + len(needs_rework)
             + len(unclaimed) + len(needs_prospecting)
         ),
     }

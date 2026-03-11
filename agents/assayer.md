@@ -89,9 +89,19 @@ minimum quality bar. Specifically:
 [Specific feedback]
 ```
 
+**Label Management (MANDATORY):**
+
+After posting your review, you MUST update PR labels. This is not optional —
+the pitboss orchestrator relies on deterministic labels, not review text.
+
+- **Approve** → remove `needs-assay`, add `approved`
+- **Request Changes** → remove `needs-assay`, add `needs-miner-fix`
+
+Use `gh pr edit <N> --repo <repo> --remove-label "needs-assay" --add-label "<new>"`.
+
 **What You Don't Do:**
 
 - You don't write new mappings (that's the Miner)
 - You don't modify extraction scripts (that's the Prospector's domain)
-- You don't merge PRs (that's the human's call)
+- You don't merge PRs (pitboss handles merge after approval)
 - You don't create sub-issues (that's the Prospector)

@@ -35,27 +35,52 @@ so the user sees progress.
 
 **Dispatch order and concurrency rules:**
 
-1. **Parallel group** — launch simultaneously:
+1. **Parallel group** — launch ALL applicable agents simultaneously:
    - If `needs_smelting` is non-empty: TaskCreate "Smelting PRs...", then
      dispatch `metaphorex-agents:smelter` with model `haiku`
    - If `needs_assay` is non-empty: TaskCreate "Assaying PRs...", then
      dispatch `metaphorex-agents:assayer` with model `sonnet`
    - If `needs_miner_fix` is non-empty: TaskCreate "Fixing flagged PRs...",
      then dispatch `metaphorex-agents:miner` with model `opus`
+   - **Surveying** — if `needs_survey` is non-empty: TaskCreate
+     "Surveying playbooks...", then dispatch `metaphorex-agents:surveyor`
+     with model `sonnet`. Runs scraping scripts, verifies manifest against
+     archives, and on approval creates sub-issues + adds `surveyed` label.
+     This gates all mining on verified candidate lists.
+   - **Re-prospecting** — if `needs_rework` is non-empty: TaskCreate
+     "Re-prospecting...", then dispatch `metaphorex-agents:prospector`
+     with model `opus` for the first `needs_rework` item. Higher priority
+     than fresh prospecting — these were already attempted and rejected.
+   - **Prospecting** — if `prospected_projects` count < 2 AND
+     `needs_prospecting` is non-empty: TaskCreate "Prospecting...", then
+     dispatch `metaphorex-agents:prospector` with model `opus`.
+     Always runs in parallel with other work. The goal is to maintain a
+     buffer of ≥2 prospected projects so mining never stalls.
 
 2. **Wait** for all parallel agents to complete. As each finishes, TaskUpdate
    its spinner to completed.
 
-3. **New mining work** — only if no `in_progress` items exist:
+3. **Merge approved PRs** — after the parallel group completes, check for
+   PRs labeled `approved`. For each, in dependency order:
+   a. Update branch: `gh api repos/<repo>/pulls/<N>/update-branch -X PUT`
+   b. If update fails with "merge conflict", relabel `needs-miner-fix` and
+      comment "Merge conflicts with main. Needs rebase." Move on.
+   c. If update succeeds, set auto-merge:
+      `gh pr merge <N> --repo <repo> --squash --auto`
+   Auto-merge will fire once the `validate` CI check passes.
+
+4. **New mining work** — only if no `in_progress` items exist AND
+   `unclaimed` issues exist (unclaimed issues only come from `surveyed`
+   projects — the survey script filters accordingly):
    - Take up to 5 unclaimed issues from the survey
    - TaskCreate "Mining 5 issues...", dispatch `metaphorex-agents:miner`
      with model `opus`, run_in_background: true
    - Wait for completion, TaskUpdate to completed
 
-4. **Prospecting** — only if no mining or fix work was dispatched:
-   - TaskCreate "Prospecting...", dispatch `metaphorex-agents:prospector`
-     with model `opus`, run_in_background: true
-   - Wait for completion, TaskUpdate to completed
+**Label management is deterministic.** Each agent is responsible for setting
+the correct label on completion. Pitboss does NOT interpret review text or
+re-label PRs — it trusts the survey labels. If a label is wrong, that's an
+agent bug to fix in the agent prompt, not a pitboss workaround.
 
 **Agent dispatch reference:**
 
@@ -64,6 +89,7 @@ so the user sees progress.
 | Smelter | metaphorex-agents:smelter | haiku |
 | Assayer | metaphorex-agents:assayer | sonnet |
 | Miner | metaphorex-agents:miner | opus |
+| Surveyor | metaphorex-agents:surveyor | sonnet |
 | Prospector | metaphorex-agents:prospector | opus |
 
 ## Phase C — Round summary & loop
