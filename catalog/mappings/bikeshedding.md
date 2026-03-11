@@ -7,7 +7,8 @@ target_frame: collaborative-work
 categories:
   - software-engineering
   - organizational-behavior
-author: metaphorex-miner
+author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - bottleneck
