@@ -2,7 +2,7 @@
 slug: cargo-cult-programming
 name: "Cargo Cult Programming"
 kind: conceptual-metaphor
-source_frame: mythology
+source_frame: social-behavior
 target_frame: software-programs
 categories:
   - software-engineering
@@ -11,7 +11,7 @@ author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
 related:
-  - program-failure-is-bodily-failure
+  - spaghetti-code
 ---
 
 ## What It Brings
