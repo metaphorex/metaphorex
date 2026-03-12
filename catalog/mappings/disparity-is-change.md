@@ -3,7 +3,7 @@ slug: disparity-is-change
 name: "Disparity Is Change"
 kind: conceptual-metaphor
 source_frame: event-structure
-target_frame: intellectual-inquiry
+target_frame: event-structure
 categories:
   - cognitive-science
   - linguistics
