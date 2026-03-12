@@ -1,21 +1,22 @@
 ---
-slug: virtue-is-up
-name: "Virtue Is Up; Depravity Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+- ethics-and-morality
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Virtue Is Up; Depravity Is Down
+related:
+- happy-is-up
+- having-control-is-up
+- rational-is-up
+slug: virtue-is-up
 source_frame: embodied-experience
 target_frame: social-behavior
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-  - ethics-and-morality
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - happy-is-up
-  - having-control-is-up
-  - rational-is-up
 ---
 
 ## What It Brings

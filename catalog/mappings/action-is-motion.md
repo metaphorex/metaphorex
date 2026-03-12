@@ -1,19 +1,20 @@
 ---
-slug: action-is-motion
-name: "Action Is Motion"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Action Is Motion
+related:
+- states-are-locations
+- existence-is-a-location
+- love-is-a-journey
+slug: action-is-motion
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - states-are-locations
-  - existence-is-a-location
-  - love-is-a-journey
 ---
 
 ## What It Brings

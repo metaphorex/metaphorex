@@ -1,22 +1,23 @@
 ---
-slug: good-is-up
-name: "Good Is Up; Bad Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+- ethics-and-morality
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Good Is Up; Bad Is Down
+related:
+- happy-is-up
+- more-is-up
+- rational-is-up
+- having-control-is-up
+slug: good-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-  - ethics-and-morality
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - happy-is-up
-  - more-is-up
-  - rational-is-up
-  - having-control-is-up
 ---
 
 ## What It Brings

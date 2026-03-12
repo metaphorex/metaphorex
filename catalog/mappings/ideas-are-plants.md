@@ -1,22 +1,23 @@
 ---
-slug: ideas-are-plants
-name: "Ideas Are Plants"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- biology-and-ecology
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Plants
+related:
+- ideas-are-food
+- ideas-are-people
+- ideas-are-products
+- ideas-are-light-sources
+- creative-process-is-gardening
+slug: ideas-are-plants
 source_frame: horticulture
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - biology-and-ecology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ideas-are-food
-  - ideas-are-people
-  - ideas-are-products
-  - ideas-are-light-sources
-  - creative-process-is-gardening
 ---
 
 ## What It Brings

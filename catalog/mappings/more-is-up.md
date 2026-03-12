@@ -1,19 +1,20 @@
 ---
-slug: more-is-up
-name: "More Is Up; Less Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: More Is Up; Less Is Down
+related:
+- happy-is-up
+- having-control-is-up
+- good-is-up
+slug: more-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - happy-is-up
-  - having-control-is-up
-  - good-is-up
 ---
 
 ## What It Brings

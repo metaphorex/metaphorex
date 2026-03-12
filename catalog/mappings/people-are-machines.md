@@ -1,18 +1,19 @@
 ---
-slug: people-are-machines
-name: "People Are Machines"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- organizational-behavior
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: People Are Machines
+related:
+- the-mind-is-a-machine
+- the-mind-is-a-brittle-object
+slug: people-are-machines
 source_frame: manufacturing
 target_frame: social-behavior
-categories:
-  - cognitive-science
-  - linguistics
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-mind-is-a-machine
-  - the-mind-is-a-brittle-object
 ---
 
 ## What It Brings

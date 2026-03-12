@@ -1,18 +1,19 @@
 ---
-slug: shotgun-debugging
-name: "Shotgun Debugging"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Shotgun Debugging
+related:
+- rubber-duck-debugging
+- heisenbug
+- cargo-cult-programming
+slug: shotgun-debugging
 source_frame: war
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - rubber-duck-debugging
-  - heisenbug
-  - cargo-cult-programming
 ---
 
 ## What It Brings

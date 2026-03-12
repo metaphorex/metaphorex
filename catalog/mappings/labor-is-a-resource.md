@@ -1,20 +1,21 @@
 ---
-slug: labor-is-a-resource
-name: "Labor Is a Resource"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- organizational-behavior
+- economics-and-finance
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Labor Is a Resource
+related:
+- time-is-money
+- time-is-a-limited-resource
+slug: labor-is-a-resource
 source_frame: economics
 target_frame: collaborative-work
-categories:
-  - cognitive-science
-  - linguistics
-  - organizational-behavior
-  - economics-and-finance
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - time-is-money
-  - time-is-a-limited-resource
 ---
 
 ## What It Brings

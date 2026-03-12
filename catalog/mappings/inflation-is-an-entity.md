@@ -1,19 +1,20 @@
 ---
-slug: inflation-is-an-entity
-name: "Inflation Is an Entity"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- economics-and-finance
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Inflation Is an Entity
+related:
+- time-is-money
+- ideas-are-objects
+slug: inflation-is-an-entity
 source_frame: embodied-experience
 target_frame: economics
-categories:
-  - cognitive-science
-  - linguistics
-  - economics-and-finance
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - time-is-money
-  - ideas-are-objects
 ---
 
 ## What It Brings

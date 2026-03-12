@@ -1,19 +1,20 @@
 ---
-slug: boil-the-ocean
-name: "Boil the Ocean"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- organizational-behavior
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Boil the Ocean
+related:
+- big-ball-of-mud
+- bikeshedding
+- yak-shaving
+slug: boil-the-ocean
 source_frame: natural-phenomena
 target_frame: collaborative-work
-categories:
-  - software-engineering
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - big-ball-of-mud
-  - bikeshedding
-  - yak-shaving
 ---
 
 ## What It Brings
