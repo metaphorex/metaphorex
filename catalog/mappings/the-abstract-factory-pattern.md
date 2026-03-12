@@ -1,7 +1,7 @@
 ---
 slug: the-abstract-factory-pattern
 name: "The Abstract Factory Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: manufacturing
 target_frame: object-oriented-design
 categories:

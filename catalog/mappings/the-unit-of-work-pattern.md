@@ -1,7 +1,7 @@
 ---
 slug: the-unit-of-work-pattern
 name: "The Unit of Work Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: manufacturing
 target_frame: software-abstraction
 categories:

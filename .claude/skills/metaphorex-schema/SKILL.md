@@ -39,16 +39,41 @@ related: []                      # slugs of related mappings
 
 Four kinds along two axes — **specific vs generative** and **source active vs dormant**:
 
-- `conceptual-metaphor` — specific A→B mapping where source domain is still active in people's minds (ARGUMENT IS WAR)
-- `archetype` — generative pattern appearing across many A→B pairs (The Trickster, The Commons)
-- `dead-metaphor` — specific mapping where source domain is forgotten; value is reactivating it (bottleneck, firewall)
-- `paradigm` — meta-level foundational frame that shapes how entire fields think (survival of the fittest)
+|  | **Source active** | **Source dormant** |
+|---|---|---|
+| **Specific A→B** | `conceptual-metaphor` | `dead-metaphor` |
+| **Generative/meta** | `archetype` | `paradigm` |
 
-Previously `design-pattern` and `cross-field-mapping` existed but were removed:
-design-pattern is just a conceptual-metaphor with provenance (the GoF book
-named it; that doesn't change its graph structure), and cross-field-mapping
-collapsed into conceptual-metaphor because the conscious/unconscious
-distinction didn't hold in practice.
+- `conceptual-metaphor` — specific A→B mapping where source domain is still active in people's minds (ARGUMENT IS WAR, CREATIVE PROCESS IS GARDENING)
+- `dead-metaphor` — specific mapping where source domain is forgotten or invisible; the word has become pure jargon. Value is *reactivating* the buried image. (bottleneck, firewall, bug, daemon-process, technical-debt)
+- `archetype` — generative structural pattern appearing across 3+ independent target domains. Not one A→B but a recurring motif. (The Trickster, The Commons, The Facade Pattern, The Observer Pattern)
+- `paradigm` — meta-level foundational frame that shapes how entire fields think. Removing it would collapse a field's vocabulary. (survival of the fittest, data flow is fluid flow)
+
+### Kind Decision Heuristics
+
+**Don't default to `conceptual-metaphor`.** Work through these tests in order:
+
+1. **Dead-metaphor test:** Would a newcomer need the source domain *explained*
+   to them? If they use the term without picturing the source — if "bug" is
+   just a word, not an insect — it's `dead-metaphor`. Most software jargon
+   that originated as metaphor has died: bug, daemon, zombie process, race
+   condition, code smell, spaghetti code, cargo cult, yak-shaving.
+
+2. **Archetype test:** Does this structural pattern recur across 3+ unrelated
+   target domains? GoF design patterns are almost all archetypes — the Facade
+   principle (simplify a complex interface) appears in architecture, API
+   design, organizational structure, and diplomacy. That's not one metaphor,
+   it's a recurring structural motif.
+
+3. **Paradigm test:** Would removing this metaphor collapse an entire field's
+   vocabulary? If an industry would need to reinvent its language, it's a
+   paradigm. "Data flow is fluid flow" is load-bearing for Unix philosophy,
+   streaming architectures, and functional programming.
+
+4. **If none of the above:** It's `conceptual-metaphor` — a specific,
+   living A→B mapping where people still actively experience the source
+   domain. ARGUMENT IS WAR qualifies because arguers genuinely feel
+   combative tension.
 
 ### No status field
 

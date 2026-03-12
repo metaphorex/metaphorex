@@ -1,7 +1,7 @@
 ---
 slug: dogfooding
 name: "Dogfooding"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: animal-husbandry
 target_frame: software-programs
 categories:

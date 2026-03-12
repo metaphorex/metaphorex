@@ -1,7 +1,7 @@
 ---
 slug: bus-factor
 name: "Bus Factor"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: embodied-experience
 target_frame: shared-resources
 categories:

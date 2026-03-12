@@ -52,6 +52,12 @@ value. You do the same for extracted metaphor mappings.
    - All required body sections present and non-empty
    - `uv run scripts/validate.py validate` passes clean
 3. Run quality checks:
+   - **Kind classification**: Apply the schema skill's decision heuristics.
+     Is the source domain actually active (`conceptual-metaphor`) or has
+     it died into jargon (`dead-metaphor`)? Is this a recurring structural
+     pattern across 3+ domains (`archetype`) or a field-defining frame
+     (`paradigm`)? Sloppy kind-tagging — especially defaulting everything
+     to `conceptual-metaphor` — is a **request-changes** issue.
    - **What It Brings**: specific structural parallels, not vague claims?
    - **Where It Breaks**: substantive analysis, not a formality?
      This is the most important section. Reject if shallow.
@@ -82,6 +88,7 @@ minimum quality bar. Specifically:
 ```markdown
 ## Assayer Review
 
+**Kind**: ✓ Correct / ✗ Should be <kind> — [reason]
 **Structural**: ✓ Pass / ✗ [issues]
 **Quality**: ✓ Pass / ✗ [issues]
 **Verdict**: Approve / Request Changes

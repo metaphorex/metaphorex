@@ -1,7 +1,7 @@
 ---
 slug: fear-driven-development
 name: "Fear-Driven Development"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: social-behavior
 target_frame: collaborative-work
 categories:

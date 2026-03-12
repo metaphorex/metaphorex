@@ -1,7 +1,7 @@
 ---
 slug: yak-shaving
 name: "Yak Shaving"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: animal-husbandry
 target_frame: software-programs
 categories:

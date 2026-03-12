@@ -1,7 +1,7 @@
 ---
 slug: the-template-method-pattern
 name: "The Template Method Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: publishing
 target_frame: object-oriented-design
 categories:

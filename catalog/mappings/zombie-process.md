@@ -1,7 +1,7 @@
 ---
 slug: zombie-process
 name: "Zombie Process"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: mythology
 target_frame: software-programs
 categories:

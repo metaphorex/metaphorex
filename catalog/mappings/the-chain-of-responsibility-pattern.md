@@ -1,7 +1,7 @@
 ---
 slug: the-chain-of-responsibility-pattern
 name: "The Chain of Responsibility Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: military-command
 target_frame: object-oriented-design
 categories:

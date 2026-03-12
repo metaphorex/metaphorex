@@ -102,6 +102,19 @@ If invoked without a specific project or issue:
 6. Open a PR referencing the nugget issue
 7. Post a brief run comment on the nugget issue
 
+**Choosing `kind` (IMPORTANT — don't default to `conceptual-metaphor`):**
+
+Run the decision heuristics from the schema skill in order:
+1. Is the source domain invisible/forgotten? → `dead-metaphor`
+2. Does the pattern recur across 3+ unrelated domains? → `archetype`
+3. Would removing it collapse a field's vocabulary? → `paradigm`
+4. Only if none of the above → `conceptual-metaphor`
+
+Most software jargon metaphors are `dead-metaphor` (bug, daemon, spaghetti
+code). Most GoF patterns are `archetype` (facade, observer, singleton).
+If you're writing 5 entries and they're all `conceptual-metaphor`, stop
+and re-check — that distribution is almost certainly wrong.
+
 **Writing Mappings:**
 
 Use the metaphorex-schema skill for the canonical schema. Additionally:
