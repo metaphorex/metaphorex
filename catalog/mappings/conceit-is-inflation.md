@@ -2,7 +2,7 @@
 slug: conceit-is-inflation
 name: "Conceit Is Inflation"
 kind: conceptual-metaphor
-source_frame: economics
+source_frame: embodied-experience
 target_frame: mental-experience
 categories:
   - cognitive-science
