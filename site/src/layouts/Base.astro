@@ -1,0 +1,72 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "A knowledge graph of metaphors" } = Astro.props;
+const corpusVersion = new Date().toISOString().split("T")[0].replace(/-/g, ".");
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title} | Metaphorex</title>
+    <style>
+      :root {
+        --max-width: 48rem;
+        --font-mono: "SF Mono", "Fira Code", monospace;
+        --font-sans: system-ui, -apple-system, sans-serif;
+        --bg: #fafaf9;
+        --fg: #1c1917;
+        --muted: #78716c;
+        --border: #e7e5e4;
+        --accent: #2563eb;
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      body {
+        font-family: var(--font-sans);
+        color: var(--fg);
+        background: var(--bg);
+        line-height: 1.6;
+        max-width: var(--max-width);
+        margin: 0 auto;
+        padding: 2rem 1rem;
+      }
+      a { color: var(--accent); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      nav { margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border); }
+      nav a { margin-right: 1.5rem; }
+      footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); color: var(--muted); font-size: 0.875rem; }
+      h1 { font-size: 1.5rem; margin-bottom: 0.5rem; }
+      h2 { font-size: 1.25rem; margin: 1.5rem 0 0.5rem; }
+      h3 { font-size: 1.1rem; margin: 1rem 0 0.25rem; }
+      .tag { display: inline-block; font-size: 0.75rem; padding: 0.125rem 0.5rem; background: var(--border); border-radius: 0.25rem; margin: 0.125rem; }
+      .muted { color: var(--muted); }
+      .entry-list { list-style: none; }
+      .entry-list li { padding: 0.5rem 0; border-bottom: 1px solid var(--border); }
+      .entry-list li:last-child { border-bottom: none; }
+      article { line-height: 1.7; }
+      article h2 { margin-top: 2rem; }
+      article ul, article ol { margin-left: 1.5rem; margin-bottom: 1rem; }
+      article p { margin-bottom: 1rem; }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <a href="/"><strong>Metaphorex</strong></a>
+      <a href="/mappings/">Mappings</a>
+      <a href="/frames/">Frames</a>
+      <a href="/categories/">Categories</a>
+    </nav>
+    <slot />
+    <footer>
+      Metaphorex {corpusVersion} &middot;
+      <a href="https://github.com/metaphorex/metaphorex">GitHub</a> &middot;
+      CC BY-SA 4.0
+    </footer>
+  </body>
+</html>

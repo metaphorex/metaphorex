@@ -1,0 +1,23 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection } from "astro:content";
+
+const mappings = await getCollection("mappings");
+const sorted = mappings.sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+<Base title="Mappings">
+  <h1>Mappings ({mappings.length})</h1>
+  <ul class="entry-list" data-pagefind-body>
+    {sorted.map((m) => (
+      <li>
+        <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+        <span class="tag">{m.data.kind}</span>
+        <br />
+        <span class="muted">
+          {m.data.source_frame} &rarr; {m.data.target_frame}
+        </span>
+      </li>
+    ))}
+  </ul>
+</Base>
