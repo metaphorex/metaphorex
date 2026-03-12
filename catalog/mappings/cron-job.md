@@ -10,7 +10,8 @@ author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
 related:
-  - unix-pipe
+  - labor-is-a-resource
+  - process-parent-child
 ---
 
 ## What It Brings
