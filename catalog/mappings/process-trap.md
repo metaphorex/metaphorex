@@ -10,7 +10,8 @@ author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
 related:
-  - unix-pipe
+  - process-kill
+  - process-parent-child
 ---
 
 ## What It Brings
