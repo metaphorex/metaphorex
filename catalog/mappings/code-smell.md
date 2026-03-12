@@ -1,7 +1,7 @@
 ---
 slug: code-smell
 name: "Code Smell"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: embodied-experience
 target_frame: software-programs
 categories:

@@ -1,0 +1,41 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection } from "astro:content";
+
+const mappings = await getCollection("mappings");
+const frames = await getCollection("frames");
+const categories = await getCollection("categories");
+
+const recent = mappings
+  .sort((a, b) => a.data.name.localeCompare(b.data.name))
+  .slice(0, 10);
+---
+
+<Base title="Home">
+  <h1>Metaphorex</h1>
+  <p>A knowledge graph of metaphors — how we borrow structure from one domain to understand another.</p>
+
+  <h2>Corpus</h2>
+  <p>
+    <strong>{mappings.length}</strong> mappings &middot;
+    <strong>{frames.length}</strong> frames &middot;
+    <strong>{categories.length}</strong> categories
+  </p>
+
+  <h2>Browse</h2>
+  <ul>
+    <li><a href="/mappings/">All mappings</a> — conceptual metaphors, design patterns, archetypes</li>
+    <li><a href="/frames/">All frames</a> — source and target domains</li>
+    <li><a href="/categories/">All categories</a> — cross-cutting taxonomy</li>
+  </ul>
+
+  <h2>Sample Mappings</h2>
+  <ul class="entry-list">
+    {recent.map((m) => (
+      <li>
+        <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+        <span class="muted"> — {m.data.kind}</span>
+      </li>
+    ))}
+  </ul>
+</Base>

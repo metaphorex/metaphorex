@@ -1,7 +1,7 @@
 ---
 slug: the-observer-pattern
 name: "The Observer Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: surveillance
 target_frame: object-oriented-design
 categories:

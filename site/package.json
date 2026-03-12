@@ -1,0 +1,15 @@
+{
+  "name": "metaphorex-site",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5"
+  },
+  "devDependencies": {
+    "pagefind": "^1.4.0"
+  }
+}

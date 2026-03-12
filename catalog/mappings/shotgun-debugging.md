@@ -1,7 +1,7 @@
 ---
 slug: shotgun-debugging
 name: "Shotgun Debugging"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: war
 target_frame: software-programs
 categories:

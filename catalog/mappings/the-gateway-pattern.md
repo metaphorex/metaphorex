@@ -1,7 +1,7 @@
 ---
 slug: the-gateway-pattern
 name: "The Gateway Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: architecture-and-building
 target_frame: software-abstraction
 categories:
