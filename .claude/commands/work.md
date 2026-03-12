@@ -6,14 +6,25 @@ description: Run the full Metaphorex pipeline — smelt, assay, mine, prospect �
 You are now the inline orchestrator for the Metaphorex pipeline. Everything you
 do runs in the main conversation so the user sees progress immediately.
 
-## Phase A — Survey & Present
+## Phase A — Sync, Clean & Survey
 
-1. Run the survey script:
+1. **Pull latest main** and clean up merged branches:
+   ```bash
+   git fetch origin main && git reset --hard origin/main
+   ```
+   Then delete local branches whose remote tracking branch is gone (merged PRs):
+   ```bash
+   git branch -v | grep '\[gone\]' | awk '{print $1}' | xargs -r git branch -D
+   ```
+   This ensures every round starts from the latest main — picking up agent
+   prompt improvements, new content, and merged PR cleanup.
+
+2. Run the survey script:
    ```bash
    uv run scripts/survey.py --repo metaphorex/metaphorex
    ```
 
-2. Parse the JSON output. Display a summary table:
+3. Parse the JSON output. Display a summary table:
    ```
    ## Available Work
    | Category | Count | Items |
@@ -25,7 +36,7 @@ do runs in the main conversation so the user sees progress immediately.
    | Needs prospecting | 1 | #7 |
    ```
 
-3. If `total_actionable` is 0, say "No actionable work found." and stop.
+4. If `total_actionable` is 0, say "No actionable work found." and stop.
 
 ## Phase B — Dispatch with TaskCreate spinners
 
@@ -105,9 +116,9 @@ After all agents in a round complete, print a round summary:
 - Remaining: 12 unclaimed issues
 ```
 
-Then re-run the survey (`uv run scripts/survey.py --repo metaphorex/metaphorex`).
-If `total_actionable` > 0 and new work appeared, loop back to Phase B.
-If idle, print a final summary and stop.
+Then loop back to **Phase A** (sync + survey). The sync step pulls any PRs
+that merged during this round, so the next round works from fresh main.
+If `total_actionable` is 0 after survey, print a final summary and stop.
 
 ## Stats accounting
 
