@@ -1,7 +1,7 @@
 ---
 slug: the-registry-pattern
 name: "The Registry Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: governance
 target_frame: software-abstraction
 categories:

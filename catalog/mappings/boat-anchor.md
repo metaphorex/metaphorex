@@ -1,7 +1,7 @@
 ---
 slug: boat-anchor
 name: "Boat Anchor"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: tool-use
 target_frame: software-programs
 categories:

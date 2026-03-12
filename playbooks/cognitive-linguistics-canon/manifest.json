@@ -1,0 +1,2822 @@
+{
+  "project": "cognitive-linguistics-canon",
+  "project_issue": 4,
+  "source_type": "vein",
+  "archive_urls": [
+    "http://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/metaphors/index.html",
+    "http://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/sources/index.html",
+    "http://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/targets/index.html",
+    "http://araw.mede.uic.edu/~alansz/metaphor/METAPHORLIST.pdf",
+    "https://metaphor.icsi.berkeley.edu/pub/en/index.php/MetaNet_Metaphor_Wiki"
+  ],
+  "candidates": [
+    {
+      "slug": "a-force-is-a-moving-object",
+      "name": "A FORCE IS A MOVING OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "physics",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: A_Force_Is_A_Moving_Object.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a moving object onto a force."
+    },
+    {
+      "slug": "a-problem-is-a-body-of-water",
+      "name": "A PROBLEM IS A BODY OF WATER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: A_Problem_Is_A_Body_Of_Water.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a body of water onto a problem."
+    },
+    {
+      "slug": "a-problem-is-a-locked-container-for-its-solution",
+      "name": "A PROBLEM IS A LOCKED CONTAINER FOR ITS SOLUTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: A_Problem_Is_A_Locked_Container_For_Its_Solution.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a locked container for its solution onto a problem."
+    },
+    {
+      "slug": "a-problem-is-a-region-in-a-landscape",
+      "name": "A PROBLEM IS A REGION IN A LANDSCAPE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: A_Problem_Is_A_Region_In_A_Landscape.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a region in a landscape onto a problem."
+    },
+    {
+      "slug": "a-schedule-is-a-moving-object",
+      "name": "A SCHEDULE IS A MOVING OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: A_Schedule_Is_A_Moving_Object.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a moving object onto a schedule."
+    },
+    {
+      "slug": "abilities-are-entities-inside-a-person",
+      "name": "ABILITIES ARE ENTITIES INSIDE A PERSON",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Abilities_Are_Entities_Inside_A_Person.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps entities inside a person onto abilities."
+    },
+    {
+      "slug": "acting-compulsively-is-ingesting-a-substance-compulsively",
+      "name": "ACTING COMPULSIVELY IS INGESTING A SUBSTANCE COMPULSIVELY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Acting_Compulsively_Is_Ingesting_A_Substance_Compulsively.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps ingesting a substance compulsively onto acting compulsively."
+    },
+    {
+      "slug": "acting-on-is-transferring-an-object",
+      "name": "ACTING ON IS TRANSFERRING AN OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Acting_On_Is_Transferring_An_Object.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps transferring an object onto acting on."
+    },
+    {
+      "slug": "action-is-control-over-possessions",
+      "name": "ACTION IS CONTROL OVER POSSESSIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Action_Is_Control_Over_Possessions.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps control over possessions onto action."
+    },
+    {
+      "slug": "action-is-self-propelled-motion",
+      "name": "ACTION IS SELF-PROPELLED MOTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Action_Is_Self-propelled_Motion.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps self-propelled motion onto action."
+    },
+    {
+      "slug": "active-is-alive",
+      "name": "ACTIVE IS ALIVE",
+      "kind": "primary-metaphor",
+      "source_frame": "life-course",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Active_Is_Alive.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps alive onto active."
+    },
+    {
+      "slug": "affection-is-warmth",
+      "name": "AFFECTION IS WARMTH",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Affection_Is_Warmth.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps warmth onto affection."
+    },
+    {
+      "slug": "anger-is-heat",
+      "name": "ANGER IS HEAT",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Anger_Is_Heat.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps heat onto anger."
+    },
+    {
+      "slug": "aspects-of-the-self-are-distinct-individuals",
+      "name": "ASPECTS OF THE SELF ARE DISTINCT INDIVIDUALS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Aspects_Of_The_Self_Are_Distinct_Individuals.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps distinct individuals onto aspects of the self."
+    },
+    {
+      "slug": "attributes-are-entities",
+      "name": "ATTRIBUTES ARE ENTITIES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Attributes_Are_Entities.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps entities onto attributes."
+    },
+    {
+      "slug": "beliefs-are-beings-with-a-life-cycle",
+      "name": "BELIEFS ARE BEINGS WITH A LIFE CYCLE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "life-course",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Beliefs_Are_Beings_With_A_Life_Cycle.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps beings with a life cycle onto beliefs."
+    },
+    {
+      "slug": "beliefs-are-fashions",
+      "name": "BELIEFS ARE FASHIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Beliefs_Are_Fashions.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps fashions onto beliefs."
+    },
+    {
+      "slug": "beliefs-are-guides",
+      "name": "BELIEFS ARE GUIDES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Beliefs_Are_Guides.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps guides onto beliefs."
+    },
+    {
+      "slug": "beliefs-are-locations",
+      "name": "BELIEFS ARE LOCATIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Beliefs_Are_Locations.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps locations onto beliefs."
+    },
+    {
+      "slug": "beliefs-are-love-objects",
+      "name": "BELIEFS ARE LOVE OBJECTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "love-and-relationships",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Beliefs_Are_Love_Objects.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps love objects onto beliefs."
+    },
+    {
+      "slug": "beliefs-are-possessions",
+      "name": "BELIEFS ARE POSSESSIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Beliefs_Are_Possessions.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps possessions onto beliefs."
+    },
+    {
+      "slug": "causal-precedence-is-temporal-precedence",
+      "name": "CAUSAL PRECEDENCE IS TEMPORAL PRECEDENCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "time-and-temporality",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Causal_Precedence_Is_Temporal_Precedence.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps temporal precedence onto causal precedence."
+    },
+    {
+      "slug": "causation-is-commercial-transaction",
+      "name": "CAUSATION IS COMMERCIAL TRANSACTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Causation_Is_Commercial_Transaction.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps commercial transaction onto causation."
+    },
+    {
+      "slug": "causation-is-control-over-an-entity-relative-to-a-location",
+      "name": "CAUSATION IS CONTROL OVER AN ENTITY RELATIVE TO A LOCATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "governance",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Causation_Is_Control_Over_An_Entity_Relative_To_A_Location.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps control over an entity relative to a location onto causation."
+    },
+    {
+      "slug": "causation-is-control-over-an-object-relative-to-a-possessor",
+      "name": "CAUSATION IS CONTROL OVER AN OBJECT RELATIVE TO A POSSESSOR",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Causation_Is_Control_Over_An_Object_Relative_To_A_Possessor.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps control over an object relative to a possessor onto causation."
+    },
+    {
+      "slug": "causation-is-control-over-relative-location",
+      "name": "CAUSATION IS CONTROL OVER RELATIVE LOCATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "governance",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Causation_Is_Control_Over_Relative_Location.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps control over relative location onto causation."
+    },
+    {
+      "slug": "causes-and-effects-are-linked-objects",
+      "name": "CAUSES AND EFFECTS ARE LINKED OBJECTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Causes_And_Effects_Are_Linked_Objects.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps linked objects onto causes and effects."
+    },
+    {
+      "slug": "change-is-replacement",
+      "name": "CHANGE IS REPLACEMENT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Change_Is_Replacement.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps replacement onto change."
+    },
+    {
+      "slug": "change-of-state-is-change-of-direction",
+      "name": "CHANGE OF STATE IS CHANGE OF DIRECTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Change_Of_State_Is_Change_Of_Direction.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps change of direction onto change of state."
+    },
+    {
+      "slug": "coherent-is-aligned",
+      "name": "COHERENT IS ALIGNED",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Coherent_Is_Aligned.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps aligned onto coherent."
+    },
+    {
+      "slug": "coherent-is-whole",
+      "name": "COHERENT IS WHOLE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Coherent_Is_Whole.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps whole onto coherent."
+    },
+    {
+      "slug": "communication-is-linguistic-communication",
+      "name": "COMMUNICATION IS LINGUISTIC COMMUNICATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "communication",
+      "target_frame": "communication",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Communication_Is_Linguistic_Communication.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps linguistic communication onto communication."
+    },
+    {
+      "slug": "comparing-and-seeking-is-shopping",
+      "name": "COMPARING AND SEEKING IS SHOPPING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "economics",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Comparing_And_Seeking_Is_Shopping.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps shopping onto comparing and seeking."
+    },
+    {
+      "slug": "comparison-of-properties-is-comparison-of-physical-properties",
+      "name": "COMPARISON OF PROPERTIES IS COMPARISON OF PHYSICAL PROPERTIES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Comparison_Of_Properties_Is_Comparison_Of_Physical_Properties.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps comparison of physical properties onto comparison of properties."
+    },
+    {
+      "slug": "comparison-of-properties-is-comparison-of-possessions",
+      "name": "COMPARISON OF PROPERTIES IS COMPARISON OF POSSESSIONS (NON-EVALUATIVE)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Comparison_Of_Properties_Is_Comparison_Of_Possessions_(non-evaluative).html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps comparison of possessions (non-evaluative) onto comparison of properties."
+    },
+    {
+      "slug": "competition-is-1-on-1-physical-aggression",
+      "name": "COMPETITION IS 1 ON 1 PHYSICAL AGGRESSION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "competition",
+      "target_frame": "competition",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Competition_Is_1_On_1_Physical_Aggression.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps 1 on 1 physical aggression onto competition."
+    },
+    {
+      "slug": "competition-is-a-race",
+      "name": "COMPETITION IS A RACE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "competition",
+      "target_frame": "competition",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Competition_Is_A_Race.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a race onto competition."
+    },
+    {
+      "slug": "competition-is-competition-for-desired-objects",
+      "name": "COMPETITION IS COMPETITION FOR DESIRED OBJECTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "competition",
+      "target_frame": "competition",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Competition_Is_Competition_For_Desired_Objects.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps competition for desired objects onto competition."
+    },
+    {
+      "slug": "competition-is-war",
+      "name": "COMPETITION IS WAR",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Competition_Is_War.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps war onto competition."
+    },
+    {
+      "slug": "complience-is-adherence",
+      "name": "COMPLIENCE IS ADHERENCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "governance",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Complience_Is_Adherence.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps adherence onto complience."
+    },
+    {
+      "slug": "complience-is-following",
+      "name": "COMPLIENCE IS FOLLOWING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "governance",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Complience_Is_Following.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps following onto complience."
+    },
+    {
+      "slug": "complience-is-tightness",
+      "name": "COMPLIENCE IS TIGHTNESS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "governance",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Complience_Is_Tightness.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps tightness onto complience."
+    },
+    {
+      "slug": "conceit-is-inflation",
+      "name": "CONCEIT IS INFLATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Conceit_Is_Inflation.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps inflation onto conceit."
+    },
+    {
+      "slug": "conducting-research-is-solving-a-puzzle",
+      "name": "CONDUCTING RESEARCH IS SOLVING A PUZZLE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "puzzles-and-games",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Conducting_Research_Is_Solving_A_Puzzle.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps solving a puzzle onto conducting research."
+    },
+    {
+      "slug": "control-is-up",
+      "name": "CONTROL IS UP",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "governance",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Control_Is_Up.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps up onto control."
+    },
+    {
+      "slug": "creating-is-birthing",
+      "name": "CREATING IS BIRTHING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "life-course",
+      "target_frame": "creative-process",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Creating_Is_Birthing.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps birthing onto creating."
+    },
+    {
+      "slug": "creating-is-giving-an-object",
+      "name": "CREATING IS GIVING AN OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "creative-process",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Creating_Is_Giving_An_Object.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps giving an object onto creating."
+    },
+    {
+      "slug": "creating-is-making",
+      "name": "CREATING IS MAKING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "creative-process",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Creating_Is_Making.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps making onto creating."
+    },
+    {
+      "slug": "creating-is-making-visible",
+      "name": "CREATING IS MAKING VISIBLE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "creative-process",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Creating_Is_Making_Visible.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps making visible onto creating."
+    },
+    {
+      "slug": "creating-is-moving-to-a-location",
+      "name": "CREATING IS MOVING TO A LOCATION (HERE)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "creative-process",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Creating_Is_Moving_To_A_Location_(here).html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps moving to a location (here) onto creating."
+    },
+    {
+      "slug": "creation-is-cultivation",
+      "name": "CREATION IS CULTIVATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "creative-process",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Creation_Is_Cultivation.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps cultivation onto creation."
+    },
+    {
+      "slug": "dangerous-beliefs-are-contagious-diseases",
+      "name": "DANGEROUS BELIEFS ARE CONTAGIOUS DISEASES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Dangerous_Beliefs_Are_Contagious_Diseases.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps contagious diseases onto dangerous beliefs."
+    },
+    {
+      "slug": "darkness-is-a-cover",
+      "name": "DARKNESS IS A COVER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "natural-phenomena",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Darkness_Is_A_Cover.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a cover onto darkness."
+    },
+    {
+      "slug": "darkness-is-a-solid",
+      "name": "DARKNESS IS A SOLID",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "natural-phenomena",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Darkness_Is_A_Solid.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a solid onto darkness."
+    },
+    {
+      "slug": "desire-is-hunger",
+      "name": "DESIRE IS HUNGER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Desire_Is_Hunger.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps hunger onto desire."
+    },
+    {
+      "slug": "desires-are-forces-between-the-desired-and-the-desirer",
+      "name": "DESIRES ARE FORCES BETWEEN THE DESIRED AND THE DESIRER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Desires_Are_Forces_Between_The_Desired_And_The_Desirer.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps forces between the desired and the desirer onto desires."
+    },
+    {
+      "slug": "difficult-subjects-are-adversaries",
+      "name": "DIFFICULT SUBJECTS ARE ADVERSARIES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Difficult_Subjects_Are_Adversaries.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps adversaries onto difficult subjects."
+    },
+    {
+      "slug": "difficulties-are-containers",
+      "name": "DIFFICULTIES ARE CONTAINERS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Difficulties_Are_Containers.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps containers onto difficulties."
+    },
+    {
+      "slug": "difficulty-is-difficulty-is-moving",
+      "name": "DIFFICULTY IS DIFFICULTY IS MOVING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Difficulty_Is_Difficulty_Is_Moving.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps difficulty is moving onto difficulty."
+    },
+    {
+      "slug": "disgust-is-nausea",
+      "name": "DISGUST IS NAUSEA",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Disgust_Is_Nausea.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps nausea onto disgust."
+    },
+    {
+      "slug": "disparity-is-change",
+      "name": "DISPARITY IS CHANGE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "event-structure",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Disparity_Is_Change.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps change onto disparity."
+    },
+    {
+      "slug": "effect-on-emotional-self-is-contact-with-physical-self",
+      "name": "EFFECT ON EMOTIONAL SELF IS CONTACT WITH PHYSICAL SELF",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Effect_On_Emotional_Self_Is_Contact_With_Physical_Self.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps contact with physical self onto effect on emotional self."
+    },
+    {
+      "slug": "effects-of-humor-are-injuries",
+      "name": "EFFECTS OF HUMOR ARE INJURIES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Effects_Of_Humor_Are_Injuries.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps injuries onto effects of humor."
+    },
+    {
+      "slug": "emotion-is-motion",
+      "name": "EMOTION IS MOTION",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Emotion_Is_Motion.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps motion onto emotion."
+    },
+    {
+      "slug": "emotional-intimacy-is-physical-closeness",
+      "name": "EMOTIONAL INTIMACY IS PHYSICAL CLOSENESS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Emotional_Intimacy_Is_Physical_Closeness.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps physical closeness onto emotional intimacy."
+    },
+    {
+      "slug": "emotional-self-is-a-brittle-object",
+      "name": "EMOTIONAL SELF IS A BRITTLE OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Emotional_Self_Is_A_Brittle_Object.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a brittle object onto emotional self."
+    },
+    {
+      "slug": "emotional-stability-is-contact-with-the-ground",
+      "name": "EMOTIONAL STABILITY IS CONTACT WITH THE GROUND",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Emotional_Stability_Is_Contact_With_The_Ground.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps contact with the ground onto emotional stability."
+    },
+    {
+      "slug": "emotional-stability-is-maintaining-position",
+      "name": "EMOTIONAL STABILITY IS MAINTAINING POSITION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Emotional_Stability_Is_Maintaining_Position.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps maintaining position onto emotional stability."
+    },
+    {
+      "slug": "emotions-are-forces",
+      "name": "EMOTIONS ARE FORCES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Emotions_Are_Forces.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps forces onto emotions."
+    },
+    {
+      "slug": "emotions-are-locations",
+      "name": "EMOTIONS ARE LOCATIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Emotions_Are_Locations.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps locations onto emotions."
+    },
+    {
+      "slug": "euphoric-states-are-up",
+      "name": "EUPHORIC STATES ARE UP",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Euphoric_States_Are_Up.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps up onto euphoric states."
+    },
+    {
+      "slug": "event-structure",
+      "name": "EVENT STRUCTURE (LOCATION CASE)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Event_Structure_(location_Case).html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps event structure (location case) onto event structure (location case)."
+    },
+    {
+      "slug": "existence-is-an-object",
+      "name": "EXISTENCE IS AN OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Existence_Is_An_Object.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps an object onto existence."
+    },
+    {
+      "slug": "existence-is-having-a-form",
+      "name": "EXISTENCE IS HAVING A FORM",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Existence_Is_Having_A_Form.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps having a form onto existence."
+    },
+    {
+      "slug": "existence-is-life",
+      "name": "EXISTENCE IS LIFE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "life-course",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Existence_Is_Life.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps life onto existence."
+    },
+    {
+      "slug": "existence-is-visibility",
+      "name": "EXISTENCE IS VISIBILITY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "vision",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Existence_Is_Visibility.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps visibility onto existence."
+    },
+    {
+      "slug": "external-appearance-is-a-cover",
+      "name": "EXTERNAL APPEARANCE IS A COVER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "vision",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: External_Appearance_Is_A_Cover.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a cover onto external appearance."
+    },
+    {
+      "slug": "external-conditions-are-climate",
+      "name": "EXTERNAL CONDITIONS ARE CLIMATE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "natural-phenomena",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: External_Conditions_Are_Climate.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps climate onto external conditions."
+    },
+    {
+      "slug": "external-events-affecting-progress-are-forces-affecting",
+      "name": "EXTERNAL EVENTS AFFECTING PROGRESS ARE FORCES AFFECTING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: External_Events_Affecting_Progress_Are_Forces_Affecting.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps forces affecting onto external events affecting progress."
+    },
+    {
+      "slug": "facts-are-points",
+      "name": "FACTS ARE POINTS (SET UP IN SPATIAL CONFIGURATION)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Facts_Are_Points_(set_Up_In_Spatial_Configuration).html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps points (set up in spatial configuration) onto facts."
+    },
+    {
+      "slug": "fear-is-cold",
+      "name": "FEAR IS COLD",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Fear_Is_Cold.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps cold onto fear."
+    },
+    {
+      "slug": "force-is-a-substance-contained-in-affecting-causes",
+      "name": "FORCE IS A SUBSTANCE CONTAINED IN AFFECTING CAUSES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "physics",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Force_Is_A_Substance_Contained_In_Affecting_Causes.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a substance contained in affecting causes onto force."
+    },
+    {
+      "slug": "force-is-a-substance-directed-at-an-affected-party",
+      "name": "FORCE IS A SUBSTANCE DIRECTED AT AN AFFECTED PARTY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "physics",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Force_Is_A_Substance_Directed_At_An_Affected_Party.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a substance directed at an affected party onto force."
+    },
+    {
+      "slug": "form-is-motion",
+      "name": "FORM IS MOTION",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Form_Is_Motion.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps motion onto form."
+    },
+    {
+      "slug": "gaining-physical-intimacy-is-a-competition",
+      "name": "GAINING PHYSICAL INTIMACY (AGAINST RESISTANCE) IS A COMPETITION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Gaining_Physical_Intimacy_(against_Resistance)_Is_A_Competition.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a competition onto gaining physical intimacy (against resistance)."
+    },
+    {
+      "slug": "getting-is-eating",
+      "name": "GETTING IS EATING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Getting_Is_Eating.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps eating onto getting."
+    },
+    {
+      "slug": "harm-is-being-in-a-harmful-location",
+      "name": "HARM IS BEING IN A HARMFUL LOCATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Harm_Is_Being_In_A_Harmful_Location.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps being in a harmful location onto harm."
+    },
+    {
+      "slug": "harm-is-causing-functional-objects-to-be-nonfunctional",
+      "name": "HARM IS CAUSING FUNCTIONAL OBJECTS TO BE NONFUNCTIONAL",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Harm_Is_Causing_Functional_Objects_To_Be_Nonfunctional.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps causing functional objects to be nonfunctional onto harm."
+    },
+    {
+      "slug": "harm-is-having-a-harmful-possession",
+      "name": "HARM IS HAVING A HARMFUL POSSESSION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Harm_Is_Having_A_Harmful_Possession.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps having a harmful possession onto harm."
+    },
+    {
+      "slug": "harm-is-lacking-a-needed-possession",
+      "name": "HARM IS LACKING A NEEDED POSSESSION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Harm_Is_Lacking_A_Needed_Possession.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps lacking a needed possession onto harm."
+    },
+    {
+      "slug": "harm-is-physical-injury",
+      "name": "HARM IS PHYSICAL INJURY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Harm_Is_Physical_Injury.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps physical injury onto harm."
+    },
+    {
+      "slug": "harm-is-preventing-forward-motion-toward-a-goal",
+      "name": "HARM IS PREVENTING FORWARD MOTION TOWARD A GOAL.",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Harm_Is_Preventing_Forward_Motion_Toward_A_Goal..html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps preventing forward motion toward a goal. onto harm."
+    },
+    {
+      "slug": "harming-is-lowering",
+      "name": "HARMING IS LOWERING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Harming_Is_Lowering.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps lowering onto harming."
+    },
+    {
+      "slug": "hope-is-a-benefical-possession",
+      "name": "HOPE IS A BENEFICAL POSSESSION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Hope_Is_A_Benefical_Possession.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a benefical possession onto hope."
+    },
+    {
+      "slug": "hope-is-a-child",
+      "name": "HOPE IS A CHILD",
+      "kind": "conceptual-metaphor",
+      "source_frame": "life-course",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Hope_Is_A_Child.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a child onto hope."
+    },
+    {
+      "slug": "hope-is-light",
+      "name": "HOPE IS LIGHT",
+      "kind": "primary-metaphor",
+      "source_frame": "vision",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Hope_Is_Light.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps light onto hope."
+    },
+    {
+      "slug": "ideas-are-children",
+      "name": "IDEAS ARE CHILDREN (W.R.T DEVELOPMENT)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "life-course",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Ideas_Are_Children_(w.r.t_Development).html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps children (w.r.t development) onto ideas."
+    },
+    {
+      "slug": "ideas-are-locations",
+      "name": "IDEAS ARE LOCATIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Ideas_Are_Locations.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps locations onto ideas."
+    },
+    {
+      "slug": "ideas-are-perceptions",
+      "name": "IDEAS ARE PERCEPTIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "vision",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Ideas_Are_Perceptions.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps perceptions onto ideas."
+    },
+    {
+      "slug": "ideas-are-writing",
+      "name": "IDEAS ARE WRITING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "communication",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Ideas_Are_Writing.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps writing onto ideas."
+    },
+    {
+      "slug": "intelligence-is-a-light-source",
+      "name": "INTELLIGENCE IS A LIGHT SOURCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "vision",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Intelligence_Is_A_Light_Source.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a light source onto intelligence."
+    },
+    {
+      "slug": "intense-emotions-are-heat",
+      "name": "INTENSE EMOTIONS ARE HEAT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Intense_Emotions_Are_Heat.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps heat onto intense emotions."
+    },
+    {
+      "slug": "interaction-between-progress-and-external-events-affecting",
+      "name": "INTERACTION BETWEEN PROGRESS AND EXTERNAL EVENTS AFFECTING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Interaction_Between_Progress_And_External_Events_Affecting.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps interaction between progress and external events affecting onto interaction between progress and external events affecting."
+    },
+    {
+      "slug": "interpersonal-harmony-is-musical-harmony",
+      "name": "INTERPERSONAL HARMONY IS MUSICAL HARMONY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "creative-process",
+      "target_frame": "social-behavior",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Interpersonal_Harmony_Is_Musical_Harmony.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps musical harmony onto interpersonal harmony."
+    },
+    {
+      "slug": "intoxication-is-becoming-electrified",
+      "name": "INTOXICATION IS BECOMING ELECTRIFIED",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Intoxication_Is_Becoming_Electrified.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps becoming electrified onto intoxication."
+    },
+    {
+      "slug": "intoxication-is-getting-a-burden",
+      "name": "INTOXICATION IS GETTING A BURDEN",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Intoxication_Is_Getting_A_Burden.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps getting a burden onto intoxication."
+    },
+    {
+      "slug": "intoxication-is-getting-destroyed",
+      "name": "INTOXICATION IS GETTING DESTROYED",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Intoxication_Is_Getting_Destroyed.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps getting destroyed onto intoxication."
+    },
+    {
+      "slug": "investments-are-containers-for-money",
+      "name": "INVESTMENTS ARE CONTAINERS FOR MONEY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "economics",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Investments_Are_Containers_For_Money.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps containers for money onto investments."
+    },
+    {
+      "slug": "knowledge-of-past-events-is-an-external-event-exerting-force-on",
+      "name": "KNOWLEDGE OF PAST EVENTS IS AN EXTERNAL EVENT EXERTING FORCE ON",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Knowledge_Of_Past_Events_Is_An_External_Event_Exerting_Force_On.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps an external event exerting force on onto knowledge of past events."
+    },
+    {
+      "slug": "laughter-is-a-substance",
+      "name": "LAUGHTER IS A SUBSTANCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Laughter_Is_A_Substance.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a substance onto laughter."
+    },
+    {
+      "slug": "light-is-a-fluid",
+      "name": "LIGHT IS A FLUID",
+      "kind": "conceptual-metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "natural-phenomena",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Light_Is_A_Fluid.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a fluid onto light."
+    },
+    {
+      "slug": "light-is-a-line",
+      "name": "LIGHT IS A LINE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "natural-phenomena",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Light_Is_A_Line.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a line onto light."
+    },
+    {
+      "slug": "linear-scales-are-paths",
+      "name": "LINEAR SCALES ARE PATHS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Linear_Scales_Are_Paths.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps paths onto linear scales."
+    },
+    {
+      "slug": "logic-is-gravity",
+      "name": "LOGIC IS GRAVITY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Logic_Is_Gravity.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps gravity onto logic."
+    },
+    {
+      "slug": "logical-relations-are-causal-relations",
+      "name": "LOGICAL RELATIONS ARE CAUSAL RELATIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "causal-reasoning",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Logical_Relations_Are_Causal_Relations.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps causal relations onto logical relations."
+    },
+    {
+      "slug": "longterm-purposeful-activity-is-a-journey",
+      "name": "LONGTERM PURPOSEFUL ACTIVITY IS A JOURNEY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Longterm_Purposeful_Activity_Is_A_Journey.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a journey onto longterm purposeful activity."
+    },
+    {
+      "slug": "love-is-magic",
+      "name": "LOVE IS MAGIC",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Love_Is_Magic.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps magic onto love."
+    },
+    {
+      "slug": "loved-one-is-a-possession",
+      "name": "LOVED ONE IS A POSSESSION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Loved_One_Is_A_Possession.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a possession onto loved one."
+    },
+    {
+      "slug": "lust-is-heat",
+      "name": "LUST IS HEAT",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Lust_Is_Heat.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps heat onto lust."
+    },
+    {
+      "slug": "lustful-person-is-an-activated-machine",
+      "name": "LUSTFUL PERSON IS AN ACTIVATED MACHINE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Lustful_Person_Is_An_Activated_Machine.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps an activated machine onto lustful person."
+    },
+    {
+      "slug": "lustful-person-is-an-animal",
+      "name": "LUSTFUL PERSON IS AN ANIMAL",
+      "kind": "conceptual-metaphor",
+      "source_frame": "animal-husbandry",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Lustful_Person_Is_An_Animal.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps an animal onto lustful person."
+    },
+    {
+      "slug": "machines-are-people",
+      "name": "MACHINES ARE PEOPLE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "manufacturing",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Machines_Are_People.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps people onto machines."
+    },
+    {
+      "slug": "means-of-change-is-path-over-which-motion-occurs",
+      "name": "MEANS OF CHANGE IS PATH OVER WHICH MOTION OCCURS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Means_Of_Change_Is_Path_Over_Which_Motion_Occurs.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps path over which motion occurs onto means of change."
+    },
+    {
+      "slug": "mental-accounting",
+      "name": "MENTAL ACCOUNTING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "economics",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Mental_Accounting.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps mental accounting onto mental accounting."
+    },
+    {
+      "slug": "mind-or-mental-self-is-a-brittle-object",
+      "name": "MIND, OR MENTAL SELF IS A BRITTLE OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Mind,_Or_Mental_Self_Is_A_Brittle_Object.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a brittle object onto mind, or mental self."
+    },
+    {
+      "slug": "money-is-a-liquid",
+      "name": "MONEY IS A LIQUID",
+      "kind": "conceptual-metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "economics",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Money_Is_A_Liquid.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a liquid onto money."
+    },
+    {
+      "slug": "moral-accounting",
+      "name": "MORAL ACCOUNTING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "ethics-and-morality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Moral_Accounting.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps moral accounting onto moral accounting."
+    },
+    {
+      "slug": "morality-is-cleanliness",
+      "name": "MORALITY IS CLEANLINESS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "ethics-and-morality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Morality_Is_Cleanliness.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps cleanliness onto morality."
+    },
+    {
+      "slug": "morality-is-purity",
+      "name": "MORALITY IS PURITY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "ethics-and-morality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Morality_Is_Purity.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps purity onto morality."
+    },
+    {
+      "slug": "morality-is-straightness",
+      "name": "MORALITY IS STRAIGHTNESS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "ethics-and-morality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Morality_Is_Straightness.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps straightness onto morality."
+    },
+    {
+      "slug": "necessary-prerequisite-for-change-is-source-of-moving-entity",
+      "name": "NECESSARY PREREQUISITE FOR CHANGE IS SOURCE OF MOVING ENTITY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Necessary_Prerequisite_For_Change_Is_Source_Of_Moving_Entity.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps source of moving entity onto necessary prerequisite for change."
+    },
+    {
+      "slug": "obligations-are-containers",
+      "name": "OBLIGATIONS ARE CONTAINERS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "governance",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Obligations_Are_Containers.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps containers onto obligations."
+    },
+    {
+      "slug": "obligations-are-possessions",
+      "name": "OBLIGATIONS ARE POSSESSIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "governance",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Obligations_Are_Possessions.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps possessions onto obligations."
+    },
+    {
+      "slug": "opportunities-are-objects",
+      "name": "OPPORTUNITIES ARE OBJECTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Opportunities_Are_Objects.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps objects onto opportunities."
+    },
+    {
+      "slug": "opportunities-are-open-paths",
+      "name": "OPPORTUNITIES ARE OPEN PATHS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Opportunities_Are_Open_Paths.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps open paths onto opportunities."
+    },
+    {
+      "slug": "people-are-batteries",
+      "name": "PEOPLE ARE BATTERIES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "social-roles",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: People_Are_Batteries.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps batteries onto people."
+    },
+    {
+      "slug": "people-are-plants",
+      "name": "PEOPLE ARE PLANTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "social-roles",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: People_Are_Plants.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps plants onto people."
+    },
+    {
+      "slug": "perception-is-reception",
+      "name": "PERCEPTION IS RECEPTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "vision",
+      "target_frame": "vision",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Perception_Is_Reception.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps reception onto perception."
+    },
+    {
+      "slug": "perception-is-shape-recognition",
+      "name": "PERCEPTION IS SHAPE RECOGNITION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "vision",
+      "target_frame": "vision",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Perception_Is_Shape_Recognition.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps shape recognition onto perception."
+    },
+    {
+      "slug": "personality-is-material",
+      "name": "PERSONALITY IS MATERIAL",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Personality_Is_Material.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps material onto personality."
+    },
+    {
+      "slug": "possessing-is-holding",
+      "name": "POSSESSING IS HOLDING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "economics",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Possessing_Is_Holding.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps holding onto possessing."
+    },
+    {
+      "slug": "problem-is-a-constructed-object",
+      "name": "PROBLEM IS A CONSTRUCTED OBJECT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Problem_Is_A_Constructed_Object.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a constructed object onto problem."
+    },
+    {
+      "slug": "problem-is-a-tangle",
+      "name": "PROBLEM IS A TANGLE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Problem_Is_A_Tangle.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a tangle onto problem."
+    },
+    {
+      "slug": "problem-is-a-target",
+      "name": "PROBLEM IS A TARGET",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "causal-reasoning",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Problem_Is_A_Target.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a target onto problem."
+    },
+    {
+      "slug": "properties-are-contents",
+      "name": "PROPERTIES ARE CONTENTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Properties_Are_Contents.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps contents onto properties."
+    },
+    {
+      "slug": "properties-are-physical-properties",
+      "name": "PROPERTIES ARE PHYSICAL PROPERTIES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Properties_Are_Physical_Properties.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps physical properties onto properties."
+    },
+    {
+      "slug": "receiving-serious-thought-is-being-on-the-mind",
+      "name": "RECEIVING SERIOUS THOUGHT IS BEING ON THE MIND",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Receiving_Serious_Thought_Is_Being_On_The_Mind.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps being on the mind onto receiving serious thought."
+    },
+    {
+      "slug": "relationship-is-kinship",
+      "name": "RELATIONSHIP IS KINSHIP",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "social-roles",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Relationship_Is_Kinship.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps kinship onto relationship."
+    },
+    {
+      "slug": "responsibilities-are-possessions",
+      "name": "RESPONSIBILITIES ARE POSSESSIONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "governance",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Responsibilities_Are_Possessions.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps possessions onto responsibilities."
+    },
+    {
+      "slug": "seeing-is-touching-eyes-are-limbs",
+      "name": "SEEING IS TOUCHING, EYES ARE LIMBS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "vision",
+      "target_frame": "vision",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Seeing_Is_Touching,_Eyes_Are_Limbs.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps touching, eyes are limbs onto seeing."
+    },
+    {
+      "slug": "self-initiated-change-of-state-is-self-propelled-motion",
+      "name": "SELF-INITIATED CHANGE OF STATE IS SELF-PROPELLED MOTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Self-initiated_Change_Of_State_Is_Self-propelled_Motion.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps self-propelled motion onto self-initiated change of state."
+    },
+    {
+      "slug": "sexuality-is-an-offensive-weapon",
+      "name": "SEXUALITY IS AN OFFENSIVE WEAPON",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Sexuality_Is_An_Offensive_Weapon.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps an offensive weapon onto sexuality."
+    },
+    {
+      "slug": "shapes-are-containers",
+      "name": "SHAPES ARE CONTAINERS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "containers",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Shapes_Are_Containers.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps containers onto shapes."
+    },
+    {
+      "slug": "social-accounting",
+      "name": "SOCIAL ACCOUNTING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "social-behavior",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Social_Accounting.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps social accounting onto social accounting."
+    },
+    {
+      "slug": "society-is-a-body",
+      "name": "SOCIETY IS A BODY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "social-roles",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Society_Is_A_Body.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a body onto society."
+    },
+    {
+      "slug": "states-are-shapes",
+      "name": "STATES ARE SHAPES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: States_Are_Shapes.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps shapes onto states."
+    },
+    {
+      "slug": "strong-emotion-is-blinding",
+      "name": "STRONG EMOTION IS BLINDING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Strong_Emotion_Is_Blinding.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps blinding onto strong emotion."
+    },
+    {
+      "slug": "strong-emotions-are-madness",
+      "name": "STRONG EMOTIONS ARE MADNESS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mental-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Strong_Emotions_Are_Madness.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps madness onto strong emotions."
+    },
+    {
+      "slug": "subjects-are-areas",
+      "name": "SUBJECTS ARE AREAS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Subjects_Are_Areas.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps areas onto subjects."
+    },
+    {
+      "slug": "the-body-is-a-container-for-the-self",
+      "name": "THE BODY IS A CONTAINER FOR THE SELF",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "embodied-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: The_Body_Is_A_Container_For_The_Self.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a container for the self onto the body."
+    },
+    {
+      "slug": "the-event-structure-metaphorical-system",
+      "name": "THE EVENT STRUCTURE METAPHORICAL SYSTEM",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: The_Event_Structure_Metaphorical_System.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps the event structure metaphorical system onto the event structure metaphorical system."
+    },
+    {
+      "slug": "the-mind-is-a-body",
+      "name": "THE MIND IS A BODY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: The_Mind_Is_A_Body.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a body onto the mind."
+    },
+    {
+      "slug": "the-progress-of-external-events-is-forward-motion",
+      "name": "THE PROGRESS OF EXTERNAL EVENTS IS FORWARD MOTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: The_Progress_Of_External_Events_Is_Forward_Motion.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps forward motion onto the progress of external events."
+    },
+    {
+      "slug": "theoretical-debate-is-competition",
+      "name": "THEORETICAL DEBATE IS COMPETITION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Theoretical_Debate_Is_Competition.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps competition onto theoretical debate."
+    },
+    {
+      "slug": "theories-are-beings-with-life-cycles",
+      "name": "THEORIES ARE BEINGS WITH LIFE CYCLES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "life-course",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Theories_Are_Beings_With_Life_Cycles.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps beings with life cycles onto theories."
+    },
+    {
+      "slug": "theories-are-cloth",
+      "name": "THEORIES ARE CLOTH",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Theories_Are_Cloth.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps cloth onto theories."
+    },
+    {
+      "slug": "theories-are-constructed-objects",
+      "name": "THEORIES ARE CONSTRUCTED OBJECTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Theories_Are_Constructed_Objects.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps constructed objects onto theories."
+    },
+    {
+      "slug": "theories-are-covers-for-the-facts",
+      "name": "THEORIES ARE COVERS FOR THE FACTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Theories_Are_Covers_For_The_Facts.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps covers for the facts onto theories."
+    },
+    {
+      "slug": "theories-are-people",
+      "name": "THEORIES ARE PEOPLE (W.R.T. FAMILY TREE STRUCTURE)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Theories_Are_People_(w.r.t._Family_Tree_Structure).html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps people (w.r.t. family tree structure) onto theories."
+    },
+    {
+      "slug": "time-is-a-changer",
+      "name": "TIME IS A CHANGER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "time-and-temporality",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Time_Is_A_Changer.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a changer onto time."
+    },
+    {
+      "slug": "time-is-a-container",
+      "name": "TIME IS A CONTAINER (BOUNDED)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Time_Is_A_Container_(bounded).html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a container (bounded) onto time."
+    },
+    {
+      "slug": "time-is-a-landscape-we-move-through",
+      "name": "TIME IS A LANDSCAPE WE MOVE THROUGH",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Time_Is_A_Landscape_We_Move_Through.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a landscape we move through onto time."
+    },
+    {
+      "slug": "time-is-a-pursuer",
+      "name": "TIME IS A PURSUER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "time-and-temporality",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Time_Is_A_Pursuer.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a pursuer onto time."
+    },
+    {
+      "slug": "time-is-a-resource",
+      "name": "TIME IS A RESOURCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Time_Is_A_Resource.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps a resource onto time."
+    },
+    {
+      "slug": "time-is-something-moving-toward-you",
+      "name": "TIME IS SOMETHING MOVING TOWARD YOU",
+      "kind": "conceptual-metaphor",
+      "source_frame": "time-and-temporality",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Time_Is_Something_Moving_Toward_You.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps something moving toward you onto time."
+    },
+    {
+      "slug": "treating-illness-is-fighting-a-war",
+      "name": "TREATING ILLNESS IS FIGHTING A WAR",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "medicine",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Treating_Illness_Is_Fighting_A_War.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps fighting a war onto treating illness."
+    },
+    {
+      "slug": "well-being-is-wealth",
+      "name": "WELL-BEING IS WEALTH",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Well-being_Is_Wealth.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps wealth onto well-being."
+    },
+    {
+      "slug": "words-are-weapons",
+      "name": "WORDS ARE WEAPONS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "communication",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Words_Are_Weapons.html; Master Metaphor List (Lakoff, Espenson & Schwartz 1991)",
+      "description": "From the Master Metaphor List / Osaka archive. Maps weapons onto words."
+    },
+    {
+      "slug": "knowing-is-seeing",
+      "name": "KNOWING IS SEEING",
+      "kind": "primary-metaphor",
+      "source_frame": "vision",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "llm",
+      "archive_ref": "Grady 1997; Lakoff & Johnson 1999 pp. 53-54; Sweetser 1990",
+      "description": "The foundational epistemic metaphor. We 'see' what someone means, have 'insight', and seek 'illumination'. Grady identifies this as a primary metaphor grounded in the correlation between visual perception and knowledge acquisition in infancy. Sweetser (1990) traces it across Indo-European languages."
+    },
+    {
+      "slug": "understanding-is-grasping",
+      "name": "UNDERSTANDING IS GRASPING",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Grady 1997; Lakoff & Johnson 1999 pp. 54",
+      "description": "We 'grasp' concepts, 'get a hold of' ideas, find some things 'hard to get'. The correlation of manual manipulation with cognitive comprehension in early development grounds this primary metaphor."
+    },
+    {
+      "slug": "categories-are-containers",
+      "name": "CATEGORIES ARE CONTAINERS",
+      "kind": "primary-metaphor",
+      "source_frame": "containers",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Johnson 1999 pp. 52; Lakoff 1987 Ch 6",
+      "description": "Things are 'in' or 'out of' categories. Category membership is containment. This primary metaphor structures all classification and set theory. It follows from the container image schema applied to conceptual grouping."
+    },
+    {
+      "slug": "similarity-is-closeness",
+      "name": "SIMILARITY IS CLOSENESS",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Grady 1997; Lakoff & Johnson 1999 pp. 50",
+      "description": "Similar things are 'close' to each other, differences are 'distances'. This primary metaphor underlies all spatial models of similarity (e.g., multidimensional scaling, semantic spaces)."
+    },
+    {
+      "slug": "organization-is-physical-structure",
+      "name": "ORGANIZATION IS PHYSICAL STRUCTURE",
+      "kind": "primary-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Johnson 1999 pp. 52",
+      "description": "Abstract organization is understood through physical spatial structure. An argument has 'structure', a theory has 'foundations', an organization has 'levels'."
+    },
+    {
+      "slug": "help-is-support",
+      "name": "HELP IS SUPPORT",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "social-behavior",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Grady 1997; Lakoff & Johnson 1999 pp. 52",
+      "description": "To help someone is to 'support' them, to 'prop them up', to be their 'pillar'. The embodied correlation: holding something up prevents it from falling."
+    },
+    {
+      "slug": "importance-is-size",
+      "name": "IMPORTANCE IS SIZE",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Grady 1997; Lakoff & Johnson 1999 pp. 50",
+      "description": "Important things are 'big', trivial things are 'small'. A 'big' day, a 'small' matter. The embodied grounding: large things in the visual field demand more attention."
+    },
+    {
+      "slug": "bad-is-stinky",
+      "name": "BAD IS STINKY",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Johnson 1999 pp. 51",
+      "description": "Bad things 'stink', are 'rotten', 'smell fishy'. The correlation of olfactory disgust with negative evaluation is one of the most basic embodied judgments."
+    },
+    {
+      "slug": "intimacy-is-closeness",
+      "name": "INTIMACY IS CLOSENESS",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Grady 1997; Lakoff & Johnson 1999 pp. 50",
+      "description": "Close relationships are 'close', estrangement is 'distance'. We 'grow apart' or 'come together'. The embodied correlation: physical proximity to caregivers correlates with emotional intimacy in infancy."
+    },
+    {
+      "slug": "difficulties-are-burdens",
+      "name": "DIFFICULTIES ARE BURDENS",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Grady 1997; Lakoff & Johnson 1999 pp. 52",
+      "description": "Problems are 'heavy', we carry 'burdens', responsibilities 'weigh on' us. The embodied grounding: carrying heavy objects impedes movement and causes fatigue."
+    },
+    {
+      "slug": "time-is-motion",
+      "name": "TIME IS MOTION",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "time-and-temporality",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Johnson 1999 pp. 52; also 'The Contemporary Theory of Metaphor' (Lakoff 1993)",
+      "description": "The master time metaphor: temporal passage is spatial motion. Subsumes both 'moving time' (time comes toward us) and 'moving observer' (we move through time). Lakoff & Johnson argue this is a primary metaphor grounded in the correlation of experienced events with perceived motion."
+    },
+    {
+      "slug": "purposes-are-desired-objects",
+      "name": "PURPOSES ARE DESIRED OBJECTS",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Johnson 1999 pp. 53",
+      "description": "Goals are things we 'pursue', 'reach for', 'get', 'obtain'. The embodied grounding: infants correlate achieving desired states with acquiring desired objects."
+    },
+    {
+      "slug": "actions-are-self-propelled-motions",
+      "name": "ACTIONS ARE SELF-PROPELLED MOTIONS",
+      "kind": "primary-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "event-structure",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Johnson 1999 pp. 52",
+      "description": "Volitional action is self-propelled movement. We 'proceed', 'go ahead', 'move on' an initiative. The correlation: voluntary bodily motion is the prototype of intentional action."
+    },
+    {
+      "slug": "relationships-are-enclosures",
+      "name": "RELATIONSHIPS ARE ENCLOSURES",
+      "kind": "primary-metaphor",
+      "source_frame": "containers",
+      "target_frame": "love-and-relationships",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Johnson 1999 pp. 53",
+      "description": "We are 'in' relationships, 'trapped' in marriages, 'get out of' friendships. The container image schema structures relational commitment."
+    },
+    {
+      "slug": "anger-is-a-heated-fluid-in-a-container",
+      "name": "ANGER IS A HEATED FLUID IN A CONTAINER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "mental-experience",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff 1987 Case Study 1; Kovecses 1986; Lakoff & Kovecses 1987",
+      "description": "The most thoroughly analyzed complex metaphor in cognitive linguistics. Anger is a hot fluid in the body-container: we 'boil over', 'let off steam', 'simmer'. The body is the container, anger is the fluid, its intensity is heat, loss of control is explosion. Composes ANGER IS HEAT + THE BODY IS A CONTAINER + EMOTIONS ARE FLUIDS."
+    },
+    {
+      "slug": "nation-is-a-person",
+      "name": "NATION IS A PERSON",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "governance",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff 1996 'Moral Politics'; Lakoff 2002 'Moral Politics' 2nd ed.",
+      "description": "Nations have 'interests', 'friends', 'enemies'. They can be 'healthy' or 'sick', 'young' or 'mature'. This personification metaphor structures international relations discourse and foreign policy reasoning."
+    },
+    {
+      "slug": "nation-is-a-family",
+      "name": "NATION IS A FAMILY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "governance",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff 1996 'Moral Politics' Ch 1-5",
+      "description": "The government is a parent, citizens are children. Lakoff's central thesis in Moral Politics: conservative politics maps to the Strict Father model, progressive politics to the Nurturant Parent model. The family metaphor structures moral reasoning about governance."
+    },
+    {
+      "slug": "morality-is-accounting",
+      "name": "MORALITY IS ACCOUNTING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "ethics-and-morality",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "archive_ref": "Osaka archive: Moral_Accounting.html; Lakoff & Johnson 1999 Ch 15",
+      "description": "Good deeds are credits, bad deeds are debts. We 'owe' people, 'repay' kindness, seek 'balance'. Revenge is 'getting even'. This metaphor structures retributive justice systems."
+    },
+    {
+      "slug": "death-is-departure",
+      "name": "DEATH IS DEPARTURE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "life-course",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Turner 1989 'More Than Cool Reason' Ch 1",
+      "description": "The dead have 'passed on', 'departed', 'gone'. Death is leaving on a journey. Lakoff and Turner analyze this as part of the LIFE IS A JOURNEY system, where death is the final destination or departure."
+    },
+    {
+      "slug": "life-is-a-story",
+      "name": "LIFE IS A STORY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "creative-process",
+      "target_frame": "life-course",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Turner 1989; Turner 1996 'The Literary Mind'",
+      "description": "Lives have 'chapters', 'turning points', 'plots'. We 'write' our own story. Turner argues narrative is a fundamental cognitive operation, not just a literary form."
+    },
+    {
+      "slug": "the-great-chain-of-being",
+      "name": "THE GREAT CHAIN OF BEING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "natural-selection",
+      "target_frame": "social-roles",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Turner 1989 'More Than Cool Reason' Ch 4",
+      "description": "A hierarchical ordering: God > humans > animals > plants > minerals. Each level has characteristic properties. Lakoff and Turner argue this folk model structures personification (attributing human properties down the chain) and dehumanization (attributing animal properties to humans)."
+    },
+    {
+      "slug": "argument-is-a-container",
+      "name": "ARGUMENT IS A CONTAINER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "argumentation",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "llm",
+      "archive_ref": "Lakoff & Johnson 1980 Ch 6",
+      "description": "Arguments have 'content', can be 'full of holes' or 'empty'. You can 'pack' an argument with evidence. The container schema structures the experience of argument as a bounded entity that holds things."
+    }
+  ]
+}

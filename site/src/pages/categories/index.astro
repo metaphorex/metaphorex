@@ -1,0 +1,19 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection } from "astro:content";
+
+const categories = await getCollection("categories");
+const sorted = categories.sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+<Base title="Categories">
+  <h1>Categories ({categories.length})</h1>
+  <ul class="entry-list">
+    {sorted.map((c) => (
+      <li>
+        <a href={`/categories/${c.data.slug}/`}>{c.data.name}</a>
+        {c.data.broader && <span class="muted"> &larr; {c.data.broader}</span>}
+      </li>
+    ))}
+  </ul>
+</Base>

@@ -1,7 +1,7 @@
 ---
 slug: the-repository-pattern
 name: "The Repository Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: library-and-archive
 target_frame: software-abstraction
 categories:
