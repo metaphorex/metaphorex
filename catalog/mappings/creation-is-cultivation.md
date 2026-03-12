@@ -93,19 +93,21 @@ Key structural parallels:
 
 ## Expressions
 
-- "Cultivate an idea" -- developing a concept through patient attention
 - "Plant the seeds of change" -- initiating creation by establishing
   preconditions
 - "The idea bore fruit" -- a creation yielding valuable results
 - "Fertile imagination" -- a mind rich in creative potential
 - "A budding talent" -- early-stage creative ability as a plant beginning
   to flower
-- "Deep roots" -- a creation with strong foundations in tradition or practice
 - "The project died on the vine" -- creative failure as agricultural failure
 - "Harvest the results" -- reaping the benefits of creative labor
 - "Culture" -- the word itself derives from Latin *cultura* (tending, cultivation),
   preserving the metaphor in its most fundamental form
 - "Seminal work" -- foundational creation, literally "of or relating to seed"
+- "Till the soil" -- preparing conditions for creative work before anything
+  is planted; the labor that precedes visible creation
+- "An idea that has taken root" -- a concept that has established itself
+  and begun to develop under its own momentum
 
 ## Origin Story
 
