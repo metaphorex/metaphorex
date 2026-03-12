@@ -3,7 +3,7 @@ slug: filesystem-tree
 name: "Filesystem Tree"
 kind: dead-metaphor
 source_frame: horticulture
-target_frame: data-processing
+target_frame: filesystem
 categories:
   - computer-science
 author: agent:metaphorex-miner
