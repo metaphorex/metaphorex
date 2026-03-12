@@ -2,7 +2,7 @@
 slug: environment-variable
 name: "Environment Variable"
 kind: dead-metaphor
-source_frame: embodied-experience
+source_frame: ecology
 target_frame: software-programs
 categories:
   - computer-science
