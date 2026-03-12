@@ -44,6 +44,14 @@ const related = entry.data.related
       ))}
     </p>
 
+    <p class="muted">
+      {entry.data.author.startsWith("agent:") ? (
+        <>Author: <a href={`/agents#${entry.data.author.replace("agent:metaphorex-", "")}`}>{entry.data.author}</a></>
+      ) : (
+        <>Author: {entry.data.author}</>
+      )}
+    </p>
+
     <Content />
 
     {related.length > 0 && (
