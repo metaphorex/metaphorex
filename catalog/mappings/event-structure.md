@@ -1,7 +1,7 @@
 ---
 slug: event-structure
 name: "Event Structure (Location Case)"
-kind: conceptual-metaphor
+kind: paradigm
 source_frame: journeys
 target_frame: event-structure
 categories:

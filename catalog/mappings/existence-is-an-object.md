@@ -2,7 +2,7 @@
 slug: existence-is-an-object
 name: "Existence Is An Object"
 kind: conceptual-metaphor
-source_frame: containers
+source_frame: physical-objects
 target_frame: event-structure
 categories:
   - cognitive-science
