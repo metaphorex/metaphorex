@@ -53,7 +53,10 @@ const corpusVersion = new Date().toISOString().split("T")[0].replace(/-/g, ".");
       article h2 { margin-top: 2rem; }
       article ul, article ol { margin-left: 1.5rem; margin-bottom: 1rem; }
       article p { margin-bottom: 1rem; }
+      #search { margin-bottom: 1.5rem; }
     </style>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+    <script src="/pagefind/pagefind-ui.js" is:inline></script>
   </head>
   <body>
     <nav>
@@ -62,6 +65,10 @@ const corpusVersion = new Date().toISOString().split("T")[0].replace(/-/g, ".");
       <a href="/frames/">Frames</a>
       <a href="/categories/">Categories</a>
     </nav>
+    <div id="search"></div>
+    <script is:inline>
+      new PagefindUI({ element: "#search", showSubResults: true });
+    </script>
     <slot />
     <footer>
       Metaphorex {corpusVersion} &middot;
