@@ -1,7 +1,7 @@
 ---
 slug: technical-debt
 name: "Technical Debt"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: economics
 target_frame: software-programs
 categories:

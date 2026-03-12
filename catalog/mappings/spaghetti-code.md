@@ -1,7 +1,7 @@
 ---
 slug: spaghetti-code
 name: "Spaghetti Code"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: food-and-cooking
 target_frame: software-programs
 categories:

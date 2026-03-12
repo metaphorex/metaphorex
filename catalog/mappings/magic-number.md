@@ -1,7 +1,7 @@
 ---
 slug: magic-number
 name: "Magic Number"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: mythology
 target_frame: software-programs
 categories:

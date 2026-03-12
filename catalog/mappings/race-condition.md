@@ -1,7 +1,7 @@
 ---
 slug: race-condition
 name: "Race Condition"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: competition
 target_frame: software-programs
 categories:

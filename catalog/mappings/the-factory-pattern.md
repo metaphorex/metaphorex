@@ -1,7 +1,7 @@
 ---
 slug: the-factory-pattern
 name: "The Factory Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: manufacturing
 target_frame: object-oriented-design
 categories:

@@ -1,7 +1,7 @@
 ---
 slug: orphan-process
 name: "Orphan Process"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: social-roles
 target_frame: software-programs
 categories:

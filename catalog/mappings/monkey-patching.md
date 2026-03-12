@@ -1,7 +1,7 @@
 ---
 slug: monkey-patching
 name: "Monkey-Patching"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: social-behavior
 target_frame: software-programs
 categories:
