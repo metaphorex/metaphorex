@@ -2,8 +2,8 @@
 slug: compliance-is-adherence
 name: "Compliance Is Adherence"
 kind: conceptual-metaphor
-source_frame: embodied-experience
-target_frame: governance
+source_frame: physical-connection
+target_frame: rule-following
 categories:
   - cognitive-science
   - linguistics
