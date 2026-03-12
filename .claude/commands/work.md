@@ -69,6 +69,12 @@ so the user sees progress.
      Always runs in parallel with other work. The goal is to maintain a
      buffer of ≥2 prospected projects so mining never stalls.
 
+   **Priority ordering:** The survey script sorts every work bucket so
+   `priority:high` items appear first. When dispatching agents, pass items
+   in the order the survey returns them — agents will naturally work
+   high-priority items before normal ones. For mining, pass all unclaimed
+   issues in survey order (high-priority parents' children first).
+
 2. **Wait** for all parallel agents to complete. As each finishes, TaskUpdate
    its spinner to completed.
 
