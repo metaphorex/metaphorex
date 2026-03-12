@@ -1,7 +1,7 @@
 ---
 slug: memory-management
 name: "Memory Management"
-broader: computing
+broader: computer-science
 related:
   - software-programs
   - data-processing
