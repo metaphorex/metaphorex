@@ -7,6 +7,7 @@ target_frame: physics
 categories:
   - cognitive-science
   - linguistics
+  - physics-and-engineering
 author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []

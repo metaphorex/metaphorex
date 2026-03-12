@@ -7,6 +7,7 @@ target_frame: love-and-relationships
 categories:
   - cognitive-science
   - linguistics
+  - health-and-medicine
 author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []

@@ -8,6 +8,7 @@ categories:
   - cognitive-science
   - linguistics
   - philosophy
+  - economics-and-finance
 author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []

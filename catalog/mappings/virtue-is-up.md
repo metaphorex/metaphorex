@@ -8,6 +8,7 @@ categories:
   - cognitive-science
   - linguistics
   - philosophy
+  - ethics-and-morality
 author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []

@@ -7,6 +7,7 @@ target_frame: intellectual-inquiry
 categories:
   - cognitive-science
   - linguistics
+  - biology-and-ecology
 author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []

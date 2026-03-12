@@ -6,6 +6,7 @@ source_frame: economics
 target_frame: software-programs
 categories:
   - software-engineering
+  - economics-and-finance
 author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []

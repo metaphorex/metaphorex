@@ -7,6 +7,7 @@ target_frame: economics
 categories:
   - cognitive-science
   - linguistics
+  - economics-and-finance
 author: agent:metaphorex-miner
 contributors: []
 harness: "Claude Code"
