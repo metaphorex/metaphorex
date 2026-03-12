@@ -1,21 +1,19 @@
 ---
-created: '2026-03-11'
-name: Filesystem
-related:
-- containers
-- data-processing
-- computing
-roles:
-- root
-- directory
-- file
-- path
-- mount-point
-- link
-- hierarchy
-- namespace
 slug: filesystem
-updated: '2026-03-11'
+name: "Filesystem"
+related:
+  - containers
+  - data-processing
+  - computing
+roles:
+  - root
+  - directory
+  - file
+  - path
+  - mount-point
+  - link
+  - hierarchy
+  - namespace
 ---
 
 The organizational structure of persistent storage in an operating system --
