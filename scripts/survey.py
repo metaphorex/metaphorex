@@ -122,31 +122,34 @@ def survey(repo: str) -> dict:
 
     for p in parents:
         label_names = [l["name"] for l in p.get("labels", {}).get("nodes", [])]
+        priority = "high" if "priority:high" in label_names else "normal"
+        entry = {
+            "number": p["number"],
+            "title": p["title"],
+            "priority": priority,
+        }
         if "needs-rework" in label_names:
-            needs_rework.append({
-                "number": p["number"],
-                "title": p["title"],
-            })
+            needs_rework.append(entry)
         elif "in-progress" not in label_names:
-            needs_prospecting.append({
-                "number": p["number"],
-                "title": p["title"],
-            })
+            needs_prospecting.append(entry)
         elif "surveyed" in label_names:
-            prospected_projects.append({
-                "number": p["number"],
-                "title": p["title"],
-            })
+            prospected_projects.append(entry)
         else:
-            needs_survey.append({
-                "number": p["number"],
-                "title": p["title"],
-            })
+            needs_survey.append(entry)
+
+    # Sort each bucket so priority:high items come first
+    for bucket in (needs_rework, needs_prospecting, prospected_projects, needs_survey):
+        bucket.sort(key=lambda x: (0 if x["priority"] == "high" else 1, x["number"]))
 
     # Sub-issues without in-progress = unclaimed mining work
     # Only include sub-issues whose parent project is surveyed (verified).
     surveyed_parent_numbers = {p["number"] for p in prospected_projects}
     unclaimed = []
+
+    # Build priority lookup from parent issues
+    parent_priority = {
+        p["number"]: p.get("priority", "normal") for p in prospected_projects
+    }
 
     for issue in sub_issues:
         label_names = [l["name"] for l in issue.get("labels", {}).get("nodes", [])]
@@ -155,7 +158,11 @@ def survey(repo: str) -> dict:
             unclaimed.append({
                 "number": issue["number"],
                 "title": issue["title"],
+                "priority": parent_priority.get(parent_num, "normal"),
             })
+
+    # Sort unclaimed so children of priority:high parents come first
+    unclaimed.sort(key=lambda x: (0 if x["priority"] == "high" else 1, x["number"]))
 
     result = {
         "needs_smelting": smelting,
