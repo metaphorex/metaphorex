@@ -1,0 +1,426 @@
+{
+  "project": "sw-eng-vernacular",
+  "project_issue": 2,
+  "source_type": "vein",
+  "archive_urls": [
+    "https://blog.codinghorror.com/new-programming-jargon/",
+    "https://dev.to/thormeier/i-plowed-through-coding-slang-wikipedia-articles-so-you-dont-have-to-25-terms-you-probably-didnt-know-3lkf",
+    "https://github.com/saqemlas/software-engineering-terminology",
+    "https://www.blog.nipunarora.net/terminologies-used-in-tech/",
+    "https://en.wikipedia.org/wiki/Anti-pattern",
+    "http://www.catb.org/jargon/html/"
+  ],
+  "batch": 1,
+  "candidates": [
+    {
+      "slug": "technical-debt",
+      "name": "Technical Debt",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Ward Cunningham's financial metaphor: shortcuts accrue interest, must be paid down. One of the most structurally rich metaphors in software -- principal, interest, bankruptcy all map."
+    },
+    {
+      "slug": "code-smell",
+      "name": "Code Smell",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "cognitive-science"],
+      "source": "archive",
+      "description": "Martin Fowler/Kent Beck's olfactory metaphor: bad code is detected by intuitive 'smell' before rational analysis. Maps the pre-conscious pattern recognition of bodily senses onto code review."
+    },
+    {
+      "slug": "spaghetti-code",
+      "name": "Spaghetti Code",
+      "kind": "conceptual-metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Tangled pasta maps onto tangled control flow. Part of a food-metaphor family: lasagna code (too many layers), ravioli code (well-encapsulated), baklava code (excessive thin layers)."
+    },
+    {
+      "slug": "rubber-duck-debugging",
+      "name": "Rubber Duck Debugging",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-behavior",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "cognitive-science"],
+      "source": "archive",
+      "description": "Explaining code to an inanimate listener forces articulation that reveals bugs. The duck as interlocutor maps social cognition onto individual problem-solving."
+    },
+    {
+      "slug": "yak-shaving",
+      "name": "Yak Shaving",
+      "kind": "conceptual-metaphor",
+      "source_frame": "animal-husbandry",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "An absurd prerequisite chain (needing to shave a yak before you can start your real task). Maps the feeling of infinite regression in dependency resolution."
+    },
+    {
+      "slug": "bikeshedding",
+      "name": "Bikeshedding",
+      "kind": "conceptual-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "collaborative-work",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Parkinson's Law of Triviality: a committee spends more time on the bike shed color than the nuclear reactor. Maps trivial accessibility onto disproportionate attention."
+    },
+    {
+      "slug": "cargo-cult-programming",
+      "name": "Cargo Cult Programming",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "cognitive-science"],
+      "source": "archive",
+      "description": "Melanesian cargo cults built ritual airstrips hoping planes would return. Maps ritual imitation without understanding onto copying code patterns without comprehension."
+    },
+    {
+      "slug": "heisenbug",
+      "name": "Heisenbug",
+      "kind": "conceptual-metaphor",
+      "source_frame": "computing",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Heisenberg's uncertainty principle mapped onto bugs that disappear under observation. Part of a physics-bug family: Bohrbug (deterministic), Mandelbug (chaotic), Schrodinbug (exists only once observed)."
+    },
+    {
+      "slug": "big-ball-of-mud",
+      "name": "Big Ball of Mud",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "A shapeless, structureless mass maps onto software that grew without architecture. Brian Foote and Joseph Yoder's 1997 paper named the most common architecture of all."
+    },
+    {
+      "slug": "software-rot",
+      "name": "Software Rot",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Organic decay maps onto code degradation. Also called bit rot, code rot, software entropy. The metaphor imports inevitability and the need for maintenance as hygiene."
+    },
+    {
+      "slug": "boat-anchor",
+      "name": "Boat Anchor",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Dead weight dragging you down maps onto obsolete technology kept in the codebase. Nobody dares remove it because it might be load-bearing."
+    },
+    {
+      "slug": "dogfooding",
+      "name": "Dogfooding",
+      "kind": "conceptual-metaphor",
+      "source_frame": "animal-husbandry",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Eating your own dog food: using your own product internally. Maps the trust test (would you feed this to your own pet?) onto product quality validation."
+    },
+    {
+      "slug": "bus-factor",
+      "name": "Bus Factor",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "collaborative-work",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "How many people could get hit by a bus before the project dies? Maps violent accident onto knowledge concentration risk. The morbidity makes the metric memorable."
+    },
+    {
+      "slug": "hydra-code",
+      "name": "Hydra Code",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "The Lernaean Hydra: cut one head, two grow back. Maps mythological regeneration onto bugs that multiply when fixed. The only solution is to rewrite (cauterize)."
+    },
+    {
+      "slug": "jenga-code",
+      "name": "Jenga Code",
+      "kind": "conceptual-metaphor",
+      "source_frame": "competition",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "A precarious block tower where removing any piece risks collapse. Maps structural fragility and interdependence onto tightly coupled codebases."
+    },
+    {
+      "slug": "shotgun-debugging",
+      "name": "Shotgun Debugging",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Firing a shotgun (wide spread, low precision) maps onto making random changes hoping to hit the bug. Contrasts with surgical/sniper debugging."
+    },
+    {
+      "slug": "deep-magic",
+      "name": "Deep Magic",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Arcane mystical knowledge maps onto obscure technical expertise. From the Jargon File. 'Here be dragons' territory -- code that works but nobody understands why."
+    },
+    {
+      "slug": "baklava-code",
+      "name": "Baklava Code",
+      "kind": "conceptual-metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Pastry with too many thin layers maps onto excessive abstraction layers. Each layer adds overhead, the filling (business logic) gets lost between the phyllo (interfaces)."
+    },
+    {
+      "slug": "golden-hammer",
+      "name": "Golden Hammer",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "cognitive-science"],
+      "source": "archive",
+      "description": "Maslow's hammer: if all you have is a hammer, everything looks like a nail. Maps tool fixation onto technology choice bias. The 'golden' adds the seductive appeal of the familiar."
+    },
+    {
+      "slug": "god-object",
+      "name": "God Object",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "An omniscient, omnipotent deity maps onto a class that knows too much and does too much. The theological metaphor reveals the anti-pattern: no single entity should be omnipotent."
+    },
+    {
+      "slug": "lava-flow",
+      "name": "Lava Flow",
+      "kind": "conceptual-metaphor",
+      "source_frame": "natural-phenomena",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Volcanic lava that hardens into immovable rock maps onto dead code that solidifies in the codebase. Once cooled, nobody dares touch it."
+    },
+    {
+      "slug": "duck-typing",
+      "name": "Duck Typing",
+      "kind": "dead-metaphor",
+      "source_frame": "natural-selection",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "philosophy"],
+      "source": "llm",
+      "description": "If it walks like a duck and quacks like a duck, it is a duck. Maps behavioral identity (pragmatist epistemology) onto type systems. The duck test as interface contract."
+    },
+    {
+      "slug": "monkey-patching",
+      "name": "Monkey Patching",
+      "kind": "conceptual-metaphor",
+      "source_frame": "animal-husbandry",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "llm",
+      "description": "Mischievous monkey tampering maps onto runtime modification of code you don't own. Originally 'guerrilla patching' -- the animal metaphor stuck because it captures the recklessness."
+    },
+    {
+      "slug": "zombie-process",
+      "name": "Zombie Process",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "llm",
+      "description": "The undead: a process that has terminated but still occupies the process table. Maps horror-genre reanimation onto resource leaks. Parent must 'reap' the zombie (funerary metaphor on top of horror metaphor)."
+    },
+    {
+      "slug": "orphan-process",
+      "name": "Orphan Process",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "llm",
+      "description": "A child whose parent has died. Maps familial abandonment onto processes whose parent terminated without cleanup. The init process 'adopts' orphans -- the metaphor is internally consistent and poignant."
+    },
+    {
+      "slug": "race-condition",
+      "name": "Race Condition",
+      "kind": "dead-metaphor",
+      "source_frame": "competition",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "llm",
+      "description": "A footrace where the outcome depends on who arrives first. Maps competitive timing onto concurrent access bugs. So embedded in CS that most forget it is a metaphor."
+    },
+    {
+      "slug": "magic-number",
+      "name": "Magic Number",
+      "kind": "dead-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "llm",
+      "description": "Unexplained constants in code are 'magic' -- they work but nobody knows why. Maps supernatural causation onto opaque implementation details. The fix is to name them, breaking the spell."
+    },
+    {
+      "slug": "garbage-collection",
+      "name": "Garbage Collection",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "llm",
+      "description": "Municipal waste collection maps onto automatic memory reclamation. Trash trucks, garbage cans, recycling -- the entire sanitation infrastructure metaphor carries over. So dead most developers never notice."
+    },
+    {
+      "slug": "sandbox",
+      "name": "Sandbox",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "security"],
+      "source": "llm",
+      "description": "A children's sandbox: a safe, bounded space for play. Maps the concept of a consequence-free enclosure onto isolated execution environments. You can build and destroy without affecting the real world."
+    },
+    {
+      "slug": "breadcrumb-trail",
+      "name": "Breadcrumb Trail",
+      "kind": "conceptual-metaphor",
+      "source_frame": "creative-process",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Hansel and Gretel's trail of breadcrumbs maps onto debug logging and UI navigation paths. Leave a trail so you can find your way back -- or so others can follow your path."
+    },
+    {
+      "slug": "skunkworks",
+      "name": "Skunkworks",
+      "kind": "conceptual-metaphor",
+      "source_frame": "military-command",
+      "target_frame": "collaborative-work",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Lockheed Martin's secret Advanced Development Programs division. Maps autonomous military R&D onto small teams given freedom to innovate outside normal organizational constraints."
+    },
+    {
+      "slug": "drinking-the-kool-aid",
+      "name": "Drinking the Kool-Aid",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-behavior",
+      "target_frame": "collaborative-work",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Jonestown mass poisoning maps onto uncritical adoption of a technology, methodology, or corporate culture. The darkest origin story of any tech metaphor."
+    },
+    {
+      "slug": "boil-the-ocean",
+      "name": "Boil the Ocean",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "collaborative-work",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "An impossible physical task maps onto overambitious project scope. You cannot boil the ocean; you should not try to build everything at once."
+    },
+    {
+      "slug": "accidental-complexity",
+      "name": "Accidental Complexity vs Essential Complexity",
+      "kind": "conceptual-metaphor",
+      "source_frame": "intellectual-inquiry",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "philosophy"],
+      "source": "llm",
+      "description": "Fred Brooks borrowed Aristotle's essential/accidental distinction. Maps philosophical ontology onto software engineering: some complexity is inherent in the problem, some is self-inflicted by tools and process."
+    },
+    {
+      "slug": "silver-bullet",
+      "name": "Silver Bullet",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "llm",
+      "description": "The only weapon that kills a werewolf. Fred Brooks: 'there is no silver bullet' in software engineering. Maps supernatural monster-slaying onto the search for a single solution to software complexity."
+    },
+    {
+      "slug": "technical-bankruptcy",
+      "name": "Technical Bankruptcy",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "llm",
+      "description": "Extension of the technical debt metaphor: when debt accumulates beyond repayment capacity, you declare bankruptcy (total rewrite). Maps financial insolvency onto the rewrite-vs-refactor decision."
+    },
+    {
+      "slug": "fear-driven-development",
+      "name": "Fear Driven Development",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-behavior",
+      "target_frame": "collaborative-work",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Management through fear of firing, deadline crunch, or resource cuts. Maps coercive psychology onto development methodology. A dark mirror of test-driven, behavior-driven, etc."
+    },
+    {
+      "slug": "yo-yo-problem",
+      "name": "Yo-Yo Problem",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "A toy that goes up and down on a string maps onto navigating deep class inheritance hierarchies. You bounce between parent and child classes trying to understand behavior."
+    },
+    {
+      "slug": "action-at-a-distance",
+      "name": "Action at a Distance",
+      "kind": "conceptual-metaphor",
+      "source_frame": "computing",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Einstein's 'spooky action at a distance' in quantum physics maps onto code where modifying one part unexpectedly affects distant, seemingly unrelated parts. Global state and hidden coupling."
+    },
+    {
+      "slug": "software-peter-principle",
+      "name": "Software Peter Principle",
+      "kind": "conceptual-metaphor",
+      "source_frame": "organizational-behavior",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "The Peter Principle (people rise to their level of incompetence) mapped onto software: projects grow in complexity until they exceed even the original developers' comprehension."
+    },
+    {
+      "slug": "voodoo-programming",
+      "name": "Voodoo Programming",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Voodoo ritual (manipulating effigies to affect the real world) maps onto trial-and-error programming where the developer doesn't understand the causal mechanism."
+    }
+  ]
+}

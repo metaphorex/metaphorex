@@ -1,7 +1,7 @@
 ---
 slug: the-pipeline-pattern
 name: "The Pipeline Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: fluid-dynamics
 target_frame: data-processing
 categories:

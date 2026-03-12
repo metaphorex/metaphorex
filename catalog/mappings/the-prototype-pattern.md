@@ -1,7 +1,7 @@
 ---
 slug: the-prototype-pattern
 name: "The Prototype Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: manufacturing
 target_frame: object-oriented-design
 categories:

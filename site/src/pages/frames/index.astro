@@ -1,0 +1,19 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection } from "astro:content";
+
+const frames = await getCollection("frames");
+const sorted = frames.sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+<Base title="Frames">
+  <h1>Frames ({frames.length})</h1>
+  <ul class="entry-list">
+    {sorted.map((f) => (
+      <li>
+        <a href={`/frames/${f.data.slug}/`}>{f.data.name}</a>
+        {f.data.broader && <span class="muted"> &larr; {f.data.broader}</span>}
+      </li>
+    ))}
+  </ul>
+</Base>

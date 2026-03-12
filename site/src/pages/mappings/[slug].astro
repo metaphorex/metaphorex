@@ -1,0 +1,60 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const mappings = await getCollection("mappings");
+  return mappings.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const allFrames = await getCollection("frames");
+const sourceFrame = allFrames.find((f) => f.data.slug === entry.data.source_frame);
+const targetFrame = allFrames.find((f) => f.data.slug === entry.data.target_frame);
+
+const allMappings = await getCollection("mappings");
+const related = entry.data.related
+  .map((slug: string) => allMappings.find((m) => m.data.slug === slug))
+  .filter(Boolean);
+---
+
+<Base title={entry.data.name} description={`${entry.data.name}: ${entry.data.source_frame} → ${entry.data.target_frame}`}>
+  <article data-pagefind-body>
+    <h1>{entry.data.name}</h1>
+
+    <p class="muted">
+      <span class="tag">{entry.data.kind}</span>
+      {sourceFrame
+        ? <a href={`/frames/${sourceFrame.data.slug}/`}>{sourceFrame.data.name}</a>
+        : entry.data.source_frame}
+      &rarr;
+      {targetFrame
+        ? <a href={`/frames/${targetFrame.data.slug}/`}>{targetFrame.data.name}</a>
+        : entry.data.target_frame}
+    </p>
+
+    <p class="muted">
+      Categories: {entry.data.categories.map((c: string) => (
+        <a href={`/categories/${c}/`} class="tag">{c}</a>
+      ))}
+    </p>
+
+    <Content />
+
+    {related.length > 0 && (
+      <>
+        <h2>Related Mappings</h2>
+        <ul>
+          {related.map((r: any) => (
+            <li><a href={`/mappings/${r.data.slug}/`}>{r.data.name}</a></li>
+          ))}
+        </ul>
+      </>
+    )}
+  </article>
+</Base>

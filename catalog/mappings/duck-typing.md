@@ -1,7 +1,7 @@
 ---
 slug: duck-typing
 name: "Duck Typing"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: folk-taxonomy
 target_frame: software-programs
 categories:
