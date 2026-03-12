@@ -10,7 +10,7 @@ author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
 related:
-  - unix-pipe
+  - everything-is-a-file
 ---
 
 ## What It Brings
