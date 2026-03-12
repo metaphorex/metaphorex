@@ -2,7 +2,7 @@
 slug: creating-is-birthing
 name: "Creating Is Birthing"
 kind: conceptual-metaphor
-source_frame: life-course
+source_frame: reproduction
 target_frame: creative-process
 categories:
   - cognitive-science
