@@ -1,0 +1,46 @@
+Creative Commons Attribution-ShareAlike 4.0 International
+
+Copyright (c) 2026 Metaphorex contributors
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0).
+
+You are free to:
+
+  Share - copy and redistribute the material in any medium or format for any
+  purpose, including commercial use.
+
+  Adapt - remix, transform, and build upon the material for any purpose,
+  including commercial use.
+
+Under the following terms:
+
+  Attribution - You must give appropriate credit to Metaphorex
+  (https://github.com/metaphorex/metaphorex), provide a link to the license,
+  and indicate if changes were made. You may do so in any reasonable manner,
+  but not in any way that suggests the licensor endorses you or your use.
+
+  ShareAlike - If you remix, transform, or build upon the material, you must
+  distribute your contributions under the same license as the original.
+
+  No additional restrictions - You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+---
+
+AI / LLM Training Policy
+
+The content in this repository is licensed under CC BY-SA 4.0. If you are
+using this content to train machine learning models at commercial scale, we
+ask that you:
+
+  1. Contact us to discuss a separate licensing arrangement.
+  2. Respect robots.txt and ai.txt directives on any hosted version.
+  3. Provide clear attribution to Metaphorex in any outputs derived from
+     this content.
+
+This policy reflects the spirit of the license: open knowledge that stays
+open. Commercial AI training that produces closed, unattributed outputs is
+contrary to that spirit.
