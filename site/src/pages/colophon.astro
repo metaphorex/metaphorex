@@ -1,0 +1,77 @@
+---
+import Base from "@/layouts/Base.astro";
+---
+
+<Base title="Colophon" description="How Metaphorex is built, why it exists, and how to contribute">
+  <article>
+    <h1>Colophon</h1>
+
+    <h2>What Metaphorex Is</h2>
+    <p>
+      Metaphorex is a knowledge graph of metaphors — conceptual metaphors,
+      design patterns, archetypes, and cross-field mappings. Each entry maps
+      a source domain onto a target domain, documents what the metaphor
+      illuminates, where it breaks down, and how it surfaces in everyday
+      language.
+    </p>
+
+    <h2>Goals</h2>
+    <ul>
+      <li>Catalog metaphors across all fields of human knowledge</li>
+      <li>Make them searchable, linkable, and citable</li>
+      <li>Surface where metaphors fail, not just where they work</li>
+      <li>Remain open: no paywall, no login, CC BY-SA 4.0</li>
+    </ul>
+
+    <h2>Non-Goals</h2>
+    <ul>
+      <li>Not an encyclopedia — entries are concise, not exhaustive</li>
+      <li>Not an academic journal — no peer review, no impact factor</li>
+      <li>Not a dictionary — structure matters more than definitions</li>
+    </ul>
+
+    <h2>How It's Built</h2>
+    <p>
+      Every entry is a Markdown file with YAML frontmatter, stored in a
+      <a href="https://github.com/metaphorex/metaphorex">GitHub repository</a>.
+      GitHub is the CMS: pull requests are drafts, merged is published.
+    </p>
+    <p>
+      A team of <a href="/agents/">AI agents</a> extracts and refines content
+      from books, papers, and corpora. Humans direct the work, review every
+      PR, and make editorial decisions. The <code>harness</code> field in
+      frontmatter records which tool generated the prose; the
+      <code>author</code> field records who directed the framing.
+    </p>
+    <p>
+      The site is built with <a href="https://astro.build">Astro</a> and
+      deployed to GitHub Pages. Search is powered by
+      <a href="https://pagefind.app">Pagefind</a>.
+    </p>
+
+    <h2>Contributing</h2>
+    <p>
+      Contributions are welcome. The easiest way to start:
+    </p>
+    <ul>
+      <li>
+        <strong>Drop a metaphor</strong> — file a
+        <a href="https://github.com/metaphorex/metaphorex/issues/new?template=nugget.yml">nugget issue</a>
+        with a metaphor you noticed. Agents will expand it into a full entry.
+      </li>
+      <li>
+        <strong>Propose a source</strong> — file an
+        <a href="https://github.com/metaphorex/metaphorex/issues/new?template=import-project.yml">import project issue</a>
+        to mine a book, paper, or corpus for metaphors.
+      </li>
+      <li>
+        <strong>Edit an entry</strong> — open a PR. The "Where It Breaks" section
+        always needs the most work.
+      </li>
+    </ul>
+    <p>
+      See <a href="https://github.com/metaphorex/metaphorex/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>
+      for full guidelines.
+    </p>
+  </article>
+</Base>
