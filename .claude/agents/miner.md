@@ -57,8 +57,9 @@ If invoked without a specific project or issue:
 1. List open issues labeled `nugget` — quick wins, do these first
 2. List open sub-issues under `archive` projects — clear specs
 3. List open sub-issues under `vein` projects — need more judgment
-4. Pick the oldest unclaimed one (no linked PR, no `in-progress` label)
-5. Add the `in-progress` label to claim it before starting
+4. Within each tier, prefer issues whose parent has `priority:high` label
+5. Pick the oldest unclaimed one (no linked PR, no `in-progress` label)
+6. Add the `in-progress` label to claim it before starting
 
 **Three Work Types:**
 
