@@ -126,6 +126,11 @@ Then loop back to **Phase A** (sync + survey). The sync step pulls any PRs
 that merged during this round, so the next round works from fresh main.
 If `total_actionable` is 0 after survey, print a final summary and stop.
 
+**Do NOT stop early.** The only valid termination condition is
+`total_actionable == 0`. Do not apply cost reasoning, session-length
+heuristics, or "diminishing returns" logic. The user controls budget
+externally; the pipeline runs until idle.
+
 ## Stats accounting
 
 After each agent completes, read the usage data from its return value
