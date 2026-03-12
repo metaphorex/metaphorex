@@ -1,20 +1,18 @@
 ---
-broader: computer-science
-created: '2026-03-11'
-name: Memory Management
-related:
-- software-programs
-- data-processing
-roles:
-- allocator
-- address-space
-- region
-- allocation
-- deallocation
-- leak
-- corruption
 slug: memory-management
-updated: '2026-03-11'
+name: "Memory Management"
+broader: computing
+related:
+  - software-programs
+  - data-processing
+roles:
+  - allocator
+  - address-space
+  - region
+  - allocation
+  - deallocation
+  - leak
+  - corruption
 ---
 
 The subsystem responsible for parceling out, tracking, and reclaiming
