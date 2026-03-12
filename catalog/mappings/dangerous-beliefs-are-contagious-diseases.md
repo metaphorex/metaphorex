@@ -2,7 +2,7 @@
 slug: dangerous-beliefs-are-contagious-diseases
 name: "Dangerous Beliefs Are Contagious Diseases"
 kind: conceptual-metaphor
-source_frame: medicine
+source_frame: contagion
 target_frame: mental-experience
 categories:
   - cognitive-science
