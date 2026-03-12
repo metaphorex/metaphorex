@@ -1,7 +1,7 @@
 ---
 slug: the-mediator-pattern
 name: "The Mediator Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: mediation
 target_frame: object-oriented-design
 categories:

@@ -1,7 +1,7 @@
 ---
 slug: the-facade-pattern
 name: "The Facade Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: architecture-and-building
 target_frame: software-abstraction
 categories:

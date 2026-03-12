@@ -1,7 +1,7 @@
 ---
 slug: bikeshedding
 name: "Bikeshedding"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: architecture-and-building
 target_frame: collaborative-work
 categories:

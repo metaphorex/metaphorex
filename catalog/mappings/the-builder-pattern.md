@@ -1,7 +1,7 @@
 ---
 slug: the-builder-pattern
 name: "The Builder Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: architecture-and-building
 target_frame: object-oriented-design
 categories:

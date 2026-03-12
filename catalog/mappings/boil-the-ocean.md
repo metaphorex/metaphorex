@@ -1,7 +1,7 @@
 ---
 slug: boil-the-ocean
 name: "Boil the Ocean"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: natural-phenomena
 target_frame: collaborative-work
 categories:

@@ -1,7 +1,7 @@
 ---
 slug: software-rot
 name: "Software Rot"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: embodied-experience
 target_frame: software-programs
 categories:
