@@ -1,7 +1,7 @@
 ---
 slug: lava-flow
 name: "Lava Flow"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: natural-phenomena
 target_frame: software-programs
 categories:

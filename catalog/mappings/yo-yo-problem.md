@@ -1,7 +1,7 @@
 ---
 slug: yo-yo-problem
 name: "Yo-Yo Problem"
-kind: conceptual-metaphor
+kind: dead-metaphor
 source_frame: puzzles-and-games
 target_frame: software-programs
 categories:

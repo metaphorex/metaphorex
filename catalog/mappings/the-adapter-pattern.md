@@ -1,7 +1,7 @@
 ---
 slug: the-adapter-pattern
 name: "The Adapter Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: hardware-compatibility
 target_frame: object-oriented-design
 categories:

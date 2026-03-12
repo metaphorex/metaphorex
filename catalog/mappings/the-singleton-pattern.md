@@ -1,7 +1,7 @@
 ---
 slug: the-singleton-pattern
 name: "The Singleton Pattern"
-kind: conceptual-metaphor
+kind: archetype
 source_frame: social-roles
 target_frame: object-oriented-design
 categories:

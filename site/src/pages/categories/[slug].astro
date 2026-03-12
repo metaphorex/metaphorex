@@ -1,0 +1,40 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const categories = await getCollection("categories");
+  return categories.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const allMappings = await getCollection("mappings");
+const members = allMappings
+  .filter((m) => m.data.categories.includes(entry.data.slug))
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+<Base title={entry.data.name}>
+  <article>
+    <h1>{entry.data.name}</h1>
+
+    {entry.data.broader && <p class="muted">Broader: {entry.data.broader}</p>}
+
+    <Content />
+
+    <h2>Mappings ({members.length})</h2>
+    <ul>
+      {members.map((m) => (
+        <li>
+          <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+          <span class="tag">{m.data.kind}</span>
+        </li>
+      ))}
+    </ul>
+  </article>
+</Base>

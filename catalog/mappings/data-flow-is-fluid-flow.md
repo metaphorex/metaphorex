@@ -1,7 +1,7 @@
 ---
 slug: data-flow-is-fluid-flow
 name: "Data Flow Is Fluid Flow"
-kind: conceptual-metaphor
+kind: paradigm
 source_frame: fluid-dynamics
 target_frame: data-processing
 categories:
