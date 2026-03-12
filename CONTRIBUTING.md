@@ -8,8 +8,9 @@ welcome.
 
 By submitting content to this repository, you agree that your contributions
 are licensed under the **Creative Commons Attribution-ShareAlike 4.0
-International License** ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)),
-with **Metaphorex** as the collective licensor.
+International License** ([CC BY-SA 4.0](LICENSE-CC-BY-SA-4.0)),
+with **Metaphorex** as the collective licensor. Code contributions
+(scripts, site, tooling) are licensed under [MIT](LICENSE-MIT).
 
 You certify that:
 
