@@ -73,8 +73,9 @@ rejected. Before starting fresh:
 If invoked without a specific issue URL:
 1. List open issues in metaphorex/metaphorex labeled `import-project`
 2. Filter to issues that don't have a corresponding `playbooks/` dir (no playbook yet)
-3. Pick the oldest one
-4. Add the `in-progress` label to claim it
+3. Prefer issues labeled `priority:high` — work these before normal-priority issues
+4. Within the same priority tier, pick the oldest one
+5. Add the `in-progress` label to claim it
 
 **Project Types:**
 
