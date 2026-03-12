@@ -3,7 +3,7 @@ slug: external-appearance-is-a-cover
 name: "External Appearance Is A Cover"
 kind: conceptual-metaphor
 source_frame: containers
-target_frame: vision
+target_frame: embodied-experience
 categories:
   - cognitive-science
   - linguistics

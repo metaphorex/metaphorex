@@ -2,7 +2,7 @@
 slug: existence-is-having-a-form
 name: "Existence Is Having A Form"
 kind: conceptual-metaphor
-source_frame: embodied-experience
+source_frame: physical-objects
 target_frame: event-structure
 categories:
   - cognitive-science
