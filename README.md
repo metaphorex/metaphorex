@@ -56,5 +56,6 @@ uv run scripts/validate.py extract             # emit structured JSON
 
 ## License
 
-Content is licensed under [CC BY-SA 4.0](LICENSE). By contributing, you agree
-to these terms. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Content (`catalog/`, `playbooks/`) is licensed under
+[CC BY-SA 4.0](LICENSE-CC-BY-SA-4.0). Code is licensed under
+[MIT](LICENSE-MIT). See [LICENSE](LICENSE) for details.
