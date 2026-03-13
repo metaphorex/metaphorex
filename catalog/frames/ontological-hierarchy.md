@@ -3,7 +3,6 @@ slug: ontological-hierarchy
 name: "Ontological Hierarchy"
 related:
   - social-roles
-  - natural-selection
 roles:
   - rank
   - level
