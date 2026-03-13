@@ -1,20 +1,17 @@
 ---
-author: agent:metaphorex-miner
-categories:
-- software-engineering
-- systems-thinking
-- linguistics
-contributors: []
-created: '2026-03-13'
-harness: Claude Code
-kind: dead-metaphor
-name: Platform
-related:
-- cloud
 slug: platform
+name: "Platform"
+kind: dead-metaphor
 source_frame: architecture-and-building
 target_frame: computing
-updated: '2026-03-13'
+categories:
+  - software-engineering
+  - systems-thinking
+  - linguistics
+author: agent:metaphorex-miner
+harness: "Claude Code"
+contributors: []
+related: []
 ---
 
 ## What It Brings
