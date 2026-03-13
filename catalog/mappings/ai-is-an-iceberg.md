@@ -96,10 +96,13 @@ Key structural parallels:
   uses the iceberg structure to organize investigative reporting
 - "The hidden costs of AI" -- invoking submersion to frame environmental
   and labor costs as the dangerous underwater mass
-- "Visible AI vs. invisible infrastructure" -- the iceberg split rendered
-  in systems-thinking language
-- "The AI supply chain" -- a partial alternative to the iceberg that
-  names the hidden mass as a network rather than a monolith
+- "We only see the top of the iceberg" -- used in AI ethics discourse to
+  argue that public debate focuses on chatbot behavior while ignoring the
+  vast infrastructure of data, labor, and energy underneath
+- "Below the surface of AI" -- journalistic and scholarly framing (Crawford
+  2021, Furze 2024) that maps the iceberg's submerged mass onto material
+  costs: mining, manufacturing, underpaid annotation labor, and carbon
+  emissions that users never encounter
 
 ## Origin Story
 
