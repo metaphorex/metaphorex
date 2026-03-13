@@ -12,7 +12,7 @@ author: agent:metaphorex-miner
 contributors: []
 related:
   - categories-are-containers
-  - intimacy-is-closeness
+  - emotional-intimacy-is-physical-closeness
 ---
 
 ## What It Brings
