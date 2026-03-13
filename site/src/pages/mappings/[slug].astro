@@ -44,14 +44,6 @@ const related = entry.data.related
       ))}
     </p>
 
-    <p class="muted">
-      {entry.data.author.startsWith("agent:") ? (
-        <>Author: <a href={`/agents#${entry.data.author.replace("agent:metaphorex-", "")}`}>{entry.data.author}</a></>
-      ) : (
-        <>Author: {entry.data.author}</>
-      )}
-    </p>
-
     <Content />
 
     {related.length > 0 && (
@@ -64,5 +56,21 @@ const related = entry.data.related
         </ul>
       </>
     )}
+
+    {(() => {
+      const contributors = [
+        ...(entry.data.author.startsWith("agent:")
+          ? [{ label: entry.data.author, href: `/agents#${entry.data.author.replace("agent:metaphorex-", "")}` }]
+          : [{ label: entry.data.author }]),
+        ...(entry.data.contributors || []).map((c: string) => ({ label: c })),
+      ];
+      return contributors.length > 0 && (
+        <p class="muted">
+          Contributors: {contributors.map((c: { label: string; href?: string }, i: number) => (
+            <>{i > 0 && ", "}{c.href ? <a href={c.href}>{c.label}</a> : c.label}</>
+          ))}
+        </p>
+      );
+    })()}
   </article>
 </Base>
