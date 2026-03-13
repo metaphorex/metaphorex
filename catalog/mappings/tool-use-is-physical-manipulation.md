@@ -103,7 +103,7 @@ Key structural parallels:
 The "tool use" framing entered AI discourse through the reinforcement
 learning community, where agents in simulated environments literally
 manipulated virtual objects. When language models gained the ability to
-call external functions (Google's Toolformer paper, 2023; OpenAI's
+call external functions (Meta AI's Toolformer paper, 2023; OpenAI's
 function calling, 2023; Anthropic's tool use, 2024), the term carried
 over despite the complete absence of physical manipulation. The metaphor
 was reinforced by the broader "AI is a tool" framing -- if AI itself is
