@@ -2,7 +2,7 @@
 slug: acting-compulsively-is-ingesting-a-substance-compulsively
 name: "Acting Compulsively Is Ingesting A Substance Compulsively"
 kind: conceptual-metaphor
-source_frame: food-and-cooking
+source_frame: compulsive-ingestion
 target_frame: mental-experience
 categories:
   - cognitive-science
