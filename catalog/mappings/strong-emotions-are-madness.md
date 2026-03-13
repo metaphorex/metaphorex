@@ -2,7 +2,7 @@
 slug: strong-emotions-are-madness
 name: "Strong Emotions Are Madness"
 kind: conceptual-metaphor
-source_frame: mental-experience
+source_frame: madness
 target_frame: mental-experience
 categories:
   - cognitive-science
