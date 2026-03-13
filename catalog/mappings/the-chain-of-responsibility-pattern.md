@@ -1,17 +1,18 @@
 ---
-slug: the-chain-of-responsibility-pattern
-name: "The Chain of Responsibility Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: archetype
+name: The Chain of Responsibility Pattern
+related:
+- the-command-pattern
+- the-mediator-pattern
+slug: the-chain-of-responsibility-pattern
 source_frame: military-command
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-command-pattern
-  - the-mediator-pattern
 ---
 
 ## What It Brings

@@ -1,18 +1,19 @@
 ---
-slug: life-is-a-container
-name: "Life Is a Container"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Life Is a Container
+related:
+- life-is-a-journey
+slug: life-is-a-container
 source_frame: containers
 target_frame: life-course
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - life-is-a-journey
 ---
 
 ## What It Brings

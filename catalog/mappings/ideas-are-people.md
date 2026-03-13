@@ -1,20 +1,21 @@
 ---
-slug: ideas-are-people
-name: "Ideas Are People"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are People
+related:
+- the-conduit-metaphor
+- ideas-are-food
+- ideas-are-light-sources
+- understanding-is-seeing
+slug: ideas-are-people
 source_frame: social-roles
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-conduit-metaphor
-  - ideas-are-food
-  - ideas-are-light-sources
-  - understanding-is-seeing
 ---
 
 ## What It Brings

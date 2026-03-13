@@ -1,20 +1,22 @@
 ---
-slug: ideas-are-commodities
-name: "Ideas Are Commodities"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- economics-and-finance
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Commodities
+related:
+- ideas-are-products
+- ideas-are-money
+- ideas-are-resources
+- the-conduit-metaphor
+slug: ideas-are-commodities
 source_frame: economics
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - ideas-are-products
-  - ideas-are-money
-  - ideas-are-resources
-  - the-conduit-metaphor
 ---
 
 ## What It Brings

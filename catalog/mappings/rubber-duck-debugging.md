@@ -1,17 +1,18 @@
 ---
-slug: rubber-duck-debugging
-name: "Rubber Duck Debugging"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- cognitive-science
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Rubber Duck Debugging
+related:
+- program-failure-is-bodily-failure
+slug: rubber-duck-debugging
 source_frame: communication
 target_frame: software-programs
-categories:
-  - software-engineering
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - program-failure-is-bodily-failure
 ---
 
 ## What It Brings

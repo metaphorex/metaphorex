@@ -1,17 +1,18 @@
 ---
-slug: the-mediator-pattern
-name: "The Mediator Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- organizational-behavior
+contributors:
+- fshot
+harness: Claude Code
 kind: archetype
+name: The Mediator Pattern
+related:
+- the-facade-pattern
+slug: the-mediator-pattern
 source_frame: mediation
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-facade-pattern
 ---
 
 ## What It Brings

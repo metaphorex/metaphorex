@@ -1,17 +1,18 @@
 ---
-slug: duck-typing
-name: "Duck Typing"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Duck Typing
+related:
+- the-map-is-not-the-territory
+slug: duck-typing
 source_frame: folk-taxonomy
 target_frame: software-programs
-categories:
-  - software-engineering
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-map-is-not-the-territory
 ---
 
 ## What It Brings

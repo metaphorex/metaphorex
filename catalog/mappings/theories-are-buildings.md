@@ -1,17 +1,18 @@
 ---
-slug: theories-are-buildings
-name: "Theories Are Buildings"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: Theories Are Buildings
+related:
+- argument-is-war
+slug: theories-are-buildings
 source_frame: architecture-and-building
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - argument-is-war
 ---
 
 ## What It Brings

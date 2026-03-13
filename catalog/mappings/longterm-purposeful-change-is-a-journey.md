@@ -1,23 +1,24 @@
 ---
-slug: longterm-purposeful-change-is-a-journey
-name: "Long-Term Purposeful Change Is a Journey"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Long-Term Purposeful Change Is a Journey
+related:
+- life-is-a-journey
+- love-is-a-journey
+- action-is-motion
+- change-is-motion
+- states-are-locations
+- difficulties-are-impediments-to-motion
+slug: longterm-purposeful-change-is-a-journey
 source_frame: journeys
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - life-is-a-journey
-  - love-is-a-journey
-  - action-is-motion
-  - change-is-motion
-  - states-are-locations
-  - difficulties-are-impediments-to-motion
 ---
 
 ## What It Brings

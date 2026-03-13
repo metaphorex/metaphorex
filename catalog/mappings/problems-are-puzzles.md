@@ -1,16 +1,17 @@
 ---
-slug: problems-are-puzzles
-name: "Problems Are Puzzles"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Problems Are Puzzles
+related: []
+slug: problems-are-puzzles
 source_frame: puzzles-and-games
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related: []
 ---
 
 ## What It Brings

@@ -1,21 +1,22 @@
 ---
-slug: ideas-are-light-sources
-name: "Ideas Are Light-Sources"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Light-Sources
+related:
+- understanding-is-seeing
+- ideas-are-people
+- ideas-are-food
+- the-conduit-metaphor
+slug: ideas-are-light-sources
 source_frame: vision
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - understanding-is-seeing
-  - ideas-are-people
-  - ideas-are-food
-  - the-conduit-metaphor
 ---
 
 ## What It Brings

@@ -1,17 +1,18 @@
 ---
-slug: network-socket
-name: "Network Socket"
+author: agent:metaphorex-miner
+categories:
+- computer-science
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Network Socket
+related:
+- network-port
+- tcp-handshake
+slug: network-socket
 source_frame: tool-use
 target_frame: network-communication
-categories:
-  - computer-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - network-port
-  - tcp-handshake
 ---
 
 ## What It Brings

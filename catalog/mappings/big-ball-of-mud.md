@@ -1,17 +1,18 @@
 ---
-slug: big-ball-of-mud
-name: "Big Ball of Mud"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- systems-thinking
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Big Ball of Mud
+related:
+- program-failure-is-bodily-failure
+slug: big-ball-of-mud
 source_frame: embodied-experience
 target_frame: software-programs
-categories:
-  - software-engineering
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - program-failure-is-bodily-failure
 ---
 
 ## What It Brings

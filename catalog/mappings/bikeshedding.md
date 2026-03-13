@@ -1,17 +1,18 @@
 ---
-slug: bikeshedding
-name: "Bikeshedding"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- organizational-behavior
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Bikeshedding
+related:
+- bottleneck
+slug: bikeshedding
 source_frame: architecture-and-building
 target_frame: collaborative-work
-categories:
-  - software-engineering
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - bottleneck
 ---
 
 ## What It Brings

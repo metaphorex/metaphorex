@@ -1,22 +1,23 @@
 ---
-slug: difficulties-are-impediments-to-motion
-name: "Difficulties Are Impediments to Motion"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Difficulties Are Impediments to Motion
+related:
+- action-is-motion
+- change-is-motion
+- states-are-locations
+- life-is-a-journey
+- problems-are-puzzles
+slug: difficulties-are-impediments-to-motion
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - action-is-motion
-  - change-is-motion
-  - states-are-locations
-  - life-is-a-journey
-  - problems-are-puzzles
 ---
 
 ## What It Brings
