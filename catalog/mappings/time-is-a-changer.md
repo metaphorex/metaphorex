@@ -2,7 +2,7 @@
 slug: time-is-a-changer
 name: "Time Is a Changer"
 kind: conceptual-metaphor
-source_frame: social-roles
+source_frame: causal-agent
 target_frame: time-and-temporality
 categories:
   - cognitive-science
