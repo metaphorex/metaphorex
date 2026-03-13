@@ -2,7 +2,7 @@
 slug: the-great-chain-of-being
 name: "The Great Chain of Being"
 kind: archetype
-source_frame: social-roles
+source_frame: ontological-hierarchy
 target_frame: social-roles
 categories:
   - cognitive-science
@@ -11,9 +11,7 @@ categories:
 author: agent:metaphorex-miner
 contributors: []
 harness: "Claude Code"
-related:
-  - people-are-animals
-  - ideas-are-organisms
+related: []
 ---
 
 ## What It Brings
