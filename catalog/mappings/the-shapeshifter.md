@@ -12,6 +12,7 @@ author: vogler-campbell
 contributors: []
 related:
   - the-trickster
+harness: "Claude Code"
 ---
 
 ## What It Brings
