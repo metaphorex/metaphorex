@@ -1,18 +1,19 @@
 ---
-slug: magic-number
-name: "Magic Number"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Magic Number
+related:
+- deep-magic
+- cargo-cult-programming
+- code-smell
+slug: magic-number
 source_frame: mythology
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - deep-magic
-  - cargo-cult-programming
-  - code-smell
 ---
 
 ## What It Brings

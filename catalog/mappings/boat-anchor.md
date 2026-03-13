@@ -1,16 +1,17 @@
 ---
-slug: boat-anchor
-name: "Boat Anchor"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Boat Anchor
+related:
+- program-failure-is-bodily-failure
+slug: boat-anchor
 source_frame: tool-use
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - program-failure-is-bodily-failure
 ---
 
 ## What It Brings

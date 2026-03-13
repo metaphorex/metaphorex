@@ -1,17 +1,18 @@
 ---
-slug: the-registry-pattern
-name: "The Registry Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: archetype
+name: The Registry Pattern
+related:
+- the-repository-pattern
+- the-state-pattern
+slug: the-registry-pattern
 source_frame: governance
 target_frame: software-abstraction
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-repository-pattern
-  - the-state-pattern
 ---
 
 ## What It Brings

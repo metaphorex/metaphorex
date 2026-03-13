@@ -1,17 +1,18 @@
 ---
-slug: the-strategy-pattern
-name: "The Strategy Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
 kind: archetype
+name: The Strategy Pattern
+related:
+- the-state-pattern
+- the-command-pattern
+- the-template-method-pattern
+slug: the-strategy-pattern
 source_frame: military-command
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-state-pattern
-  - the-command-pattern
-  - the-template-method-pattern
 ---
 
 ## What It Brings

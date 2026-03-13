@@ -1,16 +1,17 @@
 ---
-slug: yak-shaving
-name: "Yak Shaving"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Yak Shaving
+related:
+- bottleneck
+slug: yak-shaving
 source_frame: animal-husbandry
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - bottleneck
 ---
 
 ## What It Brings

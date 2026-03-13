@@ -1,19 +1,20 @@
 ---
-slug: love-is-war
-name: "Love Is War"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- social-dynamics
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: Love Is War
+related:
+- argument-is-war
+- love-is-a-journey
+- love-is-madness
+slug: love-is-war
 source_frame: war
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - social-dynamics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - argument-is-war
-  - love-is-a-journey
-  - love-is-madness
 ---
 
 ## What It Brings

@@ -1,17 +1,18 @@
 ---
-slug: happy-is-up
-name: "Happy Is Up; Sad Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: Happy Is Up; Sad Is Down
+related:
+- argument-is-war
+- understanding-is-seeing
+slug: happy-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - argument-is-war
-  - understanding-is-seeing
 ---
 
 ## What It Brings

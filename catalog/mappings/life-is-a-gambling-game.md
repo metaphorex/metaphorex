@@ -1,19 +1,20 @@
 ---
-slug: life-is-a-gambling-game
-name: "Life Is a Gambling Game"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Life Is a Gambling Game
+related:
+- life-is-a-journey
+- time-is-a-limited-resource
+slug: life-is-a-gambling-game
 source_frame: gambling
 target_frame: life-course
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - life-is-a-journey
-  - time-is-a-limited-resource
 ---
 
 ## What It Brings

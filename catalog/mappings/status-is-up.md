@@ -1,20 +1,21 @@
 ---
-slug: status-is-up
-name: "Status Is Up; Lack Of Status Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- social-dynamics
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Status Is Up; Lack Of Status Is Down
+related:
+- having-control-is-up
+- good-is-up
+- happy-is-up
+slug: status-is-up
 source_frame: embodied-experience
 target_frame: social-roles
-categories:
-  - cognitive-science
-  - linguistics
-  - social-dynamics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - having-control-is-up
-  - good-is-up
-  - happy-is-up
 ---
 
 ## What It Brings

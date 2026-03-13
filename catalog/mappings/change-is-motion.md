@@ -1,19 +1,20 @@
 ---
-slug: change-is-motion
-name: "Change Is Motion"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Change Is Motion
+related:
+- action-is-motion
+- states-are-locations
+- life-is-a-journey
+slug: change-is-motion
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - action-is-motion
-  - states-are-locations
-  - life-is-a-journey
 ---
 
 ## What It Brings
