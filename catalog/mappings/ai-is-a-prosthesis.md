@@ -19,11 +19,14 @@ related:
 
 AI as cognitive prosthesis -- a device that replaces or extends a capacity
 the user lacks or has lost. The metaphor draws from medical prosthetics:
-artificial limbs, cochlear implants, corrective lenses. Douglas Engelbart's
-"Augmenting Human Intellect" (1962) is the ur-text, framing computing as a
-system that extends human cognitive reach the way a prosthetic limb extends
-physical reach. The prosthesis frame imports a specific relationship between
-human and technology that differs subtly but importantly from the tool frame.
+artificial limbs, cochlear implants, corrective lenses. Andy Clark's
+"Natural-Born Cyborgs" (2003) crystallized this frame, arguing that humans
+are inherently prosthetic creatures -- evolved to merge with external
+cognitive scaffolding until the boundary between self and tool dissolves.
+The prosthesis frame imports a specific relationship between human and
+technology that differs subtly but importantly from the tool frame (and
+from the related but distinct augmentation tradition, which assumes a
+capable baseline being amplified rather than a deficit being compensated).
 
 Key structural parallels:
 
@@ -98,8 +101,8 @@ Key structural parallels:
 
 ## Expressions
 
-- "Augmenting human intellect" -- Engelbart's foundational formulation
-  of computing as cognitive prosthesis
+- "Natural-born cyborgs" -- Clark's characterization of humans as
+  creatures that naturally merge with their cognitive prostheses
 - "AI as cognitive prosthesis" -- the explicit medical framing in
   academic discourse on intelligence augmentation
 - "It's like a second brain" -- popular consumer framing for note-taking
@@ -113,19 +116,21 @@ Key structural parallels:
 
 ## Origin Story
 
-The prosthesis metaphor for computing originates with Douglas Engelbart's
-1962 paper "Augmenting Human Intellect: A Conceptual Framework," which
-proposed that computing systems could extend human cognitive capability the
-way physical tools extend physical capability. Engelbart's language was
-explicitly prosthetic: the human intellect has limitations, and technology
-compensates for them.
+The prosthesis metaphor for cognition has roots distinct from the better-known
+augmentation tradition. Douglas Engelbart's "Augmenting Human Intellect"
+(1962) is sometimes cited here, but Engelbart's frame was amplification of
+capable people above baseline -- he belongs to the bicycle-for-the-mind
+cluster, not the prosthesis cluster.
 
-The metaphor was reinforced by Andy Clark and David Chalmers's "extended
-mind" thesis (1998), which argued philosophically that external tools
-(notebooks, calculators, computers) can be genuine parts of a cognitive
-system, not merely aids to it. If the mind extends into its tools, then
-those tools are literally cognitive prostheses -- not metaphorically but
-functionally part of the thinking apparatus.
+The prosthesis frame proper emerges from Andy Clark. His extended mind thesis
+with David Chalmers (1998) argued that external tools (notebooks, calculators,
+computers) can be genuine parts of a cognitive system, not merely aids to it.
+Clark then made the prosthesis framing explicit in "Natural-Born Cyborgs"
+(2003), arguing that humans are uniquely evolved to incorporate external
+scaffolding into their cognitive processes -- that we are, in effect,
+prosthetic beings by nature. The language of prosthesis (replacement,
+compensation, integration, transparency) comes from this tradition, not
+from Engelbart's.
 
 In AI discourse (2023-present), the prosthesis frame competes with the
 tool frame and the agent frame. The prosthesis metaphor occupies a middle
@@ -137,10 +142,9 @@ relate to LLM assistance.
 
 ## References
 
-- Engelbart, D. "Augmenting Human Intellect: A Conceptual Framework"
-  (1962) -- the foundational text for computing as cognitive prosthesis
+- Clark, A. "Natural-Born Cyborgs" (2003) -- the anchor text for the
+  prosthesis tradition; argues humans are evolved to merge with cognitive
+  scaffolding
 - Clark, A. and Chalmers, D. "The Extended Mind" (1998) -- philosophical
-  framework for tools as parts of cognitive systems
-- Clark, A. "Natural-Born Cyborgs" (2003) -- extended argument for
-  humans as naturally prosthetic beings
+  framework for tools as genuine parts of cognitive systems
 - Maas, M. "AI is Like... A Literature Review of AI Metaphors" (2023)
