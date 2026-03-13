@@ -3,7 +3,7 @@ slug: knowing-is-seeing
 name: "Knowing Is Seeing"
 kind: conceptual-metaphor
 source_frame: vision
-target_frame: mental-experience
+target_frame: intellectual-inquiry
 categories:
   - cognitive-science
   - linguistics
