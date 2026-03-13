@@ -2,7 +2,7 @@
 slug: ideas-are-perceptions
 name: "Ideas Are Perceptions"
 kind: conceptual-metaphor
-source_frame: vision
+source_frame: embodied-experience
 target_frame: intellectual-inquiry
 categories:
   - cognitive-science
@@ -97,8 +97,10 @@ Key structural parallels:
 
 ## Expressions
 
-- "I see what you mean" -- intellectual understanding as visual perception
-- "That's a clear argument" -- intellectual quality as perceptual clarity
+- "That idea left a bad taste in my mouth" -- intellectual distaste as
+  gustatory rejection
+- "I need to get a feel for the problem" -- developing understanding as
+  tactile exploration
 - "She has great insight" -- deep understanding as seeing inward
 - "He overlooked the key assumption" -- intellectual omission as perceptual
   failure
