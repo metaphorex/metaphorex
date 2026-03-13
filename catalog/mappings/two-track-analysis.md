@@ -2,7 +2,7 @@
 slug: two-track-analysis
 name: "Two-Track Analysis"
 kind: paradigm
-source_frame: physics
+source_frame: manufacturing
 target_frame: causal-reasoning
 categories:
   - cognitive-science
