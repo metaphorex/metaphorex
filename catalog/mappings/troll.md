@@ -2,8 +2,8 @@
 slug: troll
 name: "Troll"
 kind: dead-metaphor
-source_frame: mythology
-target_frame: computing
+source_frame: fishing
+target_frame: social-dynamics
 categories:
   - linguistics
   - social-dynamics
