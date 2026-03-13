@@ -11,6 +11,7 @@ author: fshot
 contributors: []
 related:
   - creative-process-is-construction
+  - creation-is-cultivation
 ---
 
 ## What It Brings
