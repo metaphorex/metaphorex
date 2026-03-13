@@ -37,6 +37,38 @@ def gh_graphql(query: str) -> dict:
     return json.loads(result.stdout)
 
 
+def fetch_all_issues(owner: str, name: str) -> list[dict]:
+    """Fetch all open import-project issues with pagination."""
+    all_nodes: list[dict] = []
+    cursor = None
+    while True:
+        after = f', after: "{cursor}"' if cursor else ""
+        data = gh_graphql(f"""{{
+          repository(owner: "{owner}", name: "{name}") {{
+            issues(first: 100, labels: ["import-project"], states: OPEN{after}) {{
+              pageInfo {{ hasNextPage endCursor }}
+              nodes {{
+                number
+                title
+                body
+                labels(first: 10) {{ nodes {{ name }} }}
+                parent {{ number }}
+              }}
+            }}
+          }}
+        }}""")
+        issues = (
+            data.get("data", {}).get("repository", {})
+            .get("issues", {})
+        )
+        all_nodes.extend(issues.get("nodes", []))
+        page_info = issues.get("pageInfo", {})
+        if not page_info.get("hasNextPage"):
+            break
+        cursor = page_info["endCursor"]
+    return all_nodes
+
+
 def collect(proc: subprocess.Popen) -> list[dict]:
     """Wait for a gh process and parse its JSON output."""
     stdout, stderr = proc.communicate()
@@ -79,19 +111,7 @@ def survey(repo: str) -> dict:
     # which issues are top-level projects vs sub-issues, no label needed.
     # Also fetch body for fallback parent detection (GitHub 100 sub-issue cap
     # means some sub-issues lack native parent linkage).
-    gql = gh_graphql(f"""{{
-      repository(owner: "{owner}", name: "{name}") {{
-        issues(first: 100, labels: ["import-project"], states: OPEN) {{
-          nodes {{
-            number
-            title
-            body
-            labels(first: 10) {{ nodes {{ name }} }}
-            parent {{ number }}
-          }}
-        }}
-      }}
-    }}""")
+    # Paginate to handle repos with >100 import-project issues.
 
     # Collect PR results
     smelting = [{"number": p["number"], "title": p["title"]} for p in collect(pr_smelting)]
@@ -106,9 +126,7 @@ def survey(repo: str) -> dict:
     # Fallback: GitHub caps native sub-issues at 100. Orphaned sub-issues
     # beyond that cap lack a `parent` field, so we also check the issue body
     # for "Sub-issue of #N" and the title for "[project-name]" prefixes.
-    all_issues = (
-        gql.get("data", {}).get("repository", {}).get("issues", {}).get("nodes", [])
-    )
+    all_issues = fetch_all_issues(owner, name)
     parents = []
     sub_issues = []
 
