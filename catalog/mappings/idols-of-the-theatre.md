@@ -1,7 +1,7 @@
 ---
 slug: idols-of-the-theatre
 name: "Idols of the Theatre"
-kind: conceptual-metaphor
+kind: paradigm
 source_frame: narrative
 target_frame: intellectual-inquiry
 categories:
@@ -106,20 +106,35 @@ Key structural parallels:
 
 ## Expressions
 
-- "So many stage-plays, representing worlds of their own creation"
-  -- Bacon's original formulation in Aphorism XLIV, the locus
-  classicus of the metaphor
-- "Worlds of their own creation after an unreal and scenic fashion"
-  -- the key qualifier: philosophical systems are self-contained
-  fictional worlds, not descriptions of the actual one
-- "Idols which have immigrated into men's minds from the various
-  dogmas of philosophies" -- the immigration metaphor within the
-  theatre metaphor: these errors are not native but imported through
-  education and authority
-- "Cargo cult science" -- Richard Feynman's 1974 update of the same
-  basic insight: performing the rituals of science without the
-  substance, mistaking the theatrical trappings of inquiry for
-  inquiry itself
+- "Idols of the theatre" in Popper's falsificationism -- Popper's
+  insistence that genuine science must be falsifiable echoes Bacon's
+  critique directly: a system that cannot be disproved is a stage
+  play, not an investigation. Popper cited Bacon as a forerunner and
+  treated Marxism and Freudianism as modern idols of the theatre --
+  internally coherent systems that explain everything and predict
+  nothing.
+- Kuhn's paradigm shifts as idol-smashing -- Kuhn's *Structure of
+  Scientific Revolutions* (1962) describes exactly the process Bacon
+  diagnosed: a community becomes so committed to its theoretical
+  framework that anomalies are ignored or explained away until the
+  framework collapses. Kuhn's "paradigm" is the modern technical term
+  for what Bacon called a theatrical world of its own creation.
+- "Cargo cult science" -- Feynman's 1974 Caltech commencement address
+  updated the idol-of-the-theatre critique for experimental science:
+  researchers who follow the outward forms of scientific method
+  without the substance are performing a ritual, not conducting
+  inquiry. The phrase has become standard in philosophy of science
+  and science education.
+- "Received view" in philosophy of science -- the mid-twentieth-century
+  label for logical positivism's standard account of scientific
+  theories. Calling it the "received view" carries the Baconian
+  implication: this is doctrine handed down through institutional
+  authority, not knowledge earned through investigation.
+- Modern invocations in science education -- textbooks on critical
+  thinking and scientific literacy regularly invoke "idols of the
+  theatre" to warn students against uncritical acceptance of
+  established theories, treating Bacon's taxonomy as a foundational
+  framework for intellectual self-defense.
 
 ## Origin Story
 
