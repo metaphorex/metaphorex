@@ -17,14 +17,13 @@ related:
 
 ## What It Brings
 
-A person who is intoxicated is "loaded," "hammered," "smashed,"
-"plastered," "wasted." This metaphor maps the physical experience of
-bearing a heavy burden -- the staggering, the loss of balance, the
-inability to move freely, the eventual collapse under weight -- onto the
-progressive impairment that comes with intoxication. The drunk person
-moves through the world as if carrying something too heavy: unsteady,
-slow, struggling to maintain upright posture, eventually unable to
-continue.
+A person who is intoxicated is "loaded," "weighed down," "staggering."
+This metaphor maps the physical experience of bearing a heavy burden --
+the unsteadiness, the loss of balance, the inability to move freely, the
+eventual collapse under weight -- onto the progressive impairment that
+comes with intoxication. The drunk person moves through the world as if
+carrying something too heavy: slow, listing, struggling to maintain
+upright posture, eventually unable to continue.
 
 Key structural parallels:
 
@@ -40,12 +39,12 @@ Key structural parallels:
   in the visible behavioral overlap: the drunk and the overloaded share
   a gait, a posture, a relationship to gravity. "He could barely stand
   under the weight of it." "She was staggering."
-- **Collapse is being crushed** -- at the extreme, the burden-bearer
-  falls and cannot rise. The intoxicated person passes out, falls down,
-  is flattened. "He was hammered." "She was smashed." "He was
-  demolished." The language of destruction -- hammering, smashing,
-  crushing -- maps the violent endpoint of bearing too much weight onto
-  the violent endpoint of consuming too much substance.
+- **Collapse is buckling under the load** -- at the extreme, the
+  burden-bearer falls and cannot rise. The intoxicated person passes
+  out, falls down, is unable to get up. "He was flattened after three
+  pints." "She collapsed under the weight of it." The metaphor frames
+  the endpoint of intoxication as the endpoint of overloading: the
+  structure gives way.
 - **The body as a structure under load** -- the metaphor treats the
   human body as an architecture that can bear a certain amount of
   weight before it fails. Tolerance is structural integrity; low
@@ -94,17 +93,23 @@ Key structural parallels:
   different experiences. Stimulants in particular break the metaphor
   entirely -- an amphetamine user is energized, not weighed down.
   The metaphor is structurally biased toward depressants and sedatives.
+- **Neighboring expressions come from impact, not weight** -- many
+  common intoxication terms ("hammered," "smashed," "plastered,"
+  "demolished") sound like they belong here but actually derive from
+  a distinct source domain: violent impact and destruction
+  (INTOXICATION IS BEING STRUCK). A hammer drives a nail down by
+  force, not by weight; smashing is shattering on impact, not
+  collapsing under load. The burden mapping's real vocabulary is
+  narrower than it first appears -- "loaded," "weighed down,"
+  "staggering," "can't handle" -- and the impact terms belong to a
+  sibling mapping that shares the endpoint (incapacitation) but
+  differs in mechanism (sudden force vs. cumulative weight).
 
 ## Expressions
 
 - "He's loaded" -- intoxicated as carrying a full load
-- "She got hammered" -- intoxication as being struck by a heavy
-  instrument, driven down like a nail
-- "He was smashed" -- severe intoxication as being crushed under weight
-- "She was plastered" -- intoxication as being flattened against a
-  surface
 - "He was wasted" -- intoxication as being worn down, used up by labor
-- "She was demolished" -- extreme intoxication as structural collapse
+  under weight
 - "He can't handle his liquor" -- low tolerance as inability to bear
   a load
 - "She was weighed down by the drink" -- intoxication as accumulating
@@ -112,6 +117,9 @@ Key structural parallels:
 - "Staggering drunk" -- impaired gait mapped from burden-bearing
 - "He was flattened after three pints" -- collapse under the
   substance's weight
+- "She's carrying a lot tonight" -- cumulative consumption as
+  accumulating cargo
+- "He buckled after the fifth round" -- structural failure under load
 
 ## Origin Story
 
@@ -127,18 +135,19 @@ carrying too heavy a load and a person who has consumed too much
 alcohol display strikingly similar physical symptoms. Both stagger,
 both lose balance, both eventually fall. This visible parallel likely
 made the burden mapping available long before any systematic theory of
-metaphor. The English slang terms "loaded" (attested from the 1880s
-for drunk) and "hammered" (mid-20th century) reflect different
-entailments of the same underlying mapping -- one emphasizes the
-cumulative weight, the other the violent force of impact.
+metaphor. The English slang term "loaded" (attested from the 1880s
+for drunk) reflects the core entailment: intoxication as cumulative
+weight, each drink adding to the load.
 
-The metaphor is notable for how completely it has colonized the
-colloquial vocabulary of intoxication. Many of the most common English
-words for being drunk -- loaded, smashed, hammered, plastered,
-wrecked, wasted, demolished, destroyed -- come from the burden or
-impact domain. This density of expressions suggests the mapping is
-deeply entrenched in English-speaking culture, though the specific
-expressions vary across languages.
+The burden mapping is one of several related but distinct metaphors
+that structure intoxication vocabulary in English. Pure burden
+expressions -- "loaded," "weighed down," "staggering," "can't handle
+his drink" -- coexist with impact expressions ("hammered," "smashed,"
+"plastered," "demolished") that derive from a neighboring source
+domain of violent force. Both converge on the same endpoint
+(incapacitation) but differ in mechanism: the burden frame emphasizes
+gradual accumulation and structural failure under weight, while the
+impact frame emphasizes sudden, external force.
 
 ## References
 
