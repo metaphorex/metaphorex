@@ -13,6 +13,7 @@ contributors: []
 related:
   - hope-is-a-child
   - hope-is-a-benefical-possession
+  - ideas-are-light-sources
 ---
 
 ## What It Brings
