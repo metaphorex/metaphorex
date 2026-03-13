@@ -9,8 +9,7 @@ categories:
   - cognitive-science
 author: agent:metaphorex-miner
 contributors: []
-related:
-  - spider-is-pure-rationalist
+related: []
 ---
 
 ## What It Brings
