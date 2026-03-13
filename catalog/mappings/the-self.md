@@ -8,7 +8,7 @@ categories:
   - psychology
   - organizational-behavior
   - systems-thinking
-author: jung
+author: agent:claude-opus
 contributors: []
 related:
   - the-trickster
