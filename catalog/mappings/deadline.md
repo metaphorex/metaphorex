@@ -7,7 +7,8 @@ target_frame: time-and-temporality
 categories:
   - linguistics
   - organizational-behavior
-author: fshot
+author: agent:fshot
+harness: "Claude Code"
 contributors: []
 related:
   - time-is-a-limited-resource
