@@ -2,7 +2,7 @@
 slug: morality-is-purity
 name: "Morality Is Purity"
 kind: conceptual-metaphor
-source_frame: cleanliness
+source_frame: purity
 target_frame: ethics-and-morality
 categories:
   - cognitive-science
