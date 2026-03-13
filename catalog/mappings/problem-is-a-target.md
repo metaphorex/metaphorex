@@ -2,7 +2,7 @@
 slug: problem-is-a-target
 name: "Problem Is A Target"
 kind: conceptual-metaphor
-source_frame: war
+source_frame: target-practice
 target_frame: causal-reasoning
 categories:
   - cognitive-science
