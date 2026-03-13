@@ -11,8 +11,7 @@ categories:
 author: agent:metaphorex-miner
 harness: "Claude Code"
 contributors: []
-related:
-  - cloud
+related: []
 ---
 
 ## What It Brings
