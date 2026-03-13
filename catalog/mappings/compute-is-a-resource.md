@@ -8,6 +8,7 @@ categories:
   - ai-discourse
   - systems-thinking
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - data-is-fuel
