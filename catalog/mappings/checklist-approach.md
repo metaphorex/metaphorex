@@ -2,7 +2,7 @@
 slug: checklist-approach
 name: "Checklist Approach"
 kind: paradigm
-source_frame: medicine
+source_frame: aviation
 target_frame: causal-reasoning
 categories:
   - cognitive-science
