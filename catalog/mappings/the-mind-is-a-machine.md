@@ -1,19 +1,20 @@
 ---
-slug: the-mind-is-a-machine
-name: "The Mind Is A Machine"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: The Mind Is A Machine
+related:
+- the-mind-is-a-brittle-object
+- people-are-machines
+- argument-is-war
+slug: the-mind-is-a-machine
 source_frame: manufacturing
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-mind-is-a-brittle-object
-  - people-are-machines
-  - argument-is-war
 ---
 
 ## What It Brings

@@ -1,16 +1,17 @@
 ---
-slug: the-abstract-factory-pattern
-name: "The Abstract Factory Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
 kind: archetype
+name: The Abstract Factory Pattern
+related:
+- the-factory-pattern
+- the-prototype-pattern
+slug: the-abstract-factory-pattern
 source_frame: manufacturing
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-factory-pattern
-  - the-prototype-pattern
 ---
 
 ## What It Brings

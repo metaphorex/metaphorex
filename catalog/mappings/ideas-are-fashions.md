@@ -1,20 +1,21 @@
 ---
-slug: ideas-are-fashions
-name: "Ideas Are Fashions"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Fashions
+related:
+- ideas-are-people
+- ideas-are-light-sources
+- the-conduit-metaphor
+slug: ideas-are-fashions
 source_frame: social-behavior
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ideas-are-people
-  - ideas-are-light-sources
-  - the-conduit-metaphor
 ---
 
 ## What It Brings

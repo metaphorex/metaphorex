@@ -1,17 +1,18 @@
 ---
-slug: having-control-is-up
-name: "Having Control Is Up; Being Subject To Control Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: Having Control Is Up; Being Subject To Control Is Down
+related:
+- happy-is-up
+- argument-is-war
+slug: having-control-is-up
 source_frame: embodied-experience
 target_frame: social-behavior
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - happy-is-up
-  - argument-is-war
 ---
 
 ## What It Brings

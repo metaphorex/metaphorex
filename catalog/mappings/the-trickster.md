@@ -8,6 +8,7 @@ categories:
   - cognitive-science
   - organizational-behavior
   - arts-and-culture
+  - mythology-and-religion
 author: fshot
 contributors: []
 related: []

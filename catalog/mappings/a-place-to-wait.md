@@ -1,18 +1,19 @@
 ---
-slug: a-place-to-wait
-name: "A Place to Wait"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- systems-thinking
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: A Place to Wait
+related:
+- the-facade-pattern
+- data-flow-is-fluid-flow
+slug: a-place-to-wait
 source_frame: architecture-and-building
 target_frame: software-abstraction
-categories:
-  - software-engineering
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-facade-pattern
-  - data-flow-is-fluid-flow
 ---
 
 ## What It Brings

@@ -7,6 +7,7 @@ target_frame: creative-process
 categories:
   - systems-thinking
   - arts-and-culture
+  - biology-and-ecology
 author: fshot
 contributors: []
 related:

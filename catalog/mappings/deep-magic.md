@@ -1,17 +1,18 @@
 ---
-slug: deep-magic
-name: "Deep Magic"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Deep Magic
+related:
+- heisenbug
+- cargo-cult-programming
+slug: deep-magic
 source_frame: mythology
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - heisenbug
-  - cargo-cult-programming
 ---
 
 ## What It Brings

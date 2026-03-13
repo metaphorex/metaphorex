@@ -1,18 +1,19 @@
 ---
-slug: bus-factor
-name: "Bus Factor"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- organizational-behavior
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Bus Factor
+related:
+- yak-shaving
+- bikeshedding
+slug: bus-factor
 source_frame: embodied-experience
 target_frame: shared-resources
-categories:
-  - software-engineering
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - yak-shaving
-  - bikeshedding
 ---
 
 ## What It Brings

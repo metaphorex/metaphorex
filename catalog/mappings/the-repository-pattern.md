@@ -1,18 +1,19 @@
 ---
-slug: the-repository-pattern
-name: "The Repository Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: archetype
+name: The Repository Pattern
+related:
+- the-gateway-pattern
+- the-registry-pattern
+- the-facade-pattern
+slug: the-repository-pattern
 source_frame: library-and-archive
 target_frame: software-abstraction
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-gateway-pattern
-  - the-registry-pattern
-  - the-facade-pattern
 ---
 
 ## What It Brings

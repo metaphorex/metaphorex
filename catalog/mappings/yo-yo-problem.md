@@ -1,18 +1,19 @@
 ---
-slug: yo-yo-problem
-name: "Yo-Yo Problem"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- cognitive-science
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Yo-Yo Problem
+related:
+- spaghetti-code
+- baklava-code
+slug: yo-yo-problem
 source_frame: puzzles-and-games
 target_frame: software-programs
-categories:
-  - software-engineering
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - spaghetti-code
-  - baklava-code
 ---
 
 ## What It Brings
