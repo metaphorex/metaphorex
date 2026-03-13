@@ -8,6 +8,7 @@ categories:
   - cognitive-science
   - systems-thinking
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - latticework-of-mental-models
