@@ -135,5 +135,3 @@ dead metaphor insists, the building is also looking out through us.
   windoge to modern "window"
 - OED, "window, n." -- documents the displacement of eagthyrl and
   the progressive semantic broadening
-- Casson, L. "The etymology of 'window'" -- discusses the competition
-  between Norse and English terms for architectural openings
