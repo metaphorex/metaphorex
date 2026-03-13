@@ -2,7 +2,7 @@
 slug: harm-is-being-in-a-harmful-location
 name: "Harm Is Being in a Harmful Location"
 kind: conceptual-metaphor
-source_frame: journeys
+source_frame: spatial-location
 target_frame: event-structure
 categories:
   - cognitive-science
