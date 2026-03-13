@@ -25,7 +25,13 @@ from bs4 import BeautifulSoup
 
 
 def fetch_furze_metaphors() -> list[dict]:
-    """Scrape Leon Furze's 'AI Metaphors We Live By' blog post."""
+    """Scrape Leon Furze's 'AI Metaphors We Live By' blog post.
+
+    The blog structures metaphors as H3 headings within H2 category sections.
+    Each H3 contains a quoted metaphor name (e.g., "The Black Box"), followed
+    by explanatory paragraphs. We extract each H3 heading as a metaphor name
+    and gather the following paragraph(s) as the description.
+    """
     url = "https://leonfurze.com/2024/07/19/ai-metaphors-we-live-by-the-language-of-artificial-intelligence/"
     try:
         resp = httpx.get(url, follow_redirects=True, timeout=30)
@@ -40,43 +46,60 @@ def fetch_furze_metaphors() -> list[dict]:
         print("Warning: Could not find content div in Furze blog", file=sys.stderr)
         return []
 
-    # Extract metaphors from tables and headings
     metaphors = []
-    tables = content.find_all("table")
-    for table in tables:
-        rows = table.find_all("tr")
-        for row in rows[1:]:  # skip header
-            cells = row.find_all(["td", "th"])
-            if len(cells) >= 2:
-                name = cells[0].get_text(strip=True)
-                desc = cells[1].get_text(strip=True) if len(cells) > 1 else ""
-                if name and name.lower() not in ("metaphor", "category", "framing"):
-                    metaphors.append({
-                        "name": name,
-                        "description": desc,
-                        "source_url": url,
-                    })
+    # Furze organizes metaphors under H3 headings within H2 category sections.
+    # Each H3 text is the metaphor name (e.g., "The Black Box", "The Copilot").
+    for h3 in content.find_all("h3"):
+        name = h3.get_text(strip=True)
+        # Skip empty, very short, or WordPress widget headings
+        if not name or len(name) < 3:
+            continue
+        # Filter out WordPress social sharing widgets and non-metaphor headings
+        skip_patterns = ["like this", "share this", "related", "comments"]
+        if any(p in name.lower() for p in skip_patterns):
+            continue
+        # Gather description from sibling paragraphs after this heading
+        desc_parts = []
+        for sibling in h3.find_next_siblings():
+            if sibling.name in ("h2", "h3"):
+                break  # stop at next heading
+            if sibling.name == "p":
+                desc_parts.append(sibling.get_text(strip=True))
+        description = " ".join(desc_parts)[:500] if desc_parts else ""
+        metaphors.append({
+            "name": name,
+            "description": description,
+            "source_url": url,
+        })
 
-    # Also extract bold terms from paragraphs as potential metaphors
-    for strong in content.find_all(["strong", "b"]):
-        text = strong.get_text(strip=True)
-        if len(text) > 3 and len(text) < 80 and text not in [m["name"] for m in metaphors]:
-            parent = strong.parent
-            if parent:
-                context = parent.get_text(strip=True)[:200]
-                metaphors.append({
-                    "name": text,
-                    "description": context,
-                    "source_url": url,
-                })
+    # Fallback: if no H3 headings found, try H2 headings as categories
+    if not metaphors:
+        for h2 in content.find_all("h2"):
+            name = h2.get_text(strip=True)
+            if not name or len(name) < 3:
+                continue
+            desc_parts = []
+            for sibling in h2.find_next_siblings():
+                if sibling.name == "h2":
+                    break
+                if sibling.name == "p":
+                    desc_parts.append(sibling.get_text(strip=True))
+            description = " ".join(desc_parts)[:500] if desc_parts else ""
+            metaphors.append({
+                "name": name,
+                "description": description,
+                "source_url": url,
+            })
 
     return metaphors
 
 
 def fetch_maas_categories() -> list[dict]:
-    """
-    Extract the 5-category framework from Maas's paper abstract/summary pages.
-    The full PDF is behind SSRN; we use the structured summary from law-ai.org.
+    """Extract the analogies table from Maas's paper summary on law-ai.org.
+
+    The page contains "Table 1: Overview of AI Analogies" structured as an
+    HTML table with columns: Theme, Frame (varieties), Brief description.
+    We target this specific table and ignore navigation/TOC list items.
     """
     url = "https://law-ai.org/ai-policy-metaphors/"
     try:
@@ -87,21 +110,78 @@ def fetch_maas_categories() -> list[dict]:
         return []
 
     soup = BeautifulSoup(resp.text, "html.parser")
-    content = soup.find("div", class_="entry-content") or soup.find("article") or soup
-    text = content.get_text()
 
-    # Extract listed metaphors/analogies
+    # Find the analogies table -- look for tables in the main content area.
+    # The table has columns: Theme, Frame (varieties), Brief description.
     metaphors = []
-    lists = content.find_all(["ul", "ol"])
-    for lst in lists:
-        for li in lst.find_all("li"):
-            item_text = li.get_text(strip=True)
-            if len(item_text) > 5:
-                metaphors.append({
-                    "name": item_text[:100],
-                    "description": item_text,
-                    "source_url": url,
-                })
+    tables = soup.find_all("table")
+    for table in tables:
+        # Check if this looks like the analogies table by inspecting headers
+        header_row = table.find("tr")
+        if not header_row:
+            continue
+        headers = [
+            th.get_text(strip=True).lower()
+            for th in header_row.find_all(["th", "td"])
+        ]
+        # Look for the table with theme/frame/description columns
+        is_analogies_table = (
+            any("theme" in h for h in headers)
+            or any("frame" in h for h in headers)
+            or any("analogy" in h or "metaphor" in h for h in headers)
+        )
+        if not is_analogies_table and len(headers) < 2:
+            continue
+
+        rows = table.find_all("tr")
+        current_theme = ""
+        for row in rows[1:]:  # skip header row
+            cells = row.find_all(["td", "th"])
+            if len(cells) >= 2:
+                # Theme column may use rowspan, so track the current theme
+                theme_text = cells[0].get_text(strip=True)
+                if theme_text:
+                    current_theme = theme_text
+                # Frame/name is typically the second column
+                frame_col = 1 if len(cells) >= 3 else 0
+                name = cells[frame_col].get_text(strip=True)
+                desc = cells[-1].get_text(strip=True) if len(cells) >= 3 else ""
+                if name and len(name) > 2:
+                    # Skip category header rows where name matches theme text
+                    # (these are merged-cell headers, not actual analogies)
+                    if name == current_theme:
+                        continue
+                    metaphors.append({
+                        "name": name,
+                        "theme": current_theme,
+                        "description": desc,
+                        "source_url": url,
+                    })
+
+    # Fallback: if no table found, try to find structured content sections
+    # with headings that name the 5 categories (Essence, Operation, etc.)
+    if not metaphors:
+        content = soup.find("article") or soup.find("main") or soup
+        category_keywords = [
+            "essence", "operation", "relation", "function", "impact",
+        ]
+        for h in content.find_all(["h2", "h3", "h4"]):
+            heading_text = h.get_text(strip=True).lower()
+            if any(kw in heading_text for kw in category_keywords):
+                # Gather items from the list following this heading
+                for sibling in h.find_next_siblings():
+                    if sibling.name in ("h2", "h3", "h4"):
+                        break
+                    if sibling.name in ("ul", "ol"):
+                        for li in sibling.find_all("li", recursive=False):
+                            item_text = li.get_text(strip=True)
+                            if len(item_text) > 5:
+                                metaphors.append({
+                                    "name": item_text[:100],
+                                    "theme": heading_text,
+                                    "description": item_text,
+                                    "source_url": url,
+                                })
 
     return metaphors
 

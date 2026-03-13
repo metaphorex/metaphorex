@@ -93,22 +93,30 @@ Blog posts and tools that originate or document specific AI metaphors.
 
 ### Scraping Script
 
-`scripts/extract_ai_metaphors.py` attempts to extract structured metaphor
-data from the Furze blog and Maas paper summary page. Results are partial
--- these sources are written as prose, not structured data. The script
-serves as a starting point for future archive scraping if structured
-datasets (like the proposed AI Metaphor Observatory) become available.
+`scripts/extract_ai_metaphors.py` extracts structured metaphor data from
+the Furze blog and Maas paper summary page.
+
+- **Furze scraper** (`fetch_furze_metaphors`): Parses H3 headings within
+  the blog post's entry-content div. Each H3 is a metaphor name (e.g.,
+  "The Black Box", "The Copilot"), with following paragraphs as description.
+  Returns 14 named metaphors from the blog.
+- **Maas scraper** (`fetch_maas_categories`): Targets "Table 1: Overview
+  of AI Analogies" on law-ai.org. The HTML table has columns: Theme, Frame
+  (varieties), Brief description. Filters out category header rows (where
+  name matches theme text). Returns ~56 analogies across 5 categories.
+
+The script outputs JSON to stdout and is idempotent.
 
 ### LLM Gap-Fill
 
-12 of 31 candidates (39%) are LLM-sourced. These are metaphors actively
+14 of 34 candidates (41%) are LLM-sourced. These are metaphors actively
 used in AI discourse but not explicitly cataloged in the archive sources
-above. They include: alignment-is-physical-alignment, weights-are-knowledge,
+above. They include: ai-is-an-intern, alignment-is-physical-alignment,
+weights-are-knowledge, compute-is-a-resource, ai-safety-is-containment,
 chain-of-thought-is-self-talk, tool-use-is-physical-manipulation,
 agent-swarm, ai-is-a-pair-programmer, context-window-is-working-memory,
 guardrails, temperature-is-creativity, fine-tuning-is-specialization,
-compute-is-a-resource, the-internet-is-a-mine. All are easily verifiable
-in active AI discourse.
+the-internet-is-a-mine. All are easily verifiable in active AI discourse.
 
 ## Extraction Strategy
 
@@ -137,7 +145,8 @@ as an active metaphor (nobody thinks about electrical transformers).
   bicycle-for-the-mind, ralph-wiggum-loop, foundation-model-is-a-foundation,
   context-window-is-working-memory
 - **Tier 3 (thinner but worth documenting):** ai-is-an-intern,
-  ai-is-an-oracle, ai-is-a-mirror, weights-are-knowledge,
+  ai-is-an-oracle, ai-is-a-mirror, ai-is-an-iceberg,
+  ai-is-a-magnifying-glass, ai-is-a-spell-checker, weights-are-knowledge,
   temperature-is-creativity, fine-tuning-is-specialization, guardrails
 
 ### Kind assignments
@@ -166,26 +175,31 @@ not human metaphors to machines).
 | Frame slug | Description |
 |---|---|
 | artificial-intelligence | AI systems, LLMs, agents, ML models as target domain |
-| aviation | Pilot/copilot hierarchy, cockpit, instruments, flight |
+| aviation | Pilot/copilot hierarchy, cockpit, instruments, flight. Note: does not exist yet in `catalog/frames/`; Miner must create it for `ai-is-a-copilot`. |
+| biology | Biological organisms, neural systems, evolution. For `neural-network-is-a-brain`. |
+| education | Pedagogy, curriculum, teaching, learning, grading. For `training-is-education`. |
+| software-engineering | Programming, engineering practice, deterministic systems. For `prompt-engineering-is-programming`. |
+| natural-resources | Fuel, oil, mining, extraction, raw materials. For `data-is-fuel`, `the-internet-is-a-mine`. |
+| natural-phenomena | Weather, geology, icebergs, natural structures. For `ai-is-an-iceberg`. |
 
 ### Existing frames that will be reused
 
-- `tool-use` -- AI-as-tool
+- `tool-use` -- AI-as-tool, AI-as-spell-checker
 - `governance` -- AI-as-agent (legal/business agency)
 - `religion` -- AI-as-oracle
-- `medicine` -- hallucination, neural-network, prosthesis
+- `medicine` -- hallucination, prosthesis
 - `containers` -- black box, safety-as-containment, jailbreaking
-- `social-roles` -- intern, training-as-education
+- `social-roles` -- intern
 - `embodied-experience` -- bicycle, weights, tool-use-as-manipulation
 - `mental-experience` -- chain-of-thought, context-window
-- `economics` -- data-as-fuel, compute-as-resource, internet-as-mine
+- `economics` -- compute-as-resource
 - `physics` -- alignment, temperature
 - `architecture-and-building` -- foundation model
-- `manufacturing` -- prompt engineering, fine-tuning
+- `manufacturing` -- fine-tuning
 - `animal-behavior` -- swarm
 - `social-behavior` -- ralph-wiggum-loop
 - `collaborative-work` -- pair programmer
-- `vision` -- mirror
+- `vision` -- mirror, magnifying glass
 - `journeys` -- guardrails
 
 ### New categories needed
@@ -205,9 +219,8 @@ not human metaphors to machines).
 
 ### Target frame
 
-Most candidates target `artificial-intelligence` (new frame). Exceptions:
+Most candidates target `artificial-intelligence` (new frame). Exception:
 - `bicycle-for-the-mind` targets `computing`
-- `the-internet-is-a-mine` targets `data-processing`
 
 ## Gotchas
 
@@ -242,7 +255,7 @@ Most candidates target `artificial-intelligence` (new frame). Exceptions:
    progression in each entry. The issue suggests this progression is itself
    a paradigm ("INTELLIGENCE AUGMENTATION IS A SPECTRUM") for a future batch.
 
-6. **LLM-sourced entries (39%).** Higher than the sw-eng-vernacular project
+6. **LLM-sourced entries (41%).** Higher than the sw-eng-vernacular project
    (27%) because no structured archive comprehensively catalogs these
    metaphors at the conceptual-metaphor granularity. The academic sources
    catalog analogies and framings; this project maps them as structural
@@ -254,7 +267,7 @@ Most candidates target `artificial-intelligence` (new frame). Exceptions:
    source-to-target mapping. A single Maas category may contain multiple
    candidates here, and vice versa.
 
-8. **31 candidates in batch 1.** Well within GitHub's 100 sub-issue limit.
+8. **34 candidates in batch 1.** Well within GitHub's 100 sub-issue limit.
    Future batches for remaining clusters should be similarly sized.
 
 ## Future Batches
