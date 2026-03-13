@@ -1,7 +1,7 @@
 ---
 slug: idols-of-the-marketplace
 name: "Idols of the Marketplace"
-kind: conceptual-metaphor
+kind: paradigm
 source_frame: economics
 target_frame: intellectual-inquiry
 categories:
