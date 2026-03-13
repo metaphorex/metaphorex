@@ -2,7 +2,7 @@
 slug: silo
 name: "Silo"
 kind: dead-metaphor
-source_frame: agriculture
+source_frame: horticulture
 target_frame: governance
 categories:
   - linguistics
