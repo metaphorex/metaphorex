@@ -3,7 +3,7 @@ slug: perception-is-reception
 name: "Perception Is Reception"
 kind: conceptual-metaphor
 source_frame: physical-objects
-target_frame: vision
+target_frame: embodied-experience
 categories:
   - cognitive-science
   - linguistics
@@ -15,8 +15,6 @@ related:
   - understanding-is-seeing
   - seeing-is-touching
   - the-conduit-metaphor
-  - the-visual-field-is-a-container
-  - the-visual-field-is-a-bounded-region
 ---
 
 ## What It Brings
