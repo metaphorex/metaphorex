@@ -10,6 +10,7 @@ categories:
 author: fshot
 contributors: []
 related: []
+harness: "Claude Code"
 ---
 
 ## What It Brings
