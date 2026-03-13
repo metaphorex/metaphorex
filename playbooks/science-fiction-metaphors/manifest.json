@@ -48,7 +48,7 @@
     {
       "slug": "brave-new-world-is-technological-control",
       "name": "BRAVE NEW WORLD IS TECHNOLOGICAL SOCIAL CONTROL",
-      "kind": "literary-frame",
+      "kind": "conceptual-metaphor",
       "source_frame": "social-roles",
       "target_frame": "ethics-and-morality",
       "categories": ["philosophy", "social-dynamics"],
@@ -218,7 +218,7 @@
     {
       "slug": "spice-is-scarce-enabling-resource",
       "name": "SPICE IS A SCARCE RESOURCE THAT ENABLES TRANSCENDENCE",
-      "kind": "literary-frame",
+      "kind": "conceptual-metaphor",
       "source_frame": "economics",
       "target_frame": "natural-resources",
       "categories": ["economics-and-finance", "systems-thinking"],
@@ -228,7 +228,7 @@
     {
       "slug": "mentat-is-human-computer",
       "name": "MENTAT IS HUMAN COMPUTATION AS ALTERNATIVE TO AI",
-      "kind": "literary-frame",
+      "kind": "conceptual-metaphor",
       "source_frame": "mental-experience",
       "target_frame": "artificial-intelligence",
       "categories": ["ai-discourse", "cognitive-science"],
@@ -238,7 +238,7 @@
     {
       "slug": "the-jackpot-is-slow-apocalypse",
       "name": "THE JACKPOT IS SLOW-ROLLING APOCALYPSE",
-      "kind": "literary-frame",
+      "kind": "conceptual-metaphor",
       "source_frame": "gambling",
       "target_frame": "ecology",
       "categories": ["systems-thinking", "social-dynamics"],
@@ -339,7 +339,7 @@
       "slug": "zero-gravity-is-weightlessness",
       "name": "ZERO GRAVITY IS WEIGHTLESSNESS",
       "kind": "dead-metaphor",
-      "source_frame": "physics",
+      "source_frame": "spatial-location",
       "target_frame": "physics",
       "categories": ["physics-and-engineering", "linguistics"],
       "source": "archive",
@@ -359,7 +359,7 @@
       "slug": "deep-space-is-the-unknown-frontier",
       "name": "DEEP SPACE IS THE UNKNOWN FRONTIER",
       "kind": "dead-metaphor",
-      "source_frame": "spatial-location",
+      "source_frame": "journeys",
       "target_frame": "spatial-location",
       "categories": ["linguistics", "philosophy"],
       "source": "archive",
@@ -378,7 +378,7 @@
     {
       "slug": "black-mirror-is-technology-dark-side",
       "name": "BLACK MIRROR IS TECHNOLOGY'S DARK REFLECTION",
-      "kind": "literary-frame",
+      "kind": "conceptual-metaphor",
       "source_frame": "vision",
       "target_frame": "computing",
       "categories": ["social-dynamics", "ethics-and-morality"],
