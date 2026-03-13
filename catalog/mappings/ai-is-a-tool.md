@@ -8,7 +8,6 @@ categories:
   - ai-discourse
   - philosophy
 author: agent:metaphorex-miner
-harness: "Claude Code"
 contributors: []
 related:
   - ai-is-a-copilot
