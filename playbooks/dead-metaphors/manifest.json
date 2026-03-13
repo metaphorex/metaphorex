@@ -11,6 +11,32 @@
     "https://www.etymonline.com/",
     "https://mappingmetaphor.arts.gla.ac.uk/"
   ],
+  "excluded": [
+    {
+      "term": "wiki",
+      "reason": "Hawaiian for 'quick' -- a loanword, not a structural metaphor. No source-to-target mapping to analyze."
+    },
+    {
+      "term": "bluetooth",
+      "reason": "Named after King Harald Bluetooth -- a historical reference (eponym), not a structural metaphor. No conceptual mapping between the king and the wireless protocol."
+    },
+    {
+      "term": "leverage",
+      "reason": "Already exists in catalog as kind: paradigm. Excluded to avoid overlap."
+    }
+  ],
+  "renamed": [
+    {
+      "script_term": "mouse",
+      "manifest_slug": "computer-mouse",
+      "reason": "Disambiguate from the animal; the dead metaphor is specifically about the input device."
+    },
+    {
+      "script_term": "stream",
+      "manifest_slug": "data-stream",
+      "reason": "Disambiguate from natural streams; the dead metaphor is specifically about data flow."
+    }
+  ],
   "candidates": [
     {
       "slug": "bug",
@@ -166,7 +192,7 @@
       "slug": "salary",
       "name": "Salary",
       "kind": "dead-metaphor",
-      "source_frame": "economics",
+      "source_frame": "materials",
       "target_frame": "economics",
       "categories": ["linguistics"],
       "source": "archive",

@@ -151,9 +151,7 @@ batch to avoid overlap.
 
 ### New frames needed
 
-| Frame slug | Description |
-|---|---|
-| textiles | Weaving, sewing, fabric, patching, threads. For `patch`. |
+None. All source frames for this batch already exist in `catalog/frames/`.
 
 ### Existing frames that will be reused
 
@@ -171,9 +169,9 @@ batch to avoid overlap.
 - `architecture-and-building` -- platform, bankrupt, window
 - `animal-husbandry` -- brand, capital
 - `gambling` -- stakeholder
-- `materials` -- stock, red-tape
+- `materials` -- stock, red-tape, salary (Latin sal = salt, a physical commodity)
 - `physics` -- running-out-of-steam
-- `economics` -- salary
+- `textiles` -- patch
 
 ### Target frames that will be reused
 
