@@ -1,0 +1,213 @@
+{
+  "project": "jungian-archetypes",
+  "project_issue": 8,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://en.wikipedia.org/wiki/Category:Jungian_archetypes",
+    "https://en.wikipedia.org/wiki/Jungian_archetypes",
+    "https://scottjeffrey.com/classic-jungian-archetypes/",
+    "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/",
+    "https://carolspearson.com/about/the-pearson-12-archetype-system-human-development-and-evolution"
+  ],
+  "candidates": [
+    {
+      "slug": "the-self",
+      "name": "The Self",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "integration-and-wholeness",
+      "categories": [
+        "psychology",
+        "organizational-behavior",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "cw9_1": "Conscious, Unconscious, and Individuation; A Study in the Process of Individuation; Concerning Mandala Symbolism",
+        "cw9_2": "Aion: Researches into the Phenomenology of the Self (entire volume)",
+        "wikipedia": "Self (Jung)"
+      },
+      "description": "The archetype of wholeness and integration -- the organizing center of the psyche that transcends ego. Maps onto system architecture (the unified system vs. its components), organizational identity (mission as integrating principle), and the individuation process in personal development."
+    },
+    {
+      "slug": "the-shadow",
+      "name": "The Shadow",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "hidden-knowledge",
+      "categories": [
+        "psychology",
+        "organizational-behavior",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "cw9_2": "Aion, Chapter 2: The Shadow",
+        "wikipedia": "Shadow (psychology)"
+      },
+      "description": "The denied, repressed, or unacknowledged aspects of self or system. Maps onto technical debt, shadow IT, organizational denial, and the gap between stated values and actual behavior. The most structurally productive Jungian archetype for modern organizational analysis."
+    },
+    {
+      "slug": "the-persona",
+      "name": "The Persona",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "social-roles",
+      "categories": [
+        "psychology",
+        "organizational-behavior",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "cw7": "Two Essays on Analytical Psychology, Chapter 2: The Persona",
+        "wikipedia": "Persona (psychology)"
+      },
+      "description": "The social mask -- the public-facing identity adopted for social interaction. Maps onto public APIs, facade patterns, corporate branding, and the distinction between interface and implementation. Jung's term literally means 'mask' (from Latin theatrical masks)."
+    },
+    {
+      "slug": "the-anima-animus",
+      "name": "The Anima / Animus",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "creative-tension",
+      "categories": [
+        "psychology",
+        "organizational-behavior",
+        "arts-and-culture"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "cw9_1": "Concerning the Archetypes, with Special Reference to the Anima Concept",
+        "cw9_2": "Aion, Chapter 3: The Syzygy: Anima and Animus",
+        "wikipedia": "Anima and animus"
+      },
+      "description": "The inner complement -- the contrasexual aspect of the psyche that bridges conscious and unconscious. Maps onto creative tension in cross-functional teams, the relationship between analytical and intuitive modes, and the productive friction between complementary perspectives. Requires careful handling of Jung's gender essentialism in the 'Where It Breaks' section."
+    },
+    {
+      "slug": "the-hero",
+      "name": "The Hero",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "social-roles",
+      "categories": [
+        "psychology",
+        "organizational-behavior",
+        "arts-and-culture"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "cw9_1": "The Psychology of the Child Archetype (Child God and Child Hero)",
+        "cw5": "Symbols of Transformation (hero myth analysis)",
+        "wikipedia": "Hero",
+        "pearson": "The Warrior / Hero archetype"
+      },
+      "description": "The journey, the protagonist, the founder myth. Maps onto startup founder narratives, hero culture in engineering (hero-driven development), and the monomyth structure in product storytelling. The most commercially exploited Jungian archetype."
+    },
+    {
+      "slug": "the-great-mother",
+      "name": "The Great Mother",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "nurturing-and-creation",
+      "categories": [
+        "psychology",
+        "organizational-behavior",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "cw9_1": "Psychological Aspects of the Mother Archetype (full essay)",
+        "wikipedia": "Mother goddess",
+        "neumann": "Erich Neumann, The Great Mother (1955)"
+      },
+      "description": "Nurturing, creation, dependency, and the devouring aspect. Maps onto platforms (nurturing ecosystem but creating dependency), organizational culture as mother figure, and the dual nature of protective systems that also constrain. Jung's CW9.1 devotes its longest essay to this archetype."
+    },
+    {
+      "slug": "the-wise-old-man",
+      "name": "The Wise Old Man",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "authority-and-mentorship",
+      "categories": [
+        "psychology",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "cw9_1": "The Phenomenology of the Spirit in Fairytales",
+        "wikipedia": "Mentor",
+        "pearson": "The Sage archetype"
+      },
+      "description": "Authority, mentorship, and accumulated wisdom. Maps onto legacy systems (deprecated but containing irreplaceable knowledge), senior engineers as institutional memory, and the tension between wisdom and obsolescence. Jung discusses this as 'the spirit' archetype in fairytales -- the old man who appears at the threshold with guidance."
+    },
+    {
+      "slug": "the-divine-child",
+      "name": "The Divine Child",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "potential-and-emergence",
+      "categories": [
+        "psychology",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "cw9_1": "The Psychology of the Child Archetype (full essay)",
+        "wikipedia": "Child archetype",
+        "pearson": "The Innocent archetype"
+      },
+      "description": "Potential, new beginnings, and the futurity of the archetype. Maps onto greenfield projects, startup energy, the junior engineer's fresh perspective, and the paradox of the vulnerable-yet-invincible new thing. Jung emphasizes both the abandonment motif (the child left to fend for itself) and the invincibility motif (the child that survives against all odds)."
+    },
+    {
+      "slug": "the-maiden",
+      "name": "The Maiden (Kore)",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "potential-and-emergence",
+      "categories": [
+        "psychology",
+        "arts-and-culture"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "cw9_1": "The Psychological Aspects of the Kore (full essay)",
+        "wikipedia": "Puer aeternus"
+      },
+      "description": "Innocence, untested potential, and the threshold of transformation. Maps onto untested systems, the junior engineer before first production incident, and products before market contact. Jung pairs the Kore with the Mother as complementary aspects of the feminine archetype. The Persephone myth (descent and return) is the defining narrative."
+    },
+    {
+      "slug": "the-senex",
+      "name": "The Senex (Crone)",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "authority-and-mentorship",
+      "categories": [
+        "psychology",
+        "organizational-behavior"
+      ],
+      "source": "llm",
+      "archive_refs": {
+        "note": "Not a standalone essay in CW9.1. The Senex is the polar opposite of the Puer Aeternus, developed primarily by James Hillman in post-Jungian archetypal psychology. Jung discusses the pattern in The Phenomenology of the Spirit in Fairytales but does not use the term 'senex' as a label."
+      },
+      "description": "Wisdom through age, rigidity, and the tension between preservation and stagnation. Maps onto deprecated-but-valuable knowledge, legacy codebases, institutional processes that once served well but now constrain. The Senex-Puer polarity (order vs. chaos, age vs. youth) is one of the most productive structural tensions in organizational analysis."
+    },
+    {
+      "slug": "the-shapeshifter",
+      "name": "The Shapeshifter",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "social-roles",
+      "categories": [
+        "psychology",
+        "organizational-behavior",
+        "software-engineering"
+      ],
+      "source": "llm",
+      "archive_refs": {
+        "note": "Not a standalone archetype in Jung's CW9.1. The Shapeshifter appears in Christopher Vogler's 'The Writer's Journey' (1992) as a narrative archetype derived from Campbell's monomyth, which itself draws on Jung. The shapeshifting quality is discussed by Jung as an attribute of the Anima/Animus and Trickster rather than a standalone archetype."
+      },
+      "description": "Adaptability, polymorphism, and identity fluidity. Maps onto the consultant who adapts to each client's culture, polymorphic code, and organizational roles that shift based on context. Structurally related to the Persona (masks) and Trickster (boundary-crossing) but emphasizes continuous transformation rather than transgression."
+    }
+  ]
+}
