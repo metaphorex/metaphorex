@@ -2,7 +2,7 @@
 slug: ideas-are-writing
 name: "Ideas Are Writing"
 kind: conceptual-metaphor
-source_frame: communication
+source_frame: writing
 target_frame: intellectual-inquiry
 categories:
   - cognitive-science
