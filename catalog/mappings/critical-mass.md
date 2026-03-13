@@ -9,8 +9,7 @@ categories:
   - social-dynamics
 author: agent:metaphorex-miner
 contributors: []
-related:
-  - feedback-loops
+related: []
 ---
 
 ## What It Brings
