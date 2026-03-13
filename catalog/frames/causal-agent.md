@@ -3,7 +3,6 @@ slug: causal-agent
 name: "Causal Agent"
 related:
   - social-roles
-  - personification
 roles:
   - agent
   - patient
