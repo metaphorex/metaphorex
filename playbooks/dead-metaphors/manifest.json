@@ -1,0 +1,316 @@
+{
+  "project": "dead-metaphors",
+  "project_issue": 5,
+  "source_type": "vein",
+  "batch": 1,
+  "batch_focus": "Tech dead metaphors, business dead metaphors, and everyday words with surprising metaphorical origins -- prioritizing terms with structurally rich original mappings that reveal hidden conceptual structures",
+  "archive_urls": [
+    "https://en.wikipedia.org/wiki/List_of_computer_term_etymologies",
+    "https://www.examples.com/english/dead-metaphors.html",
+    "https://gizmodo.com/the-mysterious-origins-of-21-tech-terms-1678246145",
+    "https://www.etymonline.com/",
+    "https://mappingmetaphor.arts.gla.ac.uk/"
+  ],
+  "candidates": [
+    {
+      "slug": "bug",
+      "name": "Bug",
+      "kind": "dead-metaphor",
+      "source_frame": "organism",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "Edison used 'bug' for mechanical faults in the 1870s, decades before Hopper's moth. The metaphor maps an unwanted creature that infests a system to an unwanted defect that infests code. The entomological origin shaped debugging culture: we 'hunt' bugs, 'squash' them, track 'infestations.' The creature metaphor implies bugs have agency and hide from you."
+    },
+    {
+      "slug": "patch",
+      "name": "Patch",
+      "kind": "dead-metaphor",
+      "source_frame": "textiles",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "From textile repair: a piece of cloth sewn over a hole. Early programs on punched cards were literally patched with tape over holes. The metaphor imports the assumption that software is fabric -- something woven that can tear and be mended. 'Patchwork' implies accumulating fixes degrades the original."
+    },
+    {
+      "slug": "cookie",
+      "name": "Cookie",
+      "kind": "dead-metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "From Unix 'magic cookie' (itself from fortune cookies -- treats with hidden messages inside). Lou Montulli coined the web usage in 1994. The metaphor of a small thing containing a hidden message maps surprisingly well: cookies are small, numerous, and carry information the recipient doesn't see until they open it."
+    },
+    {
+      "slug": "virus",
+      "name": "Virus",
+      "kind": "dead-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "security", "linguistics"],
+      "source": "archive",
+      "description": "Biological pathogen that replicates by hijacking host cells maps to self-replicating malicious code that hijacks host systems. Fred Cohen coined 'computer virus' in 1983. The metaphor imports epidemiological thinking: infection vectors, quarantine, inoculation, herd immunity. It shaped the entire antivirus industry's vocabulary and methodology."
+    },
+    {
+      "slug": "spam",
+      "name": "Spam",
+      "kind": "dead-metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "From Monty Python's sketch where every menu item contains SPAM and the word is repeated until it drowns out all conversation. Early internet users adopted it for messages that drown out legitimate communication. The metaphor's genius: it captures both unwantedness and overwhelming repetition in a single silly word."
+    },
+    {
+      "slug": "computer-mouse",
+      "name": "Mouse",
+      "kind": "dead-metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "Engelbart named it in 1968 because the cable resembled a tail and the cursor was called 'CAT' (the mouse appeared to be chased by the cat). The shape metaphor is so dead that wireless mice have no tail at all, and nobody finds the name absurd. A rare case where the physical source disappeared but the name persists."
+    },
+    {
+      "slug": "web",
+      "name": "Web",
+      "kind": "dead-metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "Tim Berners-Lee chose 'World Wide Web' in 1989, mapping spider web topology onto hyperlinked documents. Structural correspondence: interconnected strands, no single center, any point reachable from any other. But spider webs are traps built by a single architect; the WWW is a commons built by millions. The predatory implication is entirely lost."
+    },
+    {
+      "slug": "data-stream",
+      "name": "Stream",
+      "kind": "dead-metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "Continuous flow of water in a channel maps to continuous flow of data. The metaphor preserves direction (upstream/downstream), rate (bandwidth as flow rate), and overflow (buffer overflow). 'Streaming' video made the metaphor so literal that people forget data is discrete packets, not continuous fluid."
+    },
+    {
+      "slug": "cloud",
+      "name": "Cloud",
+      "kind": "dead-metaphor",
+      "source_frame": "natural-phenomena",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "systems-thinking", "linguistics"],
+      "source": "archive",
+      "description": "Network engineers drew clouds on diagrams to represent 'someone else's infrastructure you don't need to understand.' The amorphous, everywhere, overhead nature of clouds maps onto remote computing that is amorphous, everywhere, and above you. The metaphor hides physical reality: clouds are actually data centers with addresses, power bills, and cooling systems."
+    },
+    {
+      "slug": "daemon",
+      "name": "Daemon",
+      "kind": "dead-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "From Greek daimon -- a spirit that works in the background, neither purely good nor evil. MIT programmers adopted it in the 1960s for background processes. Maxwell's demon (a thought experiment about a being that sorts molecules) was the proximate inspiration. The metaphor imports invisible agency: daemons act without being asked, which is exactly what background processes do."
+    },
+    {
+      "slug": "kernel",
+      "name": "Kernel",
+      "kind": "dead-metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "Inner seed of a nut -- the essential core hidden inside protective layers. Maps to the core of an operating system surrounded by shells and user-space layers. The botanical metaphor implies the kernel is the generative part from which everything else grows, which is structurally accurate: all OS functionality grows from kernel primitives."
+    },
+    {
+      "slug": "shell",
+      "name": "Shell",
+      "kind": "dead-metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "Hard outer covering of a nut, surrounding the kernel. Maps to the user interface layer wrapping the OS kernel. Kernel and shell form a complementary pair: the metaphor system is internally consistent. Louis Pouzin coined 'shell' in the 1960s at Multics. The protective-layer metaphor implies the shell exists to guard the kernel from the user, which inverts the actual relationship."
+    },
+    {
+      "slug": "deadline",
+      "name": "Deadline",
+      "kind": "dead-metaphor",
+      "source_frame": "war",
+      "target_frame": "time-and-temporality",
+      "categories": ["organizational-behavior", "linguistics"],
+      "source": "archive",
+      "description": "A line drawn around Civil War prison camps -- cross it and guards shoot to kill. The metaphor maps lethal boundary to temporal boundary. The violence is entirely bleached: nobody thinks about death when they say 'the deadline is Friday.' But the urgency structure persists: a deadline is a line you must not cross, with consequences. The mapping from space (line) to time (moment) is itself a dead metaphor within a dead metaphor."
+    },
+    {
+      "slug": "dashboard",
+      "name": "Dashboard",
+      "kind": "dead-metaphor",
+      "source_frame": "travel",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "linguistics"],
+      "source": "archive",
+      "description": "A board at the front of a horse-drawn carriage to block mud 'dashed up' by hooves. Migrated to cars (instrument panel behind the dash-board), then to software (metrics display). Three deaths: the mud-blocking origin died when cars replaced horses; the car-instrument meaning died when it became generic; the software meaning killed the physical reference entirely."
+    },
+    {
+      "slug": "broadcast",
+      "name": "Broadcast",
+      "kind": "dead-metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "communication",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Scattering seeds widely by hand -- 'broad cast' across a field. Adopted for radio in the 1920s: signals scattered widely from a transmitter. The agricultural metaphor maps sowing onto information distribution. Seeds are undirected (you don't aim each one); broadcasts are undirected (you don't choose each recipient). The metaphor died so completely that 'broadcast' now means the opposite of 'narrowcast,' a word coined to contrast with the dead metaphor."
+    },
+    {
+      "slug": "salary",
+      "name": "Salary",
+      "kind": "dead-metaphor",
+      "source_frame": "economics",
+      "target_frame": "economics",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Latin salarium -- allowance for the purchase of salt. Salt was a preservation technology and a currency of value. The metaphor maps commodity-value onto labor-value. 'Worth your salt' preserves the original mapping. Whether Roman soldiers were literally paid in salt is debated, but the etymological connection shaped the word's meaning for two millennia."
+    },
+    {
+      "slug": "muscle",
+      "name": "Muscle",
+      "kind": "dead-metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "embodied-experience",
+      "categories": ["linguistics", "cognitive-science"],
+      "source": "archive",
+      "description": "Latin musculus -- 'little mouse.' Ancient Greeks and Romans saw the bicep contracting under skin and thought it looked like a mouse running. The metaphor is so dead that anatomy students are surprised to learn it. But 'muscle' as a metaphor for force ('muscle someone out,' 'financial muscle') is a second-order dead metaphor built on the first."
+    },
+    {
+      "slug": "companion",
+      "name": "Companion",
+      "kind": "dead-metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "social-behavior",
+      "categories": ["linguistics", "social-dynamics"],
+      "source": "archive",
+      "description": "Latin com + panis -- 'with bread.' A companion is literally someone you break bread with. The metaphor maps shared meals onto shared experience. 'Company' has the same root. The bread origin reveals an assumption: that companionship requires sustained proximity and shared sustenance, not just shared interest."
+    },
+    {
+      "slug": "window",
+      "name": "Window",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "architecture-and-building",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Old Norse vindauga -- 'wind eye.' An opening in a wall was understood as the building's eye for seeing the wind. The metaphor died so completely that the word replaced the native Old English 'eagthyrl' (eye-hole). Then it died again when 'window' became a GUI element -- a rectangular viewport into a computing environment. Two deaths, zero resurrections."
+    },
+    {
+      "slug": "bankrupt",
+      "name": "Bankrupt",
+      "kind": "dead-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "economics",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Italian banca rotta -- 'broken bench.' When a Florentine money-lender became insolvent, his trading bench was literally smashed. The physical destruction mapped onto financial destruction. 'Bank' itself comes from the same banca (bench). The furniture origin of the entire banking vocabulary is invisible to every person who uses it."
+    },
+    {
+      "slug": "brand",
+      "name": "Brand",
+      "kind": "dead-metaphor",
+      "source_frame": "animal-husbandry",
+      "target_frame": "economics",
+      "categories": ["linguistics", "organizational-behavior"],
+      "source": "archive",
+      "description": "Old Norse brandr -- 'to burn.' Livestock were branded with hot irons to mark ownership. The metaphor maps physical marking of property onto commercial identity. 'Brand loyalty,' 'brand recognition,' 'brand equity' -- the entire vocabulary of modern marketing is built on a dead metaphor about burning cattle. The violence of the original act is entirely invisible."
+    },
+    {
+      "slug": "capital",
+      "name": "Capital",
+      "kind": "dead-metaphor",
+      "source_frame": "animal-husbandry",
+      "target_frame": "economics",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Latin capitalis from caput -- 'head.' Wealth was counted per head of cattle (hence also 'chattel' and 'cattle' from the same root). The metaphor maps livestock headcount onto accumulated wealth. 'Capitalism' is literally 'headism' -- an entire economic system named after counting cows."
+    },
+    {
+      "slug": "stakeholder",
+      "name": "Stakeholder",
+      "kind": "dead-metaphor",
+      "source_frame": "gambling",
+      "target_frame": "governance",
+      "categories": ["organizational-behavior", "linguistics"],
+      "source": "archive",
+      "description": "The person who holds the stakes (wagers) in a bet until the outcome is decided. First attested 1708. Stanford Research Institute repurposed it in the 1960s as a play on 'stockholder.' The gambling origin maps risk and uncertain outcomes onto organizational interest. The neutral-sounding business term hides its assumption: that every stakeholder has something at risk."
+    },
+    {
+      "slug": "stock",
+      "name": "Stock",
+      "kind": "dead-metaphor",
+      "source_frame": "materials",
+      "target_frame": "economics",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Old English stocc -- tree trunk. Split tally sticks recorded debts: the creditor kept 'the stock' (the larger half), the debtor kept 'the stub.' Stock certificates, stockholders, stock markets -- the entire equity vocabulary traces to recording debts on sticks of wood. The London Stock Exchange literally began with wooden tallies."
+    },
+    {
+      "slug": "pipeline",
+      "name": "Pipeline",
+      "kind": "dead-metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "systems-performance",
+      "categories": ["software-engineering", "organizational-behavior", "linguistics"],
+      "source": "archive",
+      "description": "Physical pipe carrying oil or water from source to destination. Maps sequential flow through stages: sales pipeline, CI/CD pipeline, talent pipeline. The metaphor imports directionality (one-way flow), capacity constraints, and the impossibility of skipping stages. Things enter one end and exit the other, transformed. It hides the fact that most real pipelines leak."
+    },
+    {
+      "slug": "platform",
+      "name": "Platform",
+      "kind": "dead-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "systems-thinking", "linguistics"],
+      "source": "archive",
+      "description": "Raised flat surface for standing on -- a train platform, a stage platform. Maps physical elevation and stability onto technology infrastructure. You build ON a platform; it supports your weight; it's shared public infrastructure. The metaphor died when 'platform' became the dominant word for tech ecosystems. The architectural origin imports an assumption of neutrality and stability that tech platforms frequently violate."
+    },
+    {
+      "slug": "silo",
+      "name": "Silo",
+      "kind": "dead-metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "governance",
+      "categories": ["organizational-behavior", "linguistics"],
+      "source": "archive",
+      "description": "Tall cylindrical structure for storing grain separately from other crops. Maps isolation-by-design onto organizational dysfunction. 'Working in silos,' 'breaking down silos.' The agricultural origin reveals an irony: silos exist to PRESERVE grain by keeping it separate. In organizations, separation is seen as the problem. The metaphor inverts the original value judgment."
+    },
+    {
+      "slug": "red-tape",
+      "name": "Red Tape",
+      "kind": "dead-metaphor",
+      "source_frame": "materials",
+      "target_frame": "governance",
+      "categories": ["organizational-behavior", "linguistics"],
+      "source": "archive",
+      "description": "Literal red ribbon used to bind legal and government documents in England since the 16th century. Charles Dickens and Carlyle popularized its negative connotation. The metaphor maps physical binding of documents onto procedural binding of action. The irony: the original red tape kept documents ORGANIZED. The metaphor treats organization itself as the problem."
+    },
+    {
+      "slug": "troll",
+      "name": "Troll",
+      "kind": "dead-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "computing",
+      "categories": ["software-engineering", "social-dynamics", "linguistics"],
+      "source": "archive",
+      "description": "Double etymology: Scandinavian folklore creature lurking under bridges AND a fishing technique (dragging bait through water). Internet 'trolling' maps the fishing metaphor -- dragging provocative bait through forums. But the folklore creature maps better to the behavior: a threatening presence lurking where people must pass. Most users now picture the monster, not the fishing technique."
+    },
+    {
+      "slug": "running-out-of-steam",
+      "name": "Running Out of Steam",
+      "kind": "dead-metaphor",
+      "source_frame": "physics",
+      "target_frame": "embodied-experience",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "A steam engine losing boiler pressure, slowing and halting. Maps mechanical energy depletion onto human energy depletion. The metaphor survived the technology: nobody under 50 has operated a steam engine, but everyone understands 'running out of steam.' It imports the assumption that human energy works like a boiler -- depletable, refillable, measurable by output."
+    }
+  ]
+}
