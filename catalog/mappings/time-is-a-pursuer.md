@@ -2,7 +2,7 @@
 slug: time-is-a-pursuer
 name: "Time Is a Pursuer"
 kind: conceptual-metaphor
-source_frame: competition
+source_frame: animal-behavior
 target_frame: time-and-temporality
 categories:
   - cognitive-science
