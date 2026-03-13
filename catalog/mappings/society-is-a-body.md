@@ -2,7 +2,7 @@
 slug: society-is-a-body
 name: "Society Is a Body"
 kind: conceptual-metaphor
-source_frame: embodied-experience
+source_frame: organism
 target_frame: social-roles
 categories:
   - cognitive-science
