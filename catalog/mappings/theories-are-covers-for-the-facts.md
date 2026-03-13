@@ -2,7 +2,7 @@
 slug: theories-are-covers-for-the-facts
 name: "Theories Are Covers for the Facts"
 kind: conceptual-metaphor
-source_frame: containers
+source_frame: covers
 target_frame: intellectual-inquiry
 categories:
   - cognitive-science
