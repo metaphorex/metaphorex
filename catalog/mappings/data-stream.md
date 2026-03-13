@@ -7,7 +7,7 @@ target_frame: computing
 categories:
   - linguistics
   - software-engineering
-author: fshot
+author: agent:fshot
 contributors: []
 related:
   - data-flow-is-fluid-flow
