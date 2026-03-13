@@ -3,7 +3,7 @@ slug: lust-is-heat
 name: "Lust Is Heat"
 kind: conceptual-metaphor
 source_frame: embodied-experience
-target_frame: love-and-relationships
+target_frame: mental-experience
 categories:
   - cognitive-science
   - linguistics
