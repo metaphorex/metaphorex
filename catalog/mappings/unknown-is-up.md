@@ -1,20 +1,21 @@
 ---
-slug: unknown-is-up
-name: "Unknown Is Up; Known Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Unknown Is Up; Known Is Down
+related:
+- rational-is-up
+- having-control-is-up
+- happy-is-up
+slug: unknown-is-up
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - rational-is-up
-  - having-control-is-up
-  - happy-is-up
 ---
 
 ## What It Brings

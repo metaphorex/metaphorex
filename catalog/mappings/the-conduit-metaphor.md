@@ -1,20 +1,21 @@
 ---
-slug: the-conduit-metaphor
-name: "The Conduit Metaphor"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: paradigm
+name: The Conduit Metaphor
+related:
+- ideas-are-food
+- understanding-is-seeing
+- theories-are-buildings
+slug: the-conduit-metaphor
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - ideas-are-food
-  - understanding-is-seeing
-  - theories-are-buildings
 ---
 
 ## What It Brings

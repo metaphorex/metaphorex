@@ -1,21 +1,23 @@
 ---
-slug: a-force-is-a-moving-object
-name: "A Force Is a Moving Object"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- physics-and-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: A Force Is a Moving Object
+related:
+- causes-are-forces
+- psychological-forces-are-physical-forces
+- obligations-are-forces
+- love-is-a-physical-force
+- difficulties-are-impediments-to-motion
+slug: a-force-is-a-moving-object
 source_frame: embodied-experience
 target_frame: physics
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - causes-are-forces
-  - psychological-forces-are-physical-forces
-  - obligations-are-forces
-  - love-is-a-physical-force
-  - difficulties-are-impediments-to-motion
 ---
 
 ## What It Brings

@@ -1,16 +1,17 @@
 ---
-slug: the-composite-pattern
-name: "The Composite Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
 kind: archetype
+name: The Composite Pattern
+related:
+- the-facade-pattern
+- the-decorator-pattern
+slug: the-composite-pattern
 source_frame: architecture-and-building
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-facade-pattern
-  - the-decorator-pattern
 ---
 
 ## What It Brings

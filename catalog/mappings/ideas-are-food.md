@@ -1,17 +1,18 @@
 ---
-slug: ideas-are-food
-name: "Ideas Are Food"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: Ideas Are Food
+related:
+- theories-are-buildings
+- understanding-is-seeing
+slug: ideas-are-food
 source_frame: food-and-cooking
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - theories-are-buildings
-  - understanding-is-seeing
 ---
 
 ## What It Brings

@@ -1,17 +1,18 @@
 ---
-slug: unix-pipe
-name: "Unix Pipe"
+author: agent:metaphorex-miner
+categories:
+- computer-science
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Unix Pipe
+related:
+- data-flow-is-fluid-flow
+- the-pipeline-pattern
+slug: unix-pipe
 source_frame: fluid-dynamics
 target_frame: data-processing
-categories:
-  - computer-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - data-flow-is-fluid-flow
-  - the-pipeline-pattern
 ---
 
 ## What It Brings

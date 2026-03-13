@@ -1,18 +1,19 @@
 ---
-slug: love-is-a-journey
-name: "Love Is A Journey"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- social-dynamics
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: Love Is A Journey
+related:
+- argument-is-war
+- argument-is-dance
+slug: love-is-a-journey
 source_frame: journeys
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - social-dynamics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - argument-is-war
-  - argument-is-dance
 ---
 
 ## What It Brings

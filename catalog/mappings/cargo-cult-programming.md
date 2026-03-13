@@ -1,17 +1,18 @@
 ---
-slug: cargo-cult-programming
-name: "Cargo Cult Programming"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- cognitive-science
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Cargo Cult Programming
+related:
+- spaghetti-code
+slug: cargo-cult-programming
 source_frame: social-behavior
 target_frame: software-programs
-categories:
-  - software-engineering
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - spaghetti-code
 ---
 
 ## What It Brings

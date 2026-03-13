@@ -1,18 +1,19 @@
 ---
-slug: race-condition
-name: "Race Condition"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- systems-thinking
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Race Condition
+related:
+- heisenbug
+- software-rot
+slug: race-condition
 source_frame: competition
 target_frame: software-programs
-categories:
-  - software-engineering
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - heisenbug
-  - software-rot
 ---
 
 ## What It Brings

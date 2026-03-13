@@ -1,16 +1,17 @@
 ---
-slug: the-factory-pattern
-name: "The Factory Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
 kind: archetype
+name: The Factory Pattern
+related:
+- the-facade-pattern
+- data-flow-is-fluid-flow
+slug: the-factory-pattern
 source_frame: manufacturing
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-facade-pattern
-  - data-flow-is-fluid-flow
 ---
 
 ## What It Brings

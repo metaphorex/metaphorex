@@ -1,18 +1,19 @@
 ---
-slug: memory-stack
-name: "Memory Stack"
+author: agent:metaphorex-miner
+categories:
+- computer-science
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Memory Stack
+related:
+- memory-heap
+- buffer-overflow
+- memory-leak
+slug: memory-stack
 source_frame: embodied-experience
 target_frame: memory-management
-categories:
-  - computer-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - memory-heap
-  - buffer-overflow
-  - memory-leak
 ---
 
 ## What It Brings
