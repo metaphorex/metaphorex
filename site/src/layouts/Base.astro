@@ -4,7 +4,7 @@ interface Props {
   description?: string;
 }
 
-const { title, description = "A knowledge graph of metaphors" } = Astro.props;
+const { title, description = "A materials library of load-bearing metaphors and other useful abstractions" } = Astro.props;
 const corpusVersion = new Date().toISOString().split("T")[0].replace(/-/g, ".");
 ---
 
