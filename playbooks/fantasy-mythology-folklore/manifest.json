@@ -1,0 +1,863 @@
+{
+  "project": "fantasy-mythology-folklore",
+  "project_issue": 219,
+  "source_type": "vein",
+  "batch": 1,
+  "entry_count": 60,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Category:Words_and_phrases_derived_from_Greek_mythology",
+    "https://www.yourdictionary.com/articles/english-words-greek-mythology",
+    "https://en.wikipedia.org/wiki/Ragnar%C3%B6k",
+    "https://en.wikipedia.org/wiki/Holy_Grail",
+    "https://en.wikipedia.org/wiki/Golem",
+    "https://en.wikipedia.org/wiki/One_Ring"
+  ],
+  "candidates": [
+    {
+      "slug": "achilles-heel",
+      "name": "Achilles' heel",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "technology-risk",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Achilles%27_heel",
+      "tradition": "Greek",
+      "description": "A critical vulnerability in an otherwise strong system or person"
+    },
+    {
+      "slug": "pandora-box",
+      "name": "Pandora's box",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Pandora%27s_box",
+      "tradition": "Greek",
+      "description": "An action that unleashes irreversible unintended consequences"
+    },
+    {
+      "slug": "trojan-horse",
+      "name": "Trojan horse",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": [
+        "mythology-and-religion",
+        "computer-science"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Trojan_Horse",
+      "tradition": "Greek",
+      "description": "Something that appears benign but conceals a hidden threat; foundational cybersecurity term"
+    },
+    {
+      "slug": "sisyphean-task",
+      "name": "Sisyphean task",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "event-structure",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Sisyphus",
+      "tradition": "Greek",
+      "description": "Futile, endlessly repetitive labor that never reaches completion"
+    },
+    {
+      "slug": "midas-touch",
+      "name": "Midas touch",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "economics",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Midas",
+      "tradition": "Greek",
+      "description": "Ability to make everything profitable; also warns of monomaniacal optimization"
+    },
+    {
+      "slug": "siren-song",
+      "name": "Siren song",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "technology-risk",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Siren_(mythology)",
+      "tradition": "Greek",
+      "description": "A dangerously attractive temptation that leads to ruin"
+    },
+    {
+      "slug": "prometheus",
+      "name": "Prometheus",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "technology-risk",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Prometheus",
+      "tradition": "Greek",
+      "description": "Democratizing dangerous/powerful technology at personal cost; the cost of innovation"
+    },
+    {
+      "slug": "hydra",
+      "name": "Hydra",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Lernaean_Hydra",
+      "tradition": "Greek",
+      "description": "A problem that multiplies when you try to fix it"
+    },
+    {
+      "slug": "labyrinth",
+      "name": "Labyrinth",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "governance",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Labyrinth",
+      "tradition": "Greek",
+      "description": "Impenetrable complexity; bureaucratic or system complexity that traps you"
+    },
+    {
+      "slug": "icarus",
+      "name": "Icarus",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Icarus",
+      "tradition": "Greek",
+      "description": "Hubris in overreaching; ambition that ignores structural limits"
+    },
+    {
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "destruction",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Phoenix_(mythology)",
+      "tradition": "Greek/Egyptian",
+      "description": "Renewal or rebirth from destruction; comeback from catastrophic failure"
+    },
+    {
+      "slug": "nemesis",
+      "name": "Nemesis",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Nemesis",
+      "tradition": "Greek",
+      "description": "An inescapable rival or agent of downfall; karmic consequence"
+    },
+    {
+      "slug": "herculean-task",
+      "name": "Herculean task",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "event-structure",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Labours_of_Hercules",
+      "tradition": "Greek/Roman",
+      "description": "A task requiring extraordinary effort or strength"
+    },
+    {
+      "slug": "odyssey",
+      "name": "Odyssey",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "journeys",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Odyssey",
+      "tradition": "Greek",
+      "description": "A long, eventful, transformative journey; often implies the journey matters more than the destination"
+    },
+    {
+      "slug": "cassandra",
+      "name": "Cassandra",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Cassandra",
+      "tradition": "Greek",
+      "description": "Someone who correctly predicts disaster but is ignored"
+    },
+    {
+      "slug": "narcissism",
+      "name": "Narcissism",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "destruction",
+      "categories": [
+        "mythology-and-religion",
+        "psychology"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Narcissus_(mythology)",
+      "tradition": "Greek",
+      "description": "Pathological self-absorption; clinical personality disorder"
+    },
+    {
+      "slug": "chimera",
+      "name": "Chimera",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Chimera_(mythology)",
+      "tradition": "Greek",
+      "description": "An impossible or fantastical hybrid; unrealizable fantasy; also genetics term"
+    },
+    {
+      "slug": "cornucopia",
+      "name": "Cornucopia",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Cornucopia",
+      "tradition": "Greek",
+      "description": "Inexhaustible supply; abundance"
+    },
+    {
+      "slug": "aegis",
+      "name": "Aegis",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Aegis",
+      "tradition": "Greek",
+      "description": "Protection, sponsorship, or authority ('under the aegis of')"
+    },
+    {
+      "slug": "mentor",
+      "name": "Mentor",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Mentor_(Odyssey)",
+      "tradition": "Greek",
+      "description": "A trusted guide or teacher; the concept of mentorship itself"
+    },
+    {
+      "slug": "ragnarok",
+      "name": "Ragnarok",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "destruction",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Ragnar%C3%B6k",
+      "tradition": "Norse",
+      "description": "Catastrophic system collapse followed by rebirth; total reset"
+    },
+    {
+      "slug": "berserker",
+      "name": "Berserker",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-control",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Berserker",
+      "tradition": "Norse",
+      "description": "Uncontrolled destructive force; going berserk"
+    },
+    {
+      "slug": "valhalla",
+      "name": "Valhalla",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Valhalla",
+      "tradition": "Norse",
+      "description": "Ultimate reward for those who give everything; hall of fame"
+    },
+    {
+      "slug": "world-tree",
+      "name": "World tree",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "governance",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Yggdrasil",
+      "tradition": "Norse/cross-cultural",
+      "description": "Hierarchical interconnection; tree data structures; organizational hierarchy"
+    },
+    {
+      "slug": "holy-grail",
+      "name": "Holy Grail",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "journeys",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Holy_Grail",
+      "tradition": "Arthurian",
+      "description": "The ultimate unattainable goal that justifies the quest itself"
+    },
+    {
+      "slug": "excalibur",
+      "name": "Excalibur",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Excalibur",
+      "tradition": "Arthurian",
+      "description": "A tool or artifact that confers legitimacy; the right tool proving the right person"
+    },
+    {
+      "slug": "round-table",
+      "name": "Round table",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "governance",
+      "categories": [
+        "mythology-and-religion",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Round_Table",
+      "tradition": "Arthurian",
+      "description": "Egalitarian governance or discussion format; flat hierarchy"
+    },
+    {
+      "slug": "golem",
+      "name": "Golem",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "rule-following",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Golem",
+      "tradition": "Jewish folklore",
+      "description": "Artificial servant that obeys the letter not the spirit of commands; ur-metaphor for AI alignment"
+    },
+    {
+      "slug": "karma",
+      "name": "Karma",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Karma",
+      "tradition": "Hindu/Buddhist",
+      "description": "What goes around comes around; moral cause and effect"
+    },
+    {
+      "slug": "yin-and-yang",
+      "name": "Yin and yang",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "integration-and-wholeness",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Yin_and_yang",
+      "tradition": "Chinese/Taoist",
+      "description": "Complementary opposition; balance of contrasts; dual nature"
+    },
+    {
+      "slug": "koan",
+      "name": "Koan",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "journeys",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/K%C5%8Dan",
+      "tradition": "Zen Buddhist",
+      "description": "A productive paradox; a question that resists logical resolution but produces insight"
+    },
+    {
+      "slug": "emperor-new-clothes",
+      "name": "Emperor's new clothes",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-control",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes",
+      "tradition": "European fairy tale (Andersen)",
+      "description": "Collective delusion maintained by social pressure; the power of dissent"
+    },
+    {
+      "slug": "sorcerer-apprentice",
+      "name": "Sorcerer's apprentice",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-control",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice",
+      "tradition": "European folklore (Goethe/Dukas)",
+      "description": "Automation that exceeds its operator's ability to control it"
+    },
+    {
+      "slug": "rumpelstiltskin",
+      "name": "Rumpelstiltskin",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-control",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Rumpelstiltskin",
+      "tradition": "Germanic fairy tale (Grimm)",
+      "description": "The power of naming; control through identification; naming as power"
+    },
+    {
+      "slug": "alchemy",
+      "name": "Alchemy",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "destruction",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Alchemy",
+      "tradition": "Medieval/cross-cultural",
+      "description": "Transformation of something common into something valuable; also implies pseudoscience"
+    },
+    {
+      "slug": "dragon-hoard",
+      "name": "Dragon hoard",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "economics",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/European_dragon",
+      "tradition": "European/Norse folklore",
+      "description": "Wealth accumulation beyond use; rent-seeking; monopolistic resource capture"
+    },
+    {
+      "slug": "chosen-one",
+      "name": "Chosen One",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "governance",
+      "categories": [
+        "mythology-and-religion",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Chosen_one",
+      "tradition": "Cross-cultural (monomyth)",
+      "description": "Founder mythology; messianic leadership narrative in tech and politics"
+    },
+    {
+      "slug": "dark-forest",
+      "name": "Dark forest",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Dark_forest_hypothesis",
+      "tradition": "European folklore / Liu Cixin",
+      "description": "Game-theoretic hostility: hide or be destroyed; internet dark forest theory"
+    },
+    {
+      "slug": "trickster",
+      "name": "Trickster",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Trickster",
+      "tradition": "Cross-cultural",
+      "description": "Creative disruption; hacking social systems; the role of the provocateur"
+    },
+    {
+      "slug": "shapeshifter",
+      "name": "Shapeshifter",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-roles",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Shapeshifting",
+      "tradition": "Cross-cultural folklore",
+      "description": "Adaptive identity; pivoting; strategic flexibility; also deception"
+    },
+    {
+      "slug": "one-ring",
+      "name": "The One Ring",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "technology-risk",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/One_Ring",
+      "tradition": "Tolkien",
+      "description": "Power that corrupts anyone who tries to use it for good; the case for destroying rather than capturing dangerous capabilities"
+    },
+    {
+      "slug": "palantir",
+      "name": "Palantir",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "surveillance",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Palant%C3%ADr",
+      "tradition": "Tolkien",
+      "description": "Surveillance technology that is bidirectional: watching makes you visible"
+    },
+    {
+      "slug": "mordor",
+      "name": "Mordor",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-control",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Mordor",
+      "tradition": "Tolkien",
+      "description": "Industrial dystopia; a system optimized for control at the cost of all else"
+    },
+    {
+      "slug": "shire",
+      "name": "The Shire",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "technology-risk",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/The_Shire",
+      "tradition": "Tolkien",
+      "description": "The pastoral ideal threatened by progress; what we fight to protect but cannot return to unchanged"
+    },
+    {
+      "slug": "necromancy",
+      "name": "Necromancy",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": [
+        "mythology-and-religion",
+        "computer-science"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Necromancy",
+      "tradition": "Medieval/fantasy",
+      "description": "Reviving dead code, projects, companies, or ideas; maintaining zombie systems"
+    },
+    {
+      "slug": "damocles-sword",
+      "name": "Damocles' sword",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "technology-risk",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Damocles",
+      "tradition": "Greek",
+      "description": "Ever-present danger that comes with power or privilege; existential risk"
+    },
+    {
+      "slug": "gordian-knot",
+      "name": "Gordian knot",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Gordian_Knot",
+      "tradition": "Greek",
+      "description": "An intractable problem solved by bold, unconventional action rather than analysis"
+    },
+    {
+      "slug": "pyrrhic-victory",
+      "name": "Pyrrhic victory",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "economics",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Pyrrhic_victory",
+      "tradition": "Greek",
+      "description": "A victory that costs so much it is effectively a defeat"
+    },
+    {
+      "slug": "procrustean-bed",
+      "name": "Procrustean bed",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-control",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Procrustes",
+      "tradition": "Greek",
+      "description": "Forcing conformity to an arbitrary standard; one-size-fits-all approaches"
+    },
+    {
+      "slug": "augean-stables",
+      "name": "Augean stables",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Augean_stables",
+      "tradition": "Greek",
+      "description": "Massive accumulated mess requiring radical rather than incremental cleanup"
+    },
+    {
+      "slug": "cerberus",
+      "name": "Cerberus",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "software-programs",
+      "categories": [
+        "mythology-and-religion",
+        "computer-science"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Cerberus",
+      "tradition": "Greek",
+      "description": "A fierce gatekeeper; authentication/access control systems (Kerberos protocol)"
+    },
+    {
+      "slug": "elysium",
+      "name": "Elysium",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Elysium",
+      "tradition": "Greek",
+      "description": "An ideal state or place; utopian aspiration"
+    },
+    {
+      "slug": "pandemonium",
+      "name": "Pandemonium",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "destruction",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Pandemonium_(Paradise_Lost)",
+      "tradition": "Christian/Milton",
+      "description": "Complete chaos and disorder; originally a place-name, now a state of being"
+    },
+    {
+      "slug": "scylla-and-charybdis",
+      "name": "Scylla and Charybdis",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "technology-risk",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Between_Scylla_and_Charybdis",
+      "tradition": "Greek",
+      "description": "Being forced to choose between two equally dangerous options"
+    },
+    {
+      "slug": "tantalus",
+      "name": "Tantalus",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "mental-experience",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Tantalus",
+      "tradition": "Greek",
+      "description": "Perpetual temptation without satisfaction; 'tantalizing'"
+    },
+    {
+      "slug": "sphinx-riddle",
+      "name": "Sphinx riddle",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Sphinx",
+      "tradition": "Greek/Egyptian",
+      "description": "A test that must be passed to proceed; gatekeeping through intellectual challenge"
+    },
+    {
+      "slug": "trojan-war",
+      "name": "Trojan War",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Trojan_War",
+      "tradition": "Greek",
+      "description": "Disproportionate conflict triggered by a seemingly minor cause"
+    },
+    {
+      "slug": "faustian-bargain",
+      "name": "Faustian bargain",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "economics",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Faust",
+      "tradition": "Germanic/Christian",
+      "description": "Trading long-term well-being for short-term gain; deals with moral cost"
+    },
+    {
+      "slug": "pied-piper",
+      "name": "Pied Piper",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "mental-experience",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin",
+      "tradition": "Germanic folklore",
+      "description": "Charismatic leader who attracts followers but whose true agenda is hidden or harmful"
+    },
+    {
+      "slug": "ouroboros",
+      "name": "Ouroboros",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "social-behavior",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "archive_url": "https://en.wikipedia.org/wiki/Ouroboros",
+      "tradition": "Egyptian/Greek",
+      "description": "Self-referential loops; infinite recursion; something that consumes itself to sustain itself"
+    }
+  ]
+}
