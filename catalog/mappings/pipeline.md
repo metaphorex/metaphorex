@@ -14,7 +14,6 @@ contributors: []
 related:
   - the-pipeline-pattern
   - bottleneck
-  - data-stream
 ---
 
 ## What It Brings
