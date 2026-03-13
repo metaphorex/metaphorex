@@ -2,7 +2,7 @@
 slug: fine-tuning-is-specialization
 name: "Fine-Tuning Is Specialization"
 kind: conceptual-metaphor
-source_frame: manufacturing
+source_frame: music
 target_frame: artificial-intelligence
 categories:
   - ai-discourse
