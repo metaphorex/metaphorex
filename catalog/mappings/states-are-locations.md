@@ -1,20 +1,21 @@
 ---
-slug: states-are-locations
-name: "States Are Locations"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: States Are Locations
+related:
+- existence-is-a-location
+- action-is-motion
+- love-is-a-journey
+slug: states-are-locations
 source_frame: journeys
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - existence-is-a-location
-  - action-is-motion
-  - love-is-a-journey
 ---
 
 ## What It Brings

@@ -1,17 +1,18 @@
 ---
-slug: the-prototype-pattern
-name: "The Prototype Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
 kind: archetype
+name: The Prototype Pattern
+related:
+- the-factory-pattern
+- the-abstract-factory-pattern
+- the-builder-pattern
+slug: the-prototype-pattern
 source_frame: manufacturing
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-factory-pattern
-  - the-abstract-factory-pattern
-  - the-builder-pattern
 ---
 
 ## What It Brings

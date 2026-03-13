@@ -1,18 +1,19 @@
 ---
-slug: love-is-madness
-name: "Love Is Madness"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: Love Is Madness
+related:
+- love-is-a-journey
+- love-is-a-unity
+slug: love-is-madness
 source_frame: embodied-experience
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - love-is-a-journey
-  - love-is-a-unity
 ---
 
 ## What It Brings

@@ -1,20 +1,21 @@
 ---
-slug: ideas-are-objects
-name: "Ideas Are Objects"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Objects
+related:
+- the-conduit-metaphor
+- ideas-are-people
+- ideas-are-light-sources
+slug: ideas-are-objects
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-conduit-metaphor
-  - ideas-are-people
-  - ideas-are-light-sources
 ---
 
 ## What It Brings

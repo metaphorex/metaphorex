@@ -1,19 +1,20 @@
 ---
-slug: zombie-process
-name: "Zombie Process"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- systems-thinking
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Zombie Process
+related:
+- software-rot
+- bus-factor
+- orphan-process
+slug: zombie-process
 source_frame: mythology
 target_frame: software-programs
-categories:
-  - software-engineering
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - software-rot
-  - bus-factor
-  - orphan-process
 ---
 
 ## What It Brings
