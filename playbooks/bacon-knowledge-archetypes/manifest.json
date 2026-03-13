@@ -1,0 +1,144 @@
+{
+  "project": "bacon-knowledge-archetypes",
+  "project_issue": 971,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://oll.libertyfund.org/titles/bacon-novum-organum",
+    "https://en.wikipedia.org/wiki/Novum_Organum",
+    "https://history.hanover.edu/texts/bacon/novorg.html",
+    "https://plato.stanford.edu/entries/francis-bacon/",
+    "https://fs.blog/francis-bacon-four-idols-mind/"
+  ],
+  "candidates": [
+    {
+      "slug": "ant-is-pure-empiricist",
+      "name": "The Ant Is the Pure Empiricist",
+      "kind": "archetype",
+      "source_frame": "animal-behavior",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "philosophy",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "novum_organum": "Book I, Aphorism XCV",
+        "liberty_fund": "https://oll.libertyfund.org/titles/bacon-novum-organum",
+        "wikipedia": "https://en.wikipedia.org/wiki/Novum_Organum"
+      },
+      "description": "The ant collects and stores without transforming. Bacon's archetype for pure empiricism: data accumulation without synthesis. Maps onto data hoarding, measurement without theory, the researcher who gathers endlessly but never publishes. The critique is that collection without transformation is not yet knowledge."
+    },
+    {
+      "slug": "spider-is-pure-rationalist",
+      "name": "The Spider Is the Pure Rationalist",
+      "kind": "archetype",
+      "source_frame": "animal-behavior",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "philosophy",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "novum_organum": "Book I, Aphorism XCV",
+        "liberty_fund": "https://oll.libertyfund.org/titles/bacon-novum-organum",
+        "wikipedia": "https://en.wikipedia.org/wiki/Novum_Organum"
+      },
+      "description": "The spider spins webs from its own substance. Bacon's archetype for pure rationalism: theory-building from first principles without empirical grounding. Maps onto armchair philosophy, unfalsifiable frameworks, the theorist who never tests. Elegant but disconnected from reality."
+    },
+    {
+      "slug": "honeybee-is-ideal-scientist",
+      "name": "The Honeybee Is the Ideal Scientist",
+      "kind": "archetype",
+      "source_frame": "animal-behavior",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "philosophy",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "novum_organum": "Book I, Aphorism XCV",
+        "liberty_fund": "https://oll.libertyfund.org/titles/bacon-novum-organum",
+        "wikipedia": "https://en.wikipedia.org/wiki/Novum_Organum"
+      },
+      "description": "The bee gathers from the world AND transforms through digestion. Bacon's ideal: empirical collection plus rational synthesis. Maps onto the scientific method itself, design thinking (research + prototyping), curation (selection + arrangement), and ML pipelines (data collection + model training). The most productive of the three archetypes because it names the integration that makes knowledge."
+    },
+    {
+      "slug": "idols-of-the-tribe",
+      "name": "Idols of the Tribe",
+      "kind": "conceptual-metaphor",
+      "source_frame": "religion",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "philosophy",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "novum_organum": "Book I, Aphorisms XXXIX and XLI",
+        "liberty_fund": "https://oll.libertyfund.org/titles/bacon-novum-organum",
+        "fs_blog": "https://fs.blog/francis-bacon-four-idols-mind/"
+      },
+      "description": "The mind as 'false mirror' -- systematic distortions built into human nature itself. Bacon's term for what we now call cognitive biases. The tribe is the human species; these idols afflict everyone. Anticipates confirmation bias, anchoring, and the availability heuristic by 350 years."
+    },
+    {
+      "slug": "idols-of-the-cave",
+      "name": "Idols of the Cave",
+      "kind": "conceptual-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "philosophy",
+        "cognitive-science",
+        "psychology"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "novum_organum": "Book I, Aphorisms XXXIX and XLII",
+        "liberty_fund": "https://oll.libertyfund.org/titles/bacon-novum-organum",
+        "fs_blog": "https://fs.blog/francis-bacon-four-idols-mind/",
+        "plato_allusion": "Explicit reference to Plato's cave allegory"
+      },
+      "description": "Each person's private 'cave or den' that refracts the light of nature. Individual biases from temperament, education, and habit. Bacon deliberately echoes Plato's cave allegory but personalizes it: not humanity trapped in one cave, but each person trapped in their own. Maps onto filter bubbles, specialization blindness, and the curse of expertise."
+    },
+    {
+      "slug": "idols-of-the-marketplace",
+      "name": "Idols of the Marketplace",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "language",
+      "categories": [
+        "philosophy",
+        "linguistics",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "novum_organum": "Book I, Aphorisms XXXIX and XLIII",
+        "liberty_fund": "https://oll.libertyfund.org/titles/bacon-novum-organum",
+        "fs_blog": "https://fs.blog/francis-bacon-four-idols-mind/"
+      },
+      "description": "Language distorts thought through 'the ill and unfit choice of words.' The marketplace is where people trade words as commerce; imprecise terms 'force and overrule the understanding.' Anticipates the Sapir-Whorf hypothesis, Wittgenstein's language games, and modern concerns about jargon, buzzwords, and euphemism as cognitive obstacles."
+    },
+    {
+      "slug": "idols-of-the-theatre",
+      "name": "Idols of the Theatre",
+      "kind": "conceptual-metaphor",
+      "source_frame": "narrative",
+      "target_frame": "intellectual-inquiry",
+      "categories": [
+        "philosophy",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "archive_refs": {
+        "novum_organum": "Book I, Aphorisms XXXIX and XLIV",
+        "liberty_fund": "https://oll.libertyfund.org/titles/bacon-novum-organum",
+        "fs_blog": "https://fs.blog/francis-bacon-four-idols-mind/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Idola_theatri"
+      },
+      "description": "Received philosophical systems as 'stage plays, representing worlds of their own creation after an unreal and scenic fashion.' Dogma as performance. Maps onto paradigm lock-in, cargo cult science, and the way intellectual fashions ossify into orthodoxy. The theatrical metaphor implies that the audience mistakes the performance for reality."
+    }
+  ]
+}
