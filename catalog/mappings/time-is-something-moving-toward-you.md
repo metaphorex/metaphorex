@@ -2,7 +2,7 @@
 slug: time-is-something-moving-toward-you
 name: "Time Is Something Moving Toward You"
 kind: conceptual-metaphor
-source_frame: physics
+source_frame: physical-objects
 target_frame: time-and-temporality
 categories:
   - cognitive-science
