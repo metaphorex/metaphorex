@@ -11,6 +11,7 @@ author: fshot
 contributors: []
 related:
   - creative-process-is-gardening
+  - creating-is-making
 ---
 
 ## What It Brings
