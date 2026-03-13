@@ -8,7 +8,8 @@ categories:
   - linguistics
   - software-engineering
   - systems-thinking
-author: fshot
+author: agent:fshot
+harness: "Claude Code"
 contributors: []
 related: []
 ---
