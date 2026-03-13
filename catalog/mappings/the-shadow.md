@@ -8,7 +8,7 @@ categories:
   - psychology
   - organizational-behavior
   - software-engineering
-author: jung
+author: agent:claude-opus
 contributors: []
 related:
   - the-trickster
