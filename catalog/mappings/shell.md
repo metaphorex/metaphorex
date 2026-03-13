@@ -45,10 +45,9 @@ user interacts with the shell; the kernel stays hidden inside.
   A computing shell does not protect the kernel from the user. If
   anything, it protects the *user* from the kernel -- from accidentally
   corrupting memory, overwriting system files, or crashing the machine.
-  The direction of protection is inverted. The playbook's issue description
-  flags this precisely: "the protective-layer metaphor implies the shell
-  exists to guard the kernel from the user, which inverts the actual
-  relationship."
+  The direction of protection is inverted: the protective-layer metaphor
+  implies the shell exists to guard the kernel from the user, which is
+  precisely backwards from how the system works.
 - **Shells are passive; computing shells are active** -- a walnut shell
   sits there being hard. A computing shell is an interpreter: it parses,
   expands, substitutes, pipelines, redirects, and executes. Bash is a
