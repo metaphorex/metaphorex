@@ -201,12 +201,12 @@ def survey(repo: str) -> dict:
         }
         if "needs-rework" in label_names:
             needs_rework.append(entry)
-        elif "in-progress" not in label_names:
-            needs_prospecting.append(entry)
         elif "surveyed" in label_names:
             prospected_projects.append(entry)
-        else:
+        elif "in-progress" in label_names:
             needs_survey.append(entry)
+        else:
+            needs_prospecting.append(entry)
 
     # Sort each bucket so priority:high items come first
     for bucket in (needs_rework, needs_prospecting, prospected_projects, needs_survey):
