@@ -3,7 +3,7 @@ slug: lustful-person-is-an-animal
 name: "Lustful Person Is an Animal"
 kind: conceptual-metaphor
 source_frame: animal-behavior
-target_frame: love-and-relationships
+target_frame: mental-experience
 categories:
   - cognitive-science
   - linguistics
