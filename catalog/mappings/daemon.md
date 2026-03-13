@@ -7,7 +7,8 @@ target_frame: computing
 categories:
   - linguistics
   - software-engineering
-author: fshot
+author: agent:fshot
+harness: "Claude Code"
 contributors: []
 related:
   - zombie-process
