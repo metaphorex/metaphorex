@@ -2,7 +2,7 @@
 slug: love-is-magic
 name: "Love Is Magic"
 kind: conceptual-metaphor
-source_frame: mythology
+source_frame: magic
 target_frame: love-and-relationships
 categories:
   - cognitive-science
