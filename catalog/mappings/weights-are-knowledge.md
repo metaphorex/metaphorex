@@ -8,6 +8,7 @@ categories:
   - ai-discourse
   - cognitive-science
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - neural-network-is-a-brain
