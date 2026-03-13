@@ -1,18 +1,19 @@
 ---
-slug: love-is-a-collaborative-work-of-art
-name: "Love Is a Collaborative Work of Art"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Love Is a Collaborative Work of Art
+related:
+- love-is-a-journey
+- love-is-a-unity
+slug: love-is-a-collaborative-work-of-art
 source_frame: creative-process
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-a-journey
-  - love-is-a-unity
 ---
 
 ## What It Brings

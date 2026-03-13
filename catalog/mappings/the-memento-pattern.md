@@ -1,16 +1,17 @@
 ---
-slug: the-memento-pattern
-name: "The Memento Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
 kind: archetype
+name: The Memento Pattern
+related:
+- the-command-pattern
+- the-state-pattern
+slug: the-memento-pattern
 source_frame: social-roles
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-command-pattern
-  - the-state-pattern
 ---
 
 ## What It Brings

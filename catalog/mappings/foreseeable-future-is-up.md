@@ -1,19 +1,20 @@
 ---
-slug: foreseeable-future-is-up
-name: "Foreseeable Future Events Are Up (and Ahead)"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Foreseeable Future Events Are Up (and Ahead)
+related:
+- happy-is-up
+- more-is-up
+- having-control-is-up
+slug: foreseeable-future-is-up
 source_frame: embodied-experience
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - happy-is-up
-  - more-is-up
-  - having-control-is-up
 ---
 
 ## What It Brings

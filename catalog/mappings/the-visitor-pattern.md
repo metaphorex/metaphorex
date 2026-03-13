@@ -1,17 +1,18 @@
 ---
-slug: the-visitor-pattern
-name: "The Visitor Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: archetype
+name: The Visitor Pattern
+related:
+- the-observer-pattern
+- the-strategy-pattern
+slug: the-visitor-pattern
 source_frame: social-roles
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-observer-pattern
-  - the-strategy-pattern
 ---
 
 ## What It Brings

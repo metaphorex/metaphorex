@@ -1,18 +1,19 @@
 ---
-slug: the-gateway-pattern
-name: "The Gateway Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: archetype
+name: The Gateway Pattern
+related:
+- the-facade-pattern
+- the-repository-pattern
+- firewall
+slug: the-gateway-pattern
 source_frame: architecture-and-building
 target_frame: software-abstraction
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-facade-pattern
-  - the-repository-pattern
-  - firewall
 ---
 
 ## What It Brings

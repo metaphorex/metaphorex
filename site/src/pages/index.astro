@@ -1,19 +1,26 @@
 ---
 import Base from "@/layouts/Base.astro";
 import { getCollection } from "astro:content";
+import fs from "node:fs";
 
 const mappings = await getCollection("mappings");
 const frames = await getCollection("frames");
 const categories = await getCollection("categories");
 
-const recent = mappings
-  .sort((a, b) => a.data.name.localeCompare(b.data.name))
+const withMtime = mappings.map((m) => {
+  const filePath = `src/content/mappings/${m.id}.md`;
+  const mtime = fs.statSync(filePath).mtimeMs;
+  return { ...m, mtime };
+});
+
+const recent = withMtime
+  .sort((a, b) => b.mtime - a.mtime)
   .slice(0, 10);
 ---
 
 <Base title="Home">
   <h1>Metaphorex</h1>
-  <p>A knowledge graph of metaphors — how we borrow structure from one domain to understand another.</p>
+  <p>A materials library of load-bearing metaphors and other useful abstractions.</p>
 
   <h2>Corpus</h2>
   <p>
@@ -29,7 +36,7 @@ const recent = mappings
     <li><a href="/categories/">All categories</a> — cross-cutting taxonomy</li>
   </ul>
 
-  <h2>Sample Mappings</h2>
+  <h2>Latest Entries</h2>
   <ul class="entry-list">
     {recent.map((m) => (
       <li>

@@ -1,17 +1,18 @@
 ---
-slug: main-entrance
-name: "Main Entrance"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Main Entrance
+related:
+- the-facade-pattern
+- a-place-to-wait
+slug: main-entrance
 source_frame: architecture-and-building
 target_frame: software-abstraction
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-facade-pattern
-  - a-place-to-wait
 ---
 
 ## What It Brings

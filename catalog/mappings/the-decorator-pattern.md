@@ -1,15 +1,16 @@
 ---
-slug: the-decorator-pattern
-name: "The Decorator Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
 kind: archetype
+name: The Decorator Pattern
+related:
+- the-facade-pattern
+slug: the-decorator-pattern
 source_frame: architecture-and-building
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-facade-pattern
 ---
 
 ## What It Brings

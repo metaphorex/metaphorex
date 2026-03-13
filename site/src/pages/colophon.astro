@@ -1,0 +1,97 @@
+---
+import Base from "@/layouts/Base.astro";
+---
+
+<Base title="Colophon" description="How Metaphorex is built, why it exists, and how to contribute">
+  <article>
+    <h1>Colophon</h1>
+
+    <h2>What Is This</h2>
+    <p>
+      Metaphorex is a materials library for useful abstractions.  More concretely,
+      it's a knowledge graph of metaphors, guided by humans but written mostly by 
+      LLMs. Each entry maps a source domain onto a target domain, documents what 
+      the metaphor illuminates, where it breaks down, and how it surfaces in everyday
+      language.
+    </p>
+
+    <h2>Goals</h2>
+    <ul>
+      <li>Catalog metaphors across all fields of human knowledge</li>
+      <li>Build tooling to sharpen design intuition — while that still matters</li>
+      <li>Use the project itself as a lab for human + AI collaboration</li>
+      <li>Stay open, stay cheap</li>
+    </ul>
+
+    <h2>Non-Goals</h2>
+    <ul>
+      <li>Perfect taxonomy</li>
+    </ul>
+
+    <h2>How It's Built</h2>
+    <p>
+      Every entry is a Markdown file with YAML frontmatter, stored in a
+      <a href="https://github.com/metaphorex/metaphorex">GitHub repository</a>.
+      GitHub is the CMS: pull requests are drafts, merged is published.
+    </p>
+    <p>
+      A team of <a href="/agents/">AI agents</a> extracts and refines content
+      from books, papers, and corpora. Humans direct the work, review every
+      PR, and make editorial decisions. The <code>harness</code> field in
+      frontmatter records which tool generated the prose; the
+      <code>contributors</code> field records who directed the framing.
+    </p>
+    <p>
+      The site is built with <a href="https://astro.build">Astro</a> and
+      deployed to GitHub Pages. Search is powered by
+      <a href="https://pagefind.app">Pagefind</a>.  Initial framework and
+      content built with Claude Code & Anthropic models.
+    </p>
+
+    <h2>Inspiration & Acknowledgements</h2>
+    <ul>
+      <li>George Lakoff &amp; Mark Johnson, <a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html"><cite>Metaphors We Live By</cite></a></li>
+      <li>David Bessis, <a href="https://yalebooks.yale.edu/book/9780300283280/mathematica/"><cite>Mathematica: A Secret World of Intuition and Curiosity</cite></a></li>
+      <li><a href="https://claude.com/product/claude-code">Claude Code</a></li>
+      <li><a href="https://tvtropes.org/">TV Tropes</a></li>
+      <li><a href="https://en.wikipedia.org/">Wikipedia</a></li>
+      <li><a href="https://www.are.na/">Are.na</a></li>
+      <li><a href="https://cari.institute/">Consumer Aesthetics Research Institute</a></li>
+      <li><a href="https://c2.com/ppr/">Portland Pattern Repository</a></li>
+      <li><a href="https://www.discogs.com/">Discogs</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Dungeon_Masters_Guide"><cite>AD&amp;D Dungeon Master's Guide</cite></a></li>
+    </ul>
+
+    <h2>Contributing</h2>
+    <p>
+      Contributions are welcome. The easiest way to start:
+    </p>
+    <ul>
+      <li>
+        <strong>Drop a metaphor</strong> — file a
+        <a href="https://github.com/metaphorex/metaphorex/issues/new?template=nugget.yml">nugget issue</a>
+        with a metaphor you noticed. Agents will expand it into a full entry.
+      </li>
+      <li>
+        <strong>Propose a source</strong> — file an
+        <a href="https://github.com/metaphorex/metaphorex/issues/new?template=import-project.yml">import project issue</a>
+        to mine a book, paper, or corpus for metaphors.
+      </li>
+      <li>
+        <strong>Edit an entry</strong> — open a PR on any of the catalog content, and improve
+        it with examples from your field, additional references, insights in 'what it brings'
+        and 'where it breaks'.
+      </li>
+      <li>
+        <strong>Port the agents</strong> — the pipeline is built as a
+        <a href="https://github.com/metaphorex/metaphorex/tree/main/.claude">Claude Code plugin</a>,
+        but the content is just Markdown. Adapt it for
+        OpenCode, Gemini, Codex, Cursor, or whatever you use.
+      </li>
+    </ul>
+    <p>
+      See <a href="https://github.com/metaphorex/metaphorex/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>
+      for full guidelines.
+    </p>
+  </article>
+</Base>

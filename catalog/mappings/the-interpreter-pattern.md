@@ -1,18 +1,19 @@
 ---
-slug: the-interpreter-pattern
-name: "The Interpreter Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- linguistics
+contributors:
+- fshot
+harness: Claude Code
 kind: archetype
+name: The Interpreter Pattern
+related:
+- the-iterator-pattern
+- the-command-pattern
+slug: the-interpreter-pattern
 source_frame: social-roles
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-iterator-pattern
-  - the-command-pattern
 ---
 
 ## What It Brings

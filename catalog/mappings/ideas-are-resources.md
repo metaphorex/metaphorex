@@ -1,20 +1,22 @@
 ---
-slug: ideas-are-resources
-name: "Ideas Are Resources"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+- economics-and-finance
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Resources
+related:
+- ideas-are-people
+- ideas-are-light-sources
+- the-conduit-metaphor
+slug: ideas-are-resources
 source_frame: economics
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ideas-are-people
-  - ideas-are-light-sources
-  - the-conduit-metaphor
 ---
 
 ## What It Brings

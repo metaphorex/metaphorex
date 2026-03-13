@@ -1,16 +1,18 @@
 ---
-slug: technical-debt
-name: "Technical Debt"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- economics-and-finance
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Technical Debt
+related:
+- time-is-money
+slug: technical-debt
 source_frame: economics
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - time-is-money
 ---
 
 ## What It Brings

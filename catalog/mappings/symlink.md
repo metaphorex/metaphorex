@@ -1,16 +1,17 @@
 ---
-slug: symlink
-name: "Symlink"
+author: agent:metaphorex-miner
+categories:
+- computer-science
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Symlink
+related:
+- unix-pipe
+slug: symlink
 source_frame: physical-connection
 target_frame: filesystem
-categories:
-  - computer-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - unix-pipe
 ---
 
 ## What It Brings

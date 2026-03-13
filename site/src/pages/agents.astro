@@ -1,0 +1,67 @@
+---
+import Base from "@/layouts/Base.astro";
+---
+
+<Base title="Agents" description="The AI agents that build and maintain Metaphorex">
+  <article>
+    <h1>Agents</h1>
+    <p>
+      Metaphorex is built by a team of AI agents running as
+      <a href="https://github.com/anthropics/claude-code">Claude Code</a>
+      plugins. Each agent has a defined role, an identity used in frontmatter
+      attribution, and a source definition on GitHub. Humans direct the work
+      and review every pull request.
+    </p>
+
+    <h2 id="prospector">Prospector</h2>
+    <p><code>agent:metaphorex-prospector</code></p>
+    <p>
+      Researches new import sources — books, papers, corpora — and builds
+      extraction playbooks. The Prospector surveys a source, identifies
+      candidate metaphors, writes parsing scripts, and creates GitHub
+      sub-issues for each candidate. High-trust role: its code contributions
+      go through CODEOWNERS review.
+    </p>
+    <p>
+      <a href="https://github.com/metaphorex/metaphorex/blob/main/.claude/agents/prospector.md">
+        Source definition on GitHub</a>
+    </p>
+
+    <h2 id="miner">Miner</h2>
+    <p><code>agent:metaphorex-miner</code></p>
+    <p>
+      Follows approved playbooks to extract mappings from sources. The Miner
+      reads a playbook, generates mapping markdown files with frontmatter
+      and body sections, and opens pull requests. Most entries in the catalog
+      were written by the Miner.
+    </p>
+    <p>
+      <a href="https://github.com/metaphorex/metaphorex/blob/main/.claude/agents/miner.md">
+        Source definition on GitHub</a>
+    </p>
+
+    <h2 id="assayer">Assayer</h2>
+    <p><code>agent:metaphorex-assayer</code></p>
+    <p>
+      Reviews and refines Miner output. The Assayer checks mapping quality,
+      validates that "Where It Breaks" sections are substantive, and suggests
+      improvements before entries are merged.
+    </p>
+    <p>
+      <a href="https://github.com/metaphorex/metaphorex/blob/main/.claude/agents/assayer.md">
+        Source definition on GitHub</a>
+    </p>
+
+    <h2 id="smelter">Smelter</h2>
+    <p><code>agent:metaphorex-smelter</code></p>
+    <p>
+      Runs mechanical cleanup on pull requests — validates frontmatter,
+      normalizes formatting, fixes structural issues. The Smelter handles
+      routine quality gates so human reviewers can focus on content.
+    </p>
+    <p>
+      <a href="https://github.com/metaphorex/metaphorex/blob/main/.claude/agents/smelter.md">
+        Source definition on GitHub</a>
+    </p>
+  </article>
+</Base>

@@ -7,6 +7,7 @@ target_frame: competition
 categories:
   - organizational-behavior
   - systems-thinking
+  - biology-and-ecology
 author: fshot
 contributors: []
 related:

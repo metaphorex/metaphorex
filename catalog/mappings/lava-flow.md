@@ -1,17 +1,18 @@
 ---
-slug: lava-flow
-name: "Lava Flow"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: dead-metaphor
+name: Lava Flow
+related:
+- technical-debt
+- spaghetti-code
+slug: lava-flow
 source_frame: natural-phenomena
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - technical-debt
-  - spaghetti-code
 ---
 
 ## What It Brings
