@@ -1,17 +1,17 @@
 ---
-author: agent:metaphorex-miner
-categories:
-- philosophy
-- cognitive-science
-contributors: []
-created: '2026-03-13'
-kind: archetype
-name: The Ant Is the Pure Empiricist
-related: []
 slug: ant-is-pure-empiricist
+name: "The Ant Is the Pure Empiricist"
+kind: archetype
 source_frame: animal-behavior
 target_frame: intellectual-inquiry
-updated: '2026-03-13'
+categories:
+  - philosophy
+  - cognitive-science
+author: agent:metaphorex-miner
+contributors: []
+related:
+  - spider-is-pure-rationalist
+  - honeybee-is-ideal-scientist
 ---
 
 ## What It Brings
