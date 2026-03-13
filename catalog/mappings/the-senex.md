@@ -7,7 +7,7 @@ target_frame: authority-and-mentorship
 categories:
   - psychology
   - organizational-behavior
-author: jung-hillman
+author: agent:metaphorex-miner
 contributors: []
 related:
   - the-trickster
