@@ -2,7 +2,7 @@
 slug: personality-is-material
 name: "Personality Is Material"
 kind: conceptual-metaphor
-source_frame: manufacturing
+source_frame: materials
 target_frame: mental-experience
 categories:
   - cognitive-science
