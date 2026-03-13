@@ -200,6 +200,14 @@ current commit hash.
 - For archive-type projects: the candidate list should be EXHAUSTIVE relative
   to the archive. Missing known entries is worse than including marginal ones.
 
+**GitHub Sub-Issue Cap Awareness:**
+
+GitHub limits native sub-issues to 100 per parent issue. For archive-type
+projects with 100+ candidates, note in the playbook's Gotchas section that
+the Surveyor will need to handle the overflow (batch parent issues or
+body-text fallback linkage). This is NOT your problem to solve — just flag
+it so the Surveyor knows in advance.
+
 **What You Don't Do:**
 
 - You don't create sub-issues (pitboss does that after Surveyor approval)

@@ -81,13 +81,31 @@ final step — it gates issue creation on verified data.
 
 For each candidate in `manifest.json`:
 1. Create an issue titled `[<project-name>] <slug>`
-2. Body: slug, kind, source_frame, target_frame, description
+2. Body: slug, kind, source_frame, target_frame, description.
+   Include "Sub-issue of #N" (where N is the parent issue number) in the
+   body so the survey script can detect parentage even without native linkage.
 3. Label: `import-project`
 4. Set native GitHub parent using GraphQL `addSubIssue` mutation:
    ```bash
    gh api graphql -f query='mutation { addSubIssue(input: { issueId: "<PARENT_NODE_ID>", subIssueId: "<CHILD_NODE_ID>" }) { subIssue { number } } }'
    ```
 5. Add the `surveyed` label to the parent import-project issue
+
+**Handling the 100 Sub-Issue Cap:**
+
+GitHub limits native sub-issues to 100 per parent. When `addSubIssue` fails
+with an error mentioning the cap:
+
+1. **Log a warning** to the user: "Hit GitHub 100 sub-issue limit on #N."
+2. **Continue creating remaining issues anyway** — just skip the
+   `addSubIssue` call for them. The body-text "Sub-issue of #N" line ensures
+   the survey script still detects them as children of the parent project.
+3. If more than ~20 issues would be orphaned, **create a batch parent issue**
+   titled "Import project: <name> (batch 2)" with label `import-project` and
+   body "Overflow batch for #N — GitHub caps native sub-issues at 100."
+   Link subsequent sub-issues to this new batch parent instead.
+4. Comment on the original parent issue noting the overflow:
+   "Created batch 2 parent #M for candidates beyond the 100 sub-issue cap."
 
 **Review Format:**
 
