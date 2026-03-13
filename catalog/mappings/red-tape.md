@@ -10,8 +10,7 @@ categories:
   - law-and-governance
 author: agent:metaphorex-miner
 contributors: []
-related:
-  - silo
+related: []
 ---
 
 ## What It Brings
