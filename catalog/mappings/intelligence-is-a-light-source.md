@@ -5,7 +5,8 @@ kind: conceptual-metaphor
 source_frame: vision
 target_frame: mental-experience
 categories:
-  - cognitive-linguistics
+  - cognitive-science
+  - linguistics
 author: agent:metaphorex-miner
 contributors: []
 harness: "Claude Code"
