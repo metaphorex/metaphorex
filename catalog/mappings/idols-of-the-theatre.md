@@ -2,7 +2,7 @@
 slug: idols-of-the-theatre
 name: "Idols of the Theatre"
 kind: paradigm
-source_frame: narrative
+source_frame: theatre
 target_frame: intellectual-inquiry
 categories:
   - philosophy
@@ -106,35 +106,28 @@ Key structural parallels:
 
 ## Expressions
 
-- "Idols of the theatre" in Popper's falsificationism -- Popper's
-  insistence that genuine science must be falsifiable echoes Bacon's
-  critique directly: a system that cannot be disproved is a stage
-  play, not an investigation. Popper cited Bacon as a forerunner and
-  treated Marxism and Freudianism as modern idols of the theatre --
-  internally coherent systems that explain everything and predict
-  nothing.
-- Kuhn's paradigm shifts as idol-smashing -- Kuhn's *Structure of
-  Scientific Revolutions* (1962) describes exactly the process Bacon
-  diagnosed: a community becomes so committed to its theoretical
-  framework that anomalies are ignored or explained away until the
-  framework collapses. Kuhn's "paradigm" is the modern technical term
-  for what Bacon called a theatrical world of its own creation.
-- "Cargo cult science" -- Feynman's 1974 Caltech commencement address
-  updated the idol-of-the-theatre critique for experimental science:
-  researchers who follow the outward forms of scientific method
-  without the substance are performing a ritual, not conducting
-  inquiry. The phrase has become standard in philosophy of science
-  and science education.
-- "Received view" in philosophy of science -- the mid-twentieth-century
-  label for logical positivism's standard account of scientific
-  theories. Calling it the "received view" carries the Baconian
-  implication: this is doctrine handed down through institutional
-  authority, not knowledge earned through investigation.
-- Modern invocations in science education -- textbooks on critical
-  thinking and scientific literacy regularly invoke "idols of the
-  theatre" to warn students against uncritical acceptance of
-  established theories, treating Bacon's taxonomy as a foundational
-  framework for intellectual self-defense.
+- "all the received systems are but so many stage-plays, representing
+  worlds of their own creation after an unreal and scenic fashion" --
+  Bacon's foundational formulation in *Novum Organum* (1620), Aphorism
+  XLIV, the passage that establishes the theatrical metaphor
+- "idols of the theatre, or of theories" -- Bacon's own gloss,
+  clarifying that "theatre" refers to philosophical systems inherited
+  through dogmatic tradition
+- "Bacon, the first great idol-smasher in the modern era" -- Popper
+  in *Conjectures and Refutations* (1963), acknowledging Bacon as a
+  predecessor in the project of distinguishing genuine knowledge from
+  impressive-looking systems
+- "the received view" -- the standard mid-twentieth-century label for
+  logical positivism's account of scientific theories, coined with
+  the Baconian implication that doctrine handed down through
+  institutional authority is not knowledge earned through investigation
+- "cargo cult science" -- Feynman's 1974 Caltech commencement address,
+  updating the idols-of-the-theatre critique: "they follow all the
+  apparent precepts and forms of scientific investigation, but they're
+  missing something essential"
+- "received wisdom" / "received doctrine" -- the theatre-idol lineage
+  naturalized into everyday academic usage, where "received" signals
+  that an idea's authority comes from transmission rather than evidence
 
 ## Origin Story
 
