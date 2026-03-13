@@ -2,7 +2,7 @@
 slug: intoxication-is-becoming-electrified
 name: "Intoxication Is Becoming Electrified"
 kind: conceptual-metaphor
-source_frame: physics
+source_frame: electricity
 target_frame: mental-experience
 categories:
   - cognitive-science
