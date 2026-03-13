@@ -2,7 +2,7 @@
 slug: morality-is-cleanliness
 name: "Morality Is Cleanliness"
 kind: conceptual-metaphor
-source_frame: embodied-experience
+source_frame: cleanliness
 target_frame: ethics-and-morality
 categories:
   - cognitive-science
