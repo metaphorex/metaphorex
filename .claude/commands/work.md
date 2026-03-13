@@ -63,11 +63,13 @@ so the user sees progress.
      "Re-prospecting...", then dispatch `metaphorex-agents:prospector`
      with model `opus` for the first `needs_rework` item. Higher priority
      than fresh prospecting — these were already attempted and rejected.
-   - **Prospecting** — if `prospected_projects` count < 2 AND
-     `needs_prospecting` is non-empty: TaskCreate "Prospecting...", then
-     dispatch `metaphorex-agents:prospector` with model `opus`.
-     Always runs in parallel with other work. The goal is to maintain a
-     buffer of ≥2 prospected projects so mining never stalls.
+   - **Prospecting** — if `needs_prospecting` is non-empty AND
+     (`unclaimed` is empty OR `prospected_projects` count < 2):
+     TaskCreate "Prospecting...", then dispatch
+     `metaphorex-agents:prospector` with model `opus`.
+     Always runs in parallel with other work. Prospect when mining has
+     run dry (no unclaimed work) OR when the buffer of prospected
+     projects is dangerously low (< 2).
 
    **Priority ordering:** The survey script sorts every work bucket so
    `priority:high` items appear first. When dispatching agents, pass items
