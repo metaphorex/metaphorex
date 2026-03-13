@@ -3,7 +3,7 @@ slug: lustful-person-is-an-activated-machine
 name: "Lustful Person Is an Activated Machine"
 kind: conceptual-metaphor
 source_frame: manufacturing
-target_frame: love-and-relationships
+target_frame: mental-experience
 categories:
   - cognitive-science
   - linguistics
