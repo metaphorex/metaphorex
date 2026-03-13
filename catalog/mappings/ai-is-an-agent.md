@@ -9,7 +9,6 @@ categories:
   - philosophy
   - software-engineering
 author: agent:metaphorex-miner
-harness: "Claude Code"
 contributors: []
 related:
   - ai-is-a-tool
