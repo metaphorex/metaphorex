@@ -1,0 +1,64 @@
+{
+  "project": "patterns-of-software",
+  "project_issue": 898,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://dreamsongs.com/Files/PatternsOfSoftware.pdf",
+    "https://akkartik.name/post/habitability",
+    "https://norswap.com/patterns-of-software/"
+  ],
+  "candidates": [
+    {
+      "slug": "software-habitability",
+      "name": "Software Habitability",
+      "kind": "cross-field-mapping",
+      "source_frame": "architecture-and-building",
+      "target_frame": "software-engineering",
+      "categories": [
+        "software-engineering",
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "description": "Gabriel maps Alexander's concept of architectural habitability onto source code. A habitable building is one its inhabitants can understand, modify, and feel at home in; habitable code is code that programmers can navigate, understand, and change comfortably. The New England farmhouse -- rambling but livable -- is the model, contrasted with the Superdome and modern skyscrapers (monuments to design ingenuity that cannot be modified or grown). Gabriel argues that most programming languages optimize for the wrong thing: clarity, efficiency, or mathematical precision, when they should optimize for habitability."
+    },
+    {
+      "slug": "piecemeal-growth",
+      "name": "Piecemeal Growth",
+      "kind": "cross-field-mapping",
+      "source_frame": "architecture-and-building",
+      "target_frame": "software-engineering",
+      "categories": [
+        "software-engineering",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "description": "Gabriel imports Alexander's concept of piecemeal growth: systems grow incrementally through repair rather than replacement, like buildings that are 'embellished, modified, reduced, enlarged, improved' over time. The opposite is 'large lump development' -- building a complete, perfect artifact and abandoning it. Gabriel contrasts the dynamic, continuous view (piecemeal) with the static, discontinuous view (large lump) and argues that master plans alienate the inhabitants of software just as they alienate the inhabitants of buildings."
+    },
+    {
+      "slug": "code-is-compressed-thought",
+      "name": "Code Is Compressed Thought",
+      "kind": "conceptual-metaphor",
+      "source_frame": "writing",
+      "target_frame": "software-engineering",
+      "categories": [
+        "software-engineering",
+        "cognitive-linguistics"
+      ],
+      "source": "archive",
+      "description": "Gabriel reframes object-oriented inheritance not as 'reuse' but as 'compression' -- a concept borrowed from language and literature. Compressed text draws meaning from context, like poetry whose 'heavily layered meanings can seem dense because of the multiple images it generates.' A subclass definition is compressed writing: it says little explicitly but means much because of its superclass context. Gabriel warns that compression is dangerous -- it requires the reader to hold the full context in mind, and changing the base code can silently break the compressed code that depends on it."
+    },
+    {
+      "slug": "the-quality-without-a-name",
+      "name": "The Quality Without a Name",
+      "kind": "cross-field-mapping",
+      "source_frame": "architecture-and-building",
+      "target_frame": "software-engineering",
+      "categories": [
+        "software-engineering",
+        "philosophy"
+      ],
+      "source": "archive",
+      "description": "Gabriel explores Alexander's central concept -- an objective quality of 'wholeness' or 'aliveness' that good buildings possess and that cannot be reduced to any single named property. Gabriel asks whether software can possess this quality, and whether the software patterns movement has missed Alexander's deeper point by adopting the mechanical form of pattern languages while ignoring the quality they were meant to generate. The essay traces Alexander's journey from Notes on the Synthesis of Form through A Pattern Language to the failed Mexicali project, and Alexander's subsequent search for a universal formative principle connecting art, nature, and geometry."
+    }
+  ]
+}
