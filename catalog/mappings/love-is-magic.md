@@ -9,6 +9,7 @@ categories:
   - linguistics
   - psychology
 author: agent:metaphorex-miner
+harness: "Claude Code"
 contributors: []
 related:
   - love-is-madness
