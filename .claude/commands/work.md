@@ -63,11 +63,13 @@ so the user sees progress.
      "Re-prospecting...", then dispatch `metaphorex-agents:prospector`
      with model `opus` for the first `needs_rework` item. Higher priority
      than fresh prospecting — these were already attempted and rejected.
-   - **Prospecting** — if `prospected_projects` count < 2 AND
-     `needs_prospecting` is non-empty: TaskCreate "Prospecting...", then
-     dispatch `metaphorex-agents:prospector` with model `opus`.
-     Always runs in parallel with other work. The goal is to maintain a
-     buffer of ≥2 prospected projects so mining never stalls.
+   - **Prospecting** — if `needs_prospecting` is non-empty AND
+     (`unclaimed` is empty OR `prospected_projects` count < 2):
+     TaskCreate "Prospecting...", then dispatch
+     `metaphorex-agents:prospector` with model `opus`.
+     Always runs in parallel with other work. Prospect when mining has
+     run dry (no unclaimed work) OR when the buffer of prospected
+     projects is dangerously low (< 2).
 
    **Priority ordering:** The survey script sorts every work bucket so
    `priority:high` items appear first. When dispatching agents, pass items
@@ -125,6 +127,11 @@ After all agents in a round complete, print a round summary:
 Then loop back to **Phase A** (sync + survey). The sync step pulls any PRs
 that merged during this round, so the next round works from fresh main.
 If `total_actionable` is 0 after survey, print a final summary and stop.
+
+**Do NOT stop early.** The only valid termination condition is
+`total_actionable == 0`. Do not apply cost reasoning, session-length
+heuristics, or "diminishing returns" logic. The user controls budget
+externally; the pipeline runs until idle.
 
 ## Stats accounting
 
