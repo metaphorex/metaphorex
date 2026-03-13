@@ -41,8 +41,36 @@ HEADERS = {
 
 def fetch_and_parse():
     """Fetch the Sources of Insight page and extract model entries."""
-    resp = requests.get(URL, headers=HEADERS, timeout=30)
-    resp.raise_for_status()
+    try:
+        resp = requests.get(URL, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+    except requests.exceptions.HTTPError as e:
+        print(
+            f"HTTP error fetching {URL}: {e} "
+            f"(status {resp.status_code}). "
+            "The site may block automated requests. "
+            "Try fetching manually and saving the HTML locally.",
+            file=sys.stderr,
+        )
+        return {
+            "source": "sourcesofinsight.com/charlie-munger-mental-models/",
+            "fetched_url": URL,
+            "error": f"HTTP {resp.status_code}: {e}",
+            "model_count": 0,
+            "models": [],
+        }
+    except requests.exceptions.RequestException as e:
+        print(
+            f"Network error fetching {URL}: {e}",
+            file=sys.stderr,
+        )
+        return {
+            "source": "sourcesofinsight.com/charlie-munger-mental-models/",
+            "fetched_url": URL,
+            "error": str(e),
+            "model_count": 0,
+            "models": [],
+        }
     soup = BeautifulSoup(resp.text, "html.parser")
 
     content = soup.find("div", class_="entry-content")

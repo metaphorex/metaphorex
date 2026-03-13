@@ -229,8 +229,10 @@ Process in thematic clusters:
   switching-costs, cancer-surgery-formula
 - `natural-selection` -- source for red-queen-effect, niche-specialization,
   social-proof
-- `geometry` -- source for circle-of-competence, inversion,
-  regression-to-the-mean, power-laws, bayesian-updating
+- `geometry` -- source for circle-of-competence, inversion
+- `probability` -- source for regression-to-the-mean, power-laws,
+  bayesian-updating (NEW: created to separate statistical models from
+  spatial geometry)
 - `architecture-and-building` -- source for margin-of-safety,
   latticework-of-mental-models, redundancy, system-resilience-vs-fragility
 - `tool-use` -- source for man-with-a-hammer, occams-razor, hanlons-razor
@@ -255,8 +257,16 @@ Process in thematic clusters:
 - `destruction` -- source for creative-destruction
 - `social-roles` -- source for mr-market
 
-**New frames potentially needed:** None. All 42 candidates map to existing
-frames.
+**New frames created for this project:**
+
+- `systems-thinking` -- both source and target frame for feedback-loops,
+  redundancy, system-resilience-vs-fragility, power-laws. Previously existed
+  only as a category; now also a frame with roles: feedback-loop, emergence,
+  interconnection, leverage-point, equilibrium, boundary, stock, flow, delay,
+  nonlinearity.
+- `probability` -- source frame for bayesian-updating, power-laws,
+  regression-to-the-mean. These statistical/probabilistic models do not
+  belong under geometry (spatial relationships).
 
 ### Categories
 
