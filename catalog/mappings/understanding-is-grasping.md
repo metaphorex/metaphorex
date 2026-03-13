@@ -3,7 +3,7 @@ slug: understanding-is-grasping
 name: "Understanding Is Grasping"
 kind: conceptual-metaphor
 source_frame: embodied-experience
-target_frame: mental-experience
+target_frame: intellectual-inquiry
 categories:
   - cognitive-science
   - linguistics
