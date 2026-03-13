@@ -18,7 +18,7 @@ related:
 
 ## What It Brings
 
-People do not experience their mental and emotional lives as a undifferentiated
+People do not experience their mental and emotional lives as an undifferentiated
 stream. They partition it into accounts. You keep a running tally of favors
 owed and received. You weigh whether a relationship is "worth the investment."
 You feel that a bad day has "cost" you, and that a compliment "paid" for the
