@@ -8,7 +8,7 @@ categories:
   - psychology
   - organizational-behavior
   - arts-and-culture
-author: vogler-campbell
+author: agent:metaphorex-miner
 contributors: []
 related:
   - the-trickster
