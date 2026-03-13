@@ -7,7 +7,7 @@ target_frame: potential-and-emergence
 categories:
   - psychology
   - arts-and-culture
-author: jung
+author: agent:metaphorex-miner
 contributors: []
 related:
   - the-trickster
