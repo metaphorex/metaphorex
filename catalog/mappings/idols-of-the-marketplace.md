@@ -3,7 +3,7 @@ slug: idols-of-the-marketplace
 name: "Idols of the Marketplace"
 kind: conceptual-metaphor
 source_frame: economics
-target_frame: language
+target_frame: intellectual-inquiry
 categories:
   - philosophy
   - linguistics
