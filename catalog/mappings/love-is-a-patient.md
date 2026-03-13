@@ -1,18 +1,20 @@
 ---
-slug: love-is-a-patient
-name: "Love Is a Patient"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- health-and-medicine
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Love Is a Patient
+related:
+- love-is-a-journey
+- love-is-madness
+slug: love-is-a-patient
 source_frame: medicine
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-a-journey
-  - love-is-madness
 ---
 
 ## What It Brings

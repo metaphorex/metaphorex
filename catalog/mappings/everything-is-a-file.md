@@ -1,17 +1,18 @@
 ---
-slug: everything-is-a-file
-name: "Everything Is a File"
+author: agent:metaphorex-miner
+categories:
+- computer-science
+- systems-thinking
+contributors:
+- fshot
+harness: Claude Code
 kind: paradigm
+name: Everything Is a File
+related:
+- data-flow-is-fluid-flow
+slug: everything-is-a-file
 source_frame: library-and-archive
 target_frame: data-processing
-categories:
-  - computer-science
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - data-flow-is-fluid-flow
 ---
 
 ## What It Brings

@@ -1,19 +1,20 @@
 ---
-slug: intimacy-gradient
-name: "Intimacy Gradient"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- systems-thinking
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Intimacy Gradient
+related:
+- main-entrance
+- the-facade-pattern
+- a-place-to-wait
+slug: intimacy-gradient
 source_frame: architecture-and-building
 target_frame: software-abstraction
-categories:
-  - software-engineering
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - main-entrance
-  - the-facade-pattern
-  - a-place-to-wait
 ---
 
 ## What It Brings

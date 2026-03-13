@@ -1,17 +1,18 @@
 ---
-slug: the-visual-field-is-a-container
-name: "The Visual Field Is A Container"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: The Visual Field Is A Container
+related:
+- the-visual-field-is-a-bounded-region
+- understanding-is-seeing
+slug: the-visual-field-is-a-container
 source_frame: containers
 target_frame: vision
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-visual-field-is-a-bounded-region
-  - understanding-is-seeing
 ---
 
 ## What It Brings

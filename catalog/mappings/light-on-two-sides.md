@@ -1,18 +1,19 @@
 ---
-slug: light-on-two-sides
-name: "Light on Two Sides"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- systems-thinking
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Light on Two Sides
+related:
+- creative-process-is-construction
+- the-facade-pattern
+slug: light-on-two-sides
 source_frame: architecture-and-building
 target_frame: creative-process
-categories:
-  - software-engineering
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - creative-process-is-construction
-  - the-facade-pattern
 ---
 
 ## What It Brings

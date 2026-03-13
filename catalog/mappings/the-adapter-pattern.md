@@ -1,15 +1,16 @@
 ---
-slug: the-adapter-pattern
-name: "The Adapter Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
 kind: archetype
+name: The Adapter Pattern
+related:
+- the-facade-pattern
+slug: the-adapter-pattern
 source_frame: hardware-compatibility
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-facade-pattern
 ---
 
 ## What It Brings

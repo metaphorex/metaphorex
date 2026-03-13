@@ -1,18 +1,19 @@
 ---
-slug: hydra-code
-name: "Hydra Code"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors:
+- fshot
+harness: Claude Code
 kind: conceptual-metaphor
+name: Hydra Code
+related:
+- spaghetti-code
+- big-ball-of-mud
+- software-rot
+slug: hydra-code
 source_frame: mythology
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - spaghetti-code
-  - big-ball-of-mud
-  - software-rot
 ---
 
 ## What It Brings

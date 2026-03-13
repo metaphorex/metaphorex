@@ -1,18 +1,19 @@
 ---
-slug: time-is-a-moving-object
-name: "Time Is a Moving Object"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors:
+- fshot
 kind: conceptual-metaphor
+name: Time Is a Moving Object
+related:
+- time-is-stationary-and-we-move-through-it
+- time-is-money
+slug: time-is-a-moving-object
 source_frame: embodied-experience
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - time-is-stationary-and-we-move-through-it
-  - time-is-money
 ---
 
 ## What It Brings
