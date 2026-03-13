@@ -3,7 +3,7 @@ slug: organization-is-physical-structure
 name: "Organization Is Physical Structure"
 kind: conceptual-metaphor
 source_frame: architecture-and-building
-target_frame: event-structure
+target_frame: intellectual-inquiry
 categories:
   - cognitive-science
   - linguistics
