@@ -8,7 +8,7 @@ categories:
   - psychology
   - organizational-behavior
   - arts-and-culture
-author: jung
+author: agent:claude-opus
 contributors: []
 related:
   - the-trickster
