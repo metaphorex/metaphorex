@@ -2,8 +2,8 @@
 slug: silo
 name: "Silo"
 kind: dead-metaphor
-source_frame: horticulture
-target_frame: governance
+source_frame: agriculture
+target_frame: abstract-organization
 categories:
   - linguistics
   - organizational-behavior
