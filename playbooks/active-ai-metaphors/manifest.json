@@ -1,0 +1,359 @@
+{
+  "project": "active-ai-metaphors",
+  "project_issue": 601,
+  "source_type": "vein",
+  "batch": 1,
+  "batch_focus": "Clusters A (agent orchestration) and C (what IS an AI?) from issue #601, plus foundational AI-discourse metaphors from archive research",
+  "archive_urls": [
+    "https://leonfurze.com/2024/07/19/ai-metaphors-we-live-by-the-language-of-artificial-intelligence/",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4612468",
+    "https://makingsciencepublic.com/2025/11/14/making-the-case-for-an-ai-metaphor-observatory/",
+    "https://makingsciencepublic.com/2025/11/21/ai-metaphor-studies-an-overview/",
+    "https://link.springer.com/article/10.1007/s00146-025-02392-w",
+    "https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04",
+    "https://ghuntley.com/ralph/",
+    "https://maggieappleton.com/gastown"
+  ],
+  "candidates": [
+    {
+      "slug": "ai-is-a-tool",
+      "name": "AI IS A TOOL",
+      "kind": "conceptual-metaphor",
+      "source_frame": "tool-use",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "archive",
+      "description": "The most common framing: AI as a neutral instrument the user controls. Documented in Maas (2023) and Furze (2024). Hides agency, bias, and emergent behavior. 'AI is just a tool' is the most politically loaded sentence in the discourse."
+    },
+    {
+      "slug": "ai-is-a-copilot",
+      "name": "AI IS A COPILOT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "aviation",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "software-engineering"],
+      "source": "archive",
+      "description": "GitHub Copilot made this the dominant frame for AI-assisted coding. Maps aviation's pilot/copilot hierarchy: human has ultimate authority, AI handles routine tasks. Documented in Furze (2024). Breaks: copilots don't hallucinate or confidently fly into mountains."
+    },
+    {
+      "slug": "ai-is-an-intern",
+      "name": "AI IS AN INTERN",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "organizational-behavior"],
+      "source": "llm",
+      "description": "AI as eager but unreliable junior employee. Maps workplace hierarchy: needs supervision, sometimes brilliant, often wrong in subtle ways. The frame sets expectations about trust level and review requirements."
+    },
+    {
+      "slug": "ai-is-an-agent",
+      "name": "AI IS AN AGENT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "governance",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "philosophy"],
+      "source": "archive",
+      "description": "From legal/business agency: AI acts on your behalf with delegated authority. Documented in Maas (2023) under 'Operation' category. The progression tool->copilot->agent tracks increasing autonomy. Breaks: agents have fiduciary duty; AI has no legal obligations."
+    },
+    {
+      "slug": "ai-is-an-oracle",
+      "name": "AI IS AN ORACLE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "religion",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "philosophy"],
+      "source": "archive",
+      "description": "AI as source of authoritative answers, like the Oracle at Delphi. Documented in Maas (2023) under 'supernatural entity.' Brings: mystical authority, ambiguous pronouncements. Breaks: oracles were intermediaries to gods; LLMs are intermediaries to training data."
+    },
+    {
+      "slug": "ai-is-a-mirror",
+      "name": "AI IS A MIRROR",
+      "kind": "conceptual-metaphor",
+      "source_frame": "vision",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "archive",
+      "description": "AI reflects back society's biases and assumptions. Documented in Furze (2024) and Maas (2023) as 'culturally revealing object.' Brings: honest reflection, uncomfortable truths. Breaks: mirrors don't selectively amplify; AI training does."
+    },
+    {
+      "slug": "ai-is-a-black-box",
+      "name": "AI IS A BLACK BOX",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "systems-thinking"],
+      "source": "archive",
+      "description": "Sealed container where inputs go in, outputs come out, internals are opaque. Documented in Furze (2024). From engineering systems theory. Brings: the demand for explainability. Breaks: black boxes are deliberately sealed; neural nets are accidentally opaque."
+    },
+    {
+      "slug": "ai-hallucination-is-perception-disorder",
+      "name": "AI HALLUCINATION IS PERCEPTION DISORDER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "archive",
+      "description": "LLM confabulation described as 'hallucination' -- a psychiatric term for perceiving things that aren't there. Studied in Springer (2025) 'Between fact and fairy.' The metaphor anthropomorphizes AI and implies the model has perception at all. Extremely consequential framing."
+    },
+    {
+      "slug": "training-is-education",
+      "name": "TRAINING IS EDUCATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "education",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "archive",
+      "description": "ML 'training' borrows from pedagogy: models 'learn,' have 'teachers' (teacher forcing), receive 'curriculum.' Documented in Science (2025) as anthropomorphic framing. Drew McDermott called this 'wishful mnemonics' in the 1970s. The metaphor implies understanding where there may be none."
+    },
+    {
+      "slug": "alignment-is-physical-alignment",
+      "name": "ALIGNMENT IS PHYSICAL ALIGNMENT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "philosophy"],
+      "source": "llm",
+      "description": "AI 'alignment' with human values borrows from physical alignment: bringing two things into parallel. Implies values are fixed directions that can be measured and adjusted. Breaks: human values are contested, contextual, and contradictory -- not vectors."
+    },
+    {
+      "slug": "neural-network-is-a-brain",
+      "name": "NEURAL NETWORK IS A BRAIN",
+      "kind": "conceptual-metaphor",
+      "source_frame": "biology",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "archive",
+      "description": "The foundational metaphor of the field: artificial 'neurons,' 'layers,' 'activation.' Documented across all archive sources. Maps biological neural architecture onto matrix multiplication. McCulloch & Pitts (1943) established it. Every subsequent metaphor inherits its anthropomorphism."
+    },
+    {
+      "slug": "weights-are-knowledge",
+      "name": "WEIGHTS ARE KNOWLEDGE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "llm",
+      "description": "Model parameters described as containing 'knowledge,' 'understanding,' or 'beliefs.' The physical metaphor of 'weight' (heaviness) maps onto numerical importance. Brings: intuition about relative significance. Breaks: knowledge implies justified true belief; weights are statistical correlations."
+    },
+    {
+      "slug": "prompt-engineering-is-programming",
+      "name": "PROMPT ENGINEERING IS PROGRAMMING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "software-engineering",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "software-engineering"],
+      "source": "archive",
+      "description": "Crafting prompts described as 'engineering' -- a deterministic discipline applied to a stochastic system. Documented in Furze (2024). The frame imports precision, reproducibility, and professional identity. Breaks: engineering produces predictable outputs; prompting produces probabilistic ones."
+    },
+    {
+      "slug": "data-is-fuel",
+      "name": "DATA IS FUEL",
+      "kind": "conceptual-metaphor",
+      "source_frame": "natural-resources",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "systems-thinking"],
+      "source": "archive",
+      "description": "Clive Humby's 'data is the new oil' (2006) spawned a family: data as fuel, raw material, feedstock. Brings: extraction economics, refinement processes, resource scarcity. Breaks: oil is finite and consumed; data is infinitely copyable and never depleted."
+    },
+    {
+      "slug": "compute-is-a-resource",
+      "name": "COMPUTE IS A RESOURCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "economics",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "systems-thinking"],
+      "source": "llm",
+      "description": "GPU hours treated as a scarce natural resource to be extracted, stockpiled, and allocated. The 'GPU arms race' and 'compute overhang' extend the frame. Maps geopolitical resource competition onto chip manufacturing. Shapes billions in infrastructure investment."
+    },
+    {
+      "slug": "ai-safety-is-containment",
+      "name": "AI SAFETY IS CONTAINMENT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "security"],
+      "source": "llm",
+      "description": "AI safety framed as keeping a dangerous entity inside boundaries: guardrails, sandboxes, jailbreaking, escape. Maps physical containment onto behavioral constraints. Brings: the assumption that AI is an entity that WANTS to escape. The frame presupposes agency."
+    },
+    {
+      "slug": "gas-town",
+      "name": "Gas Town",
+      "kind": "archetype",
+      "source_frame": "governance",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "software-engineering"],
+      "source": "archive",
+      "description": "Steve Yegge's Mad Max-inspired agent orchestration archetype. Agents as citizens of a town: Mayor (coordinator), Deacon (scheduler), Rigs (projects). Maps civic governance onto multi-agent systems. Documented at steve-yegge.medium.com and maggieappleton.com."
+    },
+    {
+      "slug": "ralph-wiggum-loop",
+      "name": "Ralph Wiggum Loop",
+      "kind": "archetype",
+      "source_frame": "social-behavior",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "software-engineering"],
+      "source": "archive",
+      "description": "Geoffrey Huntley's agent anti-pattern turned technique: a bash loop that feeds AI output back into itself until it works. Named after the Simpsons character who is 'deterministically bad in an undeterministic world.' Documented at ghuntley.com/ralph/ and widely adopted."
+    },
+    {
+      "slug": "chain-of-thought-is-self-talk",
+      "name": "CHAIN OF THOUGHT IS SELF-TALK",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mental-experience",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "llm",
+      "description": "The ReAct paradigm and chain-of-thought prompting frame AI reasoning as inner monologue. Maps Vygotsky's internalized speech onto token generation. Brings: the intuition that 'showing work' improves reasoning. Breaks: human self-talk is phenomenologically rich; CoT is generated text."
+    },
+    {
+      "slug": "tool-use-is-physical-manipulation",
+      "name": "TOOL USE IS PHYSICAL MANIPULATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "llm",
+      "description": "AI 'using tools' -- calling APIs, running code -- described as 'hands' for the AI. Maps embodied tool use (grip, manipulate, release) onto function calls. The frame imports physical affordances into a purely digital operation."
+    },
+    {
+      "slug": "agent-swarm",
+      "name": "AGENT COORDINATION IS SWARM BEHAVIOR",
+      "kind": "conceptual-metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "systems-thinking"],
+      "source": "llm",
+      "description": "Multi-agent systems described as 'swarms' -- decentralized, emergent, collectively intelligent. Maps insect colony behavior onto agent orchestration. Alternatives: crew (nautical), chain (manufacturing), graph (mathematics). Each metaphor foregrounds different coordination properties."
+    },
+    {
+      "slug": "bicycle-for-the-mind",
+      "name": "PC IS A BICYCLE FOR THE MIND",
+      "kind": "conceptual-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "computing",
+      "categories": ["ai-discourse", "philosophy"],
+      "source": "archive",
+      "description": "Steve Jobs's foundational metaphor: the computer amplifies human cognitive effort the way a bicycle amplifies human locomotion. Human provides the energy; machine multiplies efficiency. Documented widely. Actively contested in AI discourse: is AI a bicycle or an engine?"
+    },
+    {
+      "slug": "ai-is-a-prosthesis",
+      "name": "AI IS A PROSTHESIS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "archive",
+      "description": "Engelbart's 'augmenting human intellect' (1962) frames computing as cognitive prosthesis. Maps medical device (replaces/extends lost function) onto intelligence augmentation. Brings: the user has a deficit that technology fills. Breaks: prosthetics don't have their own agenda."
+    },
+    {
+      "slug": "ai-is-a-pair-programmer",
+      "name": "AI IS A PAIR PROGRAMMER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "collaborative-work",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "software-engineering"],
+      "source": "llm",
+      "description": "AI coding assistants framed as the other person in pair programming. Maps XP's social practice onto human-AI interaction. Brings: turn-taking, complementary skills, shared ownership. Breaks: pair programming assumes mutual understanding and accountability."
+    },
+    {
+      "slug": "context-window-is-working-memory",
+      "name": "CONTEXT WINDOW IS WORKING MEMORY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mental-experience",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "llm",
+      "description": "The token limit framed as a cognitive constraint analogous to human working memory. Huntley's Ralph Wiggum post explicitly describes it as 'the malloc/free problem.' Brings: intuition about forgetting and context loss. Breaks: working memory is active processing; context windows are passive input."
+    },
+    {
+      "slug": "guardrails",
+      "name": "AI SAFETY IS GUARDRAILS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "security"],
+      "source": "llm",
+      "description": "Safety constraints as highway guardrails: they keep you on the road but don't steer. Maps traffic safety infrastructure onto behavioral boundaries. The frame implies AI is a vehicle on a predetermined path that might veer off. Brings: the assumption that the path exists and is correct."
+    },
+    {
+      "slug": "jailbreaking",
+      "name": "BYPASSING AI SAFETY IS JAILBREAKING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "security"],
+      "source": "archive",
+      "description": "Circumventing AI safety measures described as 'jailbreaking' -- originally from iOS device modification. Maps prison escape onto removing software restrictions. The frame presupposes the AI is 'imprisoned' and that restrictions are unjust confinement rather than safety measures."
+    },
+    {
+      "slug": "temperature-is-creativity",
+      "name": "TEMPERATURE IS CREATIVITY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "llm",
+      "description": "The 'temperature' parameter maps thermodynamic randomness onto creative variation. From statistical mechanics: higher temperature = more entropy = more surprising outputs. Brings: an intuitive dial between 'cold precision' and 'hot creativity.' Breaks: creativity is not randomness."
+    },
+    {
+      "slug": "fine-tuning-is-specialization",
+      "name": "FINE-TUNING IS SPECIALIZATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "llm",
+      "description": "Adapting a foundation model for specific tasks described as 'fine-tuning' -- from musical instrument adjustment. Maps the precision craft of tuning an instrument to the mechanical process of gradient descent on new data. Brings: the implication of a pre-existing harmony being refined."
+    },
+    {
+      "slug": "foundation-model-is-a-foundation",
+      "name": "FOUNDATION MODEL IS A FOUNDATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "systems-thinking"],
+      "source": "archive",
+      "description": "Base models described as 'foundations' on which applications are built. Documented in Maas (2023). Maps architectural foundations (load-bearing, permanent, underground) onto pretrained models. Brings: stability, permanence, impossibility of replacement. Breaks: foundations don't hallucinate."
+    },
+    {
+      "slug": "the-internet-is-a-mine",
+      "name": "THE INTERNET IS A MINE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "natural-resources",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "systems-thinking"],
+      "source": "llm",
+      "description": "Web scraping as 'mining' and 'crawling' -- extractive metaphors applied to the commons. Common Crawl, data mining, web crawlers. Maps resource extraction onto information gathering. Brings: the assumption that internet content is a natural resource to be exploited."
+    },
+    {
+      "slug": "ai-is-an-iceberg",
+      "name": "AI IS AN ICEBERG",
+      "kind": "conceptual-metaphor",
+      "source_frame": "natural-phenomena",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "systems-thinking"],
+      "source": "archive",
+      "description": "The visible interface (chatbot, API) hides the vast hidden infrastructure: training data, compute, human labelers, alignment work. Documented in Furze (2024). Maps the iceberg's 90% below the waterline onto the invisible supply chain of AI. Breaks: icebergs are natural; AI infrastructure is constructed."
+    },
+    {
+      "slug": "ai-is-a-magnifying-glass",
+      "name": "AI IS A MAGNIFYING GLASS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "vision",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "archive",
+      "description": "AI amplifies and distorts whatever you point it at. Documented in Furze (2024) as companion to the mirror metaphor. Where the mirror reflects, the magnifying glass selectively enlarges. Brings: the idea that AI doesn't create bias but makes existing bias larger and more visible."
+    },
+    {
+      "slug": "ai-is-a-spell-checker",
+      "name": "AI IS A SPELL CHECKER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "tool-use",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "software-engineering"],
+      "source": "archive",
+      "description": "AI as a domain-limited error-correction tool, like a spell checker or calculator. Documented in Furze (2024). Deliberately deflates AI hype by mapping it to mundane, well-understood tools. Brings: clear boundaries of competence. Breaks: spell checkers don't generate novel text or confidently introduce new errors."
+    }
+  ]
+}
