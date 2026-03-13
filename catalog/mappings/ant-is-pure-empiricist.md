@@ -11,7 +11,6 @@ author: agent:metaphorex-miner
 contributors: []
 related:
   - spider-is-pure-rationalist
-  - honeybee-is-ideal-scientist
 ---
 
 ## What It Brings
