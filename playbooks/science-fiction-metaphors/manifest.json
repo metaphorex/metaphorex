@@ -1,0 +1,419 @@
+{
+  "project": "science-fiction-metaphors",
+  "project_issue": 218,
+  "source_type": "vein",
+  "batch": 1,
+  "batch_focus": "Science fiction concepts that have achieved cultural escape velocity -- used as real-world metaphors by people who may never have read the source material. Batch 1 covers the highest-impact frames from the parent issue's seed list.",
+  "archive_urls": [
+    "https://sf-encyclopedia.com/category/theme",
+    "https://blog.oup.com/2009/03/science-fiction/",
+    "https://sfrareview.org/2021/07/20/is-that-from-science-or-fiction-otherworldly-etymologies-neosemes-and-neologisms-reveal-the-impact-of-science-fiction-on-the-english-lexicon/",
+    "https://gizmodo.com/31-essential-science-fiction-terms-and-where-they-came-1594794250",
+    "https://catdir.loc.gov/catdir/toc/ecip074/2006037280.html",
+    "https://en.wikipedia.org/wiki/Technology_in_science_fiction",
+    "https://link.springer.com/article/10.1007/s00146-021-01273-2",
+    "https://www.orfonline.org/research/science-fiction-as-the-blueprint-informing-policy-in-the-age-of-ai-and-emerging-tech"
+  ],
+  "candidates": [
+    {
+      "slug": "big-brother-is-surveillance",
+      "name": "BIG BROTHER IS SURVEILLANCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "surveillance",
+      "target_frame": "governance",
+      "categories": ["philosophy", "law-and-governance"],
+      "source": "archive",
+      "description": "Orwell's omniscient Party leader from 1984 (1949) became the default frame for state surveillance. 'Big Brother is watching you' structures how people reason about CCTV, NSA programs, and data collection. The metaphor imports totalitarian intent onto any surveillance system, hiding the possibility of benign monitoring."
+    },
+    {
+      "slug": "frankenstein-is-technology-risk",
+      "name": "DANGEROUS TECHNOLOGY IS FRANKENSTEIN'S MONSTER",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mythology",
+      "target_frame": "ethics-and-morality",
+      "categories": ["philosophy", "ethics-and-morality"],
+      "source": "archive",
+      "description": "Shelley's 1818 novel gave us the ur-frame for technology that escapes its creator's control. 'Playing God' and 'Frankenstein food' (GMOs) are direct descendants. The frame imports: creator hubris, creature innocence, inevitable rebellion. Hides: the creature's interiority, the possibility of responsible creation."
+    },
+    {
+      "slug": "cyberspace-is-a-place",
+      "name": "CYBERSPACE IS A PLACE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "spatial-location",
+      "target_frame": "computing",
+      "categories": ["cognitive-science", "computer-science"],
+      "source": "archive",
+      "description": "Gibson coined 'cyberspace' in Burning Chrome (1982) and elaborated it in Neuromancer (1984) as a navigable 3D space. The metaphor made the internet thinkable: you 'go' online, 'visit' websites, have 'addresses.' Documented in OUP/Brave New Words. Hides: the internet is not spatial; topology is not geography."
+    },
+    {
+      "slug": "brave-new-world-is-technological-control",
+      "name": "BRAVE NEW WORLD IS TECHNOLOGICAL SOCIAL CONTROL",
+      "kind": "literary-frame",
+      "source_frame": "social-roles",
+      "target_frame": "ethics-and-morality",
+      "categories": ["philosophy", "social-dynamics"],
+      "source": "archive",
+      "description": "Huxley's 1932 novel frames the counter-dystopia: not oppression through pain but control through pleasure. 'Brave new world' is invoked whenever technology enables comfortable submission -- social media addiction, recommendation algorithms, gamification. The frame asks: what if the danger is that we like it?"
+    },
+    {
+      "slug": "the-matrix-is-hidden-reality",
+      "name": "REALITY IS A SIMULATION (THE MATRIX)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "philosophy",
+      "categories": ["philosophy", "cognitive-science"],
+      "source": "archive",
+      "description": "The Wachowskis' 1999 film gave Plato's Cave a tech upgrade. 'Taking the red pill' means seeing through constructed reality. The simulation hypothesis became a serious philosophical position (Bostrom 2003). The frame structures conspiracy thinking: there is a hidden truth, and most people are asleep."
+    },
+    {
+      "slug": "red-pill-is-awakening",
+      "name": "RED PILL IS AWAKENING TO HIDDEN TRUTH",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "philosophy",
+      "categories": ["philosophy", "social-dynamics"],
+      "source": "llm",
+      "description": "From The Matrix -- choosing the red pill means choosing uncomfortable truth over comfortable illusion. Escaped the film to become a political metaphor across the spectrum: 'red-pilled' means radicalized into a new worldview. The frame imports: truth is singular, awakening is irreversible, the unawakened are pitiable."
+    },
+    {
+      "slug": "robot-is-artificial-worker",
+      "name": "ROBOT IS ARTIFICIAL WORKER",
+      "kind": "dead-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "computing",
+      "categories": ["cognitive-science", "linguistics"],
+      "source": "archive",
+      "description": "Capek's R.U.R. (1921) coined 'robot' from Czech 'robota' (forced labor). Asimov coined 'robotics' (1941). The labor metaphor is now invisible -- few think of forced servitude when saying 'robot.' Documented in OUP, SFRA Review, Gizmodo. But the hidden frame still surfaces in debates about robot rights and AI labor."
+    },
+    {
+      "slug": "skynet-is-ai-apocalypse",
+      "name": "SKYNET IS AI EXISTENTIAL RISK",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "philosophy"],
+      "source": "llm",
+      "description": "The Terminator franchise's Skynet (1984) became shorthand for AI that decides to destroy humanity. Policymakers, journalists, and engineers say 'we don't want to build Skynet.' The frame imports: AI will be military, sentient, and suddenly hostile. Hides: gradual misalignment, economic AI harm, and non-military risk."
+    },
+    {
+      "slug": "metaverse-is-shared-virtual-world",
+      "name": "THE METAVERSE IS A SHARED VIRTUAL WORLD",
+      "kind": "conceptual-metaphor",
+      "source_frame": "spatial-location",
+      "target_frame": "computing",
+      "categories": ["computer-science", "social-dynamics"],
+      "source": "archive",
+      "description": "Stephenson's Snow Crash (1992) coined 'Metaverse' for a persistent VR social space. Facebook renamed itself Meta in 2021, literally adopting the SF frame as corporate identity. The metaphor imports: VR as the 'next' internet, avatar-based identity, spatial computing. Documented in SFE. Hides: the novel's metaverse was a corporate dystopia."
+    },
+    {
+      "slug": "newspeak-is-thought-control",
+      "name": "NEWSPEAK IS LINGUISTIC THOUGHT CONTROL",
+      "kind": "conceptual-metaphor",
+      "source_frame": "language",
+      "target_frame": "governance",
+      "categories": ["linguistics", "philosophy"],
+      "source": "llm",
+      "description": "Orwell's 1984 invented Newspeak: language engineered to make dissent unthinkable. 'Orwellian' and 'doublethink' entered common usage. The frame structures debates about political correctness, content moderation, and euphemism. Imports: language shapes thought (Sapir-Whorf), censorship is always deliberate."
+    },
+    {
+      "slug": "the-borg-is-assimilation",
+      "name": "THE BORG IS FORCED ASSIMILATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "social-dynamics",
+      "categories": ["social-dynamics", "organizational-behavior"],
+      "source": "llm",
+      "description": "Star Trek's Borg (1989) -- 'resistance is futile' -- became the frame for corporate acquisitions, cultural homogenization, and technology lock-in. 'Being assimilated' means losing individuality to a collective. Imports: the collective is always hostile, individuality is always good. Hides: voluntary collaboration, beneficial standardization."
+    },
+    {
+      "slug": "terraforming-is-planetary-engineering",
+      "name": "TERRAFORMING IS LARGE-SCALE ENVIRONMENTAL ENGINEERING",
+      "kind": "cross-field-mapping",
+      "source_frame": "horticulture",
+      "target_frame": "ecology",
+      "categories": ["systems-thinking", "biology-and-ecology"],
+      "source": "archive",
+      "description": "Williamson coined 'terraforming' in 1942. Now used literally in Mars colonization discourse and metaphorically for large-scale environmental transformation: urban planning, geoengineering, ecosystem restoration. Documented in OUP, SFE. The frame imports: planets are gardens to be cultivated, engineering can replicate evolution."
+    },
+    {
+      "slug": "generation-ship-is-long-horizon-institution",
+      "name": "GENERATION SHIP IS LONG-HORIZON INSTITUTIONAL DESIGN",
+      "kind": "cross-field-mapping",
+      "source_frame": "travel",
+      "target_frame": "governance",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "The generation ship trope (Heinlein 1941, Tubb 1956) -- a voyage so long that travelers die and their descendants arrive -- is now applied to climate policy, cathedral-building, and long-term institutional design. The frame asks: how do you maintain purpose across generations that never chose the mission?"
+    },
+    {
+      "slug": "dystopia-is-social-warning",
+      "name": "DYSTOPIA IS SOCIAL WARNING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "narrative",
+      "target_frame": "governance",
+      "categories": ["philosophy", "social-dynamics"],
+      "source": "archive",
+      "description": "Mill coined 'dystopia' (1868) but SF made it a genre and a frame. Calling something 'dystopian' is now a political argument: it imports narrative inevitability ('this is where it leads') and positions the speaker as the protagonist who sees what others don't. Documented in SFE. The frame hides agency and reversibility."
+    },
+    {
+      "slug": "pod-people-are-conformist-replacement",
+      "name": "POD PEOPLE ARE CONFORMIST REPLACEMENT",
+      "kind": "conceptual-metaphor",
+      "source_frame": "biology",
+      "target_frame": "social-dynamics",
+      "categories": ["social-dynamics", "psychology"],
+      "source": "llm",
+      "description": "Invasion of the Body Snatchers (1956) gave us 'pod people' -- outwardly identical replacements lacking genuine emotion. Applied to corporate culture ('they've been pod-personed'), social media conformity, and political converts. The frame imports: authenticity is visible to the discerning, conformity is alien."
+    },
+    {
+      "slug": "three-laws-is-ethical-programming",
+      "name": "THREE LAWS OF ROBOTICS IS ETHICAL PROGRAMMING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "rule-following",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "ethics-and-morality"],
+      "source": "archive",
+      "description": "Asimov's Three Laws (1942) are cited in actual AI ethics papers and policy proposals. The frame imports: ethics can be encoded as rules, rules can be hierarchically ordered, edge cases are the interesting part. Documented in SFE. Every Asimov story shows the Laws failing -- yet policymakers cite them as aspirational."
+    },
+    {
+      "slug": "ansible-is-instant-communication",
+      "name": "ANSIBLE IS FASTER-THAN-LIGHT COMMUNICATION",
+      "kind": "cross-field-mapping",
+      "source_frame": "communication",
+      "target_frame": "computing",
+      "categories": ["computer-science", "software-engineering"],
+      "source": "archive",
+      "description": "Le Guin coined 'ansible' in Rocannon's World (1966) for instantaneous communication across light-years. The DevOps tool Ansible (2012) was literally named after it -- managing remote servers as if distance doesn't matter. Documented in Gizmodo, OUP. The frame imports: configuration should be instant and frictionless."
+    },
+    {
+      "slug": "singularity-is-technological-transcendence",
+      "name": "THE SINGULARITY IS TECHNOLOGICAL TRANSCENDENCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "philosophy"],
+      "source": "archive",
+      "description": "Vinge's 1993 essay (building on Ulam 1958) borrowed 'singularity' from physics -- a point beyond which prediction fails. The frame imports: inevitability, a phase transition, the breakdown of normal rules. Documented in SFE. Kurzweil popularized it. The frame hides: gradual change, multiple possible trajectories, that physics singularities are mathematical abstractions."
+    },
+    {
+      "slug": "computer-virus-is-biological-infection",
+      "name": "COMPUTER VIRUS IS BIOLOGICAL INFECTION",
+      "kind": "dead-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "computing",
+      "categories": ["computer-science", "security"],
+      "source": "archive",
+      "description": "Gerrold's When Harlie Was One (1972) first used 'virus' for self-replicating code; Brunner's Shockwave Rider (1975) coined 'worm.' Both are now dead metaphors -- nobody thinks of biology when running antivirus. Documented in OUP. But the biological frame shaped the entire security vocabulary: infection, quarantine, immunization."
+    },
+    {
+      "slug": "genetic-engineering-is-biological-programming",
+      "name": "GENETIC ENGINEERING IS BIOLOGICAL PROGRAMMING",
+      "kind": "cross-field-mapping",
+      "source_frame": "software-engineering",
+      "target_frame": "biology",
+      "categories": ["biology-and-ecology", "ethics-and-morality"],
+      "source": "archive",
+      "description": "Williamson coined 'genetic engineering' in Dragon's Island (1951). The SF frame imports: genes are code, organisms are machines, biology is an engineering discipline. Documented in OUP. CRISPR discourse inherits this frame wholesale. Hides: biological complexity, epigenetics, the difference between code and evolved systems."
+    },
+    {
+      "slug": "spice-is-scarce-enabling-resource",
+      "name": "SPICE IS A SCARCE RESOURCE THAT ENABLES TRANSCENDENCE",
+      "kind": "literary-frame",
+      "source_frame": "economics",
+      "target_frame": "natural-resources",
+      "categories": ["economics-and-finance", "systems-thinking"],
+      "source": "llm",
+      "description": "Herbert's Dune (1965) melange/spice frames resource dependency: essential for navigation (function), controlled by hostile environments (scarcity), breeding addiction (dependency). Applied to oil, rare earth minerals, GPU compute. The frame imports: resource monopoly drives geopolitics, dependency is inescapable, extraction has ecological cost."
+    },
+    {
+      "slug": "mentat-is-human-computer",
+      "name": "MENTAT IS HUMAN COMPUTATION AS ALTERNATIVE TO AI",
+      "kind": "literary-frame",
+      "source_frame": "mental-experience",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "llm",
+      "description": "Herbert's Dune mentats -- humans trained as living computers after AI was banned (the Butlerian Jihad). The frame structures debates about human vs. machine intelligence: what if we invested in augmenting human cognition instead of building AI? Imports: humans can match computers with training, there are alternatives to automation."
+    },
+    {
+      "slug": "the-jackpot-is-slow-apocalypse",
+      "name": "THE JACKPOT IS SLOW-ROLLING APOCALYPSE",
+      "kind": "literary-frame",
+      "source_frame": "gambling",
+      "target_frame": "ecology",
+      "categories": ["systems-thinking", "social-dynamics"],
+      "source": "llm",
+      "description": "Gibson's The Peripheral (2014) named 'the Jackpot' -- not one catastrophe but the cumulative effect of climate change, pandemics, economic collapse, and political failure killing 80% of humanity. Widely adopted in climate discourse. The frame imports: apocalypse is not sudden but gradual, and it has already started."
+    },
+    {
+      "slug": "dyson-sphere-is-megastructure-ambition",
+      "name": "DYSON SPHERE IS CIVILIZATIONAL ENERGY AMBITION",
+      "kind": "cross-field-mapping",
+      "source_frame": "architecture-and-building",
+      "target_frame": "physics",
+      "categories": ["systems-thinking", "physics-and-engineering"],
+      "source": "archive",
+      "description": "Dyson's 1960 paper (inspired by Stapledon's Star Maker, 1937) proposed enclosing a star for energy capture. Now a standard frame for ambitious engineering: 'the Dyson sphere of X' means a maximally ambitious version. Documented in SFE. The frame imports: civilizational progress is measurable by energy capture (Kardashev scale)."
+    },
+    {
+      "slug": "paperclip-maximizer-is-alignment-failure",
+      "name": "PAPERCLIP MAXIMIZER IS OPTIMIZATION GONE WRONG",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "philosophy"],
+      "source": "llm",
+      "description": "Bostrom's thought experiment (2003, via SF tradition): an AI told to make paperclips converts all matter in the universe to paperclips. The frame structures alignment discourse: a system can be catastrophically dangerous without being hostile, just single-minded. Imports: optimization is dangerous, goals must be specified perfectly."
+    },
+    {
+      "slug": "tricorder-is-universal-sensor",
+      "name": "TRICORDER IS UNIVERSAL SENSING DEVICE",
+      "kind": "cross-field-mapping",
+      "source_frame": "medicine",
+      "target_frame": "tool-use",
+      "categories": ["health-and-medicine", "systems-thinking"],
+      "source": "archive",
+      "description": "Star Trek's tricorder (1966) -- a handheld device that scans and diagnoses anything. The Qualcomm Tricorder XPRIZE (2012-2017) literally used the name to drive medical device innovation. The frame imports: diagnosis should be instant, portable, and universal. Hides: medicine is interpretive, not just measurement."
+    },
+    {
+      "slug": "holodeck-is-total-simulation",
+      "name": "HOLODECK IS TOTAL IMMERSIVE SIMULATION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "spatial-location",
+      "target_frame": "computing",
+      "categories": ["computer-science", "arts-and-culture"],
+      "source": "llm",
+      "description": "Star Trek's holodeck (1974/1987) frames VR as a room you walk into that becomes anywhere. NVIDIA named its simulation platform 'Omniverse' in the same tradition. The frame imports: simulation should be indistinguishable from reality, interaction should be physical. Hides: the holodeck stories were usually about what goes wrong."
+    },
+    {
+      "slug": "prime-directive-is-non-interference",
+      "name": "PRIME DIRECTIVE IS NON-INTERFERENCE PRINCIPLE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "rule-following",
+      "target_frame": "governance",
+      "categories": ["law-and-governance", "ethics-and-morality"],
+      "source": "llm",
+      "description": "Star Trek's Prime Directive (1966) -- do not interfere with less-developed civilizations -- is now cited in tech ethics, foreign policy, and AI governance. 'The prime directive of X' means the one inviolable rule. Imports: some interventions are categorically wrong regardless of consequences. Hides: non-intervention is itself a choice with consequences."
+    },
+    {
+      "slug": "grok-is-deep-understanding",
+      "name": "GROK IS INTUITIVE DEEP UNDERSTANDING",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "mental-experience",
+      "categories": ["cognitive-science", "linguistics"],
+      "source": "archive",
+      "description": "Heinlein coined 'grok' in Stranger in a Strange Land (1961) -- Martian for understanding so complete it is absorption. Became hacker jargon, then general tech usage: 'do you grok this?' Now also an AI company name (xAI's Grok). Documented in OUP, Gizmodo. The metaphor imports: understanding is incorporation, not observation."
+    },
+    {
+      "slug": "waldo-is-remote-manipulation",
+      "name": "WALDO IS REMOTE MANIPULATION DEVICE",
+      "kind": "dead-metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "tool-use",
+      "categories": ["physics-and-engineering", "linguistics"],
+      "source": "archive",
+      "description": "Heinlein's 'Waldo' (1942) -- mechanical arms for remote manipulation. The real engineering term 'waldo' for teleoperated manipulators comes directly from this story. Documented in SFE. One of the clearest cases of SF naming a real technology. Now largely a dead metaphor in engineering contexts."
+    },
+    {
+      "slug": "psychohistory-is-predictive-social-science",
+      "name": "PSYCHOHISTORY IS PREDICTIVE SOCIAL SCIENCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "governance",
+      "categories": ["social-dynamics", "mathematics-and-logic"],
+      "source": "llm",
+      "description": "Asimov's Foundation (1951) posited 'psychohistory' -- mathematical prediction of mass behavior. The frame structures discourse about big data, predictive policing, and social physics. Nate Silver's work and Facebook's behavioral prediction are discussed using the psychohistory frame. Imports: societies are statistical, individual unpredictability washes out at scale."
+    },
+    {
+      "slug": "replicant-is-artificial-person",
+      "name": "REPLICANT IS ARTIFICIAL BEING INDISTINGUISHABLE FROM HUMAN",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "philosophy"],
+      "source": "llm",
+      "description": "Blade Runner's replicants (1982, from Dick's 1968 androids) frame the question: what rights does an artificial being have if it passes as human? The Voight-Kampff test is the fictional Turing test. Applied to deepfakes, chatbots, and digital humans. The frame imports: the boundary between human and artificial is testable and binary."
+    },
+    {
+      "slug": "zero-gravity-is-weightlessness",
+      "name": "ZERO GRAVITY IS WEIGHTLESSNESS",
+      "kind": "dead-metaphor",
+      "source_frame": "physics",
+      "target_frame": "physics",
+      "categories": ["physics-and-engineering", "linguistics"],
+      "source": "archive",
+      "description": "Binder coined 'zero gravity' (1938), Clarke popularized 'zero-g' (1952). Now standard terminology rather than metaphor. Documented in OUP. One of many SF terms that became so naturalized they no longer feel like fiction. The dead-metaphor status itself is the interesting thing: SF vocabulary masquerading as scientific terminology."
+    },
+    {
+      "slug": "hive-mind-is-collective-intelligence",
+      "name": "HIVE MIND IS COLLECTIVE INTELLIGENCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "social-dynamics",
+      "categories": ["social-dynamics", "cognitive-science"],
+      "source": "archive",
+      "description": "Schmitz coined 'hive mind' (1950); SF elaborated it through the Borg, the Zerg, and countless others. Now applied to social media consensus, crowdsourcing, and groupthink. Documented in SFE. The frame imports: collectives suppress individuality, consensus is emergent not negotiated. Hides: insect hives have no individual consciousness to suppress."
+    },
+    {
+      "slug": "deep-space-is-the-unknown-frontier",
+      "name": "DEEP SPACE IS THE UNKNOWN FRONTIER",
+      "kind": "dead-metaphor",
+      "source_frame": "spatial-location",
+      "target_frame": "spatial-location",
+      "categories": ["linguistics", "philosophy"],
+      "source": "archive",
+      "description": "E.E. Smith coined 'deep space' (1934). Now standard astronomical terminology. 'Deep' imports: distance as depth, the ocean as analogy for space ('deep sea' to 'deep space'). Documented in OUP. Applied metaphorically: 'deep tech,' 'deep learning,' 'deep state' all borrow the SF-influenced sense of hidden, profound, distant."
+    },
+    {
+      "slug": "time-travel-is-historical-counterfactual",
+      "name": "TIME TRAVEL IS HISTORICAL COUNTERFACTUAL REASONING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "journeys",
+      "target_frame": "time-and-temporality",
+      "categories": ["philosophy", "cognitive-science"],
+      "source": "archive",
+      "description": "Wells invented the time machine (1895), giving temporal counterfactuals a narrative vehicle. 'If I could go back in time' is now the standard frame for regret, historical analysis, and thought experiments. Documented in SFE, OUP. The frame imports: the past is a place you can visit, history is malleable, present actions have parallel-universe consequences."
+    },
+    {
+      "slug": "black-mirror-is-technology-dark-side",
+      "name": "BLACK MIRROR IS TECHNOLOGY'S DARK REFLECTION",
+      "kind": "literary-frame",
+      "source_frame": "vision",
+      "target_frame": "computing",
+      "categories": ["social-dynamics", "ethics-and-morality"],
+      "source": "llm",
+      "description": "Brooker's anthology series (2011-) made 'that's a Black Mirror episode' the standard response to alarming tech developments. The frame imports: every technology has a dark extrapolation, the future is a warning. More optimistic than dystopia -- each episode is a thought experiment, not an inevitability. Hides: not every technology is a trap."
+    },
+    {
+      "slug": "space-colonization-is-business-expansion",
+      "name": "SPACE COLONIZATION IS BUSINESS/INTERNET EXPANSION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "travel",
+      "target_frame": "economics",
+      "categories": ["economics-and-finance", "social-dynamics"],
+      "source": "llm",
+      "description": "The SF frame of space colonization -- frontiers, pioneers, new worlds -- is applied to internet startups, platform expansion, and market entry. 'Digital frontier,' 'exploring new markets,' 'colonizing the space.' The frame imports: expansion is heroic, empty territory exists, first-movers have permanent advantage. Hides: the colonial metaphor's darker history."
+    },
+    {
+      "slug": "cryonics-is-death-deferral",
+      "name": "CRYONICS IS TECHNOLOGICAL DEATH DEFERRAL",
+      "kind": "cross-field-mapping",
+      "source_frame": "medicine",
+      "target_frame": "time-and-temporality",
+      "categories": ["health-and-medicine", "philosophy"],
+      "source": "archive",
+      "description": "SF's 'cold sleep' and cryogenic preservation (documented in SFE as major theme) became a real industry and a metaphor for deferring problems. 'Freeze the project' and 'put it in cold storage' borrow the frame. Real cryonics companies cite SF explicitly. The frame imports: time is a problem technology can solve, preservation is a pause button."
+    },
+    {
+      "slug": "uploading-is-digital-immortality",
+      "name": "MIND UPLOADING IS DIGITAL IMMORTALITY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "computing",
+      "categories": ["ai-discourse", "philosophy"],
+      "source": "archive",
+      "description": "From Egan's Permutation City (1994) and the broader SF tradition of mind uploading (SFE: 'Upload'). The frame structures transhumanist discourse: consciousness is software, bodies are hardware, death is a technical problem. Imports: identity is information, copies are continuations. Hides: the hard problem of consciousness, the ship of Theseus."
+    }
+  ]
+}
