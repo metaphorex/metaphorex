@@ -1,8 +1,8 @@
 ---
 slug: the-great-chain-of-being
 name: "The Great Chain of Being"
-kind: conceptual-metaphor
-source_frame: natural-selection
+kind: archetype
+source_frame: social-roles
 target_frame: social-roles
 categories:
   - cognitive-science
