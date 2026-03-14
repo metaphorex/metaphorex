@@ -1,7 +1,7 @@
 ---
 slug: tricorder-is-universal-sensor
 name: "Tricorder Is Universal Sensor"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: science-fiction
 target_frame: measurement
 categories:
