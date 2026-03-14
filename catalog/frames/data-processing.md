@@ -1,17 +1,19 @@
 ---
-slug: data-processing
-name: "Data Processing"
+created: '2026-03-07'
+name: Data Processing
 related:
-  - fluid-dynamics
-  - systems-performance
+- fluid-dynamics
+- systems-performance
 roles:
-  - data
-  - pipeline
-  - transform
-  - input
-  - output
-  - buffer
-  - stream
+- data
+- pipeline
+- transform
+- input
+- output
+- buffer
+- stream
+slug: data-processing
+updated: '2026-03-08'
 ---
 
 The mechanical transformation of data through sequential stages — ingestion,

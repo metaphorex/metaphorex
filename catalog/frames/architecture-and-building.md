@@ -1,19 +1,21 @@
 ---
-slug: architecture-and-building
-name: "Architecture and Building"
+created: '2026-03-08'
+name: Architecture and Building
 related:
-  - software-abstraction
-  - representation
+- software-abstraction
+- representation
 roles:
-  - builder
-  - architect
-  - blueprint
-  - foundation
-  - scaffold
-  - material
-  - structure
-  - facade
-  - interior
+- builder
+- architect
+- blueprint
+- foundation
+- scaffold
+- material
+- structure
+- facade
+- interior
+slug: architecture-and-building
+updated: '2026-03-10'
 ---
 
 The design, construction, and maintenance of physical structures. Encompasses

@@ -1,19 +1,21 @@
 ---
-slug: ai-is-a-pair-programmer
-name: "AI Is a Pair Programmer"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- software-engineering
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: AI Is a Pair Programmer
+related:
+- ai-is-a-tool
+- ai-is-a-prosthesis
+slug: ai-is-a-pair-programmer
 source_frame: collaborative-work
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - software-engineering
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-tool
-  - ai-is-a-prosthesis
+updated: '2026-03-13'
 ---
 
 ## What It Brings

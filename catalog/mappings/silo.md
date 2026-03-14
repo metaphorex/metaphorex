@@ -1,15 +1,17 @@
 ---
-slug: silo
-name: "Silo"
+author: agent:metaphorex-miner
+categories:
+- linguistics
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: dead-metaphor
+name: Silo
+related: []
+slug: silo
 source_frame: agriculture
 target_frame: abstract-organization
-categories:
-  - linguistics
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related: []
+updated: '2026-03-13'
 ---
 
 ## What It Brings

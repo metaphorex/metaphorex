@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Significant Is Big
@@ -14,6 +15,7 @@ related:
 slug: significant-is-big
 source_frame: embodied-experience
 target_frame: social-behavior
+updated: '2026-03-14'
 ---
 
 ## What It Brings

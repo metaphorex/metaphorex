@@ -1,15 +1,17 @@
 ---
-slug: mythology
-name: "Mythology"
+created: '2026-03-07'
+name: Mythology
 related:
-  - social-roles
+- social-roles
 roles:
-  - figure
-  - culture
-  - narrative
-  - moral
-  - transformation
-  - threshold
+- figure
+- culture
+- narrative
+- moral
+- transformation
+- threshold
+slug: mythology
+updated: '2026-03-10'
 ---
 
 Sacred or traditional narratives that encode a culture's understanding of

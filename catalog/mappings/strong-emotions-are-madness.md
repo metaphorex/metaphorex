@@ -1,22 +1,24 @@
 ---
-slug: strong-emotions-are-madness
-name: "Strong Emotions Are Madness"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Strong Emotions Are Madness
+related:
+- strong-emotion-is-blinding
+- intense-emotions-are-heat
+- love-is-madness
+- emotions-are-forces
+- emotions-are-entities-within-a-person
+slug: strong-emotions-are-madness
 source_frame: madness
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - strong-emotion-is-blinding
-  - intense-emotions-are-heat
-  - love-is-madness
-  - emotions-are-forces
-  - emotions-are-entities-within-a-person
+updated: '2026-03-13'
 ---
 
 ## What It Brings

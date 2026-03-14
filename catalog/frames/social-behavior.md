@@ -1,16 +1,18 @@
 ---
-slug: social-behavior
-name: "Social Behavior"
+created: '2026-03-07'
+name: Social Behavior
 related:
-  - social-roles
-  - competition
+- social-roles
+- competition
 roles:
-  - individual
-  - group
-  - norm
-  - status
-  - challenger
-  - ally
+- individual
+- group
+- norm
+- status
+- challenger
+- ally
+slug: social-behavior
+updated: '2026-03-10'
 ---
 
 How organisms (including humans) interact in groups. Covers

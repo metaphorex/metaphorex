@@ -1,19 +1,21 @@
 ---
-slug: time-is-a-resource
-name: "Time Is a Resource"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Time Is a Resource
+related:
+- time-is-money
+- time-is-a-limited-resource
+slug: time-is-a-resource
 source_frame: economics
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - time-is-money
-  - time-is-a-limited-resource
+updated: '2026-03-13'
 ---
 
 ## What It Brings

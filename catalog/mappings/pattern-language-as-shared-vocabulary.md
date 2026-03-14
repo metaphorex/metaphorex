@@ -5,6 +5,7 @@ categories:
 - organizational-behavior
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: paradigm
 name: Pattern Language as Shared Vocabulary
@@ -14,6 +15,7 @@ related:
 slug: pattern-language-as-shared-vocabulary
 source_frame: social-behavior
 target_frame: collaborative-work
+updated: '2026-03-14'
 ---
 
 ## What It Brings

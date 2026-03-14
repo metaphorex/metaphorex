@@ -1,22 +1,24 @@
 ---
-slug: intense-emotions-are-heat
-name: "Intense Emotions Are Heat"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Intense Emotions Are Heat
+related:
+- fear-is-cold
+- emotions-are-forces
+- emotions-are-entities-within-a-person
+- desire-is-hunger
+- love-is-a-physical-force
+slug: intense-emotions-are-heat
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - fear-is-cold
-  - emotions-are-forces
-  - emotions-are-entities-within-a-person
-  - desire-is-hunger
-  - love-is-a-physical-force
+updated: '2026-03-12'
 ---
 
 ## What It Brings

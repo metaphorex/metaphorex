@@ -1,20 +1,22 @@
 ---
-slug: moral-accounting
-name: "Moral Accounting"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Moral Accounting
+related:
+- mental-accounting
+- time-is-money
+- morality-is-cleanliness
+slug: moral-accounting
 source_frame: economics
 target_frame: ethics-and-morality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - mental-accounting
-  - time-is-money
-  - morality-is-cleanliness
+updated: '2026-03-13'
 ---
 
 ## What It Brings

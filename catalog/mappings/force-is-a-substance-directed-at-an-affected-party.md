@@ -1,20 +1,22 @@
 ---
-slug: force-is-a-substance-directed-at-an-affected-party
-name: "Force Is a Substance Directed at an Affected Party"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Force Is a Substance Directed at an Affected Party
+related:
+- a-force-is-a-moving-object
+- causes-are-forces
+- psychological-forces-are-physical-forces
+- obligations-are-forces
+slug: force-is-a-substance-directed-at-an-affected-party
 source_frame: fluid-dynamics
 target_frame: physics
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - a-force-is-a-moving-object
-  - causes-are-forces
-  - psychological-forces-are-physical-forces
-  - obligations-are-forces
+updated: '2026-03-12'
 ---
 
 ## What It Brings

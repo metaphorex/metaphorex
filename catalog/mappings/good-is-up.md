@@ -7,6 +7,7 @@ categories:
 - ethics-and-morality
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Good Is Up; Bad Is Down
@@ -18,6 +19,7 @@ related:
 slug: good-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
+updated: '2026-03-14'
 ---
 
 ## What It Brings

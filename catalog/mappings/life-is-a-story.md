@@ -1,19 +1,21 @@
 ---
-slug: life-is-a-story
-name: "Life Is a Story"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Life Is a Story
+related:
+- life-is-a-journey
+- death-is-departure
+slug: life-is-a-story
 source_frame: narrative
 target_frame: life-course
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - life-is-a-journey
-  - death-is-departure
+updated: '2026-03-13'
 ---
 
 ## What It Brings

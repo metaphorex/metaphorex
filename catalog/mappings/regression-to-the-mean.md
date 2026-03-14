@@ -1,19 +1,21 @@
 ---
-slug: regression-to-the-mean
-name: "Regression to the Mean"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Regression to the Mean
+related:
+- the-map-is-not-the-territory
+- latticework-of-mental-models
+- power-laws
+slug: regression-to-the-mean
 source_frame: probability
 target_frame: causal-reasoning
-categories:
-  - cognitive-science
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-map-is-not-the-territory
-  - latticework-of-mental-models
-  - power-laws
+updated: '2026-03-13'
 ---
 
 ## What It Brings

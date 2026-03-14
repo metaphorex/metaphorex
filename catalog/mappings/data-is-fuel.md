@@ -1,19 +1,21 @@
 ---
-slug: data-is-fuel
-name: "Data Is Fuel"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Data Is Fuel
+related:
+- neural-network-is-a-brain
+- compute-is-a-resource
+- time-is-a-resource
+slug: data-is-fuel
 source_frame: natural-resources
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - neural-network-is-a-brain
-  - compute-is-a-resource
-  - time-is-a-resource
+updated: '2026-03-13'
 ---
 
 ## What It Brings

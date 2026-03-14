@@ -1,17 +1,19 @@
 ---
-slug: ai-is-an-oracle
-name: "AI Is an Oracle"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- philosophy
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: AI Is an Oracle
+related:
+- ai-is-a-tool
+- ai-is-an-agent
+slug: ai-is-an-oracle
 source_frame: religion
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - ai-is-a-tool
-  - ai-is-an-agent
+updated: '2026-03-13'
 ---
 
 ## What It Brings

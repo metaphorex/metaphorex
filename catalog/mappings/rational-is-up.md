@@ -6,6 +6,7 @@ categories:
 - philosophy
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: Rational Is Up; Emotional Is Down
 related:
@@ -15,6 +16,7 @@ related:
 slug: rational-is-up
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
+updated: '2026-03-14'
 ---
 
 ## What It Brings

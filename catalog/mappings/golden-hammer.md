@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Golden Hammer
@@ -13,6 +14,7 @@ related:
 slug: golden-hammer
 source_frame: tool-use
 target_frame: software-programs
+updated: '2026-03-14'
 ---
 
 ## What It Brings

@@ -1,16 +1,18 @@
 ---
-slug: competition
-name: "Competition"
+created: '2026-03-07'
+name: Competition
 related:
-  - war
-  - natural-selection
-  - argumentation
+- war
+- natural-selection
+- argumentation
 roles:
-  - competitor
-  - arena
-  - strategy
-  - outcome
-  - prize
+- competitor
+- arena
+- strategy
+- outcome
+- prize
+slug: competition
+updated: '2026-03-10'
 ---
 
 Structured rivalry within agreed-upon rules and a bounded arena. Unlike war,

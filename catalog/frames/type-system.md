@@ -1,18 +1,20 @@
 ---
-slug: type-system
-name: "Type System"
 broader: computing
+created: '2026-03-11'
+name: Type System
 related:
-  - software-programs
-  - software-abstraction
+- software-programs
+- software-abstraction
 roles:
-  - type
-  - value
-  - conversion
-  - constraint
-  - compatibility
-  - hierarchy
-  - inference
+- type
+- value
+- conversion
+- constraint
+- compatibility
+- hierarchy
+- inference
+slug: type-system
+updated: '2026-03-11'
 ---
 
 The classification of values and expressions in a programming language

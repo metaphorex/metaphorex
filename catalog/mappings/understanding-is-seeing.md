@@ -6,6 +6,7 @@ categories:
 - philosophy
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: Understanding Is Seeing
 related:
@@ -14,6 +15,7 @@ related:
 slug: understanding-is-seeing
 source_frame: vision
 target_frame: intellectual-inquiry
+updated: '2026-03-14'
 ---
 
 ## What It Brings

@@ -1,18 +1,20 @@
 ---
-slug: bicycle-for-the-mind
-name: "Bicycle for the Mind"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Bicycle for the Mind
+related:
+- ai-is-a-tool
+- ai-is-a-prosthesis
+slug: bicycle-for-the-mind
 source_frame: embodied-experience
 target_frame: computing
-categories:
-  - ai-discourse
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-tool
-  - ai-is-a-prosthesis
+updated: '2026-03-13'
 ---
 
 ## What It Brings

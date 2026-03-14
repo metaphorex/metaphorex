@@ -1,21 +1,23 @@
 ---
-slug: music
-name: "Music"
+created: '2026-03-12'
+name: Music
 related:
-  - creative-process
-  - embodied-experience
+- creative-process
+- embodied-experience
 roles:
-  - harmony
-  - melody
-  - rhythm
-  - consonance
-  - dissonance
-  - key
-  - tempo
-  - instrument
-  - performer
-  - ensemble
-  - tuning
+- harmony
+- melody
+- rhythm
+- consonance
+- dissonance
+- key
+- tempo
+- instrument
+- performer
+- ensemble
+- tuning
+slug: music
+updated: '2026-03-12'
 ---
 
 The production and perception of organized sound. As a source domain for

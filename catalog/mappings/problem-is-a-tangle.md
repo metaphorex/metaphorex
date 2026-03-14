@@ -1,19 +1,21 @@
 ---
-slug: problem-is-a-tangle
-name: "Problem Is a Tangle"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Problem Is a Tangle
+related:
+- problem-is-a-constructed-object
+- a-problem-is-a-body-of-water
+- difficulties-are-impediments-to-motion
+slug: problem-is-a-tangle
 source_frame: embodied-experience
 target_frame: causal-reasoning
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - problem-is-a-constructed-object
-  - a-problem-is-a-body-of-water
-  - difficulties-are-impediments-to-motion
+updated: '2026-03-13'
 ---
 
 ## What It Brings

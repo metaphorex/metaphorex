@@ -1,18 +1,20 @@
 ---
-slug: lollapalooza-effect
-name: "Lollapalooza Effect"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Lollapalooza Effect
+related:
+- incentive-caused-bias
+- the-map-is-not-the-territory
+slug: lollapalooza-effect
 source_frame: physics
 target_frame: social-behavior
-categories:
-  - psychology
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - incentive-caused-bias
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

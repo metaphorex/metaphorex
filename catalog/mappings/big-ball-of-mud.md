@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Big Ball of Mud
@@ -13,6 +14,7 @@ related:
 slug: big-ball-of-mud
 source_frame: embodied-experience
 target_frame: software-programs
+updated: '2026-03-14'
 ---
 
 ## What It Brings

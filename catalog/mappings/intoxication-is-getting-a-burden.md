@@ -1,18 +1,20 @@
 ---
-slug: intoxication-is-getting-a-burden
-name: "Intoxication Is Getting A Burden"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Intoxication Is Getting A Burden
+related:
+- intoxication-is-becoming-electrified
+- difficulties-are-impediments-to-motion
+slug: intoxication-is-getting-a-burden
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - intoxication-is-becoming-electrified
-  - difficulties-are-impediments-to-motion
+updated: '2026-03-12'
 ---
 
 ## What It Brings

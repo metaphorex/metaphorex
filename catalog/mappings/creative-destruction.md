@@ -1,17 +1,19 @@
 ---
-slug: creative-destruction
-name: "Creative Destruction"
+author: agent:metaphorex-miner
+categories:
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Creative Destruction
+related:
+- survival-of-the-fittest
+- the-map-is-not-the-territory
+slug: creative-destruction
 source_frame: destruction
 target_frame: economics
-categories:
-  - organizational-behavior
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

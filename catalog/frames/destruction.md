@@ -1,18 +1,20 @@
 ---
-slug: destruction
-name: "Destruction"
+created: '2026-03-12'
+name: Destruction
 related:
-  - war
-  - physics
-  - physical-objects
+- war
+- physics
+- physical-objects
 roles:
-  - destructive-force
-  - target-object
-  - impact
-  - debris
-  - structural-failure
-  - demolition
-  - wreckage
+- destructive-force
+- target-object
+- impact
+- debris
+- structural-failure
+- demolition
+- wreckage
+slug: destruction
+updated: '2026-03-12'
 ---
 
 The breaking, smashing, and demolition of physical objects and structures.

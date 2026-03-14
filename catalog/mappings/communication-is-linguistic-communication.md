@@ -1,18 +1,20 @@
 ---
-slug: communication-is-linguistic-communication
-name: "Communication Is Linguistic Communication"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Communication Is Linguistic Communication
+related:
+- the-conduit-metaphor
+- communication-is-sending
+slug: communication-is-linguistic-communication
 source_frame: language
 target_frame: communication
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-conduit-metaphor
-  - communication-is-sending
+updated: '2026-03-13'
 ---
 
 ## What It Brings

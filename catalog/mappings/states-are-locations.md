@@ -6,6 +6,7 @@ categories:
 - philosophy
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: States Are Locations
@@ -16,6 +17,7 @@ related:
 slug: states-are-locations
 source_frame: journeys
 target_frame: event-structure
+updated: '2026-03-14'
 ---
 
 ## What It Brings

@@ -1,19 +1,21 @@
 ---
-slug: problem-is-a-constructed-object
-name: "Problem Is a Constructed Object"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Problem Is a Constructed Object
+related:
+- theories-are-buildings
+- a-problem-is-a-body-of-water
+- argument-is-a-building
+slug: problem-is-a-constructed-object
 source_frame: architecture-and-building
 target_frame: causal-reasoning
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - theories-are-buildings
-  - a-problem-is-a-body-of-water
-  - argument-is-a-building
+updated: '2026-03-13'
 ---
 
 ## What It Brings

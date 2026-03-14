@@ -1,20 +1,22 @@
 ---
-slug: emotional-intimacy-is-physical-closeness
-name: "Emotional Intimacy Is Physical Closeness"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Emotional Intimacy Is Physical Closeness
+related:
+- love-is-a-journey
+- love-is-a-unity
+- emotions-are-entities-within-a-person
+slug: emotional-intimacy-is-physical-closeness
 source_frame: embodied-experience
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-a-journey
-  - love-is-a-unity
-  - emotions-are-entities-within-a-person
+updated: '2026-03-12'
 ---
 
 ## What It Brings

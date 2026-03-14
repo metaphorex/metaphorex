@@ -1,20 +1,22 @@
 ---
-slug: emotion-is-motion
-name: "Emotion Is Motion"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Emotion Is Motion
+related:
+- emotions-are-entities-within-a-person
+- emotional-stability-is-balance
+- emotional-stability-is-contact-with-the-ground
+slug: emotion-is-motion
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotions-are-entities-within-a-person
-  - emotional-stability-is-balance
-  - emotional-stability-is-contact-with-the-ground
+updated: '2026-03-12'
 ---
 
 ## What It Brings

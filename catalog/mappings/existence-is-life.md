@@ -1,21 +1,23 @@
 ---
-slug: existence-is-life
-name: "Existence Is Life"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Existence Is Life
+related:
+- existence-is-a-location
+- existence-is-an-object
+- existence-is-having-a-form
+- beliefs-are-beings-with-a-life-cycle
+slug: existence-is-life
 source_frame: life-course
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - existence-is-a-location
-  - existence-is-an-object
-  - existence-is-having-a-form
-  - beliefs-are-beings-with-a-life-cycle
+updated: '2026-03-12'
 ---
 
 ## What It Brings

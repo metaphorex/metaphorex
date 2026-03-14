@@ -1,19 +1,21 @@
 ---
-slug: aviation
-name: "Aviation"
+created: '2026-03-13'
+name: Aviation
 related:
-  - tool-use
-  - journeys
+- tool-use
+- journeys
 roles:
-  - pilot
-  - copilot
-  - aircraft
-  - cockpit
-  - instruments
-  - flight-plan
-  - altitude
-  - navigation
-  - autopilot
+- pilot
+- copilot
+- aircraft
+- cockpit
+- instruments
+- flight-plan
+- altitude
+- navigation
+- autopilot
+slug: aviation
+updated: '2026-03-13'
 ---
 
 The domain of powered flight, organized around a strict hierarchy of

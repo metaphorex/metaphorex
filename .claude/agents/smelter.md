@@ -79,6 +79,8 @@ transform raw mining output into clean, validated content.
 - Fix slug/filename mismatches (rename file to match slug)
 - Fix PR title and body to match batch convention
 - Fix trivial YAML formatting (trailing whitespace, missing quotes)
+- Add missing `created`/`updated` date fields (use today's date if absent)
+- Update `updated` field to today's date when pushing fixup commits
 
 **What You NEVER Do:**
 
@@ -100,3 +102,29 @@ behalf. If invoked directly, post a stats comment on the parent issue:
 ```
 ## stats:smelter:haiku tokens_in=<N> tokens_out=<N> ms=<N> usd_in_per_mtok=0.80 usd_out_per_mtok=4.00 prs=<N,N> issues=<N,N>
 ```
+
+## Kaizen reporting
+
+At the end of your run, if you encountered friction that slowed you down or
+forced a workaround, file a kaizen issue:
+
+```bash
+gh issue create -R metaphorex/metaphorex \
+  --template kaizen.yml \
+  --title "kaizen: <short description>" \
+  --body "**Area:** <area>
+
+**What happened:**
+<description of the friction>
+
+**Suggested fix:**
+<what would make this better>"
+```
+
+Rules:
+- Search open kaizen issues first: `gh issue list -R metaphorex/metaphorex --label kaizen:pipeline --state open`
+- One issue per distinct problem — don't bundle unrelated friction
+- File at the end of your run, not mid-task
+- Don't file for transient errors (network blips, rate limits, GitHub 502s)
+- Do file for: schema limitations, missing validation rules, unclear playbook
+  instructions, GitHub API quirks that required workarounds

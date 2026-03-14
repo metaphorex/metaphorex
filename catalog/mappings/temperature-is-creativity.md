@@ -1,19 +1,21 @@
 ---
-slug: temperature-is-creativity
-name: "Temperature Is Creativity"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Temperature Is Creativity
+related:
+- ai-hallucination-is-perception-disorder
+- compute-is-a-resource
+- context-window-is-working-memory
+slug: temperature-is-creativity
 source_frame: physics
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-hallucination-is-perception-disorder
-  - compute-is-a-resource
-  - context-window-is-working-memory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

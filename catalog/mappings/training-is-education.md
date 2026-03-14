@@ -1,18 +1,20 @@
 ---
-slug: training-is-education
-name: "Training Is Education"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Training Is Education
+related:
+- ai-hallucination-is-perception-disorder
+- neural-network-is-a-brain
+slug: training-is-education
 source_frame: education
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-hallucination-is-perception-disorder
-  - neural-network-is-a-brain
+updated: '2026-03-13'
 ---
 
 ## What It Brings

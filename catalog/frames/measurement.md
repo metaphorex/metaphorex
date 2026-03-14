@@ -1,17 +1,19 @@
 ---
-slug: measurement
-name: "Measurement"
+created: '2026-03-12'
+name: Measurement
 related:
-  - embodied-experience
-  - physics
+- embodied-experience
+- physics
 roles:
-  - scale
-  - unit
-  - degree
-  - zero-point
-  - endpoint
-  - interval
-  - reading
+- scale
+- unit
+- degree
+- zero-point
+- endpoint
+- interval
+- reading
+slug: measurement
+updated: '2026-03-12'
 ---
 
 Quantification of properties along ordered dimensions. Linear scales assign

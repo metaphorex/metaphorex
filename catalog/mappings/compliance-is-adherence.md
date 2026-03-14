@@ -1,18 +1,20 @@
 ---
-slug: compliance-is-adherence
-name: "Compliance Is Adherence"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Compliance Is Adherence
+related:
+- obligations-are-forces
+slug: compliance-is-adherence
 source_frame: physical-connection
 target_frame: rule-following
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - obligations-are-forces
+updated: '2026-03-12'
 ---
 
 ## What It Brings

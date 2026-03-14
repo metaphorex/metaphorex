@@ -1,19 +1,21 @@
 ---
-slug: fine-tuning-is-specialization
-name: "Fine-Tuning Is Specialization"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Fine-Tuning Is Specialization
+related:
+- training-is-education
+- compute-is-a-resource
+- ai-is-a-tool
+slug: fine-tuning-is-specialization
 source_frame: music
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - training-is-education
-  - compute-is-a-resource
-  - ai-is-a-tool
+updated: '2026-03-13'
 ---
 
 ## What It Brings

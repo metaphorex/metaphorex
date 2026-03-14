@@ -7,6 +7,7 @@ categories:
 - physics-and-engineering
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Obligations Are Forces
@@ -16,6 +17,7 @@ related:
 slug: obligations-are-forces
 source_frame: embodied-experience
 target_frame: event-structure
+updated: '2026-03-14'
 ---
 
 ## What It Brings

@@ -1,19 +1,21 @@
 ---
-slug: religion
-name: "Religion"
+created: '2026-03-11'
+name: Religion
 related:
-  - mythology
-  - social-roles
+- mythology
+- social-roles
 roles:
-  - deity
-  - worshipper
-  - omniscience
-  - omnipotence
-  - omnipresence
-  - doctrine
-  - heresy
-  - monotheism
-  - polytheism
+- deity
+- worshipper
+- omniscience
+- omnipotence
+- omnipresence
+- doctrine
+- heresy
+- monotheism
+- polytheism
+slug: religion
+updated: '2026-03-11'
 ---
 
 The structured relationship between humans and the divine, organized around

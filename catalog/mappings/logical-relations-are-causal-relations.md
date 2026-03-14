@@ -1,20 +1,22 @@
 ---
-slug: logical-relations-are-causal-relations
-name: "Logical Relations Are Causal Relations"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Logical Relations Are Causal Relations
+related:
+- psychological-forces-are-physical-forces
+- logic-is-gravity
+- causes-are-forces
+slug: logical-relations-are-causal-relations
 source_frame: causal-reasoning
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - psychological-forces-are-physical-forces
-  - logic-is-gravity
-  - causes-are-forces
+updated: '2026-03-12'
 ---
 
 ## What It Brings

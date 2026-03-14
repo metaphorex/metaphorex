@@ -5,6 +5,7 @@ categories:
 - cognitive-science
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Cargo Cult Programming
@@ -13,6 +14,7 @@ related:
 slug: cargo-cult-programming
 source_frame: social-behavior
 target_frame: software-programs
+updated: '2026-03-14'
 ---
 
 ## What It Brings

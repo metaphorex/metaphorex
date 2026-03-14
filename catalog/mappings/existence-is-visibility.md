@@ -1,22 +1,24 @@
 ---
-slug: existence-is-visibility
-name: "Existence Is Visibility"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Existence Is Visibility
+related:
+- existence-is-a-location
+- existence-is-an-object
+- existence-is-having-a-form
+- existence-is-life
+- understanding-is-seeing
+slug: existence-is-visibility
 source_frame: vision
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - existence-is-a-location
-  - existence-is-an-object
-  - existence-is-having-a-form
-  - existence-is-life
-  - understanding-is-seeing
+updated: '2026-03-12'
 ---
 
 ## What It Brings

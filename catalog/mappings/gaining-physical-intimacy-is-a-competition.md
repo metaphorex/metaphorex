@@ -1,20 +1,22 @@
 ---
-slug: gaining-physical-intimacy-is-a-competition
-name: "Gaining Physical Intimacy (Against Resistance) Is a Competition"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- social-dynamics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Gaining Physical Intimacy (Against Resistance) Is a Competition
+related:
+- love-is-war
+- love-is-a-physical-force
+- emotional-intimacy-is-physical-closeness
+slug: gaining-physical-intimacy-is-a-competition
 source_frame: competition
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - social-dynamics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-war
-  - love-is-a-physical-force
-  - emotional-intimacy-is-physical-closeness
+updated: '2026-03-12'
 ---
 
 ## What It Brings

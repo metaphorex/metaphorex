@@ -1,20 +1,22 @@
 ---
-slug: logic-is-gravity
-name: "Logic Is Gravity"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Logic Is Gravity
+related:
+- psychological-forces-are-physical-forces
+- ideas-are-perceptions
+- understanding-is-seeing
+slug: logic-is-gravity
 source_frame: physics
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - psychological-forces-are-physical-forces
-  - ideas-are-perceptions
-  - understanding-is-seeing
+updated: '2026-03-12'
 ---
 
 ## What It Brings

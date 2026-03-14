@@ -1,17 +1,19 @@
 ---
-slug: natural-phenomena
-name: "Natural Phenomena"
+created: '2026-03-11'
+name: Natural Phenomena
 related:
-  - embodied-experience
+- embodied-experience
 roles:
-  - force
-  - material
-  - process
-  - terrain
-  - accumulation
-  - erosion
-  - eruption
-  - flow
+- force
+- material
+- process
+- terrain
+- accumulation
+- erosion
+- eruption
+- flow
+slug: natural-phenomena
+updated: '2026-03-11'
 ---
 
 Geological, volcanic, oceanic, atmospheric, and other natural processes

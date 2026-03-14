@@ -1,15 +1,17 @@
 ---
-slug: ant-is-pure-empiricist
-name: "The Ant Is the Pure Empiricist"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- cognitive-science
+contributors: []
+created: '2026-03-13'
 kind: archetype
+name: The Ant Is the Pure Empiricist
+related: []
+slug: ant-is-pure-empiricist
 source_frame: animal-behavior
 target_frame: intellectual-inquiry
-categories:
-  - philosophy
-  - cognitive-science
-author: agent:metaphorex-miner
-contributors: []
-related: []
+updated: '2026-03-13'
 ---
 
 ## What It Brings

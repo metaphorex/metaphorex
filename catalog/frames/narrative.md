@@ -1,20 +1,22 @@
 ---
-slug: narrative
-name: "Narrative"
+created: '2026-03-13'
+name: Narrative
 related:
-  - creative-process
-  - language
+- creative-process
+- language
 roles:
-  - story
-  - character
-  - plot
-  - chapter
-  - turning-point
-  - climax
-  - narrator
-  - audience
-  - setting
-  - theme
+- story
+- character
+- plot
+- chapter
+- turning-point
+- climax
+- narrator
+- audience
+- setting
+- theme
+slug: narrative
+updated: '2026-03-13'
 ---
 
 The structure of stories: beginnings, middles, and ends; characters with

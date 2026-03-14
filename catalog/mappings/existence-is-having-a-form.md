@@ -1,19 +1,21 @@
 ---
-slug: existence-is-having-a-form
-name: "Existence Is Having A Form"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Existence Is Having A Form
+related:
+- existence-is-a-location
+- existence-is-an-object
+slug: existence-is-having-a-form
 source_frame: physical-objects
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - existence-is-a-location
-  - existence-is-an-object
+updated: '2026-03-12'
 ---
 
 ## What It Brings

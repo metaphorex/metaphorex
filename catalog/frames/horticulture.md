@@ -1,17 +1,19 @@
 ---
-slug: horticulture
-name: "Horticulture"
+created: '2026-03-07'
+name: Horticulture
 related:
-  - natural-selection
+- natural-selection
 roles:
-  - gardener
-  - plant
-  - soil
-  - seed
-  - season
-  - harvest
-  - pest
-  - root
+- gardener
+- plant
+- soil
+- seed
+- season
+- harvest
+- pest
+- root
+slug: horticulture
+updated: '2026-03-10'
 ---
 
 The deliberate cultivation of plants — planting, tending, pruning, and

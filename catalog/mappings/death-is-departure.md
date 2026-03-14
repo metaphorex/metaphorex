@@ -1,19 +1,21 @@
 ---
-slug: death-is-departure
-name: "Death Is Departure"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Death Is Departure
+related:
+- life-is-a-journey
+- life-is-a-story
+slug: death-is-departure
 source_frame: journeys
 target_frame: life-course
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - life-is-a-journey
-  - life-is-a-story
+updated: '2026-03-13'
 ---
 
 ## What It Brings

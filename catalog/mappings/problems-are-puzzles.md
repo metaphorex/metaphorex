@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Problems Are Puzzles
@@ -12,6 +13,7 @@ related: []
 slug: problems-are-puzzles
 source_frame: puzzles-and-games
 target_frame: intellectual-inquiry
+updated: '2026-03-14'
 ---
 
 ## What It Brings

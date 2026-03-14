@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: Happy Is Up; Sad Is Down
 related:
@@ -13,6 +14,7 @@ related:
 slug: happy-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
+updated: '2026-03-14'
 ---
 
 ## What It Brings

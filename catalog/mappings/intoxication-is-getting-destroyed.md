@@ -1,19 +1,21 @@
 ---
-slug: intoxication-is-getting-destroyed
-name: "Intoxication Is Getting Destroyed"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Intoxication Is Getting Destroyed
+related:
+- intoxication-is-getting-a-burden
+- intoxication-is-becoming-electrified
+- the-mind-is-a-brittle-object
+slug: intoxication-is-getting-destroyed
 source_frame: destruction
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - intoxication-is-getting-a-burden
-  - intoxication-is-becoming-electrified
-  - the-mind-is-a-brittle-object
+updated: '2026-03-12'
 ---
 
 ## What It Brings

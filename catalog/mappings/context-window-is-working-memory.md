@@ -1,20 +1,22 @@
 ---
-slug: context-window-is-working-memory
-name: "Context Window Is Working Memory"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Context Window Is Working Memory
+related:
+- ai-hallucination-is-perception-disorder
+- neural-network-is-a-brain
+- training-is-education
+- chain-of-thought-is-self-talk
+slug: context-window-is-working-memory
 source_frame: mental-experience
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-hallucination-is-perception-disorder
-  - neural-network-is-a-brain
-  - training-is-education
-  - chain-of-thought-is-self-talk
+updated: '2026-03-13'
 ---
 
 ## What It Brings

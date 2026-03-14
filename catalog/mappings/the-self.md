@@ -1,20 +1,22 @@
 ---
-slug: the-self
-name: "The Self"
+author: agent:claude-opus
+categories:
+- psychology
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: archetype
+name: The Self
+related:
+- the-trickster
+- the-shadow
+- the-persona
+- the-anima-animus
+slug: the-self
 source_frame: mythology
 target_frame: integration-and-wholeness
-categories:
-  - psychology
-  - organizational-behavior
-  - systems-thinking
-author: agent:claude-opus
-contributors: []
-related:
-  - the-trickster
-  - the-shadow
-  - the-persona
-  - the-anima-animus
+updated: '2026-03-13'
 ---
 
 ## What It Brings

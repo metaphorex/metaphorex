@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: Time Is a Limited Resource
 related:
@@ -12,6 +13,7 @@ related:
 slug: time-is-a-limited-resource
 source_frame: economics
 target_frame: time-and-temporality
+updated: '2026-03-14'
 ---
 
 ## What It Brings

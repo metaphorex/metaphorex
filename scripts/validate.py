@@ -34,9 +34,9 @@ VALID_KINDS = {
     "paradigm",
 }
 
-REQUIRED_MAPPING_FIELDS = {"slug", "name", "kind", "source_frame", "target_frame", "categories", "author"}
-REQUIRED_FRAME_FIELDS = {"slug", "name", "roles"}
-REQUIRED_CATEGORY_FIELDS = {"slug", "name"}
+REQUIRED_MAPPING_FIELDS = {"slug", "name", "kind", "source_frame", "target_frame", "categories", "author", "created", "updated"}
+REQUIRED_FRAME_FIELDS = {"slug", "name", "roles", "created", "updated"}
+REQUIRED_CATEGORY_FIELDS = {"slug", "name", "created", "updated"}
 
 REQUIRED_MAPPING_SECTIONS = {"What It Brings", "Where It Breaks", "Expressions"}
 

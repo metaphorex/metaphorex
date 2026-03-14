@@ -1,16 +1,18 @@
 ---
-slug: software-development-is-cathedral-building
-name: "Software Development Is Cathedral Building"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Software Development Is Cathedral Building
+related:
+- survival-of-the-fittest
+slug: software-development-is-cathedral-building
 source_frame: architecture-and-building
 target_frame: software-engineering
-categories:
-  - software-engineering
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

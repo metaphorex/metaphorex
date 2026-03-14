@@ -1,20 +1,22 @@
 ---
-slug: properties-are-contents
-name: "Properties Are Contents"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Properties Are Contents
+related:
+- properties-are-possessions
+- activities-are-containers
+- states-are-locations
+- properties-are-physical-properties
+slug: properties-are-contents
 source_frame: containers
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - properties-are-possessions
-  - activities-are-containers
-  - states-are-locations
-  - properties-are-physical-properties
+updated: '2026-03-13'
 ---
 
 ## What It Brings

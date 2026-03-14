@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Software Rot
@@ -13,6 +14,7 @@ related:
 slug: software-rot
 source_frame: embodied-experience
 target_frame: software-programs
+updated: '2026-03-14'
 ---
 
 ## What It Brings

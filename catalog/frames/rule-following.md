@@ -1,17 +1,19 @@
 ---
-slug: rule-following
-name: "Rule-Following"
+created: '2026-03-12'
+name: Rule-Following
 related:
-  - governance
-  - social-roles
+- governance
+- social-roles
 roles:
-  - rule
-  - rule-follower
-  - norm
-  - compliance
-  - deviation
-  - conformity
-  - violation
+- rule
+- rule-follower
+- norm
+- compliance
+- deviation
+- conformity
+- violation
+slug: rule-following
+updated: '2026-03-12'
 ---
 
 The domain of agents orienting their behavior toward rules, norms, and

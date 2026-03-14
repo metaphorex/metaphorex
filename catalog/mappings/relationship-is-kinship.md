@@ -1,19 +1,21 @@
 ---
-slug: relationship-is-kinship
-name: "Relationship Is Kinship"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- social-dynamics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Relationship Is Kinship
+related:
+- love-is-a-journey
+- emotional-stability-is-balance
+slug: relationship-is-kinship
 source_frame: social-roles
 target_frame: social-behavior
-categories:
-  - cognitive-science
-  - linguistics
-  - social-dynamics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-a-journey
-  - emotional-stability-is-balance
+updated: '2026-03-13'
 ---
 
 ## What It Brings

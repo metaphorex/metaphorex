@@ -1,19 +1,21 @@
 ---
-slug: time-is-a-container
-name: "Time Is a Container"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Time Is a Container
+related:
+- time-is-money
+- time-is-a-changer
+- activities-are-containers
+slug: time-is-a-container
 source_frame: containers
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - time-is-money
-  - time-is-a-changer
-  - activities-are-containers
+updated: '2026-03-13'
 ---
 
 ## What It Brings

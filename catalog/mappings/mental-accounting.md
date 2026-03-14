@@ -1,19 +1,21 @@
 ---
-slug: mental-accounting
-name: "Mental Accounting"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Mental Accounting
+related:
+- time-is-money
+- moral-accounting
+slug: mental-accounting
 source_frame: economics
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - time-is-money
-  - moral-accounting
+updated: '2026-03-13'
 ---
 
 ## What It Brings

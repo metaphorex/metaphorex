@@ -1,16 +1,18 @@
 ---
-slug: software-programs
-name: "Software Programs"
 broader: computing
+created: '2026-03-07'
+name: Software Programs
 related:
-  - data-processing
-  - software-abstraction
+- data-processing
+- software-abstraction
 roles:
-  - program
-  - input
-  - output
-  - failure-mode
-  - operator
+- program
+- input
+- output
+- failure-mode
+- operator
+slug: software-programs
+updated: '2026-03-07'
 ---
 
 Executable processes that take input, transform it, and produce output.

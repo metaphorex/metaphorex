@@ -1,19 +1,21 @@
 ---
-slug: guardrails
-name: "Guardrails"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- security
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: dead-metaphor
+name: Guardrails
+related:
+- ai-safety-is-containment
+- ai-is-an-agent
+- ai-is-a-tool
+slug: guardrails
 source_frame: journeys
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - security
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-safety-is-containment
-  - ai-is-an-agent
-  - ai-is-a-tool
+updated: '2026-03-13'
 ---
 
 ## What It Brings

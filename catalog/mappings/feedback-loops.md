@@ -1,16 +1,18 @@
 ---
-slug: feedback-loops
-name: "Feedback Loops"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Feedback Loops
+related:
+- the-map-is-not-the-territory
+slug: feedback-loops
 source_frame: physics
 target_frame: systems-thinking
-categories:
-  - systems-thinking
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

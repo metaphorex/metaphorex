@@ -1,17 +1,19 @@
 ---
-slug: data-flow-is-fluid-flow
-name: "Data Flow Is Fluid Flow"
+author: fshot
+categories:
+- software-engineering
+- systems-thinking
+contributors: []
+created: '2026-03-07'
 kind: paradigm
+name: Data Flow Is Fluid Flow
+related:
+- program-failure-is-bodily-failure
+- bottleneck
+slug: data-flow-is-fluid-flow
 source_frame: fluid-dynamics
 target_frame: data-processing
-categories:
-  - software-engineering
-  - systems-thinking
-author: fshot
-contributors: []
-related:
-  - program-failure-is-bodily-failure
-  - bottleneck
+updated: '2026-03-11'
 ---
 
 ## What It Brings

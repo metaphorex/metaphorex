@@ -1,17 +1,19 @@
 ---
-slug: embodied-experience
-name: "Embodied Experience"
+created: '2026-03-07'
+name: Embodied Experience
 related:
-  - natural-selection
+- natural-selection
 roles:
-  - body
-  - sensation
-  - movement
-  - orientation
-  - boundary
-  - sufferer
-  - symptom
-  - cause
+- body
+- sensation
+- movement
+- orientation
+- boundary
+- sufferer
+- symptom
+- cause
+slug: embodied-experience
+updated: '2026-03-10'
 ---
 
 The lived experience of having a body — sensation, proprioception,

@@ -1,18 +1,20 @@
 ---
-slug: culture-as-a-control-system
-name: "Culture as a Control System"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Culture as a Control System
+related:
+- redundancy
+- system-resilience-vs-fragility
+- the-map-is-not-the-territory
+slug: culture-as-a-control-system
 source_frame: physics
 target_frame: governance
-categories:
-  - systems-thinking
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - redundancy
-  - system-resilience-vs-fragility
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,19 +1,21 @@
 ---
-slug: disgust-is-nausea
-name: "Disgust Is Nausea"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Disgust Is Nausea
+related:
+- emotional-stability-is-balance
+- bad-is-stinky
+slug: disgust-is-nausea
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotional-stability-is-balance
-  - bad-is-stinky
+updated: '2026-03-12'
 ---
 
 ## What It Brings

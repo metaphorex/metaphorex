@@ -1,21 +1,23 @@
 ---
-slug: creating-is-moving-to-a-location
-name: "Creating Is Moving To A Location"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Creating Is Moving To A Location
+related:
+- creating-is-making
+- creating-is-making-visible
+- creation-is-cultivation
+- states-are-locations
+- change-is-motion
+slug: creating-is-moving-to-a-location
 source_frame: journeys
 target_frame: creative-process
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - creating-is-making
-  - creating-is-making-visible
-  - creation-is-cultivation
-  - states-are-locations
-  - change-is-motion
+updated: '2026-03-12'
 ---
 
 ## What It Brings

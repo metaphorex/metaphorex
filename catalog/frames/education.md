@@ -1,19 +1,21 @@
 ---
-slug: education
-name: "Education"
+created: '2026-03-13'
+name: Education
 related:
-  - social-roles
-  - intellectual-inquiry
+- social-roles
+- intellectual-inquiry
 roles:
-  - teacher
-  - student
-  - curriculum
-  - lesson
-  - examination
-  - grade
-  - graduation
-  - discipline
-  - understanding
+- teacher
+- student
+- curriculum
+- lesson
+- examination
+- grade
+- graduation
+- discipline
+- understanding
+slug: education
+updated: '2026-03-13'
 ---
 
 Structured transmission of knowledge from those who have it to those who

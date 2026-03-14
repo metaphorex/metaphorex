@@ -1,21 +1,23 @@
 ---
-slug: love-is-magic
-name: "Love Is Magic"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Love Is Magic
+related:
+- love-is-madness
+- love-is-a-physical-force
+- love-is-a-journey
+- love-is-a-unity
+slug: love-is-magic
 source_frame: magic
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-madness
-  - love-is-a-physical-force
-  - love-is-a-journey
-  - love-is-a-unity
+updated: '2026-03-13'
 ---
 
 ## What It Brings

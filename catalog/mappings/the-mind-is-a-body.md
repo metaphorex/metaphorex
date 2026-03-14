@@ -1,22 +1,24 @@
 ---
-slug: the-mind-is-a-body
-name: "The Mind Is a Body"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: The Mind Is a Body
+related:
+- the-mind-is-a-machine
+- the-mind-is-a-brittle-object
+- the-body-is-a-container-for-the-self
+- understanding-is-seeing
+- psychological-forces-are-physical-forces
+slug: the-mind-is-a-body
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-mind-is-a-machine
-  - the-mind-is-a-brittle-object
-  - the-body-is-a-container-for-the-self
-  - understanding-is-seeing
-  - psychological-forces-are-physical-forces
+updated: '2026-03-13'
 ---
 
 ## What It Brings

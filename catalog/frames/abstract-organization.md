@@ -1,18 +1,20 @@
 ---
-slug: abstract-organization
-name: "Abstract Organization"
+created: '2026-03-13'
+name: Abstract Organization
 related:
-  - architecture-and-building
-  - containers
+- architecture-and-building
+- containers
 roles:
-  - structure
-  - component
-  - foundation
-  - layer
-  - hierarchy
-  - coherence
-  - arrangement
-  - integration
+- structure
+- component
+- foundation
+- layer
+- hierarchy
+- coherence
+- arrangement
+- integration
+slug: abstract-organization
+updated: '2026-03-13'
 ---
 
 The domain of how parts are arranged into wholes: organizational charts,

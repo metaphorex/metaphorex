@@ -1,17 +1,19 @@
 ---
-slug: object-oriented-design
-name: "Object-Oriented Design"
+created: '2026-03-10'
+name: Object-Oriented Design
 related:
-  - software-abstraction
-  - architecture-and-building
+- software-abstraction
+- architecture-and-building
 roles:
-  - class
-  - object
-  - method
-  - interface
-  - inheritance-hierarchy
-  - encapsulation
-  - polymorphism
+- class
+- object
+- method
+- interface
+- inheritance-hierarchy
+- encapsulation
+- polymorphism
+slug: object-oriented-design
+updated: '2026-03-10'
 ---
 
 The organization of software around objects -- bundles of state and behavior

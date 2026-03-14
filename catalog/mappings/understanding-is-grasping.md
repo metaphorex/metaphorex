@@ -1,18 +1,20 @@
 ---
-slug: understanding-is-grasping
-name: "Understanding Is Grasping"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Understanding Is Grasping
+related:
+- understanding-is-seeing
+- knowing-is-seeing
+slug: understanding-is-grasping
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - understanding-is-seeing
-  - knowing-is-seeing
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,18 +1,20 @@
 ---
-slug: the-wise-old-man
-name: "The Wise Old Man"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: archetype
+name: The Wise Old Man
+related:
+- the-trickster
+- the-senex
+- the-divine-child
+slug: the-wise-old-man
 source_frame: mythology
 target_frame: authority-and-mentorship
-categories:
-  - psychology
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-trickster
-  - the-senex
-  - the-divine-child
+updated: '2026-03-13'
 ---
 
 ## What It Brings

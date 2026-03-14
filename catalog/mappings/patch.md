@@ -1,18 +1,20 @@
 ---
-slug: patch
-name: "Patch"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: dead-metaphor
+name: Patch
+related:
+- spaghetti-code
+- technical-debt
+slug: patch
 source_frame: textiles
 target_frame: software-programs
-categories:
-  - software-engineering
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - spaghetti-code
-  - technical-debt
+updated: '2026-03-13'
 ---
 
 ## What It Brings

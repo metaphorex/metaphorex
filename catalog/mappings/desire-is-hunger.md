@@ -1,20 +1,22 @@
 ---
-slug: desire-is-hunger
-name: "Desire Is Hunger"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Desire Is Hunger
+related:
+- desires-are-forces-between-the-desired-and-the-desirer
+- psychological-forces-are-physical-forces
+- ideas-are-food
+slug: desire-is-hunger
 source_frame: food-and-cooking
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - desires-are-forces-between-the-desired-and-the-desirer
-  - psychological-forces-are-physical-forces
-  - ideas-are-food
+updated: '2026-03-12'
 ---
 
 ## What It Brings

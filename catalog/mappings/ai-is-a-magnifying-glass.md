@@ -1,18 +1,20 @@
 ---
-slug: ai-is-a-magnifying-glass
-name: "AI Is a Magnifying Glass"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: AI Is a Magnifying Glass
+related:
+- ai-is-a-mirror
+- ai-is-a-tool
+slug: ai-is-a-magnifying-glass
 source_frame: vision
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-mirror
-  - ai-is-a-tool
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,21 +1,23 @@
 ---
-slug: harm-is-lacking-a-needed-possession
-name: "Harm Is Lacking a Needed Possession"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Harm Is Lacking a Needed Possession
+related:
+- harm-is-having-a-harmful-possession
+- harm-is-being-in-a-harmful-location
+- harm-is-causing-functional-objects-to-be-nonfunctional
+- properties-are-possessions
+- action-is-control-over-possessions
+slug: harm-is-lacking-a-needed-possession
 source_frame: economics
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - harm-is-having-a-harmful-possession
-  - harm-is-being-in-a-harmful-location
-  - harm-is-causing-functional-objects-to-be-nonfunctional
-  - properties-are-possessions
-  - action-is-control-over-possessions
+updated: '2026-03-12'
 ---
 
 ## What It Brings

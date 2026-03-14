@@ -1,18 +1,20 @@
 ---
-slug: incentive-caused-bias
-name: "Incentive-Caused Bias"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Incentive-Caused Bias
+related:
+- survival-of-the-fittest
+- the-map-is-not-the-territory
+slug: incentive-caused-bias
 source_frame: economics
 target_frame: social-behavior
-categories:
-  - psychology
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - survival-of-the-fittest
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

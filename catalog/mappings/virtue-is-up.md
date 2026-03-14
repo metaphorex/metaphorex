@@ -7,6 +7,7 @@ categories:
 - ethics-and-morality
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Virtue Is Up; Depravity Is Down
@@ -17,6 +18,7 @@ related:
 slug: virtue-is-up
 source_frame: embodied-experience
 target_frame: social-behavior
+updated: '2026-03-14'
 ---
 
 ## What It Brings

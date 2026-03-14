@@ -1,19 +1,21 @@
 ---
-slug: gas-town
-name: "Gas Town"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- software-engineering
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: archetype
+name: Gas Town
+related:
+- ralph-wiggum-loop
+- ai-is-an-agent
+- ai-is-a-tool
+slug: gas-town
 source_frame: governance
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ralph-wiggum-loop
-  - ai-is-an-agent
-  - ai-is-a-tool
+updated: '2026-03-13'
 ---
 
 ## What It Brings

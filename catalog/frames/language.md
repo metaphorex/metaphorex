@@ -1,18 +1,20 @@
 ---
-slug: language
-name: "Language"
+created: '2026-03-13'
+name: Language
 related:
-  - communication
-  - intellectual-inquiry
+- communication
+- intellectual-inquiry
 roles:
-  - speaker
-  - listener
-  - word
-  - sentence
-  - grammar
-  - meaning
-  - dialect
-  - translation
+- speaker
+- listener
+- word
+- sentence
+- grammar
+- meaning
+- dialect
+- translation
+slug: language
+updated: '2026-03-13'
 ---
 
 The system of words, grammar, and utterances through which humans

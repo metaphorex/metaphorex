@@ -1,10 +1,12 @@
 ---
-slug: ai-discourse
-name: "AI Discourse"
+created: '2026-03-13'
+name: AI Discourse
 related:
-  - software-engineering
-  - cognitive-science
-  - philosophy
+- software-engineering
+- cognitive-science
+- philosophy
+slug: ai-discourse
+updated: '2026-03-13'
 ---
 
 Metaphors actively shaping how people build, regulate, and understand

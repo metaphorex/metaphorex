@@ -6,6 +6,7 @@ categories:
 - philosophy
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Life Is a Journey
@@ -15,6 +16,7 @@ related:
 slug: life-is-a-journey
 source_frame: journeys
 target_frame: life-course
+updated: '2026-03-14'
 ---
 
 ## What It Brings

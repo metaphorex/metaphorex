@@ -1,17 +1,19 @@
 ---
-slug: tool-use
-name: "Tool Use"
+created: '2026-03-11'
+name: Tool Use
 related:
-  - collaborative-work
-  - manufacturing
+- collaborative-work
+- manufacturing
 roles:
-  - user
-  - tool
-  - task
-  - skill
-  - maintenance
-  - extension
-  - mastery
+- user
+- tool
+- task
+- skill
+- maintenance
+- extension
+- mastery
+slug: tool-use
+updated: '2026-03-11'
 ---
 
 The relationship between a human agent and an instrument employed to

@@ -1,17 +1,19 @@
 ---
-slug: inversion
-name: "Inversion"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Inversion
+related:
+- the-map-is-not-the-territory
+slug: inversion
 source_frame: geometry
 target_frame: causal-reasoning
-categories:
-  - philosophy
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

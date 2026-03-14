@@ -1,18 +1,20 @@
 ---
-slug: foundation-model-is-a-foundation
-name: "Foundation Model Is a Foundation"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Foundation Model Is a Foundation
+related:
+- ai-is-a-tool
+- fine-tuning-is-specialization
+slug: foundation-model-is-a-foundation
 source_frame: architecture-and-building
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-tool
-  - fine-tuning-is-specialization
+updated: '2026-03-13'
 ---
 
 ## What It Brings

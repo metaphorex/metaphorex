@@ -1,16 +1,18 @@
 ---
-slug: nurturing-and-creation
-name: "Nurturing and Creation"
+created: '2026-03-13'
+name: Nurturing and Creation
 related:
-  - mythology
-  - social-roles
+- mythology
+- social-roles
 roles:
-  - nurturer
-  - dependent
-  - environment
-  - growth
-  - constraint
-  - creation
+- nurturer
+- dependent
+- environment
+- growth
+- constraint
+- creation
+slug: nurturing-and-creation
+updated: '2026-03-13'
 ---
 
 The dynamics of care, sustenance, and generative creation -- and the

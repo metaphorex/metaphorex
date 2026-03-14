@@ -1,19 +1,21 @@
 ---
-slug: theories-are-constructed-objects
-name: "Theories Are Constructed Objects"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Theories Are Constructed Objects
+related:
+- theories-are-buildings
+- argument-is-a-building
+slug: theories-are-constructed-objects
 source_frame: architecture-and-building
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - theories-are-buildings
-  - argument-is-a-building
+updated: '2026-03-13'
 ---
 
 ## What It Brings

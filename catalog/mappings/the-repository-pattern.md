@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Repository Pattern
@@ -14,6 +15,7 @@ related:
 slug: the-repository-pattern
 source_frame: library-and-archive
 target_frame: software-abstraction
+updated: '2026-03-14'
 ---
 
 ## What It Brings

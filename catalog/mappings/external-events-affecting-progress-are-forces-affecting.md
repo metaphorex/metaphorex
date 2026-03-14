@@ -1,22 +1,24 @@
 ---
-slug: external-events-affecting-progress-are-forces-affecting
-name: "External Events Affecting Progress Are Forces Affecting"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: External Events Affecting Progress Are Forces Affecting
+related:
+- causes-are-forces
+- a-force-is-a-moving-object
+- difficulties-are-impediments-to-motion
+- action-is-motion
+- obligations-are-forces
+- psychological-forces-are-physical-forces
+slug: external-events-affecting-progress-are-forces-affecting
 source_frame: physics
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - causes-are-forces
-  - a-force-is-a-moving-object
-  - difficulties-are-impediments-to-motion
-  - action-is-motion
-  - obligations-are-forces
-  - psychological-forces-are-physical-forces
+updated: '2026-03-12'
 ---
 
 ## What It Brings

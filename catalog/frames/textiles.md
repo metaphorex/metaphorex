@@ -1,18 +1,20 @@
 ---
-slug: textiles
-name: "Textiles"
+created: '2026-03-13'
+name: Textiles
 related:
-  - manufacturing
-  - materials
+- manufacturing
+- materials
 roles:
-  - fiber
-  - thread
-  - weaver
-  - loom
-  - fabric
-  - pattern
-  - seam
-  - tear
+- fiber
+- thread
+- weaver
+- loom
+- fabric
+- pattern
+- seam
+- tear
+slug: textiles
+updated: '2026-03-13'
 ---
 
 The craft of making cloth from fibers -- spinning, weaving, knitting,

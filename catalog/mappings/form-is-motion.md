@@ -1,19 +1,21 @@
 ---
-slug: form-is-motion
-name: "Form Is Motion"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Form Is Motion
+related:
+- change-is-motion
+- action-is-motion
+- difficulties-are-impediments-to-motion
+slug: form-is-motion
 source_frame: embodied-experience
 target_frame: geometry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - change-is-motion
-  - action-is-motion
-  - difficulties-are-impediments-to-motion
+updated: '2026-03-12'
 ---
 
 ## What It Brings

@@ -1,21 +1,23 @@
 ---
-slug: difficulties-are-burdens
-name: "Difficulties Are Burdens"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Difficulties Are Burdens
+related:
+- difficulties-are-impediments-to-motion
+- help-is-support
+- life-is-a-journey
+- obligations-are-forces
+- good-is-up
+slug: difficulties-are-burdens
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - difficulties-are-impediments-to-motion
-  - help-is-support
-  - life-is-a-journey
-  - obligations-are-forces
-  - good-is-up
+updated: '2026-03-13'
 ---
 
 ## What It Brings

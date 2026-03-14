@@ -1,19 +1,21 @@
 ---
-slug: possessing-is-holding
-name: "Possessing Is Holding"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Possessing Is Holding
+related:
+- properties-are-possessions
+- action-is-control-over-possessions
+- beliefs-are-possessions
+slug: possessing-is-holding
 source_frame: embodied-experience
 target_frame: economics
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - properties-are-possessions
-  - action-is-control-over-possessions
-  - beliefs-are-possessions
+updated: '2026-03-13'
 ---
 
 ## What It Brings

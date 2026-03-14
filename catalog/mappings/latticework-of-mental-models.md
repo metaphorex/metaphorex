@@ -1,18 +1,20 @@
 ---
-slug: latticework-of-mental-models
-name: "Latticework of Mental Models"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- cognitive-science
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Latticework of Mental Models
+related:
+- the-map-is-not-the-territory
+- golden-hammer
+slug: latticework-of-mental-models
 source_frame: architecture-and-building
 target_frame: intellectual-inquiry
-categories:
-  - philosophy
-  - cognitive-science
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-map-is-not-the-territory
-  - golden-hammer
+updated: '2026-03-13'
 ---
 
 ## What It Brings

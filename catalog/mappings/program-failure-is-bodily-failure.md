@@ -1,16 +1,18 @@
 ---
-slug: program-failure-is-bodily-failure
-name: "Program Failure Is Bodily Failure"
+author: fshot
+categories:
+- software-engineering
+- cognitive-science
+contributors: []
+created: '2026-03-07'
 kind: conceptual-metaphor
+name: Program Failure Is Bodily Failure
+related:
+- data-flow-is-fluid-flow
+slug: program-failure-is-bodily-failure
 source_frame: embodied-experience
 target_frame: software-programs
-categories:
-  - software-engineering
-  - cognitive-science
-author: fshot
-contributors: []
-related:
-  - data-flow-is-fluid-flow
+updated: '2026-03-09'
 ---
 
 ## What It Brings

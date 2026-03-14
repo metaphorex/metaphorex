@@ -1,19 +1,21 @@
 ---
-slug: shapes-are-containers
-name: "Shapes Are Containers"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Shapes Are Containers
+related:
+- the-visual-field-is-a-container
+- the-visual-field-is-a-bounded-region
+- activities-are-containers
+slug: shapes-are-containers
 source_frame: containers
 target_frame: geometry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-visual-field-is-a-container
-  - the-visual-field-is-a-bounded-region
-  - activities-are-containers
+updated: '2026-03-13'
 ---
 
 ## What It Brings

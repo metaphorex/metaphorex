@@ -1,22 +1,24 @@
 ---
-slug: desires-are-forces-between-the-desired-and-the-desirer
-name: "Desires Are Forces Between the Desired and the Desirer"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Desires Are Forces Between the Desired and the Desirer
+related:
+- desire-is-hunger
+- psychological-forces-are-physical-forces
+- causes-are-forces
+- obligations-are-forces
+- love-is-a-physical-force
+slug: desires-are-forces-between-the-desired-and-the-desirer
 source_frame: physics
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - desire-is-hunger
-  - psychological-forces-are-physical-forces
-  - causes-are-forces
-  - obligations-are-forces
-  - love-is-a-physical-force
+updated: '2026-03-12'
 ---
 
 ## What It Brings

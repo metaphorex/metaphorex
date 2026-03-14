@@ -1,20 +1,22 @@
 ---
-slug: competition-is-a-race
-name: "Competition Is a Race"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Competition Is a Race
+related:
+- competition-is-1-on-1-physical-aggression
+- competition-is-competition-for-desired-objects
+- life-is-a-journey
+- race-condition
+slug: competition-is-a-race
 source_frame: journeys
 target_frame: competition
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - competition-is-1-on-1-physical-aggression
-  - competition-is-competition-for-desired-objects
-  - life-is-a-journey
-  - race-condition
+updated: '2026-03-12'
 ---
 
 ## What It Brings

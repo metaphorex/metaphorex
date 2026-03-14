@@ -6,6 +6,7 @@ categories:
 - philosophy
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Unknown Is Up; Known Is Down
@@ -16,6 +17,7 @@ related:
 slug: unknown-is-up
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
+updated: '2026-03-14'
 ---
 
 ## What It Brings

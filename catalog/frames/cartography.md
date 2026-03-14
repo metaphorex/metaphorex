@@ -1,15 +1,17 @@
 ---
-slug: cartography
-name: "Cartography"
+created: '2026-03-07'
+name: Cartography
 related:
-  - representation
+- representation
 roles:
-  - mapmaker
-  - territory
-  - map
-  - scale
-  - legend
-  - projection
+- mapmaker
+- territory
+- map
+- scale
+- legend
+- projection
+slug: cartography
+updated: '2026-03-10'
 ---
 
 The art of representing spatial reality in compressed, selective form. Every

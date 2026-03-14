@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Argument Is a Journey
@@ -16,6 +17,7 @@ related:
 slug: argument-is-a-journey
 source_frame: journeys
 target_frame: argumentation
+updated: '2026-03-14'
 ---
 
 ## What It Brings

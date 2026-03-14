@@ -1,20 +1,22 @@
 ---
-slug: euphoric-states-are-up
-name: "Euphoric States Are Up"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Euphoric States Are Up
+related:
+- happy-is-up
+- emotions-are-locations
+- emotions-are-forces
+slug: euphoric-states-are-up
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - happy-is-up
-  - emotions-are-locations
-  - emotions-are-forces
+updated: '2026-03-12'
 ---
 
 ## What It Brings

@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Love Is a Collaborative Work of Art
@@ -14,6 +15,7 @@ related:
 slug: love-is-a-collaborative-work-of-art
 source_frame: creative-process
 target_frame: love-and-relationships
+updated: '2026-03-14'
 ---
 
 ## What It Brings

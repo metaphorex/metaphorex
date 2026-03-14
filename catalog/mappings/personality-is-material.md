@@ -1,20 +1,22 @@
 ---
-slug: personality-is-material
-name: "Personality Is Material"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Personality Is Material
+related:
+- people-are-machines
+- the-mind-is-a-brittle-object
+- people-are-plants
+slug: personality-is-material
 source_frame: materials
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - people-are-machines
-  - the-mind-is-a-brittle-object
-  - people-are-plants
+updated: '2026-03-13'
 ---
 
 ## What It Brings

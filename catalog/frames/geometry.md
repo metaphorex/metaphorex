@@ -1,18 +1,20 @@
 ---
-slug: geometry
-name: "Geometry"
+created: '2026-03-12'
+name: Geometry
 related:
-  - cartography
-  - embodied-experience
+- cartography
+- embodied-experience
 roles:
-  - point
-  - line
-  - plane
-  - angle
-  - distance
-  - center
-  - periphery
-  - configuration
+- point
+- line
+- plane
+- angle
+- distance
+- center
+- periphery
+- configuration
+slug: geometry
+updated: '2026-03-12'
 ---
 
 The study of spatial relationships between abstract objects -- points, lines,

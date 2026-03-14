@@ -1,20 +1,22 @@
 ---
-slug: responsibilities-are-possessions
-name: "Responsibilities Are Possessions"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Responsibilities Are Possessions
+related:
+- properties-are-possessions
+- obligations-are-forces
+- obligations-are-containers
+- action-is-control-over-possessions
+slug: responsibilities-are-possessions
 source_frame: economics
 target_frame: social-roles
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - properties-are-possessions
-  - obligations-are-forces
-  - obligations-are-containers
-  - action-is-control-over-possessions
+updated: '2026-03-13'
 ---
 
 ## What It Brings

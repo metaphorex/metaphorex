@@ -1,17 +1,19 @@
 ---
-slug: physics
-name: "Physics"
+created: '2026-03-11'
+name: Physics
 related:
-  - embodied-experience
-  - causal-reasoning
+- embodied-experience
+- causal-reasoning
 roles:
-  - particle
-  - observer
-  - force
-  - field
-  - measurement
-  - state
-  - uncertainty
+- particle
+- observer
+- force
+- field
+- measurement
+- state
+- uncertainty
+slug: physics
+updated: '2026-03-11'
 ---
 
 The science of matter, energy, and their interactions. As a source domain

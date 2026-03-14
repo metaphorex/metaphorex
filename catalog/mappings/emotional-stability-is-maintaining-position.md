@@ -1,21 +1,23 @@
 ---
-slug: emotional-stability-is-maintaining-position
-name: "Emotional Stability Is Maintaining Position"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Emotional Stability Is Maintaining Position
+related:
+- emotional-stability-is-balance
+- happy-is-up
+- states-are-locations
+- having-control-is-up
+slug: emotional-stability-is-maintaining-position
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotional-stability-is-balance
-  - happy-is-up
-  - states-are-locations
-  - having-control-is-up
+updated: '2026-03-12'
 ---
 
 ## What It Brings

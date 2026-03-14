@@ -1,18 +1,20 @@
 ---
-slug: daemon
-name: "Daemon"
+author: agent:fshot
+categories:
+- linguistics
+- software-engineering
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: dead-metaphor
+name: Daemon
+related:
+- zombie-process
+- orphan-process
+slug: daemon
 source_frame: mythology
 target_frame: computing
-categories:
-  - linguistics
-  - software-engineering
-author: agent:fshot
-harness: "Claude Code"
-contributors: []
-related:
-  - zombie-process
-  - orphan-process
+updated: '2026-03-13'
 ---
 
 ## What It Brings

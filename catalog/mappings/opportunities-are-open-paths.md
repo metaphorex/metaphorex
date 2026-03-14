@@ -1,21 +1,23 @@
 ---
-slug: opportunities-are-open-paths
-name: "Opportunities Are Open Paths"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Opportunities Are Open Paths
+related:
+- opportunities-are-objects
+- purposes-are-destinations
+- life-is-a-journey
+- difficulties-are-impediments-to-motion
+- action-is-motion
+slug: opportunities-are-open-paths
 source_frame: journeys
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - opportunities-are-objects
-  - purposes-are-destinations
-  - life-is-a-journey
-  - difficulties-are-impediments-to-motion
-  - action-is-motion
+updated: '2026-03-13'
 ---
 
 ## What It Brings

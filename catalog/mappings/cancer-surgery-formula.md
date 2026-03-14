@@ -1,17 +1,19 @@
 ---
-slug: cancer-surgery-formula
-name: "Cancer Surgery Formula"
+author: agent:metaphorex-miner
+categories:
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Cancer Surgery Formula
+related:
+- the-map-is-not-the-territory
+- survival-of-the-fittest
+slug: cancer-surgery-formula
 source_frame: medicine
 target_frame: economics
-categories:
-  - organizational-behavior
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-map-is-not-the-territory
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

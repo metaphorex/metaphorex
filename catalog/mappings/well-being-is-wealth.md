@@ -1,18 +1,20 @@
 ---
-slug: well-being-is-wealth
-name: "Well-Being Is Wealth"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Well-Being Is Wealth
+related:
+- time-is-money
+slug: well-being-is-wealth
 source_frame: economics
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - time-is-money
+updated: '2026-03-13'
 ---
 
 ## What It Brings

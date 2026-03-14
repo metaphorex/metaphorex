@@ -1,19 +1,21 @@
 ---
-slug: beliefs-are-beings-with-a-life-cycle
-name: "Beliefs Are Beings with a Life Cycle"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Beliefs Are Beings with a Life Cycle
+related:
+- ideas-are-people
+- ideas-are-fashions
+slug: beliefs-are-beings-with-a-life-cycle
 source_frame: life-course
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ideas-are-people
-  - ideas-are-fashions
+updated: '2026-03-12'
 ---
 
 ## What It Brings

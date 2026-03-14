@@ -1,17 +1,19 @@
 ---
-slug: natural-selection
-name: "Natural Selection"
+created: '2026-03-07'
+name: Natural Selection
 related:
-  - competition
-  - horticulture
+- competition
+- horticulture
 roles:
-  - organism
-  - environment
-  - variation
-  - selection-pressure
-  - fitness
-  - adaptation
-  - generation
+- organism
+- environment
+- variation
+- selection-pressure
+- fitness
+- adaptation
+- generation
+slug: natural-selection
+updated: '2026-03-07'
 ---
 
 The mechanism by which differential reproductive success drives population

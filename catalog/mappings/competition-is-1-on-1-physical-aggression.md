@@ -1,19 +1,21 @@
 ---
-slug: competition-is-1-on-1-physical-aggression
-name: "Competition Is 1-on-1 Physical Aggression"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Competition Is 1-on-1 Physical Aggression
+related:
+- argument-is-war
+- competition-is-a-race
+- survival-of-the-fittest
+slug: competition-is-1-on-1-physical-aggression
 source_frame: war
 target_frame: competition
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - argument-is-war
-  - competition-is-a-race
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

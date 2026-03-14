@@ -1,15 +1,17 @@
 ---
-slug: creative-tension
-name: "Creative Tension"
+created: '2026-03-13'
+name: Creative Tension
 related:
-  - social-roles
-  - systems-thinking
+- social-roles
+- systems-thinking
 roles:
-  - complement
-  - opposition
-  - friction
-  - synthesis
-  - mediator
+- complement
+- opposition
+- friction
+- synthesis
+- mediator
+slug: creative-tension
+updated: '2026-03-13'
 ---
 
 The productive friction between complementary or opposing forces that

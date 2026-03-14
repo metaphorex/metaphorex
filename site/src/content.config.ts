@@ -22,6 +22,8 @@ const mappings = defineCollection({
     related: z.array(z.string()).default([]),
     deprecated: z.boolean().optional(),
     harness: z.string().optional(),
+    created: z.coerce.date(),
+    updated: z.coerce.date(),
   }),
 });
 
@@ -33,6 +35,8 @@ const frames = defineCollection({
     broader: z.string().optional(),
     related: z.array(z.string()).default([]),
     roles: z.array(z.string()),
+    created: z.coerce.date(),
+    updated: z.coerce.date(),
   }),
 });
 
@@ -43,7 +47,26 @@ const categories = defineCollection({
     name: z.string(),
     broader: z.string().optional(),
     related: z.array(z.string()).default([]),
+    created: z.coerce.date(),
+    updated: z.coerce.date(),
   }),
 });
 
-export const collections = { mappings, frames, categories };
+const changelog = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "../docs/changelog" }),
+  schema: z.object({
+    date: z.coerce.date(),
+    type: z.literal("changelog"),
+    week: z.string(),
+  }),
+});
+
+const ops = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "../docs/ops" }),
+  schema: z.object({
+    date: z.coerce.date(),
+    type: z.literal("ops"),
+  }),
+});
+
+export const collections = { mappings, frames, categories, changelog, ops };

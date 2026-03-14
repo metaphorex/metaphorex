@@ -1,19 +1,21 @@
 ---
-slug: war
-name: "War"
+created: '2026-03-07'
+name: War
 related:
-  - competition
-  - argumentation
+- competition
+- argumentation
 roles:
-  - combatant
-  - enemy
-  - ally
-  - weapon
-  - territory
-  - strategy
-  - victory
-  - defeat
-  - casualty
+- combatant
+- enemy
+- ally
+- weapon
+- territory
+- strategy
+- victory
+- defeat
+- casualty
+slug: war
+updated: '2026-03-07'
 ---
 
 Organized violent conflict between groups, with clear sides, territorial

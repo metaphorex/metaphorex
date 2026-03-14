@@ -1,17 +1,19 @@
 ---
-slug: spider-is-pure-rationalist
-name: "The Spider Is the Pure Rationalist"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- cognitive-science
+contributors: []
+created: '2026-03-13'
 kind: archetype
+name: The Spider Is the Pure Rationalist
+related:
+- ant-is-pure-empiricist
+- honeybee-is-ideal-scientist
+slug: spider-is-pure-rationalist
 source_frame: animal-behavior
 target_frame: intellectual-inquiry
-categories:
-  - philosophy
-  - cognitive-science
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - ant-is-pure-empiricist
-  - honeybee-is-ideal-scientist
+updated: '2026-03-13'
 ---
 
 ## What It Brings

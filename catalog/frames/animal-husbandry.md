@@ -1,17 +1,19 @@
 ---
-slug: animal-husbandry
-name: "Animal Husbandry"
+created: '2026-03-08'
+name: Animal Husbandry
 related:
-  - horticulture
-  - natural-selection
-  - shared-resources
+- horticulture
+- natural-selection
+- shared-resources
 roles:
-  - herder
-  - livestock
-  - pasture
-  - commons
-  - boundary
-  - season
+- herder
+- livestock
+- pasture
+- commons
+- boundary
+- season
+slug: animal-husbandry
+updated: '2026-03-10'
 ---
 
 The raising, breeding, and management of domesticated animals. Source domain

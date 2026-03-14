@@ -1,20 +1,22 @@
 ---
-slug: ideas-are-children
-name: "Ideas Are Children"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Children
+related:
+- ideas-are-people
+- ideas-are-food
+- ideas-are-fashions
+- ideas-are-light-sources
+slug: ideas-are-children
 source_frame: life-course
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ideas-are-people
-  - ideas-are-food
-  - ideas-are-fashions
-  - ideas-are-light-sources
+updated: '2026-03-12'
 ---
 
 ## What It Brings

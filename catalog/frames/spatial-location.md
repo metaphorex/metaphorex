@@ -1,16 +1,18 @@
 ---
-slug: spatial-location
-name: "Spatial Location"
+created: '2026-03-12'
+name: Spatial Location
 related:
-  - containers
-  - journeys
+- containers
+- journeys
 roles:
-  - occupant
-  - region
-  - boundary
-  - interior
-  - depth
-  - threshold
+- occupant
+- region
+- boundary
+- interior
+- depth
+- threshold
+slug: spatial-location
+updated: '2026-03-12'
 ---
 
 Being situated in a place, with the place's properties affecting the occupant.

@@ -1,19 +1,21 @@
 ---
-slug: mr-market
-name: "Mr. Market"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Mr. Market
+related:
+- incentive-caused-bias
+- second-order-thinking
+- the-map-is-not-the-territory
+slug: mr-market
 source_frame: social-roles
 target_frame: economics
-categories:
-  - psychology
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - incentive-caused-bias
-  - second-order-thinking
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

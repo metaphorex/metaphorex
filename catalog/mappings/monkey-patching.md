@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Monkey-Patching
@@ -12,6 +13,7 @@ related:
 slug: monkey-patching
 source_frame: social-behavior
 target_frame: software-programs
+updated: '2026-03-14'
 ---
 
 ## What It Brings

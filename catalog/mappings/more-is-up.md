@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: More Is Up; Less Is Down
@@ -15,6 +16,7 @@ related:
 slug: more-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
+updated: '2026-03-14'
 ---
 
 ## What It Brings

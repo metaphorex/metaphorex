@@ -1,21 +1,23 @@
 ---
-slug: organism
-name: "Organism"
+created: '2026-03-13'
+name: Organism
 related:
-  - embodied-experience
-  - biology
-  - health-and-disease
+- embodied-experience
+- biology
+- health-and-disease
 roles:
-  - organ
-  - function
-  - circulation
-  - growth
-  - decay
-  - health
-  - disease
-  - immune-response
-  - metabolism
-  - hierarchy
+- organ
+- function
+- circulation
+- growth
+- decay
+- health
+- disease
+- immune-response
+- metabolism
+- hierarchy
+slug: organism
+updated: '2026-03-13'
 ---
 
 The structural organization of a biological organism: specialized organs

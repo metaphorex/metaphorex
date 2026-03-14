@@ -1,20 +1,22 @@
 ---
-slug: nation-is-a-person
-name: "Nation Is a Person"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+- social-dynamics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Nation Is a Person
+related:
+- nation-is-a-family
+- life-is-a-journey
+slug: nation-is-a-person
 source_frame: social-roles
 target_frame: governance
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-  - social-dynamics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - nation-is-a-family
-  - life-is-a-journey
+updated: '2026-03-13'
 ---
 
 ## What It Brings

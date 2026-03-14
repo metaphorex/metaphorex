@@ -1,18 +1,20 @@
 ---
-slug: first-principles-thinking
-name: "First-Principles Thinking"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: First-Principles Thinking
+related:
+- the-map-is-not-the-territory
+- survival-of-the-fittest
+slug: first-principles-thinking
 source_frame: physics
 target_frame: intellectual-inquiry
-categories:
-  - philosophy
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-map-is-not-the-territory
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

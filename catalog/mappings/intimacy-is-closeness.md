@@ -1,21 +1,23 @@
 ---
-slug: intimacy-is-closeness
-name: "Intimacy Is Closeness"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Intimacy Is Closeness
+related:
+- love-is-a-journey
+- love-is-a-physical-force
+- emotional-stability-is-balance
+- help-is-support
+slug: intimacy-is-closeness
 source_frame: embodied-experience
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-a-journey
-  - love-is-a-physical-force
-  - emotional-stability-is-balance
-  - help-is-support
+updated: '2026-03-13'
 ---
 
 ## What It Brings

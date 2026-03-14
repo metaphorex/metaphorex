@@ -1,19 +1,21 @@
 ---
-slug: conducting-research-is-solving-a-puzzle
-name: "Conducting Research Is Solving a Puzzle"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Conducting Research Is Solving a Puzzle
+related:
+- ideas-are-objects
+- theories-are-buildings
+slug: conducting-research-is-solving-a-puzzle
 source_frame: puzzles-and-games
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ideas-are-objects
-  - theories-are-buildings
+updated: '2026-03-12'
 ---
 
 ## What It Brings

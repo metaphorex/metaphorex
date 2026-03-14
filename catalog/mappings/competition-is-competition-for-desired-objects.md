@@ -1,20 +1,22 @@
 ---
-slug: competition-is-competition-for-desired-objects
-name: "Competition Is Competition for Desired Objects"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Competition Is Competition for Desired Objects
+related:
+- competition-is-1-on-1-physical-aggression
+- competition-is-a-race
+- ideas-are-commodities
+- survival-of-the-fittest
+slug: competition-is-competition-for-desired-objects
 source_frame: economics
 target_frame: competition
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - competition-is-1-on-1-physical-aggression
-  - competition-is-a-race
-  - ideas-are-commodities
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

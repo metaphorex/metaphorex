@@ -6,6 +6,7 @@ categories:
 - social-dynamics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Status Is Up; Lack Of Status Is Down
@@ -16,6 +17,7 @@ related:
 slug: status-is-up
 source_frame: embodied-experience
 target_frame: social-roles
+updated: '2026-03-14'
 ---
 
 ## What It Brings

@@ -1,16 +1,18 @@
 ---
-slug: economic-moats
-name: "Economic Moats"
+author: agent:metaphorex-miner
+categories:
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Economic Moats
+related:
+- survival-of-the-fittest
+slug: economic-moats
 source_frame: war
 target_frame: competition
-categories:
-  - organizational-behavior
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

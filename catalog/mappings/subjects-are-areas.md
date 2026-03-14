@@ -1,19 +1,21 @@
 ---
-slug: subjects-are-areas
-name: "Subjects Are Areas"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Subjects Are Areas
+related:
+- ideas-are-locations
+- states-are-locations
+- difficult-subjects-are-adversaries
+slug: subjects-are-areas
 source_frame: spatial-location
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ideas-are-locations
-  - states-are-locations
-  - difficult-subjects-are-adversaries
+updated: '2026-03-13'
 ---
 
 ## What It Brings

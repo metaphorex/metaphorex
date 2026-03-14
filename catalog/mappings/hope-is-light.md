@@ -1,19 +1,21 @@
 ---
-slug: hope-is-light
-name: "Hope Is Light"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Hope Is Light
+related:
+- hope-is-a-child
+- hope-is-a-benefical-possession
+- ideas-are-light-sources
+slug: hope-is-light
 source_frame: vision
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - hope-is-a-child
-  - hope-is-a-benefical-possession
-  - ideas-are-light-sources
+updated: '2026-03-12'
 ---
 
 ## What It Brings

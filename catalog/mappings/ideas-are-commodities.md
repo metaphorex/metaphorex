@@ -6,6 +6,7 @@ categories:
 - economics-and-finance
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Commodities
@@ -17,6 +18,7 @@ related:
 slug: ideas-are-commodities
 source_frame: economics
 target_frame: intellectual-inquiry
+updated: '2026-03-14'
 ---
 
 ## What It Brings

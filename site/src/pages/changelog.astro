@@ -1,0 +1,28 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+
+const entries = await getCollection("changelog");
+const sorted = entries
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 20);
+---
+
+<Base title="Changelog" description="Weekly updates from the Metaphorex catalog">
+  <article>
+    <h1>Changelog</h1>
+    <p>Weekly updates showing new entries added to the catalog.</p>
+
+    {sorted.map(async (entry) => {
+      const { Content } = await render(entry);
+      return (
+        <details>
+          <summary>
+            <strong>{entry.data.week}</strong>
+          </summary>
+          <Content />
+        </details>
+      );
+    })}
+  </article>
+</Base>

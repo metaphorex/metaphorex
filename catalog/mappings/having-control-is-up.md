@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: Having Control Is Up; Being Subject To Control Is Down
 related:
@@ -13,6 +14,7 @@ related:
 slug: having-control-is-up
 source_frame: embodied-experience
 target_frame: social-behavior
+updated: '2026-03-14'
 ---
 
 ## What It Brings

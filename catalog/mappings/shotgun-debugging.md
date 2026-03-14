@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Shotgun Debugging
@@ -14,6 +15,7 @@ related:
 slug: shotgun-debugging
 source_frame: war
 target_frame: software-programs
+updated: '2026-03-14'
 ---
 
 ## What It Brings

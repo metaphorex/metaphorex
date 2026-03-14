@@ -1,20 +1,22 @@
 ---
-slug: ai-is-an-agent
-name: "AI Is an Agent"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- philosophy
+- software-engineering
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: AI Is an Agent
+related:
+- ai-is-a-tool
+- ai-is-a-copilot
+- ai-is-an-intern
+- ai-is-an-oracle
+slug: ai-is-an-agent
 source_frame: governance
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - philosophy
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - ai-is-a-tool
-  - ai-is-a-copilot
-  - ai-is-an-intern
-  - ai-is-an-oracle
+updated: '2026-03-13'
 ---
 
 ## What It Brings

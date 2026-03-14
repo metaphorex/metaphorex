@@ -1,18 +1,20 @@
 ---
-slug: travel
-name: "Travel"
+created: '2026-03-10'
+name: Travel
 related:
-  - cartography
-  - embodied-experience
+- cartography
+- embodied-experience
 roles:
-  - traveler
-  - destination
-  - origin
-  - route
-  - position
-  - waypoint
-  - terrain
-  - passage
+- traveler
+- destination
+- origin
+- route
+- position
+- waypoint
+- terrain
+- passage
+slug: travel
+updated: '2026-03-10'
 ---
 
 Movement through space from one place to another, with a current

@@ -1,17 +1,19 @@
 ---
-slug: niche-specialization
-name: "Niche Specialization"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Niche Specialization
+related:
+- survival-of-the-fittest
+- red-queen-effect
+slug: niche-specialization
 source_frame: natural-selection
 target_frame: economics
-categories:
-  - systems-thinking
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
-  - red-queen-effect
+updated: '2026-03-13'
 ---
 
 ## What It Brings

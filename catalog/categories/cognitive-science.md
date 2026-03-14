@@ -1,10 +1,12 @@
 ---
-slug: cognitive-science
-name: "Cognitive Science"
+created: '2026-03-07'
+name: Cognitive Science
 related:
-  - psychology
-  - linguistics
-  - philosophy
+- psychology
+- linguistics
+- philosophy
+slug: cognitive-science
+updated: '2026-03-07'
 ---
 
 Metaphors studied or originating in cognitive science — how humans think

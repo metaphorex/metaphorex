@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Activities Are Containers
@@ -13,6 +14,7 @@ related:
 slug: activities-are-containers
 source_frame: containers
 target_frame: event-structure
+updated: '2026-03-14'
 ---
 
 ## What It Brings

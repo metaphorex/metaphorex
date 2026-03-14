@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-07'
 kind: archetype
 name: The Observer Pattern
 related:
@@ -12,6 +13,7 @@ related:
 slug: the-observer-pattern
 source_frame: surveillance
 target_frame: object-oriented-design
+updated: '2026-03-14'
 ---
 
 ## What It Brings

@@ -1,19 +1,21 @@
 ---
-slug: neural-network-is-a-brain
-name: "Neural Network Is a Brain"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Neural Network Is a Brain
+related:
+- training-is-education
+- weights-are-knowledge
+- people-are-machines
+slug: neural-network-is-a-brain
 source_frame: biology
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - training-is-education
-  - weights-are-knowledge
-  - people-are-machines
+updated: '2026-03-13'
 ---
 
 ## What It Brings

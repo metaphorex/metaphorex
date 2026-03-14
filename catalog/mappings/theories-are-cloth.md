@@ -1,18 +1,20 @@
 ---
-slug: theories-are-cloth
-name: "Theories Are Cloth"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Theories Are Cloth
+related:
+- theories-are-buildings
+slug: theories-are-cloth
 source_frame: textiles
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - theories-are-buildings
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -4,6 +4,7 @@ categories:
 - computer-science
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Symlink
@@ -12,6 +13,7 @@ related:
 slug: symlink
 source_frame: physical-connection
 target_frame: filesystem
+updated: '2026-03-14'
 ---
 
 ## What It Brings

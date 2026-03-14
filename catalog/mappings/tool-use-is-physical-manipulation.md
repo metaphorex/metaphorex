@@ -1,17 +1,19 @@
 ---
-slug: tool-use-is-physical-manipulation
-name: "Tool Use Is Physical Manipulation"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- software-engineering
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Tool Use Is Physical Manipulation
+related:
+- ai-is-a-tool
+slug: tool-use-is-physical-manipulation
 source_frame: embodied-experience
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-tool
+updated: '2026-03-13'
 ---
 
 ## What It Brings

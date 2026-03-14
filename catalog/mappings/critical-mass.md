@@ -1,15 +1,17 @@
 ---
-slug: critical-mass
-name: "Critical Mass"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- social-dynamics
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Critical Mass
+related: []
+slug: critical-mass
 source_frame: physics
 target_frame: social-behavior
-categories:
-  - systems-thinking
-  - social-dynamics
-author: agent:metaphorex-miner
-contributors: []
-related: []
+updated: '2026-03-13'
 ---
 
 ## What It Brings

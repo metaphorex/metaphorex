@@ -1,17 +1,19 @@
 ---
-slug: ai-is-a-mirror
-name: "AI Is a Mirror"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: AI Is a Mirror
+related:
+- ai-is-a-black-box
+slug: ai-is-a-mirror
 source_frame: vision
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-black-box
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,21 +1,23 @@
 ---
-slug: facts-are-points
-name: "Facts Are Points"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: dead-metaphor
+name: Facts Are Points
+related:
+- ideas-are-objects
+- argument-is-a-building
+- argument-is-a-journey
+- theories-are-buildings
+slug: facts-are-points
 source_frame: geometry
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ideas-are-objects
-  - argument-is-a-building
-  - argument-is-a-journey
-  - theories-are-buildings
+updated: '2026-03-12'
 ---
 
 ## What It Brings

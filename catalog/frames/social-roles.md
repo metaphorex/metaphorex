@@ -1,16 +1,18 @@
 ---
-slug: social-roles
-name: "Social Roles"
+created: '2026-03-07'
+name: Social Roles
 related:
-  - mythology
-  - social-behavior
+- mythology
+- social-behavior
 roles:
-  - role
-  - occupant
-  - expectation
-  - transgression
-  - institution
-  - audience
+- role
+- occupant
+- expectation
+- transgression
+- institution
+- audience
+slug: social-roles
+updated: '2026-03-08'
 ---
 
 The structured expectations attached to positions within social systems —

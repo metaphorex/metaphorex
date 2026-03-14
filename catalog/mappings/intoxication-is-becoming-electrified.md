@@ -1,18 +1,20 @@
 ---
-slug: intoxication-is-becoming-electrified
-name: "Intoxication Is Becoming Electrified"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Intoxication Is Becoming Electrified
+related:
+- intense-emotions-are-heat
+- emotions-are-forces
+slug: intoxication-is-becoming-electrified
 source_frame: electricity
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - intense-emotions-are-heat
-  - emotions-are-forces
+updated: '2026-03-12'
 ---
 
 ## What It Brings

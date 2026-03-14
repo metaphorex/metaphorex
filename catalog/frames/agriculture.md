@@ -1,18 +1,20 @@
 ---
-slug: agriculture
-name: "Agriculture"
+created: '2026-03-13'
+name: Agriculture
 related:
-  - horticulture
+- horticulture
 roles:
-  - farmer
-  - crop
-  - field
-  - silo
-  - harvest
-  - soil
-  - season
-  - livestock
-  - storage
+- farmer
+- crop
+- field
+- silo
+- harvest
+- soil
+- season
+- livestock
+- storage
+slug: agriculture
+updated: '2026-03-13'
 ---
 
 The large-scale cultivation of crops and raising of livestock for food and

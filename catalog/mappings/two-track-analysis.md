@@ -1,18 +1,20 @@
 ---
-slug: two-track-analysis
-name: "Two-Track Analysis"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Two-Track Analysis
+related:
+- falsification
+- bayesian-updating
+- the-map-is-not-the-territory
+slug: two-track-analysis
 source_frame: manufacturing
 target_frame: causal-reasoning
-categories:
-  - cognitive-science
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - falsification
-  - bayesian-updating
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

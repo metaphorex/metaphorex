@@ -1,20 +1,22 @@
 ---
-slug: dangerous-beliefs-are-contagious-diseases
-name: "Dangerous Beliefs Are Contagious Diseases"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Dangerous Beliefs Are Contagious Diseases
+related:
+- beliefs-are-beings-with-a-life-cycle
+- ideas-are-people
+- ideas-are-plants
+slug: dangerous-beliefs-are-contagious-diseases
 source_frame: contagion
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - beliefs-are-beings-with-a-life-cycle
-  - ideas-are-people
-  - ideas-are-plants
+updated: '2026-03-12'
 ---
 
 ## What It Brings

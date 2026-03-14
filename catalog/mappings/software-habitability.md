@@ -1,18 +1,20 @@
 ---
-slug: software-habitability
-name: "Software Habitability"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- philosophy
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Software Habitability
+related:
+- software-development-is-cathedral-building
+- pattern-language-as-shared-vocabulary
+- technical-debt
+slug: software-habitability
 source_frame: architecture-and-building
 target_frame: software-engineering
-categories:
-  - software-engineering
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - software-development-is-cathedral-building
-  - pattern-language-as-shared-vocabulary
-  - technical-debt
+updated: '2026-03-13'
 ---
 
 ## What It Brings

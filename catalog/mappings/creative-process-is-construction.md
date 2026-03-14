@@ -1,17 +1,19 @@
 ---
-slug: creative-process-is-construction
-name: "Creative Process Is Construction"
+author: fshot
+categories:
+- systems-thinking
+- arts-and-culture
+contributors: []
+created: '2026-03-07'
 kind: conceptual-metaphor
+name: Creative Process Is Construction
+related:
+- creative-process-is-gardening
+- creating-is-making
+slug: creative-process-is-construction
 source_frame: architecture-and-building
 target_frame: creative-process
-categories:
-  - systems-thinking
-  - arts-and-culture
-author: fshot
-contributors: []
-related:
-  - creative-process-is-gardening
-  - creating-is-making
+updated: '2026-03-12'
 ---
 
 ## What It Brings

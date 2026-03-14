@@ -1,20 +1,22 @@
 ---
-slug: creating-is-giving-an-object
-name: "Creating Is Giving an Object"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Creating Is Giving an Object
+related:
+- creative-process-is-construction
+- creating-is-birthing
+- action-is-control-over-possessions
+- properties-are-possessions
+slug: creating-is-giving-an-object
 source_frame: economics
 target_frame: creative-process
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - creative-process-is-construction
-  - creating-is-birthing
-  - action-is-control-over-possessions
-  - properties-are-possessions
+updated: '2026-03-12'
 ---
 
 ## What It Brings

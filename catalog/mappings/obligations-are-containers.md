@@ -1,21 +1,23 @@
 ---
-slug: obligations-are-containers
-name: "Obligations Are Containers"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Obligations Are Containers
+related:
+- obligations-are-forces
+- obligations-are-possessions
+- activities-are-containers
+- moral-accounting
+slug: obligations-are-containers
 source_frame: containers
 target_frame: ethics-and-morality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - obligations-are-forces
-  - obligations-are-possessions
-  - activities-are-containers
-  - moral-accounting
+updated: '2026-03-13'
 ---
 
 ## What It Brings

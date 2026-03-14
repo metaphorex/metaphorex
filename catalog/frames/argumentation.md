@@ -1,17 +1,19 @@
 ---
-slug: argumentation
-name: "Argumentation"
+created: '2026-03-07'
+name: Argumentation
 related:
-  - war
-  - competition
+- war
+- competition
 roles:
-  - arguer
-  - opponent
-  - claim
-  - evidence
-  - rebuttal
-  - conclusion
-  - audience
+- arguer
+- opponent
+- claim
+- evidence
+- rebuttal
+- conclusion
+- audience
+slug: argumentation
+updated: '2026-03-10'
 ---
 
 Structured discourse aimed at establishing or refuting a claim through

@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: dead-metaphor
 name: The Iterator Pattern
@@ -13,6 +14,7 @@ related:
 slug: the-iterator-pattern
 source_frame: travel
 target_frame: object-oriented-design
+updated: '2026-03-14'
 ---
 
 ## What It Brings

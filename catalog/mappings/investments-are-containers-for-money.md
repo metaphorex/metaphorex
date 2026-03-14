@@ -1,19 +1,21 @@
 ---
-slug: investments-are-containers-for-money
-name: "Investments Are Containers For Money"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Investments Are Containers For Money
+related:
+- activities-are-containers
+- time-is-money
+- ideas-are-money
+slug: investments-are-containers-for-money
 source_frame: containers
 target_frame: economics
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - activities-are-containers
-  - time-is-money
-  - ideas-are-money
+updated: '2026-03-12'
 ---
 
 ## What It Brings

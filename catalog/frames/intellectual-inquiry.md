@@ -1,16 +1,18 @@
 ---
-slug: intellectual-inquiry
-name: "Intellectual Inquiry"
+created: '2026-03-10'
+name: Intellectual Inquiry
 related:
-  - argumentation
+- argumentation
 roles:
-  - theorist
-  - theory
-  - evidence
-  - argument
-  - insight
-  - hypothesis
-  - analysis
+- theorist
+- theory
+- evidence
+- argument
+- insight
+- hypothesis
+- analysis
+slug: intellectual-inquiry
+updated: '2026-03-10'
 ---
 
 The pursuit of knowledge through theorizing, reasoning, and analysis.

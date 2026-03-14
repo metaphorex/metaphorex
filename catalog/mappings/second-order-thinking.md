@@ -1,18 +1,20 @@
 ---
-slug: second-order-thinking
-name: "Second-Order Thinking"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Second-Order Thinking
+related:
+- man-with-a-hammer
+- the-map-is-not-the-territory
+slug: second-order-thinking
 source_frame: physics
 target_frame: causal-reasoning
-categories:
-  - systems-thinking
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - man-with-a-hammer
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

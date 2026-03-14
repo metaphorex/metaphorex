@@ -1,16 +1,18 @@
 ---
-slug: system-resilience-vs-fragility
-name: "System Resilience vs. Fragility"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: System Resilience vs. Fragility
+related:
+- redundancy
+slug: system-resilience-vs-fragility
 source_frame: architecture-and-building
 target_frame: systems-thinking
-categories:
-  - systems-thinking
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - redundancy
+updated: '2026-03-13'
 ---
 
 ## What It Brings

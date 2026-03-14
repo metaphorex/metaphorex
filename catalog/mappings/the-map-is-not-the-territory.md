@@ -1,16 +1,18 @@
 ---
-slug: the-map-is-not-the-territory
-name: "The Map Is Not the Territory"
+author: fshot
+categories:
+- cognitive-science
+- systems-thinking
+- philosophy
+contributors: []
+created: '2026-03-07'
 kind: paradigm
+name: The Map Is Not the Territory
+related: []
+slug: the-map-is-not-the-territory
 source_frame: cartography
 target_frame: representation
-categories:
-  - cognitive-science
-  - systems-thinking
-  - philosophy
-author: fshot
-contributors: []
-related: []
+updated: '2026-03-09'
 ---
 
 ## What It Brings

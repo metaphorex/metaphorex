@@ -1,19 +1,21 @@
 ---
-slug: man-with-a-hammer
-name: "Man with a Hammer"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Man with a Hammer
+related:
+- golden-hammer
+- the-map-is-not-the-territory
+- lollapalooza-effect
+slug: man-with-a-hammer
 source_frame: tool-use
 target_frame: intellectual-inquiry
-categories:
-  - philosophy
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - golden-hammer
-  - the-map-is-not-the-territory
-  - lollapalooza-effect
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,18 +1,20 @@
 ---
-slug: fluid-dynamics
-name: "Fluid Dynamics"
+created: '2026-03-07'
+name: Fluid Dynamics
 related:
-  - containers
-  - data-processing
+- containers
+- data-processing
 roles:
-  - fluid
-  - channel
-  - flow
-  - pressure
-  - filter
-  - source
-  - sink
-  - reservoir
+- fluid
+- channel
+- flow
+- pressure
+- filter
+- source
+- sink
+- reservoir
+slug: fluid-dynamics
+updated: '2026-03-07'
 ---
 
 The physics of liquids and gases in motion — flow rates, pressure

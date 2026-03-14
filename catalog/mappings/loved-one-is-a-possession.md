@@ -1,20 +1,22 @@
 ---
-slug: loved-one-is-a-possession
-name: "Loved One Is A Possession"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Loved One Is A Possession
+related:
+- love-is-a-journey
+- love-is-madness
+- love-is-war
+- love-is-a-unity
+slug: loved-one-is-a-possession
 source_frame: economics
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - love-is-a-journey
-  - love-is-madness
-  - love-is-war
-  - love-is-a-unity
+updated: '2026-03-13'
 ---
 
 ## What It Brings

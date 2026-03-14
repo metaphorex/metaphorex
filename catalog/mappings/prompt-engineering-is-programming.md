@@ -1,18 +1,20 @@
 ---
-slug: prompt-engineering-is-programming
-name: "Prompt Engineering Is Programming"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- software-engineering
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Prompt Engineering Is Programming
+related:
+- ai-is-a-tool
+- neural-network-is-a-brain
+slug: prompt-engineering-is-programming
 source_frame: software-engineering
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-tool
-  - neural-network-is-a-brain
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -7,6 +7,7 @@ categories:
 - physics-and-engineering
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Psychological Forces Are Physical Forces
@@ -17,6 +18,7 @@ related:
 slug: psychological-forces-are-physical-forces
 source_frame: embodied-experience
 target_frame: mental-experience
+updated: '2026-03-14'
 ---
 
 ## What It Brings

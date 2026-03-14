@@ -1,20 +1,22 @@
 ---
-slug: magic
-name: "Magic"
 broader: mythology
+created: '2026-03-13'
+name: Magic
 related:
-  - religion
+- religion
 roles:
-  - caster
-  - target
-  - spell
-  - enchantment
-  - charm
-  - hex
-  - incantation
-  - potion
-  - counter-spell
-  - wand
+- caster
+- target
+- spell
+- enchantment
+- charm
+- hex
+- incantation
+- potion
+- counter-spell
+- wand
+slug: magic
+updated: '2026-03-13'
 ---
 
 The practice of exerting supernatural influence through rituals, words, or

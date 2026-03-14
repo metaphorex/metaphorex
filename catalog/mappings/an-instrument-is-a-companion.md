@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: An Instrument Is a Companion
@@ -13,6 +14,7 @@ related:
 slug: an-instrument-is-a-companion
 source_frame: social-roles
 target_frame: tool-use
+updated: '2026-03-14'
 ---
 
 ## What It Brings

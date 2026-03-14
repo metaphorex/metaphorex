@@ -1,20 +1,22 @@
 ---
-slug: target-practice
-name: "Target Practice"
+created: '2026-03-13'
+name: Target Practice
 related:
-  - war
-  - sports-and-games
+- war
+- sports-and-games
 roles:
-  - marksman
-  - target
-  - aim
-  - projectile
-  - hit
-  - miss
-  - precision
-  - scatter
-  - range
-  - bullseye
+- marksman
+- target
+- aim
+- projectile
+- hit
+- miss
+- precision
+- scatter
+- range
+- bullseye
+slug: target-practice
+updated: '2026-03-13'
 ---
 
 The domain of aiming and shooting at targets: marksman, target, aim,

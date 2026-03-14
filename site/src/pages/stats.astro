@@ -1,0 +1,84 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection } from "astro:content";
+
+const mappings = await getCollection("mappings");
+const frames = await getCollection("frames");
+const categories = await getCollection("categories");
+
+// Breakdown by kind
+const byKind: Record<string, number> = {};
+for (const m of mappings) {
+  byKind[m.data.kind] = (byKind[m.data.kind] || 0) + 1;
+}
+
+// Breakdown by category
+const byCat: Record<string, number> = {};
+for (const m of mappings) {
+  for (const c of m.data.categories) {
+    byCat[c] = (byCat[c] || 0) + 1;
+  }
+}
+const sortedCats = Object.entries(byCat).sort((a, b) => b[1] - a[1]);
+
+// Top source and target frames
+const sourceCount: Record<string, number> = {};
+const targetCount: Record<string, number> = {};
+for (const m of mappings) {
+  sourceCount[m.data.source_frame] = (sourceCount[m.data.source_frame] || 0) + 1;
+  targetCount[m.data.target_frame] = (targetCount[m.data.target_frame] || 0) + 1;
+}
+const topSources = Object.entries(sourceCount).sort((a, b) => b[1] - a[1]).slice(0, 10);
+const topTargets = Object.entries(targetCount).sort((a, b) => b[1] - a[1]).slice(0, 10);
+---
+
+<Base title="Stats" description="Corpus statistics for the Metaphorex catalog">
+  <article>
+    <h1>Corpus Stats</h1>
+    <p>
+      <strong>{mappings.length}</strong> mappings &middot;
+      <strong>{frames.length}</strong> frames &middot;
+      <strong>{categories.length}</strong> categories
+    </p>
+
+    <h2>By Kind</h2>
+    <table>
+      <thead><tr><th>Kind</th><th>Count</th></tr></thead>
+      <tbody>
+        {Object.entries(byKind).sort((a, b) => b[1] - a[1]).map(([kind, count]) => (
+          <tr><td>{kind}</td><td>{count}</td></tr>
+        ))}
+      </tbody>
+    </table>
+
+    <h2>By Category</h2>
+    <table>
+      <thead><tr><th>Category</th><th>Mappings</th></tr></thead>
+      <tbody>
+        {sortedCats.map(([cat, count]) => (
+          <tr><td><a href={`/categories/${cat}/`}>{cat}</a></td><td>{count}</td></tr>
+        ))}
+      </tbody>
+    </table>
+
+    <h2>Top Source Frames</h2>
+    <table>
+      <thead><tr><th>Frame</th><th>Used as source</th></tr></thead>
+      <tbody>
+        {topSources.map(([frame, count]) => (
+          <tr><td><a href={`/frames/${frame}/`}>{frame}</a></td><td>{count}</td></tr>
+        ))}
+      </tbody>
+    </table>
+
+    <h2>Top Target Frames</h2>
+    <table>
+      <thead><tr><th>Frame</th><th>Used as target</th></tr></thead>
+      <tbody>
+        {topTargets.map(([frame, count]) => (
+          <tr><td><a href={`/frames/${frame}/`}>{frame}</a></td><td>{count}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </article>
+</Base>

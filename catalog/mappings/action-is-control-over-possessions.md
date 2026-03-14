@@ -1,19 +1,21 @@
 ---
-slug: action-is-control-over-possessions
-name: "Action Is Control Over Possessions"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Action Is Control Over Possessions
+related:
+- action-is-motion
+- properties-are-possessions
+- acting-on-is-transferring-an-object
+slug: action-is-control-over-possessions
 source_frame: economics
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - action-is-motion
-  - properties-are-possessions
-  - acting-on-is-transferring-an-object
+updated: '2026-03-12'
 ---
 
 ## What It Brings

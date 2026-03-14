@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Gateway Pattern
@@ -14,6 +15,7 @@ related:
 slug: the-gateway-pattern
 source_frame: architecture-and-building
 target_frame: software-abstraction
+updated: '2026-03-14'
 ---
 
 ## What It Brings

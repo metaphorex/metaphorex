@@ -1,20 +1,22 @@
 ---
-slug: covers
-name: "Covers"
+created: '2026-03-13'
+name: Covers
 related:
-  - containers
-  - textiles
+- containers
+- textiles
 roles:
-  - cover
-  - surface
-  - gap
-  - fit
-  - stretch
-  - exposure
-  - overlap
-  - thickness
-  - transparency
-  - draping
+- cover
+- surface
+- gap
+- fit
+- stretch
+- exposure
+- overlap
+- thickness
+- transparency
+- draping
+slug: covers
+updated: '2026-03-13'
 ---
 
 The domain of covering and uncovering: a surface extended over objects

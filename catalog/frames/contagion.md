@@ -1,24 +1,26 @@
 ---
-slug: contagion
-name: "Contagion"
+created: '2026-03-12'
+name: Contagion
 related:
-  - medicine
-  - embodied-experience
+- medicine
+- embodied-experience
 roles:
-  - pathogen
-  - host
-  - carrier
-  - vector
-  - transmission
-  - infection
-  - epidemic
-  - containment
-  - quarantine
-  - inoculation
-  - immunity
-  - herd-immunity
-  - outbreak
-  - virulence
+- pathogen
+- host
+- carrier
+- vector
+- transmission
+- infection
+- epidemic
+- containment
+- quarantine
+- inoculation
+- immunity
+- herd-immunity
+- outbreak
+- virulence
+slug: contagion
+updated: '2026-03-12'
 ---
 
 The population-level spread of disease through transmission from host to

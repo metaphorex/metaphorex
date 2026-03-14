@@ -1,18 +1,20 @@
 ---
-slug: life-course
-name: "Life Course"
+created: '2026-03-10'
+name: Life Course
 related:
-  - embodied-experience
-  - social-behavior
+- embodied-experience
+- social-behavior
 roles:
-  - person
-  - life-stage
-  - purpose
-  - choice
-  - difficulty
-  - progress
-  - setback
-  - death
+- person
+- life-stage
+- purpose
+- choice
+- difficulty
+- progress
+- setback
+- death
+slug: life-course
+updated: '2026-03-10'
 ---
 
 The trajectory of a human life from birth to death, encompassing

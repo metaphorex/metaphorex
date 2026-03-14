@@ -1,20 +1,22 @@
 ---
-slug: difficulties-are-containers
-name: "Difficulties Are Containers"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Difficulties Are Containers
+related:
+- activities-are-containers
+- difficulties-are-impediments-to-motion
+- states-are-locations
+- life-is-a-container
+slug: difficulties-are-containers
 source_frame: containers
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - activities-are-containers
-  - difficulties-are-impediments-to-motion
-  - states-are-locations
-  - life-is-a-container
+updated: '2026-03-12'
 ---
 
 ## What It Brings

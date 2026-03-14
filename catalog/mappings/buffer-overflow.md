@@ -5,6 +5,7 @@ categories:
 - security
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Buffer Overflow
@@ -15,6 +16,7 @@ related:
 slug: buffer-overflow
 source_frame: fluid-dynamics
 target_frame: memory-management
+updated: '2026-03-14'
 ---
 
 ## What It Brings

@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Command Pattern
@@ -13,6 +14,7 @@ related:
 slug: the-command-pattern
 source_frame: military-command
 target_frame: object-oriented-design
+updated: '2026-03-14'
 ---
 
 ## What It Brings

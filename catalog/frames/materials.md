@@ -1,21 +1,23 @@
 ---
-slug: materials
-name: "Materials"
+created: '2026-03-13'
+name: Materials
 related:
-  - manufacturing
-  - physical-objects
-  - architecture-and-building
+- manufacturing
+- physical-objects
+- architecture-and-building
 roles:
-  - substance
-  - hardness
-  - grain
-  - texture
-  - composition
-  - temper
-  - brittleness
-  - malleability
-  - alloy
-  - refinement
+- substance
+- hardness
+- grain
+- texture
+- composition
+- temper
+- brittleness
+- malleability
+- alloy
+- refinement
+slug: materials
+updated: '2026-03-13'
 ---
 
 The domain of material substances and their intrinsic properties: hardness,

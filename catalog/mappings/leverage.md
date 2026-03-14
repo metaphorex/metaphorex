@@ -1,17 +1,19 @@
 ---
-slug: leverage
-name: "Leverage"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Leverage
+related:
+- the-map-is-not-the-territory
+- activation-energy
+slug: leverage
 source_frame: physics
 target_frame: economics
-categories:
-  - systems-thinking
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-map-is-not-the-territory
-  - activation-energy
+updated: '2026-03-13'
 ---
 
 ## What It Brings
