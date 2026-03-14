@@ -1,19 +1,21 @@
 ---
-slug: laughter-is-a-substance
-name: "Laughter Is a Substance"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Laughter Is a Substance
+related:
+- emotions-are-entities-within-a-person
+- intense-emotions-are-heat
+slug: laughter-is-a-substance
 source_frame: fluid-dynamics
 target_frame: humor
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotions-are-entities-within-a-person
-  - intense-emotions-are-heat
+updated: '2026-03-12'
 ---
 
 ## What It Brings

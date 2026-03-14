@@ -1,17 +1,19 @@
 ---
-slug: hardware-compatibility
-name: "Hardware Compatibility"
+created: '2026-03-10'
+name: Hardware Compatibility
 related:
-  - manufacturing
-  - architecture-and-building
+- manufacturing
+- architecture-and-building
 roles:
-  - plug
-  - socket
-  - adapter
-  - connector
-  - pin
-  - standard
-  - mismatch
+- plug
+- socket
+- adapter
+- connector
+- pin
+- standard
+- mismatch
+slug: hardware-compatibility
+updated: '2026-03-10'
 ---
 
 The physical problem of making devices with incompatible connectors work

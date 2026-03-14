@@ -1,21 +1,23 @@
 ---
-slug: emotions-are-forces
-name: "Emotions Are Forces"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Emotions Are Forces
+related:
+- emotions-are-entities-within-a-person
+- psychological-forces-are-physical-forces
+- emotional-stability-is-balance
+- emotional-stability-is-maintaining-position
+slug: emotions-are-forces
 source_frame: physics
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotions-are-entities-within-a-person
-  - psychological-forces-are-physical-forces
-  - emotional-stability-is-balance
-  - emotional-stability-is-maintaining-position
+updated: '2026-03-12'
 ---
 
 ## What It Brings

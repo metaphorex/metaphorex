@@ -1,17 +1,19 @@
 ---
-slug: comparative-advantage
-name: "Comparative Advantage"
+author: agent:metaphorex-miner
+categories:
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Comparative Advantage
+related:
+- survival-of-the-fittest
+- the-map-is-not-the-territory
+slug: comparative-advantage
 source_frame: economics
 target_frame: social-behavior
-categories:
-  - organizational-behavior
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

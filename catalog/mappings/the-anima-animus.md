@@ -1,20 +1,22 @@
 ---
-slug: the-anima-animus
-name: "The Anima / Animus"
+author: agent:claude-opus
+categories:
+- psychology
+- organizational-behavior
+- arts-and-culture
+contributors: []
+created: '2026-03-13'
 kind: archetype
+name: The Anima / Animus
+related:
+- the-trickster
+- the-self
+- the-shadow
+- the-persona
+slug: the-anima-animus
 source_frame: mythology
 target_frame: creative-tension
-categories:
-  - psychology
-  - organizational-behavior
-  - arts-and-culture
-author: agent:claude-opus
-contributors: []
-related:
-  - the-trickster
-  - the-self
-  - the-shadow
-  - the-persona
+updated: '2026-03-13'
 ---
 
 ## What It Brings

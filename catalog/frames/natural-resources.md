@@ -1,19 +1,21 @@
 ---
-slug: natural-resources
-name: "Natural Resources"
+created: '2026-03-13'
+name: Natural Resources
 related:
-  - economics
-  - natural-phenomena
-  - manufacturing
+- economics
+- natural-phenomena
+- manufacturing
 roles:
-  - resource
-  - extraction
-  - refinement
-  - depletion
-  - reserve
-  - consumption
-  - waste
-  - scarcity
+- resource
+- extraction
+- refinement
+- depletion
+- reserve
+- consumption
+- waste
+- scarcity
+slug: natural-resources
+updated: '2026-03-13'
 ---
 
 Raw materials extracted from the natural environment for human use -- oil,

@@ -1,16 +1,18 @@
 ---
-slug: time-is-a-limited-resource
-name: "Time Is a Limited Resource"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-10'
 kind: conceptual-metaphor
+name: Time Is a Limited Resource
+related:
+- time-is-money
+slug: time-is-a-limited-resource
 source_frame: economics
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - time-is-money
+updated: '2026-03-10'
 ---
 
 ## What It Brings

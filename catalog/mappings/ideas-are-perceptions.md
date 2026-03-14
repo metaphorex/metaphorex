@@ -1,20 +1,22 @@
 ---
-slug: ideas-are-perceptions
-name: "Ideas Are Perceptions"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Perceptions
+related:
+- understanding-is-seeing
+- ideas-are-light-sources
+- ideas-are-objects
+- ideas-are-food
+slug: ideas-are-perceptions
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - understanding-is-seeing
-  - ideas-are-light-sources
-  - ideas-are-objects
-  - ideas-are-food
+updated: '2026-03-12'
 ---
 
 ## What It Brings

@@ -1,19 +1,21 @@
 ---
-slug: external-conditions-are-climate
-name: "External Conditions Are Climate"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: External Conditions Are Climate
+related:
+- existence-is-a-location
+- states-are-locations
+slug: external-conditions-are-climate
 source_frame: natural-phenomena
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - existence-is-a-location
-  - states-are-locations
+updated: '2026-03-12'
 ---
 
 ## What It Brings

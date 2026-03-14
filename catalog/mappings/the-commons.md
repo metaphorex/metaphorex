@@ -1,16 +1,18 @@
 ---
-slug: the-commons
-name: "The Commons"
+author: fshot
+categories:
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-07'
 kind: archetype
+name: The Commons
+related:
+- survival-of-the-fittest
+slug: the-commons
 source_frame: animal-husbandry
 target_frame: shared-resources
-categories:
-  - organizational-behavior
-  - systems-thinking
-author: fshot
-contributors: []
-related:
-  - survival-of-the-fittest
+updated: '2026-03-10'
 ---
 
 ## What It Brings

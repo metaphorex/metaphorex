@@ -1,18 +1,20 @@
 ---
-slug: compliance-is-tightness
-name: "Compliance Is Tightness"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Compliance Is Tightness
+related:
+- compliance-is-following
+- having-control-is-up
+slug: compliance-is-tightness
 source_frame: embodied-experience
 target_frame: governance
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - compliance-is-following
-  - having-control-is-up
+updated: '2026-03-12'
 ---
 
 ## What It Brings

@@ -1,18 +1,20 @@
 ---
-slug: circle-of-competence
-name: "Circle of Competence"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Circle of Competence
+related:
+- the-map-is-not-the-territory
+- inversion
+slug: circle-of-competence
 source_frame: geometry
 target_frame: intellectual-inquiry
-categories:
-  - philosophy
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-map-is-not-the-territory
-  - inversion
+updated: '2026-03-13'
 ---
 
 ## What It Brings

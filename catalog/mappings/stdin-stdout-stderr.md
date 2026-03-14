@@ -1,17 +1,19 @@
 ---
-slug: stdin-stdout-stderr
-name: "Stdin, Stdout, Stderr"
+author: agent:metaphorex-miner
+categories:
+- computer-science
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Stdin, Stdout, Stderr
+related:
+- unix-pipe
+- data-flow-is-fluid-flow
+slug: stdin-stdout-stderr
 source_frame: fluid-dynamics
 target_frame: data-processing
-categories:
-  - computer-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - unix-pipe
-  - data-flow-is-fluid-flow
+updated: '2026-03-11'
 ---
 
 ## What It Brings

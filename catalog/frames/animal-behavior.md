@@ -1,20 +1,22 @@
 ---
-slug: animal-behavior
-name: "Animal Behavior"
+created: '2026-03-13'
+name: Animal Behavior
 related:
-  - animal-husbandry
-  - natural-selection
+- animal-husbandry
+- natural-selection
 roles:
-  - instinct
-  - predation
-  - prey
-  - territory
-  - mating
-  - dominance
-  - pack
-  - appetite
-  - migration
-  - survival
+- instinct
+- predation
+- prey
+- territory
+- mating
+- dominance
+- pack
+- appetite
+- migration
+- survival
+slug: animal-behavior
+updated: '2026-03-13'
 ---
 
 The repertoire of wild animal conduct: hunting, fleeing, mating, territorial

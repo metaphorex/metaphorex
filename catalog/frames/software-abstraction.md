@@ -1,15 +1,17 @@
 ---
-slug: software-abstraction
-name: "Software Abstraction"
+created: '2026-03-07'
+name: Software Abstraction
 related:
-  - architecture-and-building
-  - representation
+- architecture-and-building
+- representation
 roles:
-  - interface
-  - implementation
-  - consumer
-  - internals
-  - layer
+- interface
+- implementation
+- consumer
+- internals
+- layer
+slug: software-abstraction
+updated: '2026-03-10'
 ---
 
 The practice of hiding implementation details behind stable interfaces so

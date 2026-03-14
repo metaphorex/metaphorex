@@ -1,20 +1,22 @@
 ---
-slug: difficult-subjects-are-adversaries
-name: "Difficult Subjects Are Adversaries"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Difficult Subjects Are Adversaries
+related:
+- argument-is-war
+- conducting-research-is-solving-a-puzzle
+- difficulties-are-impediments-to-motion
+slug: difficult-subjects-are-adversaries
 source_frame: war
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - argument-is-war
-  - conducting-research-is-solving-a-puzzle
-  - difficulties-are-impediments-to-motion
+updated: '2026-03-12'
 ---
 
 ## What It Brings

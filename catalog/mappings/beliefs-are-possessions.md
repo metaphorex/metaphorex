@@ -1,23 +1,25 @@
 ---
-slug: beliefs-are-possessions
-name: "Beliefs Are Possessions"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Beliefs Are Possessions
+related:
+- properties-are-possessions
+- ideas-are-objects
+- beliefs-are-locations
+- beliefs-are-guides
+- beliefs-are-fashions
+- beliefs-are-beings-with-a-life-cycle
+slug: beliefs-are-possessions
 source_frame: economics
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - properties-are-possessions
-  - ideas-are-objects
-  - beliefs-are-locations
-  - beliefs-are-guides
-  - beliefs-are-fashions
-  - beliefs-are-beings-with-a-life-cycle
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,16 +1,18 @@
 ---
-slug: the-template-method-pattern
-name: "The Template Method Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-10'
 kind: archetype
+name: The Template Method Pattern
+related:
+- the-strategy-pattern
+- the-factory-pattern
+slug: the-template-method-pattern
 source_frame: publishing
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-strategy-pattern
-  - the-factory-pattern
+updated: '2026-03-11'
 ---
 
 ## What It Brings

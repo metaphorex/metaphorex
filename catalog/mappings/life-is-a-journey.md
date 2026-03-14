@@ -1,19 +1,21 @@
 ---
-slug: life-is-a-journey
-name: "Life Is a Journey"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Life Is a Journey
+related:
+- happy-is-up
+- argument-is-war
+slug: life-is-a-journey
 source_frame: journeys
 target_frame: life-course
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - happy-is-up
-  - argument-is-war
+updated: '2026-03-10'
 ---
 
 ## What It Brings

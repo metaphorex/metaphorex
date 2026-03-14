@@ -1,18 +1,20 @@
 ---
-slug: significant-is-big
-name: "Significant Is Big"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Significant Is Big
+related:
+- more-is-up
+- ideas-are-objects
+slug: significant-is-big
 source_frame: embodied-experience
 target_frame: social-behavior
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - more-is-up
-  - ideas-are-objects
+updated: '2026-03-11'
 ---
 
 ## What It Brings

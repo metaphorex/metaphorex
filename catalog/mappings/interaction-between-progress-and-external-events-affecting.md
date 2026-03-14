@@ -1,21 +1,23 @@
 ---
-slug: interaction-between-progress-and-external-events-affecting
-name: "Interaction Between Progress and External Events Affecting"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Interaction Between Progress and External Events Affecting
+related:
+- external-events-affecting-progress-are-forces-affecting
+- causes-are-forces
+- difficulties-are-impediments-to-motion
+- action-is-motion
+- a-force-is-a-moving-object
+slug: interaction-between-progress-and-external-events-affecting
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - external-events-affecting-progress-are-forces-affecting
-  - causes-are-forces
-  - difficulties-are-impediments-to-motion
-  - action-is-motion
-  - a-force-is-a-moving-object
+updated: '2026-03-12'
 ---
 
 ## What It Brings

@@ -1,20 +1,21 @@
 ---
-slug: lustful-person-is-an-animal
-name: "Lustful Person Is an Animal"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Lustful Person Is an Animal
+related:
+- love-is-madness
+- love-is-a-physical-force
+slug: lustful-person-is-an-animal
 source_frame: animal-behavior
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-madness
-  - love-is-a-physical-force
-
+updated: '2026-03-13'
 ---
 
 ## What It Brings

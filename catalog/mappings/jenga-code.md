@@ -1,18 +1,20 @@
 ---
-slug: jenga-code
-name: "Jenga Code"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Jenga Code
+related:
+- spaghetti-code
+- big-ball-of-mud
+- boat-anchor
+slug: jenga-code
 source_frame: puzzles-and-games
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - spaghetti-code
-  - big-ball-of-mud
-  - boat-anchor
+updated: '2026-03-11'
 ---
 
 ## What It Brings

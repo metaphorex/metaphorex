@@ -1,18 +1,20 @@
 ---
-slug: categories-are-containers
-name: "Categories Are Containers"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Categories Are Containers
+related:
+- activities-are-containers
+- shapes-are-containers
+slug: categories-are-containers
 source_frame: containers
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - activities-are-containers
-  - shapes-are-containers
+updated: '2026-03-13'
 ---
 
 ## What It Brings

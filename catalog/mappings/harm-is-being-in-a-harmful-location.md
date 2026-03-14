@@ -1,20 +1,22 @@
 ---
-slug: harm-is-being-in-a-harmful-location
-name: "Harm Is Being in a Harmful Location"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Harm Is Being in a Harmful Location
+related:
+- states-are-locations
+- existence-is-a-location
+- emotions-are-locations
+- harm-is-causing-functional-objects-to-be-nonfunctional
+slug: harm-is-being-in-a-harmful-location
 source_frame: spatial-location
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - states-are-locations
-  - existence-is-a-location
-  - emotions-are-locations
-  - harm-is-causing-functional-objects-to-be-nonfunctional
+updated: '2026-03-12'
 ---
 
 ## What It Brings

@@ -1,17 +1,19 @@
 ---
-slug: reproduction
-name: "Reproduction"
+created: '2026-03-12'
+name: Reproduction
 related:
-  - life-course
-  - embodied-experience
+- life-course
+- embodied-experience
 roles:
-  - parent
-  - conception
-  - gestation
-  - labor
-  - offspring
-  - fertility
-  - barrenness
+- parent
+- conception
+- gestation
+- labor
+- offspring
+- fertility
+- barrenness
+slug: reproduction
+updated: '2026-03-12'
 ---
 
 The biological process by which organisms produce new individuals.

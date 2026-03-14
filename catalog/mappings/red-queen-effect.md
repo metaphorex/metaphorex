@@ -1,16 +1,18 @@
 ---
-slug: red-queen-effect
-name: "Red Queen Effect"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Red Queen Effect
+related:
+- survival-of-the-fittest
+slug: red-queen-effect
 source_frame: natural-selection
 target_frame: competition
-categories:
-  - systems-thinking
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

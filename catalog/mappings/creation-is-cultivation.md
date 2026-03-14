@@ -1,20 +1,22 @@
 ---
-slug: creation-is-cultivation
-name: "Creation Is Cultivation"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Creation Is Cultivation
+related:
+- creative-process-is-gardening
+- creating-is-making
+- creating-is-making-visible
+- creating-is-moving-to-a-location
+slug: creation-is-cultivation
 source_frame: horticulture
 target_frame: creative-process
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - creative-process-is-gardening
-  - creating-is-making
-  - creating-is-making-visible
-  - creating-is-moving-to-a-location
+updated: '2026-03-12'
 ---
 
 ## What It Brings

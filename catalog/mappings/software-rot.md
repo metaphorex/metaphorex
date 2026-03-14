@@ -1,17 +1,19 @@
 ---
-slug: software-rot
-name: "Software Rot"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- systems-thinking
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Software Rot
+related:
+- program-failure-is-bodily-failure
+slug: software-rot
 source_frame: embodied-experience
 target_frame: software-programs
-categories:
-  - software-engineering
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - program-failure-is-bodily-failure
+updated: '2026-03-11'
 ---
 
 ## What It Brings

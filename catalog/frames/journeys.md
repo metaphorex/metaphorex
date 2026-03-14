@@ -1,17 +1,19 @@
 ---
-slug: journeys
-name: "Journeys"
+created: '2026-03-10'
+name: Journeys
 related:
-  - travel
+- travel
 roles:
-  - traveler
-  - path
-  - destination
-  - obstacle
-  - crossroads
-  - vehicle
-  - guide
-  - milestone
+- traveler
+- path
+- destination
+- obstacle
+- crossroads
+- vehicle
+- guide
+- milestone
+slug: journeys
+updated: '2026-03-10'
 ---
 
 Travel from origin to destination along a path, encountering obstacles and

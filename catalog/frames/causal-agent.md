@@ -1,16 +1,18 @@
 ---
-slug: causal-agent
-name: "Causal Agent"
+created: '2026-03-13'
+name: Causal Agent
 related:
-  - social-roles
+- social-roles
 roles:
-  - agent
-  - patient
-  - instrument
-  - effect
-  - intention
-  - power
-  - transformation
+- agent
+- patient
+- instrument
+- effect
+- intention
+- power
+- transformation
+slug: causal-agent
+updated: '2026-03-13'
 ---
 
 The folk model of a willful entity that causes change: an agent acts on

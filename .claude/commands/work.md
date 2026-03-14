@@ -80,14 +80,10 @@ so the user sees progress.
 2. **Wait** for all parallel agents to complete. As each finishes, TaskUpdate
    its spinner to completed.
 
-3. **Merge approved PRs** — after the parallel group completes, check for
-   PRs labeled `approved`. For each, in dependency order:
-   a. Update branch: `gh api repos/<repo>/pulls/<N>/update-branch -X PUT`
-   b. If update fails with "merge conflict", relabel `needs-miner-fix` and
-      comment "Merge conflicts with main. Needs rebase." Move on.
-   c. If update succeeds, set auto-merge:
-      `gh pr merge <N> --repo <repo> --squash --auto`
-   Auto-merge will fire once the `validate` CI check passes.
+3. **Approved PRs auto-merge.** The `auto-merge.yml` workflow handles merging
+   when the Assayer labels a PR `approved`. Pitboss does not merge PRs.
+   If a PR is stuck (CI failing, merge conflict), the workflow will not merge
+   it — check the PR's status checks for details.
 
 4. **New mining work** — only if no `in_progress` items exist AND
    `unclaimed` issues exist (unclaimed issues only come from `surveyed`

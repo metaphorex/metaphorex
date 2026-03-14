@@ -1,17 +1,19 @@
 ---
-slug: physical-connection
-name: "Physical Connection"
+created: '2026-03-11'
+name: Physical Connection
 related:
-  - embodied-experience
-  - tool-use
+- embodied-experience
+- tool-use
 roles:
-  - link
-  - chain
-  - anchor
-  - connector
-  - joint
-  - bond
-  - attachment
+- link
+- chain
+- anchor
+- connector
+- joint
+- bond
+- attachment
+slug: physical-connection
+updated: '2026-03-11'
 ---
 
 The domain of physical joining -- chains, links, bonds, ties, knots, and

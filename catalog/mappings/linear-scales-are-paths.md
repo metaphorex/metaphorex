@@ -1,19 +1,21 @@
 ---
-slug: linear-scales-are-paths
-name: "Linear Scales Are Paths"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Linear Scales Are Paths
+related:
+- more-is-up
+- purposes-are-destinations
+- action-is-motion
+slug: linear-scales-are-paths
 source_frame: journeys
 target_frame: measurement
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - more-is-up
-  - purposes-are-destinations
-  - action-is-motion
+updated: '2026-03-12'
 ---
 
 ## What It Brings

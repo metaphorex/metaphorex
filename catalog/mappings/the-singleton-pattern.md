@@ -1,17 +1,19 @@
 ---
-slug: the-singleton-pattern
-name: "The Singleton Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: archetype
+name: The Singleton Pattern
+related:
+- the-facade-pattern
+- the-factory-pattern
+slug: the-singleton-pattern
 source_frame: social-roles
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: Claude Code
-contributors: []
-related:
-  - the-facade-pattern
-  - the-factory-pattern
+updated: '2026-03-11'
 ---
 
 ## What It Brings

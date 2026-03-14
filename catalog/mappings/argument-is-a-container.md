@@ -1,21 +1,23 @@
 ---
-slug: argument-is-a-container
-name: "Argument Is a Container"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Argument Is a Container
+related:
+- argument-is-war
+- argument-is-a-building
+- argument-is-a-journey
+- categories-are-containers
+- activities-are-containers
+slug: argument-is-a-container
 source_frame: containers
 target_frame: argumentation
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - argument-is-war
-  - argument-is-a-building
-  - argument-is-a-journey
-  - categories-are-containers
-  - activities-are-containers
+updated: '2026-03-13'
 ---
 
 ## What It Brings

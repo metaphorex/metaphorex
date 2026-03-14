@@ -1,20 +1,22 @@
 ---
-slug: ethics-and-morality
-name: "Ethics and Morality"
+created: '2026-03-13'
+name: Ethics and Morality
 related:
-  - social-roles
-  - religion
+- social-roles
+- religion
 roles:
-  - moral-agent
-  - moral-patient
-  - obligation
-  - transgression
-  - virtue
-  - vice
-  - judgment
-  - conscience
-  - punishment
-  - redemption
+- moral-agent
+- moral-patient
+- obligation
+- transgression
+- virtue
+- vice
+- judgment
+- conscience
+- punishment
+- redemption
+slug: ethics-and-morality
+updated: '2026-03-13'
 ---
 
 The domain of right and wrong, good and evil, duty and transgression. Covers

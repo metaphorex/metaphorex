@@ -1,17 +1,19 @@
 ---
-slug: states-are-shapes
-name: "States Are Shapes"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: States Are Shapes
+related:
+- states-are-locations
+slug: states-are-shapes
 source_frame: geometry
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - states-are-locations
+updated: '2026-03-13'
 ---
 
 ## What It Brings

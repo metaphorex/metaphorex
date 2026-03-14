@@ -1,18 +1,20 @@
 ---
-slug: similarity-is-closeness
-name: "Similarity Is Closeness"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Similarity Is Closeness
+related:
+- categories-are-containers
+- emotional-intimacy-is-physical-closeness
+slug: similarity-is-closeness
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - categories-are-containers
-  - emotional-intimacy-is-physical-closeness
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,18 +1,20 @@
 ---
-slug: military-command
-name: "Military Command"
+created: '2026-03-10'
+name: Military Command
 related:
-  - war
-  - social-roles
+- war
+- social-roles
 roles:
-  - commander
-  - subordinate
-  - order
-  - chain-of-command
-  - delegation
-  - authority
-  - rank
-  - execution
+- commander
+- subordinate
+- order
+- chain-of-command
+- delegation
+- authority
+- rank
+- execution
+slug: military-command
+updated: '2026-03-10'
 ---
 
 Hierarchical authority structures where orders flow downward and

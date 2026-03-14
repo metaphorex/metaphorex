@@ -1,17 +1,19 @@
 ---
-slug: mediation
-name: "Mediation"
+created: '2026-03-10'
+name: Mediation
 related:
-  - social-roles
-  - collaborative-work
+- social-roles
+- collaborative-work
 roles:
-  - mediator
-  - disputant
-  - negotiation
-  - neutral-party
-  - agreement
-  - communication-channel
-  - compromise
+- mediator
+- disputant
+- negotiation
+- neutral-party
+- agreement
+- communication-channel
+- compromise
+slug: mediation
+updated: '2026-03-10'
 ---
 
 Dispute resolution through a neutral intermediary who facilitates

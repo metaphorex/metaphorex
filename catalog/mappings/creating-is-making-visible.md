@@ -1,20 +1,22 @@
 ---
-slug: creating-is-making-visible
-name: "Creating Is Making Visible"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Creating Is Making Visible
+related:
+- creating-is-making
+- creating-is-moving-to-a-location
+- creation-is-cultivation
+- understanding-is-seeing
+slug: creating-is-making-visible
 source_frame: vision
 target_frame: creative-process
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - creating-is-making
-  - creating-is-moving-to-a-location
-  - creation-is-cultivation
-  - understanding-is-seeing
+updated: '2026-03-12'
 ---
 
 ## What It Brings

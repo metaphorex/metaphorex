@@ -1,19 +1,21 @@
 ---
-slug: conceit-is-inflation
-name: "Conceit Is Inflation"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Conceit Is Inflation
+related:
+- more-is-up
+- good-is-up
+slug: conceit-is-inflation
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - more-is-up
-  - good-is-up
+updated: '2026-03-12'
 ---
 
 ## What It Brings

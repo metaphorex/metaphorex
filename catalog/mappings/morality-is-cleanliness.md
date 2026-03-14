@@ -1,20 +1,22 @@
 ---
-slug: morality-is-cleanliness
-name: "Morality Is Cleanliness"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Morality Is Cleanliness
+related:
+- moral-accounting
+- disgust-is-nausea
+slug: morality-is-cleanliness
 source_frame: cleanliness
 target_frame: ethics-and-morality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - moral-accounting
-  - disgust-is-nausea
+updated: '2026-03-13'
 ---
 
 ## What It Brings

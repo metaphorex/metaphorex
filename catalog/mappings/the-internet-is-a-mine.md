@@ -1,17 +1,19 @@
 ---
-slug: the-internet-is-a-mine
-name: "The Internet Is a Mine"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: The Internet Is a Mine
+related:
+- data-is-fuel
+slug: the-internet-is-a-mine
 source_frame: natural-resources
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - data-is-fuel
+updated: '2026-03-13'
 ---
 
 ## What It Brings

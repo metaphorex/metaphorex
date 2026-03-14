@@ -1,21 +1,23 @@
 ---
-slug: lust-is-heat
-name: "Lust Is Heat"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Lust Is Heat
+related:
+- intense-emotions-are-heat
+- love-is-a-physical-force
+- people-are-machines
+- love-is-madness
+slug: lust-is-heat
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - intense-emotions-are-heat
-  - love-is-a-physical-force
-  - people-are-machines
-  - love-is-madness
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,0 +1,33 @@
+name: Daily ops report
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: read
+  pull-requests: read
+
+jobs:
+  ops:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Generate daily ops report
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: uv run scripts/digest.py ops
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/ops/
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: daily ops report $(date -u +%Y-%m-%d)"
+          git push

@@ -1,20 +1,22 @@
 ---
-slug: theories-are-beings-with-life-cycles
-name: "Theories Are Beings with Life Cycles"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Theories Are Beings with Life Cycles
+related:
+- beliefs-are-beings-with-a-life-cycle
+- theories-are-buildings
+- ideas-are-people
+slug: theories-are-beings-with-life-cycles
 source_frame: life-course
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - beliefs-are-beings-with-a-life-cycle
-  - theories-are-buildings
-  - ideas-are-people
+updated: '2026-03-13'
 ---
 
 ## What It Brings

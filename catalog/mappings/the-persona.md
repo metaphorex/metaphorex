@@ -1,20 +1,22 @@
 ---
-slug: the-persona
-name: "The Persona"
+author: agent:claude-opus
+categories:
+- psychology
+- organizational-behavior
+- software-engineering
+contributors: []
+created: '2026-03-13'
 kind: archetype
+name: The Persona
+related:
+- the-trickster
+- the-shadow
+- the-self
+- the-facade-pattern
+slug: the-persona
 source_frame: mythology
 target_frame: social-roles
-categories:
-  - psychology
-  - organizational-behavior
-  - software-engineering
-author: agent:claude-opus
-contributors: []
-related:
-  - the-trickster
-  - the-shadow
-  - the-self
-  - the-facade-pattern
+updated: '2026-03-13'
 ---
 
 ## What It Brings

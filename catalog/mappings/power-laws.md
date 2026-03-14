@@ -1,19 +1,21 @@
 ---
-slug: power-laws
-name: "Power Laws"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Power Laws
+related:
+- regression-to-the-mean
+- latticework-of-mental-models
+- lollapalooza-effect
+slug: power-laws
 source_frame: probability
 target_frame: systems-thinking
-categories:
-  - systems-thinking
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - regression-to-the-mean
-  - latticework-of-mental-models
-  - lollapalooza-effect
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,19 +1,21 @@
 ---
-slug: problem-is-a-target
-name: "Problem Is A Target"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Problem Is A Target
+related:
+- argument-is-war
+- purposes-are-destinations
+- difficulties-are-impediments-to-motion
+slug: problem-is-a-target
 source_frame: target-practice
 target_frame: causal-reasoning
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - argument-is-war
-  - purposes-are-destinations
-  - difficulties-are-impediments-to-motion
+updated: '2026-03-13'
 ---
 
 ## What It Brings

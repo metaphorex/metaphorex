@@ -1,0 +1,29 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+
+const entries = await getCollection("ops");
+const sorted = entries
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 14);
+---
+
+<Base title="Ops Reports" description="Daily operator reports from the Metaphorex pipeline">
+  <article>
+    <h1>Ops Reports</h1>
+    <p>Daily pipeline reports: costs, growth trends, and project status.</p>
+
+    {sorted.map(async (entry) => {
+      const { Content } = await render(entry);
+      const label = entry.data.date.toISOString().split("T")[0];
+      return (
+        <details>
+          <summary>
+            <strong>{label}</strong>
+          </summary>
+          <Content />
+        </details>
+      );
+    })}
+  </article>
+</Base>

@@ -1,18 +1,20 @@
 ---
-slug: mental-experience
-name: "Mental Experience"
+created: '2026-03-10'
+name: Mental Experience
 related:
-  - intellectual-inquiry
-  - embodied-experience
+- intellectual-inquiry
+- embodied-experience
 roles:
-  - mind
-  - psyche
-  - emotion
-  - sanity
-  - breakdown
-  - resilience
-  - stress
-  - consciousness
+- mind
+- psyche
+- emotion
+- sanity
+- breakdown
+- resilience
+- stress
+- consciousness
+slug: mental-experience
+updated: '2026-03-10'
 ---
 
 The inner life of the mind — cognition, emotion, sanity, and psychological

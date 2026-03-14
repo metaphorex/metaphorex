@@ -1,20 +1,22 @@
 ---
-slug: purity
-name: "Purity"
+created: '2026-03-13'
+name: Purity
 related:
-  - cleanliness
-  - health-and-disease
+- cleanliness
+- health-and-disease
 roles:
-  - pure-substance
-  - contaminant
-  - contamination-threshold
-  - assay
-  - mixture
-  - dilution
-  - refinement
-  - corruption
-  - taint
-  - integrity
+- pure-substance
+- contaminant
+- contamination-threshold
+- assay
+- mixture
+- dilution
+- refinement
+- corruption
+- taint
+- integrity
+slug: purity
+updated: '2026-03-13'
 ---
 
 The domain of substance purity and contamination: the binary state of being

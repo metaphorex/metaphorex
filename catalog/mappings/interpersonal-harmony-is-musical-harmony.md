@@ -1,19 +1,21 @@
 ---
-slug: interpersonal-harmony-is-musical-harmony
-name: "Interpersonal Harmony Is Musical Harmony"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Interpersonal Harmony Is Musical Harmony
+related:
+- emotional-stability-is-balance
+- argument-is-dance
+slug: interpersonal-harmony-is-musical-harmony
 source_frame: music
 target_frame: social-behavior
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotional-stability-is-balance
-  - argument-is-dance
+updated: '2026-03-12'
 ---
 
 ## What It Brings

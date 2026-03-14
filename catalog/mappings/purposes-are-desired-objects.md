@@ -1,23 +1,25 @@
 ---
-slug: purposes-are-desired-objects
-name: "Purposes Are Desired Objects"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Purposes Are Desired Objects
+related:
+- purposes-are-destinations
+- action-is-motion
+- life-is-a-journey
+- properties-are-possessions
+- desires-are-forces-between-the-desired-and-the-desirer
+- opportunities-are-objects
+slug: purposes-are-desired-objects
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - purposes-are-destinations
-  - action-is-motion
-  - life-is-a-journey
-  - properties-are-possessions
-  - desires-are-forces-between-the-desired-and-the-desirer
-  - opportunities-are-objects
+updated: '2026-03-13'
 ---
 
 ## What It Brings

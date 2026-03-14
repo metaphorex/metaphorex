@@ -1,18 +1,20 @@
 ---
-slug: the-senex
-name: "The Senex"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: archetype
+name: The Senex
+related:
+- the-trickster
+- the-wise-old-man
+- the-divine-child
+slug: the-senex
 source_frame: mythology
 target_frame: authority-and-mentorship
-categories:
-  - psychology
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-trickster
-  - the-wise-old-man
-  - the-divine-child
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,18 +1,20 @@
 ---
-slug: time-is-a-changer
-name: "Time Is a Changer"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Time Is a Changer
+related:
+- time-is-money
+- time-is-a-pursuer
+slug: time-is-a-changer
 source_frame: causal-agent
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - time-is-money
-  - time-is-a-pursuer
+updated: '2026-03-13'
 ---
 
 ## What It Brings

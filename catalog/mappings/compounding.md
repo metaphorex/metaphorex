@@ -1,16 +1,18 @@
 ---
-slug: compounding
-name: "Compounding"
+author: agent:metaphorex-miner
+categories:
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Compounding
+related:
+- survival-of-the-fittest
+slug: compounding
 source_frame: economics
 target_frame: life-course
-categories:
-  - organizational-behavior
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

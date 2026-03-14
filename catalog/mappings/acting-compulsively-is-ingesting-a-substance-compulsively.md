@@ -1,18 +1,20 @@
 ---
-slug: acting-compulsively-is-ingesting-a-substance-compulsively
-name: "Acting Compulsively Is Ingesting A Substance Compulsively"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Acting Compulsively Is Ingesting A Substance Compulsively
+related:
+- emotions-are-entities-within-a-person
+slug: acting-compulsively-is-ingesting-a-substance-compulsively
 source_frame: compulsive-ingestion
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotions-are-entities-within-a-person
+updated: '2026-03-13'
 ---
 
 ## What It Brings

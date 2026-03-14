@@ -1,19 +1,21 @@
 ---
-slug: people-are-plants
-name: "People Are Plants"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: People Are Plants
+related:
+- people-are-machines
+- life-is-a-journey
+- people-are-batteries
+slug: people-are-plants
 source_frame: horticulture
 target_frame: life-course
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - people-are-machines
-  - life-is-a-journey
-  - people-are-batteries
+updated: '2026-03-13'
 ---
 
 ## What It Brings

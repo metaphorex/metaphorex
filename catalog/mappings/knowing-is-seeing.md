@@ -1,18 +1,20 @@
 ---
-slug: knowing-is-seeing
-name: "Knowing Is Seeing"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Knowing Is Seeing
+related:
+- understanding-is-seeing
+- seeing-is-touching
+slug: knowing-is-seeing
 source_frame: vision
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - understanding-is-seeing
-  - seeing-is-touching
+updated: '2026-03-13'
 ---
 
 ## What It Brings

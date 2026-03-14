@@ -1,19 +1,21 @@
 ---
-slug: fear-driven-development
-name: "Fear-Driven Development"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- organizational-behavior
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Fear-Driven Development
+related:
+- cargo-cult-programming
+- bikeshedding
+- bus-factor
+slug: fear-driven-development
 source_frame: social-behavior
 target_frame: collaborative-work
-categories:
-  - software-engineering
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - cargo-cult-programming
-  - bikeshedding
-  - bus-factor
+updated: '2026-03-11'
 ---
 
 ## What It Brings

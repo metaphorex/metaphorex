@@ -1,18 +1,20 @@
 ---
-slug: money-is-a-liquid
-name: "Money Is A Liquid"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Money Is A Liquid
+related:
+- time-is-money
+- mental-accounting
+slug: money-is-a-liquid
 source_frame: fluid-dynamics
 target_frame: economics
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - time-is-money
-  - mental-accounting
+updated: '2026-03-13'
 ---
 
 ## What It Brings

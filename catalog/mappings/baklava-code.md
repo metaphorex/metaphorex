@@ -1,16 +1,18 @@
 ---
-slug: baklava-code
-name: "Baklava Code"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Baklava Code
+related:
+- spaghetti-code
+slug: baklava-code
 source_frame: food-and-cooking
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - spaghetti-code
+updated: '2026-03-11'
 ---
 
 ## What It Brings

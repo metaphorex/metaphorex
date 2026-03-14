@@ -1,21 +1,23 @@
 ---
-slug: morality-is-purity
-name: "Morality Is Purity"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Morality Is Purity
+related:
+- morality-is-cleanliness
+- morality-is-straightness
+- moral-accounting
+- obligations-are-forces
+slug: morality-is-purity
 source_frame: purity
 target_frame: ethics-and-morality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - morality-is-cleanliness
-  - morality-is-straightness
-  - moral-accounting
-  - obligations-are-forces
+updated: '2026-03-13'
 ---
 
 ## What It Brings

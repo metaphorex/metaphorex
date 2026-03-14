@@ -1,21 +1,23 @@
 ---
-slug: necessary-prerequisite-for-change-is-source-of-moving-entity
-name: "Necessary Prerequisite for Change Is Source of Moving Entity"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Necessary Prerequisite for Change Is Source of Moving Entity
+related:
+- change-is-motion
+- states-are-locations
+- action-is-motion
+- purposes-are-destinations
+- life-is-a-journey
+slug: necessary-prerequisite-for-change-is-source-of-moving-entity
 source_frame: journeys
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - change-is-motion
-  - states-are-locations
-  - action-is-motion
-  - purposes-are-destinations
-  - life-is-a-journey
+updated: '2026-03-13'
 ---
 
 ## What It Brings

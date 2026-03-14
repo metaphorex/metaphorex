@@ -1,19 +1,21 @@
 ---
-slug: causes-are-forces
-name: "Causes Are Forces"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Causes Are Forces
+related:
+- the-conduit-metaphor
+- ideas-are-objects
+slug: causes-are-forces
 source_frame: embodied-experience
 target_frame: causal-reasoning
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-conduit-metaphor
-  - ideas-are-objects
+updated: '2026-03-10'
 ---
 
 ## What It Brings

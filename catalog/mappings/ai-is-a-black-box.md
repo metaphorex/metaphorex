@@ -1,17 +1,19 @@
 ---
-slug: ai-is-a-black-box
-name: "AI Is a Black Box"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: AI Is a Black Box
+related:
+- ai-is-a-mirror
+slug: ai-is-a-black-box
 source_frame: containers
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-mirror
+updated: '2026-03-13'
 ---
 
 ## What It Brings

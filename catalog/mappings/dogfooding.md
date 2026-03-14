@@ -1,16 +1,18 @@
 ---
-slug: dogfooding
-name: "Dogfooding"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- organizational-behavior
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Dogfooding
+related: []
+slug: dogfooding
 source_frame: animal-husbandry
 target_frame: software-programs
-categories:
-  - software-engineering
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related: []
+updated: '2026-03-11'
 ---
 
 ## What It Brings

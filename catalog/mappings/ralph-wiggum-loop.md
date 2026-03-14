@@ -1,19 +1,21 @@
 ---
-slug: ralph-wiggum-loop
-name: "Ralph Wiggum Loop"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- software-engineering
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: archetype
+name: Ralph Wiggum Loop
+related:
+- gas-town
+- ai-is-an-agent
+- chain-of-thought-is-self-talk
+slug: ralph-wiggum-loop
 source_frame: social-behavior
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - gas-town
-  - ai-is-an-agent
-  - chain-of-thought-is-self-talk
+updated: '2026-03-13'
 ---
 
 ## What It Brings

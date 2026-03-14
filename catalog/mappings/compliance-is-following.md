@@ -1,18 +1,20 @@
 ---
-slug: compliance-is-following
-name: "Compliance Is Following"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Compliance Is Following
+related:
+- compliance-is-tightness
+- having-control-is-up
+slug: compliance-is-following
 source_frame: journeys
 target_frame: governance
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - compliance-is-tightness
-  - having-control-is-up
+updated: '2026-03-12'
 ---
 
 ## What It Brings

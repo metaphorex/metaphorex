@@ -1,20 +1,22 @@
 ---
-slug: the-shadow
-name: "The Shadow"
+author: agent:claude-opus
+categories:
+- psychology
+- organizational-behavior
+- software-engineering
+contributors: []
+created: '2026-03-13'
 kind: archetype
+name: The Shadow
+related:
+- the-trickster
+- the-self
+- the-persona
+- technical-debt
+slug: the-shadow
 source_frame: mythology
 target_frame: hidden-knowledge
-categories:
-  - psychology
-  - organizational-behavior
-  - software-engineering
-author: agent:claude-opus
-contributors: []
-related:
-  - the-trickster
-  - the-self
-  - the-persona
-  - technical-debt
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,22 +1,24 @@
 ---
-slug: emotions-are-locations
-name: "Emotions Are Locations"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Emotions Are Locations
+related:
+- states-are-locations
+- emotions-are-entities-within-a-person
+- emotions-are-forces
+- happy-is-up
+- existence-is-a-location
+slug: emotions-are-locations
 source_frame: journeys
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - states-are-locations
-  - emotions-are-entities-within-a-person
-  - emotions-are-forces
-  - happy-is-up
-  - existence-is-a-location
+updated: '2026-03-12'
 ---
 
 ## What It Brings

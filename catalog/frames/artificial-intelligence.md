@@ -1,20 +1,22 @@
 ---
-slug: artificial-intelligence
-name: "Artificial Intelligence"
+created: '2026-03-13'
+name: Artificial Intelligence
 related:
-  - computing
-  - social-roles
-  - tool-use
+- computing
+- social-roles
+- tool-use
 roles:
-  - model
-  - training-data
-  - parameters
-  - inference
-  - prompt
-  - output
-  - alignment
-  - autonomy
-  - capability
+- model
+- training-data
+- parameters
+- inference
+- prompt
+- output
+- alignment
+- autonomy
+- capability
+slug: artificial-intelligence
+updated: '2026-03-13'
 ---
 
 Systems that perform tasks typically requiring human cognition --

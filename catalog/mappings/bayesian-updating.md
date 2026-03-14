@@ -1,17 +1,19 @@
 ---
-slug: bayesian-updating
-name: "Bayesian Updating"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Bayesian Updating
+related:
+- the-map-is-not-the-territory
+- survival-of-the-fittest
+slug: bayesian-updating
 source_frame: probability
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-map-is-not-the-territory
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

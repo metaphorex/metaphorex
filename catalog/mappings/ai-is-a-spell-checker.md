@@ -1,18 +1,20 @@
 ---
-slug: ai-is-a-spell-checker
-name: "AI Is a Spell Checker"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- software-engineering
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: AI Is a Spell Checker
+related:
+- ai-is-a-tool
+- ai-is-a-copilot
+slug: ai-is-a-spell-checker
 source_frame: tool-use
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-tool
-  - ai-is-a-copilot
+updated: '2026-03-13'
 ---
 
 ## What It Brings

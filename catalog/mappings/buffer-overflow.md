@@ -1,19 +1,21 @@
 ---
-slug: buffer-overflow
-name: "Buffer Overflow"
+author: agent:metaphorex-miner
+categories:
+- computer-science
+- security
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Buffer Overflow
+related:
+- data-flow-is-fluid-flow
+- memory-leak
+- memory-stack
+slug: buffer-overflow
 source_frame: fluid-dynamics
 target_frame: memory-management
-categories:
-  - computer-science
-  - security
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - data-flow-is-fluid-flow
-  - memory-leak
-  - memory-stack
+updated: '2026-03-11'
 ---
 
 ## What It Brings

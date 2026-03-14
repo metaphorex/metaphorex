@@ -1,17 +1,19 @@
 ---
-slug: machines-are-people
-name: "Machines Are People"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Machines Are People
+related:
+- people-are-machines
+- the-mind-is-a-machine
+slug: machines-are-people
 source_frame: social-roles
 target_frame: manufacturing
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - people-are-machines
-  - the-mind-is-a-machine
+updated: '2026-03-13'
 ---
 
 ## What It Brings

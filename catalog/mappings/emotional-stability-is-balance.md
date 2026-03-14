@@ -1,20 +1,22 @@
 ---
-slug: emotional-stability-is-balance
-name: "Emotional Stability Is Balance"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Emotional Stability Is Balance
+related:
+- happy-is-up
+- having-control-is-up
+- rational-is-up
+slug: emotional-stability-is-balance
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - happy-is-up
-  - having-control-is-up
-  - rational-is-up
+updated: '2026-03-10'
 ---
 
 ## What It Brings

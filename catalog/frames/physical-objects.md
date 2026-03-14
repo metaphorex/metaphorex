@@ -1,18 +1,20 @@
 ---
-slug: physical-objects
-name: "Physical Objects"
+created: '2026-03-12'
+name: Physical Objects
 related:
-  - containers
-  - economics
+- containers
+- economics
 roles:
-  - object
-  - holder
-  - giver
-  - receiver
-  - transfer
-  - possession
-  - substance
-  - weight
+- object
+- holder
+- giver
+- receiver
+- transfer
+- possession
+- substance
+- weight
+slug: physical-objects
+updated: '2026-03-12'
 ---
 
 Tangible things that can be held, given, taken, transferred, and possessed.

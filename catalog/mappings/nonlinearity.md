@@ -1,19 +1,21 @@
 ---
-slug: nonlinearity
-name: "Nonlinearity"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- cognitive-science
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Nonlinearity
+related:
+- critical-mass
+- power-laws
+- lollapalooza-effect
+- the-map-is-not-the-territory
+slug: nonlinearity
 source_frame: physics
 target_frame: causal-reasoning
-categories:
-  - systems-thinking
-  - cognitive-science
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - critical-mass
-  - power-laws
-  - lollapalooza-effect
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

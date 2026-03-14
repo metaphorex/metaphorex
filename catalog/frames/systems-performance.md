@@ -1,16 +1,18 @@
 ---
-slug: systems-performance
-name: "Systems Performance"
+created: '2026-03-07'
+name: Systems Performance
 related:
-  - data-processing
-  - fluid-dynamics
+- data-processing
+- fluid-dynamics
 roles:
-  - system
-  - throughput
-  - constraint
-  - resource
-  - capacity
-  - latency
+- system
+- throughput
+- constraint
+- resource
+- capacity
+- latency
+slug: systems-performance
+updated: '2026-03-10'
 ---
 
 The measurement and optimization of how well a system converts inputs to

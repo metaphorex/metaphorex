@@ -1,16 +1,18 @@
 ---
-slug: time-is-money
-name: "Time Is Money"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-10'
 kind: conceptual-metaphor
+name: Time Is Money
+related: []
+slug: time-is-money
 source_frame: economics
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related: []
+updated: '2026-03-10'
 ---
 
 ## What It Brings

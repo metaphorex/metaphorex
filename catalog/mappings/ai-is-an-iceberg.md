@@ -1,18 +1,20 @@
 ---
-slug: ai-is-an-iceberg
-name: "AI Is an Iceberg"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: AI Is an Iceberg
+related:
+- ai-is-a-black-box
+- foundation-model-is-a-foundation
+slug: ai-is-an-iceberg
 source_frame: natural-phenomena
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-black-box
-  - foundation-model-is-a-foundation
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,19 +1,21 @@
 ---
-slug: finished-is-up
-name: "Finished Is Up"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Finished Is Up
+related:
+- foreseeable-future-is-up
+- more-is-up
+- having-control-is-up
+slug: finished-is-up
 source_frame: embodied-experience
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - foreseeable-future-is-up
-  - more-is-up
-  - having-control-is-up
+updated: '2026-03-11'
 ---
 
 ## What It Brings

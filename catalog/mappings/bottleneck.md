@@ -1,16 +1,18 @@
 ---
-slug: bottleneck
-name: "Bottleneck"
+author: fshot
+categories:
+- systems-thinking
+- software-engineering
+contributors: []
+created: '2026-03-07'
 kind: dead-metaphor
+name: Bottleneck
+related:
+- data-flow-is-fluid-flow
+slug: bottleneck
 source_frame: containers
 target_frame: systems-performance
-categories:
-  - systems-thinking
-  - software-engineering
-author: fshot
-contributors: []
-related:
-  - data-flow-is-fluid-flow
+updated: '2026-03-10'
 ---
 
 ## What It Brings

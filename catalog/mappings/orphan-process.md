@@ -1,19 +1,21 @@
 ---
-slug: orphan-process
-name: "Orphan Process"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- systems-thinking
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Orphan Process
+related:
+- software-rot
+- bus-factor
+- zombie-process
+slug: orphan-process
 source_frame: social-roles
 target_frame: software-programs
-categories:
-  - software-engineering
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - software-rot
-  - bus-factor
-  - zombie-process
+updated: '2026-03-11'
 ---
 
 ## What It Brings

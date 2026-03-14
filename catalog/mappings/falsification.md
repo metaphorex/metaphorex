@@ -1,17 +1,19 @@
 ---
-slug: falsification
-name: "Falsification"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Falsification
+related:
+- bayesian-updating
+- the-map-is-not-the-territory
+slug: falsification
 source_frame: intellectual-inquiry
 target_frame: causal-reasoning
-categories:
-  - philosophy
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - bayesian-updating
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

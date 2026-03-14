@@ -3,6 +3,12 @@ name: Deploy site
 on:
   schedule:
     - cron: "0 4 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "docs/ops/**"
+      - "docs/changelog/**"
+      - "catalog/**"
   workflow_dispatch: {}
 
 permissions:

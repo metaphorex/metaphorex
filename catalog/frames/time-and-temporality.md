@@ -1,15 +1,17 @@
 ---
-slug: time-and-temporality
-name: "Time and Temporality"
+created: '2026-03-10'
+name: Time and Temporality
 related: []
 roles:
-  - moment
-  - duration
-  - past
-  - present
-  - future
-  - deadline
-  - tempo
+- moment
+- duration
+- past
+- present
+- future
+- deadline
+- tempo
+slug: time-and-temporality
+updated: '2026-03-10'
 ---
 
 The experience and conceptualization of time -- duration, sequence, rhythm,

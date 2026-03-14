@@ -1,20 +1,22 @@
 ---
-slug: lustful-person-is-an-activated-machine
-name: "Lustful Person Is an Activated Machine"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Lustful Person Is an Activated Machine
+related:
+- people-are-machines
+- the-mind-is-a-machine
+- intense-emotions-are-heat
+slug: lustful-person-is-an-activated-machine
 source_frame: manufacturing
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - people-are-machines
-  - the-mind-is-a-machine
-  - intense-emotions-are-heat
+updated: '2026-03-13'
 ---
 
 ## What It Brings

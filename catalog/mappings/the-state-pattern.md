@@ -1,16 +1,18 @@
 ---
-slug: the-state-pattern
-name: "The State Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-10'
 kind: dead-metaphor
+name: The State Pattern
+related:
+- the-strategy-pattern
+- the-memento-pattern
+slug: the-state-pattern
 source_frame: governance
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-strategy-pattern
-  - the-memento-pattern
+updated: '2026-03-10'
 ---
 
 ## What It Brings

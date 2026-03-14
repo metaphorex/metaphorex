@@ -1,20 +1,22 @@
 ---
-slug: difficulty-is-moving
-name: "Difficulty Is Moving"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Difficulty Is Moving
+related:
+- difficulties-are-impediments-to-motion
+- difficulties-are-containers
+- action-is-motion
+- change-is-motion
+slug: difficulty-is-moving
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - difficulties-are-impediments-to-motion
-  - difficulties-are-containers
-  - action-is-motion
-  - change-is-motion
+updated: '2026-03-12'
 ---
 
 ## What It Brings

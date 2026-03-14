@@ -1,20 +1,22 @@
 ---
-slug: a-problem-is-a-body-of-water
-name: "A Problem Is a Body of Water"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: A Problem Is a Body of Water
+related:
+- difficulties-are-impediments-to-motion
+- a-problem-is-a-region-in-a-landscape
+- a-problem-is-a-locked-container-for-its-solution
+- problems-are-puzzles
+slug: a-problem-is-a-body-of-water
 source_frame: fluid-dynamics
 target_frame: causal-reasoning
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - difficulties-are-impediments-to-motion
-  - a-problem-is-a-region-in-a-landscape
-  - a-problem-is-a-locked-container-for-its-solution
-  - problems-are-puzzles
+updated: '2026-03-12'
 ---
 
 ## What It Brings

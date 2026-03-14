@@ -1,16 +1,18 @@
 ---
-slug: survival-of-the-fittest
-name: "Survival of the Fittest"
+author: fshot
+categories:
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-07'
 kind: paradigm
+name: Survival of the Fittest
+related:
+- the-commons
+slug: survival-of-the-fittest
 source_frame: natural-selection
 target_frame: competition
-categories:
-  - organizational-behavior
-  - systems-thinking
-author: fshot
-contributors: []
-related:
-  - the-commons
+updated: '2026-03-09'
 ---
 
 ## What It Brings

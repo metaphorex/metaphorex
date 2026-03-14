@@ -1,19 +1,21 @@
 ---
-slug: effects-of-humor-are-injuries
-name: "Effects of Humor Are Injuries"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Effects of Humor Are Injuries
+related:
+- effect-on-emotional-self-is-contact-with-physical-self
+- the-mind-is-a-brittle-object
+slug: effects-of-humor-are-injuries
 source_frame: embodied-experience
 target_frame: humor
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - effect-on-emotional-self-is-contact-with-physical-self
-  - the-mind-is-a-brittle-object
+updated: '2026-03-12'
 ---
 
 ## What It Brings

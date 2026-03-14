@@ -1,18 +1,20 @@
 ---
-slug: organization-is-physical-structure
-name: "Organization Is Physical Structure"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: Organization Is Physical Structure
+related:
+- theories-are-buildings
+- argument-is-a-building
+slug: organization-is-physical-structure
 source_frame: architecture-and-building
 target_frame: abstract-organization
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - theories-are-buildings
-  - argument-is-a-building
+updated: '2026-03-13'
 ---
 
 ## What It Brings

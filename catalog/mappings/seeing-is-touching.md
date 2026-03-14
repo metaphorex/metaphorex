@@ -1,19 +1,21 @@
 ---
-slug: seeing-is-touching
-name: "Seeing Is Touching"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Seeing Is Touching
+related:
+- understanding-is-seeing
+- the-visual-field-is-a-container
+- the-visual-field-is-a-bounded-region
+slug: seeing-is-touching
 source_frame: embodied-experience
 target_frame: vision
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - understanding-is-seeing
-  - the-visual-field-is-a-container
-  - the-visual-field-is-a-bounded-region
+updated: '2026-03-11'
 ---
 
 ## What It Brings

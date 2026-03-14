@@ -1,20 +1,22 @@
 ---
-slug: causation-is-commercial-transaction
-name: "Causation Is Commercial Transaction"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Causation Is Commercial Transaction
+related:
+- causes-are-forces
+- properties-are-possessions
+- ideas-are-objects
+slug: causation-is-commercial-transaction
 source_frame: economics
 target_frame: causal-reasoning
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - causes-are-forces
-  - properties-are-possessions
-  - ideas-are-objects
+updated: '2026-03-12'
 ---
 
 ## What It Brings

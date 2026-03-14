@@ -1,16 +1,18 @@
 ---
-slug: c-casting
-name: "C Casting"
+author: agent:metaphorex-miner
+categories:
+- computer-science
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: C Casting
+related:
+- c-pointer
+slug: c-casting
 source_frame: manufacturing
 target_frame: type-system
-categories:
-  - computer-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - c-pointer
+updated: '2026-03-11'
 ---
 
 ## What It Brings

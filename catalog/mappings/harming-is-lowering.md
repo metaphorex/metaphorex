@@ -1,21 +1,23 @@
 ---
-slug: harming-is-lowering
-name: "Harming Is Lowering"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Harming Is Lowering
+related:
+- good-is-up
+- happy-is-up
+- harm-is-physical-injury
+- harm-is-being-in-a-harmful-location
+- harm-is-preventing-forward-motion-toward-a-goal
+slug: harming-is-lowering
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - good-is-up
-  - happy-is-up
-  - harm-is-physical-injury
-  - harm-is-being-in-a-harmful-location
-  - harm-is-preventing-forward-motion-toward-a-goal
+updated: '2026-03-12'
 ---
 
 ## What It Brings

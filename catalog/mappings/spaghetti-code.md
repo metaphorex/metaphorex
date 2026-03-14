@@ -1,17 +1,19 @@
 ---
-slug: spaghetti-code
-name: "Spaghetti Code"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Spaghetti Code
+related:
+- data-flow-is-fluid-flow
+- program-failure-is-bodily-failure
+slug: spaghetti-code
 source_frame: food-and-cooking
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - data-flow-is-fluid-flow
-  - program-failure-is-bodily-failure
+updated: '2026-03-11'
 ---
 
 ## What It Brings

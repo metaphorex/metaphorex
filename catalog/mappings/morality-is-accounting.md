@@ -1,21 +1,23 @@
 ---
-slug: morality-is-accounting
-name: "Morality Is Accounting"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Morality Is Accounting
+related:
+- morality-is-purity
+- morality-is-cleanliness
+- morality-is-straightness
+- nation-is-a-family
+slug: morality-is-accounting
 source_frame: economics
 target_frame: ethics-and-morality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - morality-is-purity
-  - morality-is-cleanliness
-  - morality-is-straightness
-  - nation-is-a-family
+updated: '2026-03-13'
 ---
 
 ## What It Brings

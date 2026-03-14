@@ -1,19 +1,21 @@
 ---
-slug: importance-is-size
-name: "Importance Is Size"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Importance Is Size
+related:
+- more-is-up
+- good-is-up
+- difficulties-are-burdens
+slug: importance-is-size
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - more-is-up
-  - good-is-up
-  - difficulties-are-burdens
+updated: '2026-03-13'
 ---
 
 ## What It Brings

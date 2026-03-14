@@ -1,16 +1,18 @@
 ---
-slug: authority-and-mentorship
-name: "Authority and Mentorship"
+created: '2026-03-13'
+name: Authority and Mentorship
 related:
-  - mythology
-  - social-roles
+- mythology
+- social-roles
 roles:
-  - authority
-  - mentor
-  - student
-  - wisdom
-  - tradition
-  - stagnation
+- authority
+- mentor
+- student
+- wisdom
+- tradition
+- stagnation
+slug: authority-and-mentorship
+updated: '2026-03-13'
 ---
 
 The dynamics of accumulated knowledge, institutional authority, and the

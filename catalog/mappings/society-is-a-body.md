@@ -1,20 +1,22 @@
 ---
-slug: society-is-a-body
-name: "Society Is a Body"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+- social-dynamics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Society Is a Body
+related:
+- people-are-machines
+- social-accounting
+slug: society-is-a-body
 source_frame: organism
 target_frame: social-roles
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-  - social-dynamics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - people-are-machines
-  - social-accounting
+updated: '2026-03-13'
 ---
 
 ## What It Brings

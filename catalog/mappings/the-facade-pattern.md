@@ -1,15 +1,17 @@
 ---
-slug: the-facade-pattern
-name: "The Facade Pattern"
+author: fshot
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-07'
 kind: archetype
+name: The Facade Pattern
+related:
+- firewall
+slug: the-facade-pattern
 source_frame: architecture-and-building
 target_frame: software-abstraction
-categories:
-  - software-engineering
-author: fshot
-contributors: []
-related:
-  - firewall
+updated: '2026-03-11'
 ---
 
 ## What It Brings

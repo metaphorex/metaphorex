@@ -1,19 +1,21 @@
 ---
-slug: acting-on-is-transferring-an-object
-name: "Acting On Is Transferring An Object"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Acting On Is Transferring An Object
+related:
+- action-is-motion
+- properties-are-possessions
+- action-is-control-over-possessions
+slug: acting-on-is-transferring-an-object
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - action-is-motion
-  - properties-are-possessions
-  - action-is-control-over-possessions
+updated: '2026-03-13'
 ---
 
 ## What It Brings

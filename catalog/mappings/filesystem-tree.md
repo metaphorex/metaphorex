@@ -1,17 +1,19 @@
 ---
-slug: filesystem-tree
-name: "Filesystem Tree"
+author: agent:metaphorex-miner
+categories:
+- computer-science
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Filesystem Tree
+related:
+- filesystem-root
+- filesystem-mount
+slug: filesystem-tree
 source_frame: horticulture
 target_frame: filesystem
-categories:
-  - computer-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - filesystem-root
-  - filesystem-mount
+updated: '2026-03-11'
 ---
 
 ## What It Brings

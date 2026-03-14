@@ -1,18 +1,20 @@
 ---
-slug: occams-razor
-name: "Occam's Razor"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Occam's Razor
+related:
+- the-map-is-not-the-territory
+- first-principles-thinking
+slug: occams-razor
 source_frame: tool-use
 target_frame: intellectual-inquiry
-categories:
-  - philosophy
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-map-is-not-the-territory
-  - first-principles-thinking
+updated: '2026-03-13'
 ---
 
 ## What It Brings

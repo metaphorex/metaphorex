@@ -1,17 +1,19 @@
 ---
-slug: food-and-cooking
-name: "Food and Cooking"
+created: '2026-03-10'
+name: Food and Cooking
 related:
-  - embodied-experience
+- embodied-experience
 roles:
-  - cook
-  - eater
-  - ingredient
-  - dish
-  - recipe
-  - flavor
-  - digestion
-  - nourishment
+- cook
+- eater
+- ingredient
+- dish
+- recipe
+- flavor
+- digestion
+- nourishment
+slug: food-and-cooking
+updated: '2026-03-10'
 ---
 
 Preparation, consumption, and digestion of food. Encompasses raw ingredients,

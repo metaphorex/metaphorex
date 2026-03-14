@@ -1,21 +1,23 @@
 ---
-slug: strong-emotion-is-blinding
-name: "Strong Emotion Is Blinding"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Strong Emotion Is Blinding
+related:
+- understanding-is-seeing
+- intense-emotions-are-heat
+- strong-emotions-are-madness
+- emotions-are-forces
+slug: strong-emotion-is-blinding
 source_frame: vision
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - understanding-is-seeing
-  - intense-emotions-are-heat
-  - strong-emotions-are-madness
-  - emotions-are-forces
+updated: '2026-03-13'
 ---
 
 ## What It Brings

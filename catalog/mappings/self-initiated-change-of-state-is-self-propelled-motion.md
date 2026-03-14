@@ -1,19 +1,21 @@
 ---
-slug: self-initiated-change-of-state-is-self-propelled-motion
-name: "Self-Initiated Change Of State Is Self-Propelled Motion"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Self-Initiated Change Of State Is Self-Propelled Motion
+related:
+- change-is-motion
+- action-is-motion
+- states-are-locations
+slug: self-initiated-change-of-state-is-self-propelled-motion
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - change-is-motion
-  - action-is-motion
-  - states-are-locations
+updated: '2026-03-13'
 ---
 
 ## What It Brings

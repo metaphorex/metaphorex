@@ -1,18 +1,20 @@
 ---
-slug: hope-is-a-child
-name: "Hope Is a Child"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Hope Is a Child
+related:
+- hope-is-a-benefical-possession
+- hope-is-light
+slug: hope-is-a-child
 source_frame: life-course
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - hope-is-a-benefical-possession
-  - hope-is-light
+updated: '2026-03-12'
 ---
 
 ## What It Brings

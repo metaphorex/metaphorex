@@ -1,17 +1,19 @@
 ---
-slug: computing
-name: "Computing"
+created: '2026-03-07'
+name: Computing
 related:
-  - software-programs
-  - data-processing
-  - software-abstraction
+- software-programs
+- data-processing
+- software-abstraction
 roles:
-  - machine
-  - computation
-  - input
-  - output
-  - state
-  - instruction
+- machine
+- computation
+- input
+- output
+- state
+- instruction
+slug: computing
+updated: '2026-03-07'
 ---
 
 The broad domain of mechanical and electronic computation. Parent

@@ -1,19 +1,21 @@
 ---
-slug: jailbreaking
-name: "Jailbreaking"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- security
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: dead-metaphor
+name: Jailbreaking
+related:
+- ai-safety-is-containment
+- guardrails
+- ai-is-an-agent
+slug: jailbreaking
 source_frame: containers
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - security
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-safety-is-containment
-  - guardrails
-  - ai-is-an-agent
+updated: '2026-03-13'
 ---
 
 ## What It Brings

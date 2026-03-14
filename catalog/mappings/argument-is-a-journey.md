@@ -1,20 +1,22 @@
 ---
-slug: argument-is-a-journey
-name: "Argument Is a Journey"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Argument Is a Journey
+related:
+- argument-is-war
+- argument-is-dance
+- life-is-a-journey
+- theories-are-buildings
+slug: argument-is-a-journey
 source_frame: journeys
 target_frame: argumentation
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - argument-is-war
-  - argument-is-dance
-  - life-is-a-journey
-  - theories-are-buildings
+updated: '2026-03-11'
 ---
 
 ## What It Brings

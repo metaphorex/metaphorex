@@ -1,17 +1,19 @@
 ---
-slug: activation-energy
-name: "Activation Energy"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- psychology
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Activation Energy
+related:
+- leverage
+- the-map-is-not-the-territory
+slug: activation-energy
 source_frame: physics
 target_frame: social-behavior
-categories:
-  - systems-thinking
-  - psychology
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - leverage
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

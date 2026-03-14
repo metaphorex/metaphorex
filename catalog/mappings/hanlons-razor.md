@@ -1,18 +1,20 @@
 ---
-slug: hanlons-razor
-name: "Hanlon's Razor"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- social-dynamics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Hanlon's Razor
+related:
+- occams-razor
+- the-map-is-not-the-territory
+slug: hanlons-razor
 source_frame: tool-use
 target_frame: social-behavior
-categories:
-  - psychology
-  - social-dynamics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - occams-razor
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

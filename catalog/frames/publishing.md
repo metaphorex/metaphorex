@@ -1,17 +1,19 @@
 ---
-slug: publishing
-name: "Publishing"
+created: '2026-03-10'
+name: Publishing
 related:
-  - creative-process
-  - manufacturing
+- creative-process
+- manufacturing
 roles:
-  - template
-  - document
-  - author
-  - editor
-  - content-slot
-  - layout
-  - reproduction
+- template
+- document
+- author
+- editor
+- content-slot
+- layout
+- reproduction
+slug: publishing
+updated: '2026-03-10'
 ---
 
 The production of documents from templates and variable content.

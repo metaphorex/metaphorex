@@ -1,16 +1,18 @@
 ---
-slug: monkey-patching
-name: "Monkey-Patching"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Monkey-Patching
+related:
+- cargo-cult-programming
+slug: monkey-patching
 source_frame: social-behavior
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - cargo-cult-programming
+updated: '2026-03-11'
 ---
 
 ## What It Brings

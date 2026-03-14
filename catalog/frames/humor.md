@@ -1,18 +1,20 @@
 ---
-slug: humor
-name: "Humor"
+created: '2026-03-12'
+name: Humor
 related:
-  - mental-experience
-  - embodied-experience
+- mental-experience
+- embodied-experience
 roles:
-  - comedian
-  - audience
-  - joke
-  - punchline
-  - laughter
-  - timing
-  - absurdity
-  - wit
+- comedian
+- audience
+- joke
+- punchline
+- laughter
+- timing
+- absurdity
+- wit
+slug: humor
+updated: '2026-03-12'
 ---
 
 The domain of humor, comedy, and laughter -- jokes, punchlines, wit, and

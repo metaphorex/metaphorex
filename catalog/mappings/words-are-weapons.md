@@ -1,19 +1,21 @@
 ---
-slug: words-are-weapons
-name: "Words Are Weapons"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Words Are Weapons
+related:
+- argument-is-war
+- treating-illness-is-fighting-a-war
+- sexuality-is-an-offensive-weapon
+slug: words-are-weapons
 source_frame: war
 target_frame: communication
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - argument-is-war
-  - treating-illness-is-fighting-a-war
-  - sexuality-is-an-offensive-weapon
+updated: '2026-03-13'
 ---
 
 ## What It Brings

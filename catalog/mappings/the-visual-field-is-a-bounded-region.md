@@ -1,17 +1,19 @@
 ---
-slug: the-visual-field-is-a-bounded-region
-name: "The Visual Field Is A Bounded Region"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-10'
 kind: conceptual-metaphor
+name: The Visual Field Is A Bounded Region
+related:
+- the-visual-field-is-a-container
+- understanding-is-seeing
+slug: the-visual-field-is-a-bounded-region
 source_frame: embodied-experience
 target_frame: vision
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-visual-field-is-a-container
-  - understanding-is-seeing
+updated: '2026-03-10'
 ---
 
 ## What It Brings

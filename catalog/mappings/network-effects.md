@@ -1,17 +1,19 @@
 ---
-slug: network-effects
-name: "Network Effects"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Network Effects
+related:
+- survival-of-the-fittest
+- the-map-is-not-the-territory
+slug: network-effects
 source_frame: network-communication
 target_frame: economics
-categories:
-  - systems-thinking
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

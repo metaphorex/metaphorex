@@ -1,18 +1,20 @@
 ---
-slug: the-pipeline-pattern
-name: "The Pipeline Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- systems-thinking
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: archetype
+name: The Pipeline Pattern
+related:
+- data-flow-is-fluid-flow
+- bottleneck
+slug: the-pipeline-pattern
 source_frame: fluid-dynamics
 target_frame: data-processing
-categories:
-  - software-engineering
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - data-flow-is-fluid-flow
-  - bottleneck
+updated: '2026-03-11'
 ---
 
 ## What It Brings

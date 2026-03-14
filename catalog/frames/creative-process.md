@@ -1,17 +1,19 @@
 ---
-slug: creative-process
-name: "Creative Process"
+created: '2026-03-07'
+name: Creative Process
 related:
-  - architecture-and-building
-  - representation
+- architecture-and-building
+- representation
 roles:
-  - creator
-  - medium
-  - idea
-  - draft
-  - revision
-  - constraint
-  - audience
+- creator
+- medium
+- idea
+- draft
+- revision
+- constraint
+- audience
+slug: creative-process
+updated: '2026-03-08'
 ---
 
 The iterative cycle of generating, shaping, and refining new work — from

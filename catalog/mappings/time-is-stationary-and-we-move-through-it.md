@@ -1,19 +1,21 @@
 ---
-slug: time-is-stationary-and-we-move-through-it
-name: "Time Is Stationary and We Move Through It"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-10'
 kind: conceptual-metaphor
+name: Time Is Stationary and We Move Through It
+related:
+- time-is-a-moving-object
+- life-is-a-journey
+- time-is-money
+slug: time-is-stationary-and-we-move-through-it
 source_frame: embodied-experience
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - time-is-a-moving-object
-  - life-is-a-journey
-  - time-is-money
+updated: '2026-03-10'
 ---
 
 ## What It Brings

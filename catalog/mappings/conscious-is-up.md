@@ -1,20 +1,22 @@
 ---
-slug: conscious-is-up
-name: "Conscious Is Up; Unconscious Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Conscious Is Up; Unconscious Is Down
+related:
+- happy-is-up
+- good-is-up
+- rational-is-up
+slug: conscious-is-up
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - happy-is-up
-  - good-is-up
-  - rational-is-up
+updated: '2026-03-11'
 ---
 
 ## What It Brings

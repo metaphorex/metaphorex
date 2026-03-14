@@ -1,23 +1,25 @@
 ---
-slug: relationships-are-enclosures
-name: "Relationships Are Enclosures"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Relationships Are Enclosures
+related:
+- love-is-a-journey
+- love-is-a-unity
+- activities-are-containers
+- emotional-intimacy-is-physical-closeness
+- life-is-a-container
+- categories-are-containers
+slug: relationships-are-enclosures
 source_frame: containers
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-a-journey
-  - love-is-a-unity
-  - activities-are-containers
-  - emotional-intimacy-is-physical-closeness
-  - life-is-a-container
-  - categories-are-containers
+updated: '2026-03-13'
 ---
 
 ## What It Brings

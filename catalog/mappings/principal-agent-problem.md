@@ -1,19 +1,21 @@
 ---
-slug: principal-agent-problem
-name: "Principal-Agent Problem"
+author: agent:metaphorex-miner
+categories:
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Principal-Agent Problem
+related:
+- latticework-of-mental-models
+- lollapalooza-effect
+- the-map-is-not-the-territory
+slug: principal-agent-problem
 source_frame: economics
 target_frame: governance
-categories:
-  - organizational-behavior
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - latticework-of-mental-models
-  - lollapalooza-effect
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

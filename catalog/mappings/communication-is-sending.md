@@ -1,18 +1,20 @@
 ---
-slug: communication-is-sending
-name: "Communication Is Sending"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Communication Is Sending
+related:
+- the-conduit-metaphor
+- ideas-are-objects
+slug: communication-is-sending
 source_frame: containers
 target_frame: communication
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-conduit-metaphor
-  - ideas-are-objects
+updated: '2026-03-11'
 ---
 
 ## What It Brings

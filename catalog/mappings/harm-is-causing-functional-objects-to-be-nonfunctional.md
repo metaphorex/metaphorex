@@ -1,19 +1,21 @@
 ---
-slug: harm-is-causing-functional-objects-to-be-nonfunctional
-name: "Harm Is Causing Functional Objects to Be Nonfunctional"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Harm Is Causing Functional Objects to Be Nonfunctional
+related:
+- harm-is-being-in-a-harmful-location
+- people-are-machines
+- states-are-locations
+slug: harm-is-causing-functional-objects-to-be-nonfunctional
 source_frame: manufacturing
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - harm-is-being-in-a-harmful-location
-  - people-are-machines
-  - states-are-locations
+updated: '2026-03-12'
 ---
 
 ## What It Brings

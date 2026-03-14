@@ -1,19 +1,21 @@
 ---
-slug: existence-is-a-location
-name: "Existence Is A Location"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Existence Is A Location
+related:
+- states-are-locations
+- action-is-motion
+slug: existence-is-a-location
 source_frame: journeys
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - states-are-locations
-  - action-is-motion
+updated: '2026-03-10'
 ---
 
 ## What It Brings

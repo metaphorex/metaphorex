@@ -1,18 +1,20 @@
 ---
-slug: medicine
-name: "Medicine"
+created: '2026-03-11'
+name: Medicine
 related:
-  - embodied-experience
+- embodied-experience
 roles:
-  - patient
-  - healer
-  - diagnosis
-  - symptom
-  - treatment
-  - cure
-  - disease
-  - recovery
-  - relapse
+- patient
+- healer
+- diagnosis
+- symptom
+- treatment
+- cure
+- disease
+- recovery
+- relapse
+slug: medicine
+updated: '2026-03-11'
 ---
 
 The practice of diagnosing, treating, and curing illness in a living body.

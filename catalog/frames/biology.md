@@ -1,20 +1,22 @@
 ---
-slug: biology
-name: "Biology"
+created: '2026-03-13'
+name: Biology
 related:
-  - organism
-  - embodied-experience
-  - natural-selection
+- organism
+- embodied-experience
+- natural-selection
 roles:
-  - cell
-  - neuron
-  - synapse
-  - organ
-  - network
-  - activation
-  - signal
-  - adaptation
-  - evolution
+- cell
+- neuron
+- synapse
+- organ
+- network
+- activation
+- signal
+- adaptation
+- evolution
+slug: biology
+updated: '2026-03-13'
 ---
 
 The science of living systems -- cells, organisms, ecosystems, and their

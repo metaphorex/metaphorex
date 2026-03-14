@@ -1,19 +1,21 @@
 ---
-slug: abilities-are-entities-inside-a-person
-name: "Abilities Are Entities Inside A Person"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Abilities Are Entities Inside A Person
+related:
+- emotions-are-entities-within-a-person
+- properties-are-possessions
+slug: abilities-are-entities-inside-a-person
 source_frame: containers
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotions-are-entities-within-a-person
-  - properties-are-possessions
+updated: '2026-03-13'
 ---
 
 ## What It Brings

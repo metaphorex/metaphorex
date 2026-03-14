@@ -1,18 +1,20 @@
 ---
-slug: opportunity-cost
-name: "Opportunity Cost"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Opportunity Cost
+related:
+- the-map-is-not-the-territory
+- latticework-of-mental-models
+slug: opportunity-cost
 source_frame: economics
 target_frame: causal-reasoning
-categories:
-  - systems-thinking
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-map-is-not-the-territory
-  - latticework-of-mental-models
+updated: '2026-03-13'
 ---
 
 ## What It Brings

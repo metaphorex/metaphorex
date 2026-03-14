@@ -1,20 +1,22 @@
 ---
-slug: compulsive-ingestion
-name: "Compulsive Ingestion"
+created: '2026-03-13'
+name: Compulsive Ingestion
 related:
-  - food-and-cooking
-  - embodied-experience
+- food-and-cooking
+- embodied-experience
 roles:
-  - substance
-  - user
-  - craving
-  - dose
-  - tolerance
-  - withdrawal
-  - bingeing
-  - relapse
-  - recovery
-  - dependence
+- substance
+- user
+- craving
+- dose
+- tolerance
+- withdrawal
+- bingeing
+- relapse
+- recovery
+- dependence
+slug: compulsive-ingestion
+updated: '2026-03-13'
 ---
 
 The pattern of compulsive substance use: a person ingests a substance,

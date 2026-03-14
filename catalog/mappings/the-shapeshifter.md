@@ -1,18 +1,20 @@
 ---
-slug: the-shapeshifter
-name: "The Shapeshifter"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- organizational-behavior
+- arts-and-culture
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: archetype
+name: The Shapeshifter
+related:
+- the-trickster
+slug: the-shapeshifter
 source_frame: mythology
 target_frame: social-roles
-categories:
-  - psychology
-  - organizational-behavior
-  - arts-and-culture
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-trickster
-harness: "Claude Code"
+updated: '2026-03-13'
 ---
 
 ## What It Brings

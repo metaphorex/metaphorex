@@ -1,9 +1,11 @@
 ---
-slug: security
-name: "Security"
+created: '2026-03-09'
+name: Security
 related:
-  - systems-thinking
-  - social-dynamics
+- systems-thinking
+- social-dynamics
+slug: security
+updated: '2026-03-09'
 ---
 
 Metaphors rooted in defense, perimeters, and adversarial thinking —

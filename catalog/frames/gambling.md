@@ -1,19 +1,21 @@
 ---
-slug: gambling
-name: "Gambling"
+created: '2026-03-11'
+name: Gambling
 related:
-  - competition
-  - economics
+- competition
+- economics
 roles:
-  - gambler
-  - stake
-  - odds
-  - bet
-  - hand
-  - bluff
-  - jackpot
-  - house
-  - risk
+- gambler
+- stake
+- odds
+- bet
+- hand
+- bluff
+- jackpot
+- house
+- risk
+slug: gambling
+updated: '2026-03-11'
 ---
 
 Games of chance and calculated risk -- poker, dice, roulette, and their

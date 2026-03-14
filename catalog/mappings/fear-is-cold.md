@@ -1,21 +1,23 @@
 ---
-slug: fear-is-cold
-name: "Fear Is Cold"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Fear Is Cold
+related:
+- emotions-are-forces
+- emotions-are-entities-within-a-person
+- emotional-stability-is-balance
+- fear-driven-development
+slug: fear-is-cold
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotions-are-forces
-  - emotions-are-entities-within-a-person
-  - emotional-stability-is-balance
-  - fear-driven-development
+updated: '2026-03-12'
 ---
 
 ## What It Brings

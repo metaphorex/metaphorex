@@ -1,21 +1,23 @@
 ---
-slug: existence-is-an-object
-name: "Existence Is An Object"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Existence Is An Object
+related:
+- existence-is-a-location
+- states-are-locations
+- properties-are-possessions
+- event-structure
+slug: existence-is-an-object
 source_frame: physical-objects
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - existence-is-a-location
-  - states-are-locations
-  - properties-are-possessions
-  - event-structure
+updated: '2026-03-12'
 ---
 
 ## What It Brings

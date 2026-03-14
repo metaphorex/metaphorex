@@ -1,19 +1,21 @@
 ---
-slug: catalysts
-name: "Catalysts"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Catalysts
+related:
+- critical-mass
+- lollapalooza-effect
+- latticework-of-mental-models
+slug: catalysts
 source_frame: physics
 target_frame: social-behavior
-categories:
-  - systems-thinking
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - critical-mass
-  - lollapalooza-effect
-  - latticework-of-mental-models
+updated: '2026-03-13'
 ---
 
 ## What It Brings

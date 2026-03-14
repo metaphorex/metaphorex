@@ -1,18 +1,20 @@
 ---
-slug: alignment-is-physical-alignment
-name: "Alignment Is Physical Alignment"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Alignment Is Physical Alignment
+related:
+- training-is-education
+- neural-network-is-a-brain
+slug: alignment-is-physical-alignment
 source_frame: physics
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - training-is-education
-  - neural-network-is-a-brain
+updated: '2026-03-13'
 ---
 
 ## What It Brings

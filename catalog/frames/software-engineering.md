@@ -1,20 +1,22 @@
 ---
-slug: software-engineering
-name: "Software Engineering"
+created: '2026-03-13'
+name: Software Engineering
 related:
-  - manufacturing
-  - architecture-and-building
-  - computing
+- manufacturing
+- architecture-and-building
+- computing
 roles:
-  - programmer
-  - code
-  - specification
-  - compiler
-  - debug
-  - deploy
-  - test
-  - engineer
-  - system
+- programmer
+- code
+- specification
+- compiler
+- debug
+- deploy
+- test
+- engineer
+- system
+slug: software-engineering
+updated: '2026-03-13'
 ---
 
 The disciplined practice of designing, building, and maintaining software

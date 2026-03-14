@@ -1,17 +1,19 @@
 ---
-slug: causal-reasoning
-name: "Causal Reasoning"
+created: '2026-03-10'
+name: Causal Reasoning
 related:
-  - embodied-experience
-  - intellectual-inquiry
+- embodied-experience
+- intellectual-inquiry
 roles:
-  - cause
-  - effect
-  - agent
-  - mechanism
-  - consequence
-  - chain
-  - condition
+- cause
+- effect
+- agent
+- mechanism
+- consequence
+- chain
+- condition
+slug: causal-reasoning
+updated: '2026-03-10'
 ---
 
 The everyday cognitive activity of understanding why things happen --

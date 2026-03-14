@@ -1,19 +1,21 @@
 ---
-slug: darkness-is-a-solid
-name: "Darkness Is a Solid"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Darkness Is a Solid
+related:
+- darkness-is-a-cover
+- ideas-are-light-sources
+- understanding-is-seeing
+slug: darkness-is-a-solid
 source_frame: physics
 target_frame: vision
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - darkness-is-a-cover
-  - ideas-are-light-sources
-  - understanding-is-seeing
+updated: '2026-03-12'
 ---
 
 ## What It Brings

@@ -1,15 +1,17 @@
 ---
-slug: firewall
-name: "Firewall"
+author: fshot
+categories:
+- software-engineering
+- security
+contributors: []
+created: '2026-03-07'
 kind: dead-metaphor
+name: Firewall
+related: []
+slug: firewall
 source_frame: architecture-and-building
 target_frame: network-security
-categories:
-  - software-engineering
-  - security
-author: fshot
-contributors: []
-related: []
+updated: '2026-03-10'
 ---
 
 ## What It Brings

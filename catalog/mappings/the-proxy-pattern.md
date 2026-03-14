@@ -1,17 +1,19 @@
 ---
-slug: the-proxy-pattern
-name: "The Proxy Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: archetype
+name: The Proxy Pattern
+related:
+- the-facade-pattern
+- the-decorator-pattern
+slug: the-proxy-pattern
 source_frame: social-roles
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-facade-pattern
-  - the-decorator-pattern
+updated: '2026-03-11'
 ---
 
 ## What It Brings

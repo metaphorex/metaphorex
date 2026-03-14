@@ -1,20 +1,22 @@
 ---
-slug: effect-on-emotional-self-is-contact-with-physical-self
-name: "Effect on Emotional Self Is Contact with Physical Self"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Effect on Emotional Self Is Contact with Physical Self
+related:
+- emotional-stability-is-balance
+- psychological-forces-are-physical-forces
+- disgust-is-nausea
+slug: effect-on-emotional-self-is-contact-with-physical-self
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotional-stability-is-balance
-  - psychological-forces-are-physical-forces
-  - disgust-is-nausea
+updated: '2026-03-12'
 ---
 
 ## What It Brings

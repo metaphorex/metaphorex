@@ -1,17 +1,19 @@
 ---
-slug: social-proof
-name: "Social Proof"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- social-dynamics
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Social Proof
+related:
+- survival-of-the-fittest
+- the-map-is-not-the-territory
+slug: social-proof
 source_frame: natural-selection
 target_frame: social-behavior
-categories:
-  - psychology
-  - social-dynamics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

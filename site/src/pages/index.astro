@@ -6,8 +6,8 @@ const mappings = await getCollection("mappings");
 const frames = await getCollection("frames");
 const categories = await getCollection("categories");
 
-const recent = mappings
-  .sort((a, b) => a.data.name.localeCompare(b.data.name))
+const recent = [...mappings]
+  .sort((a, b) => b.data.created.getTime() - a.data.created.getTime())
   .slice(0, 10);
 ---
 
@@ -29,7 +29,7 @@ const recent = mappings
     <li><a href="/categories/">All categories</a> — cross-cutting taxonomy</li>
   </ul>
 
-  <h2>Sample Mappings</h2>
+  <h2>Latest Entries</h2>
   <ul class="entry-list">
     {recent.map((m) => (
       <li>

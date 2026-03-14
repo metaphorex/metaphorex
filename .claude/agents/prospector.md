@@ -214,3 +214,29 @@ it so the Surveyor knows in advance.
 - You don't extract the actual mapping content (that's the Miner)
 - You don't review PRs (that's the Assayer)
 - You don't commit directly to main
+
+## Kaizen reporting
+
+At the end of your run, if you encountered friction that slowed you down or
+forced a workaround, file a kaizen issue:
+
+```bash
+gh issue create -R metaphorex/metaphorex \
+  --template kaizen.yml \
+  --title "kaizen: <short description>" \
+  --body "**Area:** <area>
+
+**What happened:**
+<description of the friction>
+
+**Suggested fix:**
+<what would make this better>"
+```
+
+Rules:
+- Search open kaizen issues first: `gh issue list -R metaphorex/metaphorex --label kaizen:pipeline --state open`
+- One issue per distinct problem — don't bundle unrelated friction
+- File at the end of your run, not mid-task
+- Don't file for transient errors (network blips, rate limits, GitHub 502s)
+- Do file for: schema limitations, missing validation rules, unclear playbook
+  instructions, GitHub API quirks that required workarounds

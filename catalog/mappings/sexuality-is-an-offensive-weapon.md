@@ -1,21 +1,23 @@
 ---
-slug: sexuality-is-an-offensive-weapon
-name: "Sexuality Is An Offensive Weapon"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- social-dynamics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Sexuality Is An Offensive Weapon
+related:
+- love-is-war
+- lust-is-heat
+- lustful-person-is-an-animal
+- lustful-person-is-an-activated-machine
+slug: sexuality-is-an-offensive-weapon
 source_frame: war
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - social-dynamics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - love-is-war
-  - lust-is-heat
-  - lustful-person-is-an-animal
-  - lustful-person-is-an-activated-machine
+updated: '2026-03-13'
 ---
 
 ## What It Brings

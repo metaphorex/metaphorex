@@ -1,19 +1,21 @@
 ---
-slug: getting-is-eating
-name: "Getting Is Eating"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Getting Is Eating
+related:
+- desire-is-hunger
+- ideas-are-food
+- action-is-control-over-possessions
+slug: getting-is-eating
 source_frame: food-and-cooking
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - desire-is-hunger
-  - ideas-are-food
-  - action-is-control-over-possessions
+updated: '2026-03-12'
 ---
 
 ## What It Brings

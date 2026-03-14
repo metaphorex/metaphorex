@@ -1,19 +1,21 @@
 ---
-slug: rational-is-up
-name: "Rational Is Up; Emotional Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-10'
 kind: conceptual-metaphor
+name: Rational Is Up; Emotional Is Down
+related:
+- happy-is-up
+- having-control-is-up
+- understanding-is-seeing
+slug: rational-is-up
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - happy-is-up
-  - having-control-is-up
-  - understanding-is-seeing
+updated: '2026-03-10'
 ---
 
 ## What It Brings

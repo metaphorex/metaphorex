@@ -1,19 +1,21 @@
 ---
-slug: external-appearance-is-a-cover
-name: "External Appearance Is A Cover"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: External Appearance Is A Cover
+related:
+- existence-is-visibility
+- understanding-is-seeing
+slug: external-appearance-is-a-cover
 source_frame: containers
 target_frame: embodied-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - existence-is-visibility
-  - understanding-is-seeing
+updated: '2026-03-12'
 ---
 
 ## What It Brings

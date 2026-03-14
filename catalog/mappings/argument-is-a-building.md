@@ -1,19 +1,21 @@
 ---
-slug: argument-is-a-building
-name: "Argument Is a Building"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Argument Is a Building
+related:
+- theories-are-buildings
+- argument-is-war
+- argument-is-a-journey
+slug: argument-is-a-building
 source_frame: architecture-and-building
 target_frame: argumentation
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - theories-are-buildings
-  - argument-is-war
-  - argument-is-a-journey
+updated: '2026-03-11'
 ---
 
 ## What It Brings

@@ -1,20 +1,22 @@
 ---
-slug: perception-is-reception
-name: "Perception Is Reception"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Perception Is Reception
+related:
+- understanding-is-seeing
+- seeing-is-touching
+- the-conduit-metaphor
+slug: perception-is-reception
 source_frame: physical-objects
 target_frame: embodied-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - understanding-is-seeing
-  - seeing-is-touching
-  - the-conduit-metaphor
+updated: '2026-03-13'
 ---
 
 ## What It Brings

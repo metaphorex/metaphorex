@@ -1,19 +1,21 @@
 ---
-slug: theoretical-debate-is-competition
-name: "Theoretical Debate Is Competition"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Theoretical Debate Is Competition
+related:
+- argument-is-war
+- theories-are-buildings
+slug: theoretical-debate-is-competition
 source_frame: competition
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - argument-is-war
-  - theories-are-buildings
+updated: '2026-03-13'
 ---
 
 ## What It Brings

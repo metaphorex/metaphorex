@@ -1,18 +1,20 @@
 ---
-slug: comparison-of-properties-is-comparison-of-physical-properties
-name: "Comparison of Properties Is Comparison of Physical Properties"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Comparison of Properties Is Comparison of Physical Properties
+related:
+- properties-are-possessions
+- comparison-of-properties-is-comparison-of-possessions
+slug: comparison-of-properties-is-comparison-of-physical-properties
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - properties-are-possessions
-  - comparison-of-properties-is-comparison-of-possessions
+updated: '2026-03-13'
 ---
 
 ## What It Brings

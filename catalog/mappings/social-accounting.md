@@ -1,20 +1,22 @@
 ---
-slug: social-accounting
-name: "Social Accounting"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Social Accounting
+related:
+- moral-accounting
+- mental-accounting
+- time-is-money
+slug: social-accounting
 source_frame: economics
 target_frame: social-behavior
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - moral-accounting
-  - mental-accounting
-  - time-is-money
+updated: '2026-03-13'
 ---
 
 ## What It Brings

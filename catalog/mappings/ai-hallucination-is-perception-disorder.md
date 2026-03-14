@@ -1,18 +1,20 @@
 ---
-slug: ai-hallucination-is-perception-disorder
-name: "AI Hallucination Is Perception Disorder"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: AI Hallucination Is Perception Disorder
+related:
+- training-is-education
+- neural-network-is-a-brain
+slug: ai-hallucination-is-perception-disorder
 source_frame: medicine
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - training-is-education
-  - neural-network-is-a-brain
+updated: '2026-03-13'
 ---
 
 ## What It Brings

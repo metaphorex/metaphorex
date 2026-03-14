@@ -1,20 +1,22 @@
 ---
-slug: hope-is-a-benefical-possession
-name: "Hope Is a Beneficial Possession"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Hope Is a Beneficial Possession
+related:
+- action-is-control-over-possessions
+- harm-is-lacking-a-needed-possession
+- harm-is-having-a-harmful-possession
+- properties-are-possessions
+slug: hope-is-a-benefical-possession
 source_frame: economics
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - action-is-control-over-possessions
-  - harm-is-lacking-a-needed-possession
-  - harm-is-having-a-harmful-possession
-  - properties-are-possessions
+updated: '2026-03-12'
 ---
 
 ## What It Brings

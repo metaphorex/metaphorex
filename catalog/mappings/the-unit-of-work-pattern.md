@@ -1,17 +1,19 @@
 ---
-slug: the-unit-of-work-pattern
-name: "The Unit of Work Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: archetype
+name: The Unit of Work Pattern
+related:
+- the-factory-pattern
+- the-command-pattern
+slug: the-unit-of-work-pattern
 source_frame: manufacturing
 target_frame: software-abstraction
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-factory-pattern
-  - the-command-pattern
+updated: '2026-03-11'
 ---
 
 ## What It Brings

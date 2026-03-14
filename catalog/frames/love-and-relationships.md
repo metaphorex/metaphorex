@@ -1,15 +1,17 @@
 ---
-slug: love-and-relationships
-name: "Love and Relationships"
+created: '2026-03-10'
+name: Love and Relationships
 related: []
 roles:
-  - lover
-  - beloved
-  - bond
-  - attraction
-  - commitment
-  - breakup
-  - intimacy
+- lover
+- beloved
+- bond
+- attraction
+- commitment
+- breakup
+- intimacy
+slug: love-and-relationships
+updated: '2026-03-10'
 ---
 
 Romantic love, partnerships, and their arc from attraction through commitment

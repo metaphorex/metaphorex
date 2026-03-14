@@ -1,18 +1,20 @@
 ---
-slug: the-mind-is-a-brittle-object
-name: "The Mind Is A Brittle Object"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: conceptual-metaphor
+name: The Mind Is A Brittle Object
+related:
+- the-mind-is-a-machine
+- happy-is-up
+slug: the-mind-is-a-brittle-object
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - the-mind-is-a-machine
-  - happy-is-up
+updated: '2026-03-10'
 ---
 
 ## What It Brings

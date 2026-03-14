@@ -1,20 +1,22 @@
 ---
-slug: network-communication
-name: "Network Communication"
 broader: computing
+created: '2026-03-11'
+name: Network Communication
 related:
-  - data-processing
-  - software-programs
-  - network-security
+- data-processing
+- software-programs
+- network-security
 roles:
-  - endpoint
-  - connection
-  - protocol
-  - message
-  - address
-  - port
-  - session
-  - handshake
+- endpoint
+- connection
+- protocol
+- message
+- address
+- port
+- session
+- handshake
+slug: network-communication
+updated: '2026-03-11'
 ---
 
 The exchange of data between separate computing systems over a network.

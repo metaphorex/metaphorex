@@ -1,19 +1,21 @@
 ---
-slug: obligations-are-forces
-name: "Obligations Are Forces"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Obligations Are Forces
+related:
+- causes-are-forces
+- action-is-motion
+slug: obligations-are-forces
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - causes-are-forces
-  - action-is-motion
+updated: '2026-03-11'
 ---
 
 ## What It Brings

@@ -1,21 +1,23 @@
 ---
-slug: purposes-are-destinations
-name: "Purposes Are Destinations"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Purposes Are Destinations
+related:
+- life-is-a-journey
+- action-is-motion
+- states-are-locations
+- change-is-motion
+slug: purposes-are-destinations
 source_frame: journeys
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - life-is-a-journey
-  - action-is-motion
-  - states-are-locations
-  - change-is-motion
+updated: '2026-03-11'
 ---
 
 ## What It Brings

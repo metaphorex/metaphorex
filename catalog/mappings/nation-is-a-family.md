@@ -1,20 +1,22 @@
 ---
-slug: nation-is-a-family
-name: "Nation Is a Family"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+- social-dynamics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Nation Is a Family
+related:
+- nation-is-a-person
+- morality-is-accounting
+slug: nation-is-a-family
 source_frame: social-roles
 target_frame: governance
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-  - social-dynamics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - nation-is-a-person
-  - morality-is-accounting
+updated: '2026-03-13'
 ---
 
 ## What It Brings

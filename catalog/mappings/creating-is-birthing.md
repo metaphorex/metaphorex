@@ -1,20 +1,22 @@
 ---
-slug: creating-is-birthing
-name: "Creating Is Birthing"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Creating Is Birthing
+related:
+- creative-process-is-construction
+- creative-process-is-gardening
+- beliefs-are-beings-with-a-life-cycle
+- ideas-are-people
+slug: creating-is-birthing
 source_frame: reproduction
 target_frame: creative-process
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - creative-process-is-construction
-  - creative-process-is-gardening
-  - beliefs-are-beings-with-a-life-cycle
-  - ideas-are-people
+updated: '2026-03-12'
 ---
 
 ## What It Brings

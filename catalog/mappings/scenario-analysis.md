@@ -1,18 +1,20 @@
 ---
-slug: scenario-analysis
-name: "Scenario Analysis"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- cognitive-science
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Scenario Analysis
+related:
+- bayesian-updating
+- falsification
+- the-map-is-not-the-territory
+slug: scenario-analysis
 source_frame: war
 target_frame: causal-reasoning
-categories:
-  - systems-thinking
-  - cognitive-science
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - bayesian-updating
-  - falsification
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

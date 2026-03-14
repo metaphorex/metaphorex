@@ -1,20 +1,22 @@
 ---
-slug: cleanliness
-name: "Cleanliness"
+created: '2026-03-13'
+name: Cleanliness
 related:
-  - embodied-experience
-  - health-and-disease
+- embodied-experience
+- health-and-disease
 roles:
-  - purity
-  - contamination
-  - washing
-  - stain
-  - filth
-  - hygiene
-  - sanitization
-  - pollution
-  - sterility
-  - contagion
+- purity
+- contamination
+- washing
+- stain
+- filth
+- hygiene
+- sanitization
+- pollution
+- sterility
+- contagion
+slug: cleanliness
+updated: '2026-03-13'
 ---
 
 The domain of physical cleanliness and contamination: washing, scrubbing,

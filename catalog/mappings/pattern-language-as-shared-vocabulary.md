@@ -1,18 +1,20 @@
 ---
-slug: pattern-language-as-shared-vocabulary
-name: "Pattern Language as Shared Vocabulary"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+- organizational-behavior
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: paradigm
+name: Pattern Language as Shared Vocabulary
+related:
+- the-factory-pattern
+- the-facade-pattern
+slug: pattern-language-as-shared-vocabulary
 source_frame: social-behavior
 target_frame: collaborative-work
-categories:
-  - software-engineering
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-factory-pattern
-  - the-facade-pattern
+updated: '2026-03-10'
 ---
 
 ## What It Brings

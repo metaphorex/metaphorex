@@ -1,15 +1,17 @@
 ---
-slug: integration-and-wholeness
-name: "Integration and Wholeness"
+created: '2026-03-13'
+name: Integration and Wholeness
 related:
-  - systems-thinking
-  - social-roles
+- systems-thinking
+- social-roles
 roles:
-  - center
-  - parts
-  - integration-process
-  - wholeness
-  - fragmentation
+- center
+- parts
+- integration-process
+- wholeness
+- fragmentation
+slug: integration-and-wholeness
+updated: '2026-03-13'
 ---
 
 The process and state of bringing disparate parts into a unified whole --

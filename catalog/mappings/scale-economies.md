@@ -1,18 +1,20 @@
 ---
-slug: scale-economies
-name: "Scale Economies"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Scale Economies
+related:
+- survival-of-the-fittest
+- the-map-is-not-the-territory
+slug: scale-economies
 source_frame: physics
 target_frame: economics
-categories:
-  - systems-thinking
-  - organizational-behavior
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - survival-of-the-fittest
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

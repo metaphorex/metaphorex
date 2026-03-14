@@ -1,16 +1,18 @@
 ---
-slug: the-observer-pattern
-name: "The Observer Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-07'
 kind: archetype
+name: The Observer Pattern
+related:
+- the-mediator-pattern
+- the-command-pattern
+slug: the-observer-pattern
 source_frame: surveillance
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-mediator-pattern
-  - the-command-pattern
+updated: '2026-03-11'
 ---
 
 ## What It Brings

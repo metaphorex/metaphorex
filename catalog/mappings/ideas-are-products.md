@@ -1,20 +1,22 @@
 ---
-slug: ideas-are-products
-name: "Ideas Are Products"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Products
+related:
+- ideas-are-commodities
+- ideas-are-resources
+- ideas-are-objects
+- ideas-are-people
+slug: ideas-are-products
 source_frame: manufacturing
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - ideas-are-commodities
-  - ideas-are-resources
-  - ideas-are-objects
-  - ideas-are-people
+updated: '2026-03-11'
 ---
 
 ## What It Brings

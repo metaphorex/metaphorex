@@ -1,19 +1,21 @@
 ---
-slug: compute-is-a-resource
-name: "Compute Is a Resource"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Compute Is a Resource
+related:
+- data-is-fuel
+- time-is-a-resource
+- labor-is-a-resource
+slug: compute-is-a-resource
 source_frame: economics
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - data-is-fuel
-  - time-is-a-resource
-  - labor-is-a-resource
+updated: '2026-03-13'
 ---
 
 ## What It Brings

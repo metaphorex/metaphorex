@@ -1,19 +1,21 @@
 ---
-slug: weights-are-knowledge
-name: "Weights Are Knowledge"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Weights Are Knowledge
+related:
+- neural-network-is-a-brain
+- understanding-is-grasping
+- beliefs-are-possessions
+slug: weights-are-knowledge
 source_frame: embodied-experience
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - neural-network-is-a-brain
-  - understanding-is-grasping
-  - beliefs-are-possessions
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,18 +1,20 @@
 ---
-slug: writing
-name: "Writing"
+created: '2026-03-12'
+name: Writing
 related:
-  - communication
+- communication
 roles:
-  - author
-  - text
-  - inscription
-  - reader
-  - legibility
-  - notation
-  - revision
-  - meaning-intended
-  - meaning-read
+- author
+- text
+- inscription
+- reader
+- legibility
+- notation
+- revision
+- meaning-intended
+- meaning-read
+slug: writing
+updated: '2026-03-12'
 ---
 
 The production and interpretation of written text. Writing involves an author

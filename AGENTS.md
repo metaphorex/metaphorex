@@ -37,6 +37,8 @@ categories: [cognitive-linguistics]
 author: lakoff-johnson
 contributors: []
 related: []
+created: 2026-03-07             # ISO date, set on first creation
+updated: 2026-03-10             # ISO date, updated on each edit
 ```
 
 Required body sections: **What It Brings**, **Where It Breaks**, **Expressions**.
@@ -46,6 +48,15 @@ Optional: Origin Story, References.
 
 Frames (`catalog/frames/`) have: slug, name, roles[], broader?, related[].
 Categories (`catalog/categories/`) have: slug, name, broader?, related[].
+
+## Architecture Principles
+
+- **GitHub is the system of record.** All data (content, costs, pipeline status)
+  is pulled from GitHub APIs or the catalog filesystem at query time. No local
+  state files, no append-only logs, no loose JSON in the repo.
+- **No external dependencies until unavoidable.** No databases, no SaaS dashboards,
+  no third-party analytics. If GitHub can't answer the question, reconsider the
+  question before reaching for a new dependency.
 
 ## Key Conventions
 

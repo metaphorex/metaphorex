@@ -1,19 +1,21 @@
 ---
-slug: ai-safety-is-containment
-name: "AI Safety Is Containment"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- security
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: AI Safety Is Containment
+related:
+- ai-is-a-tool
+- ai-is-an-agent
+- ai-hallucination-is-perception-disorder
+slug: ai-safety-is-containment
 source_frame: containers
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - security
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-tool
-  - ai-is-an-agent
-  - ai-hallucination-is-perception-disorder
+updated: '2026-03-13'
 ---
 
 ## What It Brings

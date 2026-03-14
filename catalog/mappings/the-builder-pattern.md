@@ -1,18 +1,20 @@
 ---
-slug: the-builder-pattern
-name: "The Builder Pattern"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: archetype
+name: The Builder Pattern
+related:
+- the-factory-pattern
+- the-facade-pattern
+- creative-process-is-construction
+slug: the-builder-pattern
 source_frame: architecture-and-building
 target_frame: object-oriented-design
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: Claude Code
-contributors: []
-related:
-  - the-factory-pattern
-  - the-facade-pattern
-  - creative-process-is-construction
+updated: '2026-03-11'
 ---
 
 ## What It Brings

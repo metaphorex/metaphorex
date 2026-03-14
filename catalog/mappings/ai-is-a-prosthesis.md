@@ -1,18 +1,20 @@
 ---
-slug: ai-is-a-prosthesis
-name: "AI Is a Prosthesis"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: AI Is a Prosthesis
+related:
+- ai-is-a-tool
+- bicycle-for-the-mind
+slug: ai-is-a-prosthesis
 source_frame: medicine
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - ai-is-a-tool
-  - bicycle-for-the-mind
+updated: '2026-03-13'
 ---
 
 ## What It Brings

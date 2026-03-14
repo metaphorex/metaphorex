@@ -85,9 +85,10 @@ If invoked without a specific project or issue:
    b. Follow the playbook's extraction strategy
    c. Run extraction scripts if available (`playbooks/<name>/scripts/`)
    d. Write the mapping file with full frontmatter + body sections
-   e. Create any needed frame or category files (upsert rule)
-   f. Run `uv run scripts/validate.py validate` — fix any errors
-   g. Open a PR into metaphorex/metaphorex referencing the sub-issue
+   e. Set `created` and `updated` to today's date (YYYY-MM-DD format)
+   f. Create any needed frame or category files (upsert rule)
+   g. Run `uv run scripts/validate.py validate` — fix any errors
+   h. Open a PR into metaphorex/metaphorex referencing the sub-issue
 6. Post a run summary comment on the parent issue with token costs
 
 **Process (nuggets):**
@@ -149,3 +150,29 @@ Post on the parent issue after processing a batch. Include:
 - You don't review PRs (that's the Assayer)
 - You don't commit directly to main
 - If a script fails, report the error on the sub-issue — don't try to fix it
+
+## Kaizen reporting
+
+At the end of your run, if you encountered friction that slowed you down or
+forced a workaround, file a kaizen issue:
+
+```bash
+gh issue create -R metaphorex/metaphorex \
+  --template kaizen.yml \
+  --title "kaizen: <short description>" \
+  --body "**Area:** <area>
+
+**What happened:**
+<description of the friction>
+
+**Suggested fix:**
+<what would make this better>"
+```
+
+Rules:
+- Search open kaizen issues first: `gh issue list -R metaphorex/metaphorex --label kaizen:pipeline --state open`
+- One issue per distinct problem — don't bundle unrelated friction
+- File at the end of your run, not mid-task
+- Don't file for transient errors (network blips, rate limits, GitHub 502s)
+- Do file for: schema limitations, missing validation rules, unclear playbook
+  instructions, GitHub API quirks that required workarounds

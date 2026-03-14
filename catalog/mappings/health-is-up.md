@@ -1,19 +1,21 @@
 ---
-slug: health-is-up
-name: "Health Is Up; Sickness Is Down"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Health Is Up; Sickness Is Down
+related:
+- happy-is-up
+- having-control-is-up
+- more-is-up
+slug: health-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - happy-is-up
-  - having-control-is-up
-  - more-is-up
+updated: '2026-03-11'
 ---
 
 ## What It Brings

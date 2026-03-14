@@ -1,18 +1,20 @@
 ---
-slug: intelligence-is-a-light-source
-name: "Intelligence Is a Light Source"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Intelligence Is a Light Source
+related:
+- ideas-are-light-sources
+- understanding-is-seeing
+slug: intelligence-is-a-light-source
 source_frame: vision
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - ideas-are-light-sources
-  - understanding-is-seeing
+updated: '2026-03-12'
 ---
 
 ## What It Brings

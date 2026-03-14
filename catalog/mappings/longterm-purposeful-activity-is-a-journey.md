@@ -1,24 +1,26 @@
 ---
-slug: longterm-purposeful-activity-is-a-journey
-name: "Long-Term Purposeful Activity Is a Journey"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Long-Term Purposeful Activity Is a Journey
+related:
+- longterm-purposeful-change-is-a-journey
+- life-is-a-journey
+- love-is-a-journey
+- argument-is-a-journey
+- purposes-are-destinations
+- difficulties-are-impediments-to-motion
+- action-is-motion
+slug: longterm-purposeful-activity-is-a-journey
 source_frame: journeys
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - longterm-purposeful-change-is-a-journey
-  - life-is-a-journey
-  - love-is-a-journey
-  - argument-is-a-journey
-  - purposes-are-destinations
-  - difficulties-are-impediments-to-motion
-  - action-is-motion
+updated: '2026-03-13'
 ---
 
 ## What It Brings

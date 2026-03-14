@@ -1,21 +1,23 @@
 ---
-slug: probability
-name: "Probability"
+created: '2026-03-13'
+name: Probability
 related:
-  - geometry
-  - physics
-  - gambling
+- geometry
+- physics
+- gambling
 roles:
-  - distribution
-  - prior
-  - posterior
-  - likelihood
-  - sample
-  - population
-  - mean
-  - variance
-  - outlier
-  - base-rate
+- distribution
+- prior
+- posterior
+- likelihood
+- sample
+- population
+- mean
+- variance
+- outlier
+- base-rate
+slug: probability
+updated: '2026-03-13'
 ---
 
 The mathematics of uncertainty, chance, and inference under incomplete

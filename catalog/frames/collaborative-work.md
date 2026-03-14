@@ -1,18 +1,20 @@
 ---
-slug: collaborative-work
-name: "Collaborative Work"
+created: '2026-03-07'
+name: Collaborative Work
 related:
-  - social-roles
-  - shared-resources
+- social-roles
+- shared-resources
 roles:
-  - collaborator
-  - facilitator
-  - task
-  - artifact
-  - proposal
-  - review
-  - decision
-  - consensus
+- collaborator
+- facilitator
+- task
+- artifact
+- proposal
+- review
+- decision
+- consensus
+slug: collaborative-work
+updated: '2026-03-10'
 ---
 
 Work done by multiple people toward a shared goal. Encompasses

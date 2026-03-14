@@ -1,19 +1,21 @@
 ---
-slug: bad-is-stinky
-name: "Bad Is Stinky"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Bad Is Stinky
+related:
+- morality-is-purity
+- morality-is-cleanliness
+- disgust-is-nausea
+slug: bad-is-stinky
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - morality-is-purity
-  - morality-is-cleanliness
-  - disgust-is-nausea
+updated: '2026-03-13'
 ---
 
 ## What It Brings

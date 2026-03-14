@@ -1,21 +1,23 @@
 ---
-slug: obligations-are-possessions
-name: "Obligations Are Possessions"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Obligations Are Possessions
+related:
+- obligations-are-forces
+- obligations-are-containers
+- moral-accounting
+- properties-are-possessions
+slug: obligations-are-possessions
 source_frame: economics
 target_frame: ethics-and-morality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - obligations-are-forces
-  - obligations-are-containers
-  - moral-accounting
-  - properties-are-possessions
+updated: '2026-03-13'
 ---
 
 ## What It Brings

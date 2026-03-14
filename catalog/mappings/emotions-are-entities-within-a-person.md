@@ -1,19 +1,21 @@
 ---
-slug: emotions-are-entities-within-a-person
-name: "Emotions Are Entities Within A Person"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-10'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Emotions Are Entities Within A Person
+related:
+- emotional-stability-is-balance
+- ideas-are-people
+slug: emotions-are-entities-within-a-person
 source_frame: containers
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotional-stability-is-balance
-  - ideas-are-people
+updated: '2026-03-10'
 ---
 
 ## What It Brings

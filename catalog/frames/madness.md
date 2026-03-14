@@ -1,20 +1,22 @@
 ---
-slug: madness
-name: "Madness"
+created: '2026-03-13'
+name: Madness
 related:
-  - mental-experience
-  - health-and-disease
+- mental-experience
+- health-and-disease
 roles:
-  - loss-of-control
-  - departure-from-sanity
-  - irrationality
-  - delusion
-  - obsession
-  - recovery
-  - rational-baseline
-  - lucid-interval
-  - contagion
-  - possession
+- loss-of-control
+- departure-from-sanity
+- irrationality
+- delusion
+- obsession
+- recovery
+- rational-baseline
+- lucid-interval
+- contagion
+- possession
+slug: madness
+updated: '2026-03-13'
 ---
 
 The folk model of insanity and mental derangement: a departure from a

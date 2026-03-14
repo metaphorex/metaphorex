@@ -1,19 +1,21 @@
 ---
-slug: light-is-a-fluid
-name: "Light Is A Fluid"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Light Is A Fluid
+related:
+- understanding-is-seeing
+- light-is-a-line
+- intelligence-is-a-light-source
+slug: light-is-a-fluid
 source_frame: fluid-dynamics
 target_frame: natural-phenomena
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - understanding-is-seeing
-  - light-is-a-line
-  - intelligence-is-a-light-source
+updated: '2026-03-12'
 ---
 
 ## What It Brings

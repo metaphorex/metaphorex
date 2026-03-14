@@ -1,17 +1,19 @@
 ---
-slug: ontological-hierarchy
-name: "Ontological Hierarchy"
+created: '2026-03-13'
+name: Ontological Hierarchy
 related:
-  - social-roles
+- social-roles
 roles:
-  - rank
-  - level
-  - ascent
-  - descent
-  - higher-being
-  - lower-being
-  - chain
-  - order
+- rank
+- level
+- ascent
+- descent
+- higher-being
+- lower-being
+- chain
+- order
+slug: ontological-hierarchy
+updated: '2026-03-13'
 ---
 
 The pre-Darwinian folk cosmology of ranked ontological levels — the

@@ -1,18 +1,20 @@
 ---
-slug: people-are-batteries
-name: "People Are Batteries"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: People Are Batteries
+related:
+- people-are-machines
+- the-mind-is-a-machine
+slug: people-are-batteries
 source_frame: electricity
 target_frame: embodied-experience
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - people-are-machines
-  - the-mind-is-a-machine
+updated: '2026-03-13'
 ---
 
 ## What It Brings

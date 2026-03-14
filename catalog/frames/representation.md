@@ -1,15 +1,17 @@
 ---
-slug: representation
-name: "Representation"
+created: '2026-03-07'
+name: Representation
 related:
-  - cartography
-  - software-abstraction
+- cartography
+- software-abstraction
 roles:
-  - model
-  - subject
-  - abstraction
-  - omission
-  - interpreter
+- model
+- subject
+- abstraction
+- omission
+- interpreter
+slug: representation
+updated: '2026-03-10'
 ---
 
 The act of standing in for something else — models, symbols, proxies, and

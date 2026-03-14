@@ -1,16 +1,18 @@
 ---
-slug: the-trickster
-name: "The Trickster"
+author: fshot
+categories:
+- cognitive-science
+- organizational-behavior
+- arts-and-culture
+contributors: []
+created: '2026-03-07'
 kind: archetype
+name: The Trickster
+related: []
+slug: the-trickster
 source_frame: mythology
 target_frame: social-roles
-categories:
-  - cognitive-science
-  - organizational-behavior
-  - arts-and-culture
-author: fshot
-contributors: []
-related: []
+updated: '2026-03-09'
 ---
 
 ## What It Brings

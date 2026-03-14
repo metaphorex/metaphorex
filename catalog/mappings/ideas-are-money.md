@@ -1,20 +1,22 @@
 ---
-slug: ideas-are-money
-name: "Ideas Are Money"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Money
+related:
+- ideas-are-commodities
+- ideas-are-resources
+- time-is-money
+- ideas-are-products
+slug: ideas-are-money
 source_frame: economics
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - ideas-are-commodities
-  - ideas-are-resources
-  - time-is-money
-  - ideas-are-products
+updated: '2026-03-11'
 ---
 
 ## What It Brings

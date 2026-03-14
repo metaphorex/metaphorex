@@ -1,19 +1,21 @@
 ---
-slug: properties-are-physical-properties
-name: "Properties Are Physical Properties"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Properties Are Physical Properties
+related:
+- properties-are-possessions
+- properties-are-contents
+- states-are-locations
+slug: properties-are-physical-properties
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - properties-are-possessions
-  - properties-are-contents
-  - states-are-locations
+updated: '2026-03-13'
 ---
 
 ## What It Brings

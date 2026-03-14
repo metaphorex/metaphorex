@@ -1,21 +1,23 @@
 ---
-slug: perception-is-shape-recognition
-name: "Perception Is Shape Recognition"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Perception Is Shape Recognition
+related:
+- understanding-is-seeing
+- seeing-is-touching
+- the-visual-field-is-a-container
+- the-visual-field-is-a-bounded-region
+slug: perception-is-shape-recognition
 source_frame: geometry
 target_frame: vision
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - understanding-is-seeing
-  - seeing-is-touching
-  - the-visual-field-is-a-container
-  - the-visual-field-is-a-bounded-region
+updated: '2026-03-13'
 ---
 
 ## What It Brings

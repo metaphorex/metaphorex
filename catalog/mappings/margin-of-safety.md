@@ -1,18 +1,20 @@
 ---
-slug: margin-of-safety
-name: "Margin of Safety"
+author: agent:metaphorex-miner
+categories:
+- philosophy
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Margin of Safety
+related:
+- inversion
+- circle-of-competence
+slug: margin-of-safety
 source_frame: architecture-and-building
 target_frame: economics
-categories:
-  - philosophy
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - inversion
-  - circle-of-competence
+updated: '2026-03-13'
 ---
 
 ## What It Brings

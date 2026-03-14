@@ -1,21 +1,23 @@
 ---
-slug: means-of-change-is-path-over-which-motion-occurs
-name: "Means of Change Is Path over Which Motion Occurs"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Means of Change Is Path over Which Motion Occurs
+related:
+- change-is-motion
+- action-is-motion
+- states-are-locations
+- difficulties-are-impediments-to-motion
+- purposes-are-destinations
+slug: means-of-change-is-path-over-which-motion-occurs
 source_frame: journeys
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - change-is-motion
-  - action-is-motion
-  - states-are-locations
-  - difficulties-are-impediments-to-motion
-  - purposes-are-destinations
+updated: '2026-03-13'
 ---
 
 ## What It Brings

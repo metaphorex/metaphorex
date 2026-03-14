@@ -1,17 +1,19 @@
 ---
-slug: an-instrument-is-a-companion
-name: "An Instrument Is a Companion"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: An Instrument Is a Companion
+related:
+- the-mind-is-a-machine
+slug: an-instrument-is-a-companion
 source_frame: social-roles
 target_frame: tool-use
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-mind-is-a-machine
+updated: '2026-03-11'
 ---
 
 ## What It Brings

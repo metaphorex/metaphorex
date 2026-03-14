@@ -1,15 +1,17 @@
 ---
-slug: hidden-knowledge
-name: "Hidden Knowledge"
+created: '2026-03-13'
+name: Hidden Knowledge
 related:
-  - social-roles
-  - systems-thinking
+- social-roles
+- systems-thinking
 roles:
-  - hidden-content
-  - surface-appearance
-  - revelation
-  - denial
-  - cost-of-concealment
+- hidden-content
+- surface-appearance
+- revelation
+- denial
+- cost-of-concealment
+slug: hidden-knowledge
+updated: '2026-03-13'
 ---
 
 What is known but not acknowledged, present but not visible, active but

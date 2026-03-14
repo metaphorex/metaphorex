@@ -1,16 +1,18 @@
 ---
-slug: argument-is-war
-name: "Argument Is War"
+author: fshot
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-07'
 kind: conceptual-metaphor
+name: Argument Is War
+related:
+- argument-is-dance
+slug: argument-is-war
 source_frame: war
 target_frame: argumentation
-categories:
-  - cognitive-science
-  - linguistics
-author: fshot
-contributors: []
-related:
-  - argument-is-dance
+updated: '2026-03-09'
 ---
 
 ## What It Brings

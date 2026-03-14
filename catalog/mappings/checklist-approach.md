@@ -1,19 +1,21 @@
 ---
-slug: checklist-approach
-name: "Checklist Approach"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: paradigm
+name: Checklist Approach
+related:
+- latticework-of-mental-models
+- bayesian-updating
+- the-map-is-not-the-territory
+slug: checklist-approach
 source_frame: aviation
 target_frame: causal-reasoning
-categories:
-  - cognitive-science
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - latticework-of-mental-models
-  - bayesian-updating
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

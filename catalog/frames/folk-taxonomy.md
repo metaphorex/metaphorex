@@ -1,17 +1,19 @@
 ---
-slug: folk-taxonomy
-name: "Folk Taxonomy"
+created: '2026-03-11'
+name: Folk Taxonomy
 related:
-  - causal-reasoning
-  - social-behavior
+- causal-reasoning
+- social-behavior
 roles:
-  - specimen
-  - kind
-  - marker
-  - pedigree
-  - classifier
-  - false-positive
-  - identification
+- specimen
+- kind
+- marker
+- pedigree
+- classifier
+- false-positive
+- identification
+slug: folk-taxonomy
+updated: '2026-03-11'
 ---
 
 The everyday practice of sorting things into natural kinds based on observable

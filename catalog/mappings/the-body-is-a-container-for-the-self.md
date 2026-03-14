@@ -1,22 +1,24 @@
 ---
-slug: the-body-is-a-container-for-the-self
-name: "The Body Is a Container for the Self"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: The Body Is a Container for the Self
+related:
+- emotions-are-entities-within-a-person
+- activities-are-containers
+- life-is-a-container
+- the-mind-is-a-brittle-object
+- the-mind-is-a-body
+slug: the-body-is-a-container-for-the-self
 source_frame: containers
 target_frame: embodied-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotions-are-entities-within-a-person
-  - activities-are-containers
-  - life-is-a-container
-  - the-mind-is-a-brittle-object
-  - the-mind-is-a-body
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,17 +1,19 @@
 ---
-slug: the-great-chain-of-being
-name: "The Great Chain of Being"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: archetype
+name: The Great Chain of Being
+related: []
+slug: the-great-chain-of-being
 source_frame: ontological-hierarchy
 target_frame: social-roles
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related: []
+updated: '2026-03-13'
 ---
 
 ## What It Brings

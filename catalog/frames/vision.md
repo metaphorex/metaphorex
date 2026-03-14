@@ -1,17 +1,19 @@
 ---
-slug: vision
-name: "Vision"
+created: '2026-03-10'
+name: Vision
 related:
-  - embodied-experience
+- embodied-experience
 roles:
-  - seer
-  - scene
-  - light
-  - darkness
-  - focus
-  - perspective
-  - clarity
-  - blindness
+- seer
+- scene
+- light
+- darkness
+- focus
+- perspective
+- clarity
+- blindness
+slug: vision
+updated: '2026-03-10'
 ---
 
 Visual perception: seeing, light, darkness, clarity, focus, and perspective.

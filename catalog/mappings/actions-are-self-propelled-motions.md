@@ -1,23 +1,25 @@
 ---
-slug: actions-are-self-propelled-motions
-name: "Actions Are Self-Propelled Motions"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Actions Are Self-Propelled Motions
+related:
+- action-is-motion
+- self-initiated-change-of-state-is-self-propelled-motion
+- purposes-are-destinations
+- difficulties-are-impediments-to-motion
+- causes-are-forces
+- change-is-motion
+slug: actions-are-self-propelled-motions
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - action-is-motion
-  - self-initiated-change-of-state-is-self-propelled-motion
-  - purposes-are-destinations
-  - difficulties-are-impediments-to-motion
-  - causes-are-forces
-  - change-is-motion
+updated: '2026-03-13'
 ---
 
 ## What It Brings

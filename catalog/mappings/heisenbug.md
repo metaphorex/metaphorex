@@ -1,16 +1,18 @@
 ---
-slug: heisenbug
-name: "Heisenbug"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Heisenbug
+related:
+- program-failure-is-bodily-failure
+slug: heisenbug
 source_frame: physics
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - program-failure-is-bodily-failure
+updated: '2026-03-11'
 ---
 
 ## What It Brings

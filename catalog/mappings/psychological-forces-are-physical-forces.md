@@ -1,20 +1,22 @@
 ---
-slug: psychological-forces-are-physical-forces
-name: "Psychological Forces Are Physical Forces"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Psychological Forces Are Physical Forces
+related:
+- causes-are-forces
+- obligations-are-forces
+- emotions-are-entities-within-a-person
+slug: psychological-forces-are-physical-forces
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - causes-are-forces
-  - obligations-are-forces
-  - emotions-are-entities-within-a-person
+updated: '2026-03-11'
 ---
 
 ## What It Brings

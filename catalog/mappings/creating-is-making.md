@@ -1,20 +1,22 @@
 ---
-slug: creating-is-making
-name: "Creating Is Making"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Creating Is Making
+related:
+- creative-process-is-construction
+- creating-is-making-visible
+- creating-is-moving-to-a-location
+- creation-is-cultivation
+slug: creating-is-making
 source_frame: manufacturing
 target_frame: creative-process
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - creative-process-is-construction
-  - creating-is-making-visible
-  - creating-is-moving-to-a-location
-  - creation-is-cultivation
+updated: '2026-03-12'
 ---
 
 ## What It Brings

@@ -1,20 +1,22 @@
 ---
-slug: competition-is-war
-name: "Competition Is War"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Competition Is War
+related:
+- argument-is-war
+- competition-is-a-race
+- competition-is-1-on-1-physical-aggression
+- love-is-war
+slug: competition-is-war
 source_frame: war
 target_frame: competition
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - argument-is-war
-  - competition-is-a-race
-  - competition-is-1-on-1-physical-aggression
-  - love-is-war
+updated: '2026-03-12'
 ---
 
 ## What It Brings

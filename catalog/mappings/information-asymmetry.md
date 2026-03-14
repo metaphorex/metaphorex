@@ -1,18 +1,20 @@
 ---
-slug: information-asymmetry
-name: "Information Asymmetry"
+author: agent:metaphorex-miner
+categories:
+- systems-thinking
+- social-dynamics
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Information Asymmetry
+related:
+- incentive-caused-bias
+- principal-agent-problem
+- the-map-is-not-the-territory
+slug: information-asymmetry
 source_frame: economics
 target_frame: social-behavior
-categories:
-  - systems-thinking
-  - social-dynamics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - incentive-caused-bias
-  - principal-agent-problem
-  - the-map-is-not-the-territory
+updated: '2026-03-13'
 ---
 
 ## What It Brings

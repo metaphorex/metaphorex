@@ -1,21 +1,23 @@
 ---
-slug: emotional-self-is-a-brittle-object
-name: "Emotional Self Is A Brittle Object"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Emotional Self Is A Brittle Object
+related:
+- the-mind-is-a-brittle-object
+- effect-on-emotional-self-is-contact-with-physical-self
+- emotional-stability-is-balance
+- emotions-are-entities-within-a-person
+slug: emotional-self-is-a-brittle-object
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - the-mind-is-a-brittle-object
-  - effect-on-emotional-self-is-contact-with-physical-self
-  - emotional-stability-is-balance
-  - emotions-are-entities-within-a-person
+updated: '2026-03-12'
 ---
 
 ## What It Brings

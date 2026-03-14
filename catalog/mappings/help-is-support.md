@@ -1,20 +1,22 @@
 ---
-slug: help-is-support
-name: "Help Is Support"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Help Is Support
+related:
+- difficulties-are-burdens
+- difficulties-are-impediments-to-motion
+- good-is-up
+- emotional-stability-is-balance
+slug: help-is-support
 source_frame: embodied-experience
 target_frame: social-behavior
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - difficulties-are-burdens
-  - difficulties-are-impediments-to-motion
-  - good-is-up
-  - emotional-stability-is-balance
+updated: '2026-03-13'
 ---
 
 ## What It Brings

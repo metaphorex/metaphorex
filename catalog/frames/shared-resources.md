@@ -1,16 +1,18 @@
 ---
-slug: shared-resources
-name: "Shared Resources"
+created: '2026-03-07'
+name: Shared Resources
 related:
-  - animal-husbandry
-  - systems-performance
+- animal-husbandry
+- systems-performance
 roles:
-  - resource
-  - contributor
-  - consumer
-  - governance
-  - boundary
-  - rule
+- resource
+- contributor
+- consumer
+- governance
+- boundary
+- rule
+slug: shared-resources
+updated: '2026-03-10'
 ---
 
 Any pool of finite resources accessed by multiple parties under some

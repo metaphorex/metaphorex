@@ -1,18 +1,20 @@
 ---
-slug: treating-illness-is-fighting-a-war
-name: "Treating Illness Is Fighting a War"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Treating Illness Is Fighting a War
+related:
+- argument-is-war
+- competition-is-war
+slug: treating-illness-is-fighting-a-war
 source_frame: war
 target_frame: medicine
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - argument-is-war
-  - competition-is-war
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,18 +1,20 @@
 ---
-slug: ai-is-a-copilot
-name: "AI Is a Copilot"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- software-engineering
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: AI Is a Copilot
+related:
+- ai-is-a-tool
+- ai-is-an-agent
+- ai-is-an-intern
+slug: ai-is-a-copilot
 source_frame: aviation
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - software-engineering
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - ai-is-a-tool
-  - ai-is-an-agent
-  - ai-is-an-intern
+updated: '2026-03-13'
 ---
 
 ## What It Brings

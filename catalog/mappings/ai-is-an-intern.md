@@ -1,18 +1,20 @@
 ---
-slug: ai-is-an-intern
-name: "AI Is an Intern"
+author: agent:metaphorex-miner
+categories:
+- ai-discourse
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: conceptual-metaphor
+name: AI Is an Intern
+related:
+- ai-is-a-tool
+- ai-is-a-copilot
+- ai-is-an-agent
+slug: ai-is-an-intern
 source_frame: social-roles
 target_frame: artificial-intelligence
-categories:
-  - ai-discourse
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - ai-is-a-tool
-  - ai-is-a-copilot
-  - ai-is-an-agent
+updated: '2026-03-13'
 ---
 
 ## What It Brings

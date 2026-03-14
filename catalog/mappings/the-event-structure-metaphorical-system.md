@@ -1,25 +1,27 @@
 ---
-slug: the-event-structure-metaphorical-system
-name: "The Event Structure Metaphorical System"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: The Event Structure Metaphorical System
+related:
+- states-are-locations
+- change-is-motion
+- action-is-motion
+- causes-are-forces
+- purposes-are-destinations
+- difficulties-are-impediments-to-motion
+- existence-is-a-location
+- life-is-a-journey
+slug: the-event-structure-metaphorical-system
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - states-are-locations
-  - change-is-motion
-  - action-is-motion
-  - causes-are-forces
-  - purposes-are-destinations
-  - difficulties-are-impediments-to-motion
-  - existence-is-a-location
-  - life-is-a-journey
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,16 +1,18 @@
 ---
-slug: communication
-name: "Communication"
+created: '2026-03-11'
+name: Communication
 related:
-  - intellectual-inquiry
-  - social-behavior
+- intellectual-inquiry
+- social-behavior
 roles:
-  - communicator
-  - interlocutor
-  - message
-  - channel
-  - meaning
-  - context
+- communicator
+- interlocutor
+- message
+- channel
+- meaning
+- context
+slug: communication
+updated: '2026-03-11'
 ---
 
 The exchange of meaning between agents through language, gesture, and other

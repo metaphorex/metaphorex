@@ -1,24 +1,26 @@
 ---
-slug: anger-is-a-heated-fluid-in-a-container
-name: "Anger Is a Heated Fluid in a Container"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Anger Is a Heated Fluid in a Container
+related:
+- intense-emotions-are-heat
+- lust-is-heat
+- emotions-are-entities-within-a-person
+- emotions-are-forces
+- emotional-stability-is-balance
+- fear-is-cold
+- the-body-is-a-container-for-the-self
+slug: anger-is-a-heated-fluid-in-a-container
 source_frame: fluid-dynamics
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - intense-emotions-are-heat
-  - lust-is-heat
-  - emotions-are-entities-within-a-person
-  - emotions-are-forces
-  - emotional-stability-is-balance
-  - fear-is-cold
-  - the-body-is-a-container-for-the-self
+updated: '2026-03-13'
 ---
 
 ## What It Brings

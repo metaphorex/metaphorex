@@ -1,18 +1,20 @@
 ---
-slug: dance
-name: "Dance"
+created: '2026-03-09'
+name: Dance
 related:
-  - social-behavior
-  - creative-process
+- social-behavior
+- creative-process
 roles:
-  - dancer
-  - partner
-  - lead
-  - follow
-  - rhythm
-  - step
-  - choreography
-  - audience
+- dancer
+- partner
+- lead
+- follow
+- rhythm
+- step
+- choreography
+- audience
+slug: dance
+updated: '2026-03-10'
 ---
 
 Coordinated movement between bodies, ranging from rigidly choreographed

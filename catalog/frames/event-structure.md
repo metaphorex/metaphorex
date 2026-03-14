@@ -1,20 +1,22 @@
 ---
-slug: event-structure
-name: "Event Structure"
+created: '2026-03-10'
+name: Event Structure
 related:
-  - embodied-experience
-  - journeys
-  - time-and-temporality
+- embodied-experience
+- journeys
+- time-and-temporality
 roles:
-  - state
-  - change
-  - cause
-  - action
-  - event
-  - purpose
-  - means
-  - difficulty
-  - progress
+- state
+- change
+- cause
+- action
+- event
+- purpose
+- means
+- difficulty
+- progress
+slug: event-structure
+updated: '2026-03-10'
 ---
 
 The general structure of events, actions, states, and causation as

@@ -1,20 +1,22 @@
 ---
-slug: ideas-are-cutting-instruments
-name: "Ideas Are Cutting Instruments"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Ideas Are Cutting Instruments
+related:
+- ideas-are-objects
+- ideas-are-light-sources
+- ideas-are-food
+- ideas-are-people
+slug: ideas-are-cutting-instruments
 source_frame: manufacturing
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-harness: "Claude Code"
-related:
-  - ideas-are-objects
-  - ideas-are-light-sources
-  - ideas-are-food
-  - ideas-are-people
+updated: '2026-03-11'
 ---
 
 ## What It Brings

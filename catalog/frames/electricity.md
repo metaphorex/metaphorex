@@ -1,20 +1,22 @@
 ---
-slug: electricity
-name: "Electricity"
+created: '2026-03-12'
+name: Electricity
 related:
-  - physics
-  - embodied-experience
+- physics
+- embodied-experience
 roles:
-  - current
-  - voltage
-  - conductor
-  - circuit
-  - resistance
-  - charge
-  - grounding
-  - short-circuit
-  - insulator
-  - switch
+- current
+- voltage
+- conductor
+- circuit
+- resistance
+- charge
+- grounding
+- short-circuit
+- insulator
+- switch
+slug: electricity
+updated: '2026-03-12'
 ---
 
 The behavior of electrical energy -- current flowing through conductors,

@@ -1,16 +1,18 @@
 ---
-slug: library-and-archive
-name: "Library and Archive"
+created: '2026-03-10'
+name: Library and Archive
 related:
-  - governance
-  - social-roles
+- governance
+- social-roles
 roles:
-  - repository
-  - curator
-  - catalog
-  - collection
-  - patron
-  - retrieval
+- repository
+- curator
+- catalog
+- collection
+- patron
+- retrieval
+slug: library-and-archive
+updated: '2026-03-10'
 ---
 
 The institutional preservation and mediated retrieval of collected

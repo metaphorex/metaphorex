@@ -1,21 +1,23 @@
 ---
-slug: systems-thinking
-name: "Systems Thinking"
+created: '2026-03-13'
+name: Systems Thinking
 related:
-  - physics
-  - causal-reasoning
-  - architecture-and-building
+- physics
+- causal-reasoning
+- architecture-and-building
 roles:
-  - feedback-loop
-  - emergence
-  - interconnection
-  - leverage-point
-  - equilibrium
-  - boundary
-  - stock
-  - flow
-  - delay
-  - nonlinearity
+- feedback-loop
+- emergence
+- interconnection
+- leverage-point
+- equilibrium
+- boundary
+- stock
+- flow
+- delay
+- nonlinearity
+slug: systems-thinking
+updated: '2026-03-13'
 ---
 
 The discipline of understanding wholes through the relationships among their

@@ -1,21 +1,23 @@
 ---
-slug: harm-is-preventing-forward-motion-toward-a-goal
-name: "Harm Is Preventing Forward Motion Toward a Goal"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Harm Is Preventing Forward Motion Toward a Goal
+related:
+- difficulties-are-impediments-to-motion
+- action-is-motion
+- harm-is-physical-injury
+- harm-is-being-in-a-harmful-location
+- harm-is-causing-functional-objects-to-be-nonfunctional
+slug: harm-is-preventing-forward-motion-toward-a-goal
 source_frame: embodied-experience
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - difficulties-are-impediments-to-motion
-  - action-is-motion
-  - harm-is-physical-injury
-  - harm-is-being-in-a-harmful-location
-  - harm-is-causing-functional-objects-to-be-nonfunctional
+updated: '2026-03-12'
 ---
 
 ## What It Brings

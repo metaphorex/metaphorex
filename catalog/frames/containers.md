@@ -1,14 +1,16 @@
 ---
-slug: containers
-name: "Containers"
+created: '2026-03-07'
+name: Containers
 related:
-  - fluid-dynamics
-  - network-security
+- fluid-dynamics
+- network-security
 roles:
-  - container
-  - contents
-  - opening
-  - boundary
+- container
+- contents
+- opening
+- boundary
+slug: containers
+updated: '2026-03-10'
 ---
 
 Bounded enclosures that hold, protect, and regulate access to their contents.

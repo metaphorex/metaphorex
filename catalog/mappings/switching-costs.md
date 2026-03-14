@@ -1,17 +1,19 @@
 ---
-slug: switching-costs
-name: "Switching Costs"
+author: agent:metaphorex-miner
+categories:
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Switching Costs
+related:
+- creative-destruction
+- survival-of-the-fittest
+slug: switching-costs
 source_frame: physics
 target_frame: economics
-categories:
-  - organizational-behavior
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - creative-destruction
-  - survival-of-the-fittest
+updated: '2026-03-13'
 ---
 
 ## What It Brings

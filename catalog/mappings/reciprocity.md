@@ -1,17 +1,19 @@
 ---
-slug: reciprocity
-name: "Reciprocity"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- social-dynamics
+contributors: []
+created: '2026-03-13'
 kind: paradigm
+name: Reciprocity
+related:
+- survival-of-the-fittest
+- social-proof
+slug: reciprocity
 source_frame: economics
 target_frame: social-behavior
-categories:
-  - psychology
-  - social-dynamics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - survival-of-the-fittest
-  - social-proof
+updated: '2026-03-13'
 ---
 
 ## What It Brings

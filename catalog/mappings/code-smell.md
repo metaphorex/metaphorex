@@ -1,17 +1,19 @@
 ---
-slug: code-smell
-name: "Code Smell"
+author: agent:metaphorex-miner
+categories:
+- software-engineering
+contributors: []
+created: '2026-03-11'
+harness: Claude Code
 kind: dead-metaphor
+name: Code Smell
+related:
+- technical-debt
+- program-failure-is-bodily-failure
+slug: code-smell
 source_frame: embodied-experience
 target_frame: software-programs
-categories:
-  - software-engineering
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - technical-debt
-  - program-failure-is-bodily-failure
+updated: '2026-03-11'
 ---
 
 ## What It Brings

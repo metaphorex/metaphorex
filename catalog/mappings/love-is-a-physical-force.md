@@ -1,20 +1,22 @@
 ---
-slug: love-is-a-physical-force
-name: "Love Is a Physical Force"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-10'
 kind: conceptual-metaphor
+name: Love Is a Physical Force
+related:
+- love-is-a-journey
+- love-is-madness
+- love-is-a-unity
+- causes-are-forces
+slug: love-is-a-physical-force
 source_frame: embodied-experience
 target_frame: love-and-relationships
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - love-is-a-journey
-  - love-is-madness
-  - love-is-a-unity
-  - causes-are-forces
+updated: '2026-03-10'
 ---
 
 ## What It Brings

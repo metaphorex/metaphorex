@@ -1,18 +1,20 @@
 ---
-slug: coherent-is-whole
-name: "Coherent Is Whole"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Coherent Is Whole
+related:
+- argument-is-a-building
+- theories-are-buildings
+slug: coherent-is-whole
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - argument-is-a-building
-  - theories-are-buildings
+updated: '2026-03-12'
 ---
 
 ## What It Brings

@@ -1,18 +1,20 @@
 ---
-slug: economics
-name: "Economics"
+created: '2026-03-10'
+name: Economics
 related:
-  - shared-resources
-  - manufacturing
+- shared-resources
+- manufacturing
 roles:
-  - buyer
-  - seller
-  - commodity
-  - price
-  - market
-  - investment
-  - budget
-  - exchange
+- buyer
+- seller
+- commodity
+- price
+- market
+- investment
+- budget
+- exchange
+slug: economics
+updated: '2026-03-10'
 ---
 
 The domain of markets, money, and exchange. Encompasses commodities, pricing,

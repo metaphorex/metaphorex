@@ -1,18 +1,20 @@
 ---
-slug: understanding-is-seeing
-name: "Understanding Is Seeing"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-10'
 kind: conceptual-metaphor
+name: Understanding Is Seeing
+related:
+- theories-are-buildings
+- ideas-are-food
+slug: understanding-is-seeing
 source_frame: vision
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - theories-are-buildings
-  - ideas-are-food
+updated: '2026-03-10'
 ---
 
 ## What It Brings

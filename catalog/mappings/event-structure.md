@@ -1,23 +1,25 @@
 ---
-slug: event-structure
-name: "Event Structure (Location Case)"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: paradigm
+name: Event Structure (Location Case)
+related:
+- states-are-locations
+- action-is-motion
+- change-is-motion
+- existence-is-a-location
+- difficulties-are-impediments-to-motion
+- purposes-are-destinations
+slug: event-structure
 source_frame: journeys
 target_frame: event-structure
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - states-are-locations
-  - action-is-motion
-  - change-is-motion
-  - existence-is-a-location
-  - difficulties-are-impediments-to-motion
-  - purposes-are-destinations
+updated: '2026-03-12'
 ---
 
 ## What It Brings

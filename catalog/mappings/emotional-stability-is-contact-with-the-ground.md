@@ -1,20 +1,22 @@
 ---
-slug: emotional-stability-is-contact-with-the-ground
-name: "Emotional Stability Is Contact with the Ground"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Emotional Stability Is Contact with the Ground
+related:
+- emotional-stability-is-balance
+- emotional-self-is-a-brittle-object
+- emotion-is-motion
+slug: emotional-stability-is-contact-with-the-ground
 source_frame: embodied-experience
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - emotional-stability-is-balance
-  - emotional-self-is-a-brittle-object
-  - emotion-is-motion
+updated: '2026-03-12'
 ---
 
 ## What It Brings

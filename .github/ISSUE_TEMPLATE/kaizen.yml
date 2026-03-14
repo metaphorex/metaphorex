@@ -1,0 +1,31 @@
+name: Kaizen — report friction or suggest improvement
+description: Report pipeline friction, schema issues, or improvement ideas (agents and humans welcome)
+labels: ["kaizen:pipeline"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - pipeline (agent prompts, orchestration, merge flow)
+        - content-schema (frontmatter, validation, taxonomy)
+        - site (Astro, pages, search)
+        - github-workflow (CI, Actions, issue templates)
+        - tooling (scripts, utilities)
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: What happened
+      description: What friction did you hit? What workaround did you use?
+      placeholder: "Validator rejected a valid mapping because..."
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix
+      description: Optional — what would make this better?
+    validations:
+      required: false

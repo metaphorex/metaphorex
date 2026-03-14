@@ -1,18 +1,20 @@
 ---
-slug: manufacturing
-name: "Manufacturing"
+created: '2026-03-10'
+name: Manufacturing
 related:
-  - architecture-and-building
-  - containers
+- architecture-and-building
+- containers
 roles:
-  - factory
-  - assembly-line
-  - raw-material
-  - product
-  - mold
-  - worker
-  - quality-control
-  - inventory
+- factory
+- assembly-line
+- raw-material
+- product
+- mold
+- worker
+- quality-control
+- inventory
+slug: manufacturing
+updated: '2026-03-10'
 ---
 
 The industrial production of goods through systematic processes -- raw materials

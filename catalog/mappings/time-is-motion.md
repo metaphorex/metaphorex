@@ -1,25 +1,27 @@
 ---
-slug: time-is-motion
-name: "Time Is Motion"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- philosophy
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Time Is Motion
+related:
+- time-is-money
+- time-is-a-moving-object
+- time-is-stationary-and-we-move-through-it
+- time-is-a-limited-resource
+- time-is-a-pursuer
+- change-is-motion
+- action-is-motion
+- purposes-are-destinations
+slug: time-is-motion
 source_frame: embodied-experience
 target_frame: time-and-temporality
-categories:
-  - cognitive-science
-  - linguistics
-  - philosophy
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - time-is-money
-  - time-is-a-moving-object
-  - time-is-stationary-and-we-move-through-it
-  - time-is-a-limited-resource
-  - time-is-a-pursuer
-  - change-is-motion
-  - action-is-motion
-  - purposes-are-destinations
+updated: '2026-03-13'
 ---
 
 ## What It Brings

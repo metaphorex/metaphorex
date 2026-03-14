@@ -1,21 +1,23 @@
 ---
-slug: ideas-are-locations
-name: "Ideas Are Locations"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+contributors: []
+created: '2026-03-12'
 kind: conceptual-metaphor
+name: Ideas Are Locations
+related:
+- states-are-locations
+- existence-is-a-location
+- life-is-a-journey
+- ideas-are-objects
+- ideas-are-food
+- ideas-are-people
+slug: ideas-are-locations
 source_frame: journeys
 target_frame: intellectual-inquiry
-categories:
-  - cognitive-science
-  - linguistics
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - states-are-locations
-  - existence-is-a-location
-  - life-is-a-journey
-  - ideas-are-objects
-  - ideas-are-food
-  - ideas-are-people
+updated: '2026-03-12'
 ---
 
 ## What It Brings

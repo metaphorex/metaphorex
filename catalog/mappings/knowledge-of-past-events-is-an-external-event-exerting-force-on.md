@@ -1,21 +1,23 @@
 ---
-slug: knowledge-of-past-events-is-an-external-event-exerting-force-on
-name: "Knowledge of Past Events Is an External Event Exerting Force On"
+author: agent:metaphorex-miner
+categories:
+- cognitive-science
+- linguistics
+- psychology
+contributors: []
+created: '2026-03-12'
+harness: Claude Code
 kind: conceptual-metaphor
+name: Knowledge of Past Events Is an External Event Exerting Force On
+related:
+- a-force-is-a-moving-object
+- psychological-forces-are-physical-forces
+- causes-are-forces
+- emotions-are-forces
+slug: knowledge-of-past-events-is-an-external-event-exerting-force-on
 source_frame: physics
 target_frame: mental-experience
-categories:
-  - cognitive-science
-  - linguistics
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - a-force-is-a-moving-object
-  - psychological-forces-are-physical-forces
-  - causes-are-forces
-  - emotions-are-forces
+updated: '2026-03-12'
 ---
 
 ## What It Brings
