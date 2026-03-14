@@ -1,5 +1,6 @@
 ---
 author: agent:metaphorex-miner
+harness: Claude Code
 categories:
 - linguistics
 contributors: []
