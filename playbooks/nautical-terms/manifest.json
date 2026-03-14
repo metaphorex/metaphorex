@@ -1,0 +1,364 @@
+{
+  "project": "nautical-terms",
+  "project_issue": 1226,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A%E2%80%93L)",
+    "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M%E2%80%93Z)",
+    "https://oceanservice.noaa.gov/navigation/nautical-terms.html",
+    "https://www.rmg.co.uk/stories/maritime-history/nautical-origins-everyday-phrases",
+    "https://www.rubicon3adventure.com/50-sailor-sayings-you-wont-believe-are-part-of-your-daily-speech/"
+  ],
+  "candidates": [
+    {
+      "slug": "loose-cannon",
+      "name": "Loose Cannon",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "social-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "An unsecured cannon on a rolling deck could crush sailors and smash through the hull. Maps uncontrolled destructive force in a confined space onto an unpredictable person whose actions endanger everyone around them. The containment failure is the key structural element."
+    },
+    {
+      "slug": "taken-aback",
+      "name": "Taken Aback",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "mental-experience",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "When wind suddenly shifted and blew sails flat against the masts, the ship stopped dead or was driven backward. Maps the physical shock of reversed momentum onto the psychological experience of being stunned by unexpected information. The surprise halts forward progress."
+    },
+    {
+      "slug": "three-sheets-to-the-wind",
+      "name": "Three Sheets to the Wind",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "embodied-experience",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Sheets are ropes controlling sails, not the sails themselves. Three loose sheets meant the ship lurched and staggered uncontrollably. Maps the visible loss of controlled motion onto drunkenness. Sailors used a scale: one sheet was tipsy, three was falling-down drunk."
+    },
+    {
+      "slug": "showing-true-colors",
+      "name": "Showing True Colors",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "social-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Warships flew false flags to approach enemies, then raised their actual national ensign before firing. Maps the reveal of concealed identity onto any situation where someone drops a social mask. The deception-then-reveal structure is the core mapping."
+    },
+    {
+      "slug": "in-the-doldrums",
+      "name": "In the Doldrums",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "mental-experience",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The equatorial belt where trade winds die, leaving sailing ships becalmed for days or weeks. Maps enforced stillness and powerlessness onto depression or stagnation. The critical element: the sailor's predicament is not caused by obstacle but by absence -- no wind, no agency, just waiting."
+    },
+    {
+      "slug": "bitter-end",
+      "name": "Bitter End",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "event-structure",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The bitter end is the last section of anchor chain secured to the bitts (deck posts). When you reach the bitter end, there is no more chain to pay out -- you are at the absolute limit. Maps physical exhaustion of resources onto persevering through the final, worst part of any ordeal."
+    },
+    {
+      "slug": "cut-and-run",
+      "name": "Cut and Run",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "social-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Cutting the anchor cable to flee immediately rather than hauling anchor properly. Maps the sacrifice of expensive equipment for speed of escape onto abandoning commitments hastily. The trade-off between orderly withdrawal and panicked flight is the structural core."
+    },
+    {
+      "slug": "by-and-large",
+      "name": "By and Large",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "language",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Sailing 'by' meant close to the wind; sailing 'large' meant with the wind behind. A ship that sailed well 'by and large' handled both conditions. Maps versatility across conditions onto general truth-telling: 'by and large' now means 'on the whole, considering everything.' The nuance of the original (two opposite sailing modes) is completely lost."
+    },
+    {
+      "slug": "even-keel",
+      "name": "Even Keel",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "mental-experience",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "A ship on an even keel sits level in the water, neither listing nor pitching. Maps physical stability of a vessel onto emotional or organizational steadiness. The keel is the deepest structural member -- stability comes from below the waterline, from what you cannot see."
+    },
+    {
+      "slug": "know-the-ropes",
+      "name": "Know the Ropes",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "intellectual-inquiry",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "A sailing ship had miles of rigging with hundreds of individual lines, each with a specific function. A competent sailor needed to find and operate any rope by feel, in darkness, in a storm. Maps embodied, practiced knowledge of a complex system onto familiarity with any domain's procedures and conventions."
+    },
+    {
+      "slug": "give-wide-berth",
+      "name": "Give a Wide Berth",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "social-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Berth is the space a ship needs to swing at anchor without hitting other vessels or obstructions. Maps spatial safety margins in harbor onto social avoidance. The metaphor preserves the idea that the danger is not in contact but in the unpredictable arc of movement."
+    },
+    {
+      "slug": "above-board",
+      "name": "Above Board",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "ethics-and-morality",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Cargo and crew visible above the deck boards, not hidden below. Pirates and smugglers concealed fighters or contraband below decks. Maps physical visibility onto moral transparency. The board (deck) is the boundary between honest and concealed."
+    },
+    {
+      "slug": "batten-down-the-hatches",
+      "name": "Batten Down the Hatches",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "event-structure",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Securing hatch covers with wooden battens and tarpaulin before a storm to prevent the ship from flooding through its deck openings. Maps storm preparation on a vessel onto preparing for any anticipated crisis. The structural insight: seal the vulnerable openings before the threat arrives, not during."
+    },
+    {
+      "slug": "dead-in-the-water",
+      "name": "Dead in the Water",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "event-structure",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "A ship with no wind and no steerage way, sitting motionless and unable to maneuver. Maps complete loss of propulsion onto any project, negotiation, or initiative that has lost all momentum. 'Dead' here means not destroyed but inert -- the ship is intact but powerless."
+    },
+    {
+      "slug": "plain-sailing",
+      "name": "Plain Sailing",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "event-structure",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Originally 'plane sailing' -- a simplified navigation method that treats the Earth's surface as flat, adequate for short distances. Maps computational simplicity onto easy progress. The irony: the original term meant 'using the simplified approximation,' not 'encountering no difficulty.'"
+    },
+    {
+      "slug": "take-wind-out-of-sails",
+      "name": "Take the Wind Out of Their Sails",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "competition",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Positioning your ship upwind of an opponent steals their wind, leaving them becalmed while you retain power. Maps tactical energy denial onto deflating someone's argument, enthusiasm, or advantage. The structural element: you do not attack the opponent, you remove the resource they depend on."
+    },
+    {
+      "slug": "shot-across-the-bow",
+      "name": "Shot Across the Bow",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "communication",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "A cannon shot fired deliberately in front of (not at) an approaching ship, demanding it stop and identify itself. Maps calibrated threat -- demonstrating capability without deploying it destructively -- onto warnings in business, diplomacy, and personal relationships. The precision is the point: the shot must be close enough to be credible but miss on purpose."
+    },
+    {
+      "slug": "high-and-dry",
+      "name": "High and Dry",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "social-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "A ship left stranded above the waterline when the tide recedes. Maps physical stranding onto being abandoned or left without resources. The critical element: the tide went out, not the ship. The stranding is caused by environmental change, not the victim's action."
+    },
+    {
+      "slug": "scuttlebutt",
+      "name": "Scuttlebutt",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "communication",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The scuttled butt was the water barrel with a hole cut in it for drinking. Sailors gathered around it to exchange news, making it the 18th-century water cooler. Maps the gathering place onto the information exchanged there. The word now means gossip or rumor, completely detached from barrels or water."
+    },
+    {
+      "slug": "fathom",
+      "name": "Fathom",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "intellectual-inquiry",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "To fathom was to measure water depth by lowering a weighted line, six feet at a time (one fathom = the span of outstretched arms). Maps measuring hidden depth beneath a surface onto comprehending something not immediately obvious. 'I can't fathom it' means the depth exceeds my line."
+    },
+    {
+      "slug": "try-different-tack",
+      "name": "Try a Different Tack",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "intellectual-inquiry",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Tacking is zigzagging into the wind because no sailing vessel can go directly upwind. Each tack is an oblique approach to a destination you cannot reach directly. Maps indirect navigation strategy onto changing one's method or approach. The structural insight: sometimes the only way forward is sideways."
+    },
+    {
+      "slug": "over-a-barrel",
+      "name": "Over a Barrel",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "social-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Sailors being punished were sometimes bent over a cannon barrel or deck barrel for flogging. Maps physical vulnerability and powerlessness onto being in a position where someone else holds all the leverage. The posture -- bent, exposed, unable to defend -- is the core image."
+    },
+    {
+      "slug": "at-loggerheads",
+      "name": "At Loggerheads",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "argumentation",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Loggerheads were long-handled iron tools heated in fire and used to melt pitch for caulking seams. During disputes, sailors reportedly used them as weapons. Maps the improvised weaponization of work tools onto being locked in fierce disagreement. The escalation from work to conflict is the structural parallel."
+    },
+    {
+      "slug": "in-the-offing",
+      "name": "In the Offing",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "event-structure",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The offing is the part of the sea visible from shore but beyond the anchorage. A ship 'in the offing' is visible on the horizon, approaching but not yet arrived. Maps visible-but-not-yet-here onto events that are imminent and anticipated. The spatial metaphor encodes temporal proximity."
+    },
+    {
+      "slug": "groundswell",
+      "name": "Groundswell",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "social-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "A deep ocean swell generated by distant storms or seismic activity, arriving without local wind. Maps invisible, distant-origin force onto a surge of public opinion or social movement that builds from deep causes rather than surface events. The power comes from below and from far away."
+    },
+    {
+      "slug": "sailing-close-to-the-wind",
+      "name": "Sailing Close to the Wind",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "ethics-and-morality",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Sailing as close to the wind direction as possible gains speed but risks the sails luffing (going slack) or the ship being taken aback. Maps the trade-off between efficiency and danger onto behavior that skirts the edge of rules, ethics, or legality. The closer you sail to the line, the more you gain and the more you risk."
+    },
+    {
+      "slug": "between-devil-and-deep-blue-sea",
+      "name": "Between the Devil and the Deep Blue Sea",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "event-structure",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The 'devil' was the longest seam on the hull, near the waterline, requiring a sailor to hang over the side to caulk it -- trapped between the seam and the ocean. Maps physical entrapment between two dangers onto any dilemma with no good option. Often confused with the theological devil, which masks the nautical origin."
+    },
+    {
+      "slug": "hand-over-fist",
+      "name": "Hand Over Fist",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "economics",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The rapid hand-over-hand motion of hauling rope or climbing rigging. Maps the visible speed and rhythm of physical labor onto rapid accumulation, especially of money. 'Making money hand over fist' preserves the image of continuous, rapid pulling without pause."
+    },
+    {
+      "slug": "keelhauled",
+      "name": "Keelhauled",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "social-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Dragging a sailor under the ship's hull from one side to the other as punishment, scraping against the barnacle-encrusted keel. Maps extreme, sanctioned physical punishment onto severe reprimand. The modern usage (getting keelhauled by your boss) is vastly milder than the original, which was often fatal."
+    },
+    {
+      "slug": "mainstay",
+      "name": "Mainstay",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "physical-objects",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The heavy rope running from the mainmast to the bow, the primary structural support preventing the mast from falling backward. Maps the single most critical support element onto any person or thing that is the chief support of an institution or system. Without the mainstay, the entire rigging collapses."
+    },
+    {
+      "slug": "leeway",
+      "name": "Leeway",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "spatial-location",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The sideways drift of a ship downwind from its intended course. Maps the margin between where you are and the hazard (the lee shore) onto tolerance, slack, or room for error. 'Give me some leeway' asks for the spatial margin that prevents disaster. The less leeway, the closer to the rocks."
+    },
+    {
+      "slug": "flagship",
+      "name": "Flagship",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "economics",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The ship carrying the fleet commander's flag, the most important vessel in the squadron. Maps hierarchical primacy in a naval fleet onto the premier product, store, or initiative in a commercial organization. 'Flagship store,' 'flagship product' -- the word has completely shed its naval meaning for most speakers."
+    },
+    {
+      "slug": "first-rate",
+      "name": "First Rate",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "measurement",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "The Royal Navy classified warships by 'rating' based on number of guns: a first-rate ship of the line carried 100+ guns on three decks. Maps a precise military classification system onto a vague quality judgment. 'First-rate' now means simply 'excellent,' with no memory of the gun-count taxonomy."
+    },
+    {
+      "slug": "copper-bottomed",
+      "name": "Copper-Bottomed",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "economics",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "Sheathing a ship's hull in copper prevented barnacle growth and shipworm damage, but was expensive. Only the best-funded ships got copper bottoms. Maps the most reliable and expensive protection technology onto financial guarantees or investments considered completely trustworthy. Common in British financial language."
+    },
+    {
+      "slug": "jury-rigged",
+      "name": "Jury-Rigged",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "tool-use",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "A jury mast or jury rig was a temporary replacement assembled from whatever materials were available after storm damage. Maps emergency improvisation at sea -- where failure means death -- onto any makeshift solution. Often confused with 'jerry-rigged' (from 'jerry-built'), the two have merged in common usage."
+    }
+  ]
+}
