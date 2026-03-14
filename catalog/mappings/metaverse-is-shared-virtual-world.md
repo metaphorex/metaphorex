@@ -20,10 +20,14 @@ describe a persistent, shared virtual reality that functions as a parallel
 society. The word is a portmanteau of "meta-" (beyond) and "universe" --
 a universe beyond the physical one. By 2021, the term had been adopted so
 thoroughly that Facebook renamed itself Meta and staked its corporate
-future on building what Stephenson had imagined. The metaphor has become
-so dead that most people encountering "metaverse" in business contexts
-have no idea it originated in a satirical cyberpunk novel about pizza
-delivery and Sumerian neurolinguistics.
+future on building what Stephenson had imagined. Zuckerberg explicitly
+cited *Snow Crash* in his 2021 Founder's Letter, and designers working
+on VR platforms routinely reference Stephenson's vision as a structural
+blueprint. While casual business usage may float free of the novel, the
+core design community that shapes these products actively reasons through
+Snow Crash's architectural choices -- spatial presence, avatar embodiment,
+persistent worlds, bandwidth-stratified access. The metaphor's structural
+imports are not historical residue; they are operative design constraints.
 
 Key structural parallels:
 
