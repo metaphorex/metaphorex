@@ -1,7 +1,7 @@
 ---
 slug: singularity-is-technological-transcendence
 name: "Singularity Is Technological Transcendence"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: physics
 target_frame: artificial-intelligence
 categories:
