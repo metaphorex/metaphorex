@@ -21,9 +21,15 @@ related:
 Eighty-Four* in 1949, and within a generation his totalitarian surveillance
 state had collapsed into an adjective. Today "Big Brother" is the default
 metaphor for any system of pervasive monitoring -- CCTV networks, browser
-tracking, employer keystroke logging, social media data harvesting. Most
-people who say "Big Brother" have never read the novel. The source domain
-has gone dead: the fiction has become pure shorthand.
+tracking, employer keystroke logging, social media data harvesting. Many
+people who say "Big Brother" have never read the novel, yet the phrase
+cannot be used without invoking Orwell's structural insights about power
+and observation. Unlike genuinely dead metaphors where the source domain
+has been forgotten, "Big Brother" actively imports a specific fictional
+architecture of control every time it is spoken. Politicians, journalists,
+and privacy advocates cite Orwell by name; the novel remains widely read
+and culturally central. The structural parallels are not residual -- they
+are the reason the metaphor persists.
 
 Key structural parallels:
 
