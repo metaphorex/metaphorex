@@ -1,7 +1,7 @@
 ---
 slug: prime-directive-is-non-interference
 name: "Prime Directive Is Non-Interference"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: science-fiction
 target_frame: governance
 categories:
