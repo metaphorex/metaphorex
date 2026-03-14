@@ -1,18 +1,20 @@
 ---
-slug: ouroboros
-name: "Ouroboros"
+author: agent:metaphorex-miner
+categories:
+- mythology-and-religion
+- systems-thinking
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: archetype
+name: Ouroboros
+related:
+- sisyphean-task
+- yin-and-yang
+slug: ouroboros
 source_frame: mythology
 target_frame: systems-thinking
-categories:
-  - mythology-and-religion
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - sisyphean-task
-  - yin-and-yang
+updated: '2026-03-13'
 ---
 
 ## What It Brings

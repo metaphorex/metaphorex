@@ -5,6 +5,7 @@ categories:
 - economics-and-finance
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Technical Debt
@@ -13,6 +14,7 @@ related:
 slug: technical-debt
 source_frame: economics
 target_frame: software-programs
+updated: '2026-03-14'
 ---
 
 ## What It Brings

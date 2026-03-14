@@ -1,15 +1,17 @@
 ---
-slug: bankrupt
-name: "Bankrupt"
+author: agent:metaphorex-miner
+categories:
+- linguistics
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: dead-metaphor
+name: Bankrupt
+related: []
+slug: bankrupt
 source_frame: architecture-and-building
 target_frame: economics
-categories:
-  - linguistics
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related: []
+updated: '2026-03-13'
 ---
 
 ## What It Brings

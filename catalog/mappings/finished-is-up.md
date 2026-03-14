@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Finished Is Up
@@ -15,6 +16,7 @@ related:
 slug: finished-is-up
 source_frame: embodied-experience
 target_frame: time-and-temporality
+updated: '2026-03-14'
 ---
 
 ## What It Brings

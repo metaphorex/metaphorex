@@ -1,18 +1,20 @@
 ---
-slug: augean-stables
-name: Augean Stables
+author: agent:metaphorex-miner
+categories:
+- mythology-and-religion
+- law-and-governance
+contributors: []
+created: '2026-03-14'
+harness: Claude Code
 kind: dead-metaphor
+name: Augean Stables
+related:
+- hydra-code
+- damocles-sword
+slug: augean-stables
 source_frame: mythology
 target_frame: governance
-categories:
-  - mythology-and-religion
-  - law-and-governance
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - hydra-code
-  - damocles-sword
+updated: '2026-03-14'
 ---
 
 ## What It Brings

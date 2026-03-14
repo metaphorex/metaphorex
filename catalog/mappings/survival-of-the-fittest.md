@@ -3,6 +3,7 @@ author: fshot
 categories:
 - organizational-behavior
 - systems-thinking
+- biology-and-ecology
 contributors: []
 created: '2026-03-07'
 kind: paradigm
@@ -12,14 +13,7 @@ related:
 slug: survival-of-the-fittest
 source_frame: natural-selection
 target_frame: competition
-categories:
-  - organizational-behavior
-  - systems-thinking
-  - biology-and-ecology
-author: fshot
-contributors: []
-related:
-  - the-commons
+updated: '2026-03-14'
 ---
 
 ## What It Brings

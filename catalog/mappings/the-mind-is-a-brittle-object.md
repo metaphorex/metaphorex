@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: The Mind Is A Brittle Object
@@ -14,6 +15,7 @@ related:
 slug: the-mind-is-a-brittle-object
 source_frame: embodied-experience
 target_frame: mental-experience
+updated: '2026-03-14'
 ---
 
 ## What It Brings

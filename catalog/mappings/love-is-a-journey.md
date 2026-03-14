@@ -6,6 +6,7 @@ categories:
 - social-dynamics
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: Love Is A Journey
 related:
@@ -14,6 +15,7 @@ related:
 slug: love-is-a-journey
 source_frame: journeys
 target_frame: love-and-relationships
+updated: '2026-03-14'
 ---
 
 ## What It Brings

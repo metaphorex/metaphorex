@@ -6,6 +6,7 @@ categories:
 - biology-and-ecology
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Plants
@@ -18,6 +19,7 @@ related:
 slug: ideas-are-plants
 source_frame: horticulture
 target_frame: intellectual-inquiry
+updated: '2026-03-14'
 ---
 
 ## What It Brings

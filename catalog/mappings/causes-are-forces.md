@@ -7,6 +7,7 @@ categories:
 - physics-and-engineering
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Causes Are Forces
@@ -16,6 +17,7 @@ related:
 slug: causes-are-forces
 source_frame: embodied-experience
 target_frame: causal-reasoning
+updated: '2026-03-14'
 ---
 
 ## What It Brings

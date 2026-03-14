@@ -6,6 +6,7 @@ categories:
 - social-dynamics
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: Love Is a Unity
 related:
@@ -14,6 +15,7 @@ related:
 slug: love-is-a-unity
 source_frame: embodied-experience
 target_frame: love-and-relationships
+updated: '2026-03-14'
 ---
 
 ## What It Brings

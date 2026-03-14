@@ -6,6 +6,7 @@ categories:
 - psychology
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Conscious Is Up; Unconscious Is Down
@@ -16,6 +17,7 @@ related:
 slug: conscious-is-up
 source_frame: embodied-experience
 target_frame: mental-experience
+updated: '2026-03-14'
 ---
 
 ## What It Brings

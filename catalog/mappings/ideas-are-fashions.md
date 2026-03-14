@@ -6,6 +6,7 @@ categories:
 - philosophy
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Fashions
@@ -16,6 +17,7 @@ related:
 slug: ideas-are-fashions
 source_frame: social-behavior
 target_frame: intellectual-inquiry
+updated: '2026-03-14'
 ---
 
 ## What It Brings

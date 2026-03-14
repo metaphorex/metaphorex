@@ -6,6 +6,7 @@ categories:
 - organizational-behavior
 contributors:
 - fshot
+created: '2026-03-11'
 kind: conceptual-metaphor
 name: People Are Machines
 related:
@@ -14,6 +15,7 @@ related:
 slug: people-are-machines
 source_frame: manufacturing
 target_frame: social-behavior
+updated: '2026-03-14'
 ---
 
 ## What It Brings

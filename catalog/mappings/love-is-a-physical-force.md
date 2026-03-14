@@ -7,6 +7,7 @@ categories:
 - physics-and-engineering
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: Love Is a Physical Force
 related:
@@ -17,6 +18,7 @@ related:
 slug: love-is-a-physical-force
 source_frame: embodied-experience
 target_frame: love-and-relationships
+updated: '2026-03-14'
 ---
 
 ## What It Brings

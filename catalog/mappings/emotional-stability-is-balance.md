@@ -6,6 +6,7 @@ categories:
 - psychology
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Emotional Stability Is Balance
@@ -16,6 +17,7 @@ related:
 slug: emotional-stability-is-balance
 source_frame: embodied-experience
 target_frame: mental-experience
+updated: '2026-03-14'
 ---
 
 ## What It Brings

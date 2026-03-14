@@ -1,20 +1,13 @@
 ---
 import Base from "@/layouts/Base.astro";
 import { getCollection } from "astro:content";
-import fs from "node:fs";
 
 const mappings = await getCollection("mappings");
 const frames = await getCollection("frames");
 const categories = await getCollection("categories");
 
-const withMtime = mappings.map((m) => {
-  const filePath = `src/content/mappings/${m.id}.md`;
-  const mtime = fs.statSync(filePath).mtimeMs;
-  return { ...m, mtime };
-});
-
-const recent = withMtime
-  .sort((a, b) => b.mtime - a.mtime)
+const recent = [...mappings]
+  .sort((a, b) => b.data.created.getTime() - a.data.created.getTime())
   .slice(0, 10);
 ---
 

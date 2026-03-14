@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Race Condition
@@ -14,6 +15,7 @@ related:
 slug: race-condition
 source_frame: competition
 target_frame: software-programs
+updated: '2026-03-14'
 ---
 
 ## What It Brings

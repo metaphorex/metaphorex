@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-10'
 kind: dead-metaphor
 name: The State Pattern
 related:
@@ -12,6 +13,7 @@ related:
 slug: the-state-pattern
 source_frame: governance
 target_frame: object-oriented-design
+updated: '2026-03-14'
 ---
 
 ## What It Brings

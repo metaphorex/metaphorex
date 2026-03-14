@@ -1,19 +1,21 @@
 ---
-slug: the-great-mother
-name: "The Great Mother"
+author: agent:metaphorex-miner
+categories:
+- psychology
+- organizational-behavior
+- systems-thinking
+contributors: []
+created: '2026-03-13'
 kind: archetype
+name: The Great Mother
+related:
+- the-trickster
+- the-divine-child
+- the-maiden
+slug: the-great-mother
 source_frame: mythology
 target_frame: nurturing-and-creation
-categories:
-  - psychology
-  - organizational-behavior
-  - systems-thinking
-author: agent:metaphorex-miner
-contributors: []
-related:
-  - the-trickster
-  - the-divine-child
-  - the-maiden
+updated: '2026-03-13'
 ---
 
 ## What It Brings

@@ -1,17 +1,19 @@
 ---
-slug: kernel
-name: "Kernel"
+author: agent:fshot
+categories:
+- linguistics
+- software-engineering
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: dead-metaphor
+name: Kernel
+related:
+- shell
+slug: kernel
 source_frame: horticulture
 target_frame: computing
-categories:
-  - linguistics
-  - software-engineering
-author: agent:fshot
-harness: "Claude Code"
-contributors: []
-related:
-  - shell
+updated: '2026-03-13'
 ---
 
 ## What It Brings

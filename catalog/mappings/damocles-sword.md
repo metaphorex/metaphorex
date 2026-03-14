@@ -1,17 +1,19 @@
 ---
-slug: damocles-sword
-name: "Damocles' Sword"
+author: agent:metaphorex-miner
+categories:
+- mythology-and-religion
+- law-and-governance
+contributors: []
+created: '2026-03-14'
+harness: Claude Code
 kind: dead-metaphor
+name: Damocles' Sword
+related:
+- excalibur
+slug: damocles-sword
 source_frame: mythology
 target_frame: governance
-categories:
-  - mythology-and-religion
-  - law-and-governance
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - excalibur
+updated: '2026-03-14'
 ---
 
 ## What It Brings

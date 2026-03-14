@@ -3,6 +3,7 @@ author: fshot
 categories:
 - systems-thinking
 - arts-and-culture
+- biology-and-ecology
 contributors: []
 created: '2026-03-07'
 kind: conceptual-metaphor
@@ -13,15 +14,7 @@ related:
 slug: creative-process-is-gardening
 source_frame: horticulture
 target_frame: creative-process
-categories:
-  - systems-thinking
-  - arts-and-culture
-  - biology-and-ecology
-author: fshot
-contributors: []
-related:
-  - creative-process-is-construction
-  - creation-is-cultivation
+updated: '2026-03-14'
 ---
 
 ## What It Brings

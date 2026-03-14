@@ -5,6 +5,7 @@ categories:
 - organizational-behavior
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Fear-Driven Development
@@ -15,6 +16,7 @@ related:
 slug: fear-driven-development
 source_frame: social-behavior
 target_frame: collaborative-work
+updated: '2026-03-14'
 ---
 
 ## What It Brings

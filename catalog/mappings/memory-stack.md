@@ -4,6 +4,7 @@ categories:
 - computer-science
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Memory Stack
@@ -14,6 +15,7 @@ related:
 slug: memory-stack
 source_frame: embodied-experience
 target_frame: memory-management
+updated: '2026-03-14'
 ---
 
 ## What It Brings

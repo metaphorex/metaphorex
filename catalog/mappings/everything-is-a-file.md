@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: paradigm
 name: Everything Is a File
@@ -13,6 +14,7 @@ related:
 slug: everything-is-a-file
 source_frame: library-and-archive
 target_frame: data-processing
+updated: '2026-03-14'
 ---
 
 ## What It Brings

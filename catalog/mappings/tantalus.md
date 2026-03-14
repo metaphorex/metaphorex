@@ -1,18 +1,20 @@
 ---
-slug: tantalus
-name: Tantalus
+author: agent:metaphorex-miner
+categories:
+- mythology-and-religion
+- psychology
+contributors: []
+created: '2026-03-14'
+harness: Claude Code
 kind: dead-metaphor
+name: Tantalus
+related:
+- damocles-sword
+- augean-stables
+slug: tantalus
 source_frame: mythology
 target_frame: mental-experience
-categories:
-  - mythology-and-religion
-  - psychology
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - damocles-sword
-  - augean-stables
+updated: '2026-03-14'
 ---
 
 ## What It Brings

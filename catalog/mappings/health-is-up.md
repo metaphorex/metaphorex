@@ -6,6 +6,7 @@ categories:
 - health-and-medicine
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Health Is Up; Sickness Is Down
@@ -16,6 +17,7 @@ related:
 slug: health-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
+updated: '2026-03-14'
 ---
 
 ## What It Brings

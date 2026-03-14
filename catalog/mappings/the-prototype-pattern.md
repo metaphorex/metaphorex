@@ -4,6 +4,7 @@ categories:
 - software-engineering
 contributors:
 - fshot
+created: '2026-03-11'
 kind: archetype
 name: The Prototype Pattern
 related:
@@ -13,6 +14,7 @@ related:
 slug: the-prototype-pattern
 source_frame: manufacturing
 target_frame: object-oriented-design
+updated: '2026-03-14'
 ---
 
 ## What It Brings

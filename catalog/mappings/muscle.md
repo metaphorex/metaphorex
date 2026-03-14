@@ -1,16 +1,18 @@
 ---
-slug: muscle
-name: "Muscle"
+author: agent:metaphorex-miner
+categories:
+- linguistics
+- cognitive-science
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: dead-metaphor
+name: Muscle
+related: []
+slug: muscle
 source_frame: animal-behavior
 target_frame: embodied-experience
-categories:
-  - linguistics
-  - cognitive-science
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related: []
+updated: '2026-03-13'
 ---
 
 ## What It Brings

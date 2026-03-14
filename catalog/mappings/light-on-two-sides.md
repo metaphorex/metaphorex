@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Light on Two Sides
@@ -14,6 +15,7 @@ related:
 slug: light-on-two-sides
 source_frame: architecture-and-building
 target_frame: creative-process
+updated: '2026-03-14'
 ---
 
 ## What It Brings

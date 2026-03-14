@@ -7,12 +7,14 @@ categories:
 - economics-and-finance
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: Time Is Money
 related: []
 slug: time-is-money
 source_frame: economics
 target_frame: time-and-temporality
+updated: '2026-03-14'
 ---
 
 ## What It Brings

@@ -6,6 +6,7 @@ categories:
 - physics-and-engineering
 contributors:
 - fshot
+created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: A Force Is a Moving Object
@@ -18,6 +19,7 @@ related:
 slug: a-force-is-a-moving-object
 source_frame: embodied-experience
 target_frame: physics
+updated: '2026-03-14'
 ---
 
 ## What It Brings

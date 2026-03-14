@@ -6,6 +6,7 @@ categories:
 - philosophy
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Objects
@@ -16,6 +17,7 @@ related:
 slug: ideas-are-objects
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
+updated: '2026-03-14'
 ---
 
 ## What It Brings

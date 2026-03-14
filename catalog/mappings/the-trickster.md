@@ -4,6 +4,7 @@ categories:
 - cognitive-science
 - organizational-behavior
 - arts-and-culture
+- mythology-and-religion
 contributors: []
 created: '2026-03-07'
 kind: archetype
@@ -12,14 +13,7 @@ related: []
 slug: the-trickster
 source_frame: mythology
 target_frame: social-roles
-categories:
-  - cognitive-science
-  - organizational-behavior
-  - arts-and-culture
-  - mythology-and-religion
-author: fshot
-contributors: []
-related: []
+updated: '2026-03-14'
 ---
 
 ## What It Brings

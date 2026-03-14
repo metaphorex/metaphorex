@@ -4,6 +4,7 @@ categories:
 - computer-science
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: Unix Pipe
@@ -13,6 +14,7 @@ related:
 slug: unix-pipe
 source_frame: fluid-dynamics
 target_frame: data-processing
+updated: '2026-03-14'
 ---
 
 ## What It Brings

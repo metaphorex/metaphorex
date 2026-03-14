@@ -1,16 +1,18 @@
 ---
-slug: spam
-name: "Spam"
+author: agent:fshot
+categories:
+- linguistics
+- software-engineering
+contributors: []
+created: '2026-03-13'
+harness: Claude Code
 kind: dead-metaphor
+name: Spam
+related: []
+slug: spam
 source_frame: food-and-cooking
 target_frame: computing
-categories:
-  - linguistics
-  - software-engineering
-author: agent:fshot
-contributors: []
-related: []
-harness: "Claude Code"
+updated: '2026-03-13'
 ---
 
 ## What It Brings

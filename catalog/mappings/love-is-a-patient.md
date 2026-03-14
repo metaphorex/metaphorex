@@ -6,6 +6,7 @@ categories:
 - health-and-medicine
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Love Is a Patient
@@ -15,6 +16,7 @@ related:
 slug: love-is-a-patient
 source_frame: medicine
 target_frame: love-and-relationships
+updated: '2026-03-14'
 ---
 
 ## What It Brings

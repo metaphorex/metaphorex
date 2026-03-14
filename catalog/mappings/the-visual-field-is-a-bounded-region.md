@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-10'
 kind: conceptual-metaphor
 name: The Visual Field Is A Bounded Region
 related:
@@ -13,6 +14,7 @@ related:
 slug: the-visual-field-is-a-bounded-region
 source_frame: embodied-experience
 target_frame: vision
+updated: '2026-03-14'
 ---
 
 ## What It Brings

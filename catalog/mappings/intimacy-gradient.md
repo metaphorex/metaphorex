@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors:
 - fshot
+created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Intimacy Gradient
@@ -15,6 +16,7 @@ related:
 slug: intimacy-gradient
 source_frame: architecture-and-building
 target_frame: software-abstraction
+updated: '2026-03-14'
 ---
 
 ## What It Brings

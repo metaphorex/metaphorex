@@ -4,6 +4,7 @@ categories:
 - computer-science
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: dead-metaphor
 name: C Casting
@@ -12,6 +13,7 @@ related:
 slug: c-casting
 source_frame: manufacturing
 target_frame: type-system
+updated: '2026-03-14'
 ---
 
 ## What It Brings

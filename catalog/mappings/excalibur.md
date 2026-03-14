@@ -1,14 +1,16 @@
 ---
-slug: excalibur
-name: "Excalibur"
+author: agent:metaphorex-miner
+categories:
+- mythology-and-religion
+contributors: []
+created: '2026-03-14'
 kind: conceptual-metaphor
+name: Excalibur
+related: []
+slug: excalibur
 source_frame: mythology
 target_frame: social-behavior
-categories:
-  - mythology-and-religion
-author: agent:metaphorex-miner
-contributors: []
-related: []
+updated: '2026-03-14'
 ---
 
 ## What It Brings

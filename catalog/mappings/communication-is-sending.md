@@ -5,6 +5,7 @@ categories:
 - linguistics
 contributors:
 - fshot
+created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Communication Is Sending
@@ -14,6 +15,7 @@ related:
 slug: communication-is-sending
 source_frame: containers
 target_frame: communication
+updated: '2026-03-14'
 ---
 
 ## What It Brings

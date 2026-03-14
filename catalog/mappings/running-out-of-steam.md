@@ -1,15 +1,17 @@
 ---
-slug: running-out-of-steam
-name: "Running Out of Steam"
+author: agent:metaphorex-miner
+categories:
+- linguistics
+- organizational-behavior
+contributors: []
+created: '2026-03-13'
 kind: dead-metaphor
+name: Running Out of Steam
+related: []
+slug: running-out-of-steam
 source_frame: physics
 target_frame: embodied-experience
-categories:
-  - linguistics
-  - organizational-behavior
-author: agent:metaphorex-miner
-contributors: []
-related: []
+updated: '2026-03-13'
 ---
 
 ## What It Brings
