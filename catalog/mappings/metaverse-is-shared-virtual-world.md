@@ -1,7 +1,7 @@
 ---
 slug: metaverse-is-shared-virtual-world
 name: "Metaverse Is Shared Virtual World"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: snow-crash-metaverse
 target_frame: virtual-reality
 categories:
