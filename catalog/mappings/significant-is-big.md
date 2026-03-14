@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Significant Is Big
@@ -14,7 +14,6 @@ related:
 slug: significant-is-big
 source_frame: embodied-experience
 target_frame: social-behavior
-updated: '2026-03-11'
 ---
 
 ## What It Brings

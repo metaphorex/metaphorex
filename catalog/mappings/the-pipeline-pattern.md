@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - systems-thinking
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: archetype
 name: The Pipeline Pattern
@@ -14,7 +14,6 @@ related:
 slug: the-pipeline-pattern
 source_frame: fluid-dynamics
 target_frame: data-processing
-updated: '2026-03-11'
 ---
 
 ## What It Brings

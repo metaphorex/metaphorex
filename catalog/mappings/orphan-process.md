@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - systems-thinking
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Orphan Process
@@ -15,7 +15,6 @@ related:
 slug: orphan-process
 source_frame: social-roles
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

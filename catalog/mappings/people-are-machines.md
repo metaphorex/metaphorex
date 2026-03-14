@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - organizational-behavior
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: People Are Machines
 related:
@@ -14,7 +14,6 @@ related:
 slug: people-are-machines
 source_frame: manufacturing
 target_frame: social-behavior
-updated: '2026-03-11'
 ---
 
 ## What It Brings

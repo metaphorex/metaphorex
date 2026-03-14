@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Argument Is a Building
@@ -15,7 +15,6 @@ related:
 slug: argument-is-a-building
 source_frame: architecture-and-building
 target_frame: argumentation
-updated: '2026-03-11'
 ---
 
 ## What It Brings

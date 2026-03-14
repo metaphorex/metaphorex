@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Difficulties Are Impediments to Motion
@@ -18,7 +18,6 @@ related:
 slug: difficulties-are-impediments-to-motion
 source_frame: embodied-experience
 target_frame: event-structure
-updated: '2026-03-11'
 ---
 
 ## What It Brings

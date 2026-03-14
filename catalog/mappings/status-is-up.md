@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - social-dynamics
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Status Is Up; Lack Of Status Is Down
@@ -16,7 +16,6 @@ related:
 slug: status-is-up
 source_frame: embodied-experience
 target_frame: social-roles
-updated: '2026-03-11'
 ---
 
 ## What It Brings

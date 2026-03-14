@@ -3,8 +3,9 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-12'
+- physics-and-engineering
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: A Force Is a Moving Object
@@ -17,7 +18,6 @@ related:
 slug: a-force-is-a-moving-object
 source_frame: embodied-experience
 target_frame: physics
-updated: '2026-03-12'
 ---
 
 ## What It Brings

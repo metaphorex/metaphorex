@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are People
@@ -16,7 +16,6 @@ related:
 slug: ideas-are-people
 source_frame: social-roles
 target_frame: intellectual-inquiry
-updated: '2026-03-10'
 ---
 
 ## What It Brings

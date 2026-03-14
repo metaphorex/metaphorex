@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: An Instrument Is a Companion
@@ -13,7 +13,6 @@ related:
 slug: an-instrument-is-a-companion
 source_frame: social-roles
 target_frame: tool-use
-updated: '2026-03-11'
 ---
 
 ## What It Brings

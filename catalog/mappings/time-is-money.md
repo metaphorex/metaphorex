@@ -4,15 +4,15 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-10'
+- economics-and-finance
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: Time Is Money
 related: []
 slug: time-is-money
 source_frame: economics
 target_frame: time-and-temporality
-updated: '2026-03-10'
 ---
 
 ## What It Brings

@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Fashions
@@ -16,7 +16,6 @@ related:
 slug: ideas-are-fashions
 source_frame: social-behavior
 target_frame: intellectual-inquiry
-updated: '2026-03-10'
 ---
 
 ## What It Brings

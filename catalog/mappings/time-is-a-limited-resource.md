@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: Time Is a Limited Resource
 related:
@@ -12,7 +12,6 @@ related:
 slug: time-is-a-limited-resource
 source_frame: economics
 target_frame: time-and-temporality
-updated: '2026-03-10'
 ---
 
 ## What It Brings

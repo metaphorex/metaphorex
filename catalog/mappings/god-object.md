@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: God Object
@@ -13,7 +13,6 @@ related:
 slug: god-object
 source_frame: religion
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

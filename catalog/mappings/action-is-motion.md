@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Action Is Motion
@@ -15,7 +15,6 @@ related:
 slug: action-is-motion
 source_frame: embodied-experience
 target_frame: event-structure
-updated: '2026-03-10'
 ---
 
 ## What It Brings

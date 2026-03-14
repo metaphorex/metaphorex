@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - psychology
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Emotions Are Entities Within A Person
@@ -15,7 +15,6 @@ related:
 slug: emotions-are-entities-within-a-person
 source_frame: containers
 target_frame: mental-experience
-updated: '2026-03-10'
 ---
 
 ## What It Brings

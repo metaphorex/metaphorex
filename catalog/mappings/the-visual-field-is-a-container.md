@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: The Visual Field Is A Container
 related:
@@ -13,7 +13,6 @@ related:
 slug: the-visual-field-is-a-container
 source_frame: containers
 target_frame: vision
-updated: '2026-03-10'
 ---
 
 ## What It Brings

@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - organizational-behavior
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: archetype
 name: The Mediator Pattern
@@ -13,7 +13,6 @@ related:
 slug: the-mediator-pattern
 source_frame: mediation
 target_frame: object-oriented-design
-updated: '2026-03-11'
 ---
 
 ## What It Brings

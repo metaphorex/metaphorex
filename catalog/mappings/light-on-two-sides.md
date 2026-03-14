@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - systems-thinking
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Light on Two Sides
@@ -14,7 +14,6 @@ related:
 slug: light-on-two-sides
 source_frame: architecture-and-building
 target_frame: creative-process
-updated: '2026-03-10'
 ---
 
 ## What It Brings

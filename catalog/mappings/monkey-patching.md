@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Monkey-Patching
@@ -12,7 +12,6 @@ related:
 slug: monkey-patching
 source_frame: social-behavior
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

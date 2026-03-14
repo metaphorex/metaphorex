@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Lava Flow
@@ -13,7 +13,6 @@ related:
 slug: lava-flow
 source_frame: natural-phenomena
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

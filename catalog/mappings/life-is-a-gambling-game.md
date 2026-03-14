@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Life Is a Gambling Game
@@ -15,7 +15,6 @@ related:
 slug: life-is-a-gambling-game
 source_frame: gambling
 target_frame: life-course
-updated: '2026-03-11'
 ---
 
 ## What It Brings

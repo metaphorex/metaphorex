@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - computer-science
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Network Port
@@ -13,7 +13,6 @@ related:
 slug: network-port
 source_frame: travel
 target_frame: network-communication
-updated: '2026-03-11'
 ---
 
 ## What It Brings

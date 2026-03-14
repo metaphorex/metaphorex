@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: archetype
 name: The Registry Pattern
@@ -13,7 +13,6 @@ related:
 slug: the-registry-pattern
 source_frame: governance
 target_frame: software-abstraction
-updated: '2026-03-11'
 ---
 
 ## What It Brings

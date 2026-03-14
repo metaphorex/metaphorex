@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - cognitive-science
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Cargo Cult Programming
@@ -13,7 +13,6 @@ related:
 slug: cargo-cult-programming
 source_frame: social-behavior
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

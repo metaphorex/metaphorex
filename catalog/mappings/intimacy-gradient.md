@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - systems-thinking
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Intimacy Gradient
@@ -15,7 +15,6 @@ related:
 slug: intimacy-gradient
 source_frame: architecture-and-building
 target_frame: software-abstraction
-updated: '2026-03-10'
 ---
 
 ## What It Brings

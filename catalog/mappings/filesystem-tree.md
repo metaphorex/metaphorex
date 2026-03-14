@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - computer-science
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Filesystem Tree
@@ -13,7 +13,6 @@ related:
 slug: filesystem-tree
 source_frame: horticulture
 target_frame: filesystem
-updated: '2026-03-11'
 ---
 
 ## What It Brings

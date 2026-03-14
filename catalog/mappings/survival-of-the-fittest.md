@@ -12,7 +12,14 @@ related:
 slug: survival-of-the-fittest
 source_frame: natural-selection
 target_frame: competition
-updated: '2026-03-09'
+categories:
+  - organizational-behavior
+  - systems-thinking
+  - biology-and-ecology
+author: fshot
+contributors: []
+related:
+  - the-commons
 ---
 
 ## What It Brings

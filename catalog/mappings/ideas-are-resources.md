@@ -4,8 +4,9 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-10'
+- economics-and-finance
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Resources
@@ -16,7 +17,6 @@ related:
 slug: ideas-are-resources
 source_frame: economics
 target_frame: intellectual-inquiry
-updated: '2026-03-10'
 ---
 
 ## What It Brings

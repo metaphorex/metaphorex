@@ -12,7 +12,14 @@ related: []
 slug: the-trickster
 source_frame: mythology
 target_frame: social-roles
-updated: '2026-03-09'
+categories:
+  - cognitive-science
+  - organizational-behavior
+  - arts-and-culture
+  - mythology-and-religion
+author: fshot
+contributors: []
+related: []
 ---
 
 ## What It Brings

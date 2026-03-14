@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: Rational Is Up; Emotional Is Down
 related:
@@ -15,7 +15,6 @@ related:
 slug: rational-is-up
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-updated: '2026-03-10'
 ---
 
 ## What It Brings

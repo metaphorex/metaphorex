@@ -4,8 +4,9 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-10'
+- physics-and-engineering
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Causes Are Forces
@@ -15,7 +16,6 @@ related:
 slug: causes-are-forces
 source_frame: embodied-experience
 target_frame: causal-reasoning
-updated: '2026-03-10'
 ---
 
 ## What It Brings

@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Baklava Code
@@ -12,7 +12,6 @@ related:
 slug: baklava-code
 source_frame: food-and-cooking
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

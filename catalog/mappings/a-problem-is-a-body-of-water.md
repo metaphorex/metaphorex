@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-12'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: A Problem Is a Body of Water
@@ -16,7 +16,6 @@ related:
 slug: a-problem-is-a-body-of-water
 source_frame: fluid-dynamics
 target_frame: causal-reasoning
-updated: '2026-03-12'
 ---
 
 ## What It Brings

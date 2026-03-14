@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: Understanding Is Seeing
 related:
@@ -14,7 +14,6 @@ related:
 slug: understanding-is-seeing
 source_frame: vision
 target_frame: intellectual-inquiry
-updated: '2026-03-10'
 ---
 
 ## What It Brings

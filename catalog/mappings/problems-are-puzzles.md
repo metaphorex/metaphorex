@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Problems Are Puzzles
@@ -12,7 +12,6 @@ related: []
 slug: problems-are-puzzles
 source_frame: puzzles-and-games
 target_frame: intellectual-inquiry
-updated: '2026-03-11'
 ---
 
 ## What It Brings

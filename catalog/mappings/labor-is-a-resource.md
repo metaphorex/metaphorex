@@ -4,8 +4,9 @@ categories:
 - cognitive-science
 - linguistics
 - organizational-behavior
-contributors: []
-created: '2026-03-11'
+- economics-and-finance
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Labor Is a Resource
@@ -15,7 +16,6 @@ related:
 slug: labor-is-a-resource
 source_frame: economics
 target_frame: collaborative-work
-updated: '2026-03-11'
 ---
 
 ## What It Brings

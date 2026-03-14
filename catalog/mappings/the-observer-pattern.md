@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-07'
+contributors:
+- fshot
 kind: archetype
 name: The Observer Pattern
 related:
@@ -12,7 +12,6 @@ related:
 slug: the-observer-pattern
 source_frame: surveillance
 target_frame: object-oriented-design
-updated: '2026-03-11'
 ---
 
 ## What It Brings

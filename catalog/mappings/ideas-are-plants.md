@@ -3,8 +3,9 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+- biology-and-ecology
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Plants
@@ -17,7 +18,6 @@ related:
 slug: ideas-are-plants
 source_frame: horticulture
 target_frame: intellectual-inquiry
-updated: '2026-03-11'
 ---
 
 ## What It Brings

@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - organizational-behavior
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Fear-Driven Development
@@ -15,7 +15,6 @@ related:
 slug: fear-driven-development
 source_frame: social-behavior
 target_frame: collaborative-work
-updated: '2026-03-11'
 ---
 
 ## What It Brings

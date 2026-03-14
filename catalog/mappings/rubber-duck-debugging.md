@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - cognitive-science
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Rubber Duck Debugging
@@ -13,7 +13,6 @@ related:
 slug: rubber-duck-debugging
 source_frame: communication
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

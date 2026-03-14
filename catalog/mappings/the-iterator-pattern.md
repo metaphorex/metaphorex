@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: The Iterator Pattern
@@ -13,7 +13,6 @@ related:
 slug: the-iterator-pattern
 source_frame: travel
 target_frame: object-oriented-design
-updated: '2026-03-10'
 ---
 
 ## What It Brings

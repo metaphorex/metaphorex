@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: archetype
 name: The Memento Pattern
 related:
@@ -12,7 +12,6 @@ related:
 slug: the-memento-pattern
 source_frame: social-roles
 target_frame: object-oriented-design
-updated: '2026-03-11'
 ---
 
 ## What It Brings

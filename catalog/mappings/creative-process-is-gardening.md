@@ -13,7 +13,15 @@ related:
 slug: creative-process-is-gardening
 source_frame: horticulture
 target_frame: creative-process
-updated: '2026-03-12'
+categories:
+  - systems-thinking
+  - arts-and-culture
+  - biology-and-ecology
+author: fshot
+contributors: []
+related:
+  - creative-process-is-construction
+  - creation-is-cultivation
 ---
 
 ## What It Brings

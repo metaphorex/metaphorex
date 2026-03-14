@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - computer-science
 - security
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Buffer Overflow
@@ -15,7 +15,6 @@ related:
 slug: buffer-overflow
 source_frame: fluid-dynamics
 target_frame: memory-management
-updated: '2026-03-11'
 ---
 
 ## What It Brings

@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - psychology
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Conscious Is Up; Unconscious Is Down
@@ -16,7 +16,6 @@ related:
 slug: conscious-is-up
 source_frame: embodied-experience
 target_frame: mental-experience
-updated: '2026-03-11'
 ---
 
 ## What It Brings

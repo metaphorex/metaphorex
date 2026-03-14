@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: Time Is Stationary and We Move Through It
 related:
@@ -15,7 +15,6 @@ related:
 slug: time-is-stationary-and-we-move-through-it
 source_frame: embodied-experience
 target_frame: time-and-temporality
-updated: '2026-03-10'
 ---
 
 ## What It Brings

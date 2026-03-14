@@ -1,0 +1,221 @@
+{
+  "project": "hacker-laws",
+  "project_issue": 1225,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://github.com/dwmkerr/hacker-laws",
+    "https://raw.githubusercontent.com/dwmkerr/hacker-laws/master/README.md"
+  ],
+  "candidates": [
+    {
+      "slug": "conways-law",
+      "name": "Conway's Law",
+      "kind": "cross-field-mapping",
+      "source_frame": "organizational-behavior",
+      "target_frame": "software-architecture",
+      "categories": ["software-engineering", "systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "Organizations design systems that mirror their communication structures. The structural isomorphism between org charts and system architecture is one of the most validated insights in software engineering. Applies far beyond software: product design, urban planning, military logistics."
+    },
+    {
+      "slug": "brookss-law",
+      "name": "Brooks's Law",
+      "kind": "conceptual-metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "software-development",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Adding people to a late project makes it later. The core metaphor: software development is NOT a parallelizable assembly line. 'Nine women can't make a baby in one month' captures the irreducibility. Brooks imported industrial-age thinking to show where it breaks."
+    },
+    {
+      "slug": "broken-windows-theory",
+      "name": "Broken Windows Theory",
+      "kind": "cross-field-mapping",
+      "source_frame": "architecture-and-building",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Visible disorder invites further disorder. Migrated from criminology to software: a codebase with visible neglect (dead code, poor naming, missing tests) signals that further neglect is acceptable. The entropy cascade applies to organizations, neighborhoods, and codebases alike."
+    },
+    {
+      "slug": "goodharts-law",
+      "name": "Goodhart's Law",
+      "kind": "cross-field-mapping",
+      "source_frame": "economics",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "organizational-behavior", "software-engineering"],
+      "source": "archive",
+      "description": "When a measure becomes a target, it ceases to be a good measure. One of the most portable laws in the catalog: applies to KPIs, test coverage, lines of code, GDP, school rankings. The structural insight is that optimization pressure deforms the relationship between proxy and reality."
+    },
+    {
+      "slug": "galls-law",
+      "name": "Gall's Law",
+      "kind": "conceptual-metaphor",
+      "source_frame": "natural-selection",
+      "target_frame": "systems-design",
+      "categories": ["systems-thinking", "software-engineering"],
+      "source": "archive",
+      "description": "Complex systems that work evolved from simple systems that worked. Maps biological evolution onto system design: you cannot design complexity from scratch, you must grow it. The anti-waterfall insight. The web, Unix, and every successful large system validates this."
+    },
+    {
+      "slug": "hofstadters-law",
+      "name": "Hofstadter's Law",
+      "kind": "conceptual-metaphor",
+      "source_frame": "mathematics",
+      "target_frame": "planning-and-estimation",
+      "categories": ["software-engineering", "cognitive-science"],
+      "source": "archive",
+      "description": "It always takes longer than you expect, even when you take into account Hofstadter's Law. Self-referential recursion applied to estimation bias. The law is its own proof: the recursive structure mirrors the nested optimism that defeats every planning attempt."
+    },
+    {
+      "slug": "hyrums-law",
+      "name": "Hyrum's Law",
+      "kind": "conceptual-metaphor",
+      "source_frame": "contracts-and-law",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "With enough users, every observable behavior of a system becomes a de facto contract. The gap between documented interface and actual interface collapses under usage pressure. Maps contract law's distinction between written and implied terms onto API design."
+    },
+    {
+      "slug": "law-of-leaky-abstractions",
+      "name": "Law of Leaky Abstractions",
+      "kind": "conceptual-metaphor",
+      "source_frame": "containers",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "All non-trivial abstractions leak. Joel Spolsky's container metaphor: abstractions are vessels that hide complexity, but under pressure the underlying reality seeps through. The leak metaphor captures both the gradual nature and the damage potential of abstraction failures."
+    },
+    {
+      "slug": "chestertons-fence",
+      "name": "Chesterton's Fence",
+      "kind": "conceptual-metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "decision-making",
+      "categories": ["software-engineering", "systems-thinking", "philosophy"],
+      "source": "archive",
+      "description": "Do not remove a fence until you understand why it was built. The physical barrier maps onto institutional constraints, legacy code, regulations. The metaphor encodes epistemic humility: the absence of visible purpose does not imply the absence of purpose."
+    },
+    {
+      "slug": "dead-sea-effect",
+      "name": "Dead Sea Effect",
+      "kind": "conceptual-metaphor",
+      "source_frame": "natural-phenomena",
+      "target_frame": "organizational-behavior",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Talented engineers evaporate (leave), leaving behind a concentrated residue of less-capable staff. Maps the hydrological cycle of the Dead Sea (inflow evaporates, salts accumulate) onto talent retention dynamics. The metaphor captures the self-reinforcing nature of the problem."
+    },
+    {
+      "slug": "shirky-principle",
+      "name": "Shirky Principle",
+      "kind": "conceptual-metaphor",
+      "source_frame": "organizational-behavior",
+      "target_frame": "systems-design",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "Institutions preserve the problem to which they are the solution. Maps institutional self-preservation instinct onto the paradox of problem-solving organizations. Related to Upton Sinclair's salary-understanding line. The structural insight: the solver and the problem become symbiotic."
+    },
+    {
+      "slug": "teslers-law",
+      "name": "Tesler's Law (Conservation of Complexity)",
+      "kind": "cross-field-mapping",
+      "source_frame": "physics",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Every system has irreducible complexity that cannot be eliminated, only moved. Maps the physics conservation law onto UX/system design: simplifying the interface shifts complexity to the user or the implementation. You cannot destroy complexity, only redistribute it."
+    },
+    {
+      "slug": "dunbars-number",
+      "name": "Dunbar's Number",
+      "kind": "cross-field-mapping",
+      "source_frame": "evolutionary-biology",
+      "target_frame": "organizational-behavior",
+      "categories": ["software-engineering", "organizational-behavior", "cognitive-science"],
+      "source": "archive",
+      "description": "Humans can maintain roughly 150 stable relationships, a cognitive limit rooted in neocortex size. Maps primate social group constraints onto team sizing, codebase ownership, and organizational scaling. The biological ceiling that no management methodology can raise."
+    },
+    {
+      "slug": "peter-principle",
+      "name": "Peter Principle",
+      "kind": "conceptual-metaphor",
+      "source_frame": "organizational-behavior",
+      "target_frame": "career-progression",
+      "categories": ["organizational-behavior", "software-engineering"],
+      "source": "archive",
+      "description": "People rise to their level of incompetence. The hierarchy-as-ladder metaphor with a built-in trap: each rung rewards the skills needed for the current rung, not the next. In tech: great engineers promoted into management they cannot do. The Dilbert Principle is the cynical corollary."
+    },
+    {
+      "slug": "postels-law",
+      "name": "Postel's Law (Robustness Principle)",
+      "kind": "cross-field-mapping",
+      "source_frame": "diplomacy",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Be conservative in what you send, liberal in what you accept. Maps diplomatic tolerance onto protocol design. Jon Postel's TCP/IP principle became a design philosophy. The tension: liberality enables interoperability but also enables Hyrum's Law to take hold."
+    },
+    {
+      "slug": "fallacies-of-distributed-computing",
+      "name": "Fallacies of Distributed Computing",
+      "kind": "conceptual-metaphor",
+      "source_frame": "intellectual-inquiry",
+      "target_frame": "software-architecture",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Eight false assumptions developers make about networks: reliability, zero latency, infinite bandwidth, security, stable topology, single admin, zero transport cost, homogeneity. Each fallacy is a mental model that breaks under distributed-system reality. The structural insight: local reasoning fails at scale."
+    },
+    {
+      "slug": "jevons-paradox",
+      "name": "Jevons' Paradox",
+      "kind": "cross-field-mapping",
+      "source_frame": "economics",
+      "target_frame": "technology-adoption",
+      "categories": ["systems-thinking", "software-engineering"],
+      "source": "archive",
+      "description": "Efficiency improvements increase total resource consumption, not decrease it. William Stanley Jevons observed this for coal in 1865; it applies to CPU cycles, bandwidth, storage, and developer time. The paradox: saving resources makes them cheaper, which makes them more attractive to consume."
+    },
+    {
+      "slug": "parkinsons-law",
+      "name": "Parkinson's Law",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "organizational-behavior",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Work expands to fill the time available. Maps gas expansion (filling any container) onto project scheduling and bureaucratic growth. Cyril Northcote Parkinson's 1955 observation from British civil service. The container metaphor: deadlines are the walls, and work is the gas."
+    },
+    {
+      "slug": "kernighans-law",
+      "name": "Kernighan's Law",
+      "kind": "conceptual-metaphor",
+      "source_frame": "intellectual-inquiry",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Debugging is twice as hard as writing code, so if you write code at the limit of your cleverness, you are by definition not smart enough to debug it. The self-trap metaphor: your present cleverness creates a prison your future self cannot escape. An argument for simplicity derived from cognitive limits."
+    },
+    {
+      "slug": "amaras-law",
+      "name": "Amara's Law (Hype Cycle)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "perception",
+      "target_frame": "technology-adoption",
+      "categories": ["systems-thinking", "software-engineering"],
+      "source": "archive",
+      "description": "We overestimate technology's short-term impact and underestimate its long-term impact. Maps perceptual distortion (temporal foreshortening and extension) onto technology assessment. Gartner's Hype Cycle visualizes the emotional arc: peak of inflated expectations, trough of disillusionment, plateau of productivity."
+    },
+    {
+      "slug": "dunning-kruger-effect",
+      "name": "Dunning-Kruger Effect",
+      "kind": "cross-field-mapping",
+      "source_frame": "psychology",
+      "target_frame": "decision-making",
+      "categories": ["cognitive-science", "organizational-behavior"],
+      "source": "archive",
+      "description": "The skills needed to recognize competence are the same skills needed to be competent. Maps metacognitive blind spots onto expertise assessment. In software: the less someone understands a domain, the simpler they think it is. The structural insight is recursive: you need competence to evaluate competence."
+    }
+  ]
+}

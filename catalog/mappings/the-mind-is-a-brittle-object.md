@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: The Mind Is A Brittle Object
@@ -14,7 +14,6 @@ related:
 slug: the-mind-is-a-brittle-object
 source_frame: embodied-experience
 target_frame: mental-experience
-updated: '2026-03-10'
 ---
 
 ## What It Brings

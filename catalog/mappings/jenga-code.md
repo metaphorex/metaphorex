@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Jenga Code
@@ -14,7 +14,6 @@ related:
 slug: jenga-code
 source_frame: puzzles-and-games
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

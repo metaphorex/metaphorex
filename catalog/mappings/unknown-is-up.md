@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Unknown Is Up; Known Is Down
@@ -16,7 +16,6 @@ related:
 slug: unknown-is-up
 source_frame: embodied-experience
 target_frame: intellectual-inquiry
-updated: '2026-03-11'
 ---
 
 ## What It Brings

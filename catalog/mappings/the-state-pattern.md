@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: dead-metaphor
 name: The State Pattern
 related:
@@ -12,7 +12,6 @@ related:
 slug: the-state-pattern
 source_frame: governance
 target_frame: object-oriented-design
-updated: '2026-03-10'
 ---
 
 ## What It Brings

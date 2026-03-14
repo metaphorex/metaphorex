@@ -4,8 +4,9 @@ categories:
 - cognitive-science
 - linguistics
 - psychology
-contributors: []
-created: '2026-03-11'
+- physics-and-engineering
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Psychological Forces Are Physical Forces
@@ -16,7 +17,6 @@ related:
 slug: psychological-forces-are-physical-forces
 source_frame: embodied-experience
 target_frame: mental-experience
-updated: '2026-03-11'
 ---
 
 ## What It Brings

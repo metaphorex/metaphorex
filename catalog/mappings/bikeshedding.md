@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - organizational-behavior
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Bikeshedding
@@ -13,7 +13,6 @@ related:
 slug: bikeshedding
 source_frame: architecture-and-building
 target_frame: collaborative-work
-updated: '2026-03-11'
 ---
 
 ## What It Brings

@@ -4,8 +4,9 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-11'
+- ethics-and-morality
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Virtue Is Up; Depravity Is Down
@@ -16,7 +17,6 @@ related:
 slug: virtue-is-up
 source_frame: embodied-experience
 target_frame: social-behavior
-updated: '2026-03-11'
 ---
 
 ## What It Brings

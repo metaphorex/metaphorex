@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Life Is a Container
@@ -14,7 +14,6 @@ related:
 slug: life-is-a-container
 source_frame: containers
 target_frame: life-course
-updated: '2026-03-11'
 ---
 
 ## What It Brings

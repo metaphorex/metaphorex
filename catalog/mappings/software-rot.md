@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - systems-thinking
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Software Rot
@@ -13,7 +13,6 @@ related:
 slug: software-rot
 source_frame: embodied-experience
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

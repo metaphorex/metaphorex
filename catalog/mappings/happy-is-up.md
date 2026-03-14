@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: Happy Is Up; Sad Is Down
 related:
@@ -13,7 +13,6 @@ related:
 slug: happy-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
-updated: '2026-03-10'
 ---
 
 ## What It Brings

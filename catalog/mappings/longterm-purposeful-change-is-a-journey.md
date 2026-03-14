@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Long-Term Purposeful Change Is a Journey
@@ -19,7 +19,6 @@ related:
 slug: longterm-purposeful-change-is-a-journey
 source_frame: journeys
 target_frame: event-structure
-updated: '2026-03-11'
 ---
 
 ## What It Brings

@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Communication Is Sending
@@ -14,7 +14,6 @@ related:
 slug: communication-is-sending
 source_frame: containers
 target_frame: communication
-updated: '2026-03-11'
 ---
 
 ## What It Brings

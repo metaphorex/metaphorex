@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Activities Are Containers
@@ -13,7 +13,6 @@ related:
 slug: activities-are-containers
 source_frame: containers
 target_frame: event-structure
-updated: '2026-03-11'
 ---
 
 ## What It Brings

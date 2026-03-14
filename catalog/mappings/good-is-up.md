@@ -4,8 +4,9 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-11'
+- ethics-and-morality
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Good Is Up; Bad Is Down
@@ -17,7 +18,6 @@ related:
 slug: good-is-up
 source_frame: embodied-experience
 target_frame: embodied-experience
-updated: '2026-03-11'
 ---
 
 ## What It Brings

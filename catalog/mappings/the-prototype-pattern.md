@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 kind: archetype
 name: The Prototype Pattern
 related:
@@ -13,7 +13,6 @@ related:
 slug: the-prototype-pattern
 source_frame: manufacturing
 target_frame: object-oriented-design
-updated: '2026-03-11'
 ---
 
 ## What It Brings

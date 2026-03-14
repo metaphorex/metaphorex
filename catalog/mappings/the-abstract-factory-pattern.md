@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 kind: archetype
 name: The Abstract Factory Pattern
 related:
@@ -12,7 +12,6 @@ related:
 slug: the-abstract-factory-pattern
 source_frame: manufacturing
 target_frame: object-oriented-design
-updated: '2026-03-11'
 ---
 
 ## What It Brings

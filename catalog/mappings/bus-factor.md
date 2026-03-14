@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - organizational-behavior
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Bus Factor
@@ -14,7 +14,6 @@ related:
 slug: bus-factor
 source_frame: embodied-experience
 target_frame: shared-resources
-updated: '2026-03-11'
 ---
 
 ## What It Brings

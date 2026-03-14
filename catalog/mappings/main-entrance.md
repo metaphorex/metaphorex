@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Main Entrance
@@ -13,7 +13,6 @@ related:
 slug: main-entrance
 source_frame: architecture-and-building
 target_frame: software-abstraction
-updated: '2026-03-10'
 ---
 
 ## What It Brings

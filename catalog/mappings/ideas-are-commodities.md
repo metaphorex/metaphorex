@@ -3,8 +3,9 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+- economics-and-finance
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Commodities
@@ -16,7 +17,6 @@ related:
 slug: ideas-are-commodities
 source_frame: economics
 target_frame: intellectual-inquiry
-updated: '2026-03-11'
 ---
 
 ## What It Brings

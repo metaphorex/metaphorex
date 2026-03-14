@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Seeing Is Touching
@@ -15,7 +15,6 @@ related:
 slug: seeing-is-touching
 source_frame: embodied-experience
 target_frame: vision
-updated: '2026-03-11'
 ---
 
 ## What It Brings

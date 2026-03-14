@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - social-dynamics
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: Love Is War
 related:
@@ -15,7 +15,6 @@ related:
 slug: love-is-war
 source_frame: war
 target_frame: love-and-relationships
-updated: '2026-03-10'
 ---
 
 ## What It Brings

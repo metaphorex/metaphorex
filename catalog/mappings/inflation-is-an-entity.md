@@ -3,8 +3,9 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+- economics-and-finance
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Inflation Is an Entity
@@ -14,7 +15,6 @@ related:
 slug: inflation-is-an-entity
 source_frame: embodied-experience
 target_frame: economics
-updated: '2026-03-11'
 ---
 
 ## What It Brings

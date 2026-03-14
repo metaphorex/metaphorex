@@ -4,8 +4,9 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-11'
+- physics-and-engineering
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Obligations Are Forces
@@ -15,7 +16,6 @@ related:
 slug: obligations-are-forces
 source_frame: embodied-experience
 target_frame: event-structure
-updated: '2026-03-11'
 ---
 
 ## What It Brings

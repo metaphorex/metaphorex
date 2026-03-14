@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - organizational-behavior
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: paradigm
 name: Pattern Language as Shared Vocabulary
@@ -14,7 +14,6 @@ related:
 slug: pattern-language-as-shared-vocabulary
 source_frame: social-behavior
 target_frame: collaborative-work
-updated: '2026-03-10'
 ---
 
 ## What It Brings

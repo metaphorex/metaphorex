@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Spaghetti Code
@@ -13,7 +13,6 @@ related:
 slug: spaghetti-code
 source_frame: food-and-cooking
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings

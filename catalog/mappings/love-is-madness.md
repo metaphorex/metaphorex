@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - psychology
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: conceptual-metaphor
 name: Love Is Madness
 related:
@@ -14,7 +14,6 @@ related:
 slug: love-is-madness
 source_frame: embodied-experience
 target_frame: love-and-relationships
-updated: '2026-03-10'
 ---
 
 ## What It Brings

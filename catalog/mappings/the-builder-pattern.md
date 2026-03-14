@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: archetype
 name: The Builder Pattern
@@ -14,7 +14,6 @@ related:
 slug: the-builder-pattern
 source_frame: architecture-and-building
 target_frame: object-oriented-design
-updated: '2026-03-11'
 ---
 
 ## What It Brings

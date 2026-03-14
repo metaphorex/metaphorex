@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Finished Is Up
@@ -15,7 +15,6 @@ related:
 slug: finished-is-up
 source_frame: embodied-experience
 target_frame: time-and-temporality
-updated: '2026-03-11'
 ---
 
 ## What It Brings

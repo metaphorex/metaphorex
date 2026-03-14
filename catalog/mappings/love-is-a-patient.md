@@ -3,8 +3,9 @@ author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
-contributors: []
-created: '2026-03-11'
+- health-and-medicine
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: Love Is a Patient
@@ -14,7 +15,6 @@ related:
 slug: love-is-a-patient
 source_frame: medicine
 target_frame: love-and-relationships
-updated: '2026-03-11'
 ---
 
 ## What It Brings

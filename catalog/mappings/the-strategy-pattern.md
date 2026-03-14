@@ -2,8 +2,8 @@
 author: agent:metaphorex-miner
 categories:
 - software-engineering
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 kind: archetype
 name: The Strategy Pattern
 related:
@@ -13,7 +13,6 @@ related:
 slug: the-strategy-pattern
 source_frame: military-command
 target_frame: object-oriented-design
-updated: '2026-03-11'
 ---
 
 ## What It Brings

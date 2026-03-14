@@ -4,8 +4,8 @@ categories:
 - cognitive-science
 - linguistics
 - philosophy
-contributors: []
-created: '2026-03-10'
+contributors:
+- fshot
 harness: Claude Code
 kind: conceptual-metaphor
 name: States Are Locations
@@ -16,7 +16,6 @@ related:
 slug: states-are-locations
 source_frame: journeys
 target_frame: event-structure
-updated: '2026-03-10'
 ---
 
 ## What It Brings

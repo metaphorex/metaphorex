@@ -3,8 +3,8 @@ author: agent:metaphorex-miner
 categories:
 - software-engineering
 - organizational-behavior
-contributors: []
-created: '2026-03-11'
+contributors:
+- fshot
 harness: Claude Code
 kind: dead-metaphor
 name: Dogfooding
@@ -12,7 +12,6 @@ related: []
 slug: dogfooding
 source_frame: animal-husbandry
 target_frame: software-programs
-updated: '2026-03-11'
 ---
 
 ## What It Brings
