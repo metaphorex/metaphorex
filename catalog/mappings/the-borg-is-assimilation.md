@@ -1,7 +1,7 @@
 ---
 slug: the-borg-is-assimilation
 name: "The Borg Is Assimilation"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: collective-assimilation
 target_frame: social-behavior
 categories:
