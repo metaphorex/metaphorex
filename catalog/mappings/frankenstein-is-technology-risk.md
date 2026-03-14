@@ -1,8 +1,8 @@
 ---
 slug: frankenstein-is-technology-risk
 name: "Frankenstein Is Technology Risk"
-kind: dead-metaphor
-source_frame: dystopian-fiction
+kind: conceptual-metaphor
+source_frame: frankenstein-narrative
 target_frame: technology-risk
 categories:
   - ethics-and-morality
