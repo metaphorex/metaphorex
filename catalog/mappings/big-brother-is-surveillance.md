@@ -1,7 +1,7 @@
 ---
 slug: big-brother-is-surveillance
 name: "Big Brother Is Surveillance"
-kind: dead-metaphor
+kind: conceptual-metaphor
 source_frame: dystopian-fiction
 target_frame: surveillance
 categories:
