@@ -1,0 +1,71 @@
+name: Validate catalog
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Run validator
+        id: validate
+        run: |
+          set +e
+          output=$(uv run scripts/validate.py validate 2>&1)
+          exit_code=$?
+          echo "$output"
+
+          # Save output for the comment step
+          {
+            echo "OUTPUT<<VALIDATE_EOF"
+            echo "$output"
+            echo "VALIDATE_EOF"
+          } >> "$GITHUB_OUTPUT"
+
+          echo "exit_code=$exit_code" >> "$GITHUB_OUTPUT"
+          exit $exit_code
+
+      - name: Post warnings as PR comment
+        if: always() && steps.validate.outputs.OUTPUT != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const output = `${{ steps.validate.outputs.OUTPUT }}`;
+            // Only comment if there are warnings
+            if (!output.includes('warning(s)')) return;
+
+            const body = `### Validator warnings\n\n\`\`\`\n${output}\n\`\`\``;
+
+            // Find and update existing comment, or create a new one
+            const marker = '### Validator warnings';
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            const existing = comments.find(c => c.body.startsWith(marker));
+
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }
