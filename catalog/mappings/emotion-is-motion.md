@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Emotion Is Motion
+provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person
 - emotional-stability-is-balance

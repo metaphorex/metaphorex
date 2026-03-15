@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Getting Is Eating
+provenance: osaka-master-metaphor-list
 related:
 - desire-is-hunger
 - ideas-are-food

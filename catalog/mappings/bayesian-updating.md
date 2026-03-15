@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Bayesian Updating
+provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory
 - survival-of-the-fittest

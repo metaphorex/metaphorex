@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Help Is Support
+provenance: osaka-master-metaphor-list
 related:
 - difficulties-are-burdens
 - difficulties-are-impediments-to-motion

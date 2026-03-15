@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Virtue Is Up; Depravity Is Down
+provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up
 - having-control-is-up

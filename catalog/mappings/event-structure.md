@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: paradigm
 name: Event Structure (Location Case)
+provenance: osaka-master-metaphor-list
 related:
 - states-are-locations
 - action-is-motion

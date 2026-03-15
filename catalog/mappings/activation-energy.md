@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Activation Energy
+provenance: munger-poor-charlies-almanack
 related:
 - leverage
 - the-map-is-not-the-territory

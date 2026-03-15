@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Nation Is a Family
+provenance: osaka-master-metaphor-list
 related:
 - nation-is-a-person
 - morality-is-accounting

@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Properties Are Possessions
+provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-objects
 - emotions-are-entities-within-a-person

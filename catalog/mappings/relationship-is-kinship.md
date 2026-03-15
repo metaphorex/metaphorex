@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Relationship Is Kinship
+provenance: osaka-master-metaphor-list
 related:
 - love-is-a-journey
 - emotional-stability-is-balance

@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Dangerous Beliefs Are Contagious Diseases
+provenance: osaka-master-metaphor-list
 related:
 - beliefs-are-beings-with-a-life-cycle
 - ideas-are-people

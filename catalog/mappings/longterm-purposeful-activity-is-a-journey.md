@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Long-Term Purposeful Activity Is a Journey
+provenance: osaka-master-metaphor-list
 related:
 - longterm-purposeful-change-is-a-journey
 - life-is-a-journey

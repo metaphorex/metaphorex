@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Emotional Stability Is Contact with the Ground
+provenance: osaka-master-metaphor-list
 related:
 - emotional-stability-is-balance
 - emotional-self-is-a-brittle-object

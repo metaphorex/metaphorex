@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Theories Are People
+provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings
 - theories-are-beings-with-life-cycles

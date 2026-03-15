@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Words Are Weapons
+provenance: osaka-master-metaphor-list
 related:
 - argument-is-war
 - treating-illness-is-fighting-a-war

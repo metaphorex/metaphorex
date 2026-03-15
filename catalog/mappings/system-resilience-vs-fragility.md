@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: System Resilience vs. Fragility
+provenance: munger-poor-charlies-almanack
 related:
 - redundancy
 slug: system-resilience-vs-fragility

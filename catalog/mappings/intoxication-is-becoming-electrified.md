@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Intoxication Is Becoming Electrified
+provenance: osaka-master-metaphor-list
 related:
 - intense-emotions-are-heat
 - emotions-are-forces

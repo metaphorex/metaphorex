@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Treating Illness Is Fighting a War
+provenance: osaka-master-metaphor-list
 related:
 - argument-is-war
 - competition-is-war

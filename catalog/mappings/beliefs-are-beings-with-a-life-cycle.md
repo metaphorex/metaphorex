@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Beliefs Are Beings with a Life Cycle
+provenance: osaka-master-metaphor-list
 related:
 - ideas-are-people
 - ideas-are-fashions

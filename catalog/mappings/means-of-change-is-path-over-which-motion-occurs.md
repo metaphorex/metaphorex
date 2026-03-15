@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Means of Change Is Path over Which Motion Occurs
+provenance: osaka-master-metaphor-list
 related:
 - change-is-motion
 - action-is-motion

@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Problem Is a Constructed Object
+provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings
 - a-problem-is-a-body-of-water

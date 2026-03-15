@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Shapes Are Containers
+provenance: osaka-master-metaphor-list
 related:
 - the-visual-field-is-a-container
 - the-visual-field-is-a-bounded-region

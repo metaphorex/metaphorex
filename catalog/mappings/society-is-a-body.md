@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Society Is a Body
+provenance: osaka-master-metaphor-list
 related:
 - people-are-machines
 - social-accounting

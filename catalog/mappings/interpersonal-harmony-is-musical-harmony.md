@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Interpersonal Harmony Is Musical Harmony
+provenance: osaka-master-metaphor-list
 related:
 - emotional-stability-is-balance
 - argument-is-dance

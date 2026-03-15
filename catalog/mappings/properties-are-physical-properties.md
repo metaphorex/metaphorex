@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Properties Are Physical Properties
+provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions
 - properties-are-contents

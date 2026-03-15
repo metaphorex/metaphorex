@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-07'
 kind: conceptual-metaphor
 name: Creative Process Is Construction
+provenance: eno-composers-as-gardeners
 related:
 - creative-process-is-gardening
 - creating-is-making

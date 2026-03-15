@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Template Method Pattern
+provenance: gang-of-four
 related:
 - the-strategy-pattern
 - the-factory-pattern

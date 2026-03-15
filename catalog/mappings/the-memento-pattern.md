@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Memento Pattern
+provenance: gang-of-four
 related:
 - the-command-pattern
 - the-state-pattern

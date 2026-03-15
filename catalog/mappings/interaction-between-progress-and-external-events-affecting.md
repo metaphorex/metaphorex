@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Interaction Between Progress and External Events Affecting
+provenance: osaka-master-metaphor-list
 related:
 - external-events-affecting-progress-are-forces-affecting
 - causes-are-forces

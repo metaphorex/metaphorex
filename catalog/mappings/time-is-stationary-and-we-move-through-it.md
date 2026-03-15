@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: Time Is Stationary and We Move Through It
+provenance: lakoff-johnson-mwlb
 related:
 - time-is-a-moving-object
 - life-is-a-journey

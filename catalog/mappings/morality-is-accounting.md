@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Morality Is Accounting
+provenance: osaka-master-metaphor-list
 related:
 - morality-is-purity
 - morality-is-cleanliness

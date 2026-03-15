@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Conducting Research Is Solving a Puzzle
+provenance: osaka-master-metaphor-list
 related:
 - ideas-are-objects
 - theories-are-buildings

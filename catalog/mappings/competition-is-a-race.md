@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Competition Is a Race
+provenance: osaka-master-metaphor-list
 related:
 - competition-is-1-on-1-physical-aggression
 - competition-is-competition-for-desired-objects

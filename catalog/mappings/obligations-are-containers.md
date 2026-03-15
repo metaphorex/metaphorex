@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Obligations Are Containers
+provenance: osaka-master-metaphor-list
 related:
 - obligations-are-forces
 - obligations-are-possessions

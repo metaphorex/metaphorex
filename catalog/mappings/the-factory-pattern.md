@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Factory Pattern
+provenance: gang-of-four
 related:
 - the-facade-pattern
 - data-flow-is-fluid-flow

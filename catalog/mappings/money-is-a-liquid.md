@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Money Is A Liquid
+provenance: osaka-master-metaphor-list
 related:
 - time-is-money
 - mental-accounting

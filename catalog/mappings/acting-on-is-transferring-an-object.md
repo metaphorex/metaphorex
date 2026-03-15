@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Acting On Is Transferring An Object
+provenance: osaka-master-metaphor-list
 related:
 - action-is-motion
 - properties-are-possessions

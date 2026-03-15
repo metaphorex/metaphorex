@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Objects
+provenance: lakoff-johnson-mwlb
 related:
 - the-conduit-metaphor
 - ideas-are-people

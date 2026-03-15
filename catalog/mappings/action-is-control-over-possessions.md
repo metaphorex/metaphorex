@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Action Is Control Over Possessions
+provenance: osaka-master-metaphor-list
 related:
 - action-is-motion
 - properties-are-possessions

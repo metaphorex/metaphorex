@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Economic Moats
+provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest
 slug: economic-moats

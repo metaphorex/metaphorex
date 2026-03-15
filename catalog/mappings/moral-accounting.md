@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Moral Accounting
+provenance: osaka-master-metaphor-list
 related:
 - mental-accounting
 - time-is-money

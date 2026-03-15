@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: Love Is Madness
+provenance: lakoff-johnson-mwlb
 related:
 - love-is-a-journey
 - love-is-a-unity

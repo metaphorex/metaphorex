@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: More Is Up; Less Is Down
+provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up
 - having-control-is-up

@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Finished Is Up
+provenance: lakoff-johnson-mwlb
 related:
 - foreseeable-future-is-up
 - more-is-up

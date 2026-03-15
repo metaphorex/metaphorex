@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Reciprocity
+provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest
 - social-proof

@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Life Is a Story
+provenance: osaka-master-metaphor-list
 related:
 - life-is-a-journey
 - death-is-departure

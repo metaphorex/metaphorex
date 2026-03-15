@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Time Is a Changer
+provenance: osaka-master-metaphor-list
 related:
 - time-is-money
 - time-is-a-pursuer

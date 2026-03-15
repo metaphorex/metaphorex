@@ -8,6 +8,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: dead-metaphor
 name: The Iterator Pattern
+provenance: gang-of-four
 related:
 - the-interpreter-pattern
 - data-flow-is-fluid-flow

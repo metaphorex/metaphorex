@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Seeing Is Touching
+provenance: lakoff-johnson-mwlb
 related:
 - understanding-is-seeing
 - the-visual-field-is-a-container

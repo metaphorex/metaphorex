@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-07'
 kind: paradigm
 name: Data Flow Is Fluid Flow
+provenance: mcilroy-pipes-memo
 related:
 - program-failure-is-bodily-failure
 - bottleneck

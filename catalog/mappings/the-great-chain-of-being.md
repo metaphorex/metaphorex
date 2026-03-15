@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: archetype
 name: The Great Chain of Being
+provenance: osaka-master-metaphor-list
 related: []
 slug: the-great-chain-of-being
 source_frame: ontological-hierarchy

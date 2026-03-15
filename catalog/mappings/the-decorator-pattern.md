@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Decorator Pattern
+provenance: gang-of-four
 related:
 - the-facade-pattern
 slug: the-decorator-pattern

@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: dead-metaphor
 name: Facts Are Points
+provenance: osaka-master-metaphor-list
 related:
 - ideas-are-objects
 - argument-is-a-building

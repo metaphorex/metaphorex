@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-10'
 kind: dead-metaphor
 name: The State Pattern
+provenance: gang-of-four
 related:
 - the-strategy-pattern
 - the-memento-pattern

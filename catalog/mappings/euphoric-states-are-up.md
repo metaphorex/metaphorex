@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Euphoric States Are Up
+provenance: osaka-master-metaphor-list
 related:
 - happy-is-up
 - emotions-are-locations

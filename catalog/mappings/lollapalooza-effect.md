@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: paradigm
 name: Lollapalooza Effect
+provenance: munger-poor-charlies-almanack
 related:
 - incentive-caused-bias
 - the-map-is-not-the-territory

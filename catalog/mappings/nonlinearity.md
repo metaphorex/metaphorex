@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Nonlinearity
+provenance: munger-poor-charlies-almanack
 related:
 - critical-mass
 - power-laws

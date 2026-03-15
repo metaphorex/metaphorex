@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Force Is a Substance Contained in Affecting Causes
+provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces
 - a-force-is-a-moving-object

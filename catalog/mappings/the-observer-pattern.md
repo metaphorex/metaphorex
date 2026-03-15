@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-07'
 kind: archetype
 name: The Observer Pattern
+provenance: gang-of-four
 related:
 - the-mediator-pattern
 - the-command-pattern

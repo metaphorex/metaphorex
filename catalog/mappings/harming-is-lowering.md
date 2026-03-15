@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Harming Is Lowering
+provenance: osaka-master-metaphor-list
 related:
 - good-is-up
 - happy-is-up

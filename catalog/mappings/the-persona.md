@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Persona
+provenance: jung-two-essays
 related:
 - the-trickster
 - the-shadow

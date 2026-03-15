@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Competition Is Competition for Desired Objects
+provenance: osaka-master-metaphor-list
 related:
 - competition-is-1-on-1-physical-aggression
 - competition-is-a-race

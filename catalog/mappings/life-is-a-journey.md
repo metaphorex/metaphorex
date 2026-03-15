@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Life Is a Journey
+provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up
 - argument-is-war

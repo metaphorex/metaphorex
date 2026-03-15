@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: External Events Affecting Progress Are Forces Affecting
+provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces
 - a-force-is-a-moving-object

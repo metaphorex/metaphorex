@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Information Asymmetry
+provenance: munger-poor-charlies-almanack
 related:
 - incentive-caused-bias
 - principal-agent-problem

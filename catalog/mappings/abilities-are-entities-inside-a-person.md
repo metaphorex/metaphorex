@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Abilities Are Entities Inside A Person
+provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person
 - properties-are-possessions

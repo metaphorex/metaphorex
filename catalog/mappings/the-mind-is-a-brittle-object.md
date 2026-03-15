@@ -9,6 +9,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: The Mind Is A Brittle Object
+provenance: lakoff-johnson-mwlb
 related:
 - the-mind-is-a-machine
 - happy-is-up

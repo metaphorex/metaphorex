@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: Time Is a Moving Object
+provenance: lakoff-johnson-mwlb
 related:
 - time-is-stationary-and-we-move-through-it
 - time-is-money

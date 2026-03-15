@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: The Mind Is a Body
+provenance: osaka-master-metaphor-list
 related:
 - the-mind-is-a-machine
 - the-mind-is-a-brittle-object

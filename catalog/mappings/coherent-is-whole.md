@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Coherent Is Whole
+provenance: osaka-master-metaphor-list
 related:
 - argument-is-a-building
 - theories-are-buildings

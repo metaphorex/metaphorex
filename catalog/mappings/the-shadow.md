@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Shadow
+provenance: jung-aion
 related:
 - the-trickster
 - the-self

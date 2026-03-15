@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Problems Are Puzzles
+provenance: lakoff-johnson-mwlb
 related: []
 slug: problems-are-puzzles
 source_frame: puzzles-and-games

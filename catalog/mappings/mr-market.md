@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: paradigm
 name: Mr. Market
+provenance: munger-poor-charlies-almanack
 related:
 - incentive-caused-bias
 - second-order-thinking

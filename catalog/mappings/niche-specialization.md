@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Niche Specialization
+provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest
 - red-queen-effect

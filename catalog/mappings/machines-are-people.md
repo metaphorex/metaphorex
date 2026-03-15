@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Machines Are People
+provenance: osaka-master-metaphor-list
 related:
 - people-are-machines
 - the-mind-is-a-machine

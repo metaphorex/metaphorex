@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Inflation Is an Entity
+provenance: lakoff-johnson-mwlb
 related:
 - time-is-money
 - ideas-are-objects

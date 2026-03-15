@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Life Is a Container
+provenance: lakoff-johnson-mwlb
 related:
 - life-is-a-journey
 slug: life-is-a-container

@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Intoxication Is Getting Destroyed
+provenance: osaka-master-metaphor-list
 related:
 - intoxication-is-getting-a-burden
 - intoxication-is-becoming-electrified

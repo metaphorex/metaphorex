@@ -8,6 +8,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: The Visual Field Is A Bounded Region
+provenance: lakoff-johnson-mwlb
 related:
 - the-visual-field-is-a-container
 - understanding-is-seeing

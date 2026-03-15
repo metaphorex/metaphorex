@@ -8,6 +8,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: Time Is a Limited Resource
+provenance: lakoff-johnson-mwlb
 related:
 - time-is-money
 slug: time-is-a-limited-resource

@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Emotional Self Is A Brittle Object
+provenance: osaka-master-metaphor-list
 related:
 - the-mind-is-a-brittle-object
 - effect-on-emotional-self-is-contact-with-physical-self

@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Significant Is Big
+provenance: lakoff-johnson-mwlb
 related:
 - more-is-up
 - ideas-are-objects

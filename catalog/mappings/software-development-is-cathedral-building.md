@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Software Development Is Cathedral Building
+provenance: raymond-cathedral-and-bazaar
 related:
 - survival-of-the-fittest
 slug: software-development-is-cathedral-building

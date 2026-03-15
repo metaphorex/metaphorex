@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Creating Is Birthing
+provenance: osaka-master-metaphor-list
 related:
 - creative-process-is-construction
 - creative-process-is-gardening

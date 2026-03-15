@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Harm Is Physical Injury
+provenance: osaka-master-metaphor-list
 related:
 - harm-is-being-in-a-harmful-location
 - harm-is-causing-functional-objects-to-be-nonfunctional

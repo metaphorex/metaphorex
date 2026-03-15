@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: paradigm
 name: Power Laws
+provenance: munger-poor-charlies-almanack
 related:
 - regression-to-the-mean
 - latticework-of-mental-models

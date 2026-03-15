@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Well-Being Is Wealth
+provenance: osaka-master-metaphor-list
 related:
 - time-is-money
 slug: well-being-is-wealth

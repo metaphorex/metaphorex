@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Effect on Emotional Self Is Contact with Physical Self
+provenance: osaka-master-metaphor-list
 related:
 - emotional-stability-is-balance
 - psychological-forces-are-physical-forces

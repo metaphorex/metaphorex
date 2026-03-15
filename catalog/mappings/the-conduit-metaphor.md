@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: paradigm
 name: The Conduit Metaphor
+provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-food
 - understanding-is-seeing

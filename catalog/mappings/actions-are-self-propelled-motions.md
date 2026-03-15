@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Actions Are Self-Propelled Motions
+provenance: osaka-master-metaphor-list
 related:
 - action-is-motion
 - self-initiated-change-of-state-is-self-propelled-motion

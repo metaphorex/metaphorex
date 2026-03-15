@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-11'
 kind: archetype
 name: The Abstract Factory Pattern
+provenance: gang-of-four
 related:
 - the-factory-pattern
 - the-prototype-pattern

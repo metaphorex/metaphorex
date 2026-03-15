@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Communication Is Linguistic Communication
+provenance: osaka-master-metaphor-list
 related:
 - the-conduit-metaphor
 - communication-is-sending

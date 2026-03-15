@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Communication Is Sending
+provenance: lakoff-johnson-mwlb
 related:
 - the-conduit-metaphor
 - ideas-are-objects

@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Unknown Is Up; Known Is Down
+provenance: lakoff-johnson-mwlb
 related:
 - rational-is-up
 - having-control-is-up

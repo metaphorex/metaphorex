@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Harm Is Being in a Harmful Location
+provenance: osaka-master-metaphor-list
 related:
 - states-are-locations
 - existence-is-a-location

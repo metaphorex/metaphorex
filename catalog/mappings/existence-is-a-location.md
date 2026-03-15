@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Existence Is A Location
+provenance: lakoff-johnson-mwlb
 related:
 - states-are-locations
 - action-is-motion

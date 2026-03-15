@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Hope Is a Beneficial Possession
+provenance: osaka-master-metaphor-list
 related:
 - action-is-control-over-possessions
 - harm-is-lacking-a-needed-possession

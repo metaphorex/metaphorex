@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Knowledge of Past Events Is an External Event Exerting Force On
+provenance: osaka-master-metaphor-list
 related:
 - a-force-is-a-moving-object
 - psychological-forces-are-physical-forces

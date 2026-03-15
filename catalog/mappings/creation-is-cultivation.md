@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Creation Is Cultivation
+provenance: osaka-master-metaphor-list
 related:
 - creative-process-is-gardening
 - creating-is-making

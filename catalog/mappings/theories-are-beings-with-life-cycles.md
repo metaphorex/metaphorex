@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Theories Are Beings with Life Cycles
+provenance: osaka-master-metaphor-list
 related:
 - beliefs-are-beings-with-a-life-cycle
 - theories-are-buildings

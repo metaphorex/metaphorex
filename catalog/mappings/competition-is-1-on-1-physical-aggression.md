@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Competition Is 1-on-1 Physical Aggression
+provenance: osaka-master-metaphor-list
 related:
 - argument-is-war
 - competition-is-a-race

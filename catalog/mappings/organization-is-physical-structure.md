@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Organization Is Physical Structure
+provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings
 - argument-is-a-building

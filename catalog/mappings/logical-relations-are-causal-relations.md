@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Logical Relations Are Causal Relations
+provenance: osaka-master-metaphor-list
 related:
 - psychological-forces-are-physical-forces
 - logic-is-gravity

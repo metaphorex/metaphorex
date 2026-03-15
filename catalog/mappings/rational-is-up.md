@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: Rational Is Up; Emotional Is Down
+provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up
 - having-control-is-up

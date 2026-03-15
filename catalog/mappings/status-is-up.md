@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Status Is Up; Lack Of Status Is Down
+provenance: lakoff-johnson-mwlb
 related:
 - having-control-is-up
 - good-is-up
