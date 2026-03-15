@@ -13,7 +13,7 @@ related:
 - scylla-and-charybdis
 slug: trojan-war
 source_frame: mythology
-target_frame: war
+target_frame: conflict-escalation
 updated: '2026-03-14'
 ---
 
@@ -121,10 +121,10 @@ archetype rather than a single metaphor.
   destructive conflict triggered by a seemingly minor cause
 - "Their Helen" -- identifying the specific small trigger of a large
   conflict, as in "the disputed patent was their Helen"
-- "A Pyrrhic victory" -- technically from a different war (Pyrrhus of
-  Epirus), but often associated with the Trojan War archetype because
-  the Greek "victory" at Troy was catastrophic for the victors, most
-  of whom died or suffered terribly on the journey home
+- "Beware of Greeks bearing gifts" -- from Virgil's *Aeneid* ("timeo
+  Danaos et dona ferentes"), Laocoon's warning about the Trojan Horse,
+  now used for any seemingly generous offer that conceals a threat or
+  ulterior motive
 - "Opening a Trojan front" -- initiating a conflict that will prove
   far more costly and prolonged than anticipated
 
