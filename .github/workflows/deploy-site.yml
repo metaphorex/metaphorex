@@ -9,6 +9,7 @@ on:
       - "docs/ops/**"
       - "docs/changelog/**"
       - "catalog/**"
+      - "site/**"
   workflow_dispatch: {}
 
 permissions:
