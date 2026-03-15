@@ -19,7 +19,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
-          files=$(gh pr diff "$PR_NUMBER" --name-only)
+          files=$(gh pr diff "$PR_NUMBER" --name-only --repo "$GITHUB_REPOSITORY")
           non_catalog=$(echo "$files" | grep -v '^catalog/' || true)
           if [ -n "$non_catalog" ]; then
             echo "PR touches non-catalog files — skipping auto-merge:"
@@ -35,5 +35,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
-          gh pr merge "$PR_NUMBER" --squash --auto
+          gh pr merge "$PR_NUMBER" --squash --auto --repo "$GITHUB_REPOSITORY"
           echo "Auto-merge enabled for PR #$PR_NUMBER"
