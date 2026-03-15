@@ -25,6 +25,12 @@ import requests
 
 BASE_URL = "https://mappingmetaphor.arts.gla.ac.uk/ajax/getJSON-table-drilldown.php"
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; Metaphorex/1.0; +https://metaphorex.org)",
+    "Referer": "https://mappingmetaphor.arts.gla.ac.uk/map-english/",
+    "Accept": "application/json",
+}
+
 # All 37 top-level categories in the Glasgow Mapping Metaphor database
 ALL_CATEGORIES = [
     # External World (1A-1Q)
@@ -73,7 +79,7 @@ def fetch_connections(subcat: str, strength: str = "strong") -> list[dict]:
     """Fetch connections for a subcategory from the Glasgow API."""
     params = {"subCat": subcat, "strength": strength}
     try:
-        resp = requests.get(BASE_URL, params=params, timeout=30)
+        resp = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=30)
         resp.raise_for_status()
         data = resp.json()
     except (requests.RequestException, ValueError) as e:

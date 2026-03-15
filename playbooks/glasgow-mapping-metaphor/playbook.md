@@ -42,6 +42,10 @@ Parameters:
 - `subCat`: subcategory code (e.g., `3C01` for "War and armed hostility")
 - `strength`: `strong`, `weak`, or `both`
 
+**Required headers** (API returns 403 without these):
+- `Referer: https://mappingmetaphor.arts.gla.ac.uk/map-english/`
+- `User-Agent: Mozilla/5.0 (compatible; Metaphorex/1.0; +https://metaphorex.org)`
+
 Returns JSON array of connection objects:
 ```json
 {
@@ -146,30 +150,35 @@ The manifest marks these. The Miner should:
 
 ### Glasgow Category -> Metaphorex Frame
 
-| Glasgow Category | Metaphorex Frame |
-|-----------------|-----------------|
-| 1A28 Atmosphere and weather | weather |
-| 1B01 Life | life-and-living |
-| 1C01 Health / 1C02 Ill-health | health-and-medicine |
-| 1E01 Animals | animal-behavior |
-| 1F01 Plants | plants |
-| 1G01 Food and eating | food-and-cooking |
-| 1I07 Sight | vision |
-| 1J03 Weight, heat and cold | heat / weight |
-| 1J08 Strength | physical-strength |
-| 1M01 Time | time-and-temporality |
-| 1N01 Movement | movement |
-| 2A07 Perception and cognition | cognition |
-| 2B03 Answer and argument | argumentation |
-| 2D01 Emotion | emotion |
-| 2D08 Love and friendship | love-and-desire |
-| 2E05 Decision-making | decision-making |
-| 3C01 War and armed hostility | war |
-| 3D01 Rule and government | authority |
-| 3F01 Morality | ethics-and-morality |
-| 3J01 Travel and travelling | travel |
-| 3L01 Trade and commerce | economics |
-| 3M07 Performance arts | performance |
+| Glasgow Category | Metaphorex Frame | Notes |
+|-----------------|-----------------|-------|
+| 1A28 Atmosphere and weather | weather | New frame |
+| 1B01 Life | life-course | Existing frame |
+| 1C01 Health / 1C02 Ill-health | medicine | Existing frame |
+| 1E01 Animals | animal-behavior | Existing frame |
+| 1F01 Plants | horticulture | Existing frame (covers plant growth) |
+| 1G01 Food and eating | food-and-cooking | Existing frame |
+| 1I07 Sight | vision | Existing frame |
+| 1I12 Perception and cognition | intellectual-inquiry | Existing frame |
+| 1J03 Weight, heat and cold | heat / weight | New frames |
+| 1J08 Strength | physical-strength | New frame |
+| 1M01 Time | time-and-temporality | Existing frame |
+| 1N01 Movement | movement | New frame |
+| 2A01 Mind | mental-experience | Existing frame |
+| 2A07 Perception and cognition | intellectual-inquiry | Existing frame |
+| 2A10 Cleverness | intelligence | New frame |
+| 2B03 Answer and argument | argumentation | Existing frame |
+| 2D01 Emotion | emotion | New frame |
+| 2D08 Love and friendship | love-and-relationships | Existing frame |
+| 2D17 Courage | courage | New frame |
+| 2E05 Decision-making | decision-making | Existing frame |
+| 3A10 Social conflict | social-behavior | Existing frame |
+| 3C01 War and armed hostility | war | Existing frame |
+| 3D01 Rule and government | authority-and-mentorship | Existing frame |
+| 3F01 Morality | ethics-and-morality | Existing frame |
+| 3J01 Travel and travelling | travel | Existing frame |
+| 3L01 Trade and commerce | economics | Existing frame |
+| 3M07 Performance arts | performance | New frame |
 
 ### Glasgow Fields -> Metaphorex Fields
 
@@ -203,9 +212,10 @@ The manifest marks these. The Miner should:
 
 ## Gotchas
 
-1. **The Glasgow API is undocumented.** It may change or disappear. The
-   scraping script should be run promptly after approval to capture data.
-   Consider saving raw JSON responses.
+1. **The Glasgow API is undocumented and requires browser-like headers.**
+   It returns 403 without `Referer` and `User-Agent` headers. The scraping
+   script includes these headers. If the API changes, save raw JSON responses
+   as a fallback.
 
 2. **Glasgow connections are bidirectional observations, not named metaphors.**
    "3C01 > 2B03" (War -> Argument) is the raw data; "ARGUMENT IS WAR" is
