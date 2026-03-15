@@ -119,49 +119,39 @@ def survey(repo: str) -> dict:
     miner_fix = [{"number": p["number"], "title": p["title"]} for p in collect(pr_miner_fix)]
     in_progress = [{"number": p["number"], "title": p["title"]} for p in collect(pr_in_progress)]
 
-    # Categorize issues using native sub-issue relationships:
-    # - No parent → top-level project issue
-    # - Has parent → sub-issue (mining candidate)
-    #
-    # Fallback: GitHub caps native sub-issues at 100. Orphaned sub-issues
-    # beyond that cap lack a `parent` field, so we also check the issue body
-    # for "Sub-issue of #N" and the title for "[project-name]" prefixes.
+    # Classify issues into parents (top-level projects) vs sub-issues.
+    # Uses GraphQL `parent` field for native sub-issue linkage, with
+    # body-text and title-prefix fallback for orphaned sub-issues
+    # (GitHub caps native sub-issues at 100 per parent).
     all_issues = fetch_all_issues(owner, name)
     parents = []
-    sub_issues = []
 
-    # First pass: identify parent issues (those with no native parent and
-    # no body-text evidence of being a sub-issue).
-    parent_numbers: set[int] = set()
+    # First pass: issues with no native parent are candidate parents.
     for issue in all_issues:
         if issue.get("parent") is None:
             parents.append(issue)
-            parent_numbers.add(issue["number"])
-        else:
-            sub_issues.append(issue)
 
     # Build title-prefix lookup from known parents: "[Project Name]" → parent#
     _sub_issue_of_re = re.compile(r"[Ss]ub-?issue of #(\d+)", re.IGNORECASE)
     _title_prefix_re = re.compile(r"^\[(.+?)\]")
     parent_title_prefixes: dict[str, int] = {}
+    parent_numbers: set[int] = {p["number"] for p in parents}
     for p in parents:
         m = _title_prefix_re.match(p["title"])
         if m:
             parent_title_prefixes[m.group(1).lower()] = p["number"]
 
-    # Second pass: re-classify orphans in the parents list that are actually
-    # sub-issues (body says "Sub-issue of #N" or title prefix matches a parent).
+    # Second pass: re-classify orphans that are actually sub-issues
+    # (body says "Sub-issue of #N" or title prefix matches a parent).
     reclassified: list[dict] = []
     for issue in list(parents):
         body = issue.get("body") or ""
         inferred_parent = None
 
-        # Check body for "Sub-issue of #N"
         m = _sub_issue_of_re.search(body)
         if m:
             inferred_parent = int(m.group(1))
 
-        # Check title prefix "[project-name]" against known parent titles
         if inferred_parent is None:
             tm = _title_prefix_re.match(issue["title"])
             if tm:
@@ -172,14 +162,11 @@ def survey(repo: str) -> dict:
                         inferred_parent = matched_parent
 
         if inferred_parent is not None:
-            # Reclassify: move from parents to sub_issues with synthetic parent
-            issue["parent"] = {"number": inferred_parent}
             reclassified.append(issue)
 
     for issue in reclassified:
         parents.remove(issue)
         parent_numbers.discard(issue["number"])
-        sub_issues.append(issue)
 
     # Categorize parent issues by pipeline stage:
     #   no labels         → needs_prospecting
@@ -203,7 +190,7 @@ def survey(repo: str) -> dict:
             needs_rework.append(entry)
         elif "surveyed" in label_names:
             prospected_projects.append(entry)
-        elif "in-progress" in label_names:
+        elif "needs-survey" in label_names or "in-progress" in label_names:
             needs_survey.append(entry)
         else:
             needs_prospecting.append(entry)
@@ -212,28 +199,69 @@ def survey(repo: str) -> dict:
     for bucket in (needs_rework, needs_prospecting, prospected_projects, needs_survey):
         bucket.sort(key=lambda x: (0 if x["priority"] == "high" else 1, x["number"]))
 
-    # Sub-issues without in-progress = unclaimed mining work
-    # Only include sub-issues whose parent project is surveyed (verified).
+    # Fetch sub-issues via REST for each surveyed project.
+    # The GraphQL `parent` field is capped at 100 sub-issues per parent,
+    # so we use the REST sub_issues endpoint which has no such limit.
     surveyed_parent_numbers = {p["number"] for p in prospected_projects}
-    unclaimed = []
-
-    # Build priority lookup from parent issues
     parent_priority = {
         p["number"]: p.get("priority", "normal") for p in prospected_projects
     }
 
-    for issue in sub_issues:
-        label_names = [l["name"] for l in issue.get("labels", {}).get("nodes", [])]
-        parent_num = issue.get("parent", {}).get("number") if issue.get("parent") else None
-        if "in-progress" not in label_names and parent_num in surveyed_parent_numbers:
-            unclaimed.append({
-                "number": issue["number"],
-                "title": issue["title"],
-                "priority": parent_priority.get(parent_num, "normal"),
-            })
+    # Also gather open PR numbers that reference issues (for stale detection)
+    pr_refs_proc = gh_query([
+        "pr", "list", "-R", repo, "--state", "open",
+        "--json", "number,body,title",
+        "--limit", "200",
+    ])
+    pr_data = collect(pr_refs_proc)
+    # Extract issue numbers referenced by open PRs (Closes #N, Fixes #N, etc.)
+    _closes_re = re.compile(r"(?:closes?|fixes?|resolves?)\s+#(\d+)", re.IGNORECASE)
+    referenced_by_pr: set[int] = set()
+    for pr in pr_data:
+        for field in (pr.get("body", ""), pr.get("title", "")):
+            referenced_by_pr.update(int(m) for m in _closes_re.findall(field or ""))
+
+    unclaimed = []
+    stale_in_progress = []
+
+    for parent_num in surveyed_parent_numbers:
+        result_rest = subprocess.run(
+            ["gh", "api", f"repos/{repo}/issues/{parent_num}/sub_issues?per_page=100",
+             "--paginate", "--jq", ".[]"],
+            capture_output=True, text=True,
+        )
+        if result_rest.returncode != 0:
+            continue
+        # Parse JSONL output (--jq .[] emits one object per line)
+        for line in result_rest.stdout.strip().split("\n"):
+            if not line.strip():
+                continue
+            try:
+                si = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if si.get("state") != "open":
+                continue
+            si_labels = [l["name"] for l in si.get("labels", [])]
+            si_num = si["number"]
+            priority = parent_priority.get(parent_num, "normal")
+            if "in-progress" not in si_labels:
+                unclaimed.append({
+                    "number": si_num,
+                    "title": si["title"],
+                    "priority": priority,
+                })
+            elif si_num not in referenced_by_pr:
+                # Stale claim: labeled in-progress but no open PR references it
+                stale_in_progress.append({
+                    "number": si_num,
+                    "title": si["title"],
+                    "priority": priority,
+                })
 
     # Sort unclaimed so children of priority:high parents come first
     unclaimed.sort(key=lambda x: (0 if x["priority"] == "high" else 1, x["number"]))
+    stale_in_progress.sort(key=lambda x: (0 if x["priority"] == "high" else 1, x["number"]))
 
     result = {
         "needs_smelting": smelting,
@@ -243,12 +271,14 @@ def survey(repo: str) -> dict:
         "needs_rework": needs_rework,
         "in_progress": in_progress,
         "unclaimed": unclaimed,
+        "stale_in_progress": stale_in_progress,
         "needs_prospecting": needs_prospecting,
         "prospected_projects": prospected_projects,
         "total_actionable": (
             len(smelting) + len(assay) + len(miner_fix)
             + len(needs_survey) + len(needs_rework)
-            + len(unclaimed) + len(needs_prospecting)
+            + len(unclaimed) + len(stale_in_progress)
+            + len(needs_prospecting)
         ),
     }
     return result
