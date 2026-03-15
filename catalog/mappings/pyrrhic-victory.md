@@ -12,7 +12,7 @@ related:
 - gordian-knot
 - damocles-sword
 slug: pyrrhic-victory
-source_frame: mythology
+source_frame: war
 target_frame: economics
 updated: '2026-03-14'
 ---
