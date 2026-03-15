@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Labor Is a Resource
+provenance: lakoff-johnson-mwlb
 related:
 - time-is-money
 - time-is-a-limited-resource

@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Possessing Is Holding
+provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions
 - action-is-control-over-possessions

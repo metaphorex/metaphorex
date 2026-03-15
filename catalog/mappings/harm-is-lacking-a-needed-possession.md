@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Harm Is Lacking a Needed Possession
+provenance: osaka-master-metaphor-list
 related:
 - harm-is-having-a-harmful-possession
 - harm-is-being-in-a-harmful-location

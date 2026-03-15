@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Plants
+provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-food
 - ideas-are-people

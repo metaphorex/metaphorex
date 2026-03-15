@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Hope Is Light
+provenance: osaka-master-metaphor-list
 related:
 - hope-is-a-child
 - hope-is-a-benefical-possession

@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Activities Are Containers
+provenance: lakoff-johnson-mwlb
 related:
 - states-are-locations
 slug: activities-are-containers

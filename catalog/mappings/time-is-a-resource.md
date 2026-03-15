@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Time Is a Resource
+provenance: osaka-master-metaphor-list
 related:
 - time-is-money
 - time-is-a-limited-resource

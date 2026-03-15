@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Similarity Is Closeness
+provenance: osaka-master-metaphor-list
 related:
 - categories-are-containers
 - emotional-intimacy-is-physical-closeness

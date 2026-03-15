@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Light Is A Fluid
+provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing
 - light-is-a-line

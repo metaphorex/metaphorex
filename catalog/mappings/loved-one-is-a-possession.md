@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Loved One Is A Possession
+provenance: osaka-master-metaphor-list
 related:
 - love-is-a-journey
 - love-is-madness

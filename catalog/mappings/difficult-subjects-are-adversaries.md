@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Difficult Subjects Are Adversaries
+provenance: osaka-master-metaphor-list
 related:
 - argument-is-war
 - conducting-research-is-solving-a-puzzle

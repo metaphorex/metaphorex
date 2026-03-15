@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: paradigm
 name: Regression to the Mean
+provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory
 - latticework-of-mental-models

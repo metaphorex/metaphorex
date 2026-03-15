@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Difficulties Are Impediments to Motion
+provenance: lakoff-johnson-mwlb
 related:
 - action-is-motion
 - change-is-motion

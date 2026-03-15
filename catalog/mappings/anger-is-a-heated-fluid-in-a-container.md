@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Anger Is a Heated Fluid in a Container
+provenance: osaka-master-metaphor-list
 related:
 - intense-emotions-are-heat
 - lust-is-heat

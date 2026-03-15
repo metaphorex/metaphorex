@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Morality Is Cleanliness
+provenance: osaka-master-metaphor-list
 related:
 - moral-accounting
 - disgust-is-nausea

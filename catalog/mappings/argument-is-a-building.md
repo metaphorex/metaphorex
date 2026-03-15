@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Argument Is a Building
+provenance: lakoff-johnson-mwlb
 related:
 - theories-are-buildings
 - argument-is-war

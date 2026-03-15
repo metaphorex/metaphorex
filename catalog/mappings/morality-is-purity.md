@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Morality Is Purity
+provenance: osaka-master-metaphor-list
 related:
 - morality-is-cleanliness
 - morality-is-straightness

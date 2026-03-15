@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: The Event Structure Metaphorical System
+provenance: osaka-master-metaphor-list
 related:
 - states-are-locations
 - change-is-motion

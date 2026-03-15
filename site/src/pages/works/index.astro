@@ -1,0 +1,24 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection } from "astro:content";
+
+const works = await getCollection("works");
+const sorted = [...works].sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+<Base title="Works" description="Source works from which Metaphorex mappings are extracted">
+  <h1>Works</h1>
+  <p>Source texts, collections, and repositories from which mappings are extracted.</p>
+
+  <ul class="entry-list" data-pagefind-body>
+    {sorted.map((w) => (
+      <li>
+        <a href={`/works/${w.data.slug}/`}>{w.data.name}</a>
+        <span class="muted">
+          {" "}&mdash; {w.data.authors.join(", ")} ({w.data.year})
+          <span class="tag">{w.data.type}</span>
+        </span>
+      </li>
+    ))}
+  </ul>
+</Base>

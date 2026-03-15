@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: archetype
 name: The Shapeshifter
+provenance: jung-archetypes-collective-unconscious
 related:
 - the-trickster
 slug: the-shapeshifter

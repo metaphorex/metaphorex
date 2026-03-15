@@ -6,6 +6,7 @@ contributors: []
 created: '2026-03-07'
 kind: archetype
 name: The Facade Pattern
+provenance: gang-of-four
 related:
 - firewall
 slug: the-facade-pattern

@@ -8,6 +8,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: Having Control Is Up; Being Subject To Control Is Down
+provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up
 - argument-is-war

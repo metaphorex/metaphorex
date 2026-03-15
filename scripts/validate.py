@@ -26,6 +26,7 @@ CATALOG_DIR = ROOT / "catalog"
 MAPPINGS_DIR = CATALOG_DIR / "mappings"
 FRAMES_DIR = CATALOG_DIR / "frames"
 CATEGORIES_DIR = CATALOG_DIR / "categories"
+WORKS_DIR = CATALOG_DIR / "works"
 
 VALID_KINDS = {
     "conceptual-metaphor",
@@ -37,6 +38,9 @@ VALID_KINDS = {
 REQUIRED_MAPPING_FIELDS = {"slug", "name", "kind", "source_frame", "target_frame", "categories", "author", "created", "updated"}
 REQUIRED_FRAME_FIELDS = {"slug", "name", "roles", "created", "updated"}
 REQUIRED_CATEGORY_FIELDS = {"slug", "name", "created", "updated"}
+REQUIRED_WORK_FIELDS = {"slug", "name", "type", "authors", "year", "created", "updated"}
+
+VALID_WORK_TYPES = {"book", "paper", "collection", "repository", "talk", "post"}
 
 REQUIRED_MAPPING_SECTIONS = {"What It Brings", "Where It Breaks", "Expressions"}
 
@@ -83,8 +87,29 @@ def parse_sections(content: str) -> dict[str, str]:
     return sections
 
 
+def validate_work(path: Path, work_slugs: set[str], errors: list[str], warnings: list[str]) -> None:
+    post = frontmatter.load(path)
+    meta = post.metadata
+    prefix = f"catalog/works/{path.name}"
+
+    for field in REQUIRED_WORK_FIELDS:
+        if field not in meta:
+            errors.append(f"{prefix}: missing required field '{field}'")
+
+    if "slug" in meta and meta["slug"] != path.stem:
+        errors.append(f"{prefix}: slug '{meta['slug']}' doesn't match filename '{path.stem}'")
+
+    if "type" in meta and meta["type"] not in VALID_WORK_TYPES:
+        errors.append(f"{prefix}: invalid type '{meta['type']}' (valid: {', '.join(sorted(VALID_WORK_TYPES))})")
+
+    for rel in meta.get("related", []):
+        if rel not in work_slugs:
+            warnings.append(f"{prefix}: related work '{rel}' not found in works/")
+
+
 def validate_mapping(path: Path, frame_slugs: set[str], category_slugs: set[str],
-                     mapping_slugs: set[str], errors: list[str], warnings: list[str]) -> None:
+                     mapping_slugs: set[str], work_slugs: set[str],
+                     errors: list[str], warnings: list[str]) -> None:
     post = frontmatter.load(path)
     meta = post.metadata
     prefix = f"catalog/mappings/{path.name}"
@@ -112,6 +137,10 @@ def validate_mapping(path: Path, frame_slugs: set[str], category_slugs: set[str]
     for cat in meta.get("categories", []):
         if cat not in category_slugs:
             errors.append(f"{prefix}: category '{cat}' not found in categories/")
+
+    # Provenance reference (hard fail if set but not found)
+    if "provenance" in meta and meta["provenance"] not in work_slugs:
+        errors.append(f"{prefix}: provenance '{meta['provenance']}' not found in works/")
 
     # Related references (warnings, not errors — graph grows outward)
     for rel in meta.get("related", []):
@@ -173,14 +202,19 @@ def validate(target: str | None = None) -> tuple[list[str], list[str]]:
     frame_slugs = slugs_in(FRAMES_DIR)
     category_slugs = slugs_in(CATEGORIES_DIR)
     mapping_slugs = slugs_in(MAPPINGS_DIR)
+    work_slugs = slugs_in(WORKS_DIR) if WORKS_DIR.exists() else set()
     errors: list[str] = []
     warnings: list[str] = []
 
-    dirs_to_check = {"mappings", "frames", "categories"}
+    dirs_to_check = {"mappings", "frames", "categories", "works"}
     if target:
         # Accept both "mappings" and "catalog/mappings"
         normalized = target.rstrip("/").removeprefix("catalog/")
         dirs_to_check = {normalized}
+
+    if "works" in dirs_to_check and WORKS_DIR.exists():
+        for f in sorted(WORKS_DIR.glob("*.md")):
+            validate_work(f, work_slugs, errors, warnings)
 
     if "frames" in dirs_to_check:
         for f in sorted(FRAMES_DIR.glob("*.md")):
@@ -192,7 +226,7 @@ def validate(target: str | None = None) -> tuple[list[str], list[str]]:
 
     if "mappings" in dirs_to_check:
         for f in sorted(MAPPINGS_DIR.glob("*.md")):
-            validate_mapping(f, frame_slugs, category_slugs, mapping_slugs, errors, warnings)
+            validate_mapping(f, frame_slugs, category_slugs, mapping_slugs, work_slugs, errors, warnings)
 
     return errors, warnings
 

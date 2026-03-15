@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-11'
 kind: conceptual-metaphor
 name: People Are Machines
+provenance: lakoff-johnson-mwlb
 related:
 - the-mind-is-a-machine
 - the-mind-is-a-brittle-object

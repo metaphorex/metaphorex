@@ -9,6 +9,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Light on Two Sides
+provenance: alexander-pattern-language
 related:
 - creative-process-is-construction
 - the-facade-pattern

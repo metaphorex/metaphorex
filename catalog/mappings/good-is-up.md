@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Good Is Up; Bad Is Down
+provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up
 - more-is-up

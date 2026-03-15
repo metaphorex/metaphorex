@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Culture as a Control System
+provenance: munger-poor-charlies-almanack
 related:
 - redundancy
 - system-resilience-vs-fragility

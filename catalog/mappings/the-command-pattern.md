@@ -8,6 +8,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Command Pattern
+provenance: gang-of-four
 related:
 - the-chain-of-responsibility-pattern
 - the-mediator-pattern

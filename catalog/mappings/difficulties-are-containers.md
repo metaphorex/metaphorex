@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Difficulties Are Containers
+provenance: osaka-master-metaphor-list
 related:
 - activities-are-containers
 - difficulties-are-impediments-to-motion

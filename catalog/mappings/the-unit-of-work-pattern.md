@@ -8,6 +8,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Unit of Work Pattern
+provenance: fowler-peaa
 related:
 - the-factory-pattern
 - the-command-pattern

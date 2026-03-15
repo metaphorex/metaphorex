@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Opportunities Are Open Paths
+provenance: osaka-master-metaphor-list
 related:
 - opportunities-are-objects
 - purposes-are-destinations

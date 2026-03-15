@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Investments Are Containers For Money
+provenance: osaka-master-metaphor-list
 related:
 - activities-are-containers
 - time-is-money

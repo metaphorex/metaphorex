@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-11'
 kind: archetype
 name: The Composite Pattern
+provenance: gang-of-four
 related:
 - the-facade-pattern
 - the-decorator-pattern

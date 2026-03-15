@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Intimacy Is Closeness
+provenance: osaka-master-metaphor-list
 related:
 - love-is-a-journey
 - love-is-a-physical-force

@@ -21,6 +21,11 @@ const allMappings = await getCollection("mappings");
 const related = entry.data.related
   .map((slug: string) => allMappings.find((m) => m.data.slug === slug))
   .filter(Boolean);
+
+const allWorks = await getCollection("works");
+const provenanceWork = entry.data.provenance
+  ? allWorks.find((w) => w.data.slug === entry.data.provenance)
+  : null;
 ---
 
 <Base title={entry.data.name} description={`${entry.data.name}: ${entry.data.source_frame} → ${entry.data.target_frame}`}>
@@ -43,6 +48,12 @@ const related = entry.data.related
         <a href={`/categories/${c}/`} class="tag">{c}</a>
       ))}
     </p>
+
+    {provenanceWork && (
+      <p class="muted">
+        From: <a href={`/works/${provenanceWork.data.slug}/`}>{provenanceWork.data.name}</a>
+      </p>
+    )}
 
     <Content />
 

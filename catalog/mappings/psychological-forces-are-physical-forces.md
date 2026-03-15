@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Psychological Forces Are Physical Forces
+provenance: lakoff-johnson-mwlb
 related:
 - causes-are-forces
 - obligations-are-forces

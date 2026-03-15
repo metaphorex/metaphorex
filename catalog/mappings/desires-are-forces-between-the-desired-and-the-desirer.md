@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Desires Are Forces Between the Desired and the Desirer
+provenance: osaka-master-metaphor-list
 related:
 - desire-is-hunger
 - psychological-forces-are-physical-forces

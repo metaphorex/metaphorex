@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Critical Mass
+provenance: munger-poor-charlies-almanack
 related: []
 slug: critical-mass
 source_frame: physics

@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Conceit Is Inflation
+provenance: osaka-master-metaphor-list
 related:
 - more-is-up
 - good-is-up

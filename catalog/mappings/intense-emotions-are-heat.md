@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Intense Emotions Are Heat
+provenance: osaka-master-metaphor-list
 related:
 - fear-is-cold
 - emotions-are-forces

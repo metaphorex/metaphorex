@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Red Queen Effect
+provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest
 slug: red-queen-effect

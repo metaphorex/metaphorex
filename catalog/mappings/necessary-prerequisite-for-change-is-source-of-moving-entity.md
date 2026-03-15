@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Necessary Prerequisite for Change Is Source of Moving Entity
+provenance: osaka-master-metaphor-list
 related:
 - change-is-motion
 - states-are-locations

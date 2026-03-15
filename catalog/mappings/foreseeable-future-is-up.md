@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Foreseeable Future Events Are Up (and Ahead)
+provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up
 - more-is-up

@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Emotions Are Forces
+provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person
 - psychological-forces-are-physical-forces

@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Switching Costs
+provenance: munger-poor-charlies-almanack
 related:
 - creative-destruction
 - survival-of-the-fittest

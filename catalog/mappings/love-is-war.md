@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: Love Is War
+provenance: lakoff-johnson-mwlb
 related:
 - argument-is-war
 - love-is-a-journey

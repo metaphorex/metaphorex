@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Argument Is a Journey
+provenance: lakoff-johnson-mwlb
 related:
 - argument-is-war
 - argument-is-dance

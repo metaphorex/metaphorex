@@ -10,6 +10,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: Love Is a Physical Force
+provenance: lakoff-johnson-mwlb
 related:
 - love-is-a-journey
 - love-is-madness

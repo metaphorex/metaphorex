@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Logic Is Gravity
+provenance: osaka-master-metaphor-list
 related:
 - psychological-forces-are-physical-forces
 - ideas-are-perceptions

@@ -11,6 +11,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Resources
+provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-people
 - ideas-are-light-sources

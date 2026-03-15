@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: States Are Locations
+provenance: lakoff-johnson-mwlb
 related:
 - existence-is-a-location
 - action-is-motion

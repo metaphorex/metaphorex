@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: The Quality Without a Name
+provenance: alexander-pattern-language
 related:
 - software-development-is-cathedral-building
 - pattern-language-as-shared-vocabulary

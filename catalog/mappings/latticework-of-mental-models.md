@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Latticework of Mental Models
+provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory
 - golden-hammer

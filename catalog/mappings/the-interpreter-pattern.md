@@ -9,6 +9,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Interpreter Pattern
+provenance: gang-of-four
 related:
 - the-iterator-pattern
 - the-command-pattern

@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Self-Initiated Change Of State Is Self-Propelled Motion
+provenance: osaka-master-metaphor-list
 related:
 - change-is-motion
 - action-is-motion

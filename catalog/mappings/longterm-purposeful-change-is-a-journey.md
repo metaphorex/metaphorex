@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Long-Term Purposeful Change Is a Journey
+provenance: lakoff-johnson-mwlb
 related:
 - life-is-a-journey
 - love-is-a-journey

@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Comparison of Properties Is Comparison of Possessions
+provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions
 - comparison-of-properties-is-comparison-of-physical-properties

@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Emotional Stability Is Balance
+provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up
 - having-control-is-up

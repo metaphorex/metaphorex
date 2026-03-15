@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Effects of Humor Are Injuries
+provenance: osaka-master-metaphor-list
 related:
 - effect-on-emotional-self-is-contact-with-physical-self
 - the-mind-is-a-brittle-object

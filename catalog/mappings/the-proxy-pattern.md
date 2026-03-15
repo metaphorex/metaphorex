@@ -8,6 +8,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: archetype
 name: The Proxy Pattern
+provenance: gang-of-four
 related:
 - the-facade-pattern
 - the-decorator-pattern

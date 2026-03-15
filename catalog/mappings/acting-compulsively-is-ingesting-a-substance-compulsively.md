@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Acting Compulsively Is Ingesting A Substance Compulsively
+provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person
 slug: acting-compulsively-is-ingesting-a-substance-compulsively

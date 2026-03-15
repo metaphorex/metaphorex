@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Categories Are Containers
+provenance: osaka-master-metaphor-list
 related:
 - activities-are-containers
 - shapes-are-containers

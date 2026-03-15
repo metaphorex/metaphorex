@@ -9,6 +9,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: The Mind Is A Machine
+provenance: lakoff-johnson-mwlb
 related:
 - the-mind-is-a-brittle-object
 - people-are-machines

@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Lustful Person Is an Activated Machine
+provenance: osaka-master-metaphor-list
 related:
 - people-are-machines
 - the-mind-is-a-machine

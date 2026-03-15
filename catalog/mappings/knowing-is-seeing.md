@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Knowing Is Seeing
+provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing
 - seeing-is-touching

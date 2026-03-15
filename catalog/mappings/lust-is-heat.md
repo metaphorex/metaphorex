@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Lust Is Heat
+provenance: osaka-master-metaphor-list
 related:
 - intense-emotions-are-heat
 - love-is-a-physical-force

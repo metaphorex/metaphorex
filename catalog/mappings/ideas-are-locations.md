@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-12'
 kind: conceptual-metaphor
 name: Ideas Are Locations
+provenance: osaka-master-metaphor-list
 related:
 - states-are-locations
 - existence-is-a-location

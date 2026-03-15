@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Theoretical Debate Is Competition
+provenance: osaka-master-metaphor-list
 related:
 - argument-is-war
 - theories-are-buildings

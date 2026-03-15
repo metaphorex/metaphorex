@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Gaining Physical Intimacy (Against Resistance) Is a Competition
+provenance: osaka-master-metaphor-list
 related:
 - love-is-war
 - love-is-a-physical-force

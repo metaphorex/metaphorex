@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: paradigm
 name: Man with a Hammer
+provenance: munger-poor-charlies-almanack
 related:
 - golden-hammer
 - the-map-is-not-the-territory

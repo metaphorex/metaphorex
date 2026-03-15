@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Force Is a Substance Directed at an Affected Party
+provenance: osaka-master-metaphor-list
 related:
 - a-force-is-a-moving-object
 - causes-are-forces

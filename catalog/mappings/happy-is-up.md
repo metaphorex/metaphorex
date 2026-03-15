@@ -8,6 +8,7 @@ contributors:
 created: '2026-03-10'
 kind: conceptual-metaphor
 name: Happy Is Up; Sad Is Down
+provenance: lakoff-johnson-mwlb
 related:
 - argument-is-war
 - understanding-is-seeing

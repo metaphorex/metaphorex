@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Personality Is Material
+provenance: osaka-master-metaphor-list
 related:
 - people-are-machines
 - the-mind-is-a-brittle-object

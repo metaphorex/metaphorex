@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Perception Is Shape Recognition
+provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing
 - seeing-is-touching

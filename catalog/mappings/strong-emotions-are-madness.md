@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Strong Emotions Are Madness
+provenance: osaka-master-metaphor-list
 related:
 - strong-emotion-is-blinding
 - intense-emotions-are-heat

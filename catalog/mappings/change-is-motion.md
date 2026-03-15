@@ -9,6 +9,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Change Is Motion
+provenance: lakoff-johnson-mwlb
 related:
 - action-is-motion
 - states-are-locations

@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Life Is a Gambling Game
+provenance: lakoff-johnson-mwlb
 related:
 - life-is-a-journey
 - time-is-a-limited-resource

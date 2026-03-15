@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: A Force Is a Moving Object
+provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces
 - psychological-forces-are-physical-forces

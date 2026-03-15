@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Intelligence Is a Light Source
+provenance: osaka-master-metaphor-list
 related:
 - ideas-are-light-sources
 - understanding-is-seeing

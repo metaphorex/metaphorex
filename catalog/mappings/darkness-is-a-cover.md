@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Darkness Is a Cover
+provenance: osaka-master-metaphor-list
 related:
 - darkness-is-a-solid
 - ideas-are-light-sources

@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Love Is a Collaborative Work of Art
+provenance: lakoff-johnson-mwlb
 related:
 - love-is-a-journey
 - love-is-a-unity

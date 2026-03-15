@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Purposes Are Desired Objects
+provenance: osaka-master-metaphor-list
 related:
 - purposes-are-destinations
 - action-is-motion

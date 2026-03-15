@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Fear Is Cold
+provenance: osaka-master-metaphor-list
 related:
 - emotions-are-forces
 - emotions-are-entities-within-a-person

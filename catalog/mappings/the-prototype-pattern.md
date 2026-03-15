@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-11'
 kind: archetype
 name: The Prototype Pattern
+provenance: gang-of-four
 related:
 - the-factory-pattern
 - the-abstract-factory-pattern

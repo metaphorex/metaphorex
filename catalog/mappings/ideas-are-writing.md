@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Ideas Are Writing
+provenance: osaka-master-metaphor-list
 related:
 - ideas-are-objects
 - ideas-are-people

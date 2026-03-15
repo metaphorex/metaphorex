@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Seeing Is Touching, Eyes Are Limbs
+provenance: osaka-master-metaphor-list
 related:
 - seeing-is-touching
 - understanding-is-seeing

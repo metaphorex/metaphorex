@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Understanding Is Grasping
+provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing
 - knowing-is-seeing

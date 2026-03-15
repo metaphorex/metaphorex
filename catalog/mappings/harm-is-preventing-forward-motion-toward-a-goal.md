@@ -8,6 +8,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Harm Is Preventing Forward Motion Toward a Goal
+provenance: osaka-master-metaphor-list
 related:
 - difficulties-are-impediments-to-motion
 - action-is-motion

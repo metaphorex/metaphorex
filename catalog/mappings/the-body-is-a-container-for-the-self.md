@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: The Body Is a Container for the Self
+provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person
 - activities-are-containers

@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Scenario Analysis
+provenance: munger-poor-charlies-almanack
 related:
 - bayesian-updating
 - falsification

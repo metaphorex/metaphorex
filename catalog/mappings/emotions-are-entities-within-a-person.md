@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Emotions Are Entities Within A Person
+provenance: lakoff-johnson-mwlb
 related:
 - emotional-stability-is-balance
 - ideas-are-people

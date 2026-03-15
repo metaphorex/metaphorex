@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Beliefs Are Possessions
+provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions
 - ideas-are-objects

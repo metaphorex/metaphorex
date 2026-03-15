@@ -22,6 +22,7 @@ const mappings = defineCollection({
     related: z.array(z.string()).default([]),
     deprecated: z.boolean().optional(),
     harness: z.string().optional(),
+    provenance: z.string().optional(),
     created: z.coerce.date(),
     updated: z.coerce.date(),
   }),
@@ -52,6 +53,21 @@ const categories = defineCollection({
   }),
 });
 
+const works = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "src/content/works" }),
+  schema: z.object({
+    slug: z.string(),
+    name: z.string(),
+    type: z.enum(["book", "paper", "collection", "repository", "talk", "post"]),
+    authors: z.array(z.string()),
+    year: z.number(),
+    url: z.string().default(""),
+    related: z.array(z.string()).default([]),
+    created: z.coerce.date(),
+    updated: z.coerce.date(),
+  }),
+});
+
 const changelog = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "../docs/changelog" }),
   schema: z.object({
@@ -69,4 +85,4 @@ const ops = defineCollection({
   }),
 });
 
-export const collections = { mappings, frames, categories, changelog, ops };
+export const collections = { mappings, frames, categories, works, changelog, ops };

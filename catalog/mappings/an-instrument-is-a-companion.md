@@ -9,6 +9,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: conceptual-metaphor
 name: An Instrument Is a Companion
+provenance: lakoff-johnson-mwlb
 related:
 - the-mind-is-a-machine
 slug: an-instrument-is-a-companion

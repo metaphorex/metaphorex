@@ -8,6 +8,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Gateway Pattern
+provenance: fowler-peaa
 related:
 - the-facade-pattern
 - the-repository-pattern

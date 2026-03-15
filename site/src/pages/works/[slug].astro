@@ -1,0 +1,66 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const works = await getCollection("works");
+  return works.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const allMappings = await getCollection("mappings");
+const sourced = allMappings
+  .filter((m) => m.data.provenance === entry.data.slug)
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const allWorks = await getCollection("works");
+const related = entry.data.related
+  .map((slug: string) => allWorks.find((w) => w.data.slug === slug))
+  .filter(Boolean);
+---
+
+<Base title={entry.data.name} description={`${entry.data.name} — source work in the Metaphorex catalog`}>
+  <article data-pagefind-body>
+    <h1>{entry.data.name}</h1>
+
+    <p class="muted">
+      <span class="tag">{entry.data.type}</span>
+      {entry.data.authors.join(", ")} ({entry.data.year})
+      {entry.data.url && (
+        <> &middot; <a href={entry.data.url}>source</a></>
+      )}
+    </p>
+
+    <Content />
+
+    {sourced.length > 0 && (
+      <>
+        <h2>Mappings ({sourced.length})</h2>
+        <ul class="entry-list">
+          {sourced.map((m) => (
+            <li>
+              <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+              <span class="muted"> &mdash; {m.data.kind}</span>
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    {related.length > 0 && (
+      <>
+        <h2>Related Works</h2>
+        <ul>
+          {related.map((r: any) => (
+            <li><a href={`/works/${r.data.slug}/`}>{r.data.name}</a></li>
+          ))}
+        </ul>
+      </>
+    )}
+  </article>
+</Base>

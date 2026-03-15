@@ -9,6 +9,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Intimacy Gradient
+provenance: alexander-pattern-language
 related:
 - main-entrance
 - the-facade-pattern

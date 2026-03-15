@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Receiving Serious Thought Is Being On The Mind
+provenance: osaka-master-metaphor-list
 related:
 - the-mind-is-a-brittle-object
 - the-mind-is-a-machine

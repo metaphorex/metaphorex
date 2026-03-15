@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Importance Is Size
+provenance: osaka-master-metaphor-list
 related:
 - more-is-up
 - good-is-up

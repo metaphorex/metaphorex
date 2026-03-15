@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: paradigm
 name: Checklist Approach
+provenance: munger-poor-charlies-almanack
 related:
 - latticework-of-mental-models
 - bayesian-updating

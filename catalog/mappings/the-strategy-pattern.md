@@ -7,6 +7,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Strategy Pattern
+provenance: gang-of-four
 related:
 - the-state-pattern
 - the-command-pattern

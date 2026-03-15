@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Causation Is Commercial Transaction
+provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces
 - properties-are-possessions

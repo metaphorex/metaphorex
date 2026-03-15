@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Emotional Intimacy Is Physical Closeness
+provenance: osaka-master-metaphor-list
 related:
 - love-is-a-journey
 - love-is-a-unity

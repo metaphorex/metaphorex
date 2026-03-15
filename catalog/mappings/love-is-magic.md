@@ -9,6 +9,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Love Is Magic
+provenance: osaka-master-metaphor-list
 related:
 - love-is-madness
 - love-is-a-physical-force

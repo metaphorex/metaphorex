@@ -9,6 +9,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Desire Is Hunger
+provenance: osaka-master-metaphor-list
 related:
 - desires-are-forces-between-the-desired-and-the-desirer
 - psychological-forces-are-physical-forces

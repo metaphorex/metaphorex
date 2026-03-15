@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: conceptual-metaphor
 name: Piecemeal Growth
+provenance: alexander-pattern-language
 related:
 - software-development-is-cathedral-building
 - pattern-language-as-shared-vocabulary

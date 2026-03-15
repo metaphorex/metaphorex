@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Nation Is a Person
+provenance: osaka-master-metaphor-list
 related:
 - nation-is-a-family
 - life-is-a-journey

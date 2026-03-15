@@ -9,6 +9,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: conceptual-metaphor
 name: Action Is Motion
+provenance: lakoff-johnson-mwlb
 related:
 - states-are-locations
 - existence-is-a-location
