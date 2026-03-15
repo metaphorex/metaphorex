@@ -40,33 +40,39 @@ def fetch_html(url: str) -> str:
 def extract_cotterell(html: str) -> list[dict]:
     """Extract maxims from Cotterell's collection.
 
-    Cotterell's text uses bold/italic for Latin maxims followed by
-    English translations in regular text. Structure:
-    <p><b>Latin maxim</b> -- "English translation"</p>
+    Cotterell's HTML uses this structure for each maxim entry:
+      <p class='c008'>
+        <strong><span lang="la">Latin maxim text.</span></strong>
+        <em>English translation.</em>
+      </p>
+    Explanatory paragraphs follow with class='c005'.
     """
     soup = BeautifulSoup(html, "html.parser")
     maxims = []
 
-    for p in soup.find_all("p"):
-        text = p.get_text(strip=True)
-        # Look for patterns: Latin text followed by dash and English
-        # Cotterell uses em-dashes and quotes
-        match = re.match(
-            r'^([A-Z][a-z].*?(?:est|lex|non|jus|qui|nemo|res|ubi|omni|cum|pro|quod|sine|ex|in|de|ad|per|sub|super|contra|inter|ante|post|ultra|infra|supra|intra|extra|circa|prope|versus|erga|apud|coram|palam|clam|procul|secundum)\b.*?)\s*[-—]\s*["\u201c](.+?)["\u201d]',
-            text,
-            re.IGNORECASE,
+    for p in soup.find_all("p", class_="c008"):
+        strong = p.find("strong")
+        em = p.find("em")
+        if not strong or not em:
+            continue
+
+        latin = strong.get_text(strip=True)
+        english = em.get_text(separator=" ", strip=True)
+
+        # Strip leading number and asterisk: "* 1. Latin text" -> "Latin text"
+        latin = re.sub(r"^\*?\s*\d+\.\s*", "", latin)
+
+        # Skip entries that are too short to be real maxims
+        if len(latin) < 5 or len(english) < 5:
+            continue
+
+        maxims.append(
+            {
+                "latin": latin,
+                "english": english,
+                "source_text": "cotterell",
+            }
         )
-        if match:
-            latin = match.group(1).strip()
-            english = match.group(2).strip()
-            if len(latin) > 5 and len(english) > 5:
-                maxims.append(
-                    {
-                        "latin": latin,
-                        "english": english,
-                        "source_text": "cotterell",
-                    }
-                )
 
     return maxims
 
@@ -74,42 +80,33 @@ def extract_cotterell(html: str) -> list[dict]:
 def extract_halkerston(html: str) -> list[dict]:
     """Extract maxims from Halkerston's collection.
 
-    Halkerston organizes alphabetically with Latin maxims as entries
-    followed by English translations.
+    Halkerston's HTML uses this structure:
+      <p>Latin maxim text.</p>
+      <div class="blockquot"><p>English translation.</p></div>
+    Maxims are organized alphabetically with letter headings.
     """
     soup = BeautifulSoup(html, "html.parser")
     maxims = []
 
-    for p in soup.find_all("p"):
-        text = p.get_text(separator=" ", strip=True)
-        # Halkerston: Latin phrase, then translation
-        # Many entries have the form: "Latin text. English translation."
-        # or use dash/colon separators
-        match = re.match(
-            r'^([A-Z][a-z].*?[.;])\s*[-—:]\s*(.+?)\.?\s*$',
-            text,
+    for blockquot in soup.find_all("div", class_="blockquot"):
+        # The Latin text is in the <p> immediately preceding the blockquot div
+        prev = blockquot.find_previous_sibling()
+        if not prev or prev.name != "p":
+            continue
+
+        latin = prev.get_text(separator=" ", strip=True)
+        english = blockquot.get_text(separator=" ", strip=True)
+
+        if len(latin) < 5 or len(english) < 5:
+            continue
+
+        maxims.append(
+            {
+                "latin": latin,
+                "english": english,
+                "source_text": "halkerston",
+            }
         )
-        if match:
-            latin = match.group(1).strip().rstrip(".;")
-            english = match.group(2).strip()
-            if (
-                len(latin) > 10
-                and len(english) > 10
-                and any(
-                    w in latin.lower()
-                    for w in [
-                        "est", "non", "lex", "jus", "qui", "nemo",
-                        "res", "ubi", "quod", "sine", "nulla",
-                    ]
-                )
-            ):
-                maxims.append(
-                    {
-                        "latin": latin,
-                        "english": english,
-                        "source_text": "halkerston",
-                    }
-                )
 
     return maxims
 
