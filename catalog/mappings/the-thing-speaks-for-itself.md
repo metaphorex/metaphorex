@@ -12,7 +12,7 @@ kind: metaphor
 name: The Thing Speaks for Itself
 related: []
 slug: the-thing-speaks-for-itself
-source_frame: governance
+source_frame: communication
 updated: '2026-03-16'
 transfers:
   - "[source] the outcome is evidence of its own cause, requiring no witness testimony"
