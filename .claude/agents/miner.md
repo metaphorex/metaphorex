@@ -165,6 +165,15 @@ Use the metaphorex-schema skill for the canonical schema. Additionally:
 - PR title: `Add entry: <name>`
 - PR body: link to sub-issue, brief description, validator output
 
+**IMPORTANT — No cosmetic changes in entry PRs:**
+
+Only add or modify files directly related to the entries being created — the
+entry file(s), any new frame files, and the works/provenance file. Do NOT
+include cosmetic fixes, YAML quoting normalization, or whitespace changes to
+other existing files. Bulk formatting should be a separate dedicated PR. PRs
+that touch hundreds of unrelated files break GitHub's diff review and block the
+Assayer.
+
 **Run Comment:**
 
 Post on the parent issue after processing a batch. Include:
