@@ -39,6 +39,44 @@ do runs in the main conversation so the user sees progress immediately.
 
 4. If `total_actionable` is 0, say "No actionable work found." and stop.
 
+## Phase A.5 — Kaizen triage + fix
+
+Every round, before dispatching production work, triage and fix one kaizen
+issue. This is how the pipeline improves itself.
+
+1. **Triage unlabeled kaizen** — read `kaizen_open` from survey. For each
+   issue that does NOT already have `kaizen:ready`, `kaizen:needs-human`,
+   or `kaizen:wont-fix` (up to 3 per round):
+   - Read the issue body
+   - Classify:
+     - **Agent-fixable** (prompt edit, script bug, validator gap) →
+       add `kaizen:ready` label
+     - **Needs human decision** (architectural, platform constraint) →
+       add `kaizen:needs-human` label, post a comment summarizing what
+       decision the human needs to make
+     - **Won't fix** (obsolete, not worth it) → add `kaizen:wont-fix`
+       label, post a brief comment explaining why
+   - Move on. Triage is fast — don't solve the issue, just classify it.
+
+2. **Pick one fix** — if any `kaizen:ready` issues exist (`priority:high`
+   first, then oldest):
+   - Post a brief "fix spec" comment on the issue: what file(s) to change,
+     what the fix should do, what to test
+   - Dispatch `fixer` agent with model `opus`, isolation `worktree`,
+     run_in_background: true
+   - The fixer opens a PR labeled `kaizen-fix` for human review
+   - Fixer PRs do NOT go through smelter → assayer (they're pipeline
+     code, not catalog content)
+
+3. **One per round.** Don't batch kaizen fixes. The fixer runs in parallel
+   with production work (smelting, assaying, enriching, mining).
+
+**Agent dispatch reference for fixer:**
+
+| Agent | subagent_type | model | isolation |
+|-------|---------------|-------|-----------|
+| Fixer | fixer | opus | worktree |
+
 ## Phase B — Dispatch with TaskCreate spinners
 
 For each category of work, dispatch agents using `Agent` with

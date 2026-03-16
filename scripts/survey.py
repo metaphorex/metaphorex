@@ -116,14 +116,14 @@ def survey(repo: str) -> dict:
         "issue", "list", "-R", repo,
         "--label", "kaizen:pipeline",
         "--state", "open",
-        "--json", "number,title",
+        "--json", "number,title,labels",
         "--limit", "20",
     ])
     kaizen_content = gh_query([
         "issue", "list", "-R", repo,
         "--label", "kaizen:content",
         "--state", "open",
-        "--json", "number,title",
+        "--json", "number,title,labels",
         "--limit", "20",
     ])
 
@@ -140,12 +140,25 @@ def survey(repo: str) -> dict:
     miner_fix = [{"number": p["number"], "title": p["title"]} for p in collect(pr_miner_fix)]
     in_progress = [{"number": p["number"], "title": p["title"]} for p in collect(pr_in_progress)]
     # Merge kaizen from both labels (gh --label uses AND, so we query separately)
+    # Classify by triage status based on labels
     seen_kaizen: set[int] = set()
     kaizen_open = []
+    kaizen_ready = []
+    kaizen_needs_human = []
+    kaizen_untriaged = []
+    triage_labels = {"kaizen:ready", "kaizen:needs-human", "kaizen:wont-fix"}
     for i in collect(kaizen_pipeline) + collect(kaizen_content):
         if i["number"] not in seen_kaizen:
             seen_kaizen.add(i["number"])
-            kaizen_open.append({"number": i["number"], "title": i["title"]})
+            item = {"number": i["number"], "title": i["title"]}
+            kaizen_open.append(item)
+            label_names = {l["name"] for l in i.get("labels", [])}
+            if "kaizen:ready" in label_names:
+                kaizen_ready.append(item)
+            elif "kaizen:needs-human" in label_names:
+                kaizen_needs_human.append(item)
+            elif not (label_names & triage_labels):
+                kaizen_untriaged.append(item)
 
     # Classify issues into parents (top-level projects) vs sub-issues.
     # Uses GraphQL `parent` field for native sub-issue linkage, with
@@ -302,6 +315,9 @@ def survey(repo: str) -> dict:
         "unclaimed": unclaimed,
         "stale_in_progress": stale_in_progress,
         "kaizen_open": kaizen_open,
+        "kaizen_ready": kaizen_ready,
+        "kaizen_needs_human": kaizen_needs_human,
+        "kaizen_untriaged": kaizen_untriaged,
         "needs_prospecting": needs_prospecting,
         "prospected_projects": prospected_projects,
         "total_actionable": (
