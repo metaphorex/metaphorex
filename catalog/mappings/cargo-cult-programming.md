@@ -17,6 +17,14 @@ related:
 slug: cargo-cult-programming
 source_frame: social-behavior
 updated: '2026-03-14'
+transfers:
+  - "[source] reproducing the visible surface of a system without understanding the invisible causal mechanism produces form without function"
+  - "[source] ritual repetition of observed sequences substitutes for causal understanding of why those sequences produced results"
+  - "[source] the gap between observer and mechanism widens as the technology becomes more opaque"
+limits:
+  - "[source] breaks because the original cargo cults were rational inferences given available information, but the metaphor implies stupidity rather than reasonable response to opacity"
+  - "[source] misleads because it assumes a stable ground truth to understand, but in software the mechanisms change constantly as frameworks evolve"
+  - "[source] carries colonial baggage by reproducing a hierarchy of knowing observers judging unknowing imitators"
 ---
 
 ## Transfers

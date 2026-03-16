@@ -15,6 +15,14 @@ related:
 slug: survival-of-the-fittest
 source_frame: natural-selection
 updated: '2026-03-14'
+transfers:
+  - "[paradigm] fitness is a relationship between organism and environment, not an intrinsic property of the organism"
+  - "[paradigm] variation supplies raw material that selection acts upon -- without variation there is nothing to select from"
+  - "[paradigm] successful adaptations propagate through inheritance, preserving what works across generations"
+limits:
+  - "[paradigm] breaks because cooperation (symbiosis, mutualism, kin selection) is as fundamental as competition, but the paradigm foregrounds competition and hides cooperative dynamics"
+  - "[paradigm] misleads because fittest means best-fitting the current environment, but the phrase smuggles in the assumption that winners are inherently superior"
+  - "[paradigm] obscures that evolution has no direction toward better -- parasites are as evolved as their hosts"
 ---
 
 ## Transfers

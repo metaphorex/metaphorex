@@ -15,6 +15,13 @@ related:
 slug: circle-of-competence
 source_frame: geometry
 updated: '2026-03-13'
+transfers:
+  - "[model] the boundary of the circle matters more than its area -- a small domain with a clear edge outperforms a large domain with a fuzzy one"
+  - "[model] decisions outside the boundary require deferral or partnership because neither additional time nor effort reliably produces competence from a standing start"
+  - "[model] expansion happens incrementally at the frontier of existing knowledge, not by sudden leaps"
+limits:
+  - "[model] breaks because real expertise has fractal boundaries with peninsulas and bays, not the smooth continuous edge the circle implies"
+  - "[model] misleads because the model requires accurate self-assessment of the boundary, but the Dunning-Kruger effect means competence is least reliable precisely where it ends"
 ---
 
 ## Transfers

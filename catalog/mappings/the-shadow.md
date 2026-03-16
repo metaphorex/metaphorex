@@ -19,6 +19,14 @@ related:
 slug: the-shadow
 source_frame: mythology
 updated: '2026-03-13'
+transfers:
+  - "[source] rejected aspects of the self do not vanish but form a coherent autonomous counterpart that grows in proportion to denial"
+  - "[source] integration requires conscious confrontation with what has been repressed, not elimination of it"
+  - "[source] the gap between stated values and operational behavior reveals the specific contents of what the system refuses to acknowledge"
+limits:
+  - "[source] breaks because looking for the shadow creates a new shadow (things you refuse to see about your shadow-hunting), making the concept unfalsifiable"
+  - "[source] misleads because calling something shadow implies it was unjustly repressed, when some repressions are legitimate triage"
+  - "[source] obscures that organizational denial operates through incentive structures and power dynamics, not psychic repression"
 ---
 
 ## Transfers

@@ -16,6 +16,14 @@ related:
 slug: ideas-are-food
 source_frame: food-and-cooking
 updated: '2026-03-14'
+transfers:
+  - "[source] raw ingredients require preparation through heat and technique before they become consumable"
+  - "[source] digestion breaks complex intake into components the body can absorb over time"
+  - "[source] palatability determines whether something is accepted or rejected at the point of intake"
+limits:
+  - "[source] breaks because eating destroys the food, but reading a book leaves both the book and the idea intact"
+  - "[source] misleads because digestion is an automatic bodily process, but comprehension requires active conscious effort"
+  - "[source] obscures creation by casting the thinker as consumer rather than producer"
 ---
 
 ## Transfers

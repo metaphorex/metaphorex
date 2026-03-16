@@ -17,6 +17,13 @@ related:
 slug: bikeshedding
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] accessible structures attract more opinions than complex ones because participation requires no specialized knowledge"
+  - "[source] time spent deliberating correlates inversely with the technical complexity of the decision"
+  - "[source] the feeling of productive contribution persists regardless of the actual importance of the topic debated"
+limits:
+  - "[source] breaks because the reactor-vs-shed binary assumes trivial decisions are actually trivial, but naming and formatting choices have real downstream consequences"
+  - "[source] misleads because it attributes silence on complex topics to cognitive limitation, when it may reflect social dynamics where junior participants lack standing to challenge architecture"
 ---
 
 ## Transfers

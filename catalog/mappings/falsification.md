@@ -13,6 +13,12 @@ related:
 - the-map-is-not-the-territory
 slug: falsification
 updated: '2026-03-13'
+transfers:
+  - "[model] privileges disconfirmation over confirmation because one counterexample is decisive while no amount of supporting evidence is conclusive"
+  - "[model] measures the strength of a belief by the severity of the tests it has survived, not by the volume of confirming instances"
+limits:
+  - "[model] breaks because auxiliary hypotheses can always absorb a failed prediction, allowing the core belief to survive any apparent falsification"
+  - "[model] misleads because it provides a filter for eliminating ideas but no mechanism for generating them in the first place"
 ---
 
 ## Transfers

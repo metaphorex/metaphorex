@@ -14,6 +14,15 @@ related:
 slug: argument-is-war
 source_frame: war
 updated: '2026-03-09'
+transfers:
+  - "[source] the objective is to destroy the adversary's capacity to continue, not merely to prevail in the current engagement"
+  - "[source] participants occupy and defend territorial positions"
+  - "[source] escalation follows a ladder from skirmish to total war"
+  - "[source] retreat from a position signals weakness to adversaries"
+limits:
+  - "[source] breaks because war ends when one side is destroyed, but arguments should end when both sides understand better"
+  - "[source] misleads because war has exactly two sides, forcing false binaries onto multi-perspective disputes"
+  - "[source] obscures that changing position in war is surrender, making intellectual updating feel like defeat"
 ---
 
 ## Transfers

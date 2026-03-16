@@ -16,6 +16,13 @@ related:
 slug: everything-is-a-file
 source_frame: library-and-archive
 updated: '2026-03-14'
+transfers:
+  - "[paradigm] a uniform interface over heterogeneous resources converts bewildering variety into a single access pattern"
+  - "[paradigm] hierarchical named paths provide location-based addressing for every resource in the system"
+  - "[paradigm] sequential byte-stream access as the default enables composition by connecting one program's output to another's input"
+limits:
+  - "[paradigm] breaks because files are passive containers, but devices have interrupts, timing constraints, and asynchronous state that the pull-based model cannot express without escape hatches"
+  - "[paradigm] misleads because the namespace conflates identity with location -- moving a resource changes its address, and no system-wide persistent identity exists"
 ---
 
 ## Transfers

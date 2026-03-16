@@ -14,6 +14,12 @@ related:
 slug: inversion
 source_frame: geometry
 updated: '2026-03-13'
+transfers:
+  - "[model] reframes by asking what guarantees failure and then systematically avoiding those conditions"
+  - "[model] exploits the asymmetry that failure modes are often more concrete and enumerable than success factors"
+limits:
+  - "[model] breaks because avoidance of failure does not constitute a strategy -- knowing what destroys marriages does not tell you how to build a good one"
+  - "[model] misleads because it implies problems are invertible by default, but sometimes the causes of failure are as opaque as the recipe for success"
 ---
 
 ## Transfers

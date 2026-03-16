@@ -19,6 +19,15 @@ related:
 slug: life-is-a-journey
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - "[source] forks require choosing one path and abandoning others"
+  - "[source] progress is measured as distance from origin toward destination"
+  - "[source] obstacles are physical impediments that block or slow forward motion"
+  - "[source] companions share a segment of the route but may diverge at any junction"
+limits:
+  - "[source] breaks because journeys have fixed destinations, but many lives lack a single overarching purpose"
+  - "[source] misleads because backward travel is always regression on a journey, hiding the value of return and revisitation"
+  - "[source] obscures depth by equating progress with distance covered, leaving no vocabulary for the value of staying put"
 ---
 
 ## Transfers
