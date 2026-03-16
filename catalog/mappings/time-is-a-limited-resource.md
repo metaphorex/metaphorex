@@ -8,21 +8,26 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
+harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because the mapped domain cannot be stockpiled or inventoried --
+  it exists only as it passes, with no warehouse of future supply'
+- '[source] misleads because the scarcity framing treats all units as equivalent,
+  flattening qualitative differences in how units are experienced'
 name: Time Is a Limited Resource
 provenance: lakoff-johnson-mwlb
 related:
 - time-is-money
 slug: time-is-a-limited-resource
 source_frame: economics
-updated: '2026-03-14'
 transfers:
-  - "[source] a finite stock depletes with use, and every expenditure reduces what remains"
-  - "[source] scarce resources require allocation among competing demands, making waste a cardinal failure"
-  - "[source] the resource cannot be acquired beyond its initial endowment, imposing a hard ceiling on consumption"
-limits:
-  - "[source] breaks because the mapped domain cannot be stockpiled or inventoried -- it exists only as it passes, with no warehouse of future supply"
-  - "[source] misleads because the scarcity framing treats all units as equivalent, flattening qualitative differences in how units are experienced"
+- '[source] a finite stock depletes with use, and every expenditure reduces what remains'
+- '[source] scarce resources require allocation among competing demands, making waste
+  a cardinal failure'
+- '[source] the resource cannot be acquired beyond its initial endowment, imposing
+  a hard ceiling on consumption'
+updated: '2026-03-14'
 ---
 
 ## Transfers

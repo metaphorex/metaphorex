@@ -9,7 +9,13 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
+harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because the traveler implies volitional control over speed and
+  direction, but the experiencer cannot stop, slow, or reverse in the mapped domain'
+- '[source] misleads because the path metaphor suggests visibility of what lies ahead,
+  importing the confidence of sight into what is actually uncertain prediction'
 name: Time Is Stationary and We Move Through It
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,14 +24,13 @@ related:
 - time-is-money
 slug: time-is-stationary-and-we-move-through-it
 source_frame: embodied-experience
-updated: '2026-03-14'
 transfers:
-  - "[source] a traveler moves forward through a fixed landscape, with the future ahead and the past behind"
-  - "[source] the traveler controls pace and can look back at traversed ground or ahead at upcoming terrain"
-  - "[source] duration maps onto distance, so longer spans feel like longer journeys"
-limits:
-  - "[source] breaks because the traveler implies volitional control over speed and direction, but the experiencer cannot stop, slow, or reverse in the mapped domain"
-  - "[source] misleads because the path metaphor suggests visibility of what lies ahead, importing the confidence of sight into what is actually uncertain prediction"
+- '[source] a traveler moves forward through a fixed landscape, with the future ahead
+  and the past behind'
+- '[source] the traveler controls pace and can look back at traversed ground or ahead
+  at upcoming terrain'
+- '[source] duration maps onto distance, so longer spans feel like longer journeys'
+updated: '2026-03-14'
 ---
 
 ## Transfers
