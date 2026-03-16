@@ -25,26 +25,27 @@ docs/              # Design docs and plans
 
 ## Content Schema
 
-Mappings live in `catalog/mappings/<slug>.md` with YAML frontmatter:
+Entries live in `catalog/mappings/<slug>.md` with YAML frontmatter:
 
 ```yaml
 slug: argument-is-war          # kebab-case, matches filename
 name: Argument Is War           # human-readable
-kind: conceptual-metaphor       # conceptual-metaphor | design-pattern | archetype | paradigm | cross-field-mapping | dead-metaphor
-source_frame: war               # slug of source frame
-target_frame: argumentation     # slug of target frame
+kind: metaphor                  # metaphor | pattern | archetype | paradigm | mental-model
+source_frame: war               # required for metaphor; optional for others
+applies_to: [argumentation]     # optional; absent for mental-model
 categories: [cognitive-linguistics]
 author: lakoff-johnson
 contributors: []
 related: []
 created: 2026-03-07             # ISO date, set on first creation
 updated: 2026-03-10             # ISO date, updated on each edit
+grounding: folk                  # proven | established | folk | contested (default: folk)
 ```
 
-Required body sections: **What It Brings**, **Where It Breaks**, **Expressions**.
+Required body sections: **Transfers**, **Limits**, **Expressions**.
 Optional: Origin Story, References.
 
-"Where It Breaks" is the most important section — never a throwaway.
+"Limits" is the most important section — never a throwaway.
 
 Frames (`catalog/frames/`) have: slug, name, roles[], broader?, related[].
 Categories (`catalog/categories/`) have: slug, name, broader?, related[].
@@ -62,7 +63,7 @@ Categories (`catalog/categories/`) have: slug, name, broader?, related[].
 
 - Slug-based filenames: `catalog/mappings/argument-is-war.md`
 - Flat directories (no subdirs until 200+ entries)
-- Mappings must include their frames in the same PR (validator enforces)
+- Entries must include their frames in the same PR (validator enforces)
 - Frames are cheap (create freely), categories are expensive (taxonomy decisions)
 - New entries branch from main: `mine/<project>/<slug>` or `add/<slug>`
 
