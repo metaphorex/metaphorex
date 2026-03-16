@@ -16,6 +16,13 @@ related:
 slug: trojan-war
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the gap between trigger and consequence is the central structure -- Helen's abduction is personal, but the resulting war destroys a city and reshapes the Mediterranean world"
+  - "[source] the stated cause (Helen) conceals real causes (alliances, trade control, ambitions of competing kings), mapping the structure where visible triggers obscure systemic drivers"
+  - "[source] once started, the conflict acquires its own momentum through sunk costs, personal grudges, and reputational stakes, making the original cause irrelevant while the war continues"
+limits:
+  - "[source] breaks because the archetype implies you can always identify a single 'Helen' trigger, while some large conflicts emerge from genuinely distributed causes with no identifiable singular event"
+  - "[source] misleads because the narrative romanticizes the trigger ('the face that launched a thousand ships'), lending glamour and mythological elevation to what may be a petty grievance or bruised ego"
 ---
 
 ## Transfers

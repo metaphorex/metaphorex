@@ -18,6 +18,13 @@ related:
 slug: the-interpreter-pattern
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - "[source] a human interpreter understands both languages' grammatical structure, not just vocabulary, making interpretation a structural translation rather than word-for-word substitution"
+  - "[source] interpretation produces meaning (a value, an action) rather than just tokens, distinguishing parsing from understanding"
+  - "[source] complex expressions compose from simple ones recursively, mirroring how natural languages build sentences from phrases and words"
+limits:
+  - "[source] breaks because the pattern typically evaluates expressions in a single DSL rather than translating between two languages -- it computes '3 + 4 * 5 = 23' rather than bridging French to English"
+  - "[source] misleads because human interpreters handle ambiguity through judgment and world knowledge, while the pattern requires a fully specified unambiguous grammar and produces parse errors on novel inputs"
 ---
 
 ## Transfers

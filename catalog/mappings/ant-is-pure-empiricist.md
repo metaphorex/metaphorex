@@ -13,6 +13,13 @@ related: []
 slug: ant-is-pure-empiricist
 source_frame: animal-behavior
 updated: '2026-03-13'
+transfers:
+  - "[source] the ant collects indiscriminately, carrying back everything encountered without a framework to distinguish signal from noise"
+  - "[source] individual ants follow chemical trails and simple rules, producing collective output without any individual comprehending the whole"
+  - "[source] the storehouse grows continuously but nothing in it is ever reviewed, synthesized, or reorganized for meaning"
+limits:
+  - "[source] breaks because actual ant colonies achieve extraordinary adaptive success through distributed intelligence, undermining Bacon's premise that collection without individual understanding is failure"
+  - "[source] misleads because the boundary between organizing (ant work) and transforming (bee work) is far less sharp than the trichotomy suggests -- Linnaeus's taxonomy was collection that was itself transformative"
 ---
 
 ## Transfers

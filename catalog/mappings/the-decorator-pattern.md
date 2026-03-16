@@ -15,6 +15,13 @@ related:
 slug: the-decorator-pattern
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] a decorative frieze is applied to an existing wall without altering its structure, making embellishment additive and non-destructive"
+  - "[source] rooms can have multiple cumulative layers of decoration (paint over plaster over lath), and each layer preserves the original space beneath"
+  - "[source] decorations can be stripped -- wallpaper peeled, molding pried off -- implying the addition is reversible and optional"
+limits:
+  - "[source] breaks because architectural decoration is cosmetic while software decoration changes what the object does -- adding validation, encryption, or caching is not ornamentation but functional transformation"
+  - "[source] misleads because decorator order does not matter in interior design (curtains before or after painting), but software decorator order is often critical to behavior"
 ---
 
 ## Transfers

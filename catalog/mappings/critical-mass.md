@@ -12,6 +12,12 @@ related: []
 slug: critical-mass
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[model] critical mass is a sharp threshold, not a gradient -- below it each event fizzles out, above it each event triggers more than one subsequent event, making the reaction self-sustaining"
+  - "[model] geometry matters as much as quantity -- a sphere minimizes neutron escape through optimal surface-to-volume ratio, just as a tightly connected community reaches critical mass before a loosely connected larger one"
+limits:
+  - "[model] breaks because nuclear critical mass is a precise physical constant while social 'critical mass' is fuzzy, context-dependent, and usually identifiable only in retrospect, importing false precision into social phenomena"
+  - "[model] misleads because the binary framing (critical or sub-critical) devalues sustainable linear growth by implicitly comparing everything to exponential growth -- a niche product with loyal users is not a failure just because it has not tipped"
 ---
 
 ## Transfers

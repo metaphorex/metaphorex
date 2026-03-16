@@ -16,6 +16,12 @@ related:
 slug: catalysts
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[model] the catalyst provides an alternative pathway with lower activation energy for a reaction that was already thermodynamically favorable -- it removes friction rather than creating potential"
+  - "[model] the catalyst participates in the reaction but is regenerated, not consumed, distinguishing catalytic change agents from those who are destroyed by the process they enable"
+limits:
+  - "[model] breaks because human 'catalysts' are rarely regenerated unchanged -- reformers burn out, get fired, or are politically destroyed, and calling them catalysts minimizes the real cost they pay"
+  - "[model] misleads because chemical catalysts accelerate both forward and reverse reactions equally, while the popular usage implies one-directional permanent change -- the same mechanisms can catalyze reversal when conditions shift"
 ---
 
 ## Transfers

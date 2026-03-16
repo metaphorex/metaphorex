@@ -18,6 +18,13 @@ related:
 slug: the-repository-pattern
 source_frame: library-and-archive
 updated: '2026-03-14'
+transfers:
+  - "[source] an archivist selects, catalogs, and organizes rather than merely warehousing, elevating data access from plumbing to librarianship with meaningful query methods"
+  - "[source] you consult the catalog and the librarian retrieves the item -- access is mediated through established channels rather than direct rummaging through the stacks"
+  - "[source] a great library makes all knowledge feel present and local, creating an illusion of proximity even when the actual storage is remote"
+limits:
+  - "[source] breaks because requesting a manuscript from a national archive takes days, while developers calling repository.findById() expect milliseconds -- the archival metaphor actively obscures the cost of each retrieval"
+  - "[source] misleads because a library shelf has simple semantics (books do not change while you read them), while a repository backed by a relational database faces concurrent writes, stale reads, and optimistic locking failures"
 ---
 
 ## Transfers

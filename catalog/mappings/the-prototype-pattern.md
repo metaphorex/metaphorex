@@ -17,6 +17,13 @@ related:
 slug: the-prototype-pattern
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - "[source] the master model on the bench embodies the design -- the thing itself is the specification, with no separate blueprint needed"
+  - "[source] copies inherit the prototype's shape, texture, and dimensions because identity flows from the exemplar rather than from an abstract description"
+  - "[source] maintaining a catalog of reference samples in a showroom lets you select and replicate without knowing the internal construction process"
+limits:
+  - "[source] breaks because each generation of a physical mold loses fidelity, while software cloning produces bit-perfect copies every time -- the metaphor suggests degradation that never materializes"
+  - "[source] misleads because shallow vs. deep copy has no physical analog -- you cannot mold the outside of a part while leaving the inside shared with the original, yet software clones routinely share internal state through reference copying"
 ---
 
 ## Transfers

@@ -13,6 +13,12 @@ related:
 slug: economic-moats
 source_frame: war
 updated: '2026-03-13'
+transfers:
+  - "[model] width determines durability -- a narrow moat can be crossed with a plank while a wide one requires siege engineering, making structural advantage a function of how much investment competitors must make just to reach the walls"
+  - "[model] moats must be actively maintained because a real moat silts up without dredging, reframing competitive advantage as an ongoing investment rather than a static possession"
+limits:
+  - "[model] breaks because moats are static after construction while real competitive advantages shift constantly -- Amazon's moat in 2000 (first-mover) is completely different from its moat in 2024 (logistics plus AWS plus marketplace)"
+  - "[model] misleads because the metaphor frames strategy as fundamentally defensive, while some of the most valuable businesses win through offense -- Apple's iPhone rendered Nokia's moat irrelevant rather than defending an existing position"
 ---
 
 ## Transfers

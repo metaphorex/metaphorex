@@ -14,6 +14,13 @@ related:
 slug: the-facade-pattern
 source_frame: architecture-and-building
 updated: '2026-03-11'
+transfers:
+  - "[source] a building facade presents a unified front to the street while hiding structural complexity -- plumbing, wiring, load-bearing walls -- relocating complexity rather than removing it"
+  - "[source] the facade serves the public (the street), not the inhabitants, clarifying that simplification targets the caller, not the subsystem"
+  - "[source] most buildings have service entrances around back, so the facade does not prevent direct access when needed"
+limits:
+  - "[source] breaks because building facades are static for a century, while software facades accumulate new methods with every sprint until they become the complexity they were supposed to hide"
+  - "[source] misleads because 'facade' carries connotations of deception (Potemkin villages, Hollywood sets), making developers suspicious that the clean API is lying about what is underneath"
 ---
 
 ## Transfers

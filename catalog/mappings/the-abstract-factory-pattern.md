@@ -16,6 +16,13 @@ related:
 slug: the-abstract-factory-pattern
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - "[source] a holding company commissions entire production facilities rather than individual products, making retooling a factory-level swap rather than a product-level modification"
+  - "[source] factories within a conglomerate follow corporate standards so parts from the same family interoperate, enforcing product-line coherence as quality control"
+  - "[source] the customer interacts with the product, never the manufacturing process, naturalizing the indirection between consumer and creation"
+limits:
+  - "[source] breaks because every real factory has a physical address and a loading dock -- 'abstract' has no manufacturing analogue, grafting a programming concept onto an industrial metaphor"
+  - "[source] misleads because conglomerates acquire subsidiaries and enter new product categories organically over time, while the Abstract Factory interface is frozen at compile time and requires coordinated all-at-once change"
 ---
 
 ## Transfers

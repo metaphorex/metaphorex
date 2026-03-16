@@ -16,6 +16,12 @@ related:
 slug: checklist-approach
 source_frame: aviation
 updated: '2026-03-13'
+transfers:
+  - "[model] externalizes what working memory cannot reliably retain, compensating for the systematic ways even experts fail under pressure, fatigue, or complexity"
+  - "[model] makes errors of omission visible by specifying what must be present, since the most dangerous failures are things you forgot to check rather than things you checked incorrectly"
+limits:
+  - "[model] breaks because the most important decision factors are often qualitative, contextual, and resistant to itemization -- checklists create the illusion of rigor while potentially missing the factors that actually determine outcomes"
+  - "[model] misleads because a checklist reflects past failure modes, not future ones, creating the specific vulnerability of being well-prepared for the last crisis and blind to the next"
 ---
 
 ## Transfers

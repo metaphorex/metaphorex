@@ -15,6 +15,12 @@ related:
 slug: hanlons-razor
 source_frame: tool-use
 updated: '2026-03-13'
+transfers:
+  - "[law] predicts that incompetence explains harmful outcomes more often than malice because coordinating a conspiracy requires intelligence and sustained effort while bungling requires nothing at all"
+  - "[law] shifts the diagnostic question from 'why did they do this to me?' (intent, unobservable) to 'what went wrong in their process?' (mechanism, investigable and fixable)"
+limits:
+  - "[law] breaks because malice does exist, and over-applying the razor in contexts with known adversarial dynamics (negotiation, litigation, authoritarian governance) produces dangerous naivete"
+  - "[law] misleads because when the same 'mistake' benefits the same party repeatedly, the incompetence explanation becomes less credible -- the razor should have an expiration date where pattern warrants investigation beyond stupidity"
 ---
 
 ## Transfers

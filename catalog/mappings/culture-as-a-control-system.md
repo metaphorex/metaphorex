@@ -17,6 +17,12 @@ related:
 slug: culture-as-a-control-system
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[paradigm] the thermostat senses deviation from a setpoint and applies corrective force automatically, making culture a functioning feedback loop rather than vague values on the wall"
+  - "[paradigm] the control system eliminates the need for a human operator to monitor every variable, explaining how organizations with strong cultures operate with minimal bureaucratic oversight"
+limits:
+  - "[paradigm] breaks because culture is emergent from thousands of interactions rather than engineered with precise specifications -- leaders can influence culture but cannot design it with thermostat-level precision"
+  - "[paradigm] misleads because a control system faithfully maintains whatever setpoint it is given, including a dysfunctional one -- Enron had a strong culture that was strongly wrong, and the model does not distinguish healthy from pathological equilibria"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: gas-town
 source_frame: governance
 updated: '2026-03-13'
+transfers:
+  - "[source] the Mayor coordinates citizens without performing the work itself, making orchestration authority legible through civic hierarchy"
+  - "[source] Rigs transport tasks between specialist agents as armored cargo, making the message-passing layer concrete and protectable"
+  - "[source] post-apocalyptic scarcity imposes resource constraints (fuel, water, safety) that map onto token budgets, rate limits, and context windows"
+limits:
+  - "[source] breaks because town citizens have persistent memory and relationships across sessions, while most agent systems instantiate and discard agents per-task without continuity"
+  - "[source] misleads because civic governance implies consent and legitimacy of the governed, but the orchestrator's authority is absolute and programmatic, not elected or negotiable"
 ---
 
 ## Transfers

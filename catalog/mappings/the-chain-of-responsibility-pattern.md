@@ -17,6 +17,13 @@ related:
 slug: the-chain-of-responsibility-pattern
 source_frame: military-command
 updated: '2026-03-14'
+transfers:
+  - "[source] requests escalate through authority levels, with each rank handling what falls within its jurisdiction and forwarding what exceeds it"
+  - "[source] the requester does not know which level of command will ultimately handle the request, decoupling submission from resolution"
+  - "[source] forwarding a request to someone better suited is proper procedure rather than evasion, dignifying delegation as institutional protocol"
+limits:
+  - "[source] breaks because military chains preserve accountability with records at each level, while a software request that no handler accepts may silently vanish"
+  - "[source] misleads because chains of command are about authority and rank, while software handlers process requests based on matching criteria with no meaningful hierarchy between them"
 ---
 
 ## Transfers

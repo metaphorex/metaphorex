@@ -17,6 +17,13 @@ related:
 slug: the-unit-of-work-pattern
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - "[source] a factory shift has clock-in and clock-out, bounding work into a defined period where output accumulates and is then settled as a batch"
+  - "[source] a half-assembled product on the line at shift's end is a problem, making atomicity intuitive -- either the unit is complete or it is as if nothing happened"
+  - "[source] a shift supervisor keeps a tally of completed items, framing change tracking as natural labor accounting rather than overhead"
+limits:
+  - "[source] breaks because manufacturing work is irreversible once raw steel is stamped into a fender, while the pattern's key feature is rollback -- undoing everything if something fails"
+  - "[source] misleads because 'unit' suggests standardized, interchangeable portions, but each Unit of Work instance can contain wildly different operations of different complexity with no natural measure"
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: the-gateway-pattern
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] a city gate concentrates all traffic through one controlled point so guards can inspect, tax, and regulate passage"
+  - "[source] at a medieval gate, foreign merchants needed a translator, currency exchanger, and customs officer -- the gatekeeper translates between internal and external systems"
+  - "[source] the gate can be closed when the city is under siege, providing a spatial intuition for circuit breakers and rate limiting"
+limits:
+  - "[source] breaks because walking through a gate is instant, while calling through a Gateway involves network round-trips, serialization, and potential timeouts -- the crossing is not a doorway but a letter and a wait"
+  - "[source] misleads because a gate's primary architectural purpose is to keep people out, while a software Gateway's primary purpose is to make external access easier -- the defensive connotation obscures the access-enabling function"
 ---
 
 ## Transfers

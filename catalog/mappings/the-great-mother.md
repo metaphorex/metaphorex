@@ -18,6 +18,13 @@ related:
 slug: the-great-mother
 source_frame: mythology
 updated: '2026-03-13'
+transfers:
+  - "[source] the nurturing environment and the devouring environment are structurally inseparable -- what provides the ground for growth simultaneously creates dependency that resists individuation"
+  - "[source] the womb, nest, and enclosure define spaces by their boundaries where vulnerability is permitted because the container holds, mapping containment as a precondition for development"
+  - "[source] fertility is not merely care but creation -- the archetype governs generativity, producing new things rather than just sustaining existing ones"
+limits:
+  - "[source] breaks because the archetype is explicitly gendered, importing assumptions about nurturing authority being female, when the structural insight (nurturing creates dependency) does not require a gendered frame"
+  - "[source] misleads because calling a constraining platform 'the Great Mother' dignifies vendor lock-in with mythological weight, making what is a business strategy feel natural or sacred rather than designed"
 ---
 
 ## Transfers

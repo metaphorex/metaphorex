@@ -15,6 +15,12 @@ related:
 slug: first-principles-thinking
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[model] derives conclusions from fundamental axioms rather than from analogy to previous results, refusing to accept 'that is how it is done' as a foundational statement"
+  - "[model] decomposes a complex system into its simplest components to reveal hidden structure, bypassing market prices and conventions to reason from raw inputs"
+limits:
+  - "[model] breaks because in physics the axioms are well-established and few, while in business, ethics, and policy there is no consensus on what the fundamental truths are -- what one person treats as bedrock another treats as assumption"
+  - "[model] misleads because 'thinking from first principles' has become a status signal that can license arrogance disguised as intellectual clarity, dismissing twenty years of domain expertise that a novice cannot derive in an afternoon"
 ---
 
 ## Transfers
