@@ -346,7 +346,6 @@ def generate_changelog(target_date: date) -> str:
     monday = target_date - timedelta(days=target_date.weekday())
     sunday = monday + timedelta(days=6)
     iso_year, iso_week, _ = monday.isocalendar()
-    counts = catalog_counts()
     new_slugs = entries_added_in_range(monday, sunday)
 
     # Group by import project (heuristic: check PR branch prefix or just list flat)
@@ -361,9 +360,7 @@ def generate_changelog(target_date: date) -> str:
     lines.append("")
     lines.append(f"# Week {iso_week}, {iso_year}")
     lines.append("")
-    lines.append(f"**{len(new_slugs)} new entries** added this week. "
-                 f"Catalog now has **{counts['entries']}** entries, "
-                 f"{counts['frames']} frames, and {counts['categories']} categories.")
+    lines.append(f"**{len(new_slugs)} new entries** added this week.")
     lines.append("")
 
     if new_slugs:
