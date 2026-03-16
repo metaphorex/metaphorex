@@ -1,3 +1,4 @@
 graph.png
 .worktrees/
 .playwright-mcp/
+.DS_Store
