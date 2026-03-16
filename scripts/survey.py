@@ -97,8 +97,9 @@ def survey(repo: str) -> dict:
         "--json", "number,title",
     ])
     pr_enrichment = gh_query([
-        "pr", "list", "-R", repo,
+        "issue", "list", "-R", repo,
         "--label", "needs-enrichment",
+        "--state", "open",
         "--json", "number,title",
     ])
     pr_miner_fix = gh_query([
