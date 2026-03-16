@@ -1,0 +1,49 @@
+name: Close resolved sub-issues
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "catalog/mappings/*.md"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  close-resolved:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Close issues whose mappings exist on main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Fetch all open issues with the import-project label whose titles
+          # match the "[project-name] slug" pattern used by sub-issues.
+          # Note: issue titles are read via gh CLI JSON output, not via
+          # github.event context, so no expression injection risk.
+          gh issue list \
+            --label "import-project" \
+            --state open \
+            --limit 200 \
+            --json number,title \
+            --jq '.[] | "\(.number)\t\(.title)"' \
+          | while IFS=$'\t' read -r number title; do
+            # Extract slug from title format: [project-name] slug-name
+            slug=$(echo "$title" | sed -n 's/^\[.*\] \(.*\)$/\1/p')
+
+            # Skip issues that don't match the expected pattern
+            if [ -z "$slug" ]; then
+              continue
+            fi
+
+            # Check if the mapping file exists on main
+            if [ -f "catalog/mappings/${slug}.md" ]; then
+              echo "Closing #${number}: mapping ${slug}.md exists on main"
+              gh issue close "$number" \
+                --comment "Auto-closed: mapping \`${slug}.md\` exists on main."
+            fi
+          done
