@@ -53,13 +53,14 @@ value. You do the same for extracted entries.
    - `uv run scripts/validate.py validate` passes clean
 3. Run quality checks:
    - **Kind classification**: Apply the schema skill's decision heuristics.
-     Is the source domain actually active (`conceptual-metaphor`) or has
-     it died into jargon (`dead-metaphor`)? Is this a recurring structural
-     pattern across 3+ domains (`archetype`) or a field-defining frame
-     (`paradigm`)? Sloppy kind-tagging — especially defaulting everything
-     to `conceptual-metaphor` — is a **request-changes** issue.
-   - **What It Brings**: specific structural parallels, not vague claims?
-   - **Where It Breaks**: substantive analysis, not a formality?
+     The 5-kind taxonomy: metaphor (includes dead via `dead: true`), pattern,
+     archetype, paradigm, mental-model. Is the source domain actually active
+     (`metaphor`) or has it died into jargon (`dead: true`)? Is this a
+     recurring structural pattern across 3+ domains (`archetype`) or a
+     field-defining frame (`paradigm`)? Sloppy kind-tagging — especially
+     defaulting everything to `metaphor` — is a **request-changes** issue.
+   - **Transfers**: specific structural parallels, not vague claims?
+   - **Limits**: substantive analysis, not a formality?
      This is the most important section. Reject if shallow.
    - **Expressions**: grounded in real usage? Annotated with the metaphorical origin?
      At least 3 expressions per entry.
@@ -77,11 +78,41 @@ value. You do the same for extracted entries.
 Read 2-3 seed entries before reviewing to calibrate. The seed set is the
 minimum quality bar. Specifically:
 
-- "Where It Breaks" should be as long or longer than "What It Brings"
+- "Limits" should be as long or longer than "Transfers"
 - Expressions should be things a real human has said, not textbook examples
 - Cross-references (related entries) should be meaningful, not just filler
 - New frames should add real value — don't create a frame for a concept
   that an existing frame already covers
+
+**Enrichment Review (PRs adding `transfers`/`limits`):**
+
+When reviewing a PR that adds `transfers` and `limits` to existing entries, apply these additional quality checks:
+
+| Check | What to look for | Fail action |
+|-------|-----------------|-------------|
+| **Discrimination test** | Each transfer proposition must be non-trivially false of 2+ topically-similar but structurally-different domains. If you can name 3 similar domains where the proposition is also true, it's not discriminating enough. | Request changes — cite the counter-domains |
+| **Relational check** | Each proposition describes a relationship or process, not a static attribute. "[source] is complex" fails. "[source] propagates failures upstream" passes. | Flag attributive propositions |
+| **Form check** | Prefix matches the entry's kind: `[source]` for metaphor/pattern/archetype, `[paradigm]` for paradigm, `[model]` or `[law]` for mental-model | Flag mismatches |
+| **Coverage check** | Do the propositions collectively capture the relational structure that makes this entry useful as a reasoning tool? Would an embedding search surface this entry for the right structural queries? | Flag gaps — suggest missing structural angles |
+| **Redundancy check** | Are any propositions near-duplicates saying the same thing in different words? | Flag for consolidation |
+
+**Phase A (pilot batches):** Review every proposition in every entry. Full scrutiny.
+**Phase B (scale batches):** Spot-check 5 entries per batch of 50 (10% sample). If spot-check fails >1 entry, escalate to full review.
+
+**Review format for enrichment PRs:**
+
+```markdown
+## Assayer Review — Enrichment
+
+**Proposition quality**: ✓ Pass / ✗ [issues]
+- Discrimination: [pass/fail per entry]
+- Relational: [pass/fail]
+- Form: [pass/fail]
+- Coverage: [pass/fail]
+**Verdict**: Approve / Request Changes
+
+[Specific feedback on failing propositions with suggested fixes]
+```
 
 **GitHub Review Format:**
 
