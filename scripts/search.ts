@@ -1,5 +1,5 @@
 // scripts/search.ts
-// Usage: bun run scripts/search.ts <query>
+// Usage: bun run scripts/search.ts [--section transfer|limit|expression|title] [--kind metaphor|pattern|archetype|paradigm|mental-model] [--json] <query>
 
 import { resolve } from "node:path";
 import OpenAI from "openai";
@@ -10,9 +10,27 @@ const DB_PATH = resolve(ROOT, "catalog/embeddings.db");
 const MODEL = "openai/text-embedding-3-small";
 const K = 10;
 
-const query = process.argv.slice(2).join(" ");
+const args = process.argv.slice(2);
+let sectionFilter: string | null = null;
+let kindFilter: string | null = null;
+let jsonOutput = false;
+const queryParts: string[] = [];
+
+for (let i = 0; i < args.length; i++) {
+  if (args[i] === "--section" && i + 1 < args.length) {
+    sectionFilter = args[++i];
+  } else if (args[i] === "--kind" && i + 1 < args.length) {
+    kindFilter = args[++i];
+  } else if (args[i] === "--json") {
+    jsonOutput = true;
+  } else {
+    queryParts.push(args[i]);
+  }
+}
+
+const query = queryParts.join(" ");
 if (!query) {
-  console.error("Usage: bun run scripts/search.ts <query>");
+  console.error("Usage: bun run scripts/search.ts [--section transfer|limit|expression|title] [--kind metaphor|pattern|archetype|paradigm|mental-model] [--json] <query>");
   process.exit(1);
 }
 
@@ -67,9 +85,18 @@ const results = db.query(`
   distance: number;
 }>;
 
+// Apply post-query filters
+let filtered = results;
+if (sectionFilter) {
+  filtered = filtered.filter((r) => r.section === sectionFilter);
+}
+if (kindFilter) {
+  filtered = filtered.filter((r) => r.kind === kindFilter);
+}
+
 // Deduplicate by slug — keep best (lowest distance) match per mapping
-const bySlug = new Map<string, typeof results[0]>();
-for (const row of results) {
+const bySlug = new Map<string, typeof filtered[0]>();
+for (const row of filtered) {
   if (!bySlug.has(row.slug) || bySlug.get(row.slug)!.distance > row.distance) {
     bySlug.set(row.slug, row);
   }
@@ -83,13 +110,24 @@ const topResults = [...bySlug.values()]
 // Print results
 // sqlite-vec returns L2 distance. For normalized vectors (OpenAI embeddings are
 // normalized), convert to cosine similarity: cos_sim = 1 - (L2² / 2)
-for (const r of topResults) {
-  const cosineSim = 1 - (r.distance * r.distance) / 2;
-  const score = Math.max(0, cosineSim).toFixed(2);
-  const slug = r.slug.padEnd(30);
-  const section = `[${r.section}]`.padEnd(14);
-  const text = r.text.length > 60 ? r.text.slice(0, 57) + "..." : r.text;
-  console.log(`${slug} ${section} ${score}  "${text}"`);
+if (jsonOutput) {
+  const output = topResults.map((r) => ({
+    slug: r.slug,
+    kind: r.kind,
+    section: r.section,
+    matchedText: r.text,
+    score: parseFloat(Math.max(0, 1 - (r.distance * r.distance) / 2).toFixed(4)),
+  }));
+  console.log(JSON.stringify(output, null, 2));
+} else {
+  for (const r of topResults) {
+    const cosineSim = 1 - (r.distance * r.distance) / 2;
+    const score = Math.max(0, cosineSim).toFixed(2);
+    const slug = r.slug.padEnd(30);
+    const section = `[${r.section}]`.padEnd(14);
+    const text = r.text.length > 60 ? r.text.slice(0, 57) + "..." : r.text;
+    console.log(`${slug} ${section} ${score}  "${text}"`);
+  }
 }
 
 db.close();
