@@ -15,7 +15,7 @@ related:
 - program-failure-is-bodily-failure
 slug: big-ball-of-mud
 source_frame: embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] mud has no internal structure, no crystalline organization, and no discernible boundaries between parts -- it is amorphous and uniform in its lack of form"
   - "[source] a ball of mud grows by accretion as each handful sticks to the existing mass, making it easier to add than to reshape"

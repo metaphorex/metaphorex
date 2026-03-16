@@ -15,7 +15,7 @@ related:
 - neural-network-is-a-brain
 slug: alignment-is-physical-alignment
 source_frame: physics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] misalignment is angular deviation from a reference direction, measurable in magnitude and correctable by incremental adjustment"
   - "[source] physical alignment assumes a single correct orientation against a fixed reference frame"

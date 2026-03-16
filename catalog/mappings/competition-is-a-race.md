@@ -18,7 +18,7 @@ related:
 - race-condition
 slug: competition-is-a-race
 source_frame: journeys
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] all runners traverse the same track toward a single finish line, making relative position the only measure that matters"
   - "[source] the starting line makes initial conditions visible and debatable, distinguishing head starts from level playing fields"

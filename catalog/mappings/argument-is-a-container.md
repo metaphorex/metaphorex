@@ -19,7 +19,7 @@ related:
 - activities-are-containers
 slug: argument-is-a-container
 source_frame: containers
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] containers have definite insides and outsides, making the boundary between included and excluded content a spatial fact"
   - "[source] holes in a container cause contents to leak, mapping logical gaps onto material damage"

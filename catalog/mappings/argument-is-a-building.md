@@ -18,7 +18,7 @@ related:
 - argument-is-a-journey
 slug: argument-is-a-building
 source_frame: architecture-and-building
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] removing the foundation causes the entire structure above to collapse, making load-bearing elements identifiable"
   - "[source] structural integrity can be inspected for cracks and weak joints without destroying the whole"

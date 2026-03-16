@@ -17,7 +17,7 @@ related:
 - good-is-up
 slug: conceit-is-inflation
 source_frame: embodied-experience
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] inflation fills a container with air until it expands beyond its natural size, making the inflated object larger on the outside but hollow on the inside"
   - "[source] over-inflation is inherently unstable and must eventually burst, framing conceit as a temporary state awaiting correction"

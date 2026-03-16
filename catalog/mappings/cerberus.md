@@ -16,7 +16,7 @@ related:
 - damocles-sword
 slug: cerberus
 source_frame: mythology
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] the guardian enforces directional rules at a boundary -- the dead may enter but not leave, the living may not enter -- mapping onto asymmetric access control"
   - "[source] the three heads watch simultaneously, making multi-factor or multi-party verification structurally harder to evade than a single checkpoint"

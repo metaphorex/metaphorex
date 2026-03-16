@@ -16,7 +16,7 @@ related:
 - program-failure-is-bodily-failure
 slug: code-smell
 source_frame: embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] smell operates below conscious attention as a pre-rational detection signal -- you react before you can name the source"
   - "[source] odor indicates something is off without diagnosing the specific cause, separating detection from diagnosis"

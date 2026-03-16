@@ -14,7 +14,7 @@ related:
 - ai-is-an-agent
 slug: ai-is-an-oracle
 source_frame: religion
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] the oracle delivers pronouncements whose generation process is hidden from the supplicant"
   - "[source] the quality of the oracle's response depends on the ritual precision of the query"

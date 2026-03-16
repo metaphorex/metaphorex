@@ -16,7 +16,7 @@ related:
 - shapes-are-containers
 slug: categories-are-containers
 source_frame: containers
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] containers have a definite inside, outside, and boundary, making membership a binary spatial fact rather than a matter of degree"
   - "[source] containers can be nested inside other containers, mapping taxonomic hierarchy onto physical containment"

@@ -19,7 +19,7 @@ related:
 - theories-are-buildings
 slug: argument-is-a-journey
 source_frame: journeys
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] travelers share a path and can be co-travelers rather than adversaries, making collaborative progress the default mode"
   - "[source] getting lost is a navigational problem to be corrected, not a defeat to be suffered"

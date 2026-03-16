@@ -16,7 +16,7 @@ related:
 - comparison-of-properties-is-comparison-of-possessions
 slug: comparison-of-properties-is-comparison-of-physical-properties
 source_frame: embodied-experience
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] physical properties exist on perceptible scales (heavier/lighter, taller/shorter) that make ranking feel like perception rather than judgment"
   - "[source] multiple physical dimensions (weight, size, temperature, brightness) are available for a single abstract comparison, each highlighting a different structural aspect"

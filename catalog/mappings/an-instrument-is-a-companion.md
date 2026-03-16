@@ -16,7 +16,7 @@ related:
 - the-mind-is-a-machine
 slug: an-instrument-is-a-companion
 source_frame: social-roles
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] companions cooperate or refuse based on mood and disposition, making interpersonal dynamics the frame for diagnosing mechanical failure"
   - "[source] long-term companionship creates bonds of loyalty where betrayal (tool failure) carries moral weight"

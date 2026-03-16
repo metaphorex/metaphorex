@@ -18,7 +18,7 @@ related:
 - ideas-are-objects
 slug: causes-are-forces
 source_frame: embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] a force applied to an object produces movement proportional to the force and in the direction of the push, providing the prototype for direct causation"
   - "[source] some forces remove barriers rather than push directly, distinguishing active causation from permissive enabling"

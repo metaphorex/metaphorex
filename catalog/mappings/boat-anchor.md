@@ -15,7 +15,7 @@ related:
 - program-failure-is-bodily-failure
 slug: boat-anchor
 source_frame: tool-use
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] an anchor's entire function is its weight, so when it serves no purpose it becomes pure encumbrance that adds mass without contribution"
   - "[source] the anchor represents real past investment (procurement, installation), making removal feel like admitting that investment was wasted"

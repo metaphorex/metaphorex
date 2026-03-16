@@ -18,7 +18,7 @@ related:
 - life-is-a-journey
 slug: change-is-motion
 source_frame: embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] displacement from one location to another provides direction, distance, and a measurable before-and-after, making change quantifiable"
   - "[source] velocity maps rate of change onto a scale from frozen stillness to dizzying speed"

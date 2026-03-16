@@ -17,7 +17,7 @@ related:
 - chain-of-thought-is-self-talk
 slug: context-window-is-working-memory
 source_frame: mental-experience
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] working memory holds a finite number of items simultaneously, making the context window's token limit feel like a natural cognitive constraint"
   - "[source] recent items are easier to recall than older ones (recency effect), mapping attention-weight decay onto familiar memory dynamics"

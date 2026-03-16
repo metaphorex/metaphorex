@@ -17,7 +17,7 @@ related:
 - ideas-are-objects
 slug: communication-is-sending
 source_frame: containers
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] the sender packages meaning into word-containers and ships them to a receiver across a channel that can be clear or noisy"
   - "[source] successful communication is verified by receipt: 'did the message land?' provides a clean binary success criterion"

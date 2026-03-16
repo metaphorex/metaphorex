@@ -17,7 +17,7 @@ related:
 - theories-are-buildings
 slug: conducting-research-is-solving-a-puzzle
 source_frame: puzzles-and-games
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] puzzle pieces are discrete objects with inherent shapes that constrain where they can fit, making data-theory integration a geometric matching problem"
   - "[source] the solved state is a complete picture with all pieces in place, providing a definitive, unified endpoint"

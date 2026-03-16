@@ -16,7 +16,7 @@ related:
 - comparison-of-properties-is-comparison-of-physical-properties
 slug: comparison-of-properties-is-comparison-of-possessions
 source_frame: economics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] possessions come in quantities that can be counted and compared, making abstract qualities like patience and courage feel measurable as amounts"
   - "[source] having more of a desirable possession is being richer, so advantage in a quality maps onto economic advantage"

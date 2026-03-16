@@ -16,7 +16,7 @@ related:
 - communication-is-sending
 slug: communication-is-linguistic-communication
 source_frame: language
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] linguistic communication has speakers, messages, grammar, and vocabulary, projecting this role structure onto every form of meaning-making"
   - "[source] competence in a linguistic system is fluency, so navigating any communicative domain becomes being literate or fluent in its codes"

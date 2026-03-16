@@ -18,7 +18,7 @@ related:
 - love-is-war
 slug: competition-is-war
 source_frame: war
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] war provides a deep role structure -- combatants, territory, strategy, supply lines, victory and defeat -- all of which find targets in competitive domains"
   - "[source] market segments become contested territory to be captured, defended, or ceded, imposing spatial logic on commercial rivalry"

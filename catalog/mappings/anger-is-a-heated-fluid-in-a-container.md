@@ -22,7 +22,7 @@ related:
 - the-body-is-a-container-for-the-self
 slug: anger-is-a-heated-fluid-in-a-container
 source_frame: fluid-dynamics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] heating a sealed liquid raises internal pressure that the container must structurally resist or catastrophically fail"
   - "[source] controlled release through a valve reduces pressure without structural damage, unlike uncontrolled rupture"

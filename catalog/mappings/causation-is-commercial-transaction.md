@@ -18,7 +18,7 @@ related:
 - ideas-are-objects
 slug: causation-is-commercial-transaction
 source_frame: economics
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] transactions have a calculable price and a proportional return, creating an expectation that causes and effects should be commensurate"
   - "[source] unpaid debts remain as outstanding obligations, framing deferred effects as causal accounts that must eventually be settled"

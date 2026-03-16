@@ -15,7 +15,7 @@ related:
 - having-control-is-up
 slug: compliance-is-tightness
 source_frame: embodied-experience
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] physical tension constrains movement, so tighter bonds leave less room for deviation and looser bonds permit more"
   - "[source] self-binding extends the frame from external restraint to internal discipline, mapping self-control onto tying oneself"

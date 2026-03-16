@@ -17,7 +17,7 @@ related:
 - ralph-wiggum-loop
 slug: chain-of-thought-is-self-talk
 source_frame: mental-experience
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] talking through a problem step by step improves performance over jumping directly to the answer, whether in a child doing math or a model generating intermediate tokens"
   - "[source] inner speech is a cognitive tool that structures thinking, not mere narration of pre-existing thoughts -- the speech itself does work"

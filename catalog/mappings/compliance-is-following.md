@@ -15,7 +15,7 @@ related:
 - having-control-is-up
 slug: compliance-is-following
 source_frame: journeys
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] rules are paths laid down in advance, with authority figures ahead setting direction and the compliant person walking behind retracing their steps"
   - "[source] disobedience is spatial straying -- going off-track, wandering from the path -- making noncompliance navigational error"

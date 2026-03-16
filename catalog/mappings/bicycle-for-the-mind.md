@@ -15,7 +15,7 @@ related:
 - ai-is-a-prosthesis
 slug: bicycle-for-the-mind
 source_frame: embodied-experience
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] the rider provides all the energy and chooses the direction; the bicycle only multiplies the efficiency of effort already supplied"
   - "[source] a bicycle is cheap, simple, and personally operated, requiring no institutional infrastructure or expert intermediaries"

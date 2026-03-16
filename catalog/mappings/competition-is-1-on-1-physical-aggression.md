@@ -17,7 +17,7 @@ related:
 - survival-of-the-fittest
 slug: competition-is-1-on-1-physical-aggression
 source_frame: war
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] combatants exchange blows in a bounded arena, with the quality of each move measured by how hard it lands and whether it staggers the opponent"
   - "[source] competition depletes the participants through accumulated damage, so endurance matters as much as striking power"

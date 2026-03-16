@@ -21,7 +21,7 @@ related:
 - beliefs-are-beings-with-a-life-cycle
 slug: beliefs-are-possessions
 source_frame: economics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] possessions can be acquired, held, exchanged, and lost, structuring belief change as inventory management"
   - "[source] threats to possessions trigger protective impulses, making challenges to belief feel like threats to property requiring defense"

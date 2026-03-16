@@ -18,7 +18,7 @@ related:
 - creation-is-cultivation
 slug: creating-is-making
 source_frame: manufacturing
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] a maker shapes passive raw material into a finished product through deliberate skill, with the product as a discrete object that did not exist before the maker acted"
   - "[source] quality maps onto workmanship -- a well-made thing has fit, finish, and durability, importing craft standards into evaluation of any created thing"

@@ -18,7 +18,7 @@ related:
 - survival-of-the-fittest
 slug: competition-is-competition-for-desired-objects
 source_frame: economics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] the desired object is limited -- if one party grasps it, others cannot, making zero-sum reasoning feel natural because physical objects are inherently exclusive in possession"
   - "[source] competitive action is modeled as reaching and grasping, with proximity to the object mapping onto likelihood of success"

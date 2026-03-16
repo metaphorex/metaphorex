@@ -19,7 +19,7 @@ related:
 - rational-is-up
 slug: conscious-is-up
 source_frame: embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] waking is rising from a horizontal position, grounding the up-down axis in the literal bodily posture change between sleep and consciousness"
   - "[source] falling asleep frames the transition as a loss of control and surrender to gravity, not a chosen descent"

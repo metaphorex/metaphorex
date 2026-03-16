@@ -15,7 +15,7 @@ related:
 - c-pointer
 slug: c-casting
 source_frame: manufacturing
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] the mold constrains liquid material into a new shape without changing the material itself, framing type conversion as reinterpretation under constraint"
   - "[source] pouring into a mold smaller than the material risks overflow and loss of detail, mapping narrowing conversions onto destructive physical forcing"

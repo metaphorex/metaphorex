@@ -16,7 +16,7 @@ related:
 - labor-is-a-resource
 slug: compute-is-a-resource
 source_frame: economics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] scarce resources must be allocated across competing demands through budgets, quotas, and rationing"
   - "[source] strategic resources are stockpiled, their supply chains secured, and their export controlled by nation-states"

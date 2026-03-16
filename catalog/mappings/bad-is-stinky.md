@@ -17,7 +17,7 @@ related:
 - disgust-is-nausea
 slug: bad-is-stinky
 source_frame: embodied-experience
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] noxious odors trigger involuntary avoidance before conscious evaluation, making detection pre-rational and immediate"
   - "[source] biological decomposition produces intensifying smells that spread to adjacent matter through proximity"

@@ -13,7 +13,7 @@ name: Bankrupt
 related: []
 slug: bankrupt
 source_frame: architecture-and-building
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] the public destruction of a work surface declares that the person can no longer transact, making insolvency a visible and irreversible event"
   - "[source] destroying the bench targets the capacity to operate rather than the missing wealth itself, encoding a distinction between having no money and having no ability to make money"

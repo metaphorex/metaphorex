@@ -16,7 +16,7 @@ related:
 - theories-are-buildings
 slug: coherent-is-whole
 source_frame: embodied-experience
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] a whole object has all its parts present and properly connected, making completeness and consistency a structural property that can be inspected"
   - "[source] fragmentation destroys the object's function, making logical failure feel like sudden material breakage"

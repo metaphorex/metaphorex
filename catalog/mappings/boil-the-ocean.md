@@ -18,7 +18,7 @@ related:
 - yak-shaving
 slug: boil-the-ocean
 source_frame: natural-phenomena
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] the ocean's volume so far exceeds any available heating apparatus that the gap between means and ends is comic, not merely difficult"
   - "[source] heating the ocean requires applying energy everywhere simultaneously with no ability to decompose into prioritized regions"

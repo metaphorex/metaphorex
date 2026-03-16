@@ -18,7 +18,7 @@ related:
 - properties-are-possessions
 slug: creating-is-giving-an-object
 source_frame: economics
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] the giver transfers a discrete, bounded object to a recipient, making creation a social transaction rather than an internal process"
   - "[source] gift-giving creates obligation and earns gratitude, importing the social dynamics of generosity into the creator-audience relationship"

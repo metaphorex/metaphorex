@@ -16,7 +16,7 @@ related:
 - damocles-sword
 slug: augean-stables
 source_frame: mythology
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] filth accumulated through years of daily neglect is qualitatively different from a single disaster, requiring a fundamentally different kind of intervention than the normal method applied harder"
   - "[source] the cleaner is an outsider brought in to confront someone else's long-deferred problem"

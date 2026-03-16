@@ -15,7 +15,7 @@ related:
 - obligations-are-forces
 slug: compliance-is-adherence
 source_frame: physical-connection
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] adhesion maintains contact between two surfaces, making compliance a matter of sustained physical bonding rather than a single act"
   - "[source] the strength of the adhesive bond maps onto the degree of commitment -- strong adhesion is zealous compliance, weak adhesion is fragile compliance ready to come unstuck"

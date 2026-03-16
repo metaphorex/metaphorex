@@ -17,7 +17,7 @@ related:
 - bikeshedding
 slug: bus-factor
 source_frame: embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] a bus strikes randomly and without warning, modeling the threat as unforeseeable sudden loss rather than planned departure"
   - "[source] a person's body is a container for tacit knowledge that is destroyed when the body is destroyed, with no extraction mechanism"

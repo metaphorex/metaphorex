@@ -16,7 +16,7 @@ related:
 - ai-hallucination-is-perception-disorder
 slug: ai-safety-is-containment
 source_frame: containers
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] container integrity is testable through stress probes that attempt to breach the boundary"
   - "[source] the contents exert outward pressure proportional to their volume, requiring walls scaled to the load"

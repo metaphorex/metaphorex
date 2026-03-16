@@ -17,7 +17,7 @@ related:
 - ideas-are-fashions
 slug: beliefs-are-beings-with-a-life-cycle
 source_frame: life-course
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] living organisms are born at a definite moment, develop through stages of maturation, and eventually die -- giving beliefs a biographical arc with inception, growth, and extinction"
   - "[source] organisms reproduce and spawn offspring, making beliefs part of lineages and genealogies of thought"

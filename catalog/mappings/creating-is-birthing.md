@@ -18,7 +18,7 @@ related:
 - ideas-are-people
 slug: creating-is-birthing
 source_frame: reproduction
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] conception is a definite moment of inception, often from the combination of two previously separate elements, giving creation a clear origin event"
   - "[source] gestation is a period of invisible internal development where the creation grows in complexity until ready to emerge, licensing patience"

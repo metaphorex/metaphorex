@@ -18,7 +18,7 @@ related:
 - memory-stack
 slug: buffer-overflow
 source_frame: fluid-dynamics
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] a vessel has a hard capacity limit that cannot be exceeded without spillage, and the severity of damage bears no relation to the size of the excess"
   - "[source] spillage flows into whatever is physically adjacent, so the damage is determined by what happens to be next to the container rather than by the nature of the overflow"

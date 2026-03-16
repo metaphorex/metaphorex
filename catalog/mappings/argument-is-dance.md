@@ -13,7 +13,7 @@ related:
 - argument-is-war
 slug: argument-is-dance
 source_frame: dance
-updated: '2026-03-09'
+updated: '2026-03-16'
 transfers:
   - "[source] partners depend on each other for the quality of the performance, making the other person essential rather than adversarial"
   - "[source] missteps threaten both partners equally, creating incentive to help the other recover rather than exploit their error"
