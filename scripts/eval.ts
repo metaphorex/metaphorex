@@ -734,6 +734,7 @@ if (suite === "d" || suite === "all") {
         "--title", title,
         "--body", issueBody,
         "--label", "import-project",
+        "--label", "eval-driven-curation",
       ],
       { stdout: "pipe", stderr: "pipe" }
     );
