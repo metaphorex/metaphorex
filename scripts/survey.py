@@ -106,6 +106,13 @@ def survey(repo: str) -> dict:
         "--label", "in-progress",
         "--json", "number,title",
     ])
+    kaizen_issues = gh_query([
+        "issue", "list", "-R", repo,
+        "--label", "kaizen:pipeline,kaizen:content",
+        "--state", "open",
+        "--json", "number,title,labels",
+        "--limit", "20",
+    ])
 
     # Use GraphQL for issues — native sub-issue parent field tells us
     # which issues are top-level projects vs sub-issues, no label needed.
@@ -118,6 +125,7 @@ def survey(repo: str) -> dict:
     assay = [{"number": p["number"], "title": p["title"]} for p in collect(pr_assay)]
     miner_fix = [{"number": p["number"], "title": p["title"]} for p in collect(pr_miner_fix)]
     in_progress = [{"number": p["number"], "title": p["title"]} for p in collect(pr_in_progress)]
+    kaizen_open = [{"number": i["number"], "title": i["title"]} for i in collect(kaizen_issues)]
 
     # Classify issues into parents (top-level projects) vs sub-issues.
     # Uses GraphQL `parent` field for native sub-issue linkage, with
@@ -272,6 +280,7 @@ def survey(repo: str) -> dict:
         "in_progress": in_progress,
         "unclaimed": unclaimed,
         "stale_in_progress": stale_in_progress,
+        "kaizen_open": kaizen_open,
         "needs_prospecting": needs_prospecting,
         "prospected_projects": prospected_projects,
         "total_actionable": (
