@@ -1,22 +1,24 @@
 ---
+applies_to:
+- type-system
 author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: C Casting
 related:
 - c-pointer
 slug: c-casting
 source_frame: manufacturing
-target_frame: type-system
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 To "cast" a value is to pour it into a new mold. The metaphor comes
 from metalwork and foundry practice: molten metal is poured into a
@@ -59,7 +61,7 @@ Key structural parallels:
   the physical intuition that forcing material into an undersized
   container is destructive.
 
-## Where It Breaks
+## Limits
 
 - **Metal casting is irreversible; C casting is often reversible** --
   once metal has solidified in a mold, you cannot pour it back into

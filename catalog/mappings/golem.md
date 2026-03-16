@@ -1,4 +1,6 @@
 ---
+applies_to:
+- rule-following
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
@@ -6,17 +8,16 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Golem
 related:
 - excalibur
 slug: golem
 source_frame: mythology
-target_frame: rule-following
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 In Jewish folklore, a golem is an anthropomorphic figure made from clay and
 animated by inscribing a sacred word (typically *emet*, "truth") on its
@@ -57,7 +58,7 @@ any system that executes instructions without understanding intent.
   shutdown problems in AI safety and the general engineering principle
   of corrigibility.
 
-## Where It Breaks
+## Limits
 
 - **The golem has no learning; modern AI does** -- the golem of folklore
   does not improve, adapt, or modify its behavior based on experience.

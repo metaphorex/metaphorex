@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -13,11 +15,10 @@ related:
 - social-proof
 slug: reciprocity
 source_frame: economics
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The logic of economic exchange -- goods given, goods returned, debts
 tracked, accounts balanced -- mapped onto human social dynamics. You do
@@ -50,7 +51,7 @@ Key structural parallels:
   *you* already "gave" something (your concession). The exchange rate
   between social currencies is poorly calibrated.
 
-## Where It Breaks
+## Limits
 
 - **Not all social relations are exchanges** -- parenting, friendship,
   charity, and solidarity resist the reciprocity frame. A parent does

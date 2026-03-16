@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Love Is a Collaborative Work of Art
 provenance: lakoff-johnson-mwlb
 related:
@@ -15,11 +17,10 @@ related:
 - love-is-a-unity
 slug: love-is-a-collaborative-work-of-art
 source_frame: creative-process
-target_frame: love-and-relationships
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 This is Lakoff and Johnson's example of a *new* metaphor -- one they
 construct deliberately to show how metaphors can reshape understanding rather
@@ -57,7 +58,7 @@ The mapping reframes nearly everything about how we think about love:
   of artistic vision, not power struggles. "I see it differently" is a
   legitimate creative position rather than an attack or a defection.
 
-## Where It Breaks
+## Limits
 
 - **Art has an audience; love usually doesn't** -- artworks exist to be
   perceived by others. Most intimate relationships are not performances,

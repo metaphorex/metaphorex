@@ -1,23 +1,25 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Deep Magic
 related:
 - heisenbug
 - cargo-cult-programming
 slug: deep-magic
 source_frame: mythology
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Arcane mystical knowledge -- spells known only to initiates, power
 derived from secrets older than the current order -- mapped onto code
@@ -60,7 +62,7 @@ Key structural parallels:
   The metaphor captures code that is functionally correct and
   epistemically opaque.
 
-## Where It Breaks
+## Limits
 
 - **Magic is supernatural; software is deterministic** -- the
   fundamental asymmetry. Deep magic in mythology operates outside

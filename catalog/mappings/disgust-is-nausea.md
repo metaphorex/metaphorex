@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Disgust Is Nausea
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - bad-is-stinky
 slug: disgust-is-nausea
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Moral and social disgust is experienced as the urge to vomit. This
 metaphor maps the body's rejection of toxic food onto the mind's rejection
@@ -56,7 +57,7 @@ Key structural parallels:
   moral judgment in the digestive system, making ethical response feel
   bodily and pre-rational.
 
-## Where It Breaks
+## Limits
 
 - **Nausea is involuntary; moral judgment is (partly) deliberate** --
   the metaphor makes moral disgust feel like a reflex, as automatic and

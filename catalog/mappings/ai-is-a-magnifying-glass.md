@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is a Magnifying Glass
 related:
 - ai-is-a-mirror
 - ai-is-a-tool
 slug: ai-is-a-magnifying-glass
 source_frame: vision
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Where the mirror metaphor says AI reflects us, the magnifying glass says
 AI amplifies us -- selectively, unevenly, and not always where we want.
@@ -62,7 +63,7 @@ Key structural parallels:
   original signal. The further from the center of the training
   distribution, the more distorted the output.
 
-## Where It Breaks
+## Limits
 
 - **AI generates, not just amplifies** -- a magnifying glass cannot show
   you something that is not there. An LLM can generate entirely novel

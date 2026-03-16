@@ -1,23 +1,25 @@
 ---
+applies_to:
+- network-security
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - security
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Cerberus
 related:
 - gordian-knot
 - damocles-sword
 slug: cerberus
 source_frame: mythology
-target_frame: network-security
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Cerberus was the monstrous three-headed dog that guarded the entrance to
 the Greek underworld. He permitted the dead to enter but prevented anyone
@@ -60,7 +62,7 @@ pass.
   who should have access; it enforces the policies set by administrators.
   The guardian is powerful but subordinate, fearsome but instrumental.
 
-## Where It Breaks
+## Limits
 
 - **Cerberus can be bypassed** -- the myth includes multiple stories of
   heroes getting past Cerberus. Orpheus lulled him with music. The Sibyl

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Personality Is Material
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - people-are-plants
 slug: personality-is-material
 source_frame: materials
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 We understand personality as a kind of material substance -- something
 with texture, hardness, weight, and composition. A person is "made of
@@ -56,7 +57,7 @@ Key structural parallels:
   same material all the way down -- no hidden composition changes.
   Hypocrisy is a thin veneer over inferior material.
 
-## Where It Breaks
+## Limits
 
 - **Materials are static; personality develops** -- once a piece of
   steel is tempered, its properties are fixed. But human personality

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is a Prosthesis
 related:
 - ai-is-a-tool
 - bicycle-for-the-mind
 slug: ai-is-a-prosthesis
 source_frame: medicine
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 AI as cognitive prosthesis -- a device that replaces or extends a capacity
 the user lacks or has lost. The metaphor draws from medical prosthetics:
@@ -63,7 +64,7 @@ Key structural parallels:
   user preferences) as analogous to fitting a device to a specific body.
   One size does not fit all.
 
-## Where It Breaks
+## Limits
 
 - **Prosthetics do not have their own agenda** -- a prosthetic leg does
   not decide where to walk. It transmits the user's intention faithfully.

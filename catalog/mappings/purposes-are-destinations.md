@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Purposes Are Destinations
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,11 +20,10 @@ related:
 - change-is-motion
 slug: purposes-are-destinations
 source_frame: journeys
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Having a purpose is having somewhere to go. Achieving a purpose is arriving.
 This mapping is a core component of Lakoff and Johnson's Event Structure
@@ -56,7 +57,7 @@ Key structural parallels:
   "We fell short of our target." The metaphor makes failure a matter of
   distance rather than quality.
 
-## Where It Breaks
+## Limits
 
 - **Purposes change during pursuit** -- destinations don't. When you walk
   to Paris, Paris doesn't move. But purposes shift as you work toward

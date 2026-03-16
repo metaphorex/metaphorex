@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -13,11 +15,10 @@ related:
 - survival-of-the-fittest
 slug: bayesian-updating
 source_frame: probability
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A probability theorem reimagined as a discipline of thought. Bayes' theorem
 tells you how to revise the probability of a hypothesis given new evidence:
@@ -47,7 +48,7 @@ Key structural parallels:
   belief but how much you moved and why. Bayesian thinkers track their
   *deltas*, not just their positions.
 
-## Where It Breaks
+## Limits
 
 - **Humans cannot do the math** -- the theorem requires precise probability
   estimates for priors and likelihoods. People cannot reliably distinguish

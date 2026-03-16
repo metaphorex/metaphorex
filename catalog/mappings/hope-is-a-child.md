@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Hope Is a Child
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - hope-is-light
 slug: hope-is-a-child
 source_frame: life-course
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Hope is young, vulnerable, and full of potential. This metaphor maps the
 structure of childhood -- birth, fragility, growth, the need for nurture,
@@ -54,7 +55,7 @@ Key structural parallels:
   is violent and irreversible. The metaphor makes despair feel like
   bereavement, not misplacement.
 
-## Where It Breaks
+## Limits
 
 - **Hope lacks autonomy** -- children eventually grow into independent
   agents who make their own choices. Hope never does. The child metaphor

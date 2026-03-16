@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Harm Is Lacking a Needed Possession
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - action-is-control-over-possessions
 slug: harm-is-lacking-a-needed-possession
 source_frame: economics
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To be harmed is to lack what you need. This metaphor maps the absence of
 a needed possession onto the experience of harm, turning suffering into
@@ -62,7 +63,7 @@ Key structural parallels:
   expropriator. The metaphor gives harmful agency a specific moral
   color: harming someone is stealing from them.
 
-## Where It Breaks
+## Limits
 
 - **Not all harm is absence** -- the metaphor requires harm to be a
   deficit, but many forms of harm involve unwanted presence: intrusive

@@ -1,22 +1,24 @@
 ---
+applies_to:
+- governance
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - law-and-governance
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Damocles' Sword
 related:
 - excalibur
 slug: damocles-sword
 source_frame: mythology
-target_frame: governance
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Damocles, a courtier of the tyrant Dionysius II of Syracuse, envied the
 king's power and luxury. Dionysius offered to let him sit on the throne
@@ -49,7 +51,7 @@ precarity is the horsehair.
   encryption key, a single regulation, a single treaty, a single
   relationship with a key client.
 
-## Where It Breaks
+## Limits
 
 - **Damocles chose the seat; most people under threat did not** --
   Dionysius offered the throne as a lesson, and Damocles accepted

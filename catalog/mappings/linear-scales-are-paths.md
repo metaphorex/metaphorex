@@ -1,4 +1,6 @@
 ---
+applies_to:
+- measurement
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Linear Scales Are Paths
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - action-is-motion
 slug: linear-scales-are-paths
 source_frame: journeys
-target_frame: measurement
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Every linear scale -- temperature, intelligence, beauty, difficulty -- is
 understood as a path stretching from one end to the other. Points on the
@@ -63,7 +64,7 @@ IS UP to give quantity and degree a two-dimensional spatial geometry: the
 path provides the horizontal axis of traversal, while verticality provides
 the evaluative axis.
 
-## Where It Breaks
+## Limits
 
 - **Scales need not be linear** -- the metaphor imposes the geometry of a
   straight path onto all scales, but many real-world dimensions are

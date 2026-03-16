@@ -1,11 +1,14 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-10'
-kind: dead-metaphor
+dead: true
+kind: metaphor
 name: The State Pattern
 provenance: gang-of-four
 related:
@@ -13,11 +16,10 @@ related:
 - the-memento-pattern
 slug: the-state-pattern
 source_frame: governance
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A state, in governance, is a political entity with defined borders,
 internal laws, and recognized transitions of power. The GoF State
@@ -52,7 +54,7 @@ Key structural parallels:
   sovereign jurisdictions makes encapsulation feel like proper
   governance rather than just clean code.
 
-## Where It Breaks
+## Limits
 
 - **Most developers don't think "governance" when they hear "state"**
   -- the word "state" has become so thoroughly absorbed into computing

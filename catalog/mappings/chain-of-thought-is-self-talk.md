@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Chain of Thought Is Self-Talk
 related:
 - ai-hallucination-is-perception-disorder
@@ -15,11 +17,10 @@ related:
 - ralph-wiggum-loop
 slug: chain-of-thought-is-self-talk
 source_frame: mental-experience
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Chain-of-thought prompting and the ReAct paradigm frame AI reasoning as
 inner monologue made visible. The model "thinks out loud," "shows its
@@ -65,7 +66,7 @@ Key structural parallels:
   the thinking is private. The metaphor makes hidden token generation
   feel like a familiar cognitive process.
 
-## Where It Breaks
+## Limits
 
 - **LLMs do not have inner experience** -- human self-talk is
   phenomenologically rich. It involves intention, attention, emotional

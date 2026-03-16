@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,18 +8,17 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is a Limited Resource
 provenance: lakoff-johnson-mwlb
 related:
 - time-is-money
 slug: time-is-a-limited-resource
 source_frame: economics
-target_frame: time-and-temporality
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 An entailment of TIME IS MONEY that stands on its own as a structuring
 metaphor. Where TIME IS MONEY maps the logic of exchange onto duration, TIME
@@ -45,7 +46,7 @@ Key structural parallels:
   fixed pool. "I don't have time for that" is a zero-sum statement: giving
   time to one thing means withholding it from another.
 
-## Where It Breaks
+## Limits
 
 - **Time is not a stockpile** -- you cannot inventory time the way you
   inventory lumber or grain. The "resource" exists only as it passes. There

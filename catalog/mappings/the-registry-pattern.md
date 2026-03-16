@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-abstraction
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-state-pattern
 slug: the-registry-pattern
 source_frame: governance
-target_frame: software-abstraction
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A registry is a government office that maintains official records. The
 registry of births, deaths, and marriages. The land registry. The
@@ -55,7 +56,7 @@ Key structural parallels:
   type or string key. The metaphor imports the bureaucratic instinct
   for classification.
 
-## Where It Breaks
+## Limits
 
 - **Government registries are trustworthy because they're backed by
   law; software registries just hold references** -- a land registry

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Neural Network Is a Brain
 related:
 - training-is-education
@@ -14,11 +16,10 @@ related:
 - people-are-machines
 slug: neural-network-is-a-brain
 source_frame: biology
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The foundational metaphor of artificial intelligence. McCulloch and Pitts
 proposed the first mathematical model of a "neuron" in 1943, mapping
@@ -56,7 +57,7 @@ Key structural parallels:
   motivates the "scaling laws" approach to AI: more parameters, more data,
   more capability.
 
-## Where It Breaks
+## Limits
 
 - **Biological neurons are not matrix multiplications** -- a real neuron
   has roughly 7,000 synaptic connections, processes signals with precise

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- argumentation
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Argument Is a Building
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - argument-is-a-journey
 slug: argument-is-a-building
 source_frame: architecture-and-building
-target_frame: argumentation
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Arguments are constructed. They have foundations, they are built up piece
 by piece, they stand or fall. Where THEORIES ARE BUILDINGS applies the
@@ -53,7 +54,7 @@ Key structural parallels:
   the case." The metaphor treats intellectual weakness as a local
   structural problem with an engineering solution.
 
-## Where It Breaks
+## Limits
 
 - **Arguments are dialogic; buildings are not** -- a building doesn't
   respond to its critics. An argument exists in a social context of

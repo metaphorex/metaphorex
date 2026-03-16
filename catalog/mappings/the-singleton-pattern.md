@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-factory-pattern
 slug: the-singleton-pattern
 source_frame: social-roles
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The name imports the concept of singular, unrepeatable identity into a
 domain where copying is the default operation. In mathematics, a singleton
@@ -47,7 +48,7 @@ Key structural parallels:
   typically lives for the entire application lifecycle, outliving the
   scopes that use it. The metaphor correctly suggests permanence.
 
-## Where It Breaks
+## Limits
 
 - **Social singletons exist for legitimacy; software singletons exist for
   convenience** -- a kingdom has one monarch to prevent civil war. A

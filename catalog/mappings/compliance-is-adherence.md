@@ -1,4 +1,6 @@
 ---
+applies_to:
+- rule-following
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,17 +9,16 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Compliance Is Adherence
 related:
 - obligations-are-forces
 slug: compliance-is-adherence
 source_frame: physical-connection
-target_frame: rule-following
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Rules are surfaces. Obeying them is sticking to them. The metaphor maps
 the embodied experience of physical adhesion -- one substance clinging to
@@ -56,7 +57,7 @@ Key structural parallels:
   compliance habits persist after the rule is gone -- the residue of
   obedience outlasts the thing obeyed.
 
-## Where It Breaks
+## Limits
 
 - **Adhesion has no moral dimension** -- glue does not care what it sticks
   to. But compliance is saturated with moral judgment: adhering to a just

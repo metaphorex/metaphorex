@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Safety Is Containment
 related:
 - ai-is-a-tool
@@ -14,11 +16,10 @@ related:
 - ai-hallucination-is-perception-disorder
 slug: ai-safety-is-containment
 source_frame: containers
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 AI safety discourse is saturated with containment language: guardrails,
 sandboxes, jailbreaks, red lines, escape, alignment. The underlying
@@ -61,7 +62,7 @@ Key structural parallels:
   there is a defined region of acceptable behavior, and safety means
   keeping the system within that region.
 
-## Where It Breaks
+## Limits
 
 - **Containment presupposes an entity that wants to escape** -- the most
   consequential hidden import. Containers are for things that would

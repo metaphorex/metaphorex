@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-mediator-pattern
 slug: the-chain-of-responsibility-pattern
 source_frame: military-command
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The Chain of Responsibility pattern takes its name from military and
 bureaucratic hierarchies where requests escalate through ranks until
@@ -55,7 +56,7 @@ Key structural parallels:
   can't handle. The military metaphor dignifies what might otherwise
   feel like shirking.
 
-## Where It Breaks
+## Limits
 
 - **Military chains have fixed hierarchies; software chains are
   configured** — a captain is always above a lieutenant. But a software

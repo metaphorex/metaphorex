@@ -1,4 +1,6 @@
 ---
+applies_to:
+- shared-resources
 author: fshot
 categories:
 - organizational-behavior
@@ -11,11 +13,10 @@ related:
 - survival-of-the-fittest
 slug: the-commons
 source_frame: animal-husbandry
-target_frame: shared-resources
 updated: '2026-03-10'
 ---
 
-## What It Brings
+## Transfers
 
 A framework for shared resources and the tension between individual
 incentive and collective benefit. The source mapping is vivid: a shared
@@ -41,7 +42,7 @@ you build:
   handing control to the state. Ostrom won the Nobel Prize in Economics
   for this work. Hardin's essay is still cited more often.
 
-## Where It Breaks
+## Limits
 
 - **Tragedy assumes selfishness** — Hardin's version assumes purely
   self-interested rational actors. Ostrom showed this is empirically

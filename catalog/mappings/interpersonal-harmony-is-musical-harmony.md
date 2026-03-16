@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Interpersonal Harmony Is Musical Harmony
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - argument-is-dance
 slug: interpersonal-harmony-is-musical-harmony
 source_frame: music
-target_frame: social-behavior
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 When people get along, they are "in harmony." When a group works well
 together, its members are "in tune" with each other. This metaphor maps
@@ -59,7 +60,7 @@ Key structural parallels:
   effort." "He conducted the negotiations." Leadership is framed as
   coordination of already-skilled performers, not command of subordinates.
 
-## Where It Breaks
+## Limits
 
 - **Harmony requires a shared key** -- in music, harmony only works when
   all parts operate within the same tonal system. The metaphor implies

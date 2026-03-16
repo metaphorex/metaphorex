@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Love Is Magic
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - love-is-a-unity
 slug: love-is-magic
 source_frame: magic
-target_frame: love-and-relationships
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Love as a supernatural force that operates outside the laws of ordinary
 causation. The metaphor maps the structure of magical practice onto romantic
@@ -60,7 +61,7 @@ Key structural parallels:
   administered. The metaphor persists in the folk pharmacology of
   aphrodisiacs and the modern pharmacology of oxytocin.
 
-## Where It Breaks
+## Limits
 
 - **Magic implies deception** -- if love is a spell, then being in love
   means being fooled. The metaphor makes the disenchanted state (seeing

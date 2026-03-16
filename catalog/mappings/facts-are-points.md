@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,8 +8,9 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-12'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Facts Are Points
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +20,10 @@ related:
 - theories-are-buildings
 slug: facts-are-points
 source_frame: geometry
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Buried inside every "point" you make in an argument is a geometric dot -- a
 dimensionless location in space. The word has shed its spatial skin so
@@ -69,7 +71,7 @@ still "connect" points, "miss" them, find them "central" or "beside" the
 topic -- all spatial operations that only make sense if the thing being
 operated on is a location.
 
-## Where It Breaks
+## Limits
 
 - **Facts are not discrete points** -- geometry's points are atomic,
   dimensionless, and precisely located. But facts in practice are fuzzy,

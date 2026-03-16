@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -14,11 +16,10 @@ related:
 - inversion
 slug: circle-of-competence
 source_frame: geometry
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Every person has a domain of genuine understanding -- a circle -- and
 everything outside it is territory where their confidence exceeds their
@@ -53,7 +54,7 @@ Key structural parallels:
   learning happens at the frontier of what you already know, and it
   is gradual.
 
-## Where It Breaks
+## Limits
 
 - **Knowledge is not circular** -- real expertise has irregular, fractal
   boundaries. A surgeon may understand cardiac anatomy deeply but not

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Problem Is A Target
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - difficulties-are-impediments-to-motion
 slug: problem-is-a-target
 source_frame: target-practice
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Problems are things you aim at. You identify the target, take aim, and
 try to hit it. If you miss, you adjust and try again. This metaphor maps
@@ -47,7 +48,7 @@ Key structural parallels:
   ability to compensate for conditions. Problem-solving becomes a
   performance that can be evaluated on accuracy.
 
-## Where It Breaks
+## Limits
 
 - **Problems are rarely point-like** -- the metaphor compresses complex,
   systemic difficulties into discrete targets. A healthcare crisis, a

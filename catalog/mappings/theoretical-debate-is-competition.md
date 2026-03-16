@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Theoretical Debate Is Competition
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - theories-are-buildings
 slug: theoretical-debate-is-competition
 source_frame: competition
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Academic discourse is framed as a contest with winners and losers. Scholars
 compete for dominance, theories vie for acceptance, and intellectual
@@ -53,7 +54,7 @@ Key structural parallels:
   "They were competing for the dominant paradigm." The metaphor converts
   epistemic progress into something that can be won and possessed.
 
-## Where It Breaks
+## Limits
 
 - **Competition requires opponents; inquiry does not** -- the metaphor
   forces intellectual work into an adversarial frame even when the scholars

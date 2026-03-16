@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Existence Is A Location
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - action-is-motion
 slug: existence-is-a-location
 source_frame: journeys
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 To exist is to be here. To not exist is to be elsewhere -- or nowhere. This
 ontological metaphor maps the abstract concept of existence onto spatial
@@ -55,7 +56,7 @@ Key structural parallels:
   established a precedent." Causation of existence is transportation --
   you bring something to the place where existing things are.
 
-## Where It Breaks
+## Limits
 
 - **Existence is not a place** -- the metaphor implies that there is a
   location called "existence" that things travel to and from. But there is

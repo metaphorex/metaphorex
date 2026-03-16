@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-roles
 author: fshot
 categories:
 - cognitive-science
@@ -12,11 +14,10 @@ name: The Trickster
 related: []
 slug: the-trickster
 source_frame: mythology
-target_frame: social-roles
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Every functioning system needs someone willing to break the rules. The
 Trickster is a cross-cultural archetype: Loki, Coyote, Hermes, Anansi,
@@ -45,7 +46,7 @@ Key structural parallels:
   Coyote scatters the stars. The chaos is not the point; what grows
   in the cleared space is the point.
 
-## Where It Breaks
+## Limits
 
 - **Romanticizes disruption** — not all rule-breaking is insightful; some
   is just destructive. The startup founder who "moves fast and breaks

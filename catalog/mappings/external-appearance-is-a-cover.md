@@ -1,4 +1,6 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: External Appearance Is A Cover
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - understanding-is-seeing
 slug: external-appearance-is-a-cover
 source_frame: containers
-target_frame: embodied-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 What we see on the outside is a cover for what lies beneath. This metaphor
 maps the physical structure of covered objects -- a surface that hides an
@@ -57,7 +58,7 @@ Key structural parallels:
   to reach the true interior. Each layer removed brings the investigator
   closer to reality.
 
-## Where It Breaks
+## Limits
 
 - **There may be no single "true interior"** -- the cover metaphor
   presupposes a definite, stable reality hiding behind appearances. But

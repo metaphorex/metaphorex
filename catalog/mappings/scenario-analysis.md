@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: scenario-analysis
 source_frame: war
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Military war-gaming mapped onto business and investment planning. In war,
 commanders do not predict what the enemy will do; they prepare for several
@@ -52,7 +53,7 @@ Munger applied this structure to decision-making under uncertainty:
   a way that vaguely worrying about it does not. The act of articulation
   is itself analytically valuable.
 
-## Where It Breaks
+## Limits
 
 - **Scenarios anchor on the imaginable** -- you can only prepare for
   futures you can conceive. Nassim Taleb's critique applies: the most

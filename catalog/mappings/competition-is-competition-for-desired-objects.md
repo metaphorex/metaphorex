@@ -1,4 +1,6 @@
 ---
+applies_to:
+- competition
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Competition Is Competition for Desired Objects
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - survival-of-the-fittest
 slug: competition-is-competition-for-desired-objects
 source_frame: economics
-target_frame: competition
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 This metaphor structures competition through the lens of scarce, desirable
 objects that multiple parties want but not all can have. Where the
@@ -55,7 +56,7 @@ Key structural parallels:
   winning. "Within reach." "They're close to landing the contract."
   Distance from the object maps onto likelihood of competitive success.
 
-## Where It Breaks
+## Limits
 
 - **Many competitive goods are not scarce in the way objects are** -- the
   metaphor imports physical scarcity into domains where it may not apply.

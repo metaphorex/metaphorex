@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are People
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - understanding-is-seeing
 slug: ideas-are-people
 source_frame: social-roles
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas are born, mature, die, and leave offspring. This personification metaphor
 treats abstract intellectual products as living agents with biographies --
@@ -56,7 +57,7 @@ Key structural parallels:
   concept is the offspring of two earlier traditions." The metaphor creates
   a social world of ideas with alliances, rivalries, and kinship.
 
-## Where It Breaks
+## Limits
 
 - **Ideas don't have intentions** -- the personification metaphor lets us
   say "the theory demands" or "the idea insists," but ideas have no

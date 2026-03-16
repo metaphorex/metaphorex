@@ -1,4 +1,6 @@
 ---
+applies_to:
+- geometry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Form Is Motion
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - difficulties-are-impediments-to-motion
 slug: form-is-motion
 source_frame: embodied-experience
-target_frame: geometry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Lines go places. A road follows the coast. A fence runs along the
 property boundary. A mountain range extends from north to south. None
@@ -58,7 +59,7 @@ The mapping is so pervasive that it is nearly invisible:
   one is described as following or accompanying the other, as though
   both were traveling together.
 
-## Where It Breaks
+## Limits
 
 - **Static forms do not have direction** -- the metaphor imposes a
   direction on things that have none. "The road goes from Paris to

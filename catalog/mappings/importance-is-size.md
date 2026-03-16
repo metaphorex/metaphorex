@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Importance Is Size
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - difficulties-are-burdens
 slug: importance-is-size
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Important things are big. A "big" decision, a "huge" opportunity, a
 "massive" failure, a "small" oversight. This primary metaphor maps the
@@ -57,7 +58,7 @@ require more force to manipulate, and cannot be picked up and set
 aside. The correlation between physical size and practical importance
 is one of the earliest experiential regularities a child encounters.
 
-## Where It Breaks
+## Limits
 
 - **Small things can be profoundly important** -- a virus, a mutation,
   a misplaced comma in a legal contract, a single vote. The metaphor

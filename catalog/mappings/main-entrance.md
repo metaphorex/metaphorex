@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-abstraction
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,7 +8,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Main Entrance
 provenance: alexander-pattern-language
 related:
@@ -14,11 +16,10 @@ related:
 - a-place-to-wait
 slug: main-entrance
 source_frame: architecture-and-building
-target_frame: software-abstraction
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Alexander's pattern #110, "Main Entrance," argues that a building's
 primary entry should be immediately visible, easy to find, and
@@ -61,7 +62,7 @@ Key structural parallels:
   this function. The metaphor frames the transition from "not using the
   software" to "using the software" as an architectural passage.
 
-## Where It Breaks
+## Limits
 
 - **Buildings have one physical entrance axis; software has many access
   vectors** -- people approach a building from the street, on foot or

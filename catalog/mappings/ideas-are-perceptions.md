@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Perceptions
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - ideas-are-food
 slug: ideas-are-perceptions
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Thinking is perceiving. Ideas enter the mind the way sights, sounds, and
 sensations enter the body -- they are noticed, registered, and either held
@@ -62,7 +63,7 @@ Key structural parallels:
   and the general sense of "sensing" imports intuitive, pre-reflective
   apprehension.
 
-## Where It Breaks
+## Limits
 
 - **Perception is passive; thinking is active** -- perceptions arrive
   unbidden. You open your eyes and you see. Thinking does not work this

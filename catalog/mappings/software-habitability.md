@@ -1,11 +1,13 @@
 ---
+applies_to:
+- software-engineering
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Software Habitability
 provenance: alexander-pattern-language
 related:
@@ -14,11 +16,10 @@ related:
 - technical-debt
 slug: software-habitability
 source_frame: architecture-and-building
-target_frame: software-engineering
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Richard Gabriel borrows Christopher Alexander's concept of habitability --
 the quality of a building that makes its occupants feel at home, able to
@@ -60,7 +61,7 @@ structures they live inside.
   uninhabitable -- a monument to the original author that resists all
   subsequent change.
 
-## Where It Breaks
+## Limits
 
 - **Buildings have physical affordances; code does not** -- a farmhouse
   communicates its structure through visible features: doors, windows,

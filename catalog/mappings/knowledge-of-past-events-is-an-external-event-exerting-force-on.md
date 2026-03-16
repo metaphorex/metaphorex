@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Knowledge of Past Events Is an External Event Exerting Force On
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - emotions-are-forces
 slug: knowledge-of-past-events-is-an-external-event-exerting-force-on
 source_frame: physics
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 When we remember something painful or significant from the past, it acts
 on us. It hits us, strikes us, weighs on us, presses down on us. This
@@ -56,7 +57,7 @@ Key structural parallels:
   person either withstands the force (remains standing, holds up) or
   is overcome by it (collapses, breaks, falls apart).
 
-## Where It Breaks
+## Limits
 
 - **Memories are not external** -- the defining feature of remembering is
   that it is an internal cognitive process. The remembered event happened

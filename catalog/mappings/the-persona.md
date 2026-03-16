@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-roles
 author: agent:claude-opus
 categories:
 - psychology
@@ -16,11 +18,10 @@ related:
 - the-facade-pattern
 slug: the-persona
 source_frame: mythology
-target_frame: social-roles
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Persona is the mask -- literally. Jung took the word from the Latin
 *persona*, the mask worn by actors in Roman theater. It is not who you
@@ -62,7 +63,7 @@ Key structural parallels:
   becomes the whole identity, the system becomes brittle because it
   has no private state to draw on when the public surface is challenged.
 
-## Where It Breaks
+## Limits
 
 - **Implies deception where there is only structure** -- the mask
   metaphor suggests that the Persona is false and something "real" lies

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Emotional Self Is A Brittle Object
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - emotions-are-entities-within-a-person
 slug: emotional-self-is-a-brittle-object
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 You can break a person's heart, crush their spirit, or shatter their
 confidence. This metaphor maps the properties of brittle physical objects
@@ -63,7 +64,7 @@ Key structural parallels:
   stronger material. The metaphor makes emotional resilience feel like
   a material property: some people are glass, others are steel.
 
-## Where It Breaks
+## Limits
 
 - **The emotional self is not an object with a fixed breaking point** --
   brittle objects have deterministic failure: apply force X and the

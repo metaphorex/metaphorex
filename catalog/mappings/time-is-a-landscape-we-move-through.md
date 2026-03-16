@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is a Landscape We Move Through
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - time-is-a-pursuer
 slug: time-is-a-landscape-we-move-through
 source_frame: journeys
-target_frame: time-and-temporality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 In this metaphor, the experiencer is a traveler moving forward through a
 spatial terrain, and that terrain *is* time. The future lies ahead, the past
@@ -55,7 +56,7 @@ Key structural parallels:
   The metaphor makes temporal experience navigable by converting events
   into spatial reference points.
 
-## Where It Breaks
+## Limits
 
 - **You cannot stop** -- in a real landscape, you can sit down and rest.
   In the temporal landscape, forward motion is compulsory. You cannot pause

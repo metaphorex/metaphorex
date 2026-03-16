@@ -1,23 +1,25 @@
 ---
+applies_to:
+- data-processing
 author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Unix Pipe
 related:
 - data-flow-is-fluid-flow
 - the-pipeline-pattern
 slug: unix-pipe
 source_frame: fluid-dynamics
-target_frame: data-processing
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Doug McIlroy's 1964 Bell Labs memo made the metaphor explicit: "We should
 have some ways of coupling programs like garden hose -- screw in another
@@ -53,7 +55,7 @@ Key structural parallels:
   the output at the end of the pipeline. The metaphor imports this
   opacity as a feature, not a bug.
 
-## Where It Breaks
+## Limits
 
 - **Water is continuous; data is discrete** -- water flows as a continuous
   stream. Data arrives in chunks: lines, bytes, records. Unix pipes paper

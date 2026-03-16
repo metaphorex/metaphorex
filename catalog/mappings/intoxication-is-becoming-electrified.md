@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Intoxication Is Becoming Electrified
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - emotions-are-forces
 slug: intoxication-is-becoming-electrified
 source_frame: electricity
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 A person who is intoxicated is "buzzed," "wired," "electrified,"
 "charged up." This metaphor maps the physical phenomenon of
@@ -58,7 +59,7 @@ Key structural parallels:
   The metaphor provides a scalar vocabulary: buzzed, charged, wired,
   fried -- mapping increasing voltage onto increasing intoxication.
 
-## Where It Breaks
+## Limits
 
 - **Electricity is instant; intoxication is gradual** -- real
   electrification happens in milliseconds. The onset of most intoxication

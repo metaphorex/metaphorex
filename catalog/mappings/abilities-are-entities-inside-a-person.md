@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Abilities Are Entities Inside A Person
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - properties-are-possessions
 slug: abilities-are-entities-inside-a-person
 source_frame: containers
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 You carry your abilities inside you. This ontological metaphor treats the
 person as a container and abilities -- talents, skills, capacities -- as
@@ -50,7 +51,7 @@ Key structural parallels:
   her." The container has finite space. Some people are full of abilities;
   others are empty. This maps cognitive capacity onto volumetric capacity.
 
-## Where It Breaks
+## Limits
 
 - **Abilities are not separable from the person** -- the metaphor creates
   a duality between you (the container) and your abilities (the contents),

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- communication
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Communication Is Linguistic Communication
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - communication-is-sending
 slug: communication-is-linguistic-communication
 source_frame: language
-target_frame: communication
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 We treat all communication as if it were language. A painting *says*
 something. Music *speaks* to us. A gesture *tells* you what someone
@@ -51,7 +52,7 @@ Key structural parallels:
   has a *language*. Fashion makes *statements*. The metaphor provides an
   analytical toolkit (parse, interpret, construct) for any domain.
 
-## Where It Breaks
+## Limits
 
 - **Not all communication has propositional content** -- a warm embrace
   communicates something, but it cannot be paraphrased as a sentence

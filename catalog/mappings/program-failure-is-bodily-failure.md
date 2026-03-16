@@ -1,21 +1,22 @@
 ---
+applies_to:
+- software-programs
 author: fshot
 categories:
 - software-engineering
 - cognitive-science
 contributors: []
 created: '2026-03-07'
-kind: conceptual-metaphor
+kind: metaphor
 name: Program Failure Is Bodily Failure
 related:
 - data-flow-is-fluid-flow
 slug: program-failure-is-bodily-failure
 source_frame: embodied-experience
-target_frame: software-programs
 updated: '2026-03-09'
 ---
 
-## What It Brings
+## Transfers
 
 Maps the visceral experience of bodily malfunction onto software failure.
 This makes abstract computational problems *feelable*: "the server is
@@ -33,7 +34,7 @@ Key structural parallels:
   catastrophic ("it shit the bed"), mirroring the range from fatigue to
   organ failure.
 
-## Where It Breaks
+## Limits
 
 - **Programs don't suffer** — the metaphor imports empathy where none is
   warranted. "The poor server" anthropomorphizes in ways that can distort

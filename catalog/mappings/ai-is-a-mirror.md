@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,17 +8,16 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is a Mirror
 related:
 - ai-is-a-black-box
 slug: ai-is-a-mirror
 source_frame: vision
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 AI reflects us back to ourselves. When an image generator produces biased
 portraits or a language model reproduces stereotypes, the mirror metaphor
@@ -43,7 +44,7 @@ Key structural parallels:
   is surfacing hidden social realities. This is the metaphor's most
   productive contribution: it makes bias visible and demands a response.
 
-## Where It Breaks
+## Limits
 
 - **Mirrors do not selectively amplify** -- a mirror reproduces at 1:1
   scale. AI training does not. Overrepresented patterns in training data

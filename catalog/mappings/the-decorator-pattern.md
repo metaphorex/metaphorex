@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -12,11 +14,10 @@ related:
 - the-facade-pattern
 slug: the-decorator-pattern
 source_frame: architecture-and-building
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A decorator in architecture is an ornamental addition -- crown molding,
 wainscoting, a carved lintel -- that changes the appearance or feel of a
@@ -46,7 +47,7 @@ Key structural parallels:
   unwrapping. The metaphor implies the addition is temporary or optional,
   which is precisely the design intent.
 
-## Where It Breaks
+## Limits
 
 - **Architectural decoration is cosmetic; software decoration is
   functional** -- adding a cornice to a ceiling changes how the room

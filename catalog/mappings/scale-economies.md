@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: scale-economies
 source_frame: physics
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Physical scaling laws -- the mathematical relationships between an object's
 size and its properties -- mapped onto cost structure and competitive
@@ -58,7 +59,7 @@ Munger saw scale economies as one of the primary sources of durable
 competitive advantage. A business that achieves scale in a high-fixed-cost
 industry builds a moat not through cleverness but through arithmetic.
 
-## Where It Breaks
+## Limits
 
 - **Scale has diseconomies too** -- the physical metaphor highlights the
   favorable direction of scaling but downplays the unfavorable. Large

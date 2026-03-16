@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -15,11 +17,10 @@ related:
 - lollapalooza-effect
 slug: man-with-a-hammer
 source_frame: tool-use
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 "To a man with a hammer, everything looks like a nail." The tool-use
 frame mapped onto reasoning: when you possess only one analytical
@@ -55,7 +56,7 @@ intellectual toolkit: "You must have multiple models -- because if you
 just have one or two that you're using, the nature of human psychology
 is such that you'll torture reality so that it fits your models."
 
-## Where It Breaks
+## Limits
 
 - **The latticework is itself a hammer** -- Munger's prescription
   (acquire many mental models) can become its own mono-tool. A thinker

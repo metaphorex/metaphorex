@@ -1,4 +1,6 @@
 ---
+applies_to:
+- medicine
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Treating Illness Is Fighting a War
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - competition-is-war
 slug: treating-illness-is-fighting-a-war
 source_frame: war
-target_frame: medicine
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Medicine speaks the language of war so fluently that the metaphor is nearly
 invisible. The body is a territory to be defended. Disease is an invader.
@@ -53,7 +54,7 @@ The metaphor motivates action. It makes passivity feel like surrender and
 gives patients a role beyond suffering: they are combatants in their own
 defense.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor blames the patient** -- if treatment is fighting, then
   dying is losing, and losing implies insufficient effort. "She lost her

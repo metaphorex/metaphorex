@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-roles
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Society Is a Body
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - social-accounting
 slug: society-is-a-body
 source_frame: organism
-target_frame: social-roles
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Society has a head of state, the long arm of the law, and a body politic.
 SOCIETY IS A BODY maps the structure of the human body -- its organs,
@@ -57,7 +58,7 @@ Key structural parallels:
   but it also argues against individual autonomy: a hand that tries
   to act independently of the body is a spasm, not a liberation.
 
-## Where It Breaks
+## Limits
 
 - **Bodies have natural hierarchies; societies do not** -- the brain
   genuinely controls the hand through neurological wiring. There is

@@ -1,20 +1,22 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - linguistics
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
-kind: dead-metaphor
+dead: true
+kind: metaphor
 name: Running Out of Steam
 related: []
 slug: running-out-of-steam
 source_frame: physics
-target_frame: embodied-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A steam engine losing boiler pressure, slowing and halting as the energy
 source depletes. The metaphor maps mechanical energy depletion onto human
@@ -42,7 +44,7 @@ more than a century.
   of lived experience, but the phrase is so embedded in English that it
   has become literal -- just a way to say "losing energy."
 
-## Where It Breaks
+## Limits
 
 - **Human energy is not a boiler** -- the steam engine metaphor implies
   a single, depletable reservoir: burn the fuel, heat the water, use the

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-facade-pattern
 slug: the-mediator-pattern
 source_frame: mediation
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A mediator in dispute resolution is a neutral third party who
 facilitates communication between disputants who cannot or will not
@@ -54,7 +55,7 @@ Key structural parallels:
   responsible for coordination complexity. The metaphor reframes
   complexity as something to manage, not assign.
 
-## Where It Breaks
+## Limits
 
 - **Human mediators are neutral; software mediators have
   responsibilities** — a mediator's job is to facilitate, not decide.

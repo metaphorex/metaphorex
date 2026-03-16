@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Fashions
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - the-conduit-metaphor
 slug: ideas-are-fashions
 source_frame: social-behavior
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas come into style and go out of style. They are adopted because
 everyone else is adopting them, and abandoned when they become passe.
@@ -60,7 +61,7 @@ Key structural parallels:
   temporal logic: the most interesting ideas are the ones that have not
   yet been widely adopted, and being early is a mark of sophistication.
 
-## Where It Breaks
+## Limits
 
 - **Fashion is arbitrary; ideas are not (entirely)** -- the fashion
   metaphor implies that intellectual change is driven by taste, boredom,

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- governance
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Compliance Is Following
 related:
 - compliance-is-tightness
 - having-control-is-up
 slug: compliance-is-following
 source_frame: journeys
-target_frame: governance
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To comply is to follow. Rules are paths, and the obedient person walks
 along them. The one who disobeys strays, wanders, or goes astray. This
@@ -50,7 +51,7 @@ The mapping structures how we think about obedience and authority:
   "Fall back in line." Corrective action is mapped onto spatial return --
   the errant person must retrace their steps to rejoin the path.
 
-## Where It Breaks
+## Limits
 
 - **Following implies a single path** -- the metaphor assumes one correct
   route. But many regulatory environments involve competing rules, multiple

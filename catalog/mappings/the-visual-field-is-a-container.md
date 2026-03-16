@@ -1,4 +1,6 @@
 ---
+applies_to:
+- vision
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: The Visual Field Is A Container
 provenance: lakoff-johnson-mwlb
 related:
@@ -14,11 +16,10 @@ related:
 - understanding-is-seeing
 slug: the-visual-field-is-a-container
 source_frame: containers
-target_frame: vision
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 What you can see is a container, and things move in and out of it. This
 ontological metaphor imposes the container schema -- interior, boundary,
@@ -49,7 +50,7 @@ The Osaka archive lists this metaphor with sub-mappings: "Within Sight Is
 Within Container" and "Out Of Sight Is Outside Container," with the note
 that it is discussed in *Metaphors We Live By*.
 
-## Where It Breaks
+## Limits
 
 - **Vision has no sharp boundary** -- the visual field fades gradually at
   the periphery rather than ending at a wall. The container metaphor

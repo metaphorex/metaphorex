@@ -1,4 +1,6 @@
 ---
+applies_to:
+- creative-process
 author: fshot
 categories:
 - systems-thinking
@@ -6,7 +8,7 @@ categories:
 - biology-and-ecology
 contributors: []
 created: '2026-03-07'
-kind: conceptual-metaphor
+kind: metaphor
 name: Creative Process Is Gardening
 provenance: eno-composers-as-gardeners
 related:
@@ -14,11 +16,10 @@ related:
 - creation-is-cultivation
 slug: creative-process-is-gardening
 source_frame: horticulture
-target_frame: creative-process
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The gardener does not *make* the garden. The gardener creates conditions
 under which a garden *happens*. Seeds are planted with intent, but the
@@ -46,7 +47,7 @@ Key structural parallels:
   its own agency. This is the metaphor's deepest gift: ideas have
   a life of their own, and the creator's job is to serve them.
 
-## Where It Breaks
+## Limits
 
 - **Gardens still need planning** — soil preparation, climate assessment,
   layout, drainage. The metaphor can romanticize "going with the flow"

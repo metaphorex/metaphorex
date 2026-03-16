@@ -1,4 +1,6 @@
 ---
+applies_to:
+- competition
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Competition Is 1-on-1 Physical Aggression
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - survival-of-the-fittest
 slug: competition-is-1-on-1-physical-aggression
 source_frame: war
-target_frame: competition
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 This metaphor structures competition as a physical fight between two
 individuals. Where broader war metaphors model competition as organized
@@ -49,7 +50,7 @@ Key structural parallels:
   company "knocked out" of the market, an athlete "eliminated" from the
   tournament. The metaphor provides a clear, dramatic endpoint.
 
-## Where It Breaks
+## Limits
 
 - **Competition is rarely truly 1-on-1** -- most competitive situations
   involve multiple players, shifting alliances, and indirect effects. The

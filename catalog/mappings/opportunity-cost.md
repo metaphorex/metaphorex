@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -14,11 +16,10 @@ related:
 - latticework-of-mental-models
 slug: opportunity-cost
 source_frame: economics
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Economic cost theory mapped onto general decision-making. Opportunity cost
 is the value of the best alternative you forgo when you choose one option
@@ -61,7 +62,7 @@ the odds. And the rest of the time, they don't. It's just that simple."
 The flip side -- knowing when not to act because the opportunity cost of
 action is too high -- is equally important.
 
-## Where It Breaks
+## Limits
 
 - **The best alternative is usually unknowable** -- opportunity cost is
   defined as the value of the best forgone alternative, but in practice

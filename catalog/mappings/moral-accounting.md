@@ -1,4 +1,6 @@
 ---
+applies_to:
+- ethics-and-morality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Moral Accounting
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - morality-is-cleanliness
 slug: moral-accounting
 source_frame: economics
-target_frame: ethics-and-morality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Morality keeps books. You owe someone an apology. They are indebted to you for
 your kindness. A crime incurs a debt to society. Justice demands that accounts
@@ -64,7 +65,7 @@ Key structural parallels:
   both why forgiveness is valued (it breaks the cycle of debt) and why it is
   difficult (it violates the bookkeeping instinct).
 
-## Where It Breaks
+## Limits
 
 - **Morality is not zero-sum** -- in financial accounting, every credit
   requires a corresponding debit. But moral action is not conserved. A kind

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Difficulties Are Containers
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - life-is-a-container
 slug: difficulties-are-containers
 source_frame: containers
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Difficulties are enclosed spaces you fall into, get trapped in, and must
 climb out of. While the impediment metaphor treats problems as objects
@@ -52,7 +53,7 @@ Key structural parallels:
   The difficulty doesn't just impede forward motion; it restricts action
   in all directions.
 
-## Where It Breaks
+## Limits
 
 - **Difficulties are rarely bounded** -- the container metaphor implies
   clear edges. You know when you're in trouble and when you're out of it.

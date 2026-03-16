@@ -1,23 +1,25 @@
 ---
+applies_to:
+- network-communication
 author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Network Socket
 related:
 - network-port
 - tcp-handshake
 slug: network-socket
 source_frame: tool-use
-target_frame: network-communication
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A socket is a hollow opening into which something is inserted to make a
 connection -- a lightbulb socket, a wall socket, an eye socket. The
@@ -51,7 +53,7 @@ Key structural parallels:
   data flows in both directions. The metaphor naturally suggests
   full-duplex communication, which is exactly what TCP sockets provide.
 
-## Where It Breaks
+## Limits
 
 - **Sockets are not physical objects** -- a physical socket is a thing you
   can see and touch. A network socket is a kernel data structure: a file

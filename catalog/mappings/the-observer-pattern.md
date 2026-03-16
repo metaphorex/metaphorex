@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -13,11 +15,10 @@ related:
 - the-command-pattern
 slug: the-observer-pattern
 source_frame: surveillance
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 An observer watches. The word carries the weight of sustained,
 purposeful attention -- a birdwatcher at the marsh, a UN observer at
@@ -57,7 +58,7 @@ Key structural parallels:
   waited, and now they know. The metaphor gives the callback a sense
   of purpose.
 
-## Where It Breaks
+## Limits
 
 - **Real observers have agency; software observers don't** -- a UN
   election observer can intervene, file reports, apply judgment, and

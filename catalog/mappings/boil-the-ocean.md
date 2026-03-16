@@ -1,4 +1,6 @@
 ---
+applies_to:
+- collaborative-work
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,8 +8,9 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Boil the Ocean
 related:
 - big-ball-of-mud
@@ -15,11 +18,10 @@ related:
 - yak-shaving
 slug: boil-the-ocean
 source_frame: natural-phenomena
-target_frame: collaborative-work
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 You cannot boil the ocean. The physical impossibility is so self-evident
 that the expression needs no explanation, and that is precisely its power:
@@ -53,7 +55,7 @@ Key structural parallels:
   "we over-promised," which makes it useful politically: it criticizes the
   plan, not the people.
 
-## Where It Breaks
+## Limits
 
 - **Some oceans should be boiled** -- the metaphor assumes that vast scope
   is always a mistake. But some problems genuinely require comprehensive

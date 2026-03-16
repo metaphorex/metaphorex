@@ -1,4 +1,6 @@
 ---
+applies_to:
+- governance
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Nation Is a Person
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - life-is-a-journey
 slug: nation-is-a-person
 source_frame: social-roles
-target_frame: governance
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Nations speak, act, feel, get sick, and die. This personification metaphor
 is so deeply embedded in political discourse that it is nearly invisible --
@@ -55,7 +56,7 @@ Key structural parallels:
   structures foreign policy debates where national "face" becomes a reason
   to go to war.
 
-## Where It Breaks
+## Limits
 
 - **Nations are not unitary agents** -- the metaphor compresses millions
   of people with competing interests into a single person with a single

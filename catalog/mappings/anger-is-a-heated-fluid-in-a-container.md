@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Anger Is a Heated Fluid in a Container
 provenance: osaka-master-metaphor-list
 related:
@@ -20,11 +22,10 @@ related:
 - the-body-is-a-container-for-the-self
 slug: anger-is-a-heated-fluid-in-a-container
 source_frame: fluid-dynamics
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 This is the most thoroughly analyzed complex metaphor in cognitive
 linguistics -- Lakoff's paradigm case for how metaphors compose from
@@ -82,7 +83,7 @@ Key structural parallels:
   is uncontrolled) and makes emotional expression look like engineering:
   managing pressure through calculated release.
 
-## Where It Breaks
+## Limits
 
 - **The hydraulic model is scientifically wrong** -- the metaphor
   implies that anger accumulates like a fluid and must be "released" or

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -14,11 +16,10 @@ related:
 - first-principles-thinking
 slug: occams-razor
 source_frame: tool-use
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A cutting tool mapped onto explanation selection. Among competing
 hypotheses that equally account for the evidence, prefer the one with the
@@ -57,7 +58,7 @@ economics (good product, growing market), do not reach for elaborate
 narratives about visionary management or paradigm shifts. The simplest
 sufficient explanation is usually the most reliable.
 
-## Where It Breaks
+## Limits
 
 - **"Simplicity" is not well-defined** -- what counts as simpler? Fewer
   variables? Fewer parameters? Fewer types of entity? A model with three

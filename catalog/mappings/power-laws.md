@@ -1,4 +1,6 @@
 ---
+applies_to:
+- systems-thinking
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -15,11 +17,10 @@ related:
 - lollapalooza-effect
 slug: power-laws
 source_frame: probability
-target_frame: systems-thinking
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A mathematical distribution mapped onto real-world outcome patterns. In a
 power-law distribution, a small number of inputs produce the majority of
@@ -64,7 +65,7 @@ Key structural parallels:
   bugs cause most of the crashes. The model reframes concentration as a
   structural property of the system, not as a market failure or anomaly.
 
-## Where It Breaks
+## Limits
 
 - **Not everything follows a power law** -- the model is frequently
   over-applied. Many distributions are approximately normal (human

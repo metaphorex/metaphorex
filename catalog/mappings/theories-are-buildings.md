@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,17 +9,16 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Theories Are Buildings
 related:
 - argument-is-war
 slug: theories-are-buildings
 source_frame: architecture-and-building
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 We construct theories, lay foundations, build frameworks, and watch
 arguments collapse. The building metaphor for intellectual work is so
@@ -48,7 +49,7 @@ Key structural parallels:
   argument." "Additional evidence buttresses the claim." The metaphor implies
   that intellectual weakness is local and fixable, like a cracked wall.
 
-## Where It Breaks
+## Limits
 
 - **Buildings are static; theories evolve** -- the metaphor favors finished
   structures over works in progress. A theory "under construction" sounds

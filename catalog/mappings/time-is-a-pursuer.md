@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is a Pursuer
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - time-is-a-landscape-we-move-through
 slug: time-is-a-pursuer
 source_frame: animal-behavior
-target_frame: time-and-temporality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Time chases us. It catches up with us. It runs out. In this metaphor, the
 person is prey and time is the predator -- or at minimum, the faster runner
@@ -56,7 +57,7 @@ Key structural parallels:
   predator growing larger as it approaches. Missing a deadline is being
   caught; meeting one is escaping just in time.
 
-## Where It Breaks
+## Limits
 
 - **Time is not behind you** -- the pursuer metaphor requires time to be
   spatially behind the experiencer, chasing. But other equally valid

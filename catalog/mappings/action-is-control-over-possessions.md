@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Action Is Control Over Possessions
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - acting-on-is-transferring-an-object
 slug: action-is-control-over-possessions
 source_frame: economics
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To act is to control what you have. This metaphor maps the economics of
 possession -- acquiring, holding, losing, managing assets -- onto the
@@ -53,7 +54,7 @@ Key structural parallels:
   acting and another starts, the metaphor frames it as a transfer of
   possessions. Authority and initiative are objects that change hands.
 
-## Where It Breaks
+## Limits
 
 - **Action is not always about control** -- the metaphor privileges
   deliberate, controlled activity. But much meaningful action is

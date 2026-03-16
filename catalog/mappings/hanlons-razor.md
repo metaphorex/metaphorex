@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: hanlons-razor
 source_frame: tool-use
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Another razor -- a cutting tool that removes unnecessary hypotheses --
 applied specifically to attributions of intent. Never attribute to malice
@@ -60,7 +61,7 @@ investing, it means not assuming that management is lying when they could
 simply be confused, and not assuming market manipulation when ordinary
 mispricing explains the data.
 
-## Where It Breaks
+## Limits
 
 - **Malice does exist** -- the razor is a heuristic, not a law. Some
   people do act with deliberate harmful intent. Fraud, abuse, corruption,

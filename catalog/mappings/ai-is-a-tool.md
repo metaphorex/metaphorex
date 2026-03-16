@@ -1,11 +1,13 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is a Tool
 related:
 - ai-is-a-copilot
@@ -14,11 +16,10 @@ related:
 - ai-is-an-oracle
 slug: ai-is-a-tool
 source_frame: tool-use
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The most politically consequential framing in AI discourse. A tool is an
 inert object that extends human capability without possessing goals of
@@ -55,7 +56,7 @@ Key structural parallels:
   to humans, making the question "who is liable when AI errs?" trivially
   answerable: the person who wielded it.
 
-## Where It Breaks
+## Limits
 
 - **Tools do not generate novel outputs** -- a hammer drives the nail
   you aim it at. An LLM generates text you did not write, could not

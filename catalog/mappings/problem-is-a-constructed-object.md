@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Problem Is a Constructed Object
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - argument-is-a-building
 slug: problem-is-a-constructed-object
 source_frame: architecture-and-building
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Problems are things that have been built. They have structure, components,
 a foundation, and an architecture. This metaphor maps the domain of
@@ -56,7 +57,7 @@ Key structural parallels:
   assigns agency: problems have architects, and those architects can
   be identified and held responsible for their construction.
 
-## Where It Breaks
+## Limits
 
 - **Many problems are emergent, not constructed** -- climate change,
   inequality, and epidemics are not "built" by identifiable architects.

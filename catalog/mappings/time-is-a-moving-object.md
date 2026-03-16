@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is a Moving Object
 provenance: lakoff-johnson-mwlb
 related:
@@ -15,11 +17,10 @@ related:
 - time-is-money
 slug: time-is-a-moving-object
 source_frame: embodied-experience
-target_frame: time-and-temporality
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 One of two complementary metaphors for temporal experience, and the one where
 the observer stands still. Time moves toward you from the future, passes you
@@ -47,7 +48,7 @@ Key structural parallels:
   stream of consciousness." The metaphor imposes unidirectionality: time
   moves in one direction, and you cannot swim upstream.
 
-## Where It Breaks
+## Limits
 
 - **The observer is not passive** -- the metaphor makes the experiencer
   of time into a bystander. Time happens *to* you. This understates human

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
@@ -13,11 +15,10 @@ related:
 - the-map-is-not-the-territory
 slug: comparative-advantage
 source_frame: economics
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 International trade theory mapped onto personal and organizational strategy.
 David Ricardo's insight was counterintuitive: even if England is better than
@@ -52,7 +53,7 @@ Munger generalized this beyond nations:
   it cost more in foregone alternatives than their doing it costs in
   reduced quality?" Usually the answer favors delegation.
 
-## Where It Breaks
+## Limits
 
 - **It assumes stable advantages** -- Ricardo's model works when Portugal's
   climate advantage in wine and England's industrial advantage in cloth

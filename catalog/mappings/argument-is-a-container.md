@@ -1,4 +1,6 @@
 ---
+applies_to:
+- argumentation
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Argument Is a Container
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - activities-are-containers
 slug: argument-is-a-container
 source_frame: containers
-target_frame: argumentation
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Arguments are bounded entities that hold things inside them. An argument
 has content -- evidence, claims, reasoning -- the way a box has contents.
@@ -56,7 +57,7 @@ Key structural parallels:
   The construction of an argument is the loading of a container, and
   analysis is the removal and examination of its contents.
 
-## Where It Breaks
+## Limits
 
 - **Containers are static; arguments are dynamic** -- a container sits
   there holding its contents. An argument unfolds in time, with premises

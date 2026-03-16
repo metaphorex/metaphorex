@@ -1,4 +1,6 @@
 ---
+applies_to:
+- authority-and-mentorship
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -14,11 +16,10 @@ related:
 - the-divine-child
 slug: the-senex
 source_frame: mythology
-target_frame: authority-and-mentorship
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Senex is the archetype of age, order, structure, and the authority
 that comes from having endured. Unlike the Wise Old Man -- who appears
@@ -75,7 +76,7 @@ Key structural parallels:
   becomes the foundation for the next generation. The weight is not
   just an obstacle; it is the raw material.
 
-## Where It Breaks
+## Limits
 
 - **Dignifies stagnation** -- calling a calcified process "the Senex"
   gives it mythological weight it may not deserve. Some old systems are

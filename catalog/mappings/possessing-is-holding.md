@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Possessing Is Holding
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - beliefs-are-possessions
 slug: possessing-is-holding
 source_frame: embodied-experience
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Ownership is understood through the body's grip. To possess something
 is to hold it -- to have it physically in hand, within your grasp,
@@ -51,7 +52,7 @@ Key structural parallels:
   maps onto the degree of control the possessor exercises. A loose
   grip means precarious ownership; a tight grip means secure control.
 
-## Where It Breaks
+## Limits
 
 - **Possession without physical presence** -- modern ownership is
   overwhelmingly abstract. You "own" shares in a company you have

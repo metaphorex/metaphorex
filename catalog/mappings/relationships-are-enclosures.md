@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Relationships Are Enclosures
 provenance: osaka-master-metaphor-list
 related:
@@ -19,11 +21,10 @@ related:
 - categories-are-containers
 slug: relationships-are-enclosures
 source_frame: containers
-target_frame: love-and-relationships
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 You are "in" a relationship. You "get into" one and "get out of" one.
 The relationship has an inside and an outside, and the people involved
@@ -79,7 +80,7 @@ Key structural entailments:
   together." A good relationship is a sturdy container; a failing one
   is a container with holes, cracks, or collapsing walls.
 
-## Where It Breaks
+## Limits
 
 - **The binary is false** -- the container metaphor insists you are
   either in or out. But real relationships exist on a spectrum of

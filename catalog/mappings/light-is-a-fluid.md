@@ -1,4 +1,6 @@
 ---
+applies_to:
+- natural-phenomena
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Light Is A Fluid
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - intelligence-is-a-light-source
 slug: light-is-a-fluid
 source_frame: fluid-dynamics
-target_frame: natural-phenomena
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Light pours through windows, floods rooms, and spills across landscapes.
 Long before physics settled on wave-particle duality, ordinary language had
@@ -54,7 +55,7 @@ Key structural parallels:
   The source-flow-destination structure of fluid dynamics maps cleanly
   onto the emitter-propagation-illumination structure of light.
 
-## Where It Breaks
+## Limits
 
 - **Fluids are affected by gravity; light is not** -- water flows downhill,
   pools at the lowest point, and must be pumped upward. Light travels in

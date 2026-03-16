@@ -1,23 +1,25 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Code Smell
 related:
 - technical-debt
 - program-failure-is-bodily-failure
 slug: code-smell
 source_frame: embodied-experience
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Kent Beck's olfactory metaphor, popularized by Martin Fowler in *Refactoring*
 (1999): bad code is detected by smell before analysis. The metaphor maps the
@@ -51,7 +53,7 @@ Key structural parallels:
   not in a module across the codebase. The metaphor naturally scopes
   detection to the developer's current context.
 
-## Where It Breaks
+## Limits
 
 - **Smell implies contamination** -- the olfactory frame carries
   connotations of rot, disease, and uncleanliness. This moralizes code

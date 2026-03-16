@@ -1,4 +1,6 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: People Are Batteries
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - the-mind-is-a-machine
 slug: people-are-batteries
 source_frame: electricity
-target_frame: embodied-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A person is a battery: a self-contained energy source that charges,
 discharges, runs low, and eventually dies. This metaphor maps the
@@ -60,7 +61,7 @@ Key structural parallels:
   loosely onto emotional valence, though this may blend with the
   broader physics of electrical charge rather than batteries specifically.
 
-## Where It Breaks
+## Limits
 
 - **Batteries are simple; people are not** -- a battery has one job:
   store and release energy. A person's "energy" is a complex, multi-

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,8 +8,9 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Zombie Process
 related:
 - software-rot
@@ -15,11 +18,10 @@ related:
 - orphan-process
 slug: zombie-process
 source_frame: mythology
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The undead -- a corpse that has died but refuses to fully depart,
 occupying space among the living. In Unix systems, a zombie process
@@ -55,7 +57,7 @@ Key structural parallels:
   that inaction is the vector -- the system rots not because something
   bad is happening, but because something necessary is not happening.
 
-## Where It Breaks
+## Limits
 
 - **Zombies in fiction are dangerous; zombie processes are inert** --
   horror zombies attack the living, spread infection, and destroy

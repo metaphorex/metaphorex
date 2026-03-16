@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -13,11 +15,10 @@ related:
 - the-decorator-pattern
 slug: the-composite-pattern
 source_frame: architecture-and-building
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Call a part-whole hierarchy a "composite" and you invoke the physical
 logic of assembled structures -- buildings made of floors made of rooms,
@@ -56,7 +57,7 @@ Key structural parallels:
   `remove()` operations on composite nodes feel intuitive rather than
   abstract.
 
-## Where It Breaks
+## Limits
 
 - **Physical composites have physics; software composites don't** --
   a building's structure must obey gravity, material strength, and

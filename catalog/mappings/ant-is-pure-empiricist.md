@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -10,11 +12,10 @@ name: The Ant Is the Pure Empiricist
 related: []
 slug: ant-is-pure-empiricist
 source_frame: animal-behavior
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Francis Bacon's ant collects and stores without transforming. In Aphorism
 XCV of the *Novum Organum* (1620), Bacon distinguishes three approaches
@@ -53,7 +54,7 @@ Key structural parallels:
   productivity is real but misidentified -- activity is mistaken for
   understanding.
 
-## Where It Breaks
+## Limits
 
 - **Ants are spectacularly successful** -- Bacon uses the ant as a figure
   of inadequacy, but actual ants are among the most successful organisms

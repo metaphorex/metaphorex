@@ -1,23 +1,25 @@
 ---
+applies_to:
+- data-processing
 author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Stdin, Stdout, Stderr
 related:
 - unix-pipe
 - data-flow-is-fluid-flow
 slug: stdin-stdout-stderr
 source_frame: fluid-dynamics
-target_frame: data-processing
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Every Unix process is born with three open file descriptors: standard input
 (fd 0), standard output (fd 1), and standard error (fd 2). These are
@@ -53,7 +55,7 @@ Key structural parallels:
   vocabulary is explicit: "flush" the buffer, just as you flush a pipe
   to clear accumulated contents.
 
-## Where It Breaks
+## Limits
 
 - **Streams are ordered; water is not** -- data in a stream has strict
   sequential ordering: byte 47 comes after byte 46, always. Water in a

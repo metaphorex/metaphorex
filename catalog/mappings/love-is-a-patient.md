@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Love Is a Patient
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - love-is-madness
 slug: love-is-a-patient
 source_frame: medicine
-target_frame: love-and-relationships
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Love as a living body that can get sick, suffer, and either recover or die.
 The metaphor treats the relationship itself -- not the lovers -- as the
@@ -58,7 +59,7 @@ Key structural parallels:
   treatment. This reframes breakup as the natural conclusion of a fatal
   illness rather than a failure of will.
 
-## Where It Breaks
+## Limits
 
 - **Relationships are not organisms** -- treating the relationship as a
   patient with its own biology creates a fiction that can displace

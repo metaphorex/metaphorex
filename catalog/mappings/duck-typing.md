@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,18 +8,18 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Duck Typing
 related:
 - the-map-is-not-the-territory
 slug: duck-typing
 source_frame: folk-taxonomy
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 "If it walks like a duck and quacks like a duck, then it is a duck." The
 duck test is an old piece of abductive reasoning -- identify a thing by
@@ -58,7 +60,7 @@ Key structural parallels:
   ancestry. The category is constituted by the markers, not the
   pedigree.
 
-## Where It Breaks
+## Limits
 
 - **Ducks are unambiguous; duck-typed objects are not** -- in nature, if
   it walks like a duck and quacks like a duck, it almost certainly *is*

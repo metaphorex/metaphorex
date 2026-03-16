@@ -1,4 +1,6 @@
 ---
+applies_to:
+- systems-thinking
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -12,11 +14,10 @@ related:
 - the-map-is-not-the-territory
 slug: feedback-loops
 source_frame: physics
-target_frame: systems-thinking
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Control systems engineering -- where a system's output is routed back as
 input, either amplifying (positive feedback) or dampening (negative feedback)
@@ -52,7 +53,7 @@ Key structural parallels:
   experience, fewer users). Understanding which loop currently dominates --
   and what might shift dominance -- is the central analytical task.
 
-## Where It Breaks
+## Limits
 
 The feedback loop model is one of the most useful analytical tools available,
 which makes its failure modes especially important to understand.

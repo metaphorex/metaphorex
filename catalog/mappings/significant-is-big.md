@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Significant Is Big
 provenance: lakoff-johnson-mwlb
 related:
@@ -15,11 +17,10 @@ related:
 - ideas-are-objects
 slug: significant-is-big
 source_frame: embodied-experience
-target_frame: social-behavior
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Importance has size. The metaphor is so deeply embodied it barely registers
 as figurative -- we experience significant things as large and trivial things
@@ -52,7 +53,7 @@ Key structural parallels:
   notice." The metaphor connects importance to perceptual salience through
   the physical fact that larger objects are easier to see.
 
-## Where It Breaks
+## Limits
 
 - **Small things can be profoundly significant** -- a virus, a transistor,
   a genetic mutation. The metaphor systematically undervalues the tiny and

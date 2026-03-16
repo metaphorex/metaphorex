@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
@@ -6,19 +8,19 @@ categories:
 - ethics-and-morality
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Faustian Bargain
 related:
 - damocles-sword
 - trojan-war
 slug: faustian-bargain
 source_frame: mythology
-target_frame: economics
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Doctor Faustus, a scholar dissatisfied with the limits of human knowledge,
 sells his soul to the devil in exchange for twenty-four years of unlimited
@@ -65,7 +67,7 @@ or existential.
   points, the moment technical debt makes a system unmaintainable, and
   any situation where a long period of borrowed time ends abruptly.
 
-## Where It Breaks
+## Limits
 
 - **Faustus's soul is a theological concept; most traded values are
   secular** -- the original bargain depends on a Christian cosmology in

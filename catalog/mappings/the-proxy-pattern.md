@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-decorator-pattern
 slug: the-proxy-pattern
 source_frame: social-roles
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A proxy is someone authorized to act on your behalf: a legal proxy votes
 at a shareholders' meeting, a diplomatic proxy negotiates a treaty, a
@@ -59,7 +60,7 @@ Key structural parallels:
   objects). The social metaphor encodes this constraint naturally:
   a proxy card names one voter, not a committee.
 
-## Where It Breaks
+## Limits
 
 - **Social proxies have judgment; software proxies usually don't** -- a
   diplomatic proxy interprets ambiguous instructions, reads the room, and

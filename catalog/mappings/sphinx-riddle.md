@@ -1,23 +1,25 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - social-dynamics
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Sphinx Riddle
 related:
 - tantalus
 - damocles-sword
 slug: sphinx-riddle
 source_frame: mythology
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The Sphinx of Thebes perched on a rock outside the city and posed a riddle
 to every traveler: "What walks on four legs in the morning, two at noon,
@@ -59,7 +61,7 @@ any situation where a challenge must be solved to proceed.
   maps onto the obsolescence of any gatekeeping mechanism once its
   answer is widely known.
 
-## Where It Breaks
+## Limits
 
 - **Real gatekeeping is rarely fair** -- the Sphinx poses the same
   riddle to everyone and accepts the correct answer regardless of who

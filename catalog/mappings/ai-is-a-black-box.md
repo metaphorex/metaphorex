@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,17 +8,16 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is a Black Box
 related:
 - ai-is-a-mirror
 slug: ai-is-a-black-box
 source_frame: containers
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Inputs go in, outputs come out, and nobody can see what happens inside.
 The black box metaphor frames AI systems as sealed containers whose
@@ -45,7 +46,7 @@ Key structural parallels:
   suspicious, making opacity feel like a moral failing rather than a
   technical constraint.
 
-## Where It Breaks
+## Limits
 
 - **Black boxes are deliberately sealed; neural nets are accidentally
   opaque** -- in engineering, a black box is sealed on purpose because

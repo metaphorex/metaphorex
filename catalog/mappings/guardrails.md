@@ -1,12 +1,15 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
 - security
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Guardrails
 related:
 - ai-safety-is-containment
@@ -14,11 +17,10 @@ related:
 - ai-is-a-tool
 slug: guardrails
 source_frame: journeys
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 AI behavioral constraints are called "guardrails" -- metal barriers along
 the edge of a highway designed to prevent vehicles from leaving the road.
@@ -61,7 +63,7 @@ Key structural parallels:
   when something goes wrong. This maps onto the ideal of safety systems
   that do not degrade model performance on benign inputs.
 
-## Where It Breaks
+## Limits
 
 - **There is no road** -- the most fundamental break. Highway guardrails
   work because the road is a physical, engineered surface with clear

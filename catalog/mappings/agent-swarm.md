@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,17 +8,16 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Agent Swarm
 related:
 - ai-is-a-tool
 slug: agent-swarm
 source_frame: animal-behavior
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Multi-agent AI systems are routinely described as "swarms" -- decentralized
 collectives that exhibit emergent intelligence without central command. The
@@ -58,7 +59,7 @@ Key structural parallels:
   state, message queues, and artifact repositories rather than direct
   agent-to-agent conversation.
 
-## Where It Breaks
+## Limits
 
 - **AI agents are not interchangeable** -- swarm insects within a caste
   are functionally identical. AI agents in practice are specialized: one

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Beliefs Are Beings with a Life Cycle
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - ideas-are-fashions
 slug: beliefs-are-beings-with-a-life-cycle
 source_frame: life-course
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Beliefs are born, grow, mature, weaken, and die. This metaphor treats
 convictions as living entities with a biographical arc -- they come into
@@ -58,7 +59,7 @@ Key structural parallels:
   of thought. The metaphor makes intellectual history look like
   evolutionary biology.
 
-## Where It Breaks
+## Limits
 
 - **Beliefs don't have intrinsic life spans** -- organisms age and die
   because of biological necessity. Beliefs have no built-in expiration

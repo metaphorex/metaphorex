@@ -1,11 +1,13 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
 - software-engineering
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is a Copilot
 related:
 - ai-is-a-tool
@@ -13,11 +15,10 @@ related:
 - ai-is-an-intern
 slug: ai-is-a-copilot
 source_frame: aviation
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A copilot sits beside the pilot, shares the same instruments, and can
 take the controls -- but the pilot has final authority. GitHub's naming
@@ -56,7 +57,7 @@ Key structural parallels:
   frame imports the idea that effective human-AI collaboration requires
   its own protocols for communication, escalation, and override.
 
-## Where It Breaks
+## Limits
 
 - **Copilots are qualified pilots; AI is not a qualified developer** --
   a real copilot holds the same certifications as the captain and can

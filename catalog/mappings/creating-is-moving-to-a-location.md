@@ -1,4 +1,6 @@
 ---
+applies_to:
+- creative-process
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Creating Is Moving To A Location
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - change-is-motion
 slug: creating-is-moving-to-a-location
 source_frame: journeys
-target_frame: creative-process
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To create is to bring something here -- to move it from elsewhere (or from
 nowhere) to a present location. The created thing arrives. It comes into
@@ -59,7 +60,7 @@ Key structural parallels:
   to create is failure to arrive, to complete the journey from elsewhere
   to here.
 
-## Where It Breaks
+## Limits
 
 - **Created things don't literally come from somewhere** -- the metaphor
   implies a place of origin, but there is no actual location where uncreated

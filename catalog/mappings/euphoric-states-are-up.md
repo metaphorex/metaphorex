@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Euphoric States Are Up
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - emotions-are-forces
 slug: euphoric-states-are-up
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Euphoria is altitude. This mapping is a specific subcase of the broader
 HAPPY IS UP orientation, but it narrows the focus to extreme positive
@@ -57,7 +58,7 @@ Key structural parallels:
   the only direction is down. The metaphor gives euphoria a narrative arc:
   ascent, peak, descent.
 
-## Where It Breaks
+## Limits
 
 - **Not all euphoria is dangerous** -- the metaphor's altitude logic
   implies that extreme happiness is inherently precarious. But some

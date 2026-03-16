@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -19,11 +21,10 @@ related:
 - purposes-are-destinations
 slug: event-structure
 source_frame: journeys
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 The Event Structure metaphor is not a single metaphor but a coherent
 system: a set of interlocking mappings that together constitute our primary
@@ -76,7 +77,7 @@ Key structural parallels:
   difficulty a spatial structure: it is something between you and your
   destination that must be overcome, circumvented, or endured.
 
-## Where It Breaks
+## Limits
 
 - **Events are not spatial** -- the system's power is also its limitation.
   By mapping all of event structure onto space, it makes space the measure

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- natural-phenomena
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Light Is A Line
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - intelligence-is-a-light-source
 slug: light-is-a-line
 source_frame: geometry
-target_frame: natural-phenomena
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Light travels in rays, beams, and shafts. It can be aimed, directed, and
 bent. This metaphor maps the geometric concept of a line -- a
@@ -56,7 +57,7 @@ Key structural parallels:
   The line metaphor makes it possible to talk about light being gathered,
   concentrated, scattered, or split.
 
-## Where It Breaks
+## Limits
 
 - **Light is not one-dimensional** -- a real beam of light has width,
   divergence, and an intensity profile across its cross-section. Laser

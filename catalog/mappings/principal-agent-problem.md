@@ -1,4 +1,6 @@
 ---
+applies_to:
+- governance
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
@@ -15,11 +17,10 @@ related:
 - the-map-is-not-the-territory
 slug: principal-agent-problem
 source_frame: economics
-target_frame: governance
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Economic agency theory mapped onto organizational governance and human
 relationships. The principal-agent problem arises whenever one party (the
@@ -63,7 +64,7 @@ Munger considered this one of the most important mental models in
 business, arguing that "agency costs" explain a vast range of
 institutional dysfunction that is otherwise mysterious.
 
-## Where It Breaks
+## Limits
 
 - **The two-party framing is too simple** -- real organizations involve
   chains and webs of principal-agent relationships. The CEO is an agent

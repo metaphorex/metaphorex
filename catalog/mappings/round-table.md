@@ -1,23 +1,25 @@
 ---
+applies_to:
+- governance
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - law-and-governance
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Round Table
 related:
 - excalibur
 - damocles-sword
 slug: round-table
 source_frame: mythology
-target_frame: governance
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 In Arthurian legend, King Arthur commissioned a round table so that no
 knight could claim precedence by sitting at its head. The geometry solved a
@@ -52,7 +54,7 @@ structure -- onto governance, organizational design, and deliberation.
   for "egalitarian discussion format." The Arthurian origin is decorative
   at best, invisible at worst.
 
-## Where It Breaks
+## Limits
 
 - **Round tables still have power differentials** -- the geometric
   equality is a fiction. At Arthur's own Round Table, Arthur was still

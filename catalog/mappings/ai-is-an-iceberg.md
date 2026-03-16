@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is an Iceberg
 related:
 - ai-is-a-black-box
 - foundation-model-is-a-foundation
 slug: ai-is-an-iceberg
 source_frame: natural-phenomena
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The chatbot is the tip. Beneath the waterline sits the vast, invisible
 infrastructure that makes the visible part possible: training data measured
@@ -53,7 +54,7 @@ Key structural parallels:
   shortcuts -- the visible product topples. The metaphor captures the
   dependency of the polished interface on unglamorous support structures.
 
-## Where It Breaks
+## Limits
 
 - **Icebergs are natural; AI infrastructure is constructed** -- an iceberg
   forms through geological and climatic processes that nobody designed. AI

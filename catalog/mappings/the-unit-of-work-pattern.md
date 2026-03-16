@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-abstraction
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-command-pattern
 slug: the-unit-of-work-pattern
 source_frame: manufacturing
-target_frame: software-abstraction
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A "unit of work" borrows from manufacturing and labor management, where
 work is measured in discrete, countable batches. A shift worker completes
@@ -53,7 +54,7 @@ Key structural parallels:
   invalidation, event publication. The metaphor frames the commit as a
   handoff to the next stage.
 
-## Where It Breaks
+## Limits
 
 - **Manufacturing units are physical and countable; software units are
   arbitrary** -- a unit of work in a textile factory might be "100 yards

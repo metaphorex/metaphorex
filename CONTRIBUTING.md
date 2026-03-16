@@ -57,8 +57,19 @@ records which tool was used — that's where generation transparency lives.
 Every entry should include:
 
 ```yaml
-author: your-github-username
+slug: argument-is-war          # must match filename
+name: Argument Is War
+kind: metaphor                 # metaphor | pattern | archetype | paradigm | mental-model
+source_frame: war              # required for metaphor; optional for others
+applies_to: [argumentation]    # optional; absent for mental-model
+categories: [cognitive-linguistics]
+author: lakoff-johnson
 contributors: []
+related: []
+created: 2026-03-07
+updated: 2026-03-10
+grounding: folk                # proven | established | folk | contested (default: folk, may omit)
+dead: true                     # optional, metaphor kind only
 ```
 
 - `author` — the person or agent who initiated the entry and directed its
@@ -88,17 +99,50 @@ contributor — git blame has you covered.
 ## What to contribute
 
 Metaphorex catalogs metaphors from all domains, not just software. Every
-entry is one of four kinds, organized as a 2x2 grid (specific vs generative,
-source active vs dormant):
+entry is one of five kinds:
 
-- **Conceptual metaphors** — specific A→B mappings where the source domain is
-  still active (e.g., "argument is war", "data flow is fluid flow")
-- **Archetypes** — generative patterns appearing across many mappings
-  (e.g., The Commons, The Trickster)
-- **Dead metaphors** — mappings where the source domain is forgotten; the
-  value is reactivating it (e.g., bottleneck, firewall)
-- **Paradigms** — foundational frames that shape how entire fields think
-  (e.g., survival of the fittest, the map is not the territory)
+- **Metaphors** — specific A→B mappings where the source domain illuminates
+  the target (e.g., "argument is war", "data flow is fluid flow"). Includes
+  dead metaphors (`dead: true`) where the source domain is forgotten but
+  structurally recoverable (bottleneck, firewall, bug).
+- **Patterns** — structural solutions to recurring design problems. The source
+  frame is often thin or vestigial; the value is in the structural solution
+  (Observer, Factory, Facade).
+- **Archetypes** — narrative or character universals appearing across cultures
+  and domains (The Commons, The Trickster, Ouroboros).
+- **Paradigms** — philosophies or worldviews with a position, operating within
+  domains. You can agree or disagree with a paradigm (DRY, Worse is Better,
+  Convention over Configuration).
+- **Mental models** — cross-domain cognitive moves or predictive lenses with
+  no inherent domain and no inherent position. Two subtypes: cognitive moves
+  (Inversion, Second-Order Thinking) and predictive laws (Conway's Law,
+  Goodhart's Law).
+
+### Kind decision criteria
+
+| The item... | Kind |
+|------------|------|
+| Maps one domain onto another | `metaphor` |
+| Term whose origin is forgotten but structure is recoverable | `metaphor` + `dead: true` |
+| Narrative or character universal | `archetype` |
+| Structural solution to a recurring design problem | `pattern` |
+| Philosophy or position operating within domains | `paradigm` |
+| Operational rule, design principle, legal maxim | `paradigm` |
+| Cross-domain cognitive move or technique | `mental-model` |
+| Named empirical regularity / predictive lens | `mental-model` |
+| Razor (decision rule for underdetermination) | `mental-model` |
+| Cannot generate 2+ structural propositions | **Discard** — file as nugget |
+
+### Grounding
+
+The `grounding` field signals epistemic status. Defaults to `folk` if omitted.
+
+| Value | Meaning |
+|-------|---------|
+| `proven` | Formally derived, mathematically necessary, or tautological |
+| `established` | Strong empirical grounding, well-replicated, accepted consensus |
+| `folk` | Practitioner tradition, limited formal testing. **Default** |
+| `contested` | Real evidence on both sides, live debate |
 
 ## Contribution workflow
 
@@ -138,14 +182,14 @@ meet. It applies equally to human and agent contributors.
 
 A mapping entry has five sections. Each serves a distinct analytical purpose:
 
-**What It Brings** — the structural parallels between source and target.
+**Transfers** — the structural parallels between source and target.
 Not "this is interesting" but "here is how the source domain's structure
 maps onto the target domain, and what that mapping makes visible." Lead
 with the core structural insight, then enumerate specific parallels as
 labeled list items. Each parallel should name what the source contributes
 that the target domain lacks on its own.
 
-**Where It Breaks** — the failure modes of the mapping. Where does the
+**Limits** — the failure modes of the mapping. Where does the
 metaphor mislead, obscure, or import false assumptions? This section earns
 its keep. Every metaphor has blind spots; a catalog entry that doesn't name
 them is marketing, not analysis. Be specific: name the structural mismatch,
@@ -172,15 +216,15 @@ citations. If you aren't certain a source exists, omit it.
 
 Before submitting a mapping entry, verify:
 
-- [ ] **"What It Brings" names structural parallels, not vibes.** Each
+- [ ] **"Transfers" names structural parallels, not vibes.** Each
   bullet should identify a specific structural feature of the source domain
   and explain how it maps onto the target. "This metaphor is illuminating"
   is not a structural parallel. "The source domain's X maps onto the
   target's Y, which makes Z visible" is.
-- [ ] **"Where It Breaks" is substantive and specific.** At least two
+- [ ] **"Limits" is substantive and specific.** At least two
   distinct failure modes. Each should name a structural mismatch between
-  source and target, not just say "it's imperfect." The best "Where It
-  Breaks" bullets reveal something about how the metaphor does invisible
+  source and target, not just say "it's imperfect." The best "Limits"
+  bullets reveal something about how the metaphor does invisible
   cognitive work.
 - [ ] **Expressions are real.** Things people actually say in professional
   or everyday use, not invented examples. If you can't find the expression
@@ -209,10 +253,10 @@ broader target than just the Facade pattern.
 
 ### Common mistakes
 
-- **Listing features instead of structure.** "What It Brings" should explain
+- **Listing features instead of structure.** "Transfers" should explain
   the mapping's structural logic, not just list interesting facts about the
   source domain.
-- **Shallow "Where It Breaks."** "No metaphor is perfect" is not analysis.
+- **Shallow "Limits."** "No metaphor is perfect" is not analysis.
   Name the specific structural mismatch and its consequences.
 - **Orphan references.** Don't include a reference that isn't connected to
   something in the entry's prose. If you cite it, the entry should show why.
@@ -242,7 +286,7 @@ guidelines:
   item. This is not optional.
 - Study `data-flow-is-fluid-flow.md` as the primary style exemplar before
   writing your first entry. It demonstrates the standard format (labeled
-  lists in both "What It Brings" and "Where It Breaks"), the right level
+  lists in both "Transfers" and "Limits"), the right level
   of structural analysis, well-glossed expressions, and a grounded origin
   story. Some entries (like `the-commons.md`) use prose paragraphs instead
   of labeled lists when the analysis doesn't decompose into parallel items;
@@ -278,12 +322,12 @@ Mapping entries use three recurring list sections. Each follows the same
 **header — explanation** pattern to keep entries parseable as semi-structured
 data.
 
-**What It Brings** (key structural parallels):
+**Transfers** (key structural parallels):
 ```
 - **Bold label** — explanation of the structural parallel
 ```
 
-**Where It Breaks** (failure modes):
+**Limits** (failure modes):
 ```
 - **Bold label** — explanation of how or why the metaphor fails here
 ```

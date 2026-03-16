@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -13,11 +15,10 @@ related:
 - activation-energy
 slug: leverage
 source_frame: physics
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A lever is a rigid bar resting on a fulcrum: apply a small force at one
 end and generate a much larger force at the other. Archimedes reportedly
@@ -56,7 +57,7 @@ Munger used leverage as both a positive model (find the lever points in
 a business) and a cautionary one (financial leverage has destroyed more
 fortunes than it has created).
 
-## Where It Breaks
+## Limits
 
 - **The amplification is symmetric, but people only see the upside** --
   the most common misapplication of leverage is treating it as a free

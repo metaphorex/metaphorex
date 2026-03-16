@@ -1,4 +1,6 @@
 ---
+applies_to:
+- creative-process
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Creating Is Making Visible
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - understanding-is-seeing
 slug: creating-is-making-visible
 source_frame: vision
-target_frame: creative-process
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To create is to make something visible -- to bring into the light what was
 previously hidden, latent, or obscured. This metaphor frames the creator not
@@ -56,7 +57,7 @@ Key structural parallels:
   others gain access to what was revealed. "Now I see it." "The work opened
   my eyes." The audience is transformed from blind to sighted.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor presupposes that the created thing pre-exists** -- if
   creation is revealing, then the thing was "already there" waiting to be

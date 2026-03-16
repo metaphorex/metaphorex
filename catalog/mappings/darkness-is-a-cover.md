@@ -1,4 +1,6 @@
 ---
+applies_to:
+- vision
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Darkness Is a Cover
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - understanding-is-seeing
 slug: darkness-is-a-cover
 source_frame: containers
-target_frame: vision
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Darkness is something draped over the world, concealing what lies
 underneath. When it falls, it covers the landscape the way a blanket
@@ -51,7 +52,7 @@ Key structural parallels:
   extends naturally into moral metaphors: things done "under cover of
   darkness" are hidden from judgment.
 
-## Where It Breaks
+## Limits
 
 - **Covers are placed by agents; darkness is not** -- a blanket is
   spread by someone with a purpose. Darkness arrives through planetary

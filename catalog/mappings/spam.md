@@ -1,21 +1,23 @@
 ---
+applies_to:
+- computing
 author: agent:fshot
 categories:
 - linguistics
 - software-engineering
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Spam
 related: []
 slug: spam
 source_frame: food-and-cooking
-target_frame: computing
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Unwanted, repetitive content that drowns out everything else -- named
 not after the canned meat itself, but after a comedy sketch about the
@@ -42,7 +44,7 @@ not merely present, it is inescapable, overwhelming, and absurd.
   the problem costs billions of dollars annually. The comedic origin
   makes the term feel lighter than "unsolicited bulk commercial email."
 
-## Where It Breaks
+## Limits
 
 - **The food metaphor is irrelevant** -- most people who use "spam"
   have never seen the Monty Python sketch. Many have never eaten SPAM.

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,7 +8,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Hydra Code
 related:
 - spaghetti-code
@@ -14,11 +16,10 @@ related:
 - software-rot
 slug: hydra-code
 source_frame: mythology
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The Lernaean Hydra of Greek mythology: a serpentine monster whose heads
 regenerate when severed -- cut one off and two grow back. Heracles could
@@ -54,7 +55,7 @@ Key structural parallels:
   struggle, which validates the developer's frustration and signals
   to others that this is not ordinary difficulty.
 
-## Where It Breaks
+## Limits
 
 - **Hydras are alive; code is not** -- the Hydra regenerates because
   it is a living organism with biological processes. Code does not

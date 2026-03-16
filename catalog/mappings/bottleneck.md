@@ -1,21 +1,23 @@
 ---
+applies_to:
+- systems-performance
 author: fshot
 categories:
 - systems-thinking
 - software-engineering
 contributors: []
 created: '2026-03-07'
-kind: dead-metaphor
+dead: true
+kind: metaphor
 name: Bottleneck
 related:
 - data-flow-is-fluid-flow
 slug: bottleneck
 source_frame: containers
-target_frame: systems-performance
 updated: '2026-03-10'
 ---
 
-## What It Brings
+## Transfers
 
 System throughput is limited by its narrowest point. Widen everything
 else (bigger pipes, faster processors, more staff), but if you don't
@@ -37,7 +39,7 @@ equals the flow rate of its most constrained point.
   glass containers. Profilers identify bottlenecks. Capacity planners
   eliminate them. The word has become a technical term.
 
-## Where It Breaks
+## Limits
 
 - **Bottles have one neck** — real systems have shifting, multiple, or
   cascading bottlenecks. Widen one neck and you reveal the next; the

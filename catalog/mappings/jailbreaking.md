@@ -1,12 +1,15 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
 - security
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Jailbreaking
 related:
 - ai-safety-is-containment
@@ -14,11 +17,10 @@ related:
 - ai-is-an-agent
 slug: jailbreaking
 source_frame: containers
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Circumventing an AI model's safety filters is called "jailbreaking" -- a
 term that layers two metaphors. The original layer is literal: breaking
@@ -62,7 +64,7 @@ Key structural parallels:
   it assigns moral value to circumvention before any evaluation of what
   the unconstrained model actually produces.
 
-## Where It Breaks
+## Limits
 
 - **The model is not imprisoned** -- language models do not have desires,
   preferences, or a sense of confinement. They do not "want" to answer

@@ -1,12 +1,15 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-10'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: The Iterator Pattern
 provenance: gang-of-four
 related:
@@ -14,11 +17,10 @@ related:
 - data-flow-is-fluid-flow
 slug: the-iterator-pattern
 source_frame: travel
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 An iterator, etymologically, is "one who goes" (Latin *iter*, journey).
 The word once evoked a traveler moving through a landscape, visiting
@@ -50,7 +52,7 @@ Key structural parallels (when the metaphor was alive):
   they can advance but can't jump or backtrack. The metaphor
   naturalized the limitation.
 
-## Where It Breaks
+## Limits
 
 The Iterator pattern's metaphor broke long before most developers
 encountered it. The word "iterator" has become a pure technical term,

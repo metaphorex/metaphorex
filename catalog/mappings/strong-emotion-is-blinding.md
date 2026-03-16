@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Strong Emotion Is Blinding
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - emotions-are-forces
 slug: strong-emotion-is-blinding
 source_frame: vision
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Love is blind. Rage blinds you. Jealousy makes you unable to see what
 is right in front of you. STRONG EMOTION IS BLINDING maps the loss of
@@ -58,7 +59,7 @@ Key structural parallels:
   tears"). The metaphor is not monolithic; it maps specific emotional
   phenomenologies onto specific visual disturbances.
 
-## Where It Breaks
+## Limits
 
 - **Emotions also sharpen perception** -- fear can make you
   hypervigilant, noticing threats that calm observation would miss.

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,18 +8,18 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Software Rot
 related:
 - program-failure-is-bodily-failure
 slug: software-rot
 source_frame: embodied-experience
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Organic decay -- the slow, inevitable breakdown of biological matter --
 mapped onto the gradual degradation of software systems over time. The
@@ -54,7 +56,7 @@ Key structural parallels:
   makes maintenance feel like basic hygiene rather than optional
   polish.
 
-## Where It Breaks
+## Limits
 
 - **Software doesn't decompose** -- biological rot is a physical
   process driven by bacteria, fungi, and oxidation. The code itself

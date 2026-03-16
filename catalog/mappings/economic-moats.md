@@ -1,4 +1,6 @@
 ---
+applies_to:
+- competition
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
@@ -12,11 +14,10 @@ related:
 - survival-of-the-fittest
 slug: economic-moats
 source_frame: war
-target_frame: competition
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A medieval castle moat -- a water-filled trench surrounding a fortification --
 mapped onto the structural advantages that protect a business from competition.
@@ -46,7 +47,7 @@ Buffett coined the term; Munger refined the analytical framework for
 classifying moat types and assessing moat durability. Together they made
 "moat analysis" a standard tool in value investing.
 
-## Where It Breaks
+## Limits
 
 The moat metaphor carries serious structural distortions that practitioners
 must actively resist.
@@ -106,92 +107,3 @@ analysts use "moat" without conscious reference to medieval fortification.
   Almanack* (2005)
 - Dorsey, P. *The Little Book That Builds Wealth* (2008)
 - Morningstar Economic Moat Rating Methodology
-++ b/catalog/mappings/incentive-caused-bias.md
----
-slug: incentive-caused-bias
-name: "Incentive-Caused Bias"
-kind: paradigm
-source_frame: economics
-target_frame: social-behavior
-categories:
-  - psychology
-  - systems-thinking
-author: agent:metaphorex-miner
-harness: "Claude Code"
-contributors: []
-related:
-  - survival-of-the-fittest
-  - the-map-is-not-the-territory
----
-
-## What It Brings
-
-Economic incentive theory mapped onto cognition: people do not merely
-respond to incentives -- incentives reshape what they sincerely believe.
-A salesman paid on commission does not just push harder; he genuinely
-comes to believe his product is superior. The structural mapping runs
-deeper than "people are greedy."
-
-Key structural parallels:
-
-- **Incentives as a gravitational field** -- in economics, incentives
-  alter behavior by changing the payoff matrix. Munger's extension is
-  that they also warp the cognitive landscape. Beliefs, perceptions,
-  and professional judgments bend toward whatever the incentive structure
-  rewards, often without the person noticing. The mapping is from
-  economic force to cognitive distortion.
-- **Rational self-interest becomes irrational self-deception** -- the
-  standard economic model assumes agents respond to incentives while
-  maintaining accurate beliefs. Munger's model says the response
-  mechanism corrupts the belief-formation mechanism. The accountant
-  who finds what the client wants found, the surgeon who recommends
-  surgery, the consultant who identifies problems requiring more
-  consulting -- none of these people are necessarily lying. They have
-  been reshaped by the incentive gradient.
-- **Systemic, not individual** -- the paradigm applies to institutions,
-  professions, and entire industries. When you see a pattern of biased
-  judgment across many individuals in the same incentive structure, the
-  explanation is structural, not characterological. The economics frame
-  provides the analytical tool: look at the payoff matrix, and you can
-  predict the bias.
-
-Munger ranked this first among his 25 causes of human misjudgment:
-"Never, ever think about something else when you should be thinking
-about the power of incentives."
-
-## Where It Breaks
-
-- **Over-cynicism** -- if every professional opinion is suspected of
-  being incentive-driven, expertise becomes impossible to trust. Your
-  doctor recommends surgery: is that incentive-caused bias or a correct
-  medical judgment? The model provides no way to distinguish, and
-  reflexive application leads to a corrosive distrust of all expert
-  advice. Munger himself trusted specific experts deeply (he revered
-  his eye surgeon) -- the model alone does not tell you when to trust.
-- **Incentives are not the only cause of bias** -- cognitive biases
-  exist independently of incentive structures. Confirmation bias,
-  anchoring, and availability heuristics distort judgment even when
-  no money is involved. Reducing all bias to incentive-caused bias
-  is itself a man-with-a-hammer error: you have one model and
-  everything looks like an incentive problem.
-- **The model is self-undermining** -- if incentive-caused bias is
-  universal, then Munger's own advocacy of this model is suspect.
-  He was incentivized to believe in rational capital allocation and
-  to distrust professionals who might drain his portfolio. The model
-  cannot exempt itself from its own critique, which makes it
-  epistemically unstable if taken as the sole analytical lens.
-- **Removing incentives is not a solution** -- the naive policy
-  response is to eliminate the problematic incentive (ban commissions,
-  make advisors fee-only). But incentive structures are load-bearing:
-  remove them and you get different problems (reduced effort, adverse
-  selection, free-riding). The economic source domain understands this;
-  casual users of the model often do not.
-
-## Expressions
-
-- "Never, ever think about something else when you should be thinking
-  about the power of incentives" -- Munger's formulation, repeated
-  across decades of talks
-- "Show me the incentive and I'll show you the outcome" -- the compact
-  version, widely attributed to Munger
-- "It is difficult to get a man to understand something when his salary

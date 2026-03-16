@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Children
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - ideas-are-light-sources
 slug: ideas-are-children
 source_frame: life-course
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 IDEAS ARE PEOPLE gives ideas biographies. IDEAS ARE CHILDREN narrows the
 focus to one phase of that biography: development. Ideas are not just
@@ -59,7 +60,7 @@ Key structural parallels:
   from its creator -- a moment that is both a success and a loss, mirroring
   the ambivalence of a parent whose child leaves home.
 
-## Where It Breaks
+## Limits
 
 - **Ideas don't have developmental needs** -- a child left unfed will die;
   an idea left unworked may simply wait. The metaphor creates false

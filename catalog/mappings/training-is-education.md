@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Training Is Education
 related:
 - ai-hallucination-is-perception-disorder
 - neural-network-is-a-brain
 slug: training-is-education
 source_frame: education
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Machine learning "trains" models. Models "learn" from data. There are
 "teacher" networks and "student" networks. The training process follows a
@@ -55,7 +56,7 @@ Key structural parallels:
   surface learning and deep understanding, which is genuinely useful as
   an intuition pump even though the underlying mechanisms are different.
 
-## Where It Breaks
+## Limits
 
 - **Models do not understand** -- this is the central break. Education
   aims at comprehension: the student should be able to explain, apply,

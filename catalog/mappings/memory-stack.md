@@ -1,12 +1,15 @@
 ---
+applies_to:
+- memory-management
 author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Memory Stack
 related:
 - memory-heap
@@ -14,11 +17,10 @@ related:
 - memory-leak
 slug: memory-stack
 source_frame: embodied-experience
-target_frame: memory-management
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A stack of plates in a cafeteria -- you can only add to the top, and
 you can only remove from the top. The call stack borrows this physical
@@ -53,7 +55,7 @@ Key structural parallels:
   the computational catastrophe share the same cause: exceeding the
   capacity of a bounded, vertically growing structure.
 
-## Where It Breaks
+## Limits
 
 - **Physical stacks are slow to access; the call stack is fast** -- in
   a physical stack, reaching a plate near the bottom requires removing

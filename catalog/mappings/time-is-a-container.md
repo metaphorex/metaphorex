@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is a Container
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - activities-are-containers
 slug: time-is-a-container
 source_frame: containers
-target_frame: time-and-temporality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Temporal periods are bounded regions that events fit *inside*. We are *in*
 the morning, *in* the twentieth century, *in* the middle of a meeting. The
@@ -52,7 +53,7 @@ Key structural parallels:
   out of* a difficult period. Temporal transitions become spatial
   movements across container boundaries.
 
-## Where It Breaks
+## Limits
 
 - **Time has no walls** -- the container metaphor implies sharp boundaries,
   but temporal periods are often fuzzy. When exactly does "the morning" end?

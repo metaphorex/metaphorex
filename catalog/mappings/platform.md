@@ -1,4 +1,6 @@
 ---
+applies_to:
+- computing
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,18 +8,18 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Platform
 related:
 - cloud
 slug: platform
 source_frame: architecture-and-building
-target_frame: computing
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 French plate-forme -- "flat shape," from plat (flat) and forme (form).
 A raised, flat surface designed for people to stand on: a train platform,
@@ -61,7 +63,7 @@ in tech now means "ecosystem" with no residual architectural image.
   Marketplace are "platforms" because they provide shared
   infrastructure on which many participants operate.
 
-## Where It Breaks
+## Limits
 
 - **Platforms are not neutral** -- the flatness etymology imports an
   assumption of neutrality that technology platforms systematically

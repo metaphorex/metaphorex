@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -17,11 +19,10 @@ related:
 - theories-are-buildings
 slug: the-conduit-metaphor
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The conduit metaphor is not a single mapping but a system of interlocking
 metaphors that together constitute the default way English speakers think
@@ -61,7 +62,7 @@ conceptual metaphor because it is a generative system: it produces the
 sub-metaphors (ideas as objects, words as containers, communication as
 sending) as special cases rather than being a single source-target mapping.
 
-## Where It Breaks
+## Limits
 
 - **Meaning is not contained in words** -- the conduit metaphor's deepest
   failure is its implication that meaning resides in the linguistic signal

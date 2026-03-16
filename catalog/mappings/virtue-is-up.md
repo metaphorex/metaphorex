@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -9,7 +11,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Virtue Is Up; Depravity Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,11 +20,10 @@ related:
 - rational-is-up
 slug: virtue-is-up
 source_frame: embodied-experience
-target_frame: social-behavior
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Good people are "upstanding." Bad people are "low." This orientational
 metaphor maps moral virtue onto the vertical axis, placing ethical behavior
@@ -61,7 +62,7 @@ system: GOOD IS UP, HAVING CONTROL IS UP, and RATIONAL IS UP all reinforce
 the vertical axis as the master orientation for positive qualities. VIRTUE
 IS UP extends this to the specifically moral domain.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor creates a moral hierarchy that maps onto social hierarchy**
   -- because VIRTUE IS UP and STATUS IS UP share the same vertical axis,

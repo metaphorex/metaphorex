@@ -1,4 +1,6 @@
 ---
+applies_to:
+- creative-process
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Light on Two Sides
 provenance: alexander-pattern-language
 related:
@@ -15,11 +17,10 @@ related:
 - the-facade-pattern
 slug: light-on-two-sides
 source_frame: architecture-and-building
-target_frame: creative-process
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Alexander's pattern #159, "Light on Two Sides of Every Room," makes a
 specific architectural claim: rooms lit from only one direction feel
@@ -59,7 +60,7 @@ Key structural parallels:
   sources. Perspectives on a problem also shift over time. The metaphor
   suggests that the interplay between viewpoints is dynamic, not fixed.
 
-## Where It Breaks
+## Limits
 
 - **Light is additive; perspectives can conflict** -- adding a second
   light source to a room always improves visibility. Adding a second

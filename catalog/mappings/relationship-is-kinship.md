@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Relationship Is Kinship
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - emotional-stability-is-balance
 slug: relationship-is-kinship
 source_frame: social-roles
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 We understand non-kin relationships through the language and logic of
 family. A mentor is a father figure. Close friends are like brothers
@@ -60,7 +61,7 @@ Key structural parallels:
   identity. "The IBM family." "Our national family." "Daughters of the
   Revolution." Membership in the group becomes ancestry in the family.
 
-## Where It Breaks
+## Limits
 
 - **Kinship is involuntary; most relationships are not** -- you are born
   into a family. You choose your friends, your colleagues, your

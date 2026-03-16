@@ -1,4 +1,6 @@
 ---
+applies_to:
+- life-course
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Death Is Departure
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - life-is-a-story
 slug: death-is-departure
 source_frame: journeys
-target_frame: life-course
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The dead have "passed on," "departed," "gone to a better place." Death
 is leaving -- a final journey away from the living. Lakoff and Turner
@@ -54,7 +55,7 @@ Key structural parallels:
   biological function onto the traveler's arrival at a resting place,
   converting termination into completion.
 
-## Where It Breaks
+## Limits
 
 - **There is no traveler** -- the most fundamental failure. Death is
   the cessation of the person, not their relocation. The departure

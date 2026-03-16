@@ -1,4 +1,6 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Happy Is Up; Sad Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -14,11 +16,10 @@ related:
 - understanding-is-seeing
 slug: happy-is-up
 source_frame: embodied-experience
-target_frame: embodied-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The first orientational metaphor Lakoff and Johnson introduce, and the one
 that most clearly demonstrates how spatial orientation structures emotional
@@ -49,7 +50,7 @@ The Osaka archive lists this under "Euphoric States Are Up" as a restricted
 subcase, with examples like "He's really high" and "She's coming down."
 Lakoff and Johnson use the broader HAPPY IS UP / SAD IS DOWN pairing.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor flattens the topology of emotion** -- happiness and
   sadness are not a single vertical axis. Contentment, joy, elation, and

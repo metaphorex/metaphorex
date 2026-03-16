@@ -1,23 +1,25 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - social-dynamics
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Gordian Knot
 related:
 - augean-stables
 - damocles-sword
 slug: gordian-knot
 source_frame: mythology
-target_frame: social-behavior
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Gordius, a peasant who became king of Phrygia, tied his ox-cart to a pole
 in the temple of Zeus with a knot so intricate that no one could find its
@@ -65,7 +67,7 @@ stroke onto the decision to bypass complexity rather than resolve it.
   approach. This survivorship bias is built into every invocation of
   the phrase.
 
-## Where It Breaks
+## Limits
 
 - **Most complex problems are not knots** -- a knot is a single physical
   object with a binary state: tied or untied. Real institutional,

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -9,7 +11,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Obligations Are Forces
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - action-is-motion
 slug: obligations-are-forces
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Duty pushes you. Responsibility weighs on you. Obligations compel, press,
 and drive. The metaphor maps the embodied experience of physical force --
@@ -61,7 +62,7 @@ Key structural parallels:
   dissolution of duty feel physical -- like setting down a heavy object
   or escaping from restraints.
 
-## Where It Breaks
+## Limits
 
 - **Forces are amoral; obligations are not** -- gravity does not care
   whether you deserve to be pulled down. But obligations carry moral

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Fear Is Cold
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - fear-driven-development
 slug: fear-is-cold
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Fear makes you cold. Your blood runs cold, you get cold feet, a chill
 runs down your spine. This primary metaphor maps the bodily sensation of
@@ -56,7 +57,7 @@ Key structural parallels:
   abject terror." The metaphor provides a natural scale: the colder,
   the more afraid.
 
-## Where It Breaks
+## Limits
 
 - **Fear is not always cold** -- the fight-or-flight response often
   produces heat: flushed cheeks, sweating, a racing heart that warms

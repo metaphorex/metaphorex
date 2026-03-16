@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,17 +8,16 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Heisenbug
 related:
 - program-failure-is-bodily-failure
 slug: heisenbug
 source_frame: physics
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Heisenberg's uncertainty principle -- the act of measuring a quantum
 system changes its state -- mapped onto bugs that disappear or change
@@ -48,7 +49,7 @@ Key structural parallels:
   treats debugging as a branch of physics, which flatters engineers and
   organizes a real phenomenon.
 
-## Where It Breaks
+## Limits
 
 - **The uncertainty principle is fundamental; heisenbugs are epistemic**
   -- Heisenberg's principle is not about clumsy measurement. It is an

@@ -1,23 +1,25 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - economics-and-finance
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Pyrrhic Victory
 related:
 - gordian-knot
 - damocles-sword
 slug: pyrrhic-victory
 source_frame: war
-target_frame: economics
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Pyrrhus, king of Epirus, defeated the Romans at Heraclea (280 BCE) and
 Asculum (279 BCE), but his losses were so severe that he reportedly said,
@@ -60,7 +62,7 @@ exceeds its value.
   deferred. Most speakers know the phrase means "a win that costs too
   much" without knowing who Pyrrhus was.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor assumes costs are knowable in advance** -- when someone
   calls a victory "Pyrrhic," they imply that the costs should have been

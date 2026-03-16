@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Opportunities Are Open Paths
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - action-is-motion
 slug: opportunities-are-open-paths
 source_frame: journeys
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Where OPPORTUNITIES ARE OBJECTS treats favorable circumstances as things
 to be grasped, OPPORTUNITIES ARE OPEN PATHS treats them as accessible
@@ -60,7 +61,7 @@ Key structural parallels:
   makes social and institutional action feel like physical labor:
   chopping brush, laying stone, opening gates.
 
-## Where It Breaks
+## Limits
 
 - **Paths imply a single traveler** -- the default journey has one person
   walking one path. The metaphor makes opportunity feel individual: your

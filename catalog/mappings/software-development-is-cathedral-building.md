@@ -1,22 +1,23 @@
 ---
+applies_to:
+- software-engineering
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Software Development Is Cathedral Building
 provenance: raymond-cathedral-and-bazaar
 related:
 - survival-of-the-fittest
 slug: software-development-is-cathedral-building
 source_frame: architecture-and-building
-target_frame: software-engineering
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Raymond's cathedral model from "The Cathedral and the Bazaar" (1997) names
 the dominant mode of commercial software development: a single architect
@@ -49,7 +50,7 @@ When it works -- when the architect is skilled and the requirements are
 stable -- the result has an integrity that bazaar-style development
 rarely achieves.
 
-## Where It Breaks
+## Limits
 
 - **Cathedrals are built for God; software is built for users who change
   their minds** -- the cathedral metaphor assumes fixed requirements.

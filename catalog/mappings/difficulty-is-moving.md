@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Difficulty Is Moving
 related:
 - difficulties-are-impediments-to-motion
@@ -15,11 +17,10 @@ related:
 - change-is-motion
 slug: difficulty-is-moving
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 The difficulty of doing something is understood through the difficulty of
 physical movement. This metaphor is the flip side of DIFFICULTIES ARE
@@ -52,7 +53,7 @@ Key structural parallels:
   "Navigating treacherous waters." The conditions that make action
   difficult are the conditions that make movement dangerous or laborious.
 
-## Where It Breaks
+## Limits
 
 - **Not all difficulty is resistance** -- some things are difficult
   because they require precision, not force. Threading a needle is hard,

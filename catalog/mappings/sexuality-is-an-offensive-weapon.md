@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Sexuality Is An Offensive Weapon
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - lustful-person-is-an-activated-machine
 slug: sexuality-is-an-offensive-weapon
 source_frame: war
-target_frame: love-and-relationships
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Sexual attractiveness is a weapon deployed against a target. This
 metaphor maps the structure of armed aggression -- wielding instruments
@@ -60,7 +61,7 @@ Key structural parallels:
   attracted is a successful defense against the weapon. The metaphor
   makes sexual indifference feel like armor.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor erases mutuality** -- weapons are used by agents on
   patients. But sexual attraction is typically bilateral: two people

@@ -24,56 +24,53 @@ knowledge graph of metaphors at https://github.com/metaphorex/metaphorex.
 ---
 slug: kebab-case-name          # must match filename
 name: "Human Readable Name"
-kind: conceptual-metaphor       # see valid kinds below
-source_frame: frame-slug        # must exist in catalog/frames/
-target_frame: frame-slug        # must exist in catalog/frames/
+kind: metaphor                  # see valid kinds below
+source_frame: frame-slug        # required for metaphor; optional for others
+applies_to:                     # optional; absent for mental-model
+  - frame-slug                  # must exist in catalog/frames/
 categories:                     # at least one, must exist in catalog/categories/
   - category-slug
 author: github-username          # or agent:<agent-name>
-contributors: []                 # people/agents who made substantial edits
-related: []                      # slugs of related mappings
+contributors: []
+related: []
+grounding: folk                  # proven | established | folk | contested (default: folk, may omit)
+dead: true                       # optional, metaphor kind only
 ---
 ```
 
-### Valid Kinds (2x2 grid)
+### Valid Kinds
 
-Four kinds along two axes — **specific vs generative** and **source active vs dormant**:
-
-|  | **Source active** | **Source dormant** |
-|---|---|---|
-| **Specific A→B** | `conceptual-metaphor` | `dead-metaphor` |
-| **Generative/meta** | `archetype` | `paradigm` |
-
-- `conceptual-metaphor` — specific A→B mapping where source domain is still active in people's minds (ARGUMENT IS WAR, CREATIVE PROCESS IS GARDENING)
-- `dead-metaphor` — specific mapping where source domain is forgotten or invisible; the word has become pure jargon. Value is *reactivating* the buried image. (bottleneck, firewall, bug, daemon-process, technical-debt)
-- `archetype` — generative structural pattern appearing across 3+ independent target domains. Not one A→B but a recurring motif. (The Trickster, The Commons, The Facade Pattern, The Observer Pattern)
-- `paradigm` — meta-level foundational frame that shapes how entire fields think. Removing it would collapse a field's vocabulary. (survival of the fittest, data flow is fluid flow)
+- `metaphor` — specific A→B mapping where the source domain illuminates the target. Includes dead metaphors (`dead: true`) where the source is forgotten but structurally recoverable. `source_frame` required.
+- `pattern` — structural solution to recurring design problem. Source frame often thin/vestigial. `source_frame` optional.
+- `archetype` — narrative or character universal across 3+ domains. `source_frame` optional.
+- `paradigm` — philosophy or worldview with a position, operating within domains. You can agree or disagree. `source_frame` optional.
+- `mental-model` — cross-domain cognitive move or predictive lens. No inherent domain, no inherent position. Two subtypes: cognitive moves (Inversion) and predictive laws (Conway's Law). `source_frame` optional. `applies_to` must be absent.
 
 ### Kind Decision Heuristics
 
-**Don't default to `conceptual-metaphor`.** Work through these tests in order:
+| The item... | Kind |
+|------------|------|
+| Maps one domain onto another | `metaphor` |
+| Term whose origin is forgotten but structure is recoverable | `metaphor` + `dead: true` |
+| Narrative or character universal | `archetype` |
+| Structural solution to a recurring design problem | `pattern` |
+| Philosophy or position operating within domains | `paradigm` |
+| Operational rule, design principle, legal maxim | `paradigm` |
+| Cross-domain cognitive move or technique | `mental-model` |
+| Named empirical regularity / predictive lens | `mental-model` |
+| Razor (decision rule for underdetermination) | `mental-model` |
+| Cannot generate 2+ structural propositions | **Discard** — file as nugget |
 
-1. **Dead-metaphor test:** Would a newcomer need the source domain *explained*
-   to them? If they use the term without picturing the source — if "bug" is
-   just a word, not an insect — it's `dead-metaphor`. Most software jargon
-   that originated as metaphor has died: bug, daemon, zombie process, race
-   condition, code smell, spaghetti code, cargo cult, yak-shaving.
+### Grounding
 
-2. **Archetype test:** Does this structural pattern recur across 3+ unrelated
-   target domains? GoF design patterns are almost all archetypes — the Facade
-   principle (simplify a complex interface) appears in architecture, API
-   design, organizational structure, and diplomacy. That's not one metaphor,
-   it's a recurring structural motif.
+Signals epistemic status. Defaults to `folk` if omitted.
 
-3. **Paradigm test:** Would removing this metaphor collapse an entire field's
-   vocabulary? If an industry would need to reinvent its language, it's a
-   paradigm. "Data flow is fluid flow" is load-bearing for Unix philosophy,
-   streaming architectures, and functional programming.
-
-4. **If none of the above:** It's `conceptual-metaphor` — a specific,
-   living A→B mapping where people still actively experience the source
-   domain. ARGUMENT IS WAR qualifies because arguers genuinely feel
-   combative tension.
+| Value | Meaning |
+|-------|---------|
+| `proven` | Formally derived, mathematically necessary, or tautological |
+| `established` | Strong empirical grounding, well-replicated, accepted consensus |
+| `folk` | Practitioner tradition, limited formal testing. **Default** |
+| `contested` | Real evidence on both sides, live debate |
 
 ### No status field
 
@@ -84,11 +81,11 @@ Only add `deprecated: true` when a mapping is superseded.
 
 Required (in this order):
 
-### ## What It Brings
+### ## Transfers
 The structural parallels that make this mapping useful. Be specific about
 what maps to what. Use bold bullet points for key parallels.
 
-### ## Where It Breaks
+### ## Limits
 **The most important section.** Where the metaphor misleads, what it hides,
 where the structural analogy fails. This is not a formality — it's what
 makes Metaphorex more than a list.
@@ -106,6 +103,26 @@ Where this mapping comes from, who popularized it, how it evolved.
 
 ### ## References
 Sources, citations, further reading. Use standard citation format.
+
+### Proposition Writing (for transfers and limits)
+
+When creating entries, include `transfers` and `limits` in frontmatter as structured proposition lists. These are embedded individually for vector search.
+
+**Form by kind:**
+
+| Kind | Prefix | Example |
+|------|--------|---------|
+| `metaphor`, `pattern`, `archetype` | `[source]` | `[source] blockage propagates upstream` |
+| `paradigm` | `[paradigm]` | `[paradigm] simplicity is preferred over correctness` |
+| `mental-model` (cognitive) | `[model]` | `[model] reframes by asking what guarantees failure` |
+| `mental-model` (predictive) | `[law]` | `[law] predicts systems mirror org structure` |
+
+Each proposition must be:
+- Independently true of the source domain
+- Non-trivially false of 2+ topically-similar but structurally-different domains
+- Relational, not attributive: "[source] connects X to Y via Z", not "[source] is large"
+
+Minimum counts: 3 transfers for metaphor/pattern/archetype, 2 for paradigm/mental-model. 2 limits for all kinds.
 
 ## Frame Frontmatter
 

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- integration-and-wholeness
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
@@ -6,17 +8,16 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Yin and Yang
 related:
 - the-anima-animus
 slug: yin-and-yang
 source_frame: mythology
-target_frame: integration-and-wholeness
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 In Chinese cosmology, yin and yang are complementary forces whose
 interplay generates all phenomena. Yin is dark, receptive, cold, yielding;
@@ -59,7 +60,7 @@ are treated as complementary rather than adversarial.
   conflict (losing creative tension), or engineering cultures that
   try to eliminate all risk (losing innovation).
 
-## Where It Breaks
+## Limits
 
 - **The metaphor is radically simplified in Western usage** -- yin-yang
   in Daoist and Confucian thought is embedded in a complex cosmological

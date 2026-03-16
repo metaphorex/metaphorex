@@ -1,4 +1,6 @@
 ---
+applies_to:
+- governance
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Nation Is a Family
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - morality-is-accounting
 slug: nation-is-a-family
 source_frame: social-roles
-target_frame: governance
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The government is a parent; the citizens are children. The nation is a
 household. This metaphor is the central argument of Lakoff's *Moral
@@ -62,7 +63,7 @@ Key structural parallels:
   mapping, which is why it is so persuasive despite being macroeconomically
   misleading.
 
-## Where It Breaks
+## Limits
 
 - **Citizens are not children** -- the most fundamental failure. Adults
   in a democracy are autonomous agents with rights, not dependents

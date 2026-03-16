@@ -1,4 +1,6 @@
 ---
+applies_to:
+- governance
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: culture-as-a-control-system
 source_frame: physics
-target_frame: governance
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Engineering control systems -- thermostats, governors, autopilots -- mapped
 onto organizational culture as a mechanism for regulating behavior. A
@@ -74,7 +75,7 @@ Key structural parallels:
   company values say "innovation" but team norms punish failure -- the
   system oscillates or drifts.
 
-## Where It Breaks
+## Limits
 
 - **Culture is not engineered, it is emergent** -- a thermostat is designed
   with precise specifications: a sensor, a comparator, an actuator.

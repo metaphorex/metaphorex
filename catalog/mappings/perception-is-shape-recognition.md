@@ -1,4 +1,6 @@
 ---
+applies_to:
+- vision
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Perception Is Shape Recognition
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - the-visual-field-is-a-bounded-region
 slug: perception-is-shape-recognition
 source_frame: geometry
-target_frame: vision
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 To perceive something is to recognize its shape. This metaphor structures
 our understanding of perception as the identification of form, contour,
@@ -50,7 +51,7 @@ Key structural parallels:
   perspective, a "warped" sense of reality -- all import the geometric
   vocabulary of shape deformation into the domain of perceptual failure.
 
-## Where It Breaks
+## Limits
 
 - **Perception is not limited to form** -- the metaphor privileges shape
   and spatial configuration over the full richness of perceptual

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- collaborative-work
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -15,11 +17,10 @@ related:
 - the-facade-pattern
 slug: pattern-language-as-shared-vocabulary
 source_frame: social-behavior
-target_frame: collaborative-work
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Christopher Alexander proposed that architectural patterns form a
 *language* -- not just a catalog of solutions, but a generative grammar
@@ -61,7 +62,7 @@ Key structural parallels:
   discuss. The linguistic metaphor explains why naming patterns has
   value beyond mere cataloging.
 
-## Where It Breaks
+## Limits
 
 - **Natural languages are learned from birth; pattern languages are
   learned from books** -- children acquire language through immersion

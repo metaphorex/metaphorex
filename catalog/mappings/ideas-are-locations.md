@@ -1,11 +1,13 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
 contributors: []
 created: '2026-03-12'
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Locations
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - ideas-are-people
 slug: ideas-are-locations
 source_frame: journeys
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas are places you can be in, move toward, arrive at, or depart from. The
 metaphor spatializes the entire landscape of thought: different ideas occupy
@@ -54,7 +55,7 @@ Key structural parallels:
   is unfamiliar, a thinker can wander without direction, just as a traveler
   can in physical space.
 
-## Where It Breaks
+## Limits
 
 - **Ideas don't have fixed coordinates** -- physical locations persist
   whether or not anyone visits them. Ideas exist only as they are entertained

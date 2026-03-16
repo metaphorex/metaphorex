@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is Stationary and We Move Through It
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - time-is-money
 slug: time-is-stationary-and-we-move-through-it
 source_frame: embodied-experience
-target_frame: time-and-temporality
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The complement to TIME IS A MOVING OBJECT, and the version that gives the
 experiencer agency. Time is a landscape, and we are travelers moving through
@@ -47,7 +48,7 @@ Key structural parallels:
   deceleration. The metaphor gives us control over tempo that the
   moving-object frame denies.
 
-## Where It Breaks
+## Limits
 
 - **We cannot stop, slow down, or reverse** -- the metaphor implies
   volitional movement, but we have no control over our rate of temporal

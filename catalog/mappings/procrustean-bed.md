@@ -1,23 +1,25 @@
 ---
+applies_to:
+- social-control
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - social-dynamics
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Procrustean Bed
 related:
 - gordian-knot
 - augean-stables
 slug: procrustean-bed
 source_frame: mythology
-target_frame: social-control
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Procrustes (the "Stretcher") was a rogue smith and bandit in Attic
 mythology who kept an iron bed in his lair on the road between Athens
@@ -62,7 +64,7 @@ being measured rather than adjusting the standard.
   subjects. Many users know the word means "forcing conformity" without
   knowing the myth.
 
-## Where It Breaks
+## Limits
 
 - **Some standards are not arbitrary** -- the metaphor treats all
   standardization as violent conformity, but some standards exist for

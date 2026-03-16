@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,7 +8,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Jenga Code
 related:
 - spaghetti-code
@@ -14,11 +16,10 @@ related:
 - boat-anchor
 slug: jenga-code
 source_frame: puzzles-and-games
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A Jenga tower is a stack of wooden blocks where players take turns
 removing pieces from lower levels and placing them on top. The tower
@@ -58,7 +59,7 @@ Key structural parallels:
   degraded experience but a complete outage, a corrupted database, or
   a cascade that takes down dependent services.
 
-## Where It Breaks
+## Limits
 
 - **Jenga is a game with rules; software development is not** -- in
   Jenga, you must remove a block and place it on top. You cannot add

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- nurturing-and-creation
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -15,11 +17,10 @@ related:
 - the-maiden
 slug: the-great-mother
 source_frame: mythology
-target_frame: nurturing-and-creation
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Great Mother is Jung's archetype of creation, nourishment, and
 containment -- and their dark inversions: smothering, devouring, and
@@ -57,7 +58,7 @@ Key structural parallels:
   organizations: the restructuring that dissolves existing teams to
   create new ones, the pivot that kills a product so the company can live.
 
-## Where It Breaks
+## Limits
 
 - **Gender essentialism is the elephant in the room** -- Jung's Mother
   archetype is explicitly gendered, and Neumann's elaboration doubles

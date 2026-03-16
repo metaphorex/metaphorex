@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -13,11 +15,10 @@ related:
 - data-flow-is-fluid-flow
 slug: the-factory-pattern
 source_frame: manufacturing
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Call something a "factory" and you import the entire industrial worldview
 into object creation. A factory takes raw materials, follows a
@@ -52,7 +53,7 @@ Key structural parallels:
   invalid configurations. The metaphor frames this as expected behavior
   rather than defensive paranoia.
 
-## Where It Breaks
+## Limits
 
 - **Factories consume raw materials; software factories don't** -- a
   steel mill needs iron ore and coal. A software factory method needs

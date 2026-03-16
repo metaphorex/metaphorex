@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Fine-Tuning Is Specialization
 related:
 - training-is-education
@@ -14,11 +16,10 @@ related:
 - ai-is-a-tool
 slug: fine-tuning-is-specialization
 source_frame: music
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 "Fine-tuning" a language model -- further training it on domain-specific
 data after the initial pre-training -- borrows from the craft of tuning
@@ -64,7 +65,7 @@ Key structural parallels:
   has a cost, and the manufacturing frame makes this tradeoff feel
   natural and inevitable.
 
-## Where It Breaks
+## Limits
 
 - **There is no target pitch** -- when you tune a piano, you tune it to
   a defined standard: A4 = 440 Hz. When you fine-tune a language model,

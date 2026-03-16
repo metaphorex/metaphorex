@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -7,18 +9,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is a Pair Programmer
 related:
 - ai-is-a-tool
 - ai-is-a-prosthesis
 slug: ai-is-a-pair-programmer
 source_frame: collaborative-work
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 AI coding assistants -- GitHub Copilot, Cursor, Claude Code -- are framed
 as "pair programmers," the other person in Extreme Programming's pair
@@ -56,7 +57,7 @@ Key structural parallels:
   to the AI makes you think more clearly about what you actually want.
   The AI is the rubber duck that talks back.
 
-## Where It Breaks
+## Limits
 
 - **Pair programming assumes mutual understanding** -- a human pair
   partner builds a shared mental model of the codebase, the architecture,

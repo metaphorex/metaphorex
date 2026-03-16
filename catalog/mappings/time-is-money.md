@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,16 +10,15 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is Money
 related: []
 slug: time-is-money
 source_frame: economics
-target_frame: time-and-temporality
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The second example Lakoff and Johnson reach for, right after ARGUMENT IS WAR,
 and in some ways the more insidious one. War is at least dramatic. TIME IS
@@ -49,7 +50,7 @@ The metaphor grounds two further entailments: TIME IS A LIMITED RESOURCE
 they produce the modern sensation that time is always running out and always
 worth optimizing.
 
-## Where It Breaks
+## Limits
 
 - **Time cannot be saved** -- you cannot bank an hour and withdraw it later.
   The "saved" time simply passes, filled with something else or nothing. The

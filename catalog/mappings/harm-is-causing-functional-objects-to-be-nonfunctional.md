@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Harm Is Causing Functional Objects to Be Nonfunctional
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - states-are-locations
 slug: harm-is-causing-functional-objects-to-be-nonfunctional
 source_frame: manufacturing
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To harm someone is to break them. The metaphor maps the destruction of
 functional artifacts onto the experience of harm, turning people (and
@@ -60,7 +61,7 @@ Key structural parallels:
   broken objects cannot be put back together. This captures the
   intuition that certain harms leave permanent marks.
 
-## Where It Breaks
+## Limits
 
 - **People are not designed artifacts** -- the metaphor assumes a prior
   state of proper function, as though people come from a factory with

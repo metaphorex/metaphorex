@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Means of Change Is Path over Which Motion Occurs
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - purposes-are-destinations
 slug: means-of-change-is-path-over-which-motion-occurs
 source_frame: journeys
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The means by which something changes is the path along which it moves. In
 the Event Structure metaphor system, if change is motion and states are
@@ -68,7 +69,7 @@ Key structural parallels:
   methods onto unexplored territory, capturing both the difficulty and
   the achievement of finding a new means of change.
 
-## Where It Breaks
+## Limits
 
 - **Paths are singular and sequential; means are often parallel and
   layered** -- a physical traveler takes one path at a time. But real

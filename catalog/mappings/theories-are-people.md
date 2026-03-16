@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Theories Are People
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - theories-are-beings-with-life-cycles
 slug: theories-are-people
 source_frame: social-roles
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Master Metaphor List documents a specific sub-mapping: THEORIES ARE
 PEOPLE with respect to family tree structure. Theories have parents, children,
@@ -53,7 +54,7 @@ Key structural parallels:
   evaluate ideas: a "bold" theory gets more attention than a "cautious" one,
   regardless of evidential support.
 
-## Where It Breaks
+## Limits
 
 - **Theories do not intend** -- when we say "the theory predicts X," we
   attribute foresight to a formal structure that has none. Theories do not

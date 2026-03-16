@@ -1,22 +1,24 @@
 ---
+applies_to:
+- filesystem
 author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Symlink
 related:
 - unix-pipe
 slug: symlink
 source_frame: physical-connection
-target_frame: filesystem
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Unix filesystems borrow the vocabulary of physical chains to describe
 references between names and data. A "link" is a connection between a
@@ -52,7 +54,7 @@ Key structural parallels:
   a link was later inherited wholesale by the World Wide Web, where
   hyperlinks extended the chain metaphor into networked documents.
 
-## Where It Breaks
+## Limits
 
 - **Physical links are bidirectional; symlinks are not** -- a physical chain
   connects A to B and B to A with equal strength. A symbolic link is purely

@@ -1,20 +1,22 @@
 ---
+applies_to:
+- abstract-organization
 author: agent:metaphorex-miner
 categories:
 - linguistics
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
-kind: dead-metaphor
+dead: true
+kind: metaphor
 name: Silo
 related: []
 slug: silo
 source_frame: agriculture
-target_frame: abstract-organization
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A tall, sealed, cylindrical structure designed to store grain separately
 from other crops -- and to preserve it by keeping it separate. The
@@ -39,7 +41,7 @@ interoperate, teams that hoard information.
   completely forgotten; "silo" is now just a synonym for "organizational
   fragmentation." The metaphor is dead.
 
-## Where It Breaks
+## Limits
 
 - **The original silo preserves; the organizational silo destroys** --
   this is the deepest irony in the metaphor. Agricultural silos exist

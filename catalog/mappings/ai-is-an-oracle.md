@@ -1,22 +1,23 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is an Oracle
 related:
 - ai-is-a-tool
 - ai-is-an-agent
 slug: ai-is-an-oracle
 source_frame: religion
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Oracle at Delphi sat at the center of the ancient Greek world: a
 source of authoritative pronouncements that people traveled great
@@ -61,7 +62,7 @@ Key structural parallels:
   supplicant's query. "You have to know how to ask" is oracle logic
   applied to AI interaction.
 
-## Where It Breaks
+## Limits
 
 - **Oracles were intermediaries to the divine; LLMs are intermediaries
   to training data** -- the Pythia at Delphi was believed to channel

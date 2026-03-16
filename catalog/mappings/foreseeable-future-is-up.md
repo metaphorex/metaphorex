@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Foreseeable Future Events Are Up (and Ahead)
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - having-control-is-up
 slug: foreseeable-future-is-up
 source_frame: embodied-experience
-target_frame: time-and-temporality
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Events that are approaching in time are described as "coming up." Things
 that are imminent are "up ahead." This orientational metaphor maps temporal
@@ -55,7 +56,7 @@ The metaphor works in concert with the more common TIME IS MOTION metaphors
 vertical component. Events do not just approach along a horizontal path --
 they rise.
 
-## Where It Breaks
+## Limits
 
 - **The distant future is not "down"** -- while approaching events are "up,"
   far-future events are not consistently described as "down." They are

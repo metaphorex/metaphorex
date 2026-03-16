@@ -1,11 +1,13 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is an Intern
 related:
 - ai-is-a-tool
@@ -13,11 +15,10 @@ related:
 - ai-is-an-agent
 slug: ai-is-an-intern
 source_frame: social-roles
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 An intern is eager, fast, sometimes surprisingly capable, but
 fundamentally unsupervised-dangerous. The intern frame emerged organically
@@ -57,7 +58,7 @@ Key structural parallels:
   makes the metaphor warmer than "tool" and more realistic than
   "copilot." It acknowledges AI's limitations without hostility.
 
-## Where It Breaks
+## Limits
 
 - **Interns learn and grow; AI models do not** -- the defining feature
   of an internship is that it is a learning experience. The intern who

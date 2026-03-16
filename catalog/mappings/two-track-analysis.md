@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: two-track-analysis
 source_frame: manufacturing
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 An engineering inspection protocol mapped onto decision analysis. In
 engineering, a structure is evaluated on two independent tracks: first,
@@ -49,7 +50,7 @@ Track Two only -- it catalogs biases without providing a framework for the
 underlying rational analysis. Two-track analysis forces you to do both
 and to treat a failure on either track as a failure of the whole analysis.
 
-## Where It Breaks
+## Limits
 
 - **Track Two is self-referential** -- the analyst evaluating their own
   biases is like a judge ruling on their own case. The very biases you are

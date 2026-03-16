@@ -1,4 +1,6 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Health Is Up; Sickness Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - more-is-up
 slug: health-is-up
 source_frame: embodied-experience
-target_frame: embodied-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Sick people lie down. Healthy people stand up and walk around. This is one
 of the most physically grounded orientational metaphors -- the correlation
@@ -57,7 +58,7 @@ catalog. Serious illness literally forces the body horizontal. Recovery
 literally returns it to vertical. The metaphor is a near-direct encoding
 of this correlation.
 
-## Where It Breaks
+## Limits
 
 - **Chronic conditions have no vertical trajectory** -- the metaphor implies
   a narrative arc: fall ill, decline, then either recover (rise) or die

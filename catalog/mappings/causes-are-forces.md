@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -9,18 +11,17 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Causes Are Forces
 related:
 - the-conduit-metaphor
 - ideas-are-objects
 slug: causes-are-forces
 source_frame: embodied-experience
-target_frame: causal-reasoning
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 We understand causation through the body: pushing, pulling, forcing,
 blocking, enabling, and letting. Lakoff and Johnson argue in *Metaphors
@@ -64,7 +65,7 @@ Key structural parallels:
   and Johnson note that many apparent causal claims are really
   correlational claims dressed in causal metaphors.
 
-## Where It Breaks
+## Limits
 
 - **The force metaphor requires an agent** -- the prototypical cause in
   the embodied model is a person or thing that pushes. But many real-world

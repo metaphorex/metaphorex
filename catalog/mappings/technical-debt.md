@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,18 +8,18 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Technical Debt
 related:
 - time-is-money
 slug: technical-debt
 source_frame: economics
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Ward Cunningham's most consequential contribution to software engineering
 vocabulary -- and he wrote the first wiki. The metaphor maps financial debt
@@ -54,7 +56,7 @@ Key structural parallels:
   poorly). The financial frame accommodates all these through the
   distinction between strategic leverage and predatory lending.
 
-## Where It Breaks
+## Limits
 
 - **Debt is quantifiable; technical debt is not** -- financial debt has a
   principal amount, an interest rate, and a payment schedule. Technical

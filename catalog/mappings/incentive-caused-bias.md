@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: incentive-caused-bias
 source_frame: economics
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Economic incentive theory mapped onto cognition: people do not merely
 respond to incentives -- incentives reshape what they sincerely believe.
@@ -53,7 +54,7 @@ Munger ranked this first among his 25 causes of human misjudgment:
 "Never, ever think about something else when you should be thinking
 about the power of incentives."
 
-## Where It Breaks
+## Limits
 
 - **Over-cynicism** -- if every professional opinion is suspected of
   being incentive-driven, expertise becomes impossible to trust. Your

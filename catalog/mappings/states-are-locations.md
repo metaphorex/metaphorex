@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: States Are Locations
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - love-is-a-journey
 slug: states-are-locations
 source_frame: journeys
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 To be in a state is to be in a place. This is one of the most fundamental
 metaphors in the event structure system -- it maps the abstract notion of
@@ -56,7 +57,7 @@ Key structural parallels:
   approaching bankruptcy." The location metaphor provides a gradient: you
   can be near a state, at its border, or deep inside it.
 
-## Where It Breaks
+## Limits
 
 - **States are not discrete locations** -- the metaphor draws boundaries
   around states that are actually continuous and overlapping. You can be

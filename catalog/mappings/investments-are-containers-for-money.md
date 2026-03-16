@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Investments Are Containers For Money
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - ideas-are-money
 slug: investments-are-containers-for-money
 source_frame: containers
-target_frame: economics
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 We understand investments as bounded spaces that hold money. You put money
 *into* an investment and later take money *out* of it. The container image
@@ -56,7 +57,7 @@ feel concrete and manipulable. A stock portfolio becomes a thing with an
 inside and an outside, a boundary you can seal or open, contents you can
 measure by volume.
 
-## Where It Breaks
+## Limits
 
 - **Investments are not inert storage** -- a container holds its contents
   unchanged. But investments transform money: a stock purchase converts

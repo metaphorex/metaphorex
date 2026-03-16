@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -7,17 +9,16 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Big Ball of Mud
 related:
 - program-failure-is-bodily-failure
 slug: big-ball-of-mud
 source_frame: embodied-experience
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A shapeless, structureless mass of mud maps onto software systems that
 have grown without deliberate architecture. The metaphor names the most
@@ -51,7 +52,7 @@ Key structural parallels:
   the default, not the exception. Most software ends up this way. The
   metaphor names something everyone recognizes but nobody planned.
 
-## Where It Breaks
+## Limits
 
 - **Mud is natural; muddy code is human-made** -- mud forms through
   natural geological and hydrological processes. Nobody chose to create

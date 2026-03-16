@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Light-Sources
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,11 +20,10 @@ related:
 - the-conduit-metaphor
 slug: ideas-are-light-sources
 source_frame: vision
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Good ideas are bright. Bad ones are dim. The most important ideas illuminate
 everything around them. This metaphor maps the properties of light sources --
@@ -62,7 +63,7 @@ sources -- the things that make seeing possible. The two metaphors form a
 coherent system: ideas provide the light by which we see (understand) the
 world.
 
-## Where It Breaks
+## Limits
 
 - **Light reveals; it doesn't explain** -- the metaphor conflates visibility
   with understanding. Turning on a light in a room lets you see everything in

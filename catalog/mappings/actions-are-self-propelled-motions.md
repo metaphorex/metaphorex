@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Actions Are Self-Propelled Motions
 provenance: osaka-master-metaphor-list
 related:
@@ -19,11 +21,10 @@ related:
 - change-is-motion
 slug: actions-are-self-propelled-motions
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When you act, you move -- under your own power. This metaphor maps the
 bodily experience of volitional locomotion onto the abstract domain of
@@ -70,7 +71,7 @@ Key structural parallels:
   implement the change." Efficiency and urgency are velocity;
   sluggishness and delay are slow movement.
 
-## Where It Breaks
+## Limits
 
 - **Not all action is forward motion** -- the metaphor privileges
   progressive, goal-directed action: you move toward something. But

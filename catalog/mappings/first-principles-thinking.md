@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -14,11 +16,10 @@ related:
 - survival-of-the-fittest
 slug: first-principles-thinking
 source_frame: physics
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The physicist's method -- derive conclusions from fundamental axioms rather
 than from analogy to previous results -- mapped onto general reasoning and
@@ -58,7 +59,7 @@ Munger valued first-principles thinking as an antidote to what he called
 reflexively. Going back to first principles forces you to check whether
 your frameworks still fit the problem at hand.
 
-## Where It Breaks
+## Limits
 
 - **Most people cannot identify first principles** -- in physics, the
   axioms are well-established and relatively few. In business, ethics,

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- argumentation
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Argument Is a Journey
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - theories-are-buildings
 slug: argument-is-a-journey
 source_frame: journeys
-target_frame: argumentation
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Arguments go somewhere. They have starting points, they cover ground, they
 arrive at conclusions. Where ARGUMENT IS WAR frames argumentation as combat
@@ -51,7 +52,7 @@ Key structural parallels:
   the point." "This is a tangent." "Where were we?" The journey frame
   treats confusion as a navigational problem, not a defeat.
 
-## Where It Breaks
+## Limits
 
 - **Journeys have a single destination; arguments may not** -- the
   metaphor presupposes that arguments aim at a conclusion the way

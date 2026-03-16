@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Intimacy Is Closeness
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - help-is-support
 slug: intimacy-is-closeness
 source_frame: embodied-experience
-target_frame: love-and-relationships
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Close relationships are close. Distant ones are distant. We "grow
 apart" from old friends, "come together" with new allies, feel "near"
@@ -61,7 +62,7 @@ loved. Being set down is being separated. The correlation between
 spatial proximity and emotional security is established in the first
 weeks of life and reinforced continuously thereafter.
 
-## Where It Breaks
+## Limits
 
 - **Proximity without intimacy is common** -- office mates, subway
   passengers, cellmates. Physical closeness does not produce emotional

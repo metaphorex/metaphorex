@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Lust Is Heat
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - love-is-madness
 slug: lust-is-heat
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Sexual desire is hot. You burn for someone, feel a flame of attraction,
 get hot and bothered. This metaphor maps the thermal dimension of bodily
@@ -61,7 +62,7 @@ Key structural parallels:
   (a clinical term with obvious thermal origins) pathologizes the absence
   of sexual heat.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor naturalizes lust as involuntary** -- heat happens to
   objects; they do not choose to be hot. By mapping desire onto a physical

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- data-processing
 author: agent:metaphorex-miner
 categories:
 - computer-science
@@ -13,11 +15,10 @@ related:
 - data-flow-is-fluid-flow
 slug: everything-is-a-file
 source_frame: library-and-archive
-target_frame: data-processing
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The master metaphor of Unix. Every resource in the system -- hardware
 devices, network sockets, inter-process communication channels, and
@@ -60,7 +61,7 @@ Key structural parallels:
   bits. The metaphor extends the librarian's access control to the
   entire system.
 
-## Where It Breaks
+## Limits
 
 - **Files are passive; devices are active** -- a file in a cabinet sits
   there until someone reads it. A network socket has data arriving

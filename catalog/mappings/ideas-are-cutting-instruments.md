@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Cutting Instruments
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - ideas-are-people
 slug: ideas-are-cutting-instruments
 source_frame: manufacturing
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Sharp ideas cut through confusion. This metaphor maps the physical
 properties of blades -- sharpness, precision, the ability to divide one
@@ -58,7 +59,7 @@ Key structural parallels:
   connects IDEAS ARE CUTTING INSTRUMENTS to ARGUMENT IS WAR -- the sharp
   idea becomes a weapon that can hurt as well as clarify.
 
-## Where It Breaks
+## Limits
 
 - **Cutting is destructive; understanding need not be** -- a blade works by
   severing. The cutting metaphor implies that analysis necessarily destroys

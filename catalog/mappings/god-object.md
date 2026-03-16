@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,18 +8,17 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: God Object
 related:
 - technical-debt
 - spaghetti-code
 slug: god-object
 source_frame: religion
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A monotheistic deity is omniscient (knows everything), omnipotent (can do
 everything), and omnipresent (is involved in everything). The god object
@@ -55,7 +56,7 @@ Key structural parallels:
   tyrant violates constitutional government. The metaphor frames the
   anti-pattern as not just inefficient but *structurally illegitimate*.
 
-## Where It Breaks
+## Limits
 
 - **Gods are intentionally designed; god objects are not** -- a deity is
   omniscient by design: that is its nature. A god object is omniscient

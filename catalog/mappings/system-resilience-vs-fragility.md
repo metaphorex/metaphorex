@@ -1,4 +1,6 @@
 ---
+applies_to:
+- systems-thinking
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -12,11 +14,10 @@ related:
 - redundancy
 slug: system-resilience-vs-fragility
 source_frame: architecture-and-building
-target_frame: systems-thinking
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A structural engineering lens applied to any complex system — financial,
 organizational, biological, or social. The paradigm sorts systems along a
@@ -56,7 +57,7 @@ Key structural parallels:
   whose failure modes are gradual (losing market share slowly) over those
   whose failure modes are sudden (bank runs, liquidity crises).
 
-## Where It Breaks
+## Limits
 
 - **Antifragility is not a universal good** — Taleb's extension of the
   spectrum (fragile → robust → antifragile) implies that antifragility is

@@ -1,20 +1,22 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - linguistics
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Bankrupt
 related: []
 slug: bankrupt
 source_frame: architecture-and-building
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Italian banca rotta -- "broken bench." When a Florentine money-lender
 could not meet his obligations, his trading bench in the marketplace
@@ -53,7 +55,7 @@ collection of benches.
   in a Florentine market. The furniture origin of global finance
   is invisible to everyone who uses these words.
 
-## Where It Breaks
+## Limits
 
 - **No bench is broken anymore** -- modern bankruptcy involves
   filing papers, not smashing furniture. The physical violence of

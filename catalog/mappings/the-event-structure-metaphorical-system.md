@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: The Event Structure Metaphorical System
 provenance: osaka-master-metaphor-list
 related:
@@ -21,11 +23,10 @@ related:
 - life-is-a-journey
 slug: the-event-structure-metaphorical-system
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Event Structure metaphorical system is not a single metaphor but a
 coherent network of mappings that together structure how English speakers
@@ -97,7 +98,7 @@ then means must be paths (because the way to a destination is a path).
 The system holds together as a unified conceptual structure, and
 speakers shift between its component metaphors without contradiction.
 
-## Where It Breaks
+## Limits
 
 - **The system imposes directionality on all change** -- in the location
   case, change is always movement from one place to another. This makes

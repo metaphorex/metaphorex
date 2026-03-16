@@ -1,4 +1,6 @@
 ---
+applies_to:
+- ethics-and-morality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Morality Is Purity
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - obligations-are-forces
 slug: morality-is-purity
 source_frame: purity
-target_frame: ethics-and-morality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Goodness is pure. Evil is corrupt. Virtue is immaculate. Where MORALITY IS
 CLEANLINESS focuses on the process -- washing, scrubbing, removing stains --
@@ -65,7 +66,7 @@ Key structural parallels:
   The pure are set apart, elevated, closer to the divine. The metaphor
   connects moral standing to sacred status.
 
-## Where It Breaks
+## Limits
 
 - **Purity is binary; moral life is not** -- the metaphor's absolutism is
   its greatest liability. A person is either pure or not, innocent or

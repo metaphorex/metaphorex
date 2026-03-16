@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is a Spell Checker
 related:
 - ai-is-a-tool
 - ai-is-a-copilot
 slug: ai-is-a-spell-checker
 source_frame: tool-use
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A deliberate act of deflation. By comparing AI to a spell checker -- one
 of the most mundane, well-understood, and uncontroversial software tools
@@ -63,7 +64,7 @@ Key structural parallels:
   treating a sophisticated spell checker as if it were a new form of
   intelligence.
 
-## Where It Breaks
+## Limits
 
 - **Spell checkers do not generate novel text** -- a spell checker
   corrects what you wrote. An LLM writes entire documents you did not

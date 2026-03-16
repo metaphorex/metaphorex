@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Acting On Is Transferring An Object
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - action-is-control-over-possessions
 slug: acting-on-is-transferring-an-object
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When you act on someone, you give them something. This metaphor maps the
 physical act of transferring an object from one person to another onto the
@@ -56,7 +57,7 @@ Key structural parallels:
   other, the metaphor becomes a two-way exchange, mapping mutual action
   onto commercial or gift-exchange logic.
 
-## Where It Breaks
+## Limits
 
 - **Not all action involves two parties** -- the transfer model requires
   a giver and a receiver, but many actions are self-directed (deciding,

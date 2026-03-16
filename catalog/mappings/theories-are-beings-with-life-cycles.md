@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Theories Are Beings with Life Cycles
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - ideas-are-people
 slug: theories-are-beings-with-life-cycles
 source_frame: life-course
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Theories are born, mature, grow old, and die. This metaphor gives
 intellectual constructs a biographical arc, making it natural to ask how
@@ -57,7 +58,7 @@ Key structural parallels:
   death -- inevitable, final, and not requiring further explanation. A
   dead theory is one that no active researcher defends.
 
-## Where It Breaks
+## Limits
 
 - **Theories don't age biologically** -- organisms deteriorate because of
   entropy and cellular decline. Theories have no intrinsic aging process.

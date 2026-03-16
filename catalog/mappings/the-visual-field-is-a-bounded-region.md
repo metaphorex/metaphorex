@@ -1,4 +1,6 @@
 ---
+applies_to:
+- vision
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: The Visual Field Is A Bounded Region
 provenance: lakoff-johnson-mwlb
 related:
@@ -14,11 +16,10 @@ related:
 - understanding-is-seeing
 slug: the-visual-field-is-a-bounded-region
 source_frame: embodied-experience
-target_frame: vision
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A variant of the container metaphor for vision, but with a crucial
 structural difference: the visual field is an area with edges rather than
@@ -49,7 +50,7 @@ The Osaka archive credits this entry to Jane Espenson and lists
 sub-mappings: "Within Sight Is Within Region" and "Out Of Sight Is Out Of
 Bounded Region."
 
-## Where It Breaks
+## Limits
 
 - **Regions are static; the visual field moves** -- a bounded region
   suggests a fixed area on a map. The visual field moves with every saccade,

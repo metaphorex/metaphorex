@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,19 +8,19 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Race Condition
 related:
 - heisenbug
 - software-rot
 slug: race-condition
 source_frame: competition
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A footrace where the outcome depends entirely on who crosses the
 finish line first -- mapped onto concurrent systems where the result
@@ -58,7 +60,7 @@ Key structural parallels:
   distributed blame: the race condition is nobody's fault and
   everybody's problem.
 
-## Where It Breaks
+## Limits
 
 - **Races have winners; race conditions have only losers** -- a
   footrace produces a satisfying outcome: someone wins, someone loses,

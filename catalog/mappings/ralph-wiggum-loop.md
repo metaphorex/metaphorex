@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -14,11 +16,10 @@ related:
 - chain-of-thought-is-self-talk
 slug: ralph-wiggum-loop
 source_frame: social-behavior
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Geoffrey Huntley's name for a deceptively effective agent pattern: wrap an
 AI in a bash loop that feeds its output back into itself until the result
@@ -62,7 +63,7 @@ Key structural parallels:
   verification of success is cheap. Ralph Wiggum is not someone you'd
   hire, but he gets the job done.
 
-## Where It Breaks
+## Limits
 
 - **Ralph is a character; LLMs are not** -- the metaphor's humor depends
   on anthropomorphizing the AI as a lovable idiot. This obscures the

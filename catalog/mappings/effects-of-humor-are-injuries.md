@@ -1,4 +1,6 @@
 ---
+applies_to:
+- humor
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Effects of Humor Are Injuries
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - the-mind-is-a-brittle-object
 slug: effects-of-humor-are-injuries
 source_frame: embodied-experience
-target_frame: humor
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Laughter hurts. The effect of humor on a person is structured as physical
 injury -- being hit, cut, broken, or killed. This metaphor maps the
@@ -56,7 +57,7 @@ Key structural parallels:
   laughter wields humor as a weapon. This maps the asymmetry of the
   comedic encounter: the comedian acts, the audience is acted upon.
 
-## Where It Breaks
+## Limits
 
 - **Injury is unwanted; laughter is sought** -- the metaphor maps a
   negative physical experience (being hurt) onto a positive emotional

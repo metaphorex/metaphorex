@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Finished Is Up
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - having-control-is-up
 slug: finished-is-up
 source_frame: embodied-experience
-target_frame: time-and-temporality
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 When something is finished, it is "up." Time is up. The game is up. Your
 number is up. This orientational metaphor maps the completion of an
@@ -57,7 +58,7 @@ maximum quantity (all of it, the full amount) is the top. Completion is
 reaching the maximum -- whether of time elapsed, resources consumed, or
 tasks accomplished.
 
-## Where It Breaks
+## Limits
 
 - **Completion is not always desirable** -- the broader orientational
   system codes UP as positive (HAPPY IS UP, HEALTH IS UP, GOOD IS UP),

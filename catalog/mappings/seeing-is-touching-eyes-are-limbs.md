@@ -1,4 +1,6 @@
 ---
+applies_to:
+- vision
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Seeing Is Touching, Eyes Are Limbs
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - the-visual-field-is-a-bounded-region
 slug: seeing-is-touching-eyes-are-limbs
 source_frame: embodied-experience
-target_frame: vision
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 This is a specific elaboration of SEEING IS TOUCHING that adds an
 anatomical sub-mapping: the eyes themselves are limbs -- arms, hands,
@@ -60,7 +61,7 @@ manipulation and the anatomy of perception:
   rare cases where the metaphor aligns with physiology: the pupil
   literally opens to admit more light.
 
-## Where It Breaks
+## Limits
 
 - **Eyes cannot manipulate what they see** -- hands can grasp, rotate,
   reshape, and rearrange objects. Eyes can only observe. The limb

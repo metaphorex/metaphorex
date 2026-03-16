@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-mediator-pattern
 slug: the-command-pattern
 source_frame: military-command
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A command in military parlance is an order from a superior to a
 subordinate: explicit, recorded, and executable. The GoF Command
@@ -54,7 +55,7 @@ Key structural parallels:
   the receiver will carry out the operation. The military metaphor
   normalizes this decoupling as proper delegation.
 
-## Where It Breaks
+## Limits
 
 - **Military commands target people; software commands target objects**
   — "Sergeant, secure the perimeter" is an order to a thinking agent

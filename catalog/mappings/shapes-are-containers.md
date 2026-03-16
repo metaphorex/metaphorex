@@ -1,4 +1,6 @@
 ---
+applies_to:
+- geometry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Shapes Are Containers
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - activities-are-containers
 slug: shapes-are-containers
 source_frame: containers
-target_frame: geometry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Any closed shape has an inside, an outside, and a boundary. This
 metaphor applies the container schema -- one of Lakoff and Johnson's
@@ -61,7 +62,7 @@ Key structural parallels:
   sharing contents -- the same stuff is in both. Venn diagrams are the
   canonical visual expression of this mapping.
 
-## Where It Breaks
+## Limits
 
 - **Open shapes are not containers** -- a line, a curve that does not
   close, a ray, a single point -- none of these have insides. The

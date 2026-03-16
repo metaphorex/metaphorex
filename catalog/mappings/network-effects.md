@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -13,11 +15,10 @@ related:
 - the-map-is-not-the-territory
 slug: network-effects
 source_frame: network-communication
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The core insight from telecommunications theory: the value of a network
 grows faster than the number of its nodes. Metcalfe's law puts a number
@@ -51,7 +52,7 @@ durable competitive advantages that compound over time, and why scale
 itself can become a form of moat that competitors cannot replicate simply
 by spending more.
 
-## Where It Breaks
+## Limits
 
 Network effects are real, but the metaphor overpromises in several ways.
 

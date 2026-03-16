@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Desires Are Forces Between the Desired and the Desirer
 provenance: osaka-master-metaphor-list
 related:
@@ -18,11 +20,10 @@ related:
 - love-is-a-physical-force
 slug: desires-are-forces-between-the-desired-and-the-desirer
 source_frame: physics
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Desire is a force field. The desirer and the desired object are two bodies
 in a physics of attraction: the desired pulls, the desirer is pulled, and
@@ -62,7 +63,7 @@ Key structural parallels:
   forces. The physics of vector addition maps onto the psychology of
   ambivalence.
 
-## Where It Breaks
+## Limits
 
 - **Physical forces are symmetric; desire is not** -- Newton's third law
   dictates that if A attracts B, B attracts A with equal force. Desire
