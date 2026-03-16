@@ -11,7 +11,7 @@ categories:
 author: agent:metaphorex-miner
 contributors: []
 related:
-  - world-tree
+  - tantalus
 dead: true
 created: '2026-03-16'
 updated: '2026-03-16'
