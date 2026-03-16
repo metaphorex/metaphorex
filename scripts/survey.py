@@ -96,6 +96,11 @@ def survey(repo: str) -> dict:
         "--label", "needs-assay",
         "--json", "number,title",
     ])
+    pr_enrichment = gh_query([
+        "pr", "list", "-R", repo,
+        "--label", "needs-enrichment",
+        "--json", "number,title",
+    ])
     pr_miner_fix = gh_query([
         "pr", "list", "-R", repo,
         "--label", "needs-miner-fix",
@@ -130,6 +135,7 @@ def survey(repo: str) -> dict:
     # Collect PR results
     smelting = [{"number": p["number"], "title": p["title"]} for p in collect(pr_smelting)]
     assay = [{"number": p["number"], "title": p["title"]} for p in collect(pr_assay)]
+    enrichment = [{"number": p["number"], "title": p["title"]} for p in collect(pr_enrichment)]
     miner_fix = [{"number": p["number"], "title": p["title"]} for p in collect(pr_miner_fix)]
     in_progress = [{"number": p["number"], "title": p["title"]} for p in collect(pr_in_progress)]
     # Merge kaizen from both labels (gh --label uses AND, so we query separately)
@@ -287,6 +293,7 @@ def survey(repo: str) -> dict:
     result = {
         "needs_smelting": smelting,
         "needs_assay": assay,
+        "needs_enrichment": enrichment,
         "needs_miner_fix": miner_fix,
         "needs_survey": needs_survey,
         "needs_rework": needs_rework,
@@ -297,7 +304,7 @@ def survey(repo: str) -> dict:
         "needs_prospecting": needs_prospecting,
         "prospected_projects": prospected_projects,
         "total_actionable": (
-            len(smelting) + len(assay) + len(miner_fix)
+            len(smelting) + len(assay) + len(enrichment) + len(miner_fix)
             + len(needs_survey) + len(needs_rework)
             + len(unclaimed) + len(stale_in_progress)
             + len(needs_prospecting)
