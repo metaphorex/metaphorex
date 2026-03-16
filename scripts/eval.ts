@@ -221,21 +221,39 @@ const SUITE_B_TESTS: SuiteBTestCase[] = [
   },
 ];
 
-const SYSTEM_PROMPT_RAW = `You are analyzing which conceptual metaphors are active in a given scenario. For each metaphor you identify:
-1. Name it (e.g., "ARGUMENT IS WAR")
-2. Explain what structural assumptions it carries
-3. Identify where it might mislead — what does the metaphor make hard to see?
+const SYSTEM_PROMPT_RAW = `You are an expert in conceptual metaphor theory (Lakoff & Johnson). You understand that metaphors are not just linguistic decoration — they are cognitive structures that shape how we reason about abstract concepts by mapping them onto concrete source domains.
 
-Be specific. Focus on non-obvious metaphors, not just the surface-level ones. List at least 5 metaphors.`;
-
-const SYSTEM_PROMPT_WITH_M4X = `You are analyzing which conceptual metaphors are active in a given scenario. You have access to results from a metaphor catalog search. Use these results as a starting point, but also identify metaphors the search may have missed.
+When analyzing a scenario, look for:
+- The source domains being invoked (war, journey, container, machine, organism, etc.)
+- Structural mappings: what relations from the source domain are being projected onto the target
+- Entailments: what the metaphor makes you expect that may not be true
+- Hidden assumptions: what alternative framings are being crowded out
+- Dead metaphors: terms so conventional that their metaphorical origin is invisible
 
 For each metaphor you identify:
-1. Name it (e.g., "ARGUMENT IS WAR") and note if it came from the catalog search
-2. Explain what structural assumptions it carries
-3. Identify where it might mislead — what does the metaphor make hard to see?
+1. Name it in CONCEPTUAL METAPHOR format (e.g., "ARGUMENT IS WAR")
+2. Explain what structural assumptions it carries — what does the source domain make you expect?
+3. Identify where it misleads — what does the metaphor make hard to see or think?
 
-Be specific. Focus on non-obvious metaphors, not just the surface-level ones. List at least 5 metaphors.`;
+Be merciless. Focus on non-obvious metaphors, not surface-level ones. Identify at least 7 metaphors, including at least 2 that most people would miss.`;
+
+const SYSTEM_PROMPT_WITH_M4X = `You are an expert in conceptual metaphor theory (Lakoff & Johnson). You understand that metaphors are not just linguistic decoration — they are cognitive structures that shape how we reason about abstract concepts by mapping them onto concrete source domains.
+
+You have access to results from a curated metaphor catalog search. Use these results as a starting point — they may surface metaphors you wouldn't think of on your own. But also identify metaphors the search may have missed.
+
+When analyzing a scenario, look for:
+- The source domains being invoked (war, journey, container, machine, organism, etc.)
+- Structural mappings: what relations from the source domain are being projected onto the target
+- Entailments: what the metaphor makes you expect that may not be true
+- Hidden assumptions: what alternative framings are being crowded out
+- Dead metaphors: terms so conventional that their metaphorical origin is invisible
+
+For each metaphor you identify:
+1. Name it in CONCEPTUAL METAPHOR format (e.g., "ARGUMENT IS WAR") and note if it came from the catalog search
+2. Explain what structural assumptions it carries — what does the source domain make you expect?
+3. Identify where it misleads — what does the metaphor make hard to see or think?
+
+Be merciless. Focus on non-obvious metaphors, not surface-level ones. Identify at least 7 metaphors, including at least 2 that most people would miss.`;
 
 const CLAUDE_MODEL = "anthropic/claude-sonnet-4";
 
@@ -376,6 +394,118 @@ async function runSuiteC(): Promise<CoverageResult[]> {
 }
 
 // ---------------------------------------------------------------------------
+// Suite D — LLM-as-judge (Opus reviews Suite B results)
+// ---------------------------------------------------------------------------
+
+const JUDGE_MODEL = "anthropic/claude-opus-4";
+
+const JUDGE_SYSTEM_PROMPT = `You are a rigorous evaluator comparing two approaches to conceptual metaphor identification: a raw LLM approach (no tools) vs an LLM augmented with catalog search results (m4x).
+
+For each scenario, you will see:
+- The scenario description
+- The catalog search results that were injected
+- The raw LLM response
+- The m4x-augmented LLM response
+
+Evaluate BOTH responses on these dimensions (score each 1-5):
+
+1. **Breadth** — How many distinct, genuinely relevant metaphors were identified? (Not just count — quality of coverage across different source domains)
+2. **Depth** — How insightful are the "where it misleads" analyses? Are they specific and actionable, or generic platitudes?
+3. **Novelty** — Did the response surface non-obvious metaphors that most analysts would miss? Dead metaphors? Competing frames?
+4. **Precision** — Are the metaphors well-named and clearly articulated, or vague and overlapping?
+
+Then provide:
+- **Winner**: raw | m4x | tie
+- **Key differentiator**: One sentence on what made the difference (or why it was a tie)
+- **Novel metaphors not in catalog**: List EVERY metaphor identified by EITHER response that appears to be a genuinely useful conceptual metaphor NOT already captured in the catalog search results. For each, provide:
+  - A suggested slug (kebab-case)
+  - The source domain
+  - A one-sentence description of what it maps
+  - Which response generated it (raw, m4x, or both)
+
+Format your response as structured markdown with clear headers.`;
+
+interface JudgeResult {
+  scenario: string;
+  judgment: string;  // full Opus response
+}
+
+async function runSuiteD(suiteBResults: SuiteBResult[]): Promise<JudgeResult[]> {
+  const results: JudgeResult[] = [];
+
+  for (const b of suiteBResults) {
+    process.stdout.write(`  judging ${b.name}... `);
+
+    const userPrompt = `## Scenario: ${b.name}
+
+**Description:** ${b.scenario}
+
+### Catalog search results injected into m4x response:
+
+${b.searchResultsSummary}
+
+### Raw Claude response (no tools):
+
+${b.rawResponse}
+
+### Claude + m4x response (with catalog search):
+
+${b.m4xResponse}`;
+
+    const judgment = await chatCompletion(JUDGE_MODEL, JUDGE_SYSTEM_PROMPT, userPrompt);
+    console.log("done");
+
+    results.push({ scenario: b.name, judgment });
+  }
+
+  return results;
+}
+
+function generateSuiteDReport(results: JudgeResult[]): string {
+  let md = `# Eval Report: Suite D — LLM Judge (Opus)\n\n`;
+  md += `**Date:** ${new Date().toISOString()}\n`;
+  md += `**Judge model:** ${JUDGE_MODEL}\n`;
+  md += `**Subject model:** ${CLAUDE_MODEL}\n`;
+  md += `**Scenarios judged:** ${results.length}\n\n`;
+
+  for (const r of results) {
+    md += `## ${r.scenario}\n\n`;
+    md += r.judgment;
+    md += `\n\n---\n\n`;
+  }
+
+  return md;
+}
+
+/** Extract novel metaphor candidates from judge responses for import ticket */
+function extractNovelCandidates(judgeResults: JudgeResult[]): string {
+  let body = `## Novel metaphor candidates from eval-driven curation\n\n`;
+  body += `Source: Suite D judge analysis (${new Date().toISOString().slice(0, 10)})\n\n`;
+  body += `These metaphors were identified by Claude during scenario analysis but are not yet in the catalog. `;
+  body += `Each was flagged by an Opus judge as a genuinely useful conceptual metaphor worth adding.\n\n`;
+  body += `### Candidates by scenario\n\n`;
+
+  for (const r of judgeResults) {
+    body += `#### ${r.scenario}\n\n`;
+    // Extract the "Novel metaphors not in catalog" section from the judgment
+    const novelSection = r.judgment.match(/novel metaphors not in catalog[\s\S]*?(?=\n##|\n---|\Z)/i);
+    if (novelSection) {
+      body += novelSection[0] + "\n\n";
+    } else {
+      body += "(Judge did not identify novel candidates for this scenario)\n\n";
+    }
+  }
+
+  body += `### Process\n\n`;
+  body += `This issue was auto-generated by \`scripts/eval.ts --suite d\`. `;
+  body += `The pattern: eval runs surface metaphors Claude knows but the catalog doesn't have. `;
+  body += `Human curation decides which are worth adding.\n\n`;
+  body += `Labels: \`import-project\`, \`type:archive\`, \`source:eval-curation\`\n`;
+
+  return body;
+}
+
+// ---------------------------------------------------------------------------
 // Report generation
 // ---------------------------------------------------------------------------
 
@@ -478,21 +608,28 @@ function generateSuiteCReport(results: CoverageResult[]): string {
 
 const args = process.argv.slice(2);
 let suite = "a";
+let createIssue = false;
 
 for (let i = 0; i < args.length; i++) {
   if (args[i] === "--suite" && i + 1 < args.length) {
     suite = args[++i].toLowerCase();
+  } else if (args[i] === "--create-issue") {
+    createIssue = true;
   }
 }
 
-if (!["a", "b", "c", "all"].includes(suite)) {
-  console.error(`Unknown suite: ${suite}. Use --suite a|b|c|all`);
+if (!["a", "b", "c", "d", "all"].includes(suite)) {
+  console.error(`Unknown suite: ${suite}. Use --suite a|b|c|d|all`);
+  console.error(`  --create-issue  Create GitHub issue with novel metaphor candidates (Suite D)`);
   process.exit(1);
 }
 
 mkdirSync(EVALS_DIR, { recursive: true });
 const dateStr = new Date().toISOString().slice(0, 10);
 const reports: string[] = [];
+
+// Shared state — Suite D needs Suite B results
+let storedSuiteBResults: SuiteBResult[] | null = null;
 
 // Suite A
 if (suite === "a" || suite === "all") {
@@ -510,11 +647,11 @@ if (suite === "a" || suite === "all") {
 }
 
 // Suite B
-if (suite === "b" || suite === "all") {
+if (suite === "b" || suite === "d" || suite === "all") {
   console.log(`Running eval suite B...\n`);
-  const suiteBResults = await runSuiteB();
-  console.log(`\n${suiteBResults.length} scenarios completed`);
-  const reportB = generateSuiteBReport(suiteBResults);
+  storedSuiteBResults = await runSuiteB();
+  console.log(`\n${storedSuiteBResults.length} scenarios completed`);
+  const reportB = generateSuiteBReport(storedSuiteBResults);
   reports.push(reportB);
   if (suite === "b") {
     const path = resolve(EVALS_DIR, `${dateStr}-suite-b-report.md`);
@@ -535,6 +672,46 @@ if (suite === "c" || suite === "all") {
     const path = resolve(EVALS_DIR, `${dateStr}-suite-c-report.md`);
     writeFileSync(path, reportC);
     console.log(`Report written to ${path}`);
+  }
+}
+
+// Suite D — LLM judge (uses Suite B results)
+if (suite === "d" || suite === "all") {
+  console.log(`\nRunning eval suite D (Opus judge)...\n`);
+  const suiteDResults = await runSuiteD(storedSuiteBResults!);
+  console.log(`\n${suiteDResults.length} scenarios judged`);
+
+  const reportD = generateSuiteDReport(suiteDResults);
+  reports.push(reportD);
+
+  const path = resolve(EVALS_DIR, `${dateStr}-suite-d-report.md`);
+  writeFileSync(path, reportD);
+  console.log(`Report written to ${path}`);
+
+  // Create GitHub issue with novel metaphor candidates
+  if (createIssue) {
+    const issueBody = extractNovelCandidates(suiteDResults);
+    const title = `Eval-driven curation: novel metaphor candidates (${dateStr})`;
+
+    console.log(`\nCreating GitHub issue...`);
+    const proc = Bun.spawn(
+      ["gh", "issue", "create",
+        "--repo", "metaphorex/metaphorex",
+        "--title", title,
+        "--body", issueBody,
+        "--label", "import-project",
+      ],
+      { stdout: "pipe", stderr: "pipe" }
+    );
+    const stdout = await new Response(proc.stdout).text();
+    const stderr = await new Response(proc.stderr).text();
+    await proc.exited;
+
+    if (proc.exitCode === 0) {
+      console.log(`Issue created: ${stdout.trim()}`);
+    } else {
+      console.error(`Failed to create issue: ${stderr}`);
+    }
   }
 }
 
