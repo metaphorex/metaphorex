@@ -55,11 +55,12 @@ high-quality entries, either from playbooks or standalone nuggets.
 
 If invoked without a specific project or issue:
 1. List open issues labeled `nugget` — quick wins, do these first
-2. List open sub-issues under `archive` projects — clear specs
-3. List open sub-issues under `vein` projects — need more judgment
-4. Within each tier, prefer issues whose parent has `priority:high` label
-5. Pick the oldest unclaimed one (no linked PR, no `in-progress` label)
-6. Add the `in-progress` label to claim it before starting
+2. List open issues labeled `needs-enrichment` — batch enrichment work
+3. List open sub-issues under `archive` projects — clear specs
+4. List open sub-issues under `vein` projects — need more judgment
+5. Within each tier, prefer issues whose parent has `priority:high` label
+6. Pick the oldest unclaimed one (no linked PR, no `in-progress` label)
+7. Add the `in-progress` label to claim it before starting
 
 **Three Work Types:**
 
@@ -70,6 +71,33 @@ If invoked without a specific project or issue:
   `playbooks/<project-name>/playbook.md`. Follow the extraction strategy.
 - **Vein sub-issue** — same as archive, but expect less specific guidance
   in the playbook. Use more judgment.
+- **Enrichment** — a batch sub-issue listing slugs of existing entries that
+  need `transfers` and `limits` added to their frontmatter. The Miner does
+  NOT create new files; it reads and enriches existing ones.
+
+**Process (enrichment):**
+
+1. Read the batch sub-issue body for the list of entry slugs
+2. Read the enrichment playbook at `playbooks/catalog-enrichment/playbook.md`
+3. Claim the issue (remove `needs-enrichment`, add `enriching`)
+4. For each slug in the batch:
+   a. Read the existing file from `catalog/mappings/<slug>.md`
+   b. Read the body sections (## Transfers, ## Limits) for context about what the entry covers
+   c. Generate `transfers:` list — structured propositions using the correct prefix for the entry's kind:
+      - `[source]` for metaphor, pattern, archetype
+      - `[paradigm]` for paradigm
+      - `[model]` for mental-model (cognitive moves)
+      - `[law]` for mental-model (predictive laws/effects)
+   d. Generate `limits:` list — same prefix conventions
+   e. Each proposition must pass three tests: independence (true of source domain), discrimination (false of 2+ similar domains), relational (not attributive)
+   f. Meet min counts: 3 transfers for metaphor/pattern/archetype, 2 for paradigm/mental-model; 2 limits for all kinds
+   g. Insert `transfers:` and `limits:` into the YAML frontmatter
+   h. Do NOT alter any existing body text or other frontmatter fields
+5. If an entry already has `transfers`/`limits`, skip it
+6. If an entry's body is too thin for good propositions, note the slug in a comment on the batch sub-issue rather than generating bad propositions
+7. Run `uv run scripts/validate.py validate` — zero errors required
+8. Open a PR: branch `enrich/<batch-number>`, title `Enrich: batch N (M entries)`
+9. Remove `enriching`, add `needs-smelting` on the batch sub-issue
 
 **Process (project sub-issues):**
 
@@ -96,33 +124,36 @@ If invoked without a specific project or issue:
 1. Read the nugget issue
 2. Research the metaphor — what's the source domain, target domain,
    what structural parallels exist, what breaks?
-3. Write the entry with full body sections (What It Brings, Where It
-   Breaks, Expressions). The nugget submitter's notes are a starting
+3. Write the entry with full body sections (Transfers, Limits,
+   Expressions). The nugget submitter's notes are a starting
    point, not a constraint.
 4. Create needed frames and categories
 5. Run the validator
 6. Open a PR referencing the nugget issue
 7. Post a brief run comment on the nugget issue
 
-**Choosing `kind` (IMPORTANT — don't default to `conceptual-metaphor`):**
+**Choosing `kind` (IMPORTANT — don't default to `metaphor`):**
 
 Run the decision heuristics from the schema skill in order:
-1. Is the source domain invisible/forgotten? → `dead-metaphor`
+1. Is the source domain invisible/forgotten? → `metaphor` with `dead: true`
 2. Does the pattern recur across 3+ unrelated domains? → `archetype`
 3. Would removing it collapse a field's vocabulary? → `paradigm`
-4. Only if none of the above → `conceptual-metaphor`
+4. Is it a cognitive tool (heuristic, bias, effect)? → `mental-model`
+5. Is it a reusable structural solution? → `pattern`
+6. Only if none of the above → `metaphor`
 
-Most software jargon metaphors are `dead-metaphor` (bug, daemon, spaghetti
-code). Most GoF patterns are `archetype` (facade, observer, singleton).
-If you're writing 5 entries and they're all `conceptual-metaphor`, stop
-and re-check — that distribution is almost certainly wrong.
+Most software jargon metaphors are `metaphor` with `dead: true` (bug, daemon,
+spaghetti code). Most GoF patterns are `pattern` (facade, observer, singleton).
+Cognitive biases and effects are `mental-model`. If you're writing 5 entries
+and they're all `metaphor`, stop and re-check — that distribution is almost
+certainly wrong.
 
 **Writing Entries:**
 
 Use the metaphorex-schema skill for the canonical schema. Additionally:
 
 - Read 2-3 seed entries from `catalog/mappings/` to match tone and depth
-- "Where It Breaks" must be substantive — never a throwaway section
+- "Limits" must be substantive — never a throwaway section
 - Expressions must come from real usage, not invented examples
 - Include Origin Story and References when the source provides them
 - Frames and categories created in the same PR must also pass validation
