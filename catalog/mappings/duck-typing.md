@@ -17,6 +17,13 @@ related:
 slug: duck-typing
 source_frame: folk-taxonomy
 updated: '2026-03-14'
+transfers:
+  - "[source] identity is determined by observable behavior rather than pedigree or formal declaration"
+  - "[source] the duck test specifies an implicit interface -- 'things that walk and quack' -- defined by the observer's expectations, not by the subject's self-description"
+  - "[source] folk taxonomy groups by behavioral markers, not lineage, encoding a pragmatist epistemology where truth is what works at runtime"
+limits:
+  - "[source] breaks because real ducks are unambiguous while duck-typed objects can have methods with matching names but incompatible semantics -- the match is syntactic, not semantic"
+  - "[source] misleads because the test is one-directional: it identifies ducks but does not exclude non-ducks with duck-like behavior, providing no vocabulary for false positives"
 ---
 
 ## Transfers

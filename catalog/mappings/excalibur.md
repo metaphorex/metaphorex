@@ -12,6 +12,13 @@ related: []
 slug: excalibur
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the tool selects its wielder rather than the other way around, inverting the normal relationship between person and instrument"
+  - "[source] legitimacy is established through demonstration, not credential or election -- the person who can do what nobody else can has an unchallengeable claim"
+  - "[source] the artifact is simultaneously the test and the reward, so pulling the sword both proves fitness and provides the instrument of rule"
+limits:
+  - "[source] breaks because the test is binary (the sword comes out or it does not) while real competence is a matter of degree, context, and growth over time"
+  - "[source] misleads because Arthur pulls the sword effortlessly with no training montage, naturalizing talent and dismissing the deliberate effort most skill development requires"
 ---
 
 ## Transfers

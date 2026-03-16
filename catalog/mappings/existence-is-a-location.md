@@ -19,6 +19,13 @@ related:
 slug: existence-is-a-location
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - "[source] coming into existence is arrival at a location, and ceasing to exist is departure, giving existence a spatial origin story"
+  - "[source] English uses 'there' as an existential marker ('there is a God'), embedding spatial logic into the grammar of being"
+  - "[source] causing existence is transporting something to the place where existing things are ('she brought the project into being')"
+limits:
+  - "[source] breaks because the metaphor requires a location for non-existence ('it came out of nothing'), reifying nothingness as a place"
+  - "[source] misleads because gradual existence (a fetus becoming a person, a trend becoming a movement) is hard to express when the metaphor demands a discrete arrival threshold"
 ---
 
 ## Transfers

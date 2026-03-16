@@ -20,6 +20,13 @@ related:
 slug: existence-is-an-object
 source_frame: physical-objects
 updated: '2026-03-12'
+transfers:
+  - "[source] existence is a possessed object that can be given, taken, or lost -- creating something is giving it the object called existence"
+  - "[source] existence-as-substance has quantity and quality: it can be thick or thin, rich or poor, allowing evaluation on a scale"
+  - "[source] existence treated as commodity introduces economic logic -- life can be 'well spent' or 'wasted,' mapping investment reasoning onto ontology"
+limits:
+  - "[source] breaks because existence is not separable from the entity -- you cannot show someone their existence or hand it to them in a box"
+  - "[source] misleads because the economic frame implies existence has a correct use, smuggling teleology into ontology ('wasting your life' presupposes life has a purpose against which waste can be measured)"
 ---
 
 ## Transfers

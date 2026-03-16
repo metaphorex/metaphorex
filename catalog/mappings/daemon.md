@@ -17,6 +17,13 @@ related:
 slug: daemon
 source_frame: mythology
 updated: '2026-03-13'
+transfers:
+  - "[source] the daimon operates autonomously in the background without being summoned for specific tasks"
+  - "[source] visibility is a sign of failure -- the well-functioning daimon stays invisible and writes only to logs"
+  - "[source] the daimon is morally neutral, executing its domain without malice or benevolence"
+limits:
+  - "[source] breaks because daimons had judgment and could choose to warn, while daemons follow configuration with perfect literal obedience"
+  - "[source] misleads because the supernatural charge of the original -- the sense that autonomous agents deserve respect and caution -- has been bleached into a technical term"
 ---
 
 ## Transfers

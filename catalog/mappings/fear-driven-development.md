@@ -19,6 +19,13 @@ related:
 slug: fear-driven-development
 source_frame: social-behavior
 updated: '2026-03-14'
+transfers:
+  - "[source] the '-driven' suffix names the force determining decisions, so substituting 'fear' exposes that anxiety, not reason or data, shapes architecture"
+  - "[source] just as TDD produces testable code, FDD produces defensible code -- written not to be correct but to avoid blame, with excessive logging and redundant approvals"
+  - "[source] every legitimate '-driven' methodology has a fear-driven shadow where coercion mimics the artifacts of healthy practice while destroying its intent"
+limits:
+  - "[source] breaks because the '-driven' suffix implies intentional adoption, while nobody chooses fear-driven development -- it emerges from organizational dysfunction, importing the language of choice into a situation defined by its absence"
+  - "[source] misleads because some fear is useful engineering discipline (fear of deploying untested code, fear of data loss), and naming all fear as dysfunction can encourage recklessness disguised as courage"
 ---
 
 ## Transfers

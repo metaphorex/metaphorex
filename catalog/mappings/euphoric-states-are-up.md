@@ -19,6 +19,13 @@ related:
 slug: euphoric-states-are-up
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] extreme altitude produces disconnection from the ground, mapping loss of contact with practical reality onto the euphoric person who is 'above it all'"
+  - "[source] what goes up must come down -- the higher the position, the harder the fall -- giving euphoria an inherent narrative arc of ascent, peak, and descent"
+  - "[source] intoxication vocabulary is thoroughly vertical ('high,' 'buzzed,' 'lifted'), encoding altered states as elevation above baseline"
+limits:
+  - "[source] breaks because the altitude logic implies all extreme happiness is precarious, while flow states, spiritual epiphanies, and achievement joy are not pathological and do not necessarily crash"
+  - "[source] misleads because 'coming down' is framed as loss or failure, when returning to baseline after an intense experience can be healthy recalibration rather than defeat"
 ---
 
 ## Transfers

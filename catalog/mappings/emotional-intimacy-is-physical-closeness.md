@@ -19,6 +19,13 @@ related:
 slug: emotional-intimacy-is-physical-closeness
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] the degree of emotional bond maps onto spatial distance, making relationships feel measurable -- closer is more connected, distant is less"
+  - "[source] relationship development is approach (getting closer) and decline is retreat (drifting apart), giving intimacy a directionality"
+  - "[source] emotional barriers are physical barriers (walls, guards), and vulnerability is allowing someone to occupy the space normally reserved for the self"
+limits:
+  - "[source] breaks because physical closeness is not emotional closeness -- commuters on a crowded train share no intimacy, while estranged spouses who share a bed are physically close and emotionally distant"
+  - "[source] misleads because the endpoint of maximum closeness is zero distance (fusion), but healthy relationships require differentiation within connection, not merger"
 ---
 
 ## Transfers

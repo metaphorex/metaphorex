@@ -19,6 +19,13 @@ related:
 slug: effect-on-emotional-self-is-contact-with-physical-self
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] the intensity of contact maps to the intensity of emotional effect -- light touch produces tenderness, hard blow produces overwhelming impact"
+  - "[source] emotional damage inherits the vocabulary of bodily injury (cut, bruise, scar), giving emotional pain a located, specific quality"
+  - "[source] susceptibility to emotional effect maps onto skin sensitivity -- thin-skinned versus thick-skinned -- making resilience feel like a material property"
+limits:
+  - "[source] breaks because physical healing follows predictable timelines while emotional wounds can reopen decades later, worsen without new contact, or never heal at all"
+  - "[source] misleads because contact requires an external agent, so the metaphor externalizes all emotional effect and has no good model for self-generated states like guilt or shame"
 ---
 
 ## Transfers

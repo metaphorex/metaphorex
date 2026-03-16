@@ -22,6 +22,13 @@ related:
 slug: difficulties-are-impediments-to-motion
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] impediments have specific positions on the route and must be dealt with before continuing, making problems feel concrete and locatable"
+  - "[source] some impediments cannot be removed, only circumvented via detours that cost more time and effort but allow eventual progress"
+  - "[source] entrapment (stuck in a rut, bogged down) is the extreme case where the impediment halts all forward motion entirely"
+limits:
+  - "[source] breaks because clearing an obstacle opens the path, but real problem-solving often reveals another difficulty behind it or changes the nature of the journey itself"
+  - "[source] misleads because impediments only make sense relative to a defined direction, while many difficulties arise precisely because there is no clear path -- the metaphor presupposes the clarity that difficulties take away"
 ---
 
 ## Transfers

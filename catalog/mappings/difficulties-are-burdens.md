@@ -20,6 +20,13 @@ related:
 slug: difficulties-are-burdens
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] burdens accumulate -- each added weight reduces capacity further -- explaining why multiple small difficulties together become overwhelming"
+  - "[source] relief is the visceral sensation of setting down weight, mapping precisely onto the psychological experience of having a problem resolved"
+  - "[source] collapse under excessive weight maps structural failure of a weight-bearing body onto psychological breakdown"
+limits:
+  - "[source] breaks because burdens are inert masses while many difficulties are active, adaptive, and changing -- the burden frame makes difficulty seem static"
+  - "[source] misleads because burdens are carried by individual bodies, making it natural to ask 'who carries this?' while hiding the structural question 'why does this burden exist?'"
 ---
 
 ## Transfers

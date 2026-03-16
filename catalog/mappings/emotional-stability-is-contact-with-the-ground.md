@@ -19,6 +19,13 @@ related:
 slug: emotional-stability-is-contact-with-the-ground
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] stability depends on a relationship with the surface beneath you, not on internal equilibrium -- the ground provides external support"
+  - "[source] the ground doubles as reality itself, so losing contact means losing touch with what is real and practical"
+  - "[source] geological disruption (earthquakes, sinkholes) maps catastrophic life events onto situations where even a well-grounded person loses stability"
+limits:
+  - "[source] breaks because the ground is not always safe -- the metaphor has no vocabulary for someone stably grounded in a toxic belief system or harmful community"
+  - "[source] misleads because floating upward is coded as instability, conflicting with the HAPPY IS UP orientation where elevation is positive, not pathological"
 ---
 
 ## Transfers

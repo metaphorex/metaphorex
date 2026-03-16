@@ -22,6 +22,13 @@ related:
 slug: event-structure
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - "[source] the entire system is internally coherent: states are locations, changes are movements, causes are forces, purposes are destinations, and all generate consistent entailments"
+  - "[source] agency is locomotion -- the self-propelled traveler chooses direction and speed, while being acted upon is being pushed by an external force"
+  - "[source] means are paths, so different methods for achieving the same purpose are different routes to the same destination"
+limits:
+  - "[source] breaks because the system privileges linearity (one traveler on one path), while real event structures are often cyclical, recursive, or multi-dimensional"
+  - "[source] misleads because purposes-as-destinations assumes goals exist in advance like places on a map, hiding that many purposes emerge through the process of action itself"
 ---
 
 ## Transfers

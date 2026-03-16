@@ -19,6 +19,13 @@ related:
 slug: difficulties-are-containers
 source_frame: containers
 updated: '2026-03-12'
+transfers:
+  - "[source] containers have depth, and severity maps to how deep you are inside -- the further in, the harder to get out"
+  - "[source] entry is typically involuntary (you fall or stumble in), while exit requires directed effort (climbing, digging out)"
+  - "[source] walls constrain action in all directions, not just forward motion, distinguishing this from impediment metaphors that only block a path"
+limits:
+  - "[source] breaks because containers have clear edges (you know when you are in or out), while real difficulties often shade gradually with no crisp threshold"
+  - "[source] misleads because 'getting out' of a container is a single act of escape, while resolving a difficulty often means transforming the situation, and the habits that created it remain"
 ---
 
 ## Transfers

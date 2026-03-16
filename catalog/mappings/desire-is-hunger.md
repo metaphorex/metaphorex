@@ -19,6 +19,13 @@ related:
 slug: desire-is-hunger
 source_frame: food-and-cooking
 updated: '2026-03-12'
+transfers:
+  - "[source] hunger is an internal deficit that motivates action toward a specific remedy, giving desire the structure of felt emptiness demanding filling"
+  - "[source] satisfaction through consumption has a trajectory -- lack, pursuit, acquisition, satiation -- that desire inherits whole"
+  - "[source] excess appetite shifts from natural need to moral failing (gluttony), providing a built-in evaluative scale for desire"
+limits:
+  - "[source] breaks because hunger has a biological satiation mechanism while many desires (status, money) produce no 'full' signal -- hedonic adaptation generates new desire from fulfillment"
+  - "[source] misleads because hunger is individual and biological while desires are often mimetic and socially mediated, hiding that wanting is contagious and competitive"
 ---
 
 ## Transfers

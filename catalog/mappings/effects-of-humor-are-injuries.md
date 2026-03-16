@@ -18,6 +18,13 @@ related:
 slug: effects-of-humor-are-injuries
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] the punchline is a physical blow with temporal structure -- windup then impact -- matching the setup-then-release rhythm of comedy"
+  - "[source] bodily collapse during intense laughter maps onto being knocked down, with the laugher literally losing postural control"
+  - "[source] the comedian wields humor as a weapon (razor-sharp wit, cutting remark), mapping the asymmetry of performer and audience onto aggressor and target"
+limits:
+  - "[source] breaks because injury is unwanted while laughter is sought -- the valence is totally inverted, preserving intensity and involuntariness but discarding undesirability"
+  - "[source] misleads because when humor actually wounds (cruel mockery, racist jokes), the literal and figurative senses of 'that hurt' collapse and the metaphor cannot distinguish the two"
 ---
 
 ## Transfers

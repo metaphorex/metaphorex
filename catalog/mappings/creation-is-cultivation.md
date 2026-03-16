@@ -19,6 +19,13 @@ related:
 slug: creation-is-cultivation
 source_frame: horticulture
 updated: '2026-03-12'
+transfers:
+  - "[source] the cultivator prepares conditions and tends growth rather than imposing form, making creation indirect"
+  - "[source] the crop has its own developmental trajectory that the cultivator influences but does not control"
+  - "[source] failure is organic -- death, disease, poor soil -- implying that creative failure is natural and often outside the creator's control"
+limits:
+  - "[source] breaks because seeds contain predetermined forms, importing teleology that erases the role of radical novelty in creation"
+  - "[source] misleads because calling growth 'organic' naturalizes what may be deliberate strategy, making it rhetorically immune to criticism"
 ---
 
 ## Transfers

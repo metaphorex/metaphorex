@@ -16,6 +16,13 @@ related: []
 slug: dogfooding
 source_frame: animal-husbandry
 updated: '2026-03-14'
+transfers:
+  - "[source] eating your own product demonstrates confidence because the gesture is viscerally persuasive -- you would only do it if you genuinely believed in quality"
+  - "[source] the manufacturer who feeds their own animal observes results directly, generating feedback that no external test can replicate"
+  - "[source] if the team must use what it builds, quality becomes self-interest rather than abstract professional obligation"
+limits:
+  - "[source] breaks because the manufacturer and the dog have different palates -- developers who built a product have deep expertise that makes it usable for them but opaque to new users"
+  - "[source] misleads because internal use exercises only one use case and cannot validate migration experiences, compliance features, or behavior at massive scale"
 ---
 
 ## Transfers

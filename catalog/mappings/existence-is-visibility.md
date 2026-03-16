@@ -21,6 +21,13 @@ related:
 slug: existence-is-visibility
 source_frame: vision
 updated: '2026-03-12'
+transfers:
+  - "[source] coming into existence is appearing while ceasing to exist is vanishing, making perception the criterion of reality"
+  - "[source] hiding something is ontological suppression -- making it not exist -- while revealing is causing existence by making it visible"
+  - "[source] things that exist but are hard to detect (hidden risks, subtle biases) have diminished reality status until they become visible"
+limits:
+  - "[source] breaks because mirages, hallucinations, and deepfakes are visible but do not correspond to real objects -- the metaphor cannot distinguish appearance from existence"
+  - "[source] misleads because 'out of sight, out of mind' becomes ontological, making it cognitively easy to treat invisible systemic problems (structural racism, slow-moving crises) as non-existent"
 ---
 
 ## Transfers

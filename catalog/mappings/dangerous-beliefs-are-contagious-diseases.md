@@ -19,6 +19,13 @@ related:
 slug: dangerous-beliefs-are-contagious-diseases
 source_frame: contagion
 updated: '2026-03-12'
+transfers:
+  - "[source] transmission occurs through exposure without the host's full awareness, making proximity itself risky"
+  - "[source] asymptomatic carriers spread the pathogen without being visibly affected, mapping onto people who propagate beliefs without appearing radicalized"
+  - "[source] prior exposure to weakened forms builds resistance, grounding inoculation theory in social psychology"
+limits:
+  - "[source] breaks because belief adoption involves agency and evaluation, not involuntary infection -- the metaphor strips away the reasons people find ideas persuasive"
+  - "[source] misleads because quarantine logic licenses censorship by making suppression look like public hygiene rather than political repression"
 ---
 
 ## Transfers

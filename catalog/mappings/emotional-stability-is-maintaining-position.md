@@ -20,6 +20,13 @@ related:
 slug: emotional-stability-is-maintaining-position
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] emotional disturbance is displacement -- being moved somewhere you did not choose to go -- rather than a fall or a loss of equilibrium"
+  - "[source] resilience is spatial stubbornness, standing firm and holding ground against forces that would relocate you"
+  - "[source] recovery is navigating back to a prior location, giving healing a directional quality that balance-based stability lacks"
+limits:
+  - "[source] breaks because staying put is not always healthy -- a person leaving an abusive relationship is 'uprooted' in the metaphor's terms even when the movement is exactly what is needed"
+  - "[source] misleads because displacement requires an external force, hiding the role of internal cognition and choice in generating emotional states"
 ---
 
 ## Transfers

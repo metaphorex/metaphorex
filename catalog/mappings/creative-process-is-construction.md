@@ -16,6 +16,13 @@ related:
 slug: creative-process-is-construction
 source_frame: architecture-and-building
 updated: '2026-03-12'
+transfers:
+  - "[source] blueprints must precede construction, making planning a prerequisite rather than an ongoing activity"
+  - "[source] some elements are load-bearing and cannot be removed without collapse, mapping structural dependency onto creative artifacts"
+  - "[source] scaffolding is temporary support removed from the finished work, licensing ugly intermediate structures in service of the final product"
+limits:
+  - "[source] breaks because buildings do not grow, adapt, or reproduce -- post-construction modification is always renovation, never evolution"
+  - "[source] misleads because the architect/builder split privileges visionary thinking over craft, hiding that the best creative work merges thinking and making"
 ---
 
 ## Transfers

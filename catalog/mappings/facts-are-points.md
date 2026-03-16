@@ -21,6 +21,13 @@ related:
 slug: facts-are-points
 source_frame: geometry
 updated: '2026-03-12'
+transfers:
+  - "[source] points have positions relative to each other, so related facts are 'nearby' and unrelated facts are 'far apart,' spatializing logical relationships"
+  - "[source] points can be connected by lines, mapping inferential connections onto geometric links and making 'connect the dots' a reasoning operation"
+  - "[source] configurations have a center and periphery, so the most significant facts occupy the center while less significant ones are 'beside the point'"
+limits:
+  - "[source] breaks because facts in practice are fuzzy, contested, and frame-dependent, while geometric points are atomic, dimensionless, and precisely located"
+  - "[source] misleads because pattern recognition across arranged points is not understanding -- conspiracy theories exploit exactly this logic, connecting enough dots to produce any picture"
 ---
 
 ## Transfers

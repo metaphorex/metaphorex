@@ -16,6 +16,13 @@ related:
 slug: damocles-sword
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the sword is a structural feature of the position, not an event -- the threat is permanent and inseparable from the privilege"
+  - "[source] awareness of the horsehair transforms the subjective experience of power, making the feast unenjoyable"
+  - "[source] the horsehair is disproportionately thin relative to the weight it holds, mapping onto single points of failure that support entire systems"
+limits:
+  - "[source] breaks because Damocles chose the seat voluntarily, but most modern applications describe involuntary exposure to existential threat"
+  - "[source] misleads because the sword never actually falls in the story -- it describes anticipated threat, not realized destruction, and extending it to 'the sword fell' breaks the original structure"
 ---
 
 ## Transfers

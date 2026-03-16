@@ -21,6 +21,13 @@ related:
 slug: external-events-affecting-progress-are-forces-affecting
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - "[source] helping events are tailwinds aligned with the direction of travel, adding energy without the agent being the source of acceleration"
+  - "[source] catastrophic events are impacts -- forces with large magnitude delivered in a short time -- importing trauma beyond mere opposition"
+  - "[source] events inherit vector properties (magnitude and direction), so some push sideways (diversions), backward (reversals), or forward (windfalls)"
+limits:
+  - "[source] breaks because a force in physics is a continuous interaction between two bodies, while an external event has complex internal causal structure that the single-vector model collapses"
+  - "[source] misleads because calling something an 'external force' naturalizes it as impersonal, hiding that most progress-affecting events are produced by other agents with their own purposes"
 ---
 
 ## Transfers

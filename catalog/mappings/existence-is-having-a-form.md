@@ -18,6 +18,13 @@ related:
 slug: existence-is-having-a-form
 source_frame: physical-objects
 updated: '2026-03-12'
+transfers:
+  - "[source] the transition from non-existence to existence is the transition from shapelessness to shape -- 'taking form' means becoming real"
+  - "[source] quality of existence is quality of form, so 'well-formed' arguments exist more robustly than 'amorphous' grievances"
+  - "[source] ceasing to exist is losing structural integrity -- dissolution, collapse, falling apart -- making destruction a mode of un-being"
+limits:
+  - "[source] breaks because many existing things (numbers, relationships, moods) have no spatial form, and the metaphor privileges visual-geometric entities while marginalizing the abstract"
+  - "[source] misleads because form implies a former (a mold, a sculptor), importing causal design reasoning into existence itself and underwriting teleological arguments"
 ---
 
 ## Transfers

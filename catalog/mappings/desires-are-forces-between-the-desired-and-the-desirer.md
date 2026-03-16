@@ -21,6 +21,13 @@ related:
 slug: desires-are-forces-between-the-desired-and-the-desirer
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - "[source] the desired object exerts a pull on the desirer proportional to proximity, mapping inverse-distance intuitions onto psychological urgency"
+  - "[source] self-control is a counter-force that opposes the pull, with the outcome determined by which force is stronger"
+  - "[source] competing desires produce felt tension as opposing force vectors, mapping the physics of vector addition onto psychological ambivalence"
+limits:
+  - "[source] breaks because physical forces obey Newton's third law (symmetric), while desire is asymmetric -- you can desire what has no reciprocal pull toward you"
+  - "[source] misleads because placing the source of force in the desired object externalizes desire, reversing the phenomenology and deflecting moral responsibility ('it tempted me')"
 ---
 
 ## Transfers

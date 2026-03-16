@@ -19,6 +19,13 @@ related:
 slug: difficult-subjects-are-adversaries
 source_frame: war
 updated: '2026-03-12'
+transfers:
+  - "[source] the adversary actively resists, evades, and counterattacks, making study feel like a zero-sum contest rather than a receptive process"
+  - "[source] understanding is victory -- a decisive triumph over a vanquished opponent -- while failure is destruction or capitulation"
+  - "[source] the learner plans strategy and tactics, choosing angles of attack, as a general plans a campaign against an opposing force"
+limits:
+  - "[source] breaks because adversaries have intentions and fight back purposefully, while difficult subjects are not trying to defeat anyone -- difficulty is a property of interaction, not opposition"
+  - "[source] misleads because the adversarial frame makes surrender (accepting you were wrong) feel like defeat rather than progress, discouraging the receptivity that genuine understanding requires"
 ---
 
 ## Transfers

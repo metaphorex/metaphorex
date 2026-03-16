@@ -18,6 +18,13 @@ related:
 slug: external-conditions-are-climate
 source_frame: natural-phenomena
 updated: '2026-03-12'
+transfers:
+  - "[source] climate is the paradigmatic example of conditions beyond individual control, framing external circumstances as something to endure rather than change"
+  - "[source] seasonal cycles import the expectation that bad conditions will naturally yield to better ones, just as winter yields to spring"
+  - "[source] endurance through bad weather toughens the entity, mapping 'storm-tested leadership' onto exposure-based resilience"
+limits:
+  - "[source] breaks because economic recessions, political crises, and social upheavals are products of human decisions, not natural phenomena -- the metaphor depoliticizes what is political"
+  - "[source] misleads because real weather affects everyone in a region roughly equally, while 'economic climate' affects people very differently based on wealth, privilege, and mobility"
 ---
 
 ## Transfers

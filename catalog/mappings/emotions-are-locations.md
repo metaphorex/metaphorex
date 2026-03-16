@@ -21,6 +21,13 @@ related:
 slug: emotions-are-locations
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - "[source] each emotion is a bounded region with an inside and outside, imposing categorical boundaries on what is actually a continuous spectrum"
+  - "[source] entering emotions has directional quality -- falling in is involuntary, walking in suggests agency, being thrown in implies external cause"
+  - "[source] persistent negative emotion is spatial confinement -- the exit is blocked, the walls too high -- making chronic states feel like imprisonment"
+limits:
+  - "[source] breaks because you can be in multiple emotions simultaneously (bittersweet, anxious excitement), but the location metaphor implies mutual exclusivity since you cannot be in two places at once"
+  - "[source] misleads because the spatial threshold demands a moment of entry, while conditions like depression develop gradually with no clear boundary crossed"
 ---
 
 ## Transfers

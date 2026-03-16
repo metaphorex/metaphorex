@@ -18,6 +18,13 @@ related:
 slug: darkness-is-a-cover
 source_frame: containers
 updated: '2026-03-12'
+transfers:
+  - "[source] the cover has an underside where things are concealed and an outside surface, structuring darkness as two-layered concealment"
+  - "[source] dawn is the removal of a cover, revealing what was always there underneath rather than creating anything new"
+  - "[source] the cover provides shelter from observation, making criminal and covert activity possible 'under' darkness"
+limits:
+  - "[source] breaks because covers are placed by agents with purpose, while darkness arrives through planetary rotation without intention"
+  - "[source] misleads because a cover has thickness and materiality while darkness has no substance -- the metaphor flattens a volumetric phenomenon into a two-dimensional sheet"
 ---
 
 ## Transfers

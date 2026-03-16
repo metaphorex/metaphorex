@@ -20,6 +20,13 @@ related:
 slug: emotions-are-forces
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - "[source] forces have magnitude and direction, so emotions push, pull, or propel the experiencer -- behavior is the resultant vector"
+  - "[source] self-control is a counter-force that opposes the emotional force, making strength of character feel like physical strength"
+  - "[source] sudden emotions are impacts -- collisions that arrive with force, contact the body, and leave damage"
+limits:
+  - "[source] breaks because forces in physics come from outside the object, while emotions arise within the person -- the metaphor externalizes emotion into something that happens to you"
+  - "[source] misleads because magnitude without quality treats love and rage as differing mainly in direction and intensity, obscuring the qualitative differences between emotions"
 ---
 
 ## Transfers

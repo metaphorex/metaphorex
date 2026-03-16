@@ -18,6 +18,13 @@ related:
 slug: external-appearance-is-a-cover
 source_frame: containers
 updated: '2026-03-12'
+transfers:
+  - "[source] the cover has a visible surface distinct from the interior, structuring deception as placing an artificial exterior over the truth"
+  - "[source] investigation is successive removal of layers -- peeling, stripping, uncovering -- with each layer bringing the observer closer to reality"
+  - "[source] authenticity is transparency where the cover matches the interior, or where there is no cover at all ('what you see is what you get')"
+limits:
+  - "[source] breaks because the cover metaphor presupposes a definite stable reality behind appearances, encouraging conspiratorial thinking when the surface may be all there is"
+  - "[source] misleads because the demand to 'unveil' hidden truth has gendered and racialized history, framing colonized peoples and women as enigmas whose 'real nature' must be exposed by the observer"
 ---
 
 ## Transfers

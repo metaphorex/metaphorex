@@ -20,6 +20,13 @@ related:
 slug: emotional-self-is-a-brittle-object
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] brittle objects have a breaking point where sufficient force causes sudden, irreversible fracture -- not gradual wear but catastrophic failure"
+  - "[source] recovery is reassembly of fragments ('picking up the pieces'), implying the repaired version is visibly damaged like glued pottery"
+  - "[source] emotional hardening is a material property -- some people are glass, others are steel -- making resilience feel intrinsic rather than contextual"
+limits:
+  - "[source] breaks because brittle objects have deterministic failure thresholds, while emotional resilience varies with context, support, and meaning -- the same loss can shatter one person and leave another grieving but intact"
+  - "[source] misleads because breaking is always destructive in the source domain, hiding that some emotional 'breaking' (broken-open heart, collapse of unhealthy defenses) can be a breakthrough"
 ---
 
 ## Transfers

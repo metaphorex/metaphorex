@@ -19,6 +19,13 @@ related:
 slug: emotion-is-motion
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] emotional onset is being set in motion by an external mover, with the person experiencing emotion as the moved object"
+  - "[source] emotional intensity maps to speed or force of motion -- mild emotions are gentle stirrings, extreme emotions are being hurled or swept away"
+  - "[source] emotional calm is stillness, mapping composure onto physical stability and emotional intensity onto physical displacement"
+limits:
+  - "[source] breaks because motion has direction and destination while most emotional experiences are not journeys with endpoints -- grief does not arrive somewhere"
+  - "[source] misleads because mapping emotion onto motion and composure onto stillness implicitly values being 'unmoved,' pathologizing emotional expressiveness"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: creative-process-is-gardening
 source_frame: horticulture
 updated: '2026-03-14'
+transfers:
+  - "[source] the gardener creates conditions under which growth happens rather than fabricating the product directly"
+  - "[source] weeding is as important as planting, framing editing and cutting as care rather than destruction"
+  - "[source] cross-pollination produces unexpected productive adjacencies that nobody planned"
+limits:
+  - "[source] breaks because pure emergence without active pruning produces wilderness, not a garden -- curation is the hidden labor"
+  - "[source] misleads because the patience of seasonal time does not transfer to domains where clock time and urgency govern"
 ---
 
 ## Transfers

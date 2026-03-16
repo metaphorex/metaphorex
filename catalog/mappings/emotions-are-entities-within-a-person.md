@@ -19,6 +19,13 @@ related:
 slug: emotions-are-entities-within-a-person
 source_frame: containers
 updated: '2026-03-14'
+transfers:
+  - "[source] the container has finite capacity, so emotions have quantity -- you can be full of anger or empty inside"
+  - "[source] overflow is loss of control, mapping emotional expression as mechanical failure where the container cracks under internal pressure"
+  - "[source] contained entities have vertical position -- deep emotions are more genuine and harder to access, surface emotions are trivial"
+limits:
+  - "[source] breaks because the container creates a dualism between you (the vessel) and your emotions (the contents), but in the moment of rage the anger is you, not a foreign object inside you"
+  - "[source] misleads because containment frames 'keeping it in' as control and 'letting it out' as failure, while emotional suppression is associated with worse health outcomes"
 ---
 
 ## Transfers

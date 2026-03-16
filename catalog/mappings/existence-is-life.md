@@ -20,6 +20,13 @@ related:
 slug: existence-is-life
 source_frame: life-course
 updated: '2026-03-12'
+transfers:
+  - "[source] existence follows a biological trajectory -- birth, growth, flourishing, decline, death -- giving everything a developmental narrative arc"
+  - "[source] robust existence is vitality and health while decline is disease, mapping evaluative medical categories onto persistence"
+  - "[source] revival is resurrection -- defunct entities can be 'brought back to life' -- extending the biological mapping past death"
+limits:
+  - "[source] breaks because non-biological entities have no metabolism, so 'the economy is sick' sounds like a diagnosis but identifies no mechanism"
+  - "[source] misleads because the life-cycle frame naturalizes extinction, making the disappearance of languages and cultures feel inevitable rather than caused by specific historical forces"
 ---
 
 ## Transfers

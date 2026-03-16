@@ -18,6 +18,13 @@ related:
 slug: darkness-is-a-solid
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - "[source] solids resist penetration, so light must cut, pierce, or shatter darkness to pass through it"
+  - "[source] solids have mass and exert force, making very dark environments feel heavy and physically oppressive"
+  - "[source] solids form walls and barriers, causing the visual field to terminate at the darkness rather than extending through it"
+limits:
+  - "[source] breaks because darkness is the absence of photons, not the presence of matter -- the metaphor reifies an absence into a substance"
+  - "[source] misleads because if darkness is solid then illumination must be violent (cutting, piercing), framing understanding as an aggressive act rather than a gradual process"
 ---
 
 ## Transfers

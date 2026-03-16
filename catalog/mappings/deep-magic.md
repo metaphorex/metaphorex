@@ -17,6 +17,13 @@ related:
 slug: deep-magic
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] magical knowledge requires initiation through hierarchy -- apprentice, journeyman, master -- each layer deeper is a level of access"
+  - "[source] spells work by exact recitation rather than understanding of mechanism, mapping onto code that must be preserved precisely without anyone knowing why"
+  - "[source] the initiated possess power that appears supernatural to the uninitiated, naturalizing expertise hierarchies as mystical rather than merely technical"
+limits:
+  - "[source] breaks because software is deterministic with traceable causal chains, while magic operates outside natural law -- calling code 'magic' concedes understanding prematurely"
+  - "[source] misleads because labeling code as deep magic creates perverse incentives: obscure code increases the maintainer's perceived value, rewarding the dysfunction it describes"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: elysium
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the ideal place is defined by absence of suffering rather than presence of specific goods -- freedom from, not provision of"
+  - "[source] access is exclusive and merit-based, so perfection depends on restricting admission -- the excluded are structurally necessary"
+  - "[source] the afterlife setting imports permanence, making Elysian promises about lasting transformation rather than temporary improvement"
+limits:
+  - "[source] breaks because Elysium is for the dead -- living communities that aspire to Elysian permanence aspire to a condition that is structurally static and changeless"
+  - "[source] misleads because nothing happens in Elysium (no stories, no conflict, no growth), mapping narrative emptiness onto real-world utopian projects that promise perfection but deliver stagnation"
 ---
 
 ## Transfers

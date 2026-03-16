@@ -20,6 +20,13 @@ related:
 slug: fear-is-cold
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] cold drains heat from a body, mapping fear as a thermal event that drains the felt warmth of safety and comfort"
+  - "[source] extreme cold freezes things solid, mapping the involuntary stillness of the freeze response onto acute fear as physical rigidity"
+  - "[source] cold is felt first at the body's surface (chills, goosebumps), giving fear a spatial quality of arriving from outside and registering on the periphery"
+limits:
+  - "[source] breaks because fear often produces heat (flushed cheeks, sweating, racing heart) -- the cold mapping captures the freeze response but misses the fight-or-flight activation"
+  - "[source] misleads because cold also maps onto composure and control ('cool under pressure,' 'cold-blooded calculation'), creating ambiguity where context alone disambiguates whether cold means afraid or rational"
 ---
 
 ## Transfers

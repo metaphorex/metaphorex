@@ -20,6 +20,13 @@ related:
 slug: emotional-stability-is-balance
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] the balanced body resists perturbation from a stable center of gravity, making emotional composure feel like a mechanical equilibrium"
+  - "[source] tipping and toppling produce sudden catastrophic loss, mapping emotional crisis onto a body losing its fight with gravity"
+  - "[source] external events are destabilizing forces that knock you off balance, externalizing the cause of emotional distress"
+limits:
+  - "[source] breaks because balance implies a single correct position (upright, centered) and codes all deviation as dysfunction, pathologizing emotional range and intensity"
+  - "[source] misleads because a balanced body is still, making emotional stability sound like the absence of movement -- the person who never tips may be rigid or numb, not healthy"
 ---
 
 ## Transfers

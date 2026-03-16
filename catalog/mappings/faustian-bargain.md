@@ -18,6 +18,13 @@ related:
 slug: faustian-bargain
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the bargain is voluntary and informed -- Faustus signs knowing the terms -- mapping onto situations where the decision-maker understands the future cost and accepts it anyway"
+  - "[source] the payment is incommensurable with the purchase: a soul for temporal pleasures, mapping transactions where cost and benefit belong to different categories of value"
+  - "[source] the term expires, and the bill comes due suddenly and completely, importing the dread of a deadline when deferred costs materialize all at once"
+limits:
+  - "[source] breaks because Faustus's contract is absolute with no restructuring or renegotiation, while real 'Faustian' situations usually allow course correction -- the metaphor can induce fatalism about reversible problems"
+  - "[source] misleads because calling a deal 'Faustian' flatters the decision-maker by implying what was received was genuinely powerful, when many bad long-term trades involve meager short-term gains"
 ---
 
 ## Transfers

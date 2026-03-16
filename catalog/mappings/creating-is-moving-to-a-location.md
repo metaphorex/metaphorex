@@ -20,6 +20,13 @@ related:
 slug: creating-is-moving-to-a-location
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - "[source] the created thing travels from elsewhere to here, making arrival the moment of existence"
+  - "[source] the creator functions as summoner or witness rather than fabricator, diminishing maker agency"
+  - "[source] failed creation is non-arrival, preserving the entity as still-in-transit rather than never-attempted"
+limits:
+  - "[source] breaks because there is no origin location for uncreated things -- the metaphor demands a departure point that does not exist"
+  - "[source] misleads because arrival implies completeness, hiding the iterative shaping most creation requires after the initial appearance"
 ---
 
 ## Transfers

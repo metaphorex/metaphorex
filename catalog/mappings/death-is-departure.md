@@ -18,6 +18,13 @@ related:
 slug: death-is-departure
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - "[source] departure implies a destination, providing the narrative scaffold for afterlife beliefs across cultures"
+  - "[source] the survivor experiences the death as abandonment -- the dead person has 'left us' -- making grief feel like separation rather than annihilation"
+  - "[source] the dying process is mapped as gradual withdrawal, with hospice language saturated by journey metaphors of 'slipping away'"
+limits:
+  - "[source] breaks because there is no traveler after death -- the person has ceased to exist, not relocated, but the metaphor makes this fact nearly unthinkable"
+  - "[source] misleads because the journey frame implies reunion is possible ('I'll see you on the other side'), underwriting beliefs that may prevent genuine reckoning with finality"
 ---
 
 ## Transfers

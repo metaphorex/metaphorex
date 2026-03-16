@@ -18,6 +18,13 @@ related:
 slug: disparity-is-change
 source_frame: event-structure
 updated: '2026-03-12'
+transfers:
+  - "[source] static differences between things are narrated as divergence from a common origin, imposing a temporal story on a simultaneous comparison"
+  - "[source] the magnitude of difference maps onto distance traveled, so greater disparity means more change has supposedly occurred"
+  - "[source] reducing difference is convergence -- two things moving toward each other -- giving comparison a directionality it does not inherently possess"
+limits:
+  - "[source] breaks because many differences have no temporal origin -- red and blue were never the same -- yet the metaphor demands a narrative of prior unity and subsequent divergence"
+  - "[source] misleads because change is directional while disparity is not, so the metaphor assigns one entity as the reference point and the other as the deviant ('their policy deviates from ours')"
 ---
 
 ## Transfers

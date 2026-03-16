@@ -18,6 +18,13 @@ related:
 slug: difficulty-is-moving
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] difficulty is felt as the muscular and gravitational resistance of motion -- hard tasks feel like wading through mud, easy tasks like coasting downhill"
+  - "[source] speed and ease are interchangeable -- fast motion means easy action, slow motion means hard action"
+  - "[source] friction is a coefficient between mover and surface, making institutional and social resistance feel like a physical property of the terrain"
+limits:
+  - "[source] breaks because some difficulty requires precision rather than force -- threading a needle is hard but nothing resists your motion"
+  - "[source] misleads because the motion frame linearizes difficulty, making patience look like stalling and reflection look like standing still"
 ---
 
 ## Transfers
