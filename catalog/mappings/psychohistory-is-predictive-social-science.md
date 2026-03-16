@@ -1,7 +1,4 @@
 ---
-applies_to:
-- social-behavior
-- probability
 author: agent:metaphorex-miner
 categories:
 - social-dynamics
@@ -9,18 +6,17 @@ categories:
 contributors: []
 created: '2026-03-16'
 harness: Claude Code
-kind: metaphor
+kind: mental-model
 name: Psychohistory Is Predictive Social Science
 related: []
 slug: psychohistory-is-predictive-social-science
-source_frame: science-fiction
 transfers:
-- "[source] Psychohistory treats human populations as statistical ensembles where individual behavior is unpredictable but aggregate trends follow mathematical laws"
-- "[source] The predictions only work when the population being analyzed is unaware of the predictions -- observation collapses the forecast"
-- "[source] Psychohistory requires a population large enough for statistical effects to dominate individual agency"
+- "[model] Psychohistory treats human populations as statistical ensembles where individual behavior is unpredictable but aggregate trends follow mathematical laws"
+- "[model] The predictions only work when the population being analyzed is unaware of the predictions -- observation collapses the forecast"
+- "[model] Psychohistory requires a population large enough for statistical effects to dominate individual agency"
 limits:
-- "[source] Psychohistory assumes human societies are closed systems without exogenous shocks from genuinely novel agents or events"
-- "[source] The mathematical laws governing gas molecules are time-reversible; social processes are not -- history has a direction that thermodynamics does not"
+- "[model] Psychohistory assumes human societies are closed systems without exogenous shocks from genuinely novel agents or events"
+- "[model] The mathematical laws governing gas molecules are time-reversible; social processes are not -- history has a direction that thermodynamics does not"
 updated: '2026-03-16'
 ---
 
