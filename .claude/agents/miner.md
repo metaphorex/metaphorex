@@ -148,6 +148,16 @@ Cognitive biases and effects are `mental-model`. If you're writing 5 entries
 and they're all `metaphor`, stop and re-check — that distribution is almost
 certainly wrong.
 
+**Choosing `source_frame` (history vs. mythology):**
+
+Distinguish mythology (sacred/traditional narratives, gods, mythical heroes)
+from history (documented events/persons). Use `historical-figures` for entries
+derived from real historical persons (Pyrrhus, Machiavelli, etc.) and
+`military-history` for entries derived from real military events or strategy.
+Reserve `mythology` for genuinely mythological content -- gods, demigods,
+mythical heroes, sacred narratives. Classical antiquity does not automatically
+mean mythology.
+
 **Writing Entries:**
 
 Use the metaphorex-schema skill for the canonical schema. Additionally:
