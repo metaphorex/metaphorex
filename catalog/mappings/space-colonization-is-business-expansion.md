@@ -5,7 +5,6 @@ categories:
 - arts-and-culture
 contributors: []
 created: '2026-03-16'
-dead: false
 harness: Claude Code
 kind: metaphor
 limits:
