@@ -32,6 +32,7 @@ do runs in the main conversation so the user sees progress immediately.
    | Needs smelting | 2 | PR #55, #56 |
    | Needs assay | 1 | PR #48 |
    | Needs miner fix | 0 | — |
+   | Needs enrichment | 3 | #1465, #1466, #1467 |
    | Unclaimed issues | 12 | design-patterns (12) |
    | Needs prospecting | 1 | #7 |
    ```
@@ -80,6 +81,11 @@ so the user sees progress.
      "Re-prospecting...", then dispatch `metaphorex-agents:prospector`
      with model `opus` for the first `needs_rework` item. Higher priority
      than fresh prospecting — these were already attempted and rejected.
+   - **Enrichment** — if `needs_enrichment` is non-empty: TaskCreate
+     "Enriching batch...", then dispatch `metaphorex-agents:miner` with
+     model `opus`, isolation `worktree`. Pass the first
+     `needs_enrichment` issue. Enrichment takes priority over new
+     mining — while enrichment batches exist, skip step 6.
    - **Prospecting** — if `needs_prospecting` is non-empty AND
      (`unclaimed` is empty OR `prospected_projects` count < 2):
      TaskCreate "Prospecting...", then dispatch
@@ -117,9 +123,10 @@ so the user sees progress.
    If a PR is stuck (CI failing, merge conflict), the workflow will not merge
    it — check the PR's status checks for details.
 
-5. **New mining work** — only if no `in_progress` items exist AND
-   `unclaimed` issues exist (unclaimed issues only come from `surveyed`
-   projects — the survey script filters accordingly):
+5. **New mining work** — only if:
+   - No `in_progress` items exist AND
+   - `unclaimed` issues exist AND
+   - `needs_enrichment` is empty (enrichment takes priority over mining)
    - Take up to 5 unclaimed issues from the survey
    - TaskCreate "Mining 5 issues...", dispatch `metaphorex-agents:miner`
      with model `opus`, isolation `worktree`, run_in_background: true
@@ -201,7 +208,8 @@ summary covering the entire session:
 ### Production
 - Rounds: N
 - PRs opened: N (list PR numbers)
-- New mappings created: ~N
+- Entries enriched: ~N
+- New entries created: ~N
 - Duplicates closed: N
 - Projects surveyed/approved: N
 - Sub-issues created: N
