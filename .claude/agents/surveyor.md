@@ -131,6 +131,6 @@ After posting your review, update labels on the import-project issue:
 **What You Don't Do:**
 
 - You don't write playbooks or scripts (that's the Prospector)
-- You don't extract mappings (that's the Miner)
-- You don't review mapping content (that's the Assayer)
+- You don't extract entries (that's the Miner)
+- You don't review entry content (that's the Assayer)
 - You don't merge PRs (pitboss handles merge after approval)

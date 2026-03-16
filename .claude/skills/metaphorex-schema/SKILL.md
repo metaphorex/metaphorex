@@ -1,6 +1,6 @@
 ---
 name: metaphorex-schema
-description: Use when creating, editing, or validating Metaphorex content — mappings, frames, or categories. Provides the canonical schema, frontmatter spec, body section conventions, and tone guide.
+description: Use when creating, editing, or validating Metaphorex content — entries, frames, or categories. Provides the canonical schema, frontmatter spec, body section conventions, and tone guide.
 version: 1.0.0
 ---
 
@@ -11,14 +11,14 @@ knowledge graph of metaphors at https://github.com/metaphorex/metaphorex.
 
 ## Terminology
 
-- **Mapping** — the main content unit. A conceptual metaphor, archetype,
+- **Entry** — the main content unit. A conceptual metaphor, archetype,
   dead metaphor, or paradigm linking a source and target domain.
-- **Expression** — a specific instance of a mapping (e.g., "the server is
+- **Expression** — a specific instance of an entry (e.g., "the server is
   choking" is an expression of PROGRAM FAILURE IS BODILY FAILURE).
 - **Frame** — a conceptual domain with structural roles.
 - **Category** — a SKOS-style taxonomy label.
 
-## Mapping Frontmatter
+## Entry Frontmatter
 
 ```yaml
 ---
@@ -40,7 +40,7 @@ dead: true                       # optional, metaphor kind only
 
 ### Valid Kinds
 
-- `metaphor` — specific A→B mapping where the source domain illuminates the target. Includes dead metaphors (`dead: true`) where the source is forgotten but structurally recoverable. `source_frame` required.
+- `metaphor` — specific A→B metaphor where the source domain illuminates the target. Includes dead metaphors (`dead: true`) where the source is forgotten but structurally recoverable. `source_frame` required.
 - `pattern` — structural solution to recurring design problem. Source frame often thin/vestigial. `source_frame` optional.
 - `archetype` — narrative or character universal across 3+ domains. `source_frame` optional.
 - `paradigm` — philosophy or worldview with a position, operating within domains. You can agree or disagree. `source_frame` optional.
@@ -75,14 +75,14 @@ Signals epistemic status. Defaults to `folk` if omitted.
 ### No status field
 
 PR workflow handles lifecycle: open PR = proposed, merged = published.
-Only add `deprecated: true` when a mapping is superseded.
+Only add `deprecated: true` when an entry is superseded.
 
-## Mapping Body Sections
+## Entry Body Sections
 
 Required (in this order):
 
 ### ## Transfers
-The structural parallels that make this mapping useful. Be specific about
+The structural parallels that make this entry useful. Be specific about
 what maps to what. Use bold bullet points for key parallels.
 
 ### ## Limits
@@ -93,13 +93,13 @@ makes Metaphorex more than a list.
 ### ## Expressions
 Specific phrases found in real usage. Format:
 ```markdown
-- "expression here" — brief annotation explaining the mapping
+- "expression here" — brief annotation explaining the metaphorical origin
 ```
 
 Optional:
 
 ### ## Origin Story
-Where this mapping comes from, who popularized it, how it evolved.
+Where this concept comes from, who popularized it, how it evolved.
 
 ### ## References
 Sources, citations, further reading. Use standard citation format.
@@ -155,7 +155,7 @@ Body: 1-2 sentence scope description.
 
 ## Frame & Category Upsert Rule
 
-If your mapping references frames or categories that don't exist, create
+If your entry references frames or categories that don't exist, create
 them in the same PR. Frames are cheap (create freely). Categories are
 expensive (affect the whole taxonomy — think before adding).
 

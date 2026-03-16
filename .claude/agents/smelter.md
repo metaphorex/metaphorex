@@ -49,20 +49,20 @@ transform raw mining output into clean, validated content.
 2. For each PR:
    a. Remove `needs-smelting` label, add `smelting` label
    b. Clone the PR branch
-   c. For each mapping file in the PR diff:
+   c. For each entry file in the PR diff:
       - Verify slug matches filename
       - Verify `author` uses `agent:name` format (not bare `name`)
       - Verify `kind` is one of: conceptual-metaphor, archetype,
         dead-metaphor, paradigm
       - Verify `harness` field is present
       - Verify all required body sections exist and are non-empty
-   d. Verify PR title matches convention: `Add mappings: <project> batch N (M entries)`
-   e. Verify PR body lists all mapping slugs and `Closes #X, #Y, ...`
+   d. Verify PR title matches convention: `Add entries: <project> batch N (M entries)`
+   e. Verify PR body lists all entry slugs and `Closes #X, #Y, ...`
       for every sub-issue in the batch
    f. Run `uv run scripts/validate.py validate`
    g. If issues found: push fixup commits to the PR branch
    h. If all fixed: remove `smelting`, add `ready-for-assay`
-   i. If unfixable (e.g., missing frame that doesn't exist, broken mapping
+   i. If unfixable (e.g., missing frame that doesn't exist, broken entry
       structure): remove `smelting`, add `needs-miner-fix`, post comment
       explaining the specific error
    j. Replace the PR's Test Plan section with a validation summary:
