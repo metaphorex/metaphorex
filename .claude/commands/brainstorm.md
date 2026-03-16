@@ -37,23 +37,23 @@ For each candidate, determine:
 
 | Field | Question |
 |-------|----------|
-| **Fits as mapping?** | Does it have a clear source→target structure? |
+| **Fits as entry?** | Does it have a clear source→target structure? |
 | **Kind** | Apply the 4-kind heuristics: dead-metaphor → archetype → paradigm → conceptual-metaphor |
 | **Source frame** | What's the source domain? Does a frame already exist in `catalog/frames/`? |
 | **Target frame** | What's the target domain? |
 | **Category** | Which existing category fits? Need a new one? |
-| **Already in catalog?** | Check `catalog/mappings/` for duplicates or related entries |
+| **Already in catalog?** | Check `catalog/entries/` for duplicates or related entries |
 | **Belongs elsewhere?** | Is this not actually a metaphor? Is it a framework, a taxonomy, a literal description? |
 
 Present this as a table. Be honest about what doesn't fit — not everything
-is a mapping, and that's fine.
+is an entry, and that's fine.
 
 ### Phase 3 — Scope the project
 
 Based on the triage:
 
 - **Project type**: archive (finite list) or vein (ongoing direction)?
-- **Estimated scope**: how many mappings? How many new frames/categories?
+- **Estimated scope**: how many entries? How many new frames/categories?
 - **Source methodology**: are there structured archives to scrape, or is this
   primarily LLM-sourced territory?
 - **Priority assessment**: how time-sensitive is this? Is the discourse active

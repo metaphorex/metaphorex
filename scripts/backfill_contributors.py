@@ -29,7 +29,7 @@ from pathlib import Path
 import frontmatter
 
 ROOT = Path(__file__).resolve().parent.parent
-MAPPINGS_DIR = ROOT / "catalog" / "mappings"
+ENTRIES_DIR = ROOT / "catalog" / "entries"
 
 
 def gh(args: list[str]) -> str:
@@ -151,14 +151,14 @@ def get_pr_authors_for_file(filepath: str) -> set[str]:
     return authors
 
 
-def process_mapping(path: Path, write: bool) -> dict | None:
-    """Process a single mapping file. Returns change info or None."""
+def process_entry(path: Path, write: bool) -> dict | None:
+    """Process a single entry file. Returns change info or None."""
     post = frontmatter.load(path)
     meta = post.metadata
     author = meta.get("author", "")
     existing = set(meta.get("contributors", []))
 
-    filepath = f"catalog/mappings/{path.name}"
+    filepath = f"catalog/entries/{path.name}"
     new_contributors = set()
 
     # Find the introducing commit and its PR
@@ -211,19 +211,19 @@ def main() -> None:
     write = "--write" in sys.argv
 
     changes = []
-    mapping_files = sorted(MAPPINGS_DIR.glob("*.md"))
-    total = len(mapping_files)
+    entry_files = sorted(ENTRIES_DIR.glob("*.md"))
+    total = len(entry_files)
 
-    for i, path in enumerate(mapping_files, 1):
+    for i, path in enumerate(entry_files, 1):
         print(f"\r[{i}/{total}] {path.name}", end="", flush=True, file=sys.stderr)
-        change = process_mapping(path, write=write)
+        change = process_entry(path, write=write)
         if change:
             changes.append(change)
 
     print(file=sys.stderr)
 
     if changes:
-        print(f"\n{len(changes)} mapping(s) updated:\n")
+        print(f"\n{len(changes)} entry/entries updated:\n")
         for c in changes:
             added = ", ".join(c["added"]) if c["added"] else "(no new)"
             print(f"  {c['file']}: +{added}")

@@ -55,7 +55,7 @@ def backfill(write: bool = False) -> None:
     changed = 0
     skipped = 0
 
-    for subdir in ["mappings", "frames", "categories"]:
+    for subdir in ["entries", "frames", "categories"]:
         dir_path = CATALOG_DIR / subdir
         for md_file in sorted(dir_path.glob("*.md")):
             post = frontmatter.load(md_file)

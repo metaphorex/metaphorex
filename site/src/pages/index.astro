@@ -2,12 +2,12 @@
 import Base from "@/layouts/Base.astro";
 import { getCollection } from "astro:content";
 
-const mappings = await getCollection("mappings");
+const entries = await getCollection("entries");
 const frames = await getCollection("frames");
 const categories = await getCollection("categories");
 const works = await getCollection("works");
 
-const recent = [...mappings]
+const recent = [...entries]
   .sort((a, b) => b.data.created.getTime() - a.data.created.getTime())
   .slice(0, 10);
 
@@ -22,7 +22,7 @@ const recentWorks = [...works]
 
   <h2>Corpus</h2>
   <p>
-    <strong>{mappings.length}</strong> mappings &middot;
+    <strong>{entries.length}</strong> entries &middot;
     <strong>{frames.length}</strong> frames &middot;
     <strong>{categories.length}</strong> categories &middot;
     <strong>{works.length}</strong> works
@@ -30,7 +30,7 @@ const recentWorks = [...works]
 
   <h2>Browse</h2>
   <ul>
-    <li><a href="/mappings/">All mappings</a> — metaphors, patterns, mental models, archetypes</li>
+    <li><a href="/entries/">All entries</a> — metaphors, patterns, mental models, archetypes</li>
     <li><a href="/frames/">All frames</a> — source and target domains</li>
     <li><a href="/categories/">All categories</a> — cross-cutting taxonomy</li>
     <li><a href="/works/">All works</a> — source texts and collections</li>
@@ -50,7 +50,7 @@ const recentWorks = [...works]
   <ul class="entry-list">
     {recent.map((m) => (
       <li>
-        <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+        <a href={`/entries/${m.data.slug}/`}>{m.data.name}</a>
         <span class="muted"> — {m.data.kind}</span>
       </li>
     ))}

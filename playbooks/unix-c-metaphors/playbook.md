@@ -31,7 +31,7 @@ interfaces, and design philosophy.
 - RFC 793 (TCP, 1981) -- handshake, socket, port, window
 - RFC 1035 (DNS, 1987) -- domain, zone, delegation, authority
 
-Estimated yield: 35 mappings. Mostly `dead-metaphor` (these terms are so
+Estimated yield: 35 entries. Mostly `dead-metaphor` (these terms are so
 embedded that speakers no longer recognize them as metaphorical) with one
 `paradigm` (everything-is-a-file).
 
@@ -118,7 +118,7 @@ where appropriate.
 ### For Miners
 
 Each candidate in the manifest has:
-- `slug`: filename for `catalog/mappings/{slug}.md`
+- `slug`: filename for `catalog/entries/{slug}.md`
 - `name`: the ALL-CAPS term name
 - `kind`: `paradigm`, `dead-metaphor`, or `conceptual-metaphor`
 - `source_frame` and `target_frame`: existing or needed frames

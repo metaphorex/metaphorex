@@ -1,11 +1,11 @@
 import { getCollection } from "astro:content";
 
 export async function GET() {
-  const mappings = await getCollection("mappings");
+  const entries = await getCollection("entries");
   const frames = await getCollection("frames");
   const categories = await getCollection("categories");
 
-  const sortedMappings = mappings.sort((a, b) =>
+  const sortedEntries = entries.sort((a, b) =>
     a.data.name.localeCompare(b.data.name)
   );
 
@@ -14,11 +14,11 @@ export async function GET() {
   const sections: string[] = [
     "# Metaphorex (Full)",
     "",
-    `> Version ${version}. ${mappings.length} mappings, ${frames.length} frames, ${categories.length} categories.`,
+    `> Version ${version}. ${entries.length} entries, ${frames.length} frames, ${categories.length} categories.`,
     "",
   ];
 
-  for (const m of sortedMappings) {
+  for (const m of sortedEntries) {
     sections.push(`## ${m.data.name}`);
     sections.push("");
     const meta: string[] = [`**Kind:** ${m.data.kind}`];

@@ -135,7 +135,7 @@ This is flagged as a decision point for the Surveyor, not a blocker.
 
 Each candidate in the manifest has:
 
-- `slug`: the filename for `catalog/mappings/{slug}.md`
+- `slug`: the filename for `catalog/entries/{slug}.md`
 - `name`: human-readable name
 - `kind`: `paradigm` (all entries)
 - `source_frame` and `target_frame`: the source discipline and the

@@ -108,7 +108,7 @@ social metaphors).
 1. Scraped the Osaka archive directory listing (207 files)
 2. Parsed filenames to extract metaphor names, slugs, and source/target stubs
 3. Deduplicated (trailing-dot variants), yielding 203 unique entries
-4. Cross-referenced against existing catalog (139 mappings), excluding
+4. Cross-referenced against existing catalog (139 entries), excluding
    24 entries that already exist
 5. Assigned frames using the Osaka source/target domain indexes and
    existing frame inventory
@@ -161,7 +161,7 @@ ones where the metaphors share source or target domains.
 ### For Miners
 
 Each candidate in the manifest has:
-- `slug`: filename for `catalog/mappings/{slug}.md`
+- `slug`: filename for `catalog/entries/{slug}.md`
 - `name`: the ALL-CAPS metaphor name
 - `kind`: `primary-metaphor` (embodied, universal) or `conceptual-metaphor`
   (complex, potentially culture-specific)

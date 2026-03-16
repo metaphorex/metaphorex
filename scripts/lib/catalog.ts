@@ -1,5 +1,5 @@
 /**
- * Catalog parser — reads all mapping markdown files, extracts frontmatter
+ * Catalog parser — reads all entry markdown files, extracts frontmatter
  * and per-proposition bullet lists (transfers, limits, expressions).
  */
 
@@ -98,13 +98,13 @@ export function extractBullets(sectionContent: string): string[] {
 
 export async function readCatalog(): Promise<CatalogEntry[]> {
   const repoRoot = join(import.meta.dirname!, "..", "..");
-  const mappingsDir = join(repoRoot, "catalog", "mappings");
+  const entriesDir = join(repoRoot, "catalog", "entries");
 
   const glob = new Glob("*.md");
   const entries: CatalogEntry[] = [];
 
-  for await (const file of glob.scan(mappingsDir)) {
-    const fullPath = join(mappingsDir, file);
+  for await (const file of glob.scan(entriesDir)) {
+    const fullPath = join(entriesDir, file);
     const raw = await Bun.file(fullPath).text();
     const { data, content } = matter(raw);
 
@@ -136,7 +136,7 @@ export async function readCatalog(): Promise<CatalogEntry[]> {
 if (import.meta.main) {
   const entries = await readCatalog();
 
-  console.log(`Total mappings: ${entries.length}`);
+  console.log(`Total entries: ${entries.length}`);
 
   const totalTransfers = entries.reduce((s, e) => s + e.transfers.length, 0);
   const totalLimits = entries.reduce((s, e) => s + e.limits.length, 0);

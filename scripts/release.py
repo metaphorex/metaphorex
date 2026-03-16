@@ -108,7 +108,7 @@ def main():
     print("Extracting snapshot...")
     snapshot = _extract_snapshot()
     snapshot_data = json.loads(snapshot)
-    print(f"Snapshot contains {len(snapshot_data)} mappings")
+    print(f"Snapshot contains {len(snapshot_data)} entries")
 
     print("Checking for changes since last release...")
     last_snapshot = _get_last_release_snapshot()
@@ -117,7 +117,7 @@ def main():
         return
 
     if args.dry_run:
-        print(f"[DRY RUN] Would create release {tag} with {len(snapshot_data)} mappings")
+        print(f"[DRY RUN] Would create release {tag} with {len(snapshot_data)} entries")
         return
 
     # Write snapshot to temp file and create release
@@ -136,7 +136,7 @@ def main():
             [
                 "gh", "release", "create", tag,
                 "--title", f"Catalog snapshot {tag}",
-                "--notes", f"Automated catalog snapshot with {len(snapshot_data)} mappings.",
+                "--notes", f"Automated catalog snapshot with {len(snapshot_data)} entries.",
                 str(canonical),
             ],
             cwd=ROOT, check=True,

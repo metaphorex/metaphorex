@@ -29,7 +29,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 
 ROOT = Path(__file__).resolve().parent.parent
-MAPPINGS_DIR = ROOT / "catalog" / "mappings"
+ENTRIES_DIR = ROOT / "catalog" / "entries"
 FRAMES_DIR = ROOT / "catalog" / "frames"
 
 
@@ -46,8 +46,8 @@ def load_graph() -> tuple[nx.DiGraph, dict[str, str]]:
         frame_names[slug] = name
         G.add_node(slug, name=name)
 
-    # Add edges from mappings
-    for f in MAPPINGS_DIR.glob("*.md"):
+    # Add edges from entries
+    for f in ENTRIES_DIR.glob("*.md"):
         post = frontmatter.load(f)
         meta = post.metadata
         src = meta.get("source_frame")
@@ -55,9 +55,9 @@ def load_graph() -> tuple[nx.DiGraph, dict[str, str]]:
         if src and tgt:
             if G.has_edge(src, tgt):
                 G[src][tgt]["weight"] += 1
-                G[src][tgt]["mappings"].append(meta.get("slug", f.stem))
+                G[src][tgt]["entries"].append(meta.get("slug", f.stem))
             else:
-                G.add_edge(src, tgt, weight=1, mappings=[meta.get("slug", f.stem)])
+                G.add_edge(src, tgt, weight=1, entries=[meta.get("slug", f.stem)])
 
     return G, frame_names
 
@@ -66,7 +66,7 @@ def print_stats(G: nx.DiGraph, frame_names: dict[str, str]) -> None:
     """Print graph statistics."""
     print(f"Nodes (frames): {G.number_of_nodes()}")
     print(f"Edges (unique frame pairs): {G.number_of_edges()}")
-    print(f"Total mappings as edges: {sum(d['weight'] for _, _, d in G.edges(data=True))}")
+    print(f"Total entries as edges: {sum(d['weight'] for _, _, d in G.edges(data=True))}")
 
     # Degree analysis (treat as undirected for connectivity)
     U = G.to_undirected()

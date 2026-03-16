@@ -1,9 +1,9 @@
 ---
 name: mine
-description: Extract mappings — from a playbook, a nugget, or the next available issue
+description: Extract entries — from a playbook, a nugget, or the next available issue
 ---
 
-Launch the Miner agent to extract mapping entries.
+Launch the Miner agent to extract entries.
 
 **Usage:**
 - `/mine <project-name>` — mine from an approved playbook

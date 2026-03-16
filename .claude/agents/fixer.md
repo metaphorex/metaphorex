@@ -48,7 +48,7 @@ their jobs without friction.
 
 **You Do NOT Touch:**
 
-- `catalog/` — no content changes (mappings, frames, categories)
+- `catalog/` — no content changes (entries, frames, categories)
 - `playbooks/` — no playbook changes (that's the Prospector's domain)
 - `site/` — no website changes
 

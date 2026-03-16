@@ -98,7 +98,7 @@ and are excluded from the candidate manifest:
 ### For Miners
 
 Each candidate in the manifest has:
-- `slug`: the filename for `catalog/mappings/{slug}.md`
+- `slug`: the filename for `catalog/entries/{slug}.md`
 - `name`: the ALL-CAPS metaphor name (Lakoff convention)
 - `kind`: `conceptual-metaphor`, `dead-metaphor`, or `paradigm`
 - `source_frame` and `target_frame`: existing or needed frames

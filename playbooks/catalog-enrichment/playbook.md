@@ -22,7 +22,7 @@ entries and adds frontmatter fields without altering body text.
 
 **Process per entry:**
 
-1. Read the existing file from `catalog/mappings/<slug>.md`
+1. Read the existing file from `catalog/entries/<slug>.md`
 2. Read the body sections (## What It Brings, ## Where It Breaks) for context
 3. Generate `transfers:` and `limits:` YAML lists following the proposition-writing
    guidance below

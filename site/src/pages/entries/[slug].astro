@@ -3,8 +3,8 @@ import Base from "@/layouts/Base.astro";
 import { getCollection, render } from "astro:content";
 
 export async function getStaticPaths() {
-  const mappings = await getCollection("mappings");
-  return mappings.map((entry) => ({
+  const entries = await getCollection("entries");
+  return entries.map((entry) => ({
     params: { slug: entry.data.slug },
     props: { entry },
   }));
@@ -22,9 +22,9 @@ const appliesTo = (entry.data.applies_to || []).map((slug: string) => {
   return { slug, frame };
 });
 
-const allMappings = await getCollection("mappings");
+const allEntries = await getCollection("entries");
 const related = entry.data.related
-  .map((slug: string) => allMappings.find((m) => m.data.slug === slug))
+  .map((slug: string) => allEntries.find((m) => m.data.slug === slug))
   .filter(Boolean);
 
 const allWorks = await getCollection("works");
@@ -90,10 +90,10 @@ function descriptionText() {
 
     {related.length > 0 && (
       <>
-        <h2>Related Mappings</h2>
+        <h2>Related Entries</h2>
         <ul>
           {related.map((r: any) => (
-            <li><a href={`/mappings/${r.data.slug}/`}>{r.data.name}</a></li>
+            <li><a href={`/entries/${r.data.slug}/`}>{r.data.name}</a></li>
           ))}
         </ul>
       </>

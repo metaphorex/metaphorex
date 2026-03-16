@@ -13,8 +13,8 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const allMappings = await getCollection("mappings");
-const sourced = allMappings
+const allEntries = await getCollection("entries");
+const sourced = allEntries
   .filter((m) => m.data.provenance === entry.data.slug)
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
 
@@ -40,11 +40,11 @@ const related = entry.data.related
 
     {sourced.length > 0 && (
       <>
-        <h2>Mappings ({sourced.length})</h2>
+        <h2>Entries ({sourced.length})</h2>
         <ul class="entry-list">
           {sourced.map((m) => (
             <li>
-              <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+              <a href={`/entries/${m.data.slug}/`}>{m.data.name}</a>
               <span class="muted"> &mdash; {m.data.kind}</span>
             </li>
           ))}

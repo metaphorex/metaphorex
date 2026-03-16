@@ -4,7 +4,7 @@
 #     "python-frontmatter>=1.1.0",
 # ]
 # ///
-"""Backfill provenance field on existing mappings.
+"""Backfill provenance field on existing entries.
 
 Usage:
     uv run scripts/backfill_provenance.py          # dry run
@@ -20,7 +20,7 @@ from pathlib import Path
 import frontmatter
 
 ROOT = Path(__file__).resolve().parent.parent
-MAPPINGS_DIR = ROOT / "catalog" / "mappings"
+ENTRIES_DIR = ROOT / "catalog" / "entries"
 PLAYBOOKS_DIR = ROOT / "playbooks"
 
 # Map: playbook slug -> provenance work slug(s)
@@ -81,8 +81,8 @@ def main() -> None:
     # Jungian overrides
     slug_to_provenance.update(JUNGIAN_PROVENANCE)
 
-    # Process all mappings
-    for path in sorted(MAPPINGS_DIR.glob("*.md")):
+    # Process all entries
+    for path in sorted(ENTRIES_DIR.glob("*.md")):
         post = frontmatter.load(path)
         slug = post.metadata.get("slug", path.stem)
 
@@ -103,7 +103,7 @@ def main() -> None:
         updated += 1
 
     mode = "updated" if apply else "would update"
-    print(f"\n{mode} {updated} mappings, skipped {skipped} (already set)")
+    print(f"\n{mode} {updated} entries, skipped {skipped} (already set)")
 
 
 if __name__ == "__main__":

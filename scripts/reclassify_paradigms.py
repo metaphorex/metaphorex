@@ -19,7 +19,7 @@ from pathlib import Path
 import frontmatter
 
 ROOT = Path(__file__).resolve().parent.parent
-MAPPINGS_DIR = ROOT / "catalog" / "mappings"
+ENTRIES_DIR = ROOT / "catalog" / "entries"
 
 # slug -> new kind (only entries that change)
 RECLASSIFY: dict[str, str] = {
@@ -95,7 +95,7 @@ def main() -> None:
     changes = 0
 
     for slug, new_kind in sorted(RECLASSIFY.items()):
-        path = MAPPINGS_DIR / f"{slug}.md"
+        path = ENTRIES_DIR / f"{slug}.md"
         if not path.exists():
             print(f"  SKIP {slug}: file not found")
             continue
