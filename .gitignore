@@ -2,5 +2,6 @@ graph.png
 .worktrees/
 .playwright-mcp/
 .DS_Store
+.envrc
 node_modules/
 catalog/embeddings.db
