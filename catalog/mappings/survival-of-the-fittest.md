@@ -1,4 +1,6 @@
 ---
+applies_to:
+- competition
 author: fshot
 categories:
 - organizational-behavior
@@ -12,11 +14,10 @@ related:
 - the-commons
 slug: survival-of-the-fittest
 source_frame: natural-selection
-target_frame: competition
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Explains how complex, adapted systems emerge without anyone planning
 them. Markets, ecosystems, languages, technologies: all shaped by
@@ -36,7 +37,7 @@ Key structural parallels:
   Profitable business models get imitated. Popular API designs become
   standards. The mechanism differs; the structure rhymes.
 
-## Where It Breaks
+## Limits
 
 "Survival of the fittest" is one of the most dangerously misapplied
 metaphors in history.

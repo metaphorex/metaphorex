@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Emotion Is Motion
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - emotional-stability-is-contact-with-the-ground
 slug: emotion-is-motion
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To be emotional is to be moved. The very word "emotion" derives from Latin
 *emovere* -- to move out. This metaphor maps physical motion onto
@@ -55,7 +56,7 @@ Key structural parallels:
   their pleas." "A moving performance." To affect another person
   emotionally is to physically displace them.
 
-## Where It Breaks
+## Limits
 
 - **Emotions are not displacements** -- motion has direction and
   destination; emotions typically do not. The metaphor implies that being

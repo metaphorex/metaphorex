@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Harming Is Lowering
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - harm-is-preventing-forward-motion-toward-a-goal
 slug: harming-is-lowering
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To harm someone is to bring them down. This metaphor maps the physical
 experience of being forced downward -- falling, being pushed to the ground,
@@ -56,7 +57,7 @@ Key structural parallels:
   through the UP IS MORE / HIGH STATUS IS UP metaphors. Harming someone
   socially is literally lowering them in the hierarchy.
 
-## Where It Breaks
+## Limits
 
 - **Not all harm involves descent** -- the metaphor privileges harm that
   reduces status, capability, or well-being along a single vertical axis.

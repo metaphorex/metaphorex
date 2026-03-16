@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Compute Is a Resource
 related:
 - data-is-fuel
@@ -14,11 +16,10 @@ related:
 - labor-is-a-resource
 slug: compute-is-a-resource
 source_frame: economics
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 GPU hours, FLOPS, TPU pods -- computational capacity is treated as a
 scarce natural resource to be extracted, stockpiled, traded, and allocated.
@@ -58,7 +59,7 @@ Key structural parallels:
   allocation decisions: "We need 10x more compute for the next generation"
   sounds like an energy requirement, not a mathematical observation.
 
-## Where It Breaks
+## Limits
 
 - **Compute is manufactured, not extracted** -- oil exists in finite
   deposits formed over geological time. Compute is manufactured by humans

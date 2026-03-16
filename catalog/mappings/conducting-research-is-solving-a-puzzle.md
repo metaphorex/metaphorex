@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Conducting Research Is Solving a Puzzle
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - theories-are-buildings
 slug: conducting-research-is-solving-a-puzzle
 source_frame: puzzles-and-games
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Research is puzzling things out. The researcher finds pieces, fits them
 together, and eventually sees the whole picture. This metaphor maps the
@@ -54,7 +55,7 @@ The mapping shapes how we talk about and conceive of research:
   happen when a specific missing element is located, and its addition
   makes everything else fall into place.
 
-## Where It Breaks
+## Limits
 
 - **Puzzles have predetermined solutions; research often does not** --
   the most fundamental limitation. A jigsaw puzzle has one correct

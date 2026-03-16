@@ -1,11 +1,13 @@
 ---
+applies_to:
+- manufacturing
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - linguistics
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Machines Are People
 provenance: osaka-master-metaphor-list
 related:
@@ -13,11 +15,10 @@ related:
 - the-mind-is-a-machine
 slug: machines-are-people
 source_frame: social-roles
-target_frame: manufacturing
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The reverse of PEOPLE ARE MACHINES. Where that metaphor mechanizes humans,
 this one humanizes machines -- attributing intention, personality,
@@ -54,7 +55,7 @@ Key structural parallels:
   the entire life course onto the artifact lifecycle, producing mourning
   when a beloved machine is finally discarded.
 
-## Where It Breaks
+## Limits
 
 - **Machines have no interiority** -- the metaphor attributes subjective
   experience where none exists. "The computer doesn't want to cooperate"

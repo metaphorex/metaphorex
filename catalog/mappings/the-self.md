@@ -1,4 +1,6 @@
 ---
+applies_to:
+- integration-and-wholeness
 author: agent:claude-opus
 categories:
 - psychology
@@ -16,11 +18,10 @@ related:
 - the-anima-animus
 slug: the-self
 source_frame: mythology
-target_frame: integration-and-wholeness
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Self is Jung's archetype of totality -- not the ego, not the conscious
 personality, but the organizing center that encompasses both conscious and
@@ -59,7 +60,7 @@ Key structural parallels:
   CTO who balances product velocity against technical sustainability
   is performing a transcendent function.
 
-## Where It Breaks
+## Limits
 
 - **Wholeness is not achievable, only asymptotic** -- Jung himself
   insisted individuation is never complete. But the archetype tempts

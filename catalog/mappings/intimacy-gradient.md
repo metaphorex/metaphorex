@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-abstraction
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Intimacy Gradient
 provenance: alexander-pattern-language
 related:
@@ -16,11 +18,10 @@ related:
 - a-place-to-wait
 slug: intimacy-gradient
 source_frame: architecture-and-building
-target_frame: software-abstraction
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Alexander's pattern #127, "Intimacy Gradient," describes how well-designed
 buildings arrange spaces along a continuum from public to private. The
@@ -75,7 +76,7 @@ Key structural parallels:
   gives designers a diagnostic: if the access sequence feels spatially
   wrong, the gradient is probably misconfigured.
 
-## Where It Breaks
+## Limits
 
 - **Buildings have one spatial axis; software has many simultaneous
   gradients** -- a house has one front door and a linear path toward

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- abstract-organization
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Organization Is Physical Structure
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - argument-is-a-building
 slug: organization-is-physical-structure
 source_frame: architecture-and-building
-target_frame: abstract-organization
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A primary metaphor that maps the spatial arrangement of physical objects
 onto the abstract arrangement of ideas, institutions, and systems. When
@@ -66,7 +67,7 @@ metaphorical -- from *organon* (tool, instrument, bodily organ),
 treating abstract arrangement as if it were the arrangement of physical
 parts in a body or machine.
 
-## Where It Breaks
+## Limits
 
 - **Physical structures are static; organizations change** -- a building
   sits on its foundation and stays there. But arguments evolve, companies

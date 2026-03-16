@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Commodities
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,11 +20,10 @@ related:
 - the-conduit-metaphor
 slug: ideas-are-commodities
 source_frame: economics
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas can be packaged, sold, bought, and traded. This metaphor extends
 IDEAS ARE PRODUCTS into the marketplace: once ideas are manufactured goods,
@@ -61,7 +62,7 @@ Key structural parallels:
   feel transactional: each participant gives something and receives something
   in return.
 
-## Where It Breaks
+## Limits
 
 - **Ideas are not scarce** -- commodities derive value partly from scarcity.
   Ideas are non-rivalrous: sharing an idea does not diminish it. When I give

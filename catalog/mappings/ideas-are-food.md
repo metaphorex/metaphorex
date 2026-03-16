@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,18 +8,17 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Food
 related:
 - theories-are-buildings
 - understanding-is-seeing
 slug: ideas-are-food
 source_frame: food-and-cooking
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Understanding is digestion. Ideas enter the mind the way food enters the
 body: they are taken in, chewed over, broken down, and either absorbed or
@@ -46,7 +47,7 @@ Key structural parallels:
   claim." "That leaves a bad taste." "A bitter truth." The metaphor maps
   intellectual resistance onto gustatory disgust.
 
-## Where It Breaks
+## Limits
 
 - **Digestion is passive; understanding is active** -- once you swallow food,
   your body processes it without conscious effort. Understanding doesn't work

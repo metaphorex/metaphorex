@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -13,11 +15,10 @@ related:
 - the-prototype-pattern
 slug: the-abstract-factory-pattern
 source_frame: manufacturing
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 If a factory produces objects, an abstract factory produces factories. The
 metaphor goes recursive: you are no longer standing on the shop floor
@@ -58,7 +59,7 @@ Key structural parallels:
   is appropriate -- choosing your factory family is a system-level
   commitment.
 
-## Where It Breaks
+## Limits
 
 - **The recursion is only one level deep** -- in industry, the recursion
   can go further: a conglomerate owns divisions that own factories that

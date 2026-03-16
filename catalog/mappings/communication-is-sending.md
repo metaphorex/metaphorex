@@ -1,4 +1,6 @@
 ---
+applies_to:
+- communication
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Communication Is Sending
 provenance: lakoff-johnson-mwlb
 related:
@@ -15,11 +17,10 @@ related:
 - ideas-are-objects
 slug: communication-is-sending
 source_frame: containers
-target_frame: communication
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The most specific layer of the conduit metaphor system: communication is
 the physical transfer of objects from sender to receiver. Speaking is
@@ -47,7 +48,7 @@ Key structural parallels:
   package arrives intact. The metaphor provides a clean success criterion:
   did the receiver get what the sender sent?
 
-## Where It Breaks
+## Limits
 
 - **Meaning is constructed, not delivered** -- the fundamental failure.
   The receiver doesn't unpack a pre-formed meaning; they build their own

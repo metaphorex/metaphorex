@@ -1,4 +1,6 @@
 ---
+applies_to:
+- life-course
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: People Are Plants
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - people-are-batteries
 slug: people-are-plants
 source_frame: horticulture
-target_frame: life-course
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 People are plants: they have roots, they grow, they blossom, they bear
 fruit, they wither, and they die. This metaphor maps the life cycle of
@@ -64,7 +65,7 @@ Key structural parallels:
   a person leaves behind -- offspring, ideas, influences -- are seeds
   that may germinate long after the parent plant is gone.
 
-## Where It Breaks
+## Limits
 
 - **Plants are passive; people are agents** -- a plant cannot choose
   where to grow, cannot move to better soil, cannot decide to bloom.

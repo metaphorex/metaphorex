@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Hope Is a Beneficial Possession
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - properties-are-possessions
 slug: hope-is-a-benefical-possession
 source_frame: economics
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Hope is something you have. You can hold it, cling to it, lose it, find it,
 or give it away. This metaphor maps the economics of possession -- acquiring,
@@ -56,7 +57,7 @@ Key structural parallels:
   does not reduce your own supply, though the metaphor does not foreground
   this difference.
 
-## Where It Breaks
+## Limits
 
 - **Hope is not discrete** -- possessions are countable objects with clear
   boundaries. Hope is a continuous, fluctuating psychological state that

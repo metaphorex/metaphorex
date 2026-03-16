@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Logic Is Gravity
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - understanding-is-seeing
 slug: logic-is-gravity
 source_frame: physics
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Logical conclusions pull. A valid argument does not merely suggest its
 conclusion -- it compels it, drags the mind downward with the same
@@ -61,7 +62,7 @@ Key structural parallels:
   abstract thought require effort: rising above the concrete takes work,
   while falling back to surface-level thinking is effortless.
 
-## Where It Breaks
+## Limits
 
 - **Logic is not unidirectional** -- gravity pulls in one direction:
   down. But logical entailment is not directional in this way. From a

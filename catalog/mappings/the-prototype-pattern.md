@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-builder-pattern
 slug: the-prototype-pattern
 source_frame: manufacturing
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Call something a "prototype" and you invoke the industrial design workshop:
 a master model sits on the bench, and every copy is stamped, cast, or
@@ -57,7 +58,7 @@ Key structural parallels:
   classes or to a factory hierarchy. The metaphor frames this as a
   shortcut: skip the assembly line, just copy the sample.
 
-## Where It Breaks
+## Limits
 
 - **Industrial prototypes are expensive; software clones are cheap** --
   building the first prototype in industrial design is the hardest,

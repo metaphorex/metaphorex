@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -15,11 +17,10 @@ related:
 - the-map-is-not-the-territory
 slug: nonlinearity
 source_frame: physics
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Mathematical nonlinearity -- where outputs are not proportional to inputs --
 mapped onto real-world cause and effect. In a linear system, doubling the
@@ -65,7 +66,7 @@ Key structural parallels:
   is nonlinear, even small miscalibrations in your model of reality can
   produce catastrophic surprises.
 
-## Where It Breaks
+## Limits
 
 - **Everything is "nonlinear" and the term loses meaning** -- the model
   is so broadly applicable that it risks becoming unfalsifiable. If every

@@ -1,11 +1,13 @@
 ---
+applies_to:
+- software-engineering
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Piecemeal Growth
 provenance: alexander-pattern-language
 related:
@@ -14,11 +16,10 @@ related:
 - technical-debt
 slug: piecemeal-growth
 source_frame: architecture-and-building
-target_frame: software-engineering
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Gabriel imports Alexander's principle that healthy buildings grow
 incrementally through repair rather than replacement. A living building is
@@ -58,7 +59,7 @@ followed by a single act of construction.
   rhetorical force is considerable, even if the biology is metaphorical
   all the way down.
 
-## Where It Breaks
+## Limits
 
 - **Buildings have physical constraints on growth; software does not** --
   a farmhouse that grows piecemeal is constrained by its lot, its

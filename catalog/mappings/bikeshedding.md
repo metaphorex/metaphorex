@@ -1,4 +1,6 @@
 ---
+applies_to:
+- collaborative-work
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,18 +8,18 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Bikeshedding
 related:
 - bottleneck
 slug: bikeshedding
 source_frame: architecture-and-building
-target_frame: collaborative-work
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A committee that must approve a nuclear power plant spends most of its
 time debating the color of the bike shed. The reactor is too complex for
@@ -48,7 +50,7 @@ Key structural parallels:
   The metaphor maps the psychological satisfaction of contribution onto
   its actual value and finds them wildly misaligned.
 
-## Where It Breaks
+## Limits
 
 - **Sometimes the bike shed matters** -- the metaphor assumes that
   trivial decisions are actually trivial. But naming conventions,

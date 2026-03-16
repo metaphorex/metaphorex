@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Logical Relations Are Causal Relations
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - causes-are-forces
 slug: logical-relations-are-causal-relations
 source_frame: causal-reasoning
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 We talk about logical entailment as if it were causation. "P implies Q"
 becomes "P leads to Q," "P gives rise to Q," "P produces Q." The metaphor
@@ -67,7 +68,7 @@ Key structural parallels:
   onto causing it or producing it. A good theory is one that is
   causally productive -- it generates, accounts for, gives rise to.
 
-## Where It Breaks
+## Limits
 
 - **Causation is temporal; logical entailment is not** -- causes
   precede effects in time. But logical relations hold simultaneously

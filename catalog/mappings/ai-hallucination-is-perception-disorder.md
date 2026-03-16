@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Hallucination Is Perception Disorder
 related:
 - training-is-education
 - neural-network-is-a-brain
 slug: ai-hallucination-is-perception-disorder
 source_frame: medicine
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When a language model generates confident but false text, we call it a
 "hallucination" -- a term borrowed from psychiatry, where it means
@@ -51,7 +52,7 @@ Key structural parallels:
   it were a bug rather than an inherent feature of probabilistic text
   generation.
 
-## Where It Breaks
+## Limits
 
 - **LLMs do not perceive** -- this is the fundamental break. A
   hallucination requires a perceiving subject whose sensory apparatus

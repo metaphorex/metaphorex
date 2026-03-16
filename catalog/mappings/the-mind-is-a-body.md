@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: The Mind Is a Body
 provenance: osaka-master-metaphor-list
 related:
@@ -18,11 +20,10 @@ related:
 - psychological-forces-are-physical-forces
 slug: the-mind-is-a-body
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The mind is understood through the body's own vocabulary: it grasps ideas,
 stumbles over problems, digests information, and stretches to accommodate
@@ -62,7 +63,7 @@ Key structural parallels:
   objects: picking them up, examining them from different angles, setting
   them down, juggling several at once.
 
-## Where It Breaks
+## Limits
 
 - **The mind does not have physical limits in the way a body does** --
   the metaphor implies that mental effort works like muscular effort:

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Properties Are Physical Properties
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - states-are-locations
 slug: properties-are-physical-properties
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Abstract properties are understood through the lens of physical,
 perceptible qualities. A sharp mind. A heavy burden. A bright future.
@@ -53,7 +54,7 @@ Key structural parallels:
   would be. A "bright and sharp" mind is one that illuminates and
   cuts -- the physical affordances map onto cognitive affordances.
 
-## Where It Breaks
+## Limits
 
 - **Physical properties are observable; abstract ones are contestable**
   -- whether a rock is heavy is a matter of measurement. Whether a

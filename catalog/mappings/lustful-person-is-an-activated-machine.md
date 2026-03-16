@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Lustful Person Is an Activated Machine
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - intense-emotions-are-heat
 slug: lustful-person-is-an-activated-machine
 source_frame: manufacturing
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A person experiencing sexual desire is a machine that has been switched on.
 They are activated, running, revved up, turned on. The metaphor imports the
@@ -64,7 +65,7 @@ Key structural parallels:
   attraction onto a knowledge-of-mechanism relationship, making sexual
   skill a form of technical competence.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor removes the desiring person's agency** -- machines do
   not choose to be turned on. They are activated by external forces. By

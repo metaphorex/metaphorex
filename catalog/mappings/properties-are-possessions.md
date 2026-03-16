@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Properties Are Possessions
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - existence-is-a-location
 slug: properties-are-possessions
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 You *have* courage. You *possess* intelligence. You *lack* patience. The
 metaphor maps the concrete experience of owning, holding, and losing
@@ -58,7 +59,7 @@ Key structural parallels:
   possessions come in quantities. This is how English turns qualities
   into measurable stuff.
 
-## Where It Breaks
+## Limits
 
 - **Properties are not separable from persons** -- you can lose a wallet
   without ceasing to be yourself. But "losing your mind" or "losing your

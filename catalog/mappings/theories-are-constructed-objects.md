@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Theories Are Constructed Objects
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - argument-is-a-building
 slug: theories-are-constructed-objects
 source_frame: architecture-and-building
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Theories are things that people make. This metaphor is broader than
 THEORIES ARE BUILDINGS -- it maps not just architectural construction but
@@ -62,7 +63,7 @@ Key structural parallels:
   contains within it the seed of anti-realism -- if theories are
   constructed, they might be constructed differently.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor overstates human agency** -- constructed objects exist
   because someone decided to make them. But many theoretical insights are

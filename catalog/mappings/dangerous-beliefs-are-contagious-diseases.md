@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Dangerous Beliefs Are Contagious Diseases
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - ideas-are-plants
 slug: dangerous-beliefs-are-contagious-diseases
 source_frame: contagion
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Dangerous beliefs spread the way contagious diseases do -- from person to
 person, through contact, without the host's full awareness or consent. The
@@ -63,7 +64,7 @@ Key structural parallels:
   The remedies are medical (intervention, deprogramming) rather than
   rhetorical (debate, persuasion).
 
-## Where It Breaks
+## Limits
 
 - **Beliefs are not involuntary** -- you cannot choose whether to catch
   influenza, but you can choose (to some degree) what to believe. The

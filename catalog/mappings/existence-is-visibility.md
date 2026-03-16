@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Existence Is Visibility
 provenance: osaka-master-metaphor-list
 related:
@@ -18,11 +20,10 @@ related:
 - understanding-is-seeing
 slug: existence-is-visibility
 source_frame: vision
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To exist is to be visible. To cease existing is to vanish. This metaphor
 maps visual perception -- seeing, appearing, disappearing, being hidden --
@@ -63,7 +64,7 @@ Key structural parallels:
   (existent). Whistleblowers and investigators do not create problems;
   they make them exist by making them visible.
 
-## Where It Breaks
+## Limits
 
 - **Many existing things are invisible** -- gravity, radio waves,
   emotions, social structures, mathematical relationships. The metaphor

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Context Window Is Working Memory
 related:
 - ai-hallucination-is-perception-disorder
@@ -15,11 +17,10 @@ related:
 - chain-of-thought-is-self-talk
 slug: context-window-is-working-memory
 source_frame: mental-experience
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The "context window" -- the maximum number of tokens a language model can
 process in a single interaction -- is routinely described as the model's
@@ -58,7 +59,7 @@ Key structural parallels:
   operates: even engineers reaching for a more precise analogy still
   frame it as a memory problem.
 
-## Where It Breaks
+## Limits
 
 - **Working memory is active processing, not passive storage** -- human
   working memory is not a buffer that holds information; it is a system

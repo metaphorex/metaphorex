@@ -1,4 +1,6 @@
 ---
+applies_to:
+- creative-process
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Creating Is Giving an Object
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - properties-are-possessions
 slug: creating-is-giving-an-object
 source_frame: economics
-target_frame: creative-process
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To create is to give something to someone. This metaphor maps the
 economics of gift and transfer -- the giver, the recipient, the object
@@ -62,7 +63,7 @@ Key structural parallels:
   the giver. Prolific creators are generous; those who create little
   are withholding.
 
-## Where It Breaks
+## Limits
 
 - **Creation is not always transfer** -- the giving metaphor assumes a
   clear separation between maker and receiver. But much creation is

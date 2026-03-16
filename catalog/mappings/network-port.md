@@ -1,23 +1,25 @@
 ---
+applies_to:
+- network-communication
 author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Network Port
 related:
 - network-socket
 - tcp-handshake
 slug: network-port
 source_frame: travel
-target_frame: network-communication
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A port is a place where ships arrive and depart -- a designated opening in
 a coastline where cargo is loaded, unloaded, and routed to its destination.
@@ -52,7 +54,7 @@ Key structural parallels:
   The metaphor encodes the idea that the port is where the transition
   happens from transit (the network) to processing (the application).
 
-## Where It Breaks
+## Limits
 
 - **Ports are not spatial** -- a harbor port occupies physical space. A
   network port is a 16-bit number in a packet header. There is no

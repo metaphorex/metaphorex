@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,8 +8,9 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Orphan Process
 related:
 - software-rot
@@ -15,11 +18,10 @@ related:
 - zombie-process
 slug: orphan-process
 source_frame: social-roles
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A child whose parent has died -- one of the most emotionally charged
 images in human experience -- mapped onto a running process whose
@@ -62,7 +64,7 @@ Key structural parallels:
   This kinship model makes process lifecycle management intuitive by
   mapping it onto the most familiar social structure humans know.
 
-## Where It Breaks
+## Limits
 
 - **Orphanhood in life is tragic; in computing it is routine** -- the
   human resonance of the word "orphan" imports emotional weight that

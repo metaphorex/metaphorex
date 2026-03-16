@@ -1,4 +1,6 @@
 ---
+applies_to:
+- ethics-and-morality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Morality Is Straightness
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - life-is-a-journey
 slug: morality-is-straightness
 source_frame: geometry
-target_frame: ethics-and-morality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The moral person walks the straight and narrow. The immoral person is crooked,
 devious, bent. MORALITY IS STRAIGHTNESS maps the geometric property of
@@ -64,7 +65,7 @@ Key structural parallels:
   Standing straight requires effort and alertness; slouching is easy and
   associated with negligence.
 
-## Where It Breaks
+## Limits
 
 - **Moral life is not a straight line** -- the metaphor assumes there is
   one correct path and all deviation is error. But genuine moral reasoning

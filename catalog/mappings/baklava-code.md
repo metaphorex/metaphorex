@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,17 +8,16 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Baklava Code
 related:
 - spaghetti-code
 slug: baklava-code
 source_frame: food-and-cooking
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Baklava is built from dozens of tissue-thin phyllo sheets stacked with
 thin smears of filling between them. The pastry's defining quality is
@@ -55,7 +56,7 @@ Key structural parallels:
   but *thinness multiplied*. The anti-pattern is not complexity but
   vacuous decomposition.
 
-## Where It Breaks
+## Limits
 
 - **Baklava layers are identical; code layers are not** -- phyllo sheets
   are interchangeable. Code layers have different responsibilities:

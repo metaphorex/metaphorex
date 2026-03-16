@@ -1,11 +1,13 @@
 ---
+applies_to:
+- software-engineering
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: The Quality Without a Name
 provenance: alexander-pattern-language
 related:
@@ -13,11 +15,10 @@ related:
 - pattern-language-as-shared-vocabulary
 slug: the-quality-without-a-name
 source_frame: architecture-and-building
-target_frame: software-engineering
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Alexander's central claim in *The Timeless Way of Building* is that the
 best buildings possess an objective quality -- variously called "alive,"
@@ -61,7 +62,7 @@ of pattern languages while ignoring the quality they were meant to generate.
   be another such domain -- if its practitioners stop optimizing for the
   wrong metrics.
 
-## Where It Breaks
+## Limits
 
 - **The concept may be incoherent** -- a quality that cannot be named,
   defined, or measured may not be a quality at all. It may be a

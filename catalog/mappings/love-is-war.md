@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Love Is War
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - love-is-madness
 slug: love-is-war
 source_frame: war
-target_frame: love-and-relationships
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Romance as combat. The metaphor maps the adversarial structure of warfare
 onto the dynamics of romantic pursuit and relationship maintenance. Lovers
@@ -52,7 +53,7 @@ Key structural parallels:
   uses the language of military destruction. "He was crushed" maps physical
   annihilation onto emotional pain. The loser in love is a casualty.
 
-## Where It Breaks
+## Limits
 
 - **War aims to destroy; love does not** -- the fundamental purpose of war
   is to defeat the enemy. If love is war, who is the enemy? The beloved?

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,17 +8,16 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: The Internet Is a Mine
 related:
 - data-is-fuel
 slug: the-internet-is-a-mine
 source_frame: natural-resources
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Web scraping is mining. Crawlers are machines sent underground. The internet
 is a deposit of raw material waiting to be extracted, refined, and sold.
@@ -59,7 +60,7 @@ Key structural parallels:
   is equally valuable -- some deposits are richer than others -- which
   shapes decisions about which sources to scrape and which to skip.
 
-## Where It Breaks
+## Limits
 
 - **Minerals do not have authors** -- copper ore did not write itself.
   Internet content was created by people with intentions, rights, and

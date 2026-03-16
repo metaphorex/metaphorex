@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Love Is a Physical Force
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,11 +20,10 @@ related:
 - causes-are-forces
 slug: love-is-a-physical-force
 source_frame: embodied-experience
-target_frame: love-and-relationships
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Love as gravity, magnetism, electricity -- an invisible force that acts on
 bodies without their consent. The metaphor maps the physics of attraction
@@ -58,7 +59,7 @@ Key structural parallels:
   in range. Charisma is treated as a physical emanation, not a social
   construction.
 
-## Where It Breaks
+## Limits
 
 - **Physical forces are symmetric; love often is not** -- gravity pulls
   equally on both objects. Magnetic poles attract equally. But unrequited

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Conceit Is Inflation
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - good-is-up
 slug: conceit-is-inflation
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 The conceited person is inflated -- puffed up, swollen, bloated with
 self-regard. This metaphor maps the physical phenomenon of inflation
@@ -58,7 +59,7 @@ The mapping is structurally productive:
   Conceit is thus framed as inherently unstable, a temporary state
   awaiting correction.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor makes self-esteem purely quantitative** -- by mapping
   self-regard onto volume, the metaphor reduces a complex psychological

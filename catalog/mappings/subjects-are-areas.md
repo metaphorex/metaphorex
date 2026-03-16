@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Subjects Are Areas
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - difficult-subjects-are-adversaries
 slug: subjects-are-areas
 source_frame: spatial-location
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 An academic subject, intellectual discipline, or topic of study is a
 bounded region of space -- a territory you can enter, explore, survey,
@@ -54,7 +55,7 @@ Key structural parallels:
   conventional lines, and one of the recurring tensions in academic life
   is whether to respect or transgress them.
 
-## Where It Breaks
+## Limits
 
 - **Subjects do not have fixed borders** -- the spatial metaphor implies
   that disciplines have clear edges, but in practice the boundary between,

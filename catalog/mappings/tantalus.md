@@ -1,23 +1,25 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - psychology
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Tantalus
 related:
 - damocles-sword
 - augean-stables
 slug: tantalus
 source_frame: mythology
-target_frame: mental-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Tantalus, king of Sipylus, was condemned to stand in a pool of water beneath
 a fruit tree for eternity. When he reached for the fruit, the branches
@@ -51,7 +53,7 @@ experience and everyday frustration.
   The mythological origin is invisible; the word functions as a pure
   adjective meaning "attractively out of reach."
 
-## Where It Breaks
+## Limits
 
 - **Tantalus deserved his punishment; most tantalizing situations are
   amoral** -- in the myth, Tantalus committed horrific crimes: he served

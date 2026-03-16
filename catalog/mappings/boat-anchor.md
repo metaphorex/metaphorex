@@ -1,22 +1,24 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Boat Anchor
 related:
 - program-failure-is-bodily-failure
 slug: boat-anchor
 source_frame: tool-use
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A heavy, useless object that drags you down maps onto obsolete code or
 technology kept in a project despite serving no current purpose. The
@@ -55,7 +57,7 @@ Key structural parallels:
   legacy." The metaphor captures the strange social phenomenon of
   collectively tolerating known waste.
 
-## Where It Breaks
+## Limits
 
 - **Anchors are deliberately kept; boat-anchor code is accidentally
   kept** -- when people keep a literal boat anchor, they are making a

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Conscious Is Up; Unconscious Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - rational-is-up
 slug: conscious-is-up
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Consciousness rises; unconsciousness sinks. We wake "up" and fall
 "asleep." We "come to" from below and "go under" into anesthesia. This
@@ -56,7 +57,7 @@ Key structural parallels:
   consciousness as a surface that the mind can be above or below. Waking
   is surfacing; losing consciousness is going under.
 
-## Where It Breaks
+## Limits
 
 - **Sleep is not a single downward state** -- sleep architecture involves
   cycles: light sleep, deep sleep, REM. The vertical metaphor imposes a

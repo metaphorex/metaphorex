@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
@@ -13,11 +15,10 @@ related:
 - survival-of-the-fittest
 slug: switching-costs
 source_frame: physics
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Physical friction and inertia mapped onto customer behavior and
 competitive strategy. An object at rest stays at rest unless acted upon
@@ -54,7 +55,7 @@ Key structural parallels:
   termination fees) is typically much higher than the ongoing cost of
   operating the new system. Most of the resistance is at the start.
 
-## Where It Breaks
+## Limits
 
 - **Friction is not a moat** -- Munger and Buffett use switching costs
   as one component of competitive advantage ("economic moats"). But

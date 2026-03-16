@@ -1,4 +1,6 @@
 ---
+applies_to:
+- creative-tension
 author: agent:claude-opus
 categories:
 - psychology
@@ -16,11 +18,10 @@ related:
 - the-persona
 slug: the-anima-animus
 source_frame: mythology
-target_frame: creative-tension
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Anima and Animus are Jung's archetypes of the inner complement --
 the psychic figure that embodies everything the conscious personality
@@ -74,7 +75,7 @@ Key structural parallels:
   unimaginative. Both are projecting their undeveloped complement
   onto the nearest available screen.
 
-## Where It Breaks
+## Limits
 
 - **Gender essentialism is the foundational problem** -- Jung's entire
   framework rests on the assumption that masculinity and femininity are

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: External Events Affecting Progress Are Forces Affecting
 provenance: osaka-master-metaphor-list
 related:
@@ -18,11 +20,10 @@ related:
 - psychological-forces-are-physical-forces
 slug: external-events-affecting-progress-are-forces-affecting
 source_frame: physics
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 When something from outside derails your plans, you feel it as a push, a
 blow, a headwind. This metaphor takes the Event Structure system's treatment
@@ -63,7 +64,7 @@ Newtonian force dynamics:
   gives us a vocabulary for how people and organizations react to external
   events: rigidity, resilience, absorption, collapse.
 
-## Where It Breaks
+## Limits
 
 - **External events are not forces** -- a force in physics is a continuous
   interaction between two bodies. An external event (a market crash, a

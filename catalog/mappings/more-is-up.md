@@ -1,4 +1,6 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: More Is Up; Less Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - good-is-up
 slug: more-is-up
 source_frame: embodied-experience
-target_frame: embodied-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Add more substance to a pile and it gets taller. Pour more water into a
 glass and the level rises. This is the simplest of the orientational
@@ -56,7 +57,7 @@ of a substance or of physical objects to a container or pile, the level
 goes up." Lakoff and Johnson cite this as one of the clearest cases of
 experiential grounding.
 
-## Where It Breaks
+## Limits
 
 - **Not all quantities are stackable** -- the metaphor works intuitively
   for substances (water level, pile height) but strains for abstract

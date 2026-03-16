@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -12,11 +14,10 @@ related:
 - honeybee-is-ideal-scientist
 slug: spider-is-pure-rationalist
 source_frame: animal-behavior
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 In Aphorism XCV of the *Novum Organum* (1620), Bacon sorts knowledge
 workers into three animal archetypes. The spider is the rationalist:
@@ -48,7 +49,7 @@ Bacon's point is not that rational inquiry is worthless but that it
 is insufficient. The spider builds without gathering. The product is
 impressive and empty.
 
-## Where It Breaks
+## Limits
 
 - **Mathematics IS spider work, and it works.** Bacon's framework
   cannot account for the extraordinary success of pure mathematics

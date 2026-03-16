@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -7,17 +9,16 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Rubber Duck Debugging
 related:
 - program-failure-is-bodily-failure
 slug: rubber-duck-debugging
 source_frame: communication
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Explaining your code to a rubber duck -- or any inanimate listener --
 forces the kind of articulation that reveals bugs. The metaphor maps
@@ -51,7 +52,7 @@ Key structural parallels:
   no interruptions, no advice. Just the pressure of another pair of
   (plastic) eyes.
 
-## Where It Breaks
+## Limits
 
 - **The duck can't ask questions** -- real debugging conversations are
   most productive when the listener asks "why?" or "what happens if...?"

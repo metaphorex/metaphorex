@@ -1,4 +1,6 @@
 ---
+applies_to:
+- life-course
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
@@ -12,11 +14,10 @@ related:
 - survival-of-the-fittest
 slug: compounding
 source_frame: economics
-target_frame: life-course
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Compound interest -- where returns generate their own returns over time --
 mapped onto the accumulation of knowledge, skills, relationships, and
@@ -48,7 +49,7 @@ Key structural parallels:
   zero. The metaphor explains patience as a structural requirement, not
   a moral virtue.
 
-## Where It Breaks
+## Limits
 
 The compounding metaphor is seductive precisely because it promises that
 patience plus consistency equals extraordinary results. This is often true

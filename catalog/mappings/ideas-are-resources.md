@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -9,7 +11,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Resources
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,11 +20,10 @@ related:
 - the-conduit-metaphor
 slug: ideas-are-resources
 source_frame: economics
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas are scarce goods. You can have them, use them up, run out of them,
 save them, and waste them. This metaphor maps the economics of material
@@ -58,7 +59,7 @@ Key structural parallels:
   normative framework of efficiency: good intellectual work is
   resource-efficient, and spending ideas on unworthy targets is waste.
 
-## Where It Breaks
+## Limits
 
 - **Ideas are not consumed by use** -- the deepest failure of the resource
   metaphor. When you share a physical resource, you have less of it. When

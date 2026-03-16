@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Foundation Model Is a Foundation
 related:
 - ai-is-a-tool
 - fine-tuning-is-specialization
 slug: foundation-model-is-a-foundation
 source_frame: architecture-and-building
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A foundation bears the weight of everything above it. It is the first thing
 laid and the last thing replaced. When Stanford's Center for Research on
@@ -57,7 +58,7 @@ Key structural parallels:
   model cannot support enterprise-scale applications any more than a
   shallow footing can support a high-rise.
 
-## Where It Breaks
+## Limits
 
 - **Foundations are not retrained** -- you do not tear up a building's
   foundation to pour a better one while the building stands. But

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -13,11 +15,10 @@ related:
 - the-map-is-not-the-territory
 slug: activation-energy
 source_frame: physics
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 In chemistry, activation energy is the minimum energy input required to
 initiate a reaction. Hydrogen and oxygen can sit together indefinitely
@@ -61,7 +62,7 @@ Key structural parallels:
   and require ongoing willpower, institutional support, or external
   pressure. Knowing which type of change you are attempting matters.
 
-## Where It Breaks
+## Limits
 
 - **Human motivation is not a thermodynamic quantity** -- the chemistry
   model treats energy as fungible and measurable. Human motivation is

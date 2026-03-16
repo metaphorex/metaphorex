@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Lustful Person Is an Animal
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - love-is-a-physical-force
 slug: lustful-person-is-an-animal
 source_frame: animal-behavior
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Sexual desire as the eruption of the animal within. The metaphor maps
 animal behavior -- instinct-driven, unrestrained, outside social norms --
@@ -56,7 +57,7 @@ Key structural parallels:
   human desire, making lust feel seasonal, hormonal, and fundamentally
   biological rather than psychological or relational.
 
-## Where It Breaks
+## Limits
 
 - **Animals are not lustful** -- the metaphor projects human moral
   categories onto creatures that have no concept of excess. A dog in heat

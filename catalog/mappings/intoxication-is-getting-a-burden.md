@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Intoxication Is Getting A Burden
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - difficulties-are-impediments-to-motion
 slug: intoxication-is-getting-a-burden
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 A person who is intoxicated is "loaded," "weighed down," "staggering."
 This metaphor maps the physical experience of bearing a heavy burden --
@@ -60,7 +61,7 @@ Key structural parallels:
   for too long. The metaphor provides a natural recovery narrative
   that the electrification metaphor lacks.
 
-## Where It Breaks
+## Limits
 
 - **Intoxication can feel like lightness, not weight** -- many people
   describe early intoxication as feeling lighter, freer, unburdened.

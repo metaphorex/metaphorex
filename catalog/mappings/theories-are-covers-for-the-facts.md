@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Theories Are Covers for the Facts
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - understanding-is-seeing
 slug: theories-are-covers-for-the-facts
 source_frame: covers
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A theory covers the facts the way a lid covers a pot or a blanket covers
 a bed. The metaphor treats facts as pre-existing objects spread out in a
@@ -62,7 +63,7 @@ Key structural parallels:
   hides the facts instead of accounting for them. This inversion makes
   the metaphor available for accusations of intellectual dishonesty.
 
-## Where It Breaks
+## Limits
 
 - **Facts are not pre-existing objects** -- the covering metaphor assumes
   that facts are laid out independently of theory, waiting to be covered.

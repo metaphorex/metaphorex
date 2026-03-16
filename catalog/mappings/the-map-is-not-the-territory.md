@@ -1,4 +1,6 @@
 ---
+applies_to:
+- representation
 author: fshot
 categories:
 - cognitive-science
@@ -11,11 +13,10 @@ name: The Map Is Not the Territory
 related: []
 slug: the-map-is-not-the-territory
 source_frame: cartography
-target_frame: representation
 updated: '2026-03-09'
 ---
 
-## What It Brings
+## Transfers
 
 The single most important thing a metaphor catalog can say: every
 representation omits. A map is useful *because* it leaves things out.
@@ -41,7 +42,7 @@ The real gift: intellectual humility as a structural feature, not a
 personality trait. If you internalize this mapping, you stop asking
 "is this model right?" and start asking "what does this model leave out?"
 
-## Where It Breaks
+## Limits
 
 Taken to its extreme, this becomes corrosive. If no map is the
 territory, why make maps? If every model is wrong, why bother modeling?

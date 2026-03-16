@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Existence Is Life
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - beliefs-are-beings-with-a-life-cycle
 slug: existence-is-life
 source_frame: life-course
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To exist is to be alive. This metaphor maps the biological trajectory of
 living organisms -- birth, growth, vitality, decline, death -- onto the
@@ -61,7 +62,7 @@ Key structural parallels:
   resurrection or medical resuscitation onto the restoration of defunct
   entities.
 
-## Where It Breaks
+## Limits
 
 - **Non-biological entities have no metabolism** -- the life metaphor
   imports an entire biological infrastructure (nutrition, reproduction,

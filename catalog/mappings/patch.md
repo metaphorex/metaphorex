@@ -1,23 +1,25 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 - linguistics
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Patch
 related:
 - spaghetti-code
 - technical-debt
 slug: patch
 source_frame: textiles
-target_frame: software-programs
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A software patch is a piece of cloth sewn over a hole in fabric. The
 metaphor maps textile repair onto code repair with surprising structural
@@ -42,7 +44,7 @@ tell where the patch was applied.
   software is understood to be fragile, inconsistent, and due for
   replacement. "It's just patch on patch" is a condemnation.
 
-## Where It Breaks
+## Limits
 
 - **Patches don't change the fabric's behavior** -- a textile patch
   restores the original function of the garment. A software patch often

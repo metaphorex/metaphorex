@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Disparity Is Change
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - states-are-locations
 slug: disparity-is-change
 source_frame: event-structure
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Differences between things are understood as changes over time. When we
 say two objects "diverge" or that a gap "has grown," we are treating a
@@ -53,7 +54,7 @@ Key structural parallels:
   The different thing has "moved away" from a reference point, as if
   difference were a form of motion.
 
-## Where It Breaks
+## Limits
 
 - **Disparity is not always temporal** -- two things can be different
   without one having changed. The difference between red and blue is not

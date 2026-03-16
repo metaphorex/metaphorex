@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-abstraction
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -15,11 +17,10 @@ related:
 - firewall
 slug: the-gateway-pattern
 source_frame: architecture-and-building
-target_frame: software-abstraction
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A gateway is the controlled point of entry to a bounded space. City
 gates, temple gates, garden gates -- the gate marks the boundary between
@@ -58,7 +59,7 @@ Key structural parallels:
   The metaphor makes this independence feel natural: the gate is not
   the city.
 
-## Where It Breaks
+## Limits
 
 - **Architectural gates are bidirectional; software Gateways are
   often unidirectional** -- people walk in and out through the same

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Harm Is Physical Injury
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - effects-of-humor-are-injuries
 slug: harm-is-physical-injury
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To be harmed is to be physically injured. This metaphor maps the concrete,
 bodily experience of wounds, breaks, and bruises onto the abstract domain
@@ -63,7 +64,7 @@ Key structural parallels:
   creates ongoing vulnerability -- there are tender places that can be
   aggravated.
 
-## Where It Breaks
+## Limits
 
 - **Not all harm involves a discrete injuring event** -- physical injury
   typically has a clear moment of onset: the cut, the fall, the blow. But

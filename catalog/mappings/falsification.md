@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -13,11 +15,10 @@ related:
 - the-map-is-not-the-territory
 slug: falsification
 source_frame: intellectual-inquiry
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Karl Popper's demarcation criterion reimagined as a thinking discipline.
 A hypothesis earns the label "scientific" not by being provable but by being
@@ -49,7 +50,7 @@ Key structural parallels:
   social practice. You cannot claim to have tested your belief unless you
   have genuinely engaged with the strongest counterarguments.
 
-## Where It Breaks
+## Limits
 
 - **Most real-world beliefs are not cleanly falsifiable** -- Popper's
   criterion works well for physics ("this force will produce this

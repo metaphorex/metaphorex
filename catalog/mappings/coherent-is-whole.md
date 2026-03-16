@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Coherent Is Whole
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - theories-are-buildings
 slug: coherent-is-whole
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 We understand coherence through the bodily experience of physical
 wholeness. A coherent argument *holds together*. A coherent plan is
@@ -48,7 +49,7 @@ Key structural parallels:
   in an argument* is a missing piece that threatens the structure's
   integrity. The metaphor makes omissions feel as dangerous as breakages.
 
-## Where It Breaks
+## Limits
 
 - **Coherence is not the same as truth** -- a perfectly whole object can
   be useless; a perfectly coherent argument can be wrong. The metaphor

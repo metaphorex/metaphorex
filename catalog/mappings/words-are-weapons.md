@@ -1,4 +1,6 @@
 ---
+applies_to:
+- communication
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Words Are Weapons
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - sexuality-is-an-offensive-weapon
 slug: words-are-weapons
 source_frame: war
-target_frame: communication
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 If ARGUMENT IS WAR gives us the battlefield, WORDS ARE WEAPONS gives us the
 arsenal. This metaphor takes the specific tool of communication -- language
@@ -58,7 +59,7 @@ real -- "sticks and stones may break my bones, but words will never hurt me"
 is a denial of this metaphor, and the fact that it must be stated as a
 counter-assertion reveals how naturally we accept the weapons framing.
 
-## Where It Breaks
+## Limits
 
 - **Words require interpretation; weapons do not** -- a bullet does not need
   the target's cooperation to cause damage. Words do. The same sentence

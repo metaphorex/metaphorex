@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
@@ -13,11 +15,10 @@ related:
 - survival-of-the-fittest
 slug: cancer-surgery-formula
 source_frame: medicine
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Surgical oncology mapped onto business turnarounds. When a surgeon finds
 cancer, the protocol is clear: excise the tumor completely, cut with
@@ -51,7 +52,7 @@ Munger applied this directly to failing business units:
   actually viable but temporarily underperforming. The model's emphasis
   on decisive action presupposes accurate diagnosis.
 
-## Where It Breaks
+## Limits
 
 - **Businesses are not bodies** -- cancer is unambiguously pathological.
   No one debates whether a malignant tumor is "really" harmful. Business

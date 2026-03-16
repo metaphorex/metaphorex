@@ -1,4 +1,6 @@
 ---
+applies_to:
+- vision
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Darkness Is a Solid
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - understanding-is-seeing
 slug: darkness-is-a-solid
 source_frame: physics
-target_frame: vision
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Darkness has mass, texture, and resistance. You can feel it pressing
 against you, cut through it, or find yourself walled in by it. This
@@ -52,7 +53,7 @@ Key structural parallels:
   and the mind. This maps cleanly onto the psychological experience
   of darkness as physically oppressive.
 
-## Where It Breaks
+## Limits
 
 - **Darkness has no substance** -- the most fundamental failure. Darkness
   is the absence of photons, not the presence of matter. There is

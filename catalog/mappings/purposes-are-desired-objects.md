@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Purposes Are Desired Objects
 provenance: osaka-master-metaphor-list
 related:
@@ -19,11 +21,10 @@ related:
 - opportunities-are-objects
 slug: purposes-are-desired-objects
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Goals are things you reach for, grasp, hold, and possess. This primary
 metaphor maps the infant's experience of wanting and acquiring physical
@@ -66,7 +67,7 @@ Key structural parallels:
   agents want the same purpose-object, the metaphor generates a
   competition frame: rivalry, scarcity, winners and losers.
 
-## Where It Breaks
+## Limits
 
 - **Not all purposes are discrete** -- the object metaphor makes goals
   feel like bounded, countable things. But many of the most important

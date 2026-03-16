@@ -1,4 +1,6 @@
 ---
+applies_to:
+- systems-thinking
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: redundancy
 source_frame: architecture-and-building
-target_frame: systems-thinking
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Engineering backup systems -- the practice of building in duplicate
 components so that failure of one does not mean failure of the whole --
@@ -51,7 +52,7 @@ The mapping transfers several engineering principles to broader domains:
   gives the redundancy argument particular force: nature, the longest-
   running engineering project, chose resilience over elegance.
 
-## Where It Breaks
+## Limits
 
 - **Redundancy has real costs** -- the engineering metaphor makes backup
   systems sound obviously wise, but every redundant component consumes

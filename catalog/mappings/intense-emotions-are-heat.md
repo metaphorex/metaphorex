@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Intense Emotions Are Heat
 provenance: osaka-master-metaphor-list
 related:
@@ -18,11 +20,10 @@ related:
 - love-is-a-physical-force
 slug: intense-emotions-are-heat
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 When emotions intensify, they become hot. You burn with desire, seethe
 with anger, feel the heat of shame. This metaphor maps the bodily
@@ -53,7 +54,7 @@ Key structural parallels:
   incendiary." "Her enthusiasm was infectious, and soon the whole room
   was fired up." Heat radiates outward; so do intense emotions.
 
-## Where It Breaks
+## Limits
 
 - **Not all intense emotions feel hot** -- grief can be overwhelming
   without any thermal quality. Deep sadness is more often described as

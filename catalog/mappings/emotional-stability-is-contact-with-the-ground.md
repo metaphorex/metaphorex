@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Emotional Stability Is Contact with the Ground
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - emotion-is-motion
 slug: emotional-stability-is-contact-with-the-ground
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 A grounded person. Getting your feet on the ground. Losing your footing.
 This metaphor maps the physical experience of standing on solid ground
@@ -62,7 +63,7 @@ Key structural parallels:
   erosion -- even a well-grounded person loses stability. The metaphor
   maps catastrophic life events onto geological disasters.
 
-## Where It Breaks
+## Limits
 
 - **The ground is not always safe** -- the metaphor treats the ground as
   inherently stable and contact with it as inherently good. But the

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -15,11 +17,10 @@ related:
 - the-command-pattern
 slug: the-interpreter-pattern
 source_frame: social-roles
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A human interpreter stands between two parties who don't share a
 language, translating meaning across the gap. The GoF Interpreter
@@ -56,7 +57,7 @@ Key structural parallels:
   interpreter classes simply implement the grammar without adding
   policy. The metaphor suggests a pure translation function.
 
-## Where It Breaks
+## Limits
 
 - **Human interpretation involves judgment; the pattern is mechanical**
   — a human interpreter chooses words, handles ambiguity, reads body

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- competition
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -12,11 +14,10 @@ related:
 - survival-of-the-fittest
 slug: red-queen-effect
 source_frame: natural-selection
-target_frame: competition
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 In evolutionary biology, the Red Queen hypothesis (Van Valen, 1973)
 observes that organisms must continuously adapt just to maintain their
@@ -52,7 +53,7 @@ Key structural parallels:
   parasites. In business, this maps onto the need for continuous
   innovation and experimentation rather than optimizing a fixed strategy.
 
-## Where It Breaks
+## Limits
 
 - **Not all competition is co-evolutionary** -- the Red Queen model
   assumes tightly coupled rivals who directly drive each other's

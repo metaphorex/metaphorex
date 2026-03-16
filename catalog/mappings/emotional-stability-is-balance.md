@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Emotional Stability Is Balance
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - rational-is-up
 slug: emotional-stability-is-balance
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Emotional well-being is standing upright without tipping over. This
 orientational metaphor draws on one of the body's most fundamental skills --
@@ -52,7 +53,7 @@ Key structural parallels:
   mental illness onto a mechanical failure of equilibrium, which shapes how
   both patients and clinicians conceptualize psychological distress.
 
-## Where It Breaks
+## Limits
 
 - **Emotional life is not a balancing act** -- the metaphor implies a single
   correct position (balanced, centered, upright) and codes all deviation as

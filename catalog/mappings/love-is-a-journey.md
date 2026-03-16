@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,18 +9,17 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Love Is A Journey
 related:
 - argument-is-war
 - argument-is-dance
 slug: love-is-a-journey
 source_frame: journeys
-target_frame: love-and-relationships
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 One of Lakoff and Johnson's most structurally developed examples, and the one
 that best demonstrates how a single conceptual metaphor generates an entire
@@ -48,7 +49,7 @@ Key structural parallels:
   that love has a destination. The metaphor makes directionless contentment
   feel like failure -- if you're not heading somewhere, you're lost.
 
-## Where It Breaks
+## Limits
 
 - **Love doesn't have a destination** -- the journey metaphor demands a goal.
   "Where is this going?" is one of the most anxiety-producing questions in a

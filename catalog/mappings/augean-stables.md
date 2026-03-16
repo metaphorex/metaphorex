@@ -1,23 +1,25 @@
 ---
+applies_to:
+- governance
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - law-and-governance
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Augean Stables
 related:
 - hydra-code
 - damocles-sword
 slug: augean-stables
 source_frame: mythology
-target_frame: governance
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 King Augeas of Elis kept vast herds of cattle whose stables had not been
 cleaned in thirty years. The filth was so deep and so old that no ordinary
@@ -57,7 +59,7 @@ fouled that only a radical, nonstandard intervention can restore it.
   This maps onto political rhetoric ("drain the swamp") and corporate
   turnarounds ("clean house") where the promise is swift, total renewal.
 
-## Where It Breaks
+## Limits
 
 - **Institutional messes cannot be flushed with a river** -- Heracles'
   solution is physical and mechanical: water in, filth out. But the

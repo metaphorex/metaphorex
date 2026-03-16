@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Interaction Between Progress and External Events Affecting
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - a-force-is-a-moving-object
 slug: interaction-between-progress-and-external-events-affecting
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 This metaphor sits at the junction of the Event Structure system and the
 force-dynamics mappings. Where EXTERNAL EVENTS AFFECTING PROGRESS ARE
@@ -72,7 +73,7 @@ Key structural parallels:
   not static but dynamically maintained through continuous mutual
   adjustment between the mover and the medium.
 
-## Where It Breaks
+## Limits
 
 - **Real-world interactions are multi-agent, not agent-versus-environment**
   -- the metaphor simplifies the relationship between a purposeful actor

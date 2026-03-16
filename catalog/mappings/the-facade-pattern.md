@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-abstraction
 author: fshot
 categories:
 - software-engineering
@@ -11,11 +13,10 @@ related:
 - firewall
 slug: the-facade-pattern
 source_frame: architecture-and-building
-target_frame: software-abstraction
 updated: '2026-03-11'
 ---
 
-## What It Brings
+## Transfers
 
 The name is the metaphor. A building facade presents a unified,
 simplified front to the street while hiding structural complexity —
@@ -39,7 +40,7 @@ Key structural parallels:
   entrances. A good software facade doesn't prevent direct access to
   the subsystem when needed; it just makes the common case easy.
 
-## Where It Breaks
+## Limits
 
 - **Building facades are static; software facades must evolve** — a
   brownstone's facade lasts a century. A software facade accumulates

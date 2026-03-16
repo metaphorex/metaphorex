@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Comparison of Properties Is Comparison of Physical Properties
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - comparison-of-properties-is-comparison-of-possessions
 slug: comparison-of-properties-is-comparison-of-physical-properties
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When we compare abstract qualities, we reach for physical measurement.
 One argument is *stronger* than another. One theory is *deeper*. One
@@ -54,7 +55,7 @@ Key structural parallels:
   analysis. The metaphor imports the idea that comparison has a
   resolution, and that better tools yield more precise results.
 
-## Where It Breaks
+## Limits
 
 - **Abstract properties are not on single scales** -- physical weight
   lives on one dimension: heavier or lighter. But "intelligence" is not

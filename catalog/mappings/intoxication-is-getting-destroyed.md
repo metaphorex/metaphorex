@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Intoxication Is Getting Destroyed
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - the-mind-is-a-brittle-object
 slug: intoxication-is-getting-destroyed
 source_frame: destruction
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Getting drunk is getting destroyed. You are hammered, smashed, wrecked,
 demolished, plastered, battered, blitzed, totaled. The metaphor treats
@@ -63,7 +64,7 @@ Key structural parallels:
   intoxication is something done to a person, not something a
   person does.
 
-## Where It Breaks
+## Limits
 
 - **Intoxication is sought; destruction is not** -- people go out
   intending to get hammered. Nobody goes out intending to get hit

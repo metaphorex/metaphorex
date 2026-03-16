@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Action Is Motion
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - love-is-a-journey
 slug: action-is-motion
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 To act is to move. To be inactive is to be still. This primary metaphor
 maps bodily motion onto purposeful activity, making physical displacement
@@ -57,7 +58,7 @@ Key structural parallels:
   to move; halting action is stopping. The metaphor gives action crisp
   temporal boundaries defined by motion onset and cessation.
 
-## Where It Breaks
+## Limits
 
 - **Not all action is directional** -- the metaphor privileges linear,
   goal-directed activity. But much valuable action is cyclical (routine

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -15,11 +17,10 @@ related:
 - power-laws
 slug: regression-to-the-mean
 source_frame: probability
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A statistical phenomenon mapped onto prediction and judgment. Regression
 to the mean is the observation that if a variable is extreme on its first
@@ -60,7 +61,7 @@ Key structural parallels:
   was partly lucky, and the luck is unlikely to be repeated. The model
   predicts the pattern without needing any psychological explanation.
 
-## Where It Breaks
+## Limits
 
 - **Not everything regresses** -- regression to the mean applies to
   variables with a random component measured repeatedly. It does not apply

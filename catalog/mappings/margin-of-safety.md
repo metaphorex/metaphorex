@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -14,11 +16,10 @@ related:
 - circle-of-competence
 slug: margin-of-safety
 source_frame: architecture-and-building
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Engineers design bridges to hold several times more weight than they will
 ever carry. The gap between the maximum load and the expected load is the
@@ -55,7 +56,7 @@ Key structural parallels:
   hedge a specific downside scenario -- it hedges the investor's
   inability to enumerate all scenarios.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor implies a calculable gap** -- in engineering, safety
   factors are precise: a factor of 2.0 means the structure can handle

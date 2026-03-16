@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Existence Is Having A Form
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - existence-is-an-object
 slug: existence-is-having-a-form
 source_frame: physical-objects
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To exist is to have a shape. This metaphor maps physical form -- contour,
 structure, definition -- onto the abstract concept of existence. Things come
@@ -56,7 +57,7 @@ Key structural parallels:
   allows existence to be evaluated aesthetically: good existence has good
   form, bad existence is misshapen or malformed.
 
-## Where It Breaks
+## Limits
 
 - **Existence does not require shape** -- many things that exist have no
   spatial form at all: numbers, relationships, moods, social norms. The

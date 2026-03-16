@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Writing
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - communication-is-sending
 slug: ideas-are-writing
 source_frame: writing
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas are inscribed. They are written down, spelled out, read off the face of
 things. This metaphor treats intellectual content as text -- something composed,
@@ -57,7 +58,7 @@ Key structural parallels:
   intended meaning. Ideas, like texts, can be misread, misquoted, taken out
   of context, or interpreted against the author's intent.
 
-## Where It Breaks
+## Limits
 
 - **Writing is deliberate; many ideas are spontaneous** -- the metaphor treats
   idea formation as a composed, editorial process: drafting, revising,

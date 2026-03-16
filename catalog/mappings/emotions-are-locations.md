@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Emotions Are Locations
 provenance: osaka-master-metaphor-list
 related:
@@ -18,11 +20,10 @@ related:
 - existence-is-a-location
 slug: emotions-are-locations
 source_frame: journeys
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To feel an emotion is to be in a place. You are in love, in despair, in a
 rage. You fall into depression and climb out of grief. This metaphor is a
@@ -58,7 +59,7 @@ Key structural parallels:
   their location. Deeper emotions are more intense, more genuine, and
   harder to escape. Surface emotions are dismissible.
 
-## Where It Breaks
+## Limits
 
 - **You can be in multiple emotions simultaneously** -- the location
   metaphor implies mutual exclusivity: you cannot be in two places at

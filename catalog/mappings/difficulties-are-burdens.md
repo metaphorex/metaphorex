@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Difficulties Are Burdens
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - good-is-up
 slug: difficulties-are-burdens
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Problems are heavy. Responsibilities weigh on us. We carry burdens,
 shoulder obligations, and struggle under the load of our difficulties.
@@ -68,7 +69,7 @@ setting something down constitute a primary scene that children
 experience long before they have abstract concepts of difficulty
 or responsibility.
 
-## Where It Breaks
+## Limits
 
 - **Not all difficulties are passive loads** -- the burden metaphor
   frames difficulties as inert masses that the person must carry.

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- life-course
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Life Is a Gambling Game
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - time-is-a-limited-resource
 slug: life-is-a-gambling-game
 source_frame: gambling
-target_frame: life-course
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Life as a game where the outcome depends on the interplay of skill, chance,
 and the willingness to risk what you have. Unlike LIFE IS A JOURNEY, which
@@ -58,7 +59,7 @@ Key structural parallels:
   BATTLE, LIFE IS A JOURNEY) withhold. "Cut your losses" is wisdom in
   this frame, not cowardice.
 
-## Where It Breaks
+## Limits
 
 - **Life has no house rules** -- in gambling, the rules are known. The
   payout structure, the odds, the deal -- all are specified before play

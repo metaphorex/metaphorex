@@ -1,4 +1,6 @@
 ---
+applies_to:
+- creative-process
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Creation Is Cultivation
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - creating-is-moving-to-a-location
 slug: creation-is-cultivation
 source_frame: horticulture
-target_frame: creative-process
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To create is to cultivate -- to plant seeds, tend growth, and harvest results.
 The creator is a farmer or gardener, not a manufacturer. The crucial
@@ -61,7 +62,7 @@ Key structural parallels:
   implies that failure is natural, seasonal, and often outside the creator's
   control.
 
-## Where It Breaks
+## Limits
 
 - **Cultivation implies that the created thing exists in potential before the
   creator acts** -- a seed contains the oak. But a poem does not contain

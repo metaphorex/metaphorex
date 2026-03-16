@@ -1,4 +1,6 @@
 ---
+applies_to:
+- hidden-knowledge
 author: agent:claude-opus
 categories:
 - psychology
@@ -16,11 +18,10 @@ related:
 - technical-debt
 slug: the-shadow
 source_frame: mythology
-target_frame: hidden-knowledge
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Shadow is everything the conscious personality refuses to acknowledge
 about itself. Not the opposite of the self -- the rejected *part* of the
@@ -63,7 +64,7 @@ Key structural parallels:
   measure it, and allocate resources to it. The refactoring sprint is a
   Shadow integration ritual.
 
-## Where It Breaks
+## Limits
 
 - **The Shadow is not always valuable** -- Jung's model implies that
   everything repressed contains something useful. But some things are

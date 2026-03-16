@@ -1,4 +1,6 @@
 ---
+applies_to:
+- tool-use
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,18 +9,17 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: An Instrument Is a Companion
 provenance: lakoff-johnson-mwlb
 related:
 - the-mind-is-a-machine
 slug: an-instrument-is-a-companion
 source_frame: social-roles
-target_frame: tool-use
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A specific form of personification: we treat the tools we depend on as
 beings with needs, moods, and personalities. This is not generic animism.
@@ -49,7 +50,7 @@ The metaphor is strongest with instruments that require skill to operate --
 musical instruments, vehicles, craft tools -- where the human-tool
 relationship genuinely involves reciprocal adaptation.
 
-## Where It Breaks
+## Limits
 
 - **Instruments don't have interests** -- a companion cares whether you
   treat them well. An instrument does not. The metaphor imports a moral

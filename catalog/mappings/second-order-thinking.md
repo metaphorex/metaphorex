@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: second-order-thinking
 source_frame: physics
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The concept of higher-order derivatives from physics and calculus
 mapped onto consequence analysis. First-order thinking asks "what
@@ -57,7 +58,7 @@ Key structural parallels:
   accommodates feedback because differential equations are the
   language of dynamical systems.
 
-## Where It Breaks
+## Limits
 
 - **Infinite regress** -- if second-order thinking is better than
   first-order, then third-order is better than second, and so on.

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Money Is A Liquid
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - mental-accounting
 slug: money-is-a-liquid
 source_frame: fluid-dynamics
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Money flows. It is the most natural thing to say about money and also one of
 the most revealing. MONEY IS A LIQUID maps the physics of fluids -- flow,
@@ -58,7 +59,7 @@ Key structural parallels:
   Inflation is an overflow. The metaphor makes monetary policy feel like
   flood control -- central banks are dam operators managing the water level.
 
-## Where It Breaks
+## Limits
 
 - **Money does not obey gravity** -- water flows downhill; money flows toward
   returns. The fluid metaphor makes money's movement seem natural and

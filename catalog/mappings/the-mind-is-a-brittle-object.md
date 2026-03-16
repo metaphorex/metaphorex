@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: The Mind Is A Brittle Object
 provenance: lakoff-johnson-mwlb
 related:
@@ -15,11 +17,10 @@ related:
 - happy-is-up
 slug: the-mind-is-a-brittle-object
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The mind cracks, breaks, shatters, and snaps. Where THE MIND IS A MACHINE
 structures how we think about cognitive function, this companion metaphor
@@ -53,7 +54,7 @@ The Osaka archive notes that in this metaphor, "breaking is becoming
 inconsolably depressed" -- the mapping is specifically between physical
 fracture and emotional devastation, not merely cognitive malfunction.
 
-## Where It Breaks
+## Limits
 
 - **Brittleness is the wrong material model** -- actual psychological
   resilience is more like a flexible material than a brittle one. People

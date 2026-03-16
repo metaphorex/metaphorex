@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Beliefs Are Possessions
 provenance: osaka-master-metaphor-list
 related:
@@ -19,11 +21,10 @@ related:
 - beliefs-are-beings-with-a-life-cycle
 slug: beliefs-are-possessions
 source_frame: economics
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Beliefs are things you have. You hold convictions, cling to opinions,
 abandon positions, and acquire new views. This metaphor maps the concrete
@@ -60,7 +61,7 @@ Key structural parallels:
   threatened. Challenges to belief trigger the same protective impulses
   as threats to property.
 
-## Where It Breaks
+## Limits
 
 - **Beliefs are not zero-sum** -- if I share my belief with you, I do not
   lose it. The possession metaphor imports a conservation law from physical

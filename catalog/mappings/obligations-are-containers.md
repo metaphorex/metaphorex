@@ -1,4 +1,6 @@
 ---
+applies_to:
+- ethics-and-morality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Obligations Are Containers
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - moral-accounting
 slug: obligations-are-containers
 source_frame: containers
-target_frame: ethics-and-morality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 You are *in* debt. You fall *into* obligation. You get *out of* a contract.
 OBLIGATIONS ARE CONTAINERS maps the image schema of bounded enclosure --
@@ -63,7 +64,7 @@ Key structural parallels:
   little movement; a spacious one (loose obligation) permits more
   freedom within its bounds.
 
-## Where It Breaks
+## Limits
 
 - **Obligations are not always binary** -- the container schema insists on a
   sharp inside/outside distinction. You are either in the container or out

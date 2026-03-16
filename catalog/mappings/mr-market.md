@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -15,11 +17,10 @@ related:
 - the-map-is-not-the-territory
 slug: mr-market
 source_frame: social-roles
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The stock market personified as a manic-depressive business partner
 who shows up at your door every day offering to buy your share of
@@ -58,7 +59,7 @@ Key structural parallels:
   horizon of value investing: the business partner is permanent,
   the moods are temporary.
 
-## Where It Breaks
+## Limits
 
 - **Markets are not one person** -- Mr. Market is a convenient
   personification of an emergent phenomenon produced by millions of

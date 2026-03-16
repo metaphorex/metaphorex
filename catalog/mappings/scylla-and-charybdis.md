@@ -1,23 +1,25 @@
 ---
+applies_to:
+- decision-making
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - social-dynamics
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Scylla and Charybdis
 related:
 - damocles-sword
 - tantalus
 slug: scylla-and-charybdis
 source_frame: mythology
-target_frame: decision-making
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 In Homer's *Odyssey*, Odysseus must sail through a narrow strait flanked
 by two monsters. Scylla, a six-headed creature perched on a cliff, will
@@ -59,7 +61,7 @@ onto decision-making under constraint.
   a specific decision-maker. This is not a committee decision or a
   market outcome; it is a leader's burden.
 
-## Where It Breaks
+## Limits
 
 - **Odysseus had intelligence; most decision-makers do not** -- Circe
   told Odysseus exactly what each monster would do and recommended a

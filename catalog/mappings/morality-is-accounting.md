@@ -1,4 +1,6 @@
 ---
+applies_to:
+- ethics-and-morality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Morality Is Accounting
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - nation-is-a-family
 slug: morality-is-accounting
 source_frame: economics
-target_frame: ethics-and-morality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Good deeds are credits. Bad deeds are debts. Morality is a ledger that
 must balance. This metaphor structures an enormous range of moral
@@ -61,7 +62,7 @@ Key structural parallels:
   (giving without expectation of return, treated as moral surplus), and
   karma (cosmic accounting across lifetimes).
 
-## Where It Breaks
+## Limits
 
 - **Not all moral action is transactional** -- the accounting metaphor
   makes unconditional love, selfless sacrifice, and mercy look irrational.

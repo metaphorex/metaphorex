@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: lollapalooza-effect
 source_frame: physics
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Resonance and wave superposition from physics mapped onto psychology:
 when multiple cognitive tendencies align in the same direction, their
@@ -54,7 +55,7 @@ analysts: why smart people at Enron committed fraud, why the dot-com
 bubble inflated despite obvious overvaluation, why cult members
 abandon family and fortune.
 
-## Where It Breaks
+## Limits
 
 - **Unfalsifiable post-hoc explanation** -- any extreme outcome can be
   retroactively attributed to a "lollapalooza" of converging factors.

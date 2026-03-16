@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Necessary Prerequisite for Change Is Source of Moving Entity
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - life-is-a-journey
 slug: necessary-prerequisite-for-change-is-source-of-moving-entity
 source_frame: journeys
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Every journey starts somewhere. Before you can move, you must be at a
 starting point. NECESSARY PREREQUISITE FOR CHANGE IS SOURCE OF MOVING ENTITY
@@ -63,7 +64,7 @@ Key structural parallels:
   depending on which path is taken. "From those humble beginnings, she
   could have gone anywhere."
 
-## Where It Breaks
+## Limits
 
 - **Prerequisites are not always left behind** -- the metaphor implies
   that the source is abandoned once motion begins. But many prerequisites

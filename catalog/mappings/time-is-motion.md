@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is Motion
 provenance: osaka-master-metaphor-list
 related:
@@ -21,11 +23,10 @@ related:
 - purposes-are-destinations
 slug: time-is-motion
 source_frame: embodied-experience
-target_frame: time-and-temporality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Time is understood through motion. This is the master metaphor for
 temporal experience -- more fundamental than TIME IS MONEY or TIME IS A
@@ -76,7 +77,7 @@ time without it. Try describing temporal passage without any spatial or
 motion language -- the attempt reveals how completely motion structures
 our temporal reasoning.
 
-## Where It Breaks
+## Limits
 
 - **Time has no reverse gear** -- spatial motion is reversible: you can
   walk back to where you started. But time moves in one direction only.

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- systems-thinking
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
@@ -13,11 +15,10 @@ related:
 - yin-and-yang
 slug: ouroboros
 source_frame: mythology
-target_frame: systems-thinking
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The ouroboros -- a serpent or dragon devouring its own tail -- appears
 independently in Egyptian funerary texts (circa 1600 BCE), Greek
@@ -58,7 +59,7 @@ Key structural parallels:
   self-sufficient explanation. In mathematics, it echoes Goedel's
   insight about systems that try to contain themselves.
 
-## Where It Breaks
+## Limits
 
 - **Most "circular" processes are actually spirals** -- the ouroboros
   implies perfect cyclical return: the serpent arrives back where it

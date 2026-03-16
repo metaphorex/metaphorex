@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -13,11 +15,10 @@ related:
 - red-queen-effect
 slug: niche-specialization
 source_frame: natural-selection
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 In ecology, a niche is the specific set of environmental conditions and
 resources that a species is adapted to exploit. The competitive exclusion
@@ -57,7 +58,7 @@ Munger used this model to evaluate businesses: does this company occupy a
 defensible niche? Is it trying to compete in someone else's niche? Are
 its capabilities aligned with its competitive environment?
 
-## Where It Breaks
+## Limits
 
 - **Business niches are not natural** -- ecological niches emerge from
   physical and biological constraints that change slowly. Business niches

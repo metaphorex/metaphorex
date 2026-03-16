@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Alignment Is Physical Alignment
 related:
 - training-is-education
 - neural-network-is-a-brain
 slug: alignment-is-physical-alignment
 source_frame: physics
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 To "align" an AI system with human values is to bring two things into
 parallel, like aligning wheels on an axle or magnets in a field. The
@@ -50,7 +51,7 @@ Key structural parallels:
   What era? The metaphor elides these questions by assuming a fixed
   reference direction.
 
-## Where It Breaks
+## Limits
 
 - **Human values are not vectors** -- this is the fundamental break.
   Physical alignment requires fixed, measurable directions. Human values

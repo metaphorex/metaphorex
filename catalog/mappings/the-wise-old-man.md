@@ -1,4 +1,6 @@
 ---
+applies_to:
+- authority-and-mentorship
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -14,11 +16,10 @@ related:
 - the-divine-child
 slug: the-wise-old-man
 source_frame: mythology
-target_frame: authority-and-mentorship
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The Wise Old Man is Jung's archetype of meaning, guidance, and
 accumulated knowledge. In "The Phenomenology of the Spirit in Fairytales"
@@ -59,7 +60,7 @@ Key structural parallels:
   the post-mortem, the design principle that encodes decades of failure
   into a single rule ("don't store state in the application layer").
 
-## Where It Breaks
+## Limits
 
 - **Conflates age with wisdom** -- the archetype structurally equates
   accumulated time with accumulated insight. But experience in an

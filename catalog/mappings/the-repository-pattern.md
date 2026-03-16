@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-abstraction
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -15,11 +17,10 @@ related:
 - the-facade-pattern
 slug: the-repository-pattern
 source_frame: library-and-archive
-target_frame: software-abstraction
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A repository is a place where things are deposited for safekeeping and
 later retrieval. The word comes from Latin *repositorium* -- a
@@ -59,7 +60,7 @@ Key structural parallels:
   in-memory collection. The metaphor's power is in this illusion of
   proximity: the data feels close even when it's on a remote server.
 
-## Where It Breaks
+## Limits
 
 - **Real repositories are slow; developers expect Repositories to be
   fast** -- requesting a manuscript from a national archive takes days.

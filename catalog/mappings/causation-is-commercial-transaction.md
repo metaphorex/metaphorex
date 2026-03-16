@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Causation Is Commercial Transaction
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - ideas-are-objects
 slug: causation-is-commercial-transaction
 source_frame: economics
-target_frame: causal-reasoning
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Causes pay for their effects. This metaphor structures causation as a
 commercial exchange: the cause is a price paid, and the effect is the
@@ -59,7 +60,7 @@ Key structural parallels:
   expected to produce returns over time. This framing makes patience feel
   rational and premature quitting feel like abandoning an investment.
 
-## Where It Breaks
+## Limits
 
 - **Causation is not voluntary** -- in a commercial transaction, both
   parties consent. But many causal relationships involve no choice at all.

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,18 +8,18 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Cargo Cult Programming
 related:
 - spaghetti-code
 slug: cargo-cult-programming
 source_frame: social-behavior
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 During World War II, Pacific Islanders observed that military airstrips
 attracted planes carrying valuable cargo. After the war, some communities
@@ -59,7 +61,7 @@ Key structural parallels:
   magic a framework performs, the more cargo-cult-susceptible its users
   become.
 
-## Where It Breaks
+## Limits
 
 - **The original cargo cults were rational** -- given the islanders'
   available information and causal frameworks, building airstrips was a

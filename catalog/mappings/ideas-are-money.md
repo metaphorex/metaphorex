@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Money
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,11 +20,10 @@ related:
 - ideas-are-products
 slug: ideas-are-money
 source_frame: economics
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas have denominations, can be saved and spent, and some people are richer
 in them than others. This metaphor maps the specific properties of money --
@@ -59,7 +60,7 @@ Key structural parallels:
   returns later. Intellectual work becomes a form of investment, evaluated
   by its yield.
 
-## Where It Breaks
+## Limits
 
 - **Ideas do not deplete when spent** -- if I spend a dollar, it is gone
   from my possession. If I share an idea, I still have it. The money

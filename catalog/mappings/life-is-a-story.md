@@ -1,4 +1,6 @@
 ---
+applies_to:
+- life-course
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Life Is a Story
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - death-is-departure
 slug: life-is-a-story
 source_frame: narrative
-target_frame: life-course
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Lives have chapters, turning points, and plots. People are the
 protagonists of their own stories, and the events of a life are
@@ -63,7 +64,7 @@ Key structural parallels:
   satisfying narrative conclusion. An unexpected death is a story
   "cut short."
 
-## Where It Breaks
+## Limits
 
 - **Lives do not have plots** -- the narrative metaphor imposes
   coherence on experience that may not be there. Real lives are full

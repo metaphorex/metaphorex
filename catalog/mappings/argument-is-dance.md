@@ -1,21 +1,22 @@
 ---
+applies_to:
+- argumentation
 author: fshot
 categories:
 - cognitive-science
 - linguistics
 contributors: []
 created: '2026-03-09'
-kind: conceptual-metaphor
+kind: metaphor
 name: Argument Is Dance
 related:
 - argument-is-war
 slug: argument-is-dance
 source_frame: dance
-target_frame: argumentation
 updated: '2026-03-09'
 ---
 
-## What It Brings
+## Transfers
 
 The counter-frame to ARGUMENT IS WAR, proposed by Lakoff but never
 developed. War structures argument as combat between adversaries; dance
@@ -46,7 +47,7 @@ Key structural parallels:
   treat the audience's understanding as the shared goal, not a jury
   delivering a verdict.
 
-## Where It Breaks
+## Limits
 
 - **We don't have this culture** — the dance frame is aspirational, not
   descriptive. Almost no institutional context (courtrooms, legislatures,

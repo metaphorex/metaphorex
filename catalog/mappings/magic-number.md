@@ -1,12 +1,15 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Magic Number
 related:
 - deep-magic
@@ -14,11 +17,10 @@ related:
 - code-smell
 slug: magic-number
 source_frame: mythology
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A number that works as if by enchantment -- it produces the right
 result, but no one can explain why, and changing it breaks everything.
@@ -60,7 +62,7 @@ Key structural parallels:
   whose significance is not self-evident, but they describe quite
   different technical situations.
 
-## Where It Breaks
+## Limits
 
 - **Magic is extraordinary; most magic numbers are mundane** -- in
   mythology, magic is rare, powerful, and dangerous. In code, magic

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Emotional Stability Is Maintaining Position
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - having-control-is-up
 slug: emotional-stability-is-maintaining-position
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Emotional stability is staying put. Where the closely related EMOTIONAL
 STABILITY IS BALANCE foregrounds the physics of equilibrium -- tipping,
@@ -62,7 +63,7 @@ a spatial logic that BALANCE lacks: you can be moved *somewhere specific*
 (into despair, out of your comfort zone, back to happiness), not just
 tipped generically off-center.
 
-## Where It Breaks
+## Limits
 
 - **Staying put is not always healthy** -- the metaphor codes positional
   fixity as emotional health, which makes adaptive change look like

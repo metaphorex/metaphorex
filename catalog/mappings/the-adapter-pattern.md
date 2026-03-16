@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -12,11 +14,10 @@ related:
 - the-facade-pattern
 slug: the-adapter-pattern
 source_frame: hardware-compatibility
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 An electrical adapter lets you plug a device with one shape of prongs
 into a socket with a different shape. The metaphor is about physical
@@ -48,7 +49,7 @@ Key structural parallels:
   considering each other. The metaphor carries a trace of frustration:
   this shouldn't be necessary, but it is.
 
-## Where It Breaks
+## Limits
 
 - **Physical adapters are passive; software adapters are active** -- a
   plug adapter sits between socket and device doing nothing but

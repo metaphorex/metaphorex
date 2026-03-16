@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,18 +9,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Acting Compulsively Is Ingesting A Substance Compulsively
 provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person
 slug: acting-compulsively-is-ingesting-a-substance-compulsively
 source_frame: compulsive-ingestion
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 We understand compulsive behavior through the lens of substance addiction.
 This metaphor maps the structure of compulsive ingestion -- craving, bingeing,
@@ -53,7 +54,7 @@ Key structural parallels:
   framed as giving up a substance, with the same vocabulary of sobriety,
   relapse, and recovery programs.
 
-## Where It Breaks
+## Limits
 
 - **Not all compulsion involves a substance** -- the metaphor requires
   something to be ingested, but many compulsive behaviors (handwashing,

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Opportunities Are Objects
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - life-is-a-journey
 slug: opportunities-are-objects
 source_frame: physical-objects
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Opportunities are things you can grab, hold, miss, lose, and give away.
 This metaphor maps the physical-object frame onto the abstract concept of
@@ -56,7 +57,7 @@ Key structural parallels:
   map onto the significance of opportunities: bigger is more important,
   heavier is more consequential.
 
-## Where It Breaks
+## Limits
 
 - **Opportunities are not scarce in the way objects are** -- a physical
   object can only be in one place and held by one person. The metaphor

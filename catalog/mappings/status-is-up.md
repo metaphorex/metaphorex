@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-roles
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Status Is Up; Lack Of Status Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - happy-is-up
 slug: status-is-up
 source_frame: embodied-experience
-target_frame: social-roles
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Social rank is altitude. The powerful occupy high positions; the powerless
 are at the bottom. This orientational metaphor maps social hierarchy onto
@@ -58,7 +59,7 @@ Key structural parallels:
   different status is enacted physically: bowing, kneeling, lowering the
   eyes. The metaphor is performed as well as spoken.
 
-## Where It Breaks
+## Limits
 
 - **Horizontal status systems exist** -- not all social position is
   vertical. Caste systems, guild structures, and professional specialization

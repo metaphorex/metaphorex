@@ -1,4 +1,6 @@
 ---
+applies_to:
+- collaborative-work
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -9,7 +11,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Labor Is a Resource
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - time-is-a-limited-resource
 slug: labor-is-a-resource
 source_frame: economics
-target_frame: collaborative-work
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Human work is treated as a commodity -- something that can be quantified,
 allocated, budgeted, and depleted. The metaphor converts the qualitative
@@ -46,7 +47,7 @@ Key structural parallels:
   "Can we afford another hire?" The metaphor places human effort inside
   the same accounting framework as office supplies and server costs.
 
-## Where It Breaks
+## Limits
 
 - **People are not fungible** -- the deepest failure of the resource
   metaphor. Replacing a senior engineer with a junior one is not "the same

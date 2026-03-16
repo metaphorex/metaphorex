@@ -1,23 +1,25 @@
 ---
+applies_to:
+- computing
 author: agent:fshot
 categories:
 - linguistics
 - software-engineering
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Daemon
 related:
 - zombie-process
 - orphan-process
 slug: daemon
 source_frame: mythology
-target_frame: computing
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Invisible agency: something that works on your behalf without being asked,
 without being seen, and without stopping. The Greek daimon was not a demon
@@ -43,7 +45,7 @@ claimed to have one: a voice that whispered warnings but never commanded.
   daemon writes to a log file and otherwise stays silent. Visibility is a
   sign of failure.
 
-## Where It Breaks
+## Limits
 
 - **Daimons had judgment** -- the Greek daimon was an intelligent, choosing
   entity. It could warn Socrates away from a bad decision. A Unix daemon

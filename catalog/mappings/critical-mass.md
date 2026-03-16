@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -11,11 +13,10 @@ provenance: munger-poor-charlies-almanack
 related: []
 slug: critical-mass
 source_frame: physics
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Nuclear physics -- where a minimum quantity of fissile material is required
 to sustain a chain reaction -- mapped onto social, technological, and business
@@ -57,7 +58,7 @@ Key structural parallels:
   critical mass discover this: viral growth without moderation produces
   an explosion, not useful energy.
 
-## Where It Breaks
+## Limits
 
 The critical mass metaphor is vivid and structurally illuminating, but it
 carries distortions that can lead to serious analytical errors.

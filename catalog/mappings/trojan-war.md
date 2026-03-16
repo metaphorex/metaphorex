@@ -1,4 +1,6 @@
 ---
+applies_to:
+- conflict-escalation
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
@@ -13,11 +15,10 @@ related:
 - scylla-and-charybdis
 slug: trojan-war
 source_frame: mythology
-target_frame: conflict-escalation
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The Trojan War began, according to myth, because Paris of Troy abducted
 Helen from Sparta. A thousand ships sailed, a ten-year siege followed,
@@ -67,7 +68,7 @@ archetype rather than a single metaphor.
   brute-force approaches to conflict are eventually abandoned in favor
   of asymmetric tactics.
 
-## Where It Breaks
+## Limits
 
 - **The archetype romanticizes the trigger** -- Helen is "the face
   that launched a thousand ships." The Trojan War narrative makes its

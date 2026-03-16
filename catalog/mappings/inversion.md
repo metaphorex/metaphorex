@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -13,11 +15,10 @@ related:
 - the-map-is-not-the-territory
 slug: inversion
 source_frame: geometry
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 "Invert, always invert" -- the mathematician Carl Jacobi's prescription
 for solving difficult problems, adopted by Munger as one of his most
@@ -53,7 +54,7 @@ Key structural parallels:
   alone, the way a mathematical function and its inverse together
   fully characterize a mapping.
 
-## Where It Breaks
+## Limits
 
 - **Not all problems are invertible** -- in mathematics, inversion
   requires certain conditions (non-zero denominators, specific

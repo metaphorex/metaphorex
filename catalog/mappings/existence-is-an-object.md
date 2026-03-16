@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Existence Is An Object
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - event-structure
 slug: existence-is-an-object
 source_frame: physical-objects
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To exist is to be a thing. This is the object-case counterpart to
 EXISTENCE IS A LOCATION: where the location case treats existence as being
@@ -56,7 +57,7 @@ Key structural parallels:
   can be a valuable object -- something that can be spent wisely or
   wasted, invested or squandered. This maps economic logic onto ontology.
 
-## Where It Breaks
+## Limits
 
 - **Existence is not a separable property** -- the object metaphor treats
   existence as something an entity has, distinct from the entity itself.

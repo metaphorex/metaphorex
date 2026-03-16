@@ -1,4 +1,6 @@
 ---
+applies_to:
+- creative-process
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Creating Is Making
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - creation-is-cultivation
 slug: creating-is-making
 source_frame: manufacturing
-target_frame: creative-process
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Creation understood as fabrication -- the shaping of raw material into a
 finished object by an agent who knows what they are doing. When we say someone
@@ -55,7 +56,7 @@ Key structural parallels:
   creative technique legible as a set of learnable, transferable skills rather
   than mysterious inspiration.
 
-## Where It Breaks
+## Limits
 
 - **Making implies prior knowledge of the product** -- in manufacturing, you
   know what you are making before you make it. The mold precedes the casting.

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- collaborative-work
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,8 +8,9 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Fear-Driven Development
 related:
 - cargo-cult-programming
@@ -15,11 +18,10 @@ related:
 - bus-factor
 slug: fear-driven-development
 source_frame: social-behavior
-target_frame: collaborative-work
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Test-driven development. Behavior-driven development. Domain-driven
 design. The "-driven" suffix in software methodology names the force that
@@ -61,7 +63,7 @@ Key structural parallels:
   The structural mapping holds at both scales, which gives the
   metaphor broad applicability.
 
-## Where It Breaks
+## Limits
 
 - **Some fear is useful** -- fear of deploying untested code is called
   "engineering discipline." Fear of losing user data is called "security

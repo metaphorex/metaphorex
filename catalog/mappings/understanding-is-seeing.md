@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,18 +9,17 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Understanding Is Seeing
 related:
 - theories-are-buildings
 - ideas-are-food
 slug: understanding-is-seeing
 source_frame: vision
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The dominant epistemological metaphor in Western culture. So dominant that
 it has colonized the vocabulary of knowledge itself: "I see" means "I
@@ -48,7 +49,7 @@ Key structural parallels:
   his own faults." "They turned a blind eye." The mapping makes ignorance
   feel like a perceptual deficiency rather than a knowledge gap.
 
-## Where It Breaks
+## Limits
 
 - **Seeing is passive; understanding is active** -- you can see without
   trying; you cannot understand without effort. The metaphor makes

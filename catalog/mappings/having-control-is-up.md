@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Having Control Is Up; Being Subject To Control Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -14,11 +16,10 @@ related:
 - argument-is-war
 slug: having-control-is-up
 source_frame: embodied-experience
-target_frame: social-behavior
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Power is vertical. The one in control is on top; the one controlled is
 underneath. This orientational metaphor maps dominance and submission onto
@@ -49,7 +50,7 @@ The Osaka archive lists five core expressions: "I have control over him,"
 "He is under my power," "I'm on top of the situation," "I have it all
 under control," "He has a dominating/submissive personality."
 
-## Where It Breaks
+## Limits
 
 - **Control is not always vertical** -- horizontal metaphors of control
   exist ("She has him wrapped around her finger," "He's in her grasp")

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Strong Emotions Are Madness
 provenance: osaka-master-metaphor-list
 related:
@@ -18,11 +20,10 @@ related:
 - emotions-are-entities-within-a-person
 slug: strong-emotions-are-madness
 source_frame: madness
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 He is crazy about her. She was insane with jealousy. They were mad
 with grief. STRONG EMOTIONS ARE MADNESS maps the phenomenology of
@@ -61,7 +62,7 @@ Key structural parallels:
   was a temporary departure from a baseline of rationality. "Once
   the grief passed, she was herself again."
 
-## Where It Breaks
+## Limits
 
 - **Madness is a clinical condition; emotion is not** -- the metaphor
   equates a normal human experience (intense feeling) with a

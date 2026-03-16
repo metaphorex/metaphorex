@@ -1,21 +1,22 @@
 ---
+applies_to:
+- argumentation
 author: fshot
 categories:
 - cognitive-science
 - linguistics
 contributors: []
 created: '2026-03-07'
-kind: conceptual-metaphor
+kind: metaphor
 name: Argument Is War
 related:
 - argument-is-dance
 slug: argument-is-war
 source_frame: war
-target_frame: argumentation
 updated: '2026-03-09'
 ---
 
-## What It Brings
+## Transfers
 
 The ur-example of conceptual metaphor theory, still the most revealing.
 We *talk about* arguments in terms of war and *experience* them that way. Your pulse quickens. You scan for weak points. You need to *win*.
@@ -39,7 +40,7 @@ The metaphor structures behavior: we interrupt, refuse to yield,
 strategize about *when* to deploy evidence for maximum impact. The war
 frame makes this feel natural.
 
-## Where It Breaks
+## Limits
 
 - **War produces destruction; arguments should produce understanding** —
   the metaphor makes it difficult to *change your mind*. Updating your

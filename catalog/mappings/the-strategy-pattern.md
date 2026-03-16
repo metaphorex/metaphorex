@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-template-method-pattern
 slug: the-strategy-pattern
 source_frame: military-command
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Strategy is a general's art: choosing among alternative plans of
 action based on terrain, enemy disposition, available forces, and
@@ -58,7 +59,7 @@ Key structural parallels:
   The metaphor frames encapsulation as specialization -- each strategy
   is a domain expert.
 
-## Where It Breaks
+## Limits
 
 - **Military strategies involve uncertainty and adaptation; algorithms
   are deterministic** -- a real battle plan rarely survives first

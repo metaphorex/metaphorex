@@ -1,4 +1,6 @@
 ---
+applies_to:
+- data-processing
 author: fshot
 categories:
 - software-engineering
@@ -13,11 +15,10 @@ related:
 - bottleneck
 slug: data-flow-is-fluid-flow
 source_frame: fluid-dynamics
-target_frame: data-processing
 updated: '2026-03-11'
 ---
 
-## What It Brings
+## Transfers
 
 The metaphor that became infrastructure. When Doug McIlroy proposed Unix
 pipes in 1964, he imported the entire compositional logic of plumbing
@@ -48,7 +49,7 @@ insight (that processing stages should be independent) is the
 foundation of Unix philosophy, streaming architectures, and functional
 data pipelines.
 
-## Where It Breaks
+## Limits
 
 - **Fluids are continuous; data is discrete** — water doesn't arrive in
   packets. It doesn't have headers, delimiters, or encoding. The

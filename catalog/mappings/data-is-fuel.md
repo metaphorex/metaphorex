@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Data Is Fuel
 related:
 - neural-network-is-a-brain
@@ -14,11 +16,10 @@ related:
 - time-is-a-resource
 slug: data-is-fuel
 source_frame: natural-resources
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Clive Humby declared "data is the new oil" in 2006, and the resource
 metaphor has dominated AI discourse ever since. Data as fuel, feedstock,
@@ -57,7 +58,7 @@ Key structural parallels:
   as resource politics, which shapes regulation, trade policy, and
   international relations around AI.
 
-## Where It Breaks
+## Limits
 
 - **Data is not consumed** -- this is the fundamental disanalogy. Oil
   burned is oil gone. Data used in training still exists, can be used

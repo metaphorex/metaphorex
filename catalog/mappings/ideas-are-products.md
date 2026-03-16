@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Products
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - ideas-are-people
 slug: ideas-are-products
 source_frame: manufacturing
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas are manufactured goods: produced, refined, and delivered. This metaphor
 treats intellectual activity as industrial production -- the mind is a factory,
@@ -58,7 +59,7 @@ Key structural parallels:
   product relationship feel natural, grounding intellectual property claims
   in the intuition that whoever manufactures something owns it.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor makes quantity look like quality** -- "intellectual
   productivity" measures output volume, not insight. A factory that produces

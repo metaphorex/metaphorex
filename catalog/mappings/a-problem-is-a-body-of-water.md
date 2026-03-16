@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: A Problem Is a Body of Water
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - problems-are-puzzles
 slug: a-problem-is-a-body-of-water
 source_frame: fluid-dynamics
-target_frame: causal-reasoning
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Problems have depth. You can be in over your head. You can drown in
 them, wade through them, or find yourself treading water. This metaphor
@@ -59,7 +60,7 @@ Key structural parallels:
   problem is a body of water, then solving it is a form of navigation:
   finding a safe route across, through, or around a dangerous expanse.
 
-## Where It Breaks
+## Limits
 
 - **Water is continuous; problems are often discrete** -- a body of water
   is a single, connected mass. But many problems are collections of

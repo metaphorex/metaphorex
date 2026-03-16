@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Similarity Is Closeness
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - emotional-intimacy-is-physical-closeness
 slug: similarity-is-closeness
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A primary metaphor grounded in the infant's experience that things near
 each other in space tend to share properties. Objects close together are
@@ -56,7 +57,7 @@ where distance encodes similarity. Word2Vec, the ancestor of modern LLMs,
 is the container metaphor applied to words, but it runs on the similarity-
 is-closeness metaphor: similar words are nearby vectors.
 
-## Where It Breaks
+## Limits
 
 - **Similarity is multidimensional; distance is one number** -- two things
   can be similar in some respects and different in others. A whale and a

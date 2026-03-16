@@ -1,23 +1,25 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Spaghetti Code
 related:
 - data-flow-is-fluid-flow
 - program-failure-is-bodily-failure
 slug: spaghetti-code
 source_frame: food-and-cooking
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Tangled pasta maps onto tangled control flow. The metaphor is instantly
 legible to anyone who has pulled a forkful of spaghetti from a plate and
@@ -49,7 +51,7 @@ Key structural parallels:
   work: it motivates refactoring and signals social disapproval of
   unstructured programming.
 
-## Where It Breaks
+## Limits
 
 - **Spaghetti is homogeneous; code is not** -- every strand of spaghetti
   is the same. Real tangled code has heterogeneous components: database

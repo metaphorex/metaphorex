@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Getting Is Eating
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - action-is-control-over-possessions
 slug: getting-is-eating
 source_frame: food-and-cooking
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Acquisition as consumption. The metaphor maps the structure of eating --
 taking something external into oneself, making it part of you, using it
@@ -56,7 +57,7 @@ Key structural parallels:
   project was starved of resources." Deprivation in the target domain
   borrows the urgency and pathos of hunger in the source domain.
 
-## Where It Breaks
+## Limits
 
 - **Eating destroys; getting often preserves** -- when you eat food, it
   ceases to be food. But when you get a house, a book, or a friend, the

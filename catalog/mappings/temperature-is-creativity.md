@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Temperature Is Creativity
 related:
 - ai-hallucination-is-perception-disorder
@@ -14,11 +16,10 @@ related:
 - context-window-is-working-memory
 slug: temperature-is-creativity
 source_frame: physics
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The "temperature" parameter in language model sampling controls how much
 randomness is introduced when selecting the next token. Borrowed from
@@ -60,7 +61,7 @@ Key structural parallels:
   describing the same mathematical relationship that governs molecular
   energy states.
 
-## Where It Breaks
+## Limits
 
 - **Randomness is not creativity** -- this is the central and most
   consequential break. Creativity involves intention, judgment, aesthetic

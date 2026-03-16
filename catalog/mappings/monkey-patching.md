@@ -1,22 +1,24 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Monkey-Patching
 related:
 - cargo-cult-programming
 slug: monkey-patching
 source_frame: social-behavior
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A mischievous monkey tampering with things it does not own -- reaching
 into a running system and changing code at runtime, typically modifying
@@ -54,7 +56,7 @@ Key structural parallels:
   lifecycle: the patch was supposed to be a quick hack, and now it is
   load-bearing.
 
-## Where It Breaks
+## Limits
 
 - **The animal is incidental** -- the "monkey" in monkey-patching
   likely derives from "guerrilla patching" (aggressive, unsanctioned

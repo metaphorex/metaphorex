@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Love Is Madness
 provenance: lakoff-johnson-mwlb
 related:
@@ -15,11 +17,10 @@ related:
 - love-is-a-unity
 slug: love-is-madness
 source_frame: embodied-experience
-target_frame: love-and-relationships
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Love as the loss of reason. The metaphor maps the phenomenology of insanity
 onto the experience of intense romantic attraction: impaired judgment,
@@ -50,7 +51,7 @@ Key structural parallels:
   grand gestures that embarrass everyone. The metaphor normalizes social
   disruption by framing it as a symptom rather than a choice.
 
-## Where It Breaks
+## Limits
 
 - **Madness is a disease; love is not** -- the metaphor borrows the
   phenomenology of mental illness (impaired judgment, obsessive thoughts)

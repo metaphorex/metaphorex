@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Harm Is Being in a Harmful Location
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - harm-is-causing-functional-objects-to-be-nonfunctional
 slug: harm-is-being-in-a-harmful-location
 source_frame: spatial-location
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To be harmed is to be in a bad place. The metaphor maps spatial location
 onto the experience of harm, turning an abstract causal process -- someone
@@ -62,7 +63,7 @@ Key structural parallels:
   stand without yet being fully inside. This creates a gradient: you
   can be near harm, at harm's edge, or deep within it.
 
-## Where It Breaks
+## Limits
 
 - **Harm is not always a state you occupy** -- the metaphor treats harm
   as a condition of being somewhere, but many forms of harm are punctual

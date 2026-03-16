@@ -1,19 +1,20 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 contributors: []
 created: '2026-03-14'
-kind: conceptual-metaphor
+kind: metaphor
 name: Excalibur
 related: []
 slug: excalibur
 source_frame: mythology
-target_frame: social-behavior
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 In Arthurian legend, the sword Excalibur (or the sword in the stone, which
 some traditions treat as a separate weapon) can only be drawn by the
@@ -41,7 +42,7 @@ pass.
   founder's early product is often their Excalibur -- the thing that
   simultaneously proves they can build and gives them the tool to compete.
 
-## Where It Breaks
+## Limits
 
 - **The test is binary; real competence is not** -- Excalibur either comes
   out of the stone or it does not. There is no partial extraction, no

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- competition
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Competition Is a Race
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - race-condition
 slug: competition-is-a-race
 source_frame: journeys
-target_frame: competition
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Competition understood as a race transforms rivals into runners on the same
 track, all heading toward the same finish line. The metaphor foregrounds
@@ -55,7 +56,7 @@ Key structural parallels:
   of the competition." "They're lapping the competition." The metaphor
   structures long-term competition as a series of circuits.
 
-## Where It Breaks
+## Limits
 
 - **Races have a single finish line; competition often does not** -- the
   metaphor assumes all competitors want the same thing and will know when

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Help Is Support
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - emotional-stability-is-balance
 slug: help-is-support
 source_frame: embodied-experience
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 To help someone is to hold them up. A friend is a pillar, a policy is a
 safety net, an argument rests on its supporting evidence. This primary
@@ -56,7 +57,7 @@ between bearing weight alone and having assistance. The correlation
 between physical support and well-being is among the earliest learned
 bodily experiences.
 
-## Where It Breaks
+## Limits
 
 - **Help is not always vertical** -- the support metaphor frames
   assistance as upward force against downward pressure, but much real

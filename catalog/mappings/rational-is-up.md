@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Rational Is Up; Emotional Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - understanding-is-seeing
 slug: rational-is-up
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Reason rises; emotion sinks. This orientational metaphor maps the
 reason/emotion distinction onto the vertical axis, placing rationality
@@ -52,7 +53,7 @@ The Osaka archive notes that "rationality is necessary for well-being"
 and that the metaphor may connect to Enlightenment ethics where rationality
 is esteemed as virtuous.
 
-## Where It Breaks
+## Limits
 
 - **Emotion is not below reason** -- cognitive science has dismantled the
   reason/emotion hierarchy. Damasio's somatic marker hypothesis shows that

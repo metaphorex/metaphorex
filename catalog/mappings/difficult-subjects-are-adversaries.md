@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Difficult Subjects Are Adversaries
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - difficulties-are-impediments-to-motion
 slug: difficult-subjects-are-adversaries
 source_frame: war
-target_frame: intellectual-inquiry
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Some subjects fight back. When a topic is difficult to understand,
 master, or explain, we describe it as an opponent that resists our
@@ -59,7 +60,7 @@ Key structural parallels:
   to difficult material. Different methods are different tactical
   choices; changing methods is changing one's angle of attack.
 
-## Where It Breaks
+## Limits
 
 - **Subjects do not have intentions** -- an adversary is defined by
   purposeful opposition: an enemy is trying to defeat you. A difficult

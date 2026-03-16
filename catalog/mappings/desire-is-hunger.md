@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Desire Is Hunger
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - ideas-are-food
 slug: desire-is-hunger
 source_frame: food-and-cooking
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Wanting is starving. The structure of physical hunger -- its urgency, its
 bodily insistence, its satisfaction through consumption -- maps onto desire
@@ -57,7 +58,7 @@ Key structural parallels:
   Prolonged unfulfilled desire maps onto the physical deterioration of
   starvation, lending urgency and pathos to psychological needs.
 
-## Where It Breaks
+## Limits
 
 - **Hunger has a biological endpoint; desire often does not** -- you
   eat, you are full, the hunger stops. Many human desires lack this

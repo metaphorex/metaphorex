@@ -1,4 +1,6 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Perception Is Reception
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - the-conduit-metaphor
 slug: perception-is-reception
 source_frame: physical-objects
-target_frame: embodied-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 To perceive is to receive. This metaphor treats sensory perception as the
 passive reception of something that travels from the perceived object to
@@ -65,7 +66,7 @@ Key structural parallels:
   The metaphor makes sensory overwhelm feel like a physical excess:
   too many objects, too much force, too high a volume.
 
-## Where It Breaks
+## Limits
 
 - **Perception is not passive** -- the metaphor treats the perceiver
   as a passive receiver, like a dish that catches what falls into it.

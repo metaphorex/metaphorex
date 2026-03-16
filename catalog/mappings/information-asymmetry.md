@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -14,11 +16,10 @@ related:
 - the-map-is-not-the-territory
 slug: information-asymmetry
 source_frame: economics
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 An economics theorem about market failure reframed as a general model of
 trust, negotiation, and institutional design. George Akerlof's 1970 "Market
@@ -63,7 +64,7 @@ Key structural parallels:
   appreciates this structural insight even when he disagrees with specific
   regulatory implementations.
 
-## Where It Breaks
+## Limits
 
 - **Assumes rational self-interest on both sides** -- the model predicts
   that better-informed parties will exploit their advantage. But many

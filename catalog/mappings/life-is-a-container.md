@@ -1,4 +1,6 @@
 ---
+applies_to:
+- life-course
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,18 +10,17 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Life Is a Container
 provenance: lakoff-johnson-mwlb
 related:
 - life-is-a-journey
 slug: life-is-a-container
 source_frame: containers
-target_frame: life-course
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Life as a bounded space that can be filled or emptied. Where LIFE IS A
 JOURNEY gives us direction and progress, and LIFE IS A GAMBLING GAME gives
@@ -58,7 +59,7 @@ Key structural parallels:
   (limitation, confinement), depending on whether you identify with the
   contents wanting out or the container holding things in.
 
-## Where It Breaks
+## Limits
 
 - **Life does not have fixed capacity** -- the metaphor implies that a life
   can be "full" and that adding more would cause overflow. But lived

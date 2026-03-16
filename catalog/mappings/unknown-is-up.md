@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Unknown Is Up; Known Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - happy-is-up
 slug: unknown-is-up
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Unresolved matters float. Settled matters rest on the ground. This
 orientational metaphor maps the epistemic status of a question -- whether
@@ -66,7 +67,7 @@ air" is not a good thing -- it means you do not know yet. This tension with
 the broader system (where UP is typically good) is one of the most
 interesting features of Lakoff and Johnson's catalog.
 
-## Where It Breaks
+## Limits
 
 - **It conflicts with the dominant UP-is-positive system** -- in most
   orientational metaphors, UP is good: HAPPY IS UP, HEALTH IS UP, VIRTUE

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Properties Are Contents
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - properties-are-physical-properties
 slug: properties-are-contents
 source_frame: containers
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When we talk about properties and attributes of things, we routinely
 treat them as contents inside a container. A rock has hardness in it. A
@@ -52,7 +53,7 @@ Key structural parallels:
   connects to the broader Event Structure system where changes are
   movements.
 
-## Where It Breaks
+## Limits
 
 - **Properties are not separable from their bearers** -- a container's
   contents can be removed while the container persists. But you cannot

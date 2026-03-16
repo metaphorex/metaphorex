@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 - software-engineering
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: AI Is an Agent
 related:
 - ai-is-a-tool
@@ -15,11 +17,10 @@ related:
 - ai-is-an-oracle
 slug: ai-is-an-agent
 source_frame: governance
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 An agent acts on behalf of a principal with delegated authority. The
 legal concept is precise: an agent has fiduciary duty, operates within
@@ -64,7 +65,7 @@ Key structural parallels:
   trajectory of AI product development: from autocomplete to
   assistants to autonomous systems.
 
-## Where It Breaks
+## Limits
 
 - **Legal agents have fiduciary duty; AI agents have no obligations** --
   the core structural import of "agent" is that agents owe duties to

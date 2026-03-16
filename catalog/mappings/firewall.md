@@ -1,20 +1,22 @@
 ---
+applies_to:
+- network-security
 author: fshot
 categories:
 - software-engineering
 - security
 contributors: []
 created: '2026-03-07'
-kind: dead-metaphor
+dead: true
+kind: metaphor
 name: Firewall
 related: []
 slug: firewall
 source_frame: architecture-and-building
-target_frame: network-security
 updated: '2026-03-10'
 ---
 
-## What It Brings
+## Transfers
 
 Security as barrier: something placed between danger and what you're
 protecting. Physical, spatial, binary: fire side / safe side.
@@ -35,7 +37,7 @@ protecting. Physical, spatial, binary: fire side / safe side.
   inspection rules into a single physical image: a wall that fire cannot
   cross.
 
-## Where It Breaks
+## Limits
 
 - **Threats aren't fire** — fire is indiscriminate: it spreads in all
   directions, consuming whatever is combustible, following physics.

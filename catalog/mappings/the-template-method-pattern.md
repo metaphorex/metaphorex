@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -13,11 +15,10 @@ related:
 - the-factory-pattern
 slug: the-template-method-pattern
 source_frame: publishing
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A template is a document with blanks -- a form letter with spaces for
 the name and date, a stencil with cutouts for paint, a page layout
@@ -60,7 +61,7 @@ Key structural parallels:
   implementations differ. The metaphor frames uniformity as a feature
   (brand consistency) rather than rigidity.
 
-## Where It Breaks
+## Limits
 
 - **Templates in publishing are filled in by users; Template Methods
   are filled in by programmers** -- a form letter's blanks are

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Categories Are Containers
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - shapes-are-containers
 slug: categories-are-containers
 source_frame: containers
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 One of the most structurally consequential metaphors in human cognition.
 The container image schema -- with its inside, outside, and boundary --
@@ -58,7 +59,7 @@ The metaphor is so foundational that formal logic, set theory, and
 database design all inherit its architecture. Every SQL WHERE clause
 that tests whether a value is IN a set is running on this metaphor.
 
-## Where It Breaks
+## Limits
 
 - **Categories are not always sharply bounded** -- the container metaphor
   demands a definite inside and outside, but many real categories have

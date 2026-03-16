@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Change Is Motion
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - life-is-a-journey
 slug: change-is-motion
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 To change is to move. When something shifts from one state to another, we
 experience it as displacement -- something has gone from here to there. This
@@ -55,7 +56,7 @@ Key structural parallels:
   maps onto a former state, and distance from the origin measures the degree
   of change. Radical change is moving far; slight change is barely moving.
 
-## Where It Breaks
+## Limits
 
 - **Not all change involves a single trajectory** -- the motion metaphor
   works best for linear, directional change. But many important changes are

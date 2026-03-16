@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -14,11 +16,10 @@ related:
 - golden-hammer
 slug: latticework-of-mental-models
 source_frame: architecture-and-building
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 An architectural lattice -- a framework of interwoven strips forming a
 regular pattern of open and solid sections -- mapped onto the organization of
@@ -52,7 +53,7 @@ This is Munger's signature contribution to epistemology: not any single model
 but the argument that models must be organized into a supporting structure
 drawn from multiple disciplines.
 
-## Where It Breaks
+## Limits
 
 The lattice metaphor has appealing structural clarity that disguises several
 real problems.

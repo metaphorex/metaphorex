@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Long-Term Purposeful Activity Is a Journey
 provenance: osaka-master-metaphor-list
 related:
@@ -20,11 +22,10 @@ related:
 - action-is-motion
 slug: longterm-purposeful-activity-is-a-journey
 source_frame: journeys
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When activity is sustained and directed at a goal, we understand it as
 travel. Not just the outcome (a change that happens) but the doing itself
@@ -76,7 +77,7 @@ Key structural parallels:
   confirming you are on the right path and giving a sense of how far
   remains.
 
-## Where It Breaks
+## Limits
 
 - **Many valuable activities have no destination** -- the journey
   metaphor demands a goal. But some of the most important long-term

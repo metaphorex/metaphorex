@@ -1,4 +1,6 @@
 ---
+applies_to:
+- governance
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Compliance Is Tightness
 related:
 - compliance-is-following
 - having-control-is-up
 slug: compliance-is-tightness
 source_frame: embodied-experience
-target_frame: governance
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Tight rules bind. Loose rules give slack. This metaphor maps the bodily
 experience of physical constraint -- tension, binding, rigidity -- onto
@@ -50,7 +51,7 @@ The structural mappings are consistent and productive:
   Brazil) tolerate more deviation. The embodied metaphor has become a
   scientific framework.
 
-## Where It Breaks
+## Limits
 
 - **Tightness treats compliance as constraint, never as alignment** --
   the metaphor frames compliance entirely as restriction. It cannot

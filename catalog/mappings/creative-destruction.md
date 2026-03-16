@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
@@ -13,11 +15,10 @@ related:
 - the-map-is-not-the-territory
 slug: creative-destruction
 source_frame: destruction
-target_frame: economics
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A biological death-and-renewal cycle mapped onto market dynamics.
 Innovation does not merely compete with incumbents; it *destroys* them.
@@ -50,7 +51,7 @@ Key structural parallels:
   mapping makes this trade-off visible and forces the question of whose
   welfare counts.
 
-## Where It Breaks
+## Limits
 
 - **Not all destruction is creative** -- the metaphor implies that what
   follows destruction is necessarily better than what came before. But

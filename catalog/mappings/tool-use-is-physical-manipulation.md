@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,17 +8,16 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Tool Use Is Physical Manipulation
 related:
 - ai-is-a-tool
 slug: tool-use-is-physical-manipulation
 source_frame: embodied-experience
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When an AI model calls an API, executes code, or queries a database, we say
 it "uses a tool." The phrasing imports the full structure of embodied tool
@@ -52,7 +53,7 @@ Key structural parallels:
   at tool use" or "clumsy with tools," as if dexterity were a property that
   varies among agents.
 
-## Where It Breaks
+## Limits
 
 - **There is no hand** -- physical manipulation requires a body with
   proprioception, spatial awareness, and force feedback. An API call is

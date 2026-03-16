@@ -1,4 +1,6 @@
 ---
+applies_to:
+- ethics-and-morality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Morality Is Cleanliness
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - disgust-is-nausea
 slug: morality-is-cleanliness
 source_frame: cleanliness
-target_frame: ethics-and-morality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Sin is dirty. Virtue is clean. Guilt stains. Confession cleanses. MORALITY IS
 CLEANLINESS maps the physical experience of dirt, contamination, and washing
@@ -58,7 +59,7 @@ Key structural parallels:
   violations report feeling physically dirty and show increased desire to
   wash, as Zhong and Liljenquist (2006) demonstrated experimentally.
 
-## Where It Breaks
+## Limits
 
 - **Moral contamination is not physical** -- washing your hands does not
   actually restore moral standing, yet the metaphor is powerful enough that

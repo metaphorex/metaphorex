@@ -1,22 +1,24 @@
 ---
+applies_to:
+- computing
 author: agent:fshot
 categories:
 - linguistics
 - software-engineering
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Kernel
 related:
 - shell
 slug: kernel
 source_frame: horticulture
-target_frame: computing
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The innermost, essential part -- the seed inside the shell. In botany, the
 kernel is the soft, generative core of a nut or grain: remove it and the
@@ -42,7 +44,7 @@ protect and serve the kernel.
   above it. The metaphor correctly implies that the essential part is
   compact relative to the whole, even when the whole is enormous.
 
-## Where It Breaks
+## Limits
 
 - **Kernels don't grow** -- a botanical kernel germinates, sends out roots
   and shoots, and eventually becomes a plant that bears new kernels. An OS

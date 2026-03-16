@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-roles
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -14,11 +16,10 @@ related:
 - the-trickster
 slug: the-shapeshifter
 source_frame: mythology
-target_frame: social-roles
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The figure who changes form to suit the situation -- Proteus, the selkie,
 the kitsune, Mystique -- appears across mythologies not as a villain but
@@ -50,7 +51,7 @@ Key structural parallels:
   both sides simultaneously. This is structurally different from
   boundary-crossing and produces different organizational effects.
 
-## Where It Breaks
+## Limits
 
 - **This is not a Jungian archetype** -- despite appearing in projects
   that catalog Jungian archetypes, the Shapeshifter as a named archetype

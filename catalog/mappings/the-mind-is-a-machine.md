@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: The Mind Is A Machine
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - argument-is-war
 slug: the-mind-is-a-machine
 source_frame: manufacturing
-target_frame: mental-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The mind runs, stalls, cranks up, and breaks down. This ontological metaphor
 treats mental activity as mechanical operation, giving us a vocabulary for
@@ -54,7 +55,7 @@ contexts, where it licenses talk of "burnout," "breakdown," and "running on
 empty" -- mechanical failure states that carry less stigma than moral or
 spiritual diagnoses of the same conditions.
 
-## Where It Breaks
+## Limits
 
 - **Machines don't have purposes of their own** -- the metaphor implies that
   the mind is designed and operated by someone else. Who built it? Who operates

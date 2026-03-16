@@ -1,4 +1,6 @@
 ---
+applies_to:
+- shared-resources
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,19 +8,19 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Bus Factor
 related:
 - yak-shaving
 - bikeshedding
 slug: bus-factor
 source_frame: embodied-experience
-target_frame: shared-resources
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 "What happens if someone gets hit by a bus?" The question maps sudden,
 violent, random bodily harm onto knowledge loss in a team. The bus factor
@@ -57,7 +59,7 @@ Key structural parallels:
   colleague's death is precisely what forces the conversation about
   knowledge silos that everyone would rather avoid.
 
-## Where It Breaks
+## Limits
 
 - **People are not interchangeable** -- the bus factor implies that the
   problem is purely about headcount: if two people know the system

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-roles
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Responsibilities Are Possessions
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - action-is-control-over-possessions
 slug: responsibilities-are-possessions
 source_frame: economics
-target_frame: social-roles
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Responsibilities are things you have, hold, carry, and sometimes drop.
 This metaphor maps the economics of possession -- acquiring, bearing,
@@ -58,7 +59,7 @@ Key structural parallels:
   distributed duty by distributing the possessed object across multiple
   holders.
 
-## Where It Breaks
+## Limits
 
 - **Responsibilities are not discrete objects** -- the metaphor treats
   duties as countable, separable things. But responsibilities are often

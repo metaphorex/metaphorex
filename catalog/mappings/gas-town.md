@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -14,11 +16,10 @@ related:
 - ai-is-a-tool
 slug: gas-town
 source_frame: governance
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Steve Yegge's Mad Max-inspired architecture for multi-agent AI systems.
 In Gas Town, autonomous agents are citizens of a post-apocalyptic
@@ -63,7 +64,7 @@ Key structural parallels:
   metaphor makes resource management feel urgent rather than merely
   technical.
 
-## Where It Breaks
+## Limits
 
 - **Towns have persistent inhabitants; agent systems may not** -- in a
   town, citizens have continuous existence, memory, and relationships.

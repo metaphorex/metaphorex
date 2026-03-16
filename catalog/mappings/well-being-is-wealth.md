@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,18 +9,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Well-Being Is Wealth
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money
 slug: well-being-is-wealth
 source_frame: economics
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 We speak of well-being as though it were a bank account. People are "rich"
 in happiness or "poor" in spirit. Experiences "enrich" or "impoverish" a
@@ -52,7 +53,7 @@ The metaphor underwrites an entire self-help industry premised on the idea
 that well-being is a measurable quantity that responds to strategic
 intervention.
 
-## Where It Breaks
+## Limits
 
 - **Well-being is not fungible** -- wealth is interchangeable: a dollar
   earned from kindness buys the same things as a dollar earned from cruelty.

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Comparison of Properties Is Comparison of Possessions
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - comparison-of-properties-is-comparison-of-physical-properties
 slug: comparison-of-properties-is-comparison-of-possessions
 source_frame: economics
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When we compare people's abstract qualities, we talk as if we are
 comparing their inventories. She *has more* patience than he does. He
@@ -59,7 +60,7 @@ Key structural parallels:
   The evaluative layer comes from other metaphors (GOOD IS UP, MORE
   IS BETTER).
 
-## Where It Breaks
+## Limits
 
 - **Properties are not zero-sum** -- possessions are finite: if I give
   you my money, I have less. But if one person *has more* courage, that

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
-kind: conceptual-metaphor
+kind: metaphor
 name: People Are Machines
 provenance: lakoff-johnson-mwlb
 related:
@@ -15,11 +17,10 @@ related:
 - the-mind-is-a-brittle-object
 slug: people-are-machines
 source_frame: manufacturing
-target_frame: social-behavior
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Where THE MIND IS A MACHINE treats cognition as mechanical process, PEOPLE
 ARE MACHINES extends the mapping to the whole person -- body, behavior,
@@ -56,7 +57,7 @@ Key structural parallels:
   drive." Character traits become mechanical components that can be
   present, absent, strong, or weak.
 
-## Where It Breaks
+## Limits
 
 - **Machines are purpose-built; people are not** -- a machine has a designed
   function. "What are you for?" is a coherent question to ask a machine and

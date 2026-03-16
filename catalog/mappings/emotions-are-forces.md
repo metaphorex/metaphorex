@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Emotions Are Forces
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - emotional-stability-is-maintaining-position
 slug: emotions-are-forces
 source_frame: physics
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Emotions push you around. They knock you over, hold you back, pull you
 forward, and sweep you away. This metaphor maps the physics of forces --
@@ -54,7 +55,7 @@ Key structural parallels:
   impacts: they arrive with force, they contact the body, they leave
   damage. The experiencer is passive, receiving the blow.
 
-## Where It Breaks
+## Limits
 
 - **Emotions are not external to the agent** -- forces in physics come from
   outside the object they act on. But emotions arise within the person.

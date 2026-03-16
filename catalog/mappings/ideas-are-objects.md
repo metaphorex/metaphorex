@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Objects
 provenance: lakoff-johnson-mwlb
 related:
@@ -17,11 +19,10 @@ related:
 - ideas-are-light-sources
 slug: ideas-are-objects
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas are things you can hold, turn over, take apart, and give away.
 This is the foundational ontological metaphor for intellectual life --
@@ -64,7 +65,7 @@ Almost every verb English speakers use for intellectual operations is
 borrowed from physical manipulation: grasp, hold, turn over, pick up,
 put down, break apart, piece together, toss around, hammer out.
 
-## Where It Breaks
+## Limits
 
 - **Ideas are not bounded** -- physical objects have clear boundaries.
   Ideas do not. Where does one idea end and another begin? The object

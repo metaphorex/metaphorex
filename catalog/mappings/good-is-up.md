@@ -1,4 +1,6 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -9,7 +11,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Good Is Up; Bad Is Down
 provenance: lakoff-johnson-mwlb
 related:
@@ -19,11 +21,10 @@ related:
 - having-control-is-up
 slug: good-is-up
 source_frame: embodied-experience
-target_frame: embodied-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 This is the orientational metaphor that unifies the others. HAPPY IS UP,
 HEALTHY IS UP, CONSCIOUS IS UP, HAVING CONTROL IS UP, RATIONAL IS UP,
@@ -64,7 +65,7 @@ alive is up. Because all these positively valued states are independently
 mapped onto "up," the generalization GOOD IS UP emerges as a coherent
 superordinate metaphor.
 
-## Where It Breaks
+## Limits
 
 - **Competing vertical metaphors clash** -- GOOD IS UP coexists with
   HUMBLE IS DOWN (positive) and PROUD IS UP (sometimes negative). "Down

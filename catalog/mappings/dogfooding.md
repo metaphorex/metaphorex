@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,17 +8,17 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Dogfooding
 related: []
 slug: dogfooding
 source_frame: animal-husbandry
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Eating your own dog food -- the practice of using your own product
 internally before selling it to customers. The metaphor maps a trust
@@ -51,7 +53,7 @@ Key structural parallels:
   metaphor gives this argument a memorable, slightly self-deprecating
   name that disarms skepticism through humor.
 
-## Where It Breaks
+## Limits
 
 - **Developers are not representative users** -- the team that builds
   a product has deep technical expertise, knows the workarounds, and

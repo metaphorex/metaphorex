@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - the-strategy-pattern
 slug: the-visitor-pattern
 source_frame: social-roles
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A visitor is someone who arrives from outside. They come to your house,
 your hospital room, your office -- and they bring capabilities the
@@ -56,7 +57,7 @@ Key structural parallels:
   determines traversal order. The metaphor naturalizes the idea
   that the data structure, not the operation, controls navigation.
 
-## Where It Breaks
+## Limits
 
 - **Real visitors choose where to go; software visitors are dragged
   through every room** -- a house guest can decline the basement

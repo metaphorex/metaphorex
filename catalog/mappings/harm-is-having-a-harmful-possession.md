@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Harm Is Having a Harmful Possession
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - action-is-control-over-possessions
 slug: harm-is-having-a-harmful-possession
 source_frame: economics
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To be harmed is to have something bad. This metaphor maps the possession
 of a harmful object onto the experience of harm, turning abstract suffering
@@ -60,7 +61,7 @@ Key structural parallels:
   change hands. This makes harm feel contagious in a commercial sense --
   it is redistributed, not just experienced.
 
-## Where It Breaks
+## Limits
 
 - **Not all harm is possessable** -- the metaphor requires harm to be a
   discrete, bounded thing you can hold. But many forms of harm are diffuse

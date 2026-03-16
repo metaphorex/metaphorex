@@ -1,21 +1,23 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - linguistics
 - cognitive-science
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Muscle
 related: []
 slug: muscle
 source_frame: animal-behavior
-target_frame: embodied-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Latin musculus means "little mouse." Ancient Greek and Roman anatomists
 watched the bicep flex beneath the skin and saw a small mouse running
@@ -47,7 +49,7 @@ spread early across Mediterranean languages.
   abstract force -- shows how dead metaphors become raw material
   for new metaphors, each layer burying the previous one deeper.
 
-## Where It Breaks
+## Limits
 
 - **Mice are autonomous; muscles are not** -- a mouse moves by its own
   volition, choosing direction and speed. A muscle contracts only when

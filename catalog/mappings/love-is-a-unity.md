@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-kind: conceptual-metaphor
+kind: metaphor
 name: Love Is a Unity
 provenance: lakoff-johnson-mwlb
 related:
@@ -15,11 +17,10 @@ related:
 - love-is-madness
 slug: love-is-a-unity
 source_frame: embodied-experience
-target_frame: love-and-relationships
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Two become one. The metaphor maps the physical experience of wholeness and
 fragmentation onto the emotional experience of romantic bonding and
@@ -52,7 +53,7 @@ Key structural parallels:
   emotional compatibility. The metaphor implies that for each person
   there is a corresponding shape that matches.
 
-## Where It Breaks
+## Limits
 
 - **Unity erases individuality** -- if two become one, who is the one?
   The metaphor has no good account of individual identity within a

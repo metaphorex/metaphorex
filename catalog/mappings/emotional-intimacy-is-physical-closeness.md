@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Emotional Intimacy Is Physical Closeness
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - emotions-are-entities-within-a-person
 slug: emotional-intimacy-is-physical-closeness
 source_frame: embodied-experience
-target_frame: love-and-relationships
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Close friends. A distant relative. Growing apart. This metaphor maps
 physical distance between bodies onto emotional distance between people.
@@ -60,7 +61,7 @@ Key structural parallels:
   risk because proximity in the physical domain means vulnerability
   to contact, to being seen, to being touched.
 
-## Where It Breaks
+## Limits
 
 - **Physical closeness is not emotional closeness** -- commuters on a
   crowded train are physically closer than most married couples during

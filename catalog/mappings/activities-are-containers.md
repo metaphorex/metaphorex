@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,18 +9,17 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Activities Are Containers
 provenance: lakoff-johnson-mwlb
 related:
 - states-are-locations
 slug: activities-are-containers
 source_frame: containers
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 We structure activities as bounded regions you can be inside or outside of.
 This is one of Lakoff and Johnson's ontological metaphors -- the container
@@ -46,7 +47,7 @@ The metaphor works because embodied experience provides containers everywhere
 -- rooms, buildings, fields, enclosures. Activities inherit this spatial logic
 wholesale.
 
-## Where It Breaks
+## Limits
 
 - **Activities don't have walls** -- the container metaphor implies crisp
   boundaries, but most activities bleed into each other. When does "being in

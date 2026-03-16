@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -13,11 +15,10 @@ related:
 - the-map-is-not-the-territory
 slug: social-proof
 source_frame: natural-selection
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Herd behavior -- evolved for survival in environments where independent
 information-gathering was expensive or fatal -- mapped onto modern
@@ -52,7 +53,7 @@ Key structural parallels:
   culture, viral phenomena. The structure is identical: positive feedback
   loop driven by observation of others.
 
-## Where It Breaks
+## Limits
 
 - **Modern environments are not ancestral ones** -- running when
   everyone runs was adaptive on the savanna. Buying when everyone buys

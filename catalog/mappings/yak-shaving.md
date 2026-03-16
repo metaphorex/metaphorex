@@ -1,22 +1,24 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Yak Shaving
 related:
 - bottleneck
 slug: yak-shaving
 source_frame: animal-husbandry
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 You set out to deploy a feature. But first you need to update a
 dependency. But that dependency requires a newer compiler. But the newer
@@ -50,7 +52,7 @@ Key structural parallels:
   The metaphor's absurdity makes it memorable enough to function as an
   interrupt.
 
-## Where It Breaks
+## Limits
 
 - **Yaks are optional; dependencies are not** -- real yak hair has no
   connection to your life goals. But real dependency chains in software

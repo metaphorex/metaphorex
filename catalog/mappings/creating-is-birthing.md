@@ -1,4 +1,6 @@
 ---
+applies_to:
+- creative-process
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Creating Is Birthing
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - ideas-are-people
 slug: creating-is-birthing
 source_frame: reproduction
-target_frame: creative-process
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To create is to give birth. This metaphor maps the biological process of
 conception, gestation, labor, and delivery onto the production of new things
@@ -61,7 +62,7 @@ Key structural parallels:
   metaphor naturalizes creative capacity as a biological endowment
   rather than a cultivated skill.
 
-## Where It Breaks
+## Limits
 
 - **Birthing implies a single creator** -- the metaphor centers on a
   mother-child relationship, which makes collaborative creation

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- vision
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Seeing Is Touching
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - the-visual-field-is-a-bounded-region
 slug: seeing-is-touching
 source_frame: embodied-experience
-target_frame: vision
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Vision as contact. The eyes do not passively receive light -- they reach
 out and touch the world. This metaphor reverses the direction of
@@ -52,7 +53,7 @@ Key structural parallels:
   a glance." "Shoot a look." The eyes project force outward, like a hand
   extending to point or a projectile launched at a target.
 
-## Where It Breaks
+## Limits
 
 - **Vision is bidirectional; touch is not symmetric** -- when you touch
   something, you feel it and it feels you. When you see something, it

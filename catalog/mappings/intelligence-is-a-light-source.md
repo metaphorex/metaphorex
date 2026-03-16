@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Intelligence Is a Light Source
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - understanding-is-seeing
 slug: intelligence-is-a-light-source
 source_frame: vision
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Where IDEAS ARE LIGHT-SOURCES maps luminosity onto intellectual products,
 this metaphor maps it onto the cognitive faculty itself. An intelligent
@@ -52,7 +53,7 @@ Key structural parallels:
   treated as combustion that consumes the person, a mapping shared with
   candle and flame metaphors for life.
 
-## Where It Breaks
+## Limits
 
 - **Intelligence is not a single dimension** -- light sources vary mainly
   in brightness, color temperature, and reach. Intelligence varies in kind:

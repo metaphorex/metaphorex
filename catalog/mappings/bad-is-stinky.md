@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Bad Is Stinky
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - disgust-is-nausea
 slug: bad-is-stinky
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Bad things stink. A "rotten" deal, a "foul" mood, a plan that "smells
 fishy," a situation that "reeks" of corruption. This primary metaphor
@@ -55,7 +56,7 @@ Key structural parallels:
   the broader MORALITY IS PURITY system, where moral goodness is
   mapped onto sensory cleanliness and purity.
 
-## Where It Breaks
+## Limits
 
 - **Olfactory evaluation is culturally variable** -- what smells bad
   is not universal. Fermented foods (kimchi, durian, blue cheese,

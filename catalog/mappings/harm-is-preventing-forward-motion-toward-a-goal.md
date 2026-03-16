@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Harm Is Preventing Forward Motion Toward a Goal
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - harm-is-causing-functional-objects-to-be-nonfunctional
 slug: harm-is-preventing-forward-motion-toward-a-goal
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 To harm someone is to stop them from getting where they are going. This
 metaphor builds on the Event Structure system's foundational mapping --
@@ -65,7 +66,7 @@ Key structural parallels:
   and remedy as clearing the path -- not healing a wound but reopening
   a route.
 
-## Where It Breaks
+## Limits
 
 - **Harm without a goal is invisible** -- the metaphor requires a
   destination to function. If someone is harmed but had no clear

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- embodied-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: The Body Is a Container for the Self
 provenance: osaka-master-metaphor-list
 related:
@@ -18,11 +20,10 @@ related:
 - the-mind-is-a-body
 slug: the-body-is-a-container-for-the-self
 source_frame: containers
-target_frame: embodied-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The body is a vessel, and the self -- the thinking, feeling, willing
 subject -- is something contained inside it. This metaphor establishes
@@ -60,7 +61,7 @@ Key structural parallels:
   a failure of containment -- the inner contents leak or explode through
   the boundary.
 
-## Where It Breaks
+## Limits
 
 - **The self is not separable from the body** -- the container metaphor
   implies that the self could exist independently of its container, the

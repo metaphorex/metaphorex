@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: States Are Shapes
 provenance: osaka-master-metaphor-list
 related:
 - states-are-locations
 slug: states-are-shapes
 source_frame: geometry
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Things get bent out of shape when they go wrong. A person in good
 condition is in good form. An organization can be whipped into shape.
@@ -52,7 +53,7 @@ Key structural parallels:
   Education "forms" character. The metaphor maps causal influence onto
   physical manipulation of material.
 
-## Where It Breaks
+## Limits
 
 - **Many states have no natural shape** -- happiness, confusion,
   political stability, and economic recession have no spatial form.

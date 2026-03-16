@@ -1,4 +1,6 @@
 ---
+applies_to:
+- physics
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: A Force Is a Moving Object
 provenance: osaka-master-metaphor-list
 related:
@@ -19,11 +21,10 @@ related:
 - difficulties-are-impediments-to-motion
 slug: a-force-is-a-moving-object
 source_frame: embodied-experience
-target_frame: physics
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Forces come at you. They hit you, push you, knock you over, sweep you
 along. This metaphor takes one of the most abstract concepts in physics
@@ -61,7 +62,7 @@ moving objects:
   moving objects, then agents can propel them. This extends the metaphor
   into causation: to exert force is to throw something at a target.
 
-## Where It Breaks
+## Limits
 
 - **Forces are not objects** -- in physics, a force is an interaction
   between two bodies, not a third entity traveling between them. Gravity

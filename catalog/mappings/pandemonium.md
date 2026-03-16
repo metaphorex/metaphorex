@@ -1,23 +1,25 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - social-dynamics
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Pandemonium
 related:
 - augean-stables
 - damocles-sword
 slug: pandemonium
 source_frame: mythology
-target_frame: social-behavior
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 John Milton coined "Pandaemonium" in *Paradise Lost* (1667) as the name
 of the capital city of Hell -- literally "all demons" in Greek
@@ -56,7 +58,7 @@ architecture is gone. Only the noise remains.
   as its etymology. It functions as a pure synonym for "chaos" or
   "uproar," with no theological residue.
 
-## Where It Breaks
+## Limits
 
 - **Milton's Pandaemonium was orderly, not chaotic** -- this is the
   deepest irony. The Pandaemonium of *Paradise Lost* is an organized

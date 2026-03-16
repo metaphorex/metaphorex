@@ -1,11 +1,13 @@
 ---
+applies_to:
+- creative-process
 author: fshot
 categories:
 - systems-thinking
 - arts-and-culture
 contributors: []
 created: '2026-03-07'
-kind: conceptual-metaphor
+kind: metaphor
 name: Creative Process Is Construction
 provenance: eno-composers-as-gardeners
 related:
@@ -13,11 +15,10 @@ related:
 - creating-is-making
 slug: creative-process-is-construction
 source_frame: architecture-and-building
-target_frame: creative-process
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 The default metaphor for making things. So embedded it barely registers
 as metaphor. Of course you *build* software, *construct* an argument,
@@ -47,7 +48,7 @@ Key structural parallels:
   The construction frame naturally decomposes complex work into roles
   with clear responsibilities.
 
-## Where It Breaks
+## Limits
 
 - **Construction assumes you know what you're building** — this is the
   metaphor's deepest limitation. A building that "discovers its purpose

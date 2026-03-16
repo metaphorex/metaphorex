@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Receiving Serious Thought Is Being On The Mind
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - understanding-is-seeing
 slug: receiving-serious-thought-is-being-on-the-mind
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When something occupies our serious attention, it is on our mind. The
 mind is a surface -- a table, a desk, a platform -- and the topics we
@@ -55,7 +56,7 @@ Key structural parallels:
   mind." The carrying capacity of the surface is finite, and exceeding
   it produces stress, just as overloading a shelf produces strain.
 
-## Where It Breaks
+## Limits
 
 - **Thought is not passive bearing** -- in the physical source domain,
   a surface simply supports what is placed on it. But serious thought

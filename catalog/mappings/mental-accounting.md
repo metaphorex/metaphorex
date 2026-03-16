@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Mental Accounting
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - moral-accounting
 slug: mental-accounting
 source_frame: economics
-target_frame: mental-experience
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 People do not experience their mental and emotional lives as an undifferentiated
 stream. They partition it into accounts. You keep a running tally of favors
@@ -55,7 +56,7 @@ Key structural parallels:
   already "booked" to the entertainment account. The accounting metaphor
   creates these asymmetries.
 
-## Where It Breaks
+## Limits
 
 - **Experiences are not fungible** -- the accounting frame treats experiences
   as interchangeable units within an account. But the joy of a child's first

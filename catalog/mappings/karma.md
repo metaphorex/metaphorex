@@ -1,22 +1,24 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - social-dynamics
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Karma
 related:
 - moral-accounting
 slug: karma
 source_frame: mythology
-target_frame: social-behavior
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 In Hindu and Buddhist philosophy, karma (Sanskrit: *karman*, "action" or
 "deed") is the principle that actions produce consequences that shape
@@ -59,7 +61,7 @@ eventually be repaid in kind.
   and quantified. The metaphor has been reified into an actual
   mechanism.
 
-## Where It Breaks
+## Limits
 
 - **The original doctrine is not about punishment** -- in Hindu and
   Buddhist philosophy, karma is not a system of reward and punishment

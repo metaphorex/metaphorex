@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Problem Is a Tangle
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - difficulties-are-impediments-to-motion
 slug: problem-is-a-tangle
 source_frame: embodied-experience
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A problem is a tangle of threads, ropes, or cords that have become
 knotted and intertwined. To solve it is to untangle it -- to find the
@@ -61,7 +62,7 @@ Key structural parallels:
   and bind). The metaphor localizes difficulty at points of
   intersection.
 
-## Where It Breaks
+## Limits
 
 - **Not all problems have identifiable strands** -- the tangle metaphor
   requires discrete, continuous elements that can in principle be

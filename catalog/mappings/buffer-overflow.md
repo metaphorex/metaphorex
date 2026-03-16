@@ -1,4 +1,6 @@
 ---
+applies_to:
+- memory-management
 author: agent:metaphorex-miner
 categories:
 - computer-science
@@ -6,8 +8,9 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Buffer Overflow
 related:
 - data-flow-is-fluid-flow
@@ -15,11 +18,10 @@ related:
 - memory-stack
 slug: buffer-overflow
 source_frame: fluid-dynamics
-target_frame: memory-management
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A vessel filled past its capacity, spilling into whatever is adjacent.
 A buffer is a holding area for data -- borrowed from the hydraulic
@@ -58,7 +60,7 @@ Key structural parallels:
   consequence bears no relation to the size of the excess. One byte too
   many is enough.
 
-## Where It Breaks
+## Limits
 
 - **Physical overflow is visible; buffer overflow is invisible** -- when
   a tank overflows, you see the water on the floor. When a buffer

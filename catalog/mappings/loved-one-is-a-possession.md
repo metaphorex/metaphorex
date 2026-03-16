@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - psychology
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Loved One Is A Possession
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - love-is-a-unity
 slug: loved-one-is-a-possession
 source_frame: economics
-target_frame: love-and-relationships
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 People as property. The metaphor maps ownership onto romantic attachment:
 the beloved is something you have, can lose, can fight to keep, and can
@@ -58,7 +59,7 @@ Key structural parallels:
   possession metaphors: giving away the bride, taking a wife, belonging
   to someone.
 
-## Where It Breaks
+## Limits
 
 - **People are not property** -- the most fundamental failure. The entire
   metaphor rests on treating a person with their own desires, agency, and

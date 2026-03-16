@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Understanding Is Grasping
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - knowing-is-seeing
 slug: understanding-is-grasping
 source_frame: embodied-experience
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A primary metaphor grounded in the infant's experience of manual
 manipulation: when you physically grasp an object, you gain control over
@@ -55,7 +56,7 @@ over it. Together they account for the two dominant models of knowledge
 in Western epistemology -- the contemplative (seeing) and the practical
 (handling).
 
-## Where It Breaks
+## Limits
 
 - **Grasping is possessive; understanding need not be** -- the metaphor
   makes comprehension feel like ownership. You "have" the concept, you

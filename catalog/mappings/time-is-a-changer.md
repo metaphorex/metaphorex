@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is a Changer
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - time-is-a-pursuer
 slug: time-is-a-changer
 source_frame: causal-agent
-target_frame: time-and-temporality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Time does not merely pass -- it *acts*. It alters, transforms, erodes,
 heals, and destroys. TIME IS A CHANGER personifies temporal passage as an
@@ -49,7 +50,7 @@ Key structural parallels:
   carving features into the world through patient, deliberate work. This
   variant aestheticizes entropy, making geological erosion feel intentional.
 
-## Where It Breaks
+## Limits
 
 - **Time does not cause anything** -- this is the deepest problem. Rust
   causes iron to decay, grief causes emotional change, erosion causes

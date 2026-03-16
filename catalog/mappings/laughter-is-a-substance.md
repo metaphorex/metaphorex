@@ -1,4 +1,6 @@
 ---
+applies_to:
+- humor
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Laughter Is a Substance
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - intense-emotions-are-heat
 slug: laughter-is-a-substance
 source_frame: fluid-dynamics
-target_frame: humor
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Laughter fills rooms, pours out of people, and bubbles up from within.
 This metaphor takes the involuntary vocal and bodily response of laughing
@@ -58,7 +59,7 @@ Key structural parallels:
   allows it to be transferred, distributed, and given to others, like
   food or drink at a gathering.
 
-## Where It Breaks
+## Limits
 
 - **Laughter is an event, not a thing** -- laughing is something you do,
   a muscular contraction of the diaphragm paired with vocalization. It

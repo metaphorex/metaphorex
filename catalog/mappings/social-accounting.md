@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Social Accounting
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - time-is-money
 slug: social-accounting
 source_frame: economics
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Social life keeps a ledger. You owe someone a favor. They repay your
 kindness. A relationship has a balance that can tip too far in one
@@ -54,7 +55,7 @@ Key structural parallels:
   If they cannot or will not, the debt festers. "He still hasn't paid
   for what he did." Forgiveness, in this frame, is writing off a debt.
 
-## Where It Breaks
+## Limits
 
 - **Not all social acts are commensurable** -- the accounting frame
   assumes that different social goods can be measured on a single

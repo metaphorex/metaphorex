@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Self-Initiated Change Of State Is Self-Propelled Motion
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - states-are-locations
 slug: self-initiated-change-of-state-is-self-propelled-motion
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When you change yourself, you move yourself. This metaphor maps the
 bodily experience of self-propelled motion -- walking, running,
@@ -62,7 +63,7 @@ Key structural parallels:
   to move. The metaphor makes stubbornness feel like physical
   immobility -- a body planted in place.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor requires an autonomous agent** -- self-propelled
   motion presupposes a mover with legs, muscles, and the will to

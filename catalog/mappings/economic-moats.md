@@ -1,4 +1,6 @@
 ---
+applies_to:
+- competition
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
@@ -12,11 +14,10 @@ related:
 - survival-of-the-fittest
 slug: economic-moats
 source_frame: war
-target_frame: competition
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A medieval castle moat -- a water-filled trench surrounding a fortification --
 mapped onto the structural advantages that protect a business from competition.
@@ -46,7 +47,7 @@ Buffett coined the term; Munger refined the analytical framework for
 classifying moat types and assessing moat durability. Together they made
 "moat analysis" a standard tool in value investing.
 
-## Where It Breaks
+## Limits
 
 The moat metaphor carries serious structural distortions that practitioners
 must actively resist.
@@ -124,7 +125,7 @@ related:
   - the-map-is-not-the-territory
 ---
 
-## What It Brings
+## Transfers
 
 Economic incentive theory mapped onto cognition: people do not merely
 respond to incentives -- incentives reshape what they sincerely believe.
@@ -159,7 +160,7 @@ Munger ranked this first among his 25 causes of human misjudgment:
 "Never, ever think about something else when you should be thinking
 about the power of incentives."
 
-## Where It Breaks
+## Limits
 
 - **Over-cynicism** -- if every professional opinion is suspected of
   being incentive-driven, expertise becomes impossible to trust. Your

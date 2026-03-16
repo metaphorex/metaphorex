@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Difficulties Are Impediments to Motion
 provenance: lakoff-johnson-mwlb
 related:
@@ -19,11 +21,10 @@ related:
 - problems-are-puzzles
 slug: difficulties-are-impediments-to-motion
 source_frame: embodied-experience
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Difficulties are things in the way. A problem is not an abstract state
 of affairs -- it is a rock in the road, a wall across the path, a weight
@@ -61,7 +62,7 @@ Key structural parallels:
   onto taking an alternative route -- more time, more effort, but
   eventual progress.
 
-## Where It Breaks
+## Limits
 
 - **Not all difficulties are spatial** -- the metaphor forces every
   problem into the shape of a physical obstruction. But some difficulties

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Prompt Engineering Is Programming
 related:
 - ai-is-a-tool
 - neural-network-is-a-brain
 slug: prompt-engineering-is-programming
 source_frame: software-engineering
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Crafting prompts for large language models described as "engineering" --
 a deterministic discipline applied to a stochastic system. The metaphor
@@ -56,7 +57,7 @@ Key structural parallels:
   metaphor suggests that good prompts, like good code, can be modularized,
   versioned, shared, and maintained as engineering artifacts.
 
-## Where It Breaks
+## Limits
 
 - **Programming is deterministic; prompting is not** -- the same prompt
   sent to the same model at different times can produce different outputs.

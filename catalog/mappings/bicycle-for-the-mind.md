@@ -1,4 +1,6 @@
 ---
+applies_to:
+- computing
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,18 +8,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Bicycle for the Mind
 related:
 - ai-is-a-tool
 - ai-is-a-prosthesis
 slug: bicycle-for-the-mind
 source_frame: embodied-experience
-target_frame: computing
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Steve Jobs described the computer as "a bicycle for the mind" -- a device
 that amplifies human cognitive effort the way a bicycle amplifies human
@@ -57,7 +58,7 @@ Key structural parallels:
   ideal computer should be as transparent and responsive as a bicycle,
   not as complex and opaque as an automobile.
 
-## Where It Breaks
+## Limits
 
 - **AI pedals itself** -- the bicycle metaphor held for spreadsheets,
   word processors, and graphic design tools, where the human provided

@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -15,11 +17,10 @@ related:
 - creative-process-is-construction
 slug: the-builder-pattern
 source_frame: architecture-and-building
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Call something a "builder" and you import the construction site into object
 creation. A builder works from a plan, assembles components in a deliberate
@@ -58,7 +59,7 @@ Key structural parallels:
   concrete builder for HTML and another for PDF, both following the same
   assembly sequence.
 
-## Where It Breaks
+## Limits
 
 - **Buildings have physics; objects don't** -- a real builder must respect
   gravity, load-bearing requirements, and material constraints. Method

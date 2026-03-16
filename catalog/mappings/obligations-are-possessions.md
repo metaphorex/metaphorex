@@ -1,4 +1,6 @@
 ---
+applies_to:
+- ethics-and-morality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Obligations Are Possessions
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - properties-are-possessions
 slug: obligations-are-possessions
 source_frame: economics
-target_frame: ethics-and-morality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 You *have* obligations. You *owe* duties. You *carry* responsibilities. You
 can *give* your word and *take on* commitments. OBLIGATIONS ARE POSSESSIONS
@@ -65,7 +66,7 @@ Key structural parallels:
   (abandoning or shirking, as if dropping something you should be
   carrying).
 
-## Where It Breaks
+## Limits
 
 - **Obligations are not transferable the way possessions are** -- you can
   give away a book and no longer have it. But many obligations cannot be

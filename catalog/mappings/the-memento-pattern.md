@@ -1,4 +1,6 @@
 ---
+applies_to:
+- object-oriented-design
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -13,11 +15,10 @@ related:
 - the-state-pattern
 slug: the-memento-pattern
 source_frame: social-roles
-target_frame: object-oriented-design
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A memento is a keepsake -- a pressed flower, a ticket stub, a
 photograph -- an object kept specifically because it preserves a
@@ -56,7 +57,7 @@ Key structural parallels:
   multiple snapshots for multi-level undo. The metaphor makes this
   accumulation feel organized rather than wasteful.
 
-## Where It Breaks
+## Limits
 
 - **Real mementos are partial and subjective; software mementos are
   complete** -- a photograph captures one angle, one instant, filtered

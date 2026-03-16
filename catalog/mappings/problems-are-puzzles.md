@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,17 +9,16 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Problems Are Puzzles
 provenance: lakoff-johnson-mwlb
 related: []
 slug: problems-are-puzzles
 source_frame: puzzles-and-games
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 We understand abstract problems through the concrete experience of solving
 puzzles -- manipulating pieces until they fit, finding the hidden pattern,
@@ -48,7 +49,7 @@ Key structural parallels:
 The metaphor is enormously productive in mathematics, engineering, and
 detective fiction -- anywhere the pleasure of the click matters.
 
-## Where It Breaks
+## Limits
 
 - **Most problems don't have solutions** -- puzzles are designed to be
   solvable. Real problems (poverty, climate change, organizational

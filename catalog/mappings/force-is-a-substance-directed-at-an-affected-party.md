@@ -1,4 +1,6 @@
 ---
+applies_to:
+- physics
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Force Is a Substance Directed at an Affected Party
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - obligations-are-forces
 slug: force-is-a-substance-directed-at-an-affected-party
 source_frame: fluid-dynamics
-target_frame: physics
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Forces flow. They pour into a situation, wash over people, flood a room.
 Where the sibling metaphor A FORCE IS A MOVING OBJECT treats force as a
@@ -60,7 +61,7 @@ moving-object mapping does not:
   projectile in transit, the substance metaphor often foregrounds the
   source as an emitter that continuously produces force.
 
-## Where It Breaks
+## Limits
 
 - **Substances do not have intentions** -- the metaphor makes force
   feel like something that merely flows in a direction, obscuring the

@@ -1,23 +1,25 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Lava Flow
 related:
 - technical-debt
 - spaghetti-code
 slug: lava-flow
 source_frame: natural-phenomena
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Volcanic lava flows as a liquid, reshaping the landscape, then cools into
 basalt -- immovable, permanent, part of the terrain. The metaphor maps
@@ -55,7 +57,7 @@ Key structural parallels:
   geological cross-section: you can date the strata by the JavaScript
   framework they use.
 
-## Where It Breaks
+## Limits
 
 - **Lava is natural; lava-flow code is human-made** -- volcanic eruptions
   are not anyone's fault. Lava-flow code is the result of human decisions:

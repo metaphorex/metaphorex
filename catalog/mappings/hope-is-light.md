@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Hope Is Light
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - ideas-are-light-sources
 slug: hope-is-light
 source_frame: vision
-target_frame: mental-experience
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Hope is illumination in darkness. This metaphor maps the structure of
 light and vision -- brightness, visibility, guidance, warmth, and the
@@ -54,7 +55,7 @@ Key structural parallels:
   without hope you flounder. The metaphor makes hope instrumental: it is
   not just a feeling but a precondition for purposeful movement.
 
-## Where It Breaks
+## Limits
 
 - **Light is impersonal; hope is not** -- light illuminates everything in
   its path equally and indifferently. Hope is deeply personal, shaped by

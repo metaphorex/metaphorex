@@ -1,4 +1,6 @@
 ---
+applies_to:
+- competition
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Competition Is War
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - love-is-war
 slug: competition-is-war
 source_frame: war
-target_frame: competition
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 When competition becomes war, the stakes escalate from prizes to survival.
 Competitors are no longer rivals sharing a game -- they are enemies seeking
@@ -54,7 +55,7 @@ Key structural parallels:
   ammunition." A well-funded competitor has "superior firepower." The
   metaphor makes resource allocation feel like arming for battle.
 
-## Where It Breaks
+## Limits
 
 - **Wars aim to destroy the enemy; competition usually doesn't** -- the
   most dangerous import of the war frame is its logic of annihilation. In

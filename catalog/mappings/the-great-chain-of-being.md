@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-roles
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -13,11 +15,10 @@ provenance: osaka-master-metaphor-list
 related: []
 slug: the-great-chain-of-being
 source_frame: ontological-hierarchy
-target_frame: social-roles
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 A folk model of the universe as a vertical hierarchy: God above humans
 above animals above plants above inorganic matter. Each level possesses
@@ -52,7 +53,7 @@ Key structural parallels:
   demoting them down the chain. The Great Chain is the background
   knowledge that makes both moves intelligible.
 
-## Where It Breaks
+## Limits
 
 - **Evolution destroyed the chain's foundation** -- Darwin replaced the
   static hierarchy with a branching tree. Species are not ranked above

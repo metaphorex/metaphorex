@@ -1,4 +1,6 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -15,11 +17,10 @@ related:
 - latticework-of-mental-models
 slug: catalysts
 source_frame: physics
-target_frame: social-behavior
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Chemical catalysis mapped onto change agency in human systems. A catalyst
 is a substance that accelerates a chemical reaction without being consumed
@@ -56,7 +57,7 @@ Key structural parallels:
   no amount of catalytic leadership can force a change that the system's
   fundamentals do not support.
 
-## Where It Breaks
+## Limits
 
 - **People are consumed** -- the chemistry is clean: the catalyst emerges
   unchanged. Human catalysts are rarely so fortunate. The reformer who

@@ -1,12 +1,15 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Shotgun Debugging
 related:
 - rubber-duck-debugging
@@ -14,11 +17,10 @@ related:
 - cargo-cult-programming
 slug: shotgun-debugging
 source_frame: war
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A shotgun fires a wide spray of pellets rather than a single aimed
 bullet. You do not need to know exactly where the target is; you
@@ -61,7 +63,7 @@ Key structural parallels:
   (patient, targeted). The weapon taxonomy creates a vocabulary for
   debugging strategies ranked by precision.
 
-## Where It Breaks
+## Limits
 
 - **Shotguns are effective at close range; shotgun debugging often is
   not** -- a real shotgun is a devastating weapon within its intended

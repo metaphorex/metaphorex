@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -15,11 +17,10 @@ related:
 - the-map-is-not-the-territory
 slug: checklist-approach
 source_frame: aviation
-target_frame: causal-reasoning
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The disciplined use of checklists in aviation and surgery -- where simple
 lists reliably prevent complex failures -- mapped onto investment analysis
@@ -74,7 +75,7 @@ Key structural parallels:
   The checklist ensures that enthusiasm about one criterion does not
   cause neglect of another.
 
-## Where It Breaks
+## Limits
 
 - **A checklist cannot capture what matters most** -- the most important
   factors in a decision are often qualitative, contextual, and resistant

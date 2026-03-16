@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-abstraction
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -7,18 +9,17 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: A Place to Wait
 related:
 - the-facade-pattern
 - data-flow-is-fluid-flow
 slug: a-place-to-wait
 source_frame: architecture-and-building
-target_frame: software-abstraction
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Alexander's pattern #150 observes that whenever people must wait --
 at a doctor's office, a bus stop, a theater lobby -- the quality of
@@ -60,7 +61,7 @@ Key structural parallels:
   the waiting infrastructure itself needs to be designed for expected
   load.
 
-## Where It Breaks
+## Limits
 
 - **Architectural waiting rooms are physical spaces; software waits
   are temporal states** -- you can walk around a lobby, sit down, look

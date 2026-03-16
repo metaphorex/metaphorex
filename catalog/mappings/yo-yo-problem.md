@@ -1,4 +1,6 @@
 ---
+applies_to:
+- software-programs
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -6,19 +8,19 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Yo-Yo Problem
 related:
 - spaghetti-code
 - baklava-code
 slug: yo-yo-problem
 source_frame: puzzles-and-games
-target_frame: software-programs
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 A yo-yo goes down, comes back up, goes down again. The motion is
 repetitive, oscillatory, and -- crucially -- the yo-yo never gets
@@ -57,7 +59,7 @@ Key structural parallels:
   cognitive failure: you are not confused because the code is complex;
   you are dizzy because you have been bouncing up and down.
 
-## Where It Breaks
+## Limits
 
 - **Yo-yos are fun** -- the toy is associated with play, skill, and
   satisfaction. The coding experience the metaphor describes is none of

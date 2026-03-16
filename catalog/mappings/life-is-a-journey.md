@@ -1,4 +1,6 @@
 ---
+applies_to:
+- life-course
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Life Is a Journey
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - argument-is-war
 slug: life-is-a-journey
 source_frame: journeys
-target_frame: life-course
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Life has a starting point, a destination, a path, crossroads, detours,
 and dead ends. This is one of the most pervasive and deeply structured
@@ -61,7 +62,7 @@ Key structural parallels:
   in a life are fellow travelers who walk alongside for a while and then
   go their separate ways.
 
-## Where It Breaks
+## Limits
 
 - **Life has no fixed destination** -- the journey metaphor assumes a
   goal: you are going somewhere. But many lives do not have a single

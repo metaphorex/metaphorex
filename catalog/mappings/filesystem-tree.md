@@ -1,23 +1,25 @@
 ---
+applies_to:
+- filesystem
 author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors:
 - fshot
 created: '2026-03-11'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Filesystem Tree
 related:
 - filesystem-root
 - filesystem-mount
 slug: filesystem-tree
 source_frame: horticulture
-target_frame: filesystem
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Hierarchical file organization is understood as a botanical tree: a root
 at the base, branches splitting into sub-branches, leaves at the
@@ -50,7 +52,7 @@ Key structural parallels:
   destruction feel like a natural arboreal operation rather than a
   potentially catastrophic data loss event.
 
-## Where It Breaks
+## Limits
 
 - **Trees grow up; filesystems grow down** -- botanical trees grow
   from root upward, with the root at the bottom. Filesystem trees are

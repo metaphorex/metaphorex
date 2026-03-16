@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Long-Term Purposeful Change Is a Journey
 provenance: lakoff-johnson-mwlb
 related:
@@ -20,11 +22,10 @@ related:
 - difficulties-are-impediments-to-motion
 slug: longterm-purposeful-change-is-a-journey
 source_frame: journeys
-target_frame: event-structure
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 When change is sustained, deliberate, and aimed at a goal, it becomes a
 journey. This is a higher-order metaphor in the Event Structure system --
@@ -67,7 +68,7 @@ Key structural parallels:
   then loss of progress is moving backward. The journey frame makes setbacks
   feel spatial and recoverable -- you can retrace your steps and try again.
 
-## Where It Breaks
+## Limits
 
 - **Not all purposeful change has a known destination** -- the journey
   metaphor requires a destination, which maps onto a clearly defined goal.

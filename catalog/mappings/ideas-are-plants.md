@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Ideas Are Plants
 provenance: lakoff-johnson-mwlb
 related:
@@ -19,11 +21,10 @@ related:
 - creative-process-is-gardening
 slug: ideas-are-plants
 source_frame: horticulture
-target_frame: intellectual-inquiry
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Ideas grow. They are planted as seeds, take root in fertile ground,
 branch out, bear fruit, and eventually wither. This is the organic
@@ -60,7 +61,7 @@ Key structural parallels:
   forever. Intellectual vitality, like botanical vitality, fades. What
   was once a flourishing paradigm can become deadwood.
 
-## Where It Breaks
+## Limits
 
 - **Plants are passive; ideas are not** -- plants do not choose to grow.
   They respond to light, water, and soil mechanically. Ideas, by contrast,

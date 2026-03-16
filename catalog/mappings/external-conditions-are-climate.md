@@ -1,4 +1,6 @@
 ---
+applies_to:
+- event-structure
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: External Conditions Are Climate
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - states-are-locations
 slug: external-conditions-are-climate
 source_frame: natural-phenomena
-target_frame: event-structure
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 The conditions surrounding us are the weather. This metaphor maps
 atmospheric and climatic phenomena -- storms, sunshine, droughts, seasons,
@@ -59,7 +60,7 @@ Key structural parallels:
   the entity that endures is toughened by exposure, like wood that has
   been weathered.
 
-## Where It Breaks
+## Limits
 
 - **External conditions are often human-made** -- the climate metaphor
   treats circumstances as natural and impersonal, like weather that just

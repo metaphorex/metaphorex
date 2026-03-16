@@ -1,4 +1,6 @@
 ---
+applies_to:
+- data-processing
 author: agent:metaphorex-miner
 categories:
 - software-engineering
@@ -14,11 +16,10 @@ related:
 - bottleneck
 slug: the-pipeline-pattern
 source_frame: fluid-dynamics
-target_frame: data-processing
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 An oil pipeline carries crude from wellhead to refinery through connected
 segments. Water pipelines carry supply from reservoir to tap. The
@@ -56,7 +57,7 @@ Key structural parallels:
   stages. The metaphor frames data quality as purification -- dirty
   data goes in, clean data comes out.
 
-## Where It Breaks
+## Limits
 
 - **Data is not a fluid** -- fluids are continuous; data is discrete.
   Fluids mix; data items maintain identity. A barrel of oil in the

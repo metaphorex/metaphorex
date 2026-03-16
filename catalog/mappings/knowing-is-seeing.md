@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -6,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-kind: conceptual-metaphor
+kind: metaphor
 name: Knowing Is Seeing
 provenance: osaka-master-metaphor-list
 related:
@@ -14,11 +16,10 @@ related:
 - seeing-is-touching
 slug: knowing-is-seeing
 source_frame: vision
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The most deeply grounded epistemic metaphor in human cognition. Grady (1997)
 identifies it as a primary metaphor arising from the tight correlation in
@@ -54,7 +55,7 @@ knowledge onto the bare fact of having seen. You can know something without
 understanding it, and the visual metaphor covers both -- but KNOWING IS
 SEEING is the primary metaphor from which the understanding variant derives.
 
-## Where It Breaks
+## Limits
 
 - **Seeing is involuntary; knowing is not** -- you cannot help seeing what
   is in front of you, but you can refuse to learn. The metaphor makes

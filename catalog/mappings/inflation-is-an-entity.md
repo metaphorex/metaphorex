@@ -1,4 +1,6 @@
 ---
+applies_to:
+- economics
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Inflation Is an Entity
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - ideas-are-objects
 slug: inflation-is-an-entity
 source_frame: embodied-experience
-target_frame: economics
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Inflation is alive, hungry, and on the move. This is Lakoff and Johnson's
 showcase example of ontological metaphor combined with personification --
@@ -54,7 +55,7 @@ Key structural parallels:
   INFLATION IS AN ADVERSARY, which structures policy discourse as a battle.
   Central bankers become generals; interest rate hikes become weapons.
 
-## Where It Breaks
+## Limits
 
 - **Inflation is not a thing; it is a statistical abstraction** -- the
   Consumer Price Index aggregates thousands of individual price changes into

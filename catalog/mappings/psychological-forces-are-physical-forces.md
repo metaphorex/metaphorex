@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -9,7 +11,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Psychological Forces Are Physical Forces
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,11 +20,10 @@ related:
 - emotions-are-entities-within-a-person
 slug: psychological-forces-are-physical-forces
 source_frame: embodied-experience
-target_frame: mental-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 We talk about psychological causation as if invisible hands were shoving us
 around. Desire pulls, fear pushes, guilt weighs down, ambition drives
@@ -58,7 +59,7 @@ Key structural parallels:
   structural implication that the patient can endure up to a threshold
   and then breaks.
 
-## Where It Breaks
+## Limits
 
 - **The agent is often missing** -- physical force has a clear source: a
   hand, a wind, a weight. Psychological forces frequently have no

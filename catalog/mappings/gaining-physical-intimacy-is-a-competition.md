@@ -1,4 +1,6 @@
 ---
+applies_to:
+- love-and-relationships
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Gaining Physical Intimacy (Against Resistance) Is a Competition
 provenance: osaka-master-metaphor-list
 related:
@@ -16,11 +18,10 @@ related:
 - emotional-intimacy-is-physical-closeness
 slug: gaining-physical-intimacy-is-a-competition
 source_frame: competition
-target_frame: love-and-relationships
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Physical intimacy framed as a contest with a winner and a loser. One
 party pursues, the other resists, and the outcome is scored. The metaphor
@@ -53,7 +54,7 @@ Key structural parallels:
   person who "gives in" is positioned as the defeated party, even if
   their consent is the actual precondition for the encounter.
 
-## Where It Breaks
+## Limits
 
 - **Competition requires adversaries; intimacy requires partners** -- the
   metaphor's deepest flaw is structural. In a competition, the other

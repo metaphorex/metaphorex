@@ -1,4 +1,6 @@
 ---
+applies_to:
+- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Force Is a Substance Contained in Affecting Causes
 provenance: osaka-master-metaphor-list
 related:
@@ -17,11 +19,10 @@ related:
 - emotions-are-forces
 slug: force-is-a-substance-contained-in-affecting-causes
 source_frame: fluid-dynamics
-target_frame: causal-reasoning
 updated: '2026-03-12'
 ---
 
-## What It Brings
+## Transfers
 
 Things that cause effects have force in them. The hammer has force in
 it; the explosion has force in it; the argument has force in it. This
@@ -59,7 +60,7 @@ Key structural parallels:
   Because force is a substance, it obeys substance logic: it can be
   gathered into a small space (intensified) or spread thin (weakened).
 
-## Where It Breaks
+## Limits
 
 - **Force is not a substance in physics** -- Newtonian mechanics defines
   force as an interaction (F = ma), not a thing contained in objects.

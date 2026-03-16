@@ -1,22 +1,24 @@
 ---
+applies_to:
+- computing
 author: agent:fshot
 categories:
 - linguistics
 - software-engineering
 contributors: []
 created: '2026-03-13'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Shell
 related:
 - kernel
 slug: shell
 source_frame: horticulture
-target_frame: computing
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 The hard outer covering that surrounds and protects the kernel. In botany,
 a shell is the inedible casing -- walnut shell, coconut shell, egg shell
@@ -40,7 +42,7 @@ user interacts with the shell; the kernel stays hidden inside.
   directly from the physical object: a shell is a container with defined
   boundaries, an interior, and a limited set of openings.
 
-## Where It Breaks
+## Limits
 
 - **Protection runs backwards** -- a nut shell protects the kernel from
   the outside world: from predators, from weather, from mechanical damage.

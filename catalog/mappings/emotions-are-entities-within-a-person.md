@@ -1,4 +1,6 @@
 ---
+applies_to:
+- mental-experience
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Emotions Are Entities Within A Person
 provenance: lakoff-johnson-mwlb
 related:
@@ -16,11 +18,10 @@ related:
 - ideas-are-people
 slug: emotions-are-entities-within-a-person
 source_frame: containers
-target_frame: mental-experience
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 You are a container. Your emotions are things inside you. This ontological
 metaphor treats the person as a bounded vessel and emotions as entities --
@@ -52,7 +53,7 @@ Key structural parallels:
   washed over him." The entities inside are not passive contents but active
   forces that act on the person from within.
 
-## Where It Breaks
+## Limits
 
 - **Emotions are not separate from the self** -- the metaphor creates a
   dualism between you (the container) and your emotions (the contents).

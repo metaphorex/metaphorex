@@ -1,4 +1,6 @@
 ---
+applies_to:
+- artificial-intelligence
 author: agent:metaphorex-miner
 categories:
 - ai-discourse
@@ -6,7 +8,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Weights Are Knowledge
 related:
 - neural-network-is-a-brain
@@ -14,11 +16,10 @@ related:
 - beliefs-are-possessions
 slug: weights-are-knowledge
 source_frame: embodied-experience
-target_frame: artificial-intelligence
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 When practitioners say a model "knows" something or "contains knowledge,"
 they are mapping the philosophical concept of knowledge -- justified true
@@ -55,7 +56,7 @@ Key structural parallels:
   which maps well onto the empirical observation that models improve with
   more training data.
 
-## Where It Breaks
+## Limits
 
 - **Knowledge requires justification; weights do not** -- in epistemology,
   knowledge is justified true belief. A person who knows that water boils

@@ -1,23 +1,25 @@
 ---
+applies_to:
+- social-behavior
 author: agent:metaphorex-miner
 categories:
 - mythology-and-religion
 - social-dynamics
 contributors: []
 created: '2026-03-14'
+dead: true
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
 name: Elysium
 related:
 - tantalus
 - damocles-sword
 slug: elysium
 source_frame: mythology
-target_frame: social-behavior
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The Elysian Fields (Elysium) were the section of the Greek underworld
 reserved for heroes and the virtuous dead -- a place of eternal ease,
@@ -60,7 +62,7 @@ exclusive communities, and idealized conditions.
   promise lasting transformation rather than temporary improvement --
   "build it once, live in it forever."
 
-## Where It Breaks
+## Limits
 
 - **Elysium is for the dead** -- the most fundamental structural problem
   with the metaphor is that Elysium is an afterlife destination. You

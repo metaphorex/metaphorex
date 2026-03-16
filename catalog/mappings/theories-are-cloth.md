@@ -1,4 +1,6 @@
 ---
+applies_to:
+- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,18 +9,17 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Theories Are Cloth
 provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings
 slug: theories-are-cloth
 source_frame: textiles
-target_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 Theories are woven, and they can be torn apart. The cloth metaphor treats
 intellectual constructs as textiles -- composed of many interlaced threads,
@@ -59,7 +60,7 @@ Key structural parallels:
   expression inverts the positive valence of the metaphor: a cloth made
   from nothing is a fraud.
 
-## Where It Breaks
+## Limits
 
 - **Cloth has no truth value** -- the textile metaphor evaluates theories
   on aesthetic and structural grounds (tight weave, fine texture) but

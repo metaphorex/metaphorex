@@ -1,4 +1,6 @@
 ---
+applies_to:
+- time-and-temporality
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -7,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: conceptual-metaphor
+kind: metaphor
 name: Time Is a Resource
 provenance: osaka-master-metaphor-list
 related:
@@ -15,11 +17,10 @@ related:
 - time-is-a-limited-resource
 slug: time-is-a-resource
 source_frame: economics
-target_frame: time-and-temporality
 updated: '2026-03-13'
 ---
 
-## What It Brings
+## Transfers
 
 TIME IS A RESOURCE is the superordinate mapping that makes TIME IS MONEY
 possible. Before time can be spent, saved, or invested, it must first be
@@ -51,7 +52,7 @@ The metaphor is foundational to how modern societies organize labor,
 education, and leisure. Schedules, deadlines, and time management all depend
 on treating time as a quantifiable resource that can be optimally deployed.
 
-## Where It Breaks
+## Limits
 
 - **Time is not conserved** -- real resources obey conservation laws. If you
   use a barrel of oil, it is gone. But time does not accumulate when unused.
