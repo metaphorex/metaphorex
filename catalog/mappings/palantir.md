@@ -15,7 +15,7 @@ related:
   - cerberus
 created: '2026-03-16'
 updated: '2026-03-16'
-harness: Claude Code
+harness: "Claude Code"
 transfers:
   - "[source] the palantir shows distant events in real time but the viewer cannot control what it reveals, making the act of seeing inherently unpredictable"
   - "[source] looking into a palantir creates a bidirectional channel -- the viewer sees but is also seen, so surveillance exposes the surveiller"
