@@ -12,8 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Mentor
-related:
-- aegis
+related: []
 slug: mentor
 source_frame: mythology
 transfers:
