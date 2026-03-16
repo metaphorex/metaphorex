@@ -14,8 +14,13 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 
 const allFrames = await getCollection("frames");
-const sourceFrame = allFrames.find((f) => f.data.slug === entry.data.source_frame);
-const targetFrame = allFrames.find((f) => f.data.slug === entry.data.target_frame);
+const sourceFrame = entry.data.source_frame
+  ? allFrames.find((f) => f.data.slug === entry.data.source_frame)
+  : null;
+const appliesTo = (entry.data.applies_to || []).map((slug: string) => {
+  const frame = allFrames.find((f) => f.data.slug === slug);
+  return { slug, frame };
+});
 
 const allMappings = await getCollection("mappings");
 const related = entry.data.related
@@ -26,22 +31,48 @@ const allWorks = await getCollection("works");
 const provenanceWork = entry.data.provenance
   ? allWorks.find((w) => w.data.slug === entry.data.provenance)
   : null;
+
+function descriptionText() {
+  const parts: string[] = [entry.data.name];
+  if (sourceFrame) parts.push(`from ${sourceFrame.data.name}`);
+  if (appliesTo.length > 0) parts.push(`applied to ${appliesTo.map((a: { slug: string; frame: any }) => a.frame?.data.name || a.slug).join(", ")}`);
+  return parts.join(" — ");
+}
 ---
 
-<Base title={entry.data.name} description={`${entry.data.name}: ${entry.data.source_frame} → ${entry.data.target_frame}`}>
+<Base title={entry.data.name} description={descriptionText()}>
   <article data-pagefind-body>
     <h1>{entry.data.name}</h1>
 
     <p class="muted">
       <span class="tag">{entry.data.kind}</span>
-      {sourceFrame
-        ? <a href={`/frames/${sourceFrame.data.slug}/`}>{sourceFrame.data.name}</a>
-        : entry.data.source_frame}
-      &rarr;
-      {targetFrame
-        ? <a href={`/frames/${targetFrame.data.slug}/`}>{targetFrame.data.name}</a>
-        : entry.data.target_frame}
+      {entry.data.dead && <span class="tag">dead</span>}
+      {entry.data.grounding && <span class="tag">{entry.data.grounding}</span>}
     </p>
+
+    {(sourceFrame || appliesTo.length > 0) && (
+      <p class="muted">
+        {sourceFrame && (
+          <>
+            Source: <a href={`/frames/${sourceFrame.data.slug}/`}>{sourceFrame.data.name}</a>
+          </>
+        )}
+        {sourceFrame && appliesTo.length > 0 && " → "}
+        {appliesTo.length > 0 && (
+          <>
+            {!sourceFrame && "Applies to: "}
+            {appliesTo.map((a: { slug: string; frame: any }, i: number) => (
+              <>
+                {i > 0 && ", "}
+                {a.frame
+                  ? <a href={`/frames/${a.frame.data.slug}/`}>{a.frame.data.name}</a>
+                  : a.slug}
+              </>
+            ))}
+          </>
+        )}
+      </p>
+    )}
 
     <p class="muted">
       Categories: {entry.data.categories.map((c: string) => (

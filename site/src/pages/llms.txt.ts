@@ -22,14 +22,19 @@ export async function GET() {
     "",
     `> A knowledge graph of metaphors. Version ${version}. ${mappings.length} mappings, ${frames.length} frames, ${categories.length} categories.`,
     "",
-    "Metaphorex catalogs conceptual metaphors, design patterns, archetypes, and cross-field mappings. Each mapping connects a source frame to a target frame and documents what the metaphor brings and where it breaks.",
+    "Metaphorex catalogs metaphors, mental models, patterns, archetypes, and paradigms. Each entry documents what the mapping transfers and where it breaks down.",
     "",
     `## Mappings (${mappings.length})`,
     "",
-    ...sortedMappings.map(
-      (m) =>
-        `- [${m.data.name}](https://metaphorex.org/mappings/${m.data.slug}/): ${m.data.source_frame} -> ${m.data.target_frame} (${m.data.kind})`
-    ),
+    ...sortedMappings.map((m) => {
+      const parts = [`- [${m.data.name}](https://metaphorex.org/mappings/${m.data.slug}/)`];
+      const meta: string[] = [];
+      if (m.data.source_frame) meta.push(`source: ${m.data.source_frame}`);
+      if (m.data.applies_to?.length) meta.push(`applies to: ${m.data.applies_to.join(", ")}`);
+      meta.push(m.data.kind);
+      parts.push(`: ${meta.join(", ")}`);
+      return parts.join("");
+    }),
     "",
     `## Frames (${frames.length})`,
     "",

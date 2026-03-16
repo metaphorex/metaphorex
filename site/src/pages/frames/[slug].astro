@@ -15,7 +15,7 @@ const { Content } = await render(entry);
 
 const allMappings = await getCollection("mappings");
 const asSource = allMappings.filter((m) => m.data.source_frame === entry.data.slug);
-const asTarget = allMappings.filter((m) => m.data.target_frame === entry.data.slug);
+const asAppliesTo = allMappings.filter((m) => (m.data.applies_to || []).includes(entry.data.slug));
 ---
 
 <Base title={entry.data.name}>
@@ -33,18 +33,24 @@ const asTarget = allMappings.filter((m) => m.data.target_frame === entry.data.sl
         <h2>As Source Frame ({asSource.length})</h2>
         <ul>
           {asSource.map((m) => (
-            <li><a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a> &rarr; {m.data.target_frame}</li>
+            <li>
+              <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+              {m.data.applies_to?.length ? <> &rarr; {m.data.applies_to.join(", ")}</> : ""}
+            </li>
           ))}
         </ul>
       </>
     )}
 
-    {asTarget.length > 0 && (
+    {asAppliesTo.length > 0 && (
       <>
-        <h2>As Target Frame ({asTarget.length})</h2>
+        <h2>Applied To This Frame ({asAppliesTo.length})</h2>
         <ul>
-          {asTarget.map((m) => (
-            <li>{m.data.source_frame} &rarr; <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a></li>
+          {asAppliesTo.map((m) => (
+            <li>
+              {m.data.source_frame && <>{m.data.source_frame} &rarr; </>}
+              <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+            </li>
           ))}
         </ul>
       </>
