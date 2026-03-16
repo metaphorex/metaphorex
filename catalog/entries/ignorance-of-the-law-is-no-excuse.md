@@ -1,7 +1,7 @@
 ---
 slug: ignorance-of-the-law-is-no-excuse
 name: Ignorance of the Law Is No Excuse
-kind: metaphor
+kind: paradigm
 source_frame: governance
 applies_to:
   - ethics-and-morality
@@ -13,15 +13,14 @@ contributors: []
 related: []
 created: '2026-03-16'
 updated: '2026-03-16'
-dead: true
 harness: "Claude Code"
 transfers:
-  - "[source] the rule-system presumes universal knowledge of its rules, making the system's validity independent of any individual subject's actual awareness"
-  - "[source] ignorance and defiance are treated as structurally equivalent -- the system responds to the violation, not the violator's mental state, collapsing intent into outcome"
-  - "[source] the maxim places the burden of knowledge acquisition on the subject rather than the authority, so the system need not ensure comprehension to enforce compliance"
+  - "[paradigm] the rule-system presumes universal knowledge of its rules, making the system's validity independent of any individual subject's actual awareness"
+  - "[paradigm] ignorance and defiance are treated as structurally equivalent -- the system responds to the violation, not the violator's mental state, collapsing intent into outcome"
+  - "[paradigm] the maxim places the burden of knowledge acquisition on the subject rather than the authority, so the system need not ensure comprehension to enforce compliance"
 limits:
-  - "[source] breaks because legal systems actually do distinguish ignorance from defiance in sentencing, mens rea doctrine, and prosecutorial discretion -- the maxim overstates its own absoluteness"
-  - "[source] misleads because it assumes rules are knowable in principle, but modern regulatory states produce bodies of law so vast and technical that genuine ignorance is structurally guaranteed for most subjects"
+  - "[paradigm] breaks because legal systems actually do distinguish ignorance from defiance in sentencing, mens rea doctrine, and prosecutorial discretion -- the maxim overstates its own absoluteness"
+  - "[paradigm] misleads because it assumes rules are knowable in principle, but modern regulatory states produce bodies of law so vast and technical that genuine ignorance is structurally guaranteed for most subjects"
 ---
 
 ## Transfers
