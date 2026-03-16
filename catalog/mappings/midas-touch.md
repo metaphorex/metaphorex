@@ -151,4 +151,6 @@ of commodification.
   that wealth-accumulation as an end in itself is unnatural
 - Nathaniel Hawthorne, "The Golden Touch" in *A Wonder-Book for Girls
   and Boys* (1851) -- the most influential English retelling, which
-  added the daughter detail absent from ancient sources
+  popularized and named the daughter (Marigold) but did not invent the
+  detail; Ovid's *Metamorphoses* already includes Midas embracing his
+  daughter who turns to gold
