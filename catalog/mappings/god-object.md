@@ -16,6 +16,13 @@ related:
 slug: god-object
 source_frame: religion
 updated: '2026-03-14'
+transfers:
+  - "[source] a monotheistic deity concentrates omniscience, omnipotence, and omnipresence in a single entity, mapping three distinct violations of separation of concerns onto one class"
+  - "[source] everything in creation depends on and converges toward the deity, mapping universal coupling onto a single node in the dependency graph"
+  - "[source] the theological critique of concentrated power imports a structural illegitimacy argument into software design"
+limits:
+  - "[source] breaks because deities are omniscient by design, but god objects become omniscient by accidental accretion -- nobody intentionally creates one"
+  - "[source] misleads because divine omnipotence is coherent and stable, while a god object's overreach is a source of fragility, not strength"
 ---
 
 ## Transfers

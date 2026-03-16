@@ -20,6 +20,13 @@ related:
 slug: ideas-are-fashions
 source_frame: social-behavior
 updated: '2026-03-14'
+transfers:
+  - "[source] fashion cycles replace current styles not because they are proven inferior but because they feel stale, providing a mechanism for intellectual change independent of evidence"
+  - "[source] trendsetters adopt early while followers imitate later, creating a social hierarchy of intellectual adoption based on timing rather than quality"
+  - "[source] old styles revive after enough time has passed, accommodating intellectual revivals without requiring new evidence"
+limits:
+  - "[source] breaks because fashion has no cumulation -- this season does not build on last season -- making it impossible to represent intellectual progress, only intellectual succession"
+  - "[source] misleads because calling an idea fashionable is always slightly pejorative, giving the metaphor a built-in rhetorical bias that limits analytical usefulness"
 ---
 
 ## Transfers

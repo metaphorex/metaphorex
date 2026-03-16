@@ -20,6 +20,13 @@ related:
 slug: harm-is-having-a-harmful-possession
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - "[source] harmful possessions are portable -- they go where you go, making harm feel personal and carried rather than environmental"
+  - "[source] severity maps onto weight of the possession, importing the physics of load-bearing: heavier burdens slow you down and exhaust you"
+  - "[source] harm can be transferred from person to person the way objects change hands, giving harm a contagion structure"
+limits:
+  - "[source] breaks because possessions imply control -- you could choose to set the object down -- shading into victim-blaming when the harmed person is told to just let it go"
+  - "[source] misleads because disposal requires somewhere for the harm-object to go, creating a conservation problem where true recovery (harm dissolving rather than relocating) has no natural expression"
 ---
 
 ## Transfers

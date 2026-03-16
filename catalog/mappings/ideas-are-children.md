@@ -19,6 +19,13 @@ related:
 slug: ideas-are-children
 source_frame: life-course
 updated: '2026-03-12'
+transfers:
+  - "[source] conception, gestation, and birth give intellectual creation a biological reproduction arc with a period of invisible internal development"
+  - "[source] the thinker-as-parent imports parental emotions (pride, protectiveness), making criticism of ideas feel like an attack on one's child"
+  - "[source] developmental stages impose a temporal trajectory -- infancy, maturation, independence -- that ideas cannot be rushed through"
+limits:
+  - "[source] breaks because children left unfed die, but ideas left unworked may simply wait decades and be revived by someone else entirely (Mendel's genetics, Bayes' theorem)"
+  - "[source] misleads because the parental bond makes abandoning a failed idea feel monstrous, actively impeding the critical evaluation that intellectual progress requires"
 ---
 
 ## Transfers

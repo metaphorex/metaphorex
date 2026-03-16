@@ -18,6 +18,13 @@ related:
 slug: harm-is-causing-functional-objects-to-be-nonfunctional
 source_frame: manufacturing
 updated: '2026-03-12'
+transfers:
+  - "[source] functional objects have a designed working state, and breakage is the transition from working to not-working -- giving harm a mechanical specificity other harm metaphors lack"
+  - "[source] severity maps onto degree of dysfunction, from a dent (minor) to complete destruction (catastrophic), providing a built-in gradient"
+  - "[source] repair requires skilled intervention and resources, structuring recovery as a technical process rather than a natural healing"
+limits:
+  - "[source] breaks because people are not designed artifacts with factory specifications -- what counts as broken depends on social norms, not engineering tolerances"
+  - "[source] misleads because broken objects do not suffer or feel their breakage, stripping the experiential dimension from harm and making it seem like a practical problem rather than a human experience"
 ---
 
 ## Transfers

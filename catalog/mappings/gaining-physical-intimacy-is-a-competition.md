@@ -19,6 +19,13 @@ related:
 slug: gaining-physical-intimacy-is-a-competition
 source_frame: competition
 updated: '2026-03-12'
+transfers:
+  - "[source] progress in a competition is measured in discrete scored stages (bases), not as a continuous spectrum"
+  - "[source] one party advances against the other's resistance, making persistence a competitive virtue rather than a boundary violation"
+  - "[source] the outcome belongs to the pursuer as a score; the other party is the field of play, not a co-participant"
+limits:
+  - "[source] breaks because competitions require adversaries with opposed goals, but genuine intimacy requires partners with aligned desires -- mutual wanting is incoherent as simultaneous losing"
+  - "[source] misleads because competitive persistence against resistance is good strategy in a game, normalizing pressure against stated reluctance in the target domain"
 ---
 
 ## Transfers

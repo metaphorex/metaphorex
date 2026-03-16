@@ -19,6 +19,13 @@ related:
 slug: ideas-are-perceptions
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] perceptual clarity maps onto intellectual clarity -- a clear idea is one easily perceived, an obscure one is foggy or blurry"
+  - "[source] perspective and vantage point determine what is seen, making intellectual disagreement a matter of angle rather than truth"
+  - "[source] noticing and overlooking map onto intellectual attention -- discovery is looking in the right direction across a field of ideas"
+limits:
+  - "[source] breaks because perception is passive (open your eyes and you see), but thinking requires sustained effortful construction, making intellectual work feel easier than it is"
+  - "[source] misleads because perceptions feel trustworthy in a way that constructed arguments do not, lending intuitive immediacy to intellectual claims and making gut feelings feel like direct apprehension of truth"
 ---
 
 ## Transfers

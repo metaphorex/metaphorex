@@ -18,6 +18,13 @@ related:
 slug: form-is-motion
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] tracing a path from origin to destination imposes a serial, directional structure onto a simultaneously existing spatial form"
+  - "[source] the manner of motion (winding, zigzagging, curving) encodes the particular shape of the static object"
+  - "[source] parallel paths are described as companions traveling together, mapping spatial adjacency onto social accompaniment"
+limits:
+  - "[source] breaks because the imposed direction is the speaker's choice, not a property of the form -- a road goes equally from Paris to Lyon and from Lyon to Paris"
+  - "[source] misleads because complex three-dimensional forms (boulders, clouds) resist linearization into a single traceable path"
 ---
 
 ## Transfers

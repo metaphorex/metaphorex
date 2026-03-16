@@ -17,6 +17,13 @@ related:
 slug: hydra-code
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] severing a head triggers regrowth of two heads, mapping targeted bug fixes onto the introduction of new defects through hidden dependency chains"
+  - "[source] the heads share a single body, meaning visible bugs are symptoms of a shared structural disease beneath them"
+  - "[source] only cauterization (destroying the regenerative substrate) stops the cycle, mapping onto the need for radical rewrite rather than incremental patching"
+limits:
+  - "[source] breaks because the Hydra regenerates autonomously as a living organism, but code does not spontaneously generate bugs -- new defects arise from interactions with existing latent coupling"
+  - "[source] misleads because the two-for-one ratio implies exponential growth, but real bug multiplication is irregular and sometimes a fix introduces zero new bugs"
 ---
 
 ## Transfers

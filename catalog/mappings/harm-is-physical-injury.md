@@ -20,6 +20,13 @@ related:
 slug: harm-is-physical-injury
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] wounds have visible signatures and follow a temporal arc (trauma, inflammation, repair, scarring), importing a recognizable medical trajectory into abstract harm"
+  - "[source] severity maps onto a bodily scale from scratch to mortal wound, calibrating abstract harm to the body's own damage gradient"
+  - "[source] prior injury creates ongoing vulnerability -- a sore spot that can be aggravated -- capturing how earlier harm sensitizes to further damage"
+limits:
+  - "[source] breaks because physical injury typically has a discrete onset moment (the cut, the blow), but many serious harms are cumulative and gradual with no single wound to point to"
+  - "[source] misleads because the healing arc implies bodies return to their prior state, creating false optimism about harms that have no natural recovery trajectory"
 ---
 
 ## Transfers

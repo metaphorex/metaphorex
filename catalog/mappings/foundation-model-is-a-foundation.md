@@ -16,6 +16,13 @@ related:
 slug: foundation-model-is-a-foundation
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] a foundation is poured once and bears the weight of everything built above it for the lifetime of the structure"
+  - "[source] cracks in the foundation propagate upward through every floor, making base-layer flaws systemic"
+  - "[source] the foundation constrains the maximum height and weight the structure above can achieve"
+limits:
+  - "[source] breaks because architectural foundations are never replaced while the building stands, but foundation models are swapped on 12-18 month cycles"
+  - "[source] misleads because foundations are inert load-bearing structures, but models actively generate outputs in ways their builders did not anticipate"
 ---
 
 ## Transfers

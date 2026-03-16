@@ -17,6 +17,13 @@ related:
 slug: hope-is-a-child
 source_frame: life-course
 updated: '2026-03-12'
+transfers:
+  - "[source] children are born at a specific moment, giving hope a dramatic origin event rather than a gradual onset"
+  - "[source] children require active nurture to survive, making the maintenance of hope feel like a moral obligation rather than passive holding"
+  - "[source] killing a child is violent and irreversible, making the loss of hope feel like bereavement rather than misplacement"
+limits:
+  - "[source] breaks because children eventually grow into independent agents, but hope never achieves autonomy -- it remains entirely dependent on the hoper's cognitive state"
+  - "[source] misleads because the vulnerability of a child makes abandoning hope feel morally repugnant, biasing toward maintaining irrational hope when evidence warrants letting go"
 ---
 
 ## Transfers

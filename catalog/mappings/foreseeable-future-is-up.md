@@ -19,6 +19,13 @@ related:
 slug: foreseeable-future-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] items in a vertical queue rise to the top as their turn approaches, mapping temporal imminence onto upward spatial position"
+  - "[source] a rising level becomes visible above the horizon before reaching its peak, mapping approaching events onto increasing perceptual salience"
+  - "[source] rescheduling an event to sooner is described as moving it upward in the queue"
+limits:
+  - "[source] breaks because the far future is not described as down -- it uses horizontal distance language instead, creating an asymmetry where up has temporal meaning but down does not"
+  - "[source] misleads because moving something up can mean either sooner or later depending on the speaker, revealing that the vertical axis does not map consistently onto the temporal axis"
 ---
 
 ## Transfers

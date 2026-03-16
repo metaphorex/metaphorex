@@ -20,6 +20,13 @@ related:
 slug: ideas-are-objects
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] physical manipulation (grasping, holding, turning over) maps onto intellectual comprehension, making understanding feel like getting your hands on something"
+  - "[source] objects have shape and weight, giving ideas geometry (sharp, round, deep, shallow) and heft (weighty, flimsy, solid)"
+  - "[source] composite objects can be assembled from parts and disassembled, mapping analysis onto taking apart and synthesis onto putting together"
+limits:
+  - "[source] breaks because physical objects have clear boundaries, but ideas do not -- the metaphor forces artificial discreteness onto continuous conceptual landscapes"
+  - "[source] misleads because objects exist whether or not anyone observes them, importing an independence that obscures how ideas are constituted by the minds that think them"
 ---
 
 ## Transfers

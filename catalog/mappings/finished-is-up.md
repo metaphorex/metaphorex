@@ -19,6 +19,13 @@ related:
 slug: finished-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] a rising level in a container reaches its maximum when the container is full, mapping completion onto the top"
+  - "[source] accumulation proceeds from bottom to top, so reaching the upper boundary signals exhaustion of capacity"
+  - "[source] the brim of a container marks a threshold beyond which no more can be added"
+limits:
+  - "[source] breaks because reaching the top of a container is a neutral physical event, but completion is often emotionally charged (ominous or triumphant), and the vertical orientation cannot encode the valence"
+  - "[source] misleads because containers have a fixed upper bound, but many processes (maintenance, relationships) have no natural completion point that would correspond to a brim"
 ---
 
 ## Transfers

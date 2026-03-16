@@ -18,6 +18,13 @@ related:
 slug: getting-is-eating
 source_frame: food-and-cooking
 updated: '2026-03-12'
+transfers:
+  - "[source] eating incorporates external material into the self, making acquisition feel like a bodily transformation rather than abstract transfer of ownership"
+  - "[source] consumed food ceases to exist independently, mapping acquisition onto irreversible destruction of the acquired thing"
+  - "[source] overeating produces disgust, giving excessive acquisition a visceral moral dimension that other acquisition metaphors lack"
+limits:
+  - "[source] breaks because eating destroys the food, but many acquisitions (houses, diplomas, friendships) persist intact after being gotten"
+  - "[source] misleads because eating is zero-sum (food consumed by one is unavailable to others), importing competitive scarcity into domains where getting is non-rivalrous"
 ---
 
 ## Transfers

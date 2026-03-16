@@ -19,6 +19,13 @@ related:
 slug: harm-is-being-in-a-harmful-location
 source_frame: spatial-location
 updated: '2026-03-12'
+transfers:
+  - "[source] harmful locations have boundaries you cross when entering, giving harm a spatial threshold that marks the onset of the damaged state"
+  - "[source] deeper penetration into the harmful region maps onto greater severity, making mild harm shallow and severe harm deep"
+  - "[source] escape requires physical departure, structuring recovery as a journey away from somewhere rather than a healing of something"
+limits:
+  - "[source] breaks because a person can only be in one location, making intersecting simultaneous harms (illness and poverty, grief and isolation) incoherent in the spatial frame"
+  - "[source] misleads because harm-as-location obscures agency -- being in trouble says nothing about who put you there, naturalizing harm as an environmental condition rather than an inflicted act"
 ---
 
 ## Transfers

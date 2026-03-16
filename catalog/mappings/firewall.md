@@ -14,6 +14,13 @@ related: []
 slug: firewall
 source_frame: architecture-and-building
 updated: '2026-03-10'
+transfers:
+  - "[source] a fireproof wall creates a binary separation between a threatened zone and a protected zone with no negotiation at the boundary"
+  - "[source] the barrier is passive and static -- it does not inspect what approaches, it simply blocks propagation"
+  - "[source] effectiveness depends on the wall being continuous; a gap anywhere compromises the entire partition"
+limits:
+  - "[source] breaks because fire is indiscriminate and follows physics, while network threats are adaptive, targeted, and may already be inside the perimeter"
+  - "[source] misleads because a physical wall requires no maintenance once built, hiding the continuous rule-updating and state-table management that network firewalls demand"
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: force-is-a-substance-contained-in-affecting-causes
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+transfers:
+  - "[source] a fluid contained in a vessel can be accumulated, concentrated, or diluted, giving causal potency a quantity that varies with fullness"
+  - "[source] releasing contained fluid produces an outpouring with a specific direction from inside to outside the container"
+  - "[source] an emptied vessel has spent its contents and cannot act again until refilled, mapping exhaustion onto depletion"
+limits:
+  - "[source] breaks because Newtonian force is an interaction (F = ma), not a substance stored in objects; the metaphor preserves pre-Newtonian impetus theory"
+  - "[source] misleads because fluids obey conservation -- releasing them depletes the supply -- but many causal forces (gravity, legal authority) do not diminish with use"
 ---
 
 ## Transfers

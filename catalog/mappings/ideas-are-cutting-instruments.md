@@ -20,6 +20,13 @@ related:
 slug: ideas-are-cutting-instruments
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - "[source] a sharp blade makes clean precise cuts, mapping analytical precision onto the ability to make fine distinctions"
+  - "[source] the blade penetrates beneath the surface to reveal internal structure, mapping depth of insight onto depth of incision"
+  - "[source] the cutting edge is the thinnest part of the blade where work happens, mapping intellectual advancement onto the narrowest point of contact with a problem"
+limits:
+  - "[source] breaks because cutting is destructive -- dissecting an argument means taking it apart with no guarantee the parts can be reassembled, privileging analysis over synthesis"
+  - "[source] misleads because the blade is a solo instrument wielded by one hand, casting intellectual work as individual precision rather than collaborative process"
 ---
 
 ## Transfers

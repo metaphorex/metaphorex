@@ -19,6 +19,13 @@ related:
 slug: ideas-are-writing
 source_frame: writing
 updated: '2026-03-12'
+transfers:
+  - "[source] inscriptions require both composition and decoding, making ideas accessible only to those who can read the notation -- understanding requires literacy, not just perception"
+  - "[source] the distinction between what is written and what is meant preserves the fundamental textual tension between literal inscription and intended meaning"
+  - "[source] creation is sequential composition (drafting, revision, editing), giving intellectual work a craft-like temporal structure"
+limits:
+  - "[source] breaks because writing is deliberate and composed, but many ideas arrive spontaneously (in dreams, mid-sentence), and the writing frame has no vocabulary for the flash of understanding that was never drafted"
+  - "[source] misleads because written texts are static once inscribed, making ideas feel more settled than they are -- in practice, ideas are constantly renegotiated and recontextualized"
 ---
 
 ## Transfers

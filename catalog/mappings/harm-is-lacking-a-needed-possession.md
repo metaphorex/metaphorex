@@ -20,6 +20,13 @@ related:
 slug: harm-is-lacking-a-needed-possession
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - "[source] deprivation is an inventory deficit -- a gap in the self where a vital resource should be -- structuring harm as absence rather than presence"
+  - "[source] the onset of harm is dispossession: something you once had is taken, giving harm a before-and-after structure centered on a moment of loss"
+  - "[source] the agent of harm is a thief or robber, giving harmful agency a specific moral color of illegitimate taking"
+limits:
+  - "[source] breaks because the deprivation frame presupposes prior ownership, but some people never had the thing they are said to lack -- a child raised in poverty did not lose resources"
+  - "[source] misleads because recovery-as-retrieval assumes the lost thing still exists somewhere, setting up false hope for irreversible losses where nothing can be found and returned"
 ---
 
 ## Transfers

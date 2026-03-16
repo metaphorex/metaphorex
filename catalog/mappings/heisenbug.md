@@ -15,6 +15,13 @@ related:
 slug: heisenbug
 source_frame: physics
 updated: '2026-03-14'
+transfers:
+  - "[source] the Heisenberg uncertainty principle states that measuring a quantum system changes its state, mapping onto bugs that vanish when observation tools alter execution conditions"
+  - "[source] the indeterminacy reveals that the system has zones of genuine non-reproducibility hidden by the illusion of determinism"
+  - "[source] the observer is coupled to the observed in both domains -- attaching a debugger changes timing, memory layout, and optimization level"
+limits:
+  - "[source] breaks because quantum uncertainty is ontological (position and momentum cannot simultaneously have precise values), while heisenbugs are epistemically deterministic programs perturbed by clumsy instrumentation"
+  - "[source] misleads because the physics framing imports an aura of fundamental unknowability that can discourage systematic debugging when race conditions are actually tractable with the right tools"
 ---
 
 ## Transfers

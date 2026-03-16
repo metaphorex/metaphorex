@@ -16,6 +16,13 @@ related:
 slug: golden-hammer
 source_frame: tool-use
 updated: '2026-03-14'
+transfers:
+  - "[source] mastery of a specific tool reshapes perception so that problems are classified by their amenability to that tool"
+  - "[source] the tool's proven track record (golden) makes switching feel like discarding a valuable asset, not just changing methods"
+  - "[source] the problem is subtly reshaped to fit the tool rather than the tool being selected to fit the problem"
+limits:
+  - "[source] breaks because a hammer has one function, while real technologies have many features -- some of which may genuinely fit the new problem, blurring the line between reasonable extension and misapplication"
+  - "[source] misleads because the metaphor implicitly valorizes novelty-seeking, but the mirror anti-pattern (adopting a new tool for every project) is equally destructive"
 ---
 
 ## Transfers

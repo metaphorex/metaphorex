@@ -17,6 +17,13 @@ related:
 slug: fine-tuning-is-specialization
 source_frame: music
 updated: '2026-03-13'
+transfers:
+  - "[source] tuning adjusts an existing instrument toward a target pitch without rebuilding the instrument"
+  - "[source] small precise adjustments to tension produce disproportionately large changes in output quality"
+  - "[source] the tuner must already understand the instrument to know which adjustments to make and in what order"
+limits:
+  - "[source] breaks because musical tuning converges on a defined standard (A4 = 440 Hz), but fine-tuning a model has no equivalent objective target"
+  - "[source] misleads because adjusting one string does not detune the others, hiding the catastrophic forgetting that occurs when model weights shift"
 ---
 
 ## Transfers

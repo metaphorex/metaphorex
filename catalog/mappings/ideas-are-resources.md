@@ -21,6 +21,13 @@ related:
 slug: ideas-are-resources
 source_frame: economics
 updated: '2026-03-14'
+transfers:
+  - "[source] resources have finite supply that depletes with use, imposing a zero-sum constraint on creativity where every idea spent is one fewer in reserve"
+  - "[source] intellectual work becomes capital allocation with expected returns, evaluated by yield rather than intrinsic quality"
+  - "[source] waste is normatively bad, making sharing ideas with unworthy audiences feel like profligate expenditure"
+limits:
+  - "[source] breaks because ideas are non-rivalrous -- sharing one does not diminish your stock -- but the resource metaphor systematically imports scarcity where none exists"
+  - "[source] misleads because ideas generate more ideas (a positive feedback loop), but the resource frame requires that production always consumes inputs, hiding the generative nature of thought"
 ---
 
 ## Transfers

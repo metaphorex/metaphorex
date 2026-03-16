@@ -17,6 +17,13 @@ related:
 slug: gordian-knot
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the knot's complexity is self-referential -- the interconnections themselves are the obstacle, not any single strand"
+  - "[source] cutting redefines the problem rather than solving it on its own terms, making the sword stroke an epistemological move, not just a method"
+  - "[source] the oracle legitimizes the result retrospectively, embedding survivorship bias into every invocation"
+limits:
+  - "[source] breaks because a knot is a single physical object with a binary state (tied/untied), but real institutional problems are distributed across many actors and time horizons with no single cord to sever"
+  - "[source] misleads because cutting destroys the rope's structure permanently, hiding the cost of brute-force solutions that eliminate valuable encoded information"
 ---
 
 ## Transfers

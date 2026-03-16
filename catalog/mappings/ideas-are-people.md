@@ -20,6 +20,13 @@ related:
 slug: ideas-are-people
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - "[source] people have biographies (birth, life stages, death), giving ideas a developmental arc and a genealogy of intellectual lineage"
+  - "[source] personification grants ideas agency -- they seize, revolutionize, refuse to die -- allowing discussion of intellectual influence without attributing it to specific humans"
+  - "[source] ideas interact socially (conflict, complement, produce offspring), creating a world of intellectual relationships, alliances, and rivalries"
+limits:
+  - "[source] breaks because ideas have no intentions, but the personification lets us say the theory demands or insists, obscuring the human power relations that determine which ideas thrive"
+  - "[source] misleads because the birth metaphor implies ideas emerge inevitably from conditions, like children from parents, hiding the labor, funding, and institutional support that enable intellectual production"
 ---
 
 ## Transfers

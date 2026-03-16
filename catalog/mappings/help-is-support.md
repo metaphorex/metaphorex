@@ -19,6 +19,13 @@ related:
 slug: help-is-support
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] a structural element bears load so the supported entity does not collapse under downward force"
+  - "[source] removing the support causes gravitational consequences -- the unsupported entity drops, crashes, or crumbles"
+  - "[source] the adequacy of support maps onto structural robustness -- a pillar differs from a crutch in load-bearing capacity and permanence"
+limits:
+  - "[source] breaks because physical support is unidirectional (the pillar holds the roof), but mutual help between equals has no stable architectural analog -- two pillars cannot support each other"
+  - "[source] misleads because structural support is static and maintains position, while real help often transforms the helped person through education, therapy, or rehabilitation"
 ---
 
 ## Transfers

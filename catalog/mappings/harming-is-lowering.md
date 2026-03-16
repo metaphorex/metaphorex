@@ -20,6 +20,13 @@ related:
 slug: harming-is-lowering
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] the harmer exerts downward force aligned with gravity, making harm feel heavy and inevitable"
+  - "[source] a person already in a lowered position is more vulnerable to further harm, encoding cumulative damage as progressive descent"
+  - "[source] social harm maps directly onto status reduction because hierarchies are independently coded as vertical"
+limits:
+  - "[source] breaks because lowering is not always harmful -- humility, grounding, and coming down to earth are valued in many frameworks, conflicting with the equation of down with bad"
+  - "[source] misleads because the vertical metaphor implies all harm is reversible through upward effort, but some harm is permanent -- the person does not get back up"
 ---
 
 ## Transfers

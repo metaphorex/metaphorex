@@ -21,6 +21,13 @@ related:
 slug: ideas-are-commodities
 source_frame: economics
 updated: '2026-03-14'
+transfers:
+  - "[source] commodities have exterior packaging separable from interior content, mapping onto the distinction between how an idea is presented and what it means"
+  - "[source] persuasion is a completed sale -- the listener buys the argument or refuses to purchase it"
+  - "[source] ideas compete for market share in a marketplace, importing competitive dynamics (monopoly, disruption) into intellectual life"
+limits:
+  - "[source] breaks because ideas are non-rivalrous -- sharing one does not diminish it -- but commodities derive value partly from scarcity, importing artificial scarcity logic into the intellectual domain"
+  - "[source] misleads because the marketplace metaphor privileges popularity over truth, making the best ideas the ones that sell rather than the ones that are correct"
 ---
 
 ## Transfers

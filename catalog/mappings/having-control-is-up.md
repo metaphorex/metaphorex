@@ -17,6 +17,13 @@ related:
 slug: having-control-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] physical combat ends with the victor on top and the loser beneath, grounding dominance in observable bodily position"
+  - "[source] elevated position provides a comprehensive view and the ability to act on what is below, mapping spatial advantage onto informational and operational advantage"
+  - "[source] yielding is described as downward collapse (caving in, backing down), making submission feel like loss of structural integrity"
+limits:
+  - "[source] breaks because lateral power relationships (peer pressure, mutual influence, networked power) have no natural spatial vocabulary in a vertical system"
+  - "[source] misleads because the vertical frame makes coercive power the prototype, rendering soft power (influence, persuasion, cultural authority) invisible"
 ---
 
 ## Transfers

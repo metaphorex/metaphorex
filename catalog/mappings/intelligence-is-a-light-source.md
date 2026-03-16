@@ -17,6 +17,13 @@ related:
 slug: intelligence-is-a-light-source
 source_frame: vision
 updated: '2026-03-12'
+transfers:
+  - "[source] luminous intensity varies on a continuous scale, mapping cognitive capacity onto a single brightness gradient from dim to brilliant"
+  - "[source] a light source radiates outward, giving intelligent people a social reach that illuminates those around them"
+  - "[source] flickering maps onto inconsistency, treating intermittent cognitive performance as an unstable power supply"
+limits:
+  - "[source] breaks because intelligence is multidimensional (verbal, spatial, mathematical, social), but brightness is essentially a single scalar, collapsing incommensurable capacities into one slider"
+  - "[source] misleads because a 40-watt bulb stays a 40-watt bulb, providing no vocabulary for intellectual growth or development -- the metaphor aligns with fixed-mindset thinking"
 ---
 
 ## Transfers

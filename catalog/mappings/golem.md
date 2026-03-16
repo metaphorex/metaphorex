@@ -15,6 +15,13 @@ related:
 slug: golem
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the golem executes instructions with absolute literalness, doing exactly what is said rather than what is meant"
+  - "[source] power and judgment are independent variables in the golem -- immense strength combined with zero moral reasoning"
+  - "[source] deactivation requires accessing a specific inscription, mapping onto the need for a kill switch accessible to the creator"
+limits:
+  - "[source] breaks because the golem is a static executor that never learns or adapts, while modern AI systems modify their behavior through training in ways creators cannot fully predict"
+  - "[source] misleads because the golem is a singular localized entity that can be confronted in one place, hiding the difficulty of controlling distributed automated systems with no single point of intervention"
 ---
 
 ## Transfers

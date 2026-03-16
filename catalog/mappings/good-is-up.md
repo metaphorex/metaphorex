@@ -22,6 +22,13 @@ related:
 slug: good-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] vertical position maps evaluative judgment onto a spatial axis where higher is better, creating a single gradient for quality, virtue, and improvement"
+  - "[source] upward movement signals positive change while downward movement signals deterioration, giving evaluation a directional dynamics"
+  - "[source] the peak of the vertical axis represents the ideal -- the optimum as a summit higher than everything around it"
+limits:
+  - "[source] breaks because some valued states are coded as down (humble, grounded, down-to-earth), producing contradictions within the vertical system"
+  - "[source] misleads because horizontal goods (equality, balance, fairness) lack upward trajectory and are harder to frame as positive in a system where improvement means ascent"
 ---
 
 ## Transfers

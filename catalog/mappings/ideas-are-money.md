@@ -21,6 +21,13 @@ related:
 slug: ideas-are-money
 source_frame: economics
 updated: '2026-03-14'
+transfers:
+  - "[source] ideas come in denominations (two cents, million-dollar idea), giving intellectual contributions precise, quantifiable value"
+  - "[source] spending ideas on one audience means not spending them on another, importing scarcity and budgeting logic into intellectual life"
+  - "[source] ideas circulate like currency -- their value depends on whether others accept them at face value"
+limits:
+  - "[source] breaks because sharing an idea does not deplete the sharer's supply, while spending money transfers it irreversibly, importing a zero-sum logic that does not apply"
+  - "[source] misleads because money is valuable because it is scarce, but abundance of ideas does not devalue any particular idea -- the scarcity assumption is wrong"
 ---
 
 ## Transfers

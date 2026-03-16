@@ -19,6 +19,13 @@ related:
 slug: force-is-a-substance-directed-at-an-affected-party
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+transfers:
+  - "[source] a fluid can be distributed across a surface or focused on a single point, giving force an allocation structure that projectile models lack"
+  - "[source] immersion in a substance saturates the recipient, mapping force intensity onto the degree of submersion"
+  - "[source] the emitting source produces a continuous flow rather than a single discrete impact"
+limits:
+  - "[source] breaks because substances are undifferentiated, collapsing the internal structure of complex forces (fundraising, messaging, organizing) into a featureless mass"
+  - "[source] misleads because a substance has no intentions, making wielded force feel impersonal even when it is deliberately directed by an agent"
 ---
 
 ## Transfers

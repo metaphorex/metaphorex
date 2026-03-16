@@ -17,6 +17,13 @@ related:
 slug: happy-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] upright posture correlates with positive affect from infancy -- happy people stand tall, sad people slump -- grounding the vertical axis in observable body states"
+  - "[source] mood changes map onto vertical movement (rising spirits, falling into sadness), giving emotional change a spatial dynamics of ascent and descent"
+  - "[source] depth below the surface encodes severity of negative affect, providing a built-in gradient for degrees of sadness"
+limits:
+  - "[source] breaks because the vertical axis collapses qualitatively different states (contentment, joy, elation, mania) into a single altitude measure, obscuring the difference between serene satisfaction and manic excitement"
+  - "[source] misleads because the metaphor provides no vocabulary for pathological highs -- being up is always coded as good, making it difficult to talk about the dangers of excessive elation without borrowing from other metaphors"
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: ideas-are-locations
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - "[source] reaching a conclusion maps onto arriving at a destination, giving inference the temporal structure of a journey with premises as waypoints"
+  - "[source] intellectual agreement is spatial proximity and disagreement is distance, providing a topology for mapping relationships between beliefs"
+  - "[source] confusion is losing your way in unfamiliar terrain, and exploration is moving through uncharted conceptual space"
+limits:
+  - "[source] breaks because a thinker can hold contradictory ideas simultaneously, but the spatial metaphor forces a single position -- you are here or there, not both"
+  - "[source] misleads because the metaphor implies a pre-existing map of all possible thoughts waiting to be discovered, making invention look like exploration and obscuring the creative act of bringing new ideas into existence"
 ---
 
 ## Transfers

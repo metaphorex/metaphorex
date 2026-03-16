@@ -18,6 +18,13 @@ related:
 slug: importance-is-size
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] large objects dominate the visual field and cannot be stepped over or brushed aside, mapping perceptual unavoidability onto significance"
+  - "[source] small objects can be overlooked or ignored, mapping low perceptual salience onto negligibility"
+  - "[source] physical enlargement over time maps onto growing importance, giving significance a dynamic trajectory"
+limits:
+  - "[source] breaks because small things (a virus, a misplaced comma, a single vote) can have outsized consequences, and the metaphor systematically obscures the significance of small-scale causes"
+  - "[source] misleads because size implies easy assessment (large objects are obvious), but importance is often contested, context-dependent, and revealed only in retrospect"
 ---
 
 ## Transfers

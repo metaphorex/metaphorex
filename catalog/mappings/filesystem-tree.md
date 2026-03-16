@@ -17,6 +17,13 @@ related:
 slug: filesystem-tree
 source_frame: horticulture
 updated: '2026-03-14'
+transfers:
+  - "[source] a single root anchors the entire structure, and every node is reachable by exactly one path from it"
+  - "[source] removing a branch removes all sub-branches and leaves attached to it in a single operation"
+  - "[source] leaves terminate the branching hierarchy and contain the actual material, not further structure"
+limits:
+  - "[source] breaks because botanical trees never loop back on themselves, but symlinks create cycles that violate the tree invariant"
+  - "[source] misleads because real trees grow upward from the root, while filesystem trees are drawn and navigated downward from the root"
 ---
 
 ## Transfers

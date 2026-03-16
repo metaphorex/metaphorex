@@ -20,6 +20,13 @@ related:
 slug: health-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] sick people literally lie down and healthy people literally stand up, making this one of the most directly grounded orientational metaphors"
+  - "[source] the transition from health to sickness maps onto falling, and recovery maps onto rising, giving illness a complete vertical trajectory"
+  - "[source] severity of illness maps onto depth below the surface, with death as the ultimate horizontal"
+limits:
+  - "[source] breaks because chronic conditions have no vertical trajectory -- they are neither up nor down, leaving people with ongoing illness linguistically stranded"
+  - "[source] misleads because HEALTH IS UP coexists with GOOD IS UP and VIRTUE IS UP, causing illness (down) to acquire moral connotations and contributing to stigma"
 ---
 
 ## Transfers

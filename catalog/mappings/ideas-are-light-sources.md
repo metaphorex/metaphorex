@@ -21,6 +21,13 @@ related:
 slug: ideas-are-light-sources
 source_frame: vision
 updated: '2026-03-14'
+transfers:
+  - "[source] a light source radiates outward from a point, giving important ideas a spatial influence that diminishes with distance"
+  - "[source] illumination makes other things visible, mapping explanatory power onto the ability to make surrounding phenomena perceptible"
+  - "[source] the flash of light is sudden and total, mapping the moment of insight onto an instantaneous perceptual event"
+limits:
+  - "[source] breaks because light reveals but does not explain -- turning on a lamp lets you see everything in a room but tells you nothing about what anything is or how it works"
+  - "[source] misleads because brilliance (impressive luminosity) is not depth (rigorous substance), and the metaphor provides no way to distinguish a spotlight from a strobe"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: hope-is-a-benefical-possession
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - "[source] possessions can be acquired, held, transferred, and lost, giving hope a complete economic lifecycle of ownership"
+  - "[source] the tighter you grip a valuable object the more determined your retention, mapping persistence of hope onto physical grip strength"
+  - "[source] even a small valuable possession is better than none, making minimal hope quantifiably better than despair"
+limits:
+  - "[source] breaks because possessions sit passively in your hands, but hope requires active cognitive maintenance -- reinterpreting setbacks, choosing to focus on possibilities"
+  - "[source] misleads because losing a possession leaves the person otherwise unchanged, but losing hope involves a transformation of worldview and motivation that is nothing like misplacing an object"
 ---
 
 ## Transfers

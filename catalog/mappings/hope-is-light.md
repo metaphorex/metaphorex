@@ -18,6 +18,13 @@ related:
 slug: hope-is-light
 source_frame: vision
 updated: '2026-03-12'
+transfers:
+  - "[source] a light source actively emits illumination into surrounding darkness, making hope function as a navigational aid that shows where to go"
+  - "[source] brightness varies on a continuous scale from a glimmer to a blaze, giving hope intensity gradations"
+  - "[source] dawn follows darkness automatically in the daily cycle, making the return of hope feel natural and inevitable"
+limits:
+  - "[source] breaks because light is impersonal and illuminates everything equally, but hope is deeply subjective and shaped by individual history, making externally provided hope feel patronizing"
+  - "[source] misleads because dawn is automatic and requires no human effort, but hope requires active cognitive maintenance, producing dangerous passivity when people wait for hope instead of constructing reasons for it"
 ---
 
 ## Transfers

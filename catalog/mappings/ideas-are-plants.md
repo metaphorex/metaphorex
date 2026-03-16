@@ -22,6 +22,13 @@ related:
 slug: ideas-are-plants
 source_frame: horticulture
 updated: '2026-03-14'
+transfers:
+  - "[source] seeds require specific soil conditions to germinate, mapping the contingency of intellectual creation onto environmental fit"
+  - "[source] roots establish below the surface drawing on hidden nourishment (prior knowledge, tradition), making well-grounded ideas resistant to being pulled up"
+  - "[source] the growth-to-fruit arc imposes a patient timeline -- cultivation requires time, and not every plant bears fruit"
+limits:
+  - "[source] breaks because plants grow mechanically in response to light and water, but intellectual development requires deliberate active effort, and the organic metaphor makes it feel automatic"
+  - "[source] misleads because the horticultural frame naturalizes some ideas as native species and casts others as invasive weeds, smuggling in a conservative bias about which ideas belong"
 ---
 
 ## Transfers

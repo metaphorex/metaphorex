@@ -18,6 +18,13 @@ related:
 slug: guardrails
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - "[source] guardrails presuppose a road -- a defined corridor of correct travel -- and only activate when the vehicle drifts toward the edge"
+  - "[source] the barrier is passive until struck, imposing no cost on normal operation"
+  - "[source] correction is reactive physical deflection that redirects back onto the existing path rather than steering toward a new one"
+limits:
+  - "[source] breaks because there is no pre-built road for AI behavior -- the corridor of acceptable output is emergent, contested, and context-dependent, not engineered infrastructure"
+  - "[source] misleads because highway guardrails face predictable physics (a car drifting at known speeds), while AI guardrails face adversarial users actively probing for weaknesses with creative natural language"
 ---
 
 ## Transfers

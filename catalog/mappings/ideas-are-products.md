@@ -20,6 +20,13 @@ related:
 slug: ideas-are-products
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - "[source] manufacturing has stages (raw material, refinement, polishing, delivery), giving intellectual work a sequential process from rough draft to finished output"
+  - "[source] products are evaluated by craft standards (precision, durability, fit and finish), importing quality control vocabulary into intellectual evaluation"
+  - "[source] the producer-product relationship naturalizes intellectual property claims through the intuition that whoever manufactures something owns it"
+limits:
+  - "[source] breaks because manufacturing metrics reward throughput volume, conflating prolific output with intellectual contribution"
+  - "[source] misleads because products wear out with use, but ideas do not degrade when applied -- the production metaphor implies endless manufacturing is needed when a single good idea serves indefinitely"
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: harm-is-preventing-forward-motion-toward-a-goal
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] the harm is measured as the gap between where someone is and where they would have been, making damage relative to an intended trajectory"
+  - "[source] severity scales from slight delay to total stoppage to forced reversal, with backward movement worse than stalling"
+  - "[source] removing the obstruction is the remedy -- clearing the path rather than healing a wound or escaping a location"
+limits:
+  - "[source] breaks because the metaphor requires a goal to function, making harm to people without clear trajectories (the elderly, the directionless) conceptually invisible"
+  - "[source] misleads because it conflates frustrated ambition with genuine suffering -- missing a promotion and being subjected to violence are both blocking but differ vastly in moral weight"
 ---
 
 ## Transfers

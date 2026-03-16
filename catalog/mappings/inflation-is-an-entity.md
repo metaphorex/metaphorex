@@ -19,6 +19,13 @@ related:
 slug: inflation-is-an-entity
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] an entity with agency can rob, attack, and devour, giving an impersonal statistical phenomenon a target that citizens and politicians can oppose"
+  - "[source] an entity occupies space and moves on a vertical axis (creeping up, going through the roof), making an abstract measure spatially trackable"
+  - "[source] an entity can be fought, contained, and defeated, structuring policy discourse as a battle with identifiable tactics"
+limits:
+  - "[source] breaks because inflation is a statistical abstraction over thousands of individual price changes, not a natural kind -- different measurement baskets produce different numbers"
+  - "[source] misleads because personification assigns blame to inflation itself, distracting from the monetary policy, supply shocks, and fiscal decisions that actually produce it"
 ---
 
 ## Transfers
