@@ -17,7 +17,7 @@ slug: time-is-money
 source_frame: economics
 updated: '2026-03-14'
 transfers:
-  - "[source] currency can be spent, saved, invested, and wasted with moral weight attached to each"
+  - "[source] the moral valence of resource use transfers with the economic frame -- spending on leisure carries the same taint as spending money on vice"
   - "[source] budgets allocate a finite resource across competing demands"
   - "[source] debt creates an obligation of future repayment to the creditor"
 limits:

@@ -19,7 +19,7 @@ updated: '2026-03-13'
 transfers:
   - "[source] the serpent's output feeds back as its own input, making destruction and sustenance a single continuous act"
   - "[source] the cycle has no identifiable starting point -- head always meets tail without origin or terminus"
-  - "[source] the closed circle contains everything within itself and requires nothing from outside"
+  - "[source] the system treats its own output as sufficient input, eliminating the feedback signal that would reveal depletion"
 limits:
   - "[source] breaks because most self-referential processes are spirals that drift with each iteration, not perfect circles returning to the same state"
   - "[source] misleads because self-consumption is depicted as eternally sustainable, but systems that cannibalize their own resources eventually exhaust them"

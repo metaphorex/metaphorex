@@ -15,7 +15,7 @@ slug: argument-is-war
 source_frame: war
 updated: '2026-03-09'
 transfers:
-  - "[source] victory requires both strategy and execution under pressure"
+  - "[source] the objective is to destroy the adversary's capacity to continue, not merely to prevail in the current engagement"
   - "[source] participants occupy and defend territorial positions"
   - "[source] escalation follows a ladder from skirmish to total war"
   - "[source] retreat from a position signals weakness to adversaries"
