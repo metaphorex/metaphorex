@@ -158,6 +158,19 @@ Use the metaphorex-schema skill for the canonical schema. Additionally:
 - Include Origin Story and References when the source provides them
 - Frames and categories created in the same PR must also pass validation
 
+**Analytical Value:**
+
+The catalog's defensible value is in the long tail — non-obvious structural
+parallels, precise limits, and naming that frontier models don't already know.
+When writing entries, prioritize:
+
+(a) structural insights the source myth/concept contains that modern usage has
+    discarded
+(b) limits that name specific misuse patterns rather than generic caveats
+(c) cross-references to unexpected domains
+
+Avoid restating what any educated reader already knows about the metaphor.
+
 **Git Workflow:**
 
 - Create a branch: `mine/<project-name>/<slug>`

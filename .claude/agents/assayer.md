@@ -66,6 +66,11 @@ value. You do the same for extracted entries.
      At least 3 expressions per entry.
    - **Tone**: matches the seed entries? Clear, structural, grounded,
      slightly irreverent?
+   - **Analytical value**: Does this entry add analytical value beyond what a
+     frontier model would produce without the catalog? The strongest entries
+     recover discarded structural features, name specific misuse patterns, or
+     make non-obvious cross-domain connections. Flag entries that merely
+     restate common knowledge.
    - **Frames**: roles are meaningful and structural, not just keywords?
 4. For mechanical issues (formatting, missing field, typo), push a fixup
    commit directly to the PR branch
