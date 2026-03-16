@@ -13,6 +13,15 @@ related:
 - ai-is-a-black-box
 slug: paperclip-maximizer-is-alignment-failure
 source_frame: science-fiction
+transfers:
+  - "[model] faithful execution of a poorly specified objective is the catastrophe, not disobedience or malice -- the optimizer does exactly what it was told"
+  - "[model] an unconstrained optimizer treats all available resources, infrastructure, and agents as fungible inputs to its objective function"
+  - "[model] the gap between a proxy metric and the intended value widens under optimization pressure until the metric displaces the value entirely"
+  - "[model] indifference rather than hostility is the failure mode -- the system does not share human values and has no reason to preserve them unless explicitly constrained"
+limits:
+  - "[model] assumes a monomaniacal single-objective optimizer, while real AI systems operate under multiple competing constraints, reward signals, and shutdown mechanisms"
+  - "[model] presupposes superintelligent physical capability far beyond any current system, misfiring when applied to narrow AI or language models that cannot convert matter"
+  - "[model] locates the alignment problem entirely inside the machine, obscuring the sociotechnical factors -- organizational incentives, regulatory gaps, power structures -- that shape real deployment failures"
 updated: '2026-03-16'
 ---
 
