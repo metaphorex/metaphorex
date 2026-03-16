@@ -1,8 +1,8 @@
 # Metaphorex
 
-Markdown-first knowledge graph of metaphors, mental models, archetypes,
-paradigms, and patterns. GitHub is the CMS: PRs are drafts, merged = published.
-Licensed CC BY-SA 4.0 (content), MIT (code).
+Markdown-first knowledge graph of metaphors — conceptual metaphors, design
+patterns, archetypes, and cross-field mappings. GitHub is the CMS: PRs are
+drafts, merged = published. Licensed CC BY-SA 4.0 (content), MIT (code).
 
 ## Build & Validate
 
@@ -39,8 +39,7 @@ contributors: []
 related: []
 created: 2026-03-07             # ISO date, set on first creation
 updated: 2026-03-10             # ISO date, updated on each edit
-grounding: folk                 # proven | established | folk | contested (default: folk, may omit)
-dead: true                      # optional, metaphor kind only
+grounding: folk                  # proven | established | folk | contested (default: folk)
 ```
 
 Required body sections: **Transfers**, **Limits**, **Expressions**.

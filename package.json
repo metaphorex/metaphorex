@@ -1,0 +1,17 @@
+{
+  "name": "metaphorex-scripts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build-db": "bun run scripts/build-db.ts",
+    "search": "bun run scripts/search.ts"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "openai": "^6.29.0",
+    "sqlite-vec": "^0.1.6"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

@@ -3,3 +3,6 @@ graph.png
 .playwright-mcp/
 .DS_Store
 __pycache__/
+.envrc
+node_modules/
+catalog/embeddings.db
