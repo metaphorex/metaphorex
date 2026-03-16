@@ -9,6 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
+harness: Claude Code
 kind: metaphor
 name: People Are Machines
 provenance: lakoff-johnson-mwlb
@@ -17,7 +18,7 @@ related:
 - the-mind-is-a-brittle-object
 slug: people-are-machines
 source_frame: manufacturing
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] a machine has measurable throughput, fuel requirements, and diagnosable failure modes"
   - "[source] machines of the same type are interchangeable — any unit meeting spec can replace any other"

@@ -7,13 +7,14 @@ categories:
 - cognitive-science
 contributors: []
 created: '2026-03-07'
+harness: Claude Code
 kind: metaphor
 name: Program Failure Is Bodily Failure
 related:
 - data-flow-is-fluid-flow
 slug: program-failure-is-bodily-failure
 source_frame: embodied-experience
-updated: '2026-03-09'
+updated: '2026-03-16'
 transfers:
   - "[source] symptoms are observable surface manifestations of hidden underlying causes — a fever does not name the infection"
   - "[source] severity follows a spectrum from mild fatigue through degradation to catastrophic organ failure"

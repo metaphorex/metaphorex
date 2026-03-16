@@ -8,6 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: Organization Is Physical Structure
 provenance: osaka-master-metaphor-list
@@ -16,7 +17,7 @@ related:
 - argument-is-a-building
 slug: organization-is-physical-structure
 source_frame: architecture-and-building
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] what is logically prior is physically underneath, and removing it causes everything above to collapse"
   - "[source] structural integrity requires that load-bearing elements be proportioned to what they support"

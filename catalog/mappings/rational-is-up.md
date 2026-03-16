@@ -9,6 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
+harness: Claude Code
 kind: metaphor
 name: Rational Is Up; Emotional Is Down
 provenance: lakoff-johnson-mwlb
@@ -18,7 +19,7 @@ related:
 - understanding-is-seeing
 slug: rational-is-up
 source_frame: embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] the vertical axis maps elevation onto refinement — higher is more abstract, theoretical, and detached from the body"
   - "[source] rising above requires effort against gravity, making transcendence an achievement and descent a failure of will"

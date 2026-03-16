@@ -7,6 +7,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: Piecemeal Growth
 provenance: alexander-pattern-language
@@ -16,7 +17,7 @@ related:
 - technical-debt
 slug: piecemeal-growth
 source_frame: architecture-and-building
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] healthy buildings grow through continuous repair by their inhabitants rather than being delivered whole by an external architect"
   - "[source] large-lump construction imposes an outsider's vision on the people who will actually inhabit the result"
