@@ -8,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-12'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Conducting Research Is Solving a Puzzle
 provenance: osaka-master-metaphor-list

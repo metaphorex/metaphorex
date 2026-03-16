@@ -14,7 +14,7 @@ related: []
 created: '2026-03-16'
 updated: '2026-03-16'
 dead: true
-harness: Claude Code
+harness: "Claude Code"
 transfers:
   - "[source] the rule-system presumes universal knowledge of its rules, making the system's validity independent of any individual subject's actual awareness"
   - "[source] ignorance and defiance are treated as structurally equivalent -- the system responds to the violation, not the violator's mental state, collapsing intent into outcome"

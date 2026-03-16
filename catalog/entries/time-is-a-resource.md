@@ -8,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Time Is a Resource
 provenance: osaka-master-metaphor-list

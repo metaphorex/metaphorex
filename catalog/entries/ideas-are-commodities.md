@@ -9,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Ideas Are Commodities
 provenance: lakoff-johnson-mwlb

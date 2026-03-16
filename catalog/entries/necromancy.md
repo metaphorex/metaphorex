@@ -16,7 +16,7 @@ related:
   - hydra-code
 created: '2026-03-16'
 updated: '2026-03-16'
-harness: Claude Code
+harness: "Claude Code"
 transfers:
   - "[source] the necromancer forces the dead to serve purposes they did not choose in life, violating the boundary between ended and active that normally governs systems"
   - "[source] reanimated beings retain their form but lose their animating intelligence, producing something that looks functional but operates without the understanding that originally guided it"

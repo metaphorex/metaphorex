@@ -9,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Love Is a Patient
 provenance: lakoff-johnson-mwlb

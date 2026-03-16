@@ -7,7 +7,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-12'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Harm Is Having a Harmful Possession
 provenance: osaka-master-metaphor-list

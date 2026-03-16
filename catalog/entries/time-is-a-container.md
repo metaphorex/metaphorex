@@ -8,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 limits:
 - '[source] breaks because containers are static vessels, whereas the mapped domain

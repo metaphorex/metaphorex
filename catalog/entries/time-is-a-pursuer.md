@@ -8,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 limits:
 - '[source] breaks because capture in a chase is a discrete event, whereas the mapped

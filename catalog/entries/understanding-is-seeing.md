@@ -9,7 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 limits:
 - '[source] breaks because seeing is passive and automatic, whereas the mapped activity

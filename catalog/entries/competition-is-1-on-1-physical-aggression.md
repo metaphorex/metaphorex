@@ -7,7 +7,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Competition Is 1-on-1 Physical Aggression
 provenance: osaka-master-metaphor-list

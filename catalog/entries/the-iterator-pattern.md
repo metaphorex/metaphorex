@@ -8,7 +8,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 dead: true
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: The Iterator Pattern
 provenance: gang-of-four

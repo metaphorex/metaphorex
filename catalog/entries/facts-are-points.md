@@ -9,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-12'
 dead: true
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Facts Are Points
 provenance: osaka-master-metaphor-list

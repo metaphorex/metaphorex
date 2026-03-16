@@ -8,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: An Instrument Is a Companion
 provenance: lakoff-johnson-mwlb

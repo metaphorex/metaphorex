@@ -8,7 +8,7 @@ categories:
 - social-dynamics
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Sexuality Is An Offensive Weapon
 provenance: osaka-master-metaphor-list

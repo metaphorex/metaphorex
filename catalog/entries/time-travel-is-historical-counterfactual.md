@@ -5,7 +5,7 @@ categories:
 - arts-and-culture
 contributors: []
 created: '2026-03-16'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 limits:
 - "[source] breaks because time travelers can revisit and revise their actions, but counterfactual reasoning has no mechanism for iteration -- you reason about what might have been exactly once"

@@ -7,7 +7,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-12'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Competition Is War
 provenance: osaka-master-metaphor-list

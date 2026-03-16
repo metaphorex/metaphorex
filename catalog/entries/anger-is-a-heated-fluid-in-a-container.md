@@ -8,7 +8,7 @@ categories:
 - psychology
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Anger Is a Heated Fluid in a Container
 provenance: osaka-master-metaphor-list

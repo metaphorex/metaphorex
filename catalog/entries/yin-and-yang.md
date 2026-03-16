@@ -7,7 +7,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-14'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Yin and Yang
 related:
