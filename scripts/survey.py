@@ -106,11 +106,18 @@ def survey(repo: str) -> dict:
         "--label", "in-progress",
         "--json", "number,title",
     ])
-    kaizen_issues = gh_query([
+    kaizen_pipeline = gh_query([
         "issue", "list", "-R", repo,
-        "--label", "kaizen:pipeline,kaizen:content",
+        "--label", "kaizen:pipeline",
         "--state", "open",
-        "--json", "number,title,labels",
+        "--json", "number,title",
+        "--limit", "20",
+    ])
+    kaizen_content = gh_query([
+        "issue", "list", "-R", repo,
+        "--label", "kaizen:content",
+        "--state", "open",
+        "--json", "number,title",
         "--limit", "20",
     ])
 
@@ -125,7 +132,13 @@ def survey(repo: str) -> dict:
     assay = [{"number": p["number"], "title": p["title"]} for p in collect(pr_assay)]
     miner_fix = [{"number": p["number"], "title": p["title"]} for p in collect(pr_miner_fix)]
     in_progress = [{"number": p["number"], "title": p["title"]} for p in collect(pr_in_progress)]
-    kaizen_open = [{"number": i["number"], "title": i["title"]} for i in collect(kaizen_issues)]
+    # Merge kaizen from both labels (gh --label uses AND, so we query separately)
+    seen_kaizen: set[int] = set()
+    kaizen_open = []
+    for i in collect(kaizen_pipeline) + collect(kaizen_content):
+        if i["number"] not in seen_kaizen:
+            seen_kaizen.add(i["number"])
+            kaizen_open.append({"number": i["number"], "title": i["title"]})
 
     # Classify issues into parents (top-level projects) vs sub-issues.
     # Uses GraphQL `parent` field for native sub-issue linkage, with
