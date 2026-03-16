@@ -17,6 +17,13 @@ related:
 slug: comparison-of-properties-is-comparison-of-possessions
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] possessions come in quantities that can be counted and compared, making abstract qualities like patience and courage feel measurable as amounts"
+  - "[source] having more of a desirable possession is being richer, so advantage in a quality maps onto economic advantage"
+  - "[source] equal shares between parties maps onto parity, structuring equality as equal distribution from a common stock"
+limits:
+  - "[source] breaks because possessions are finite and zero-sum (giving away means having less), but one person having more courage does not reduce anyone else's supply"
+  - "[source] misleads because comparing bank accounts is objective and unambiguous, but comparing who has more creativity depends entirely on framing and values -- the possession frame imports false objectivity"
 ---
 
 ## Transfers

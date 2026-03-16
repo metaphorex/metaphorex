@@ -17,6 +17,13 @@ related:
 slug: an-instrument-is-a-companion
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - "[source] companions cooperate or refuse based on mood and disposition, making interpersonal dynamics the frame for diagnosing mechanical failure"
+  - "[source] long-term companionship creates bonds of loyalty where betrayal (tool failure) carries moral weight"
+  - "[source] caring for a companion maps maintenance onto an ethic of reciprocal obligation"
+limits:
+  - "[source] breaks because companions have interests in their own welfare, but instruments have no stake in how they are treated"
+  - "[source] misleads because anthropomorphizing a device substitutes a narrative of willful refusal for a causal chain of mechanical failure, delaying systematic diagnosis"
 ---
 
 ## Transfers

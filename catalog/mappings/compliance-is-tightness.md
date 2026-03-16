@@ -16,6 +16,13 @@ related:
 slug: compliance-is-tightness
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] physical tension constrains movement, so tighter bonds leave less room for deviation and looser bonds permit more"
+  - "[source] self-binding extends the frame from external restraint to internal discipline, mapping self-control onto tying oneself"
+  - "[source] the degree of tightness provides a continuous scale from rigid constraint to slack permissiveness"
+limits:
+  - "[source] breaks because tightness frames compliance entirely as restriction, with no vocabulary for willing conformity where the person's values genuinely align with the rules"
+  - "[source] misleads because if social order is held together by tightness, then any loosening risks collapse -- the metaphor makes regulatory reform sound like structural failure rather than productive adaptation"
 ---
 
 ## Transfers

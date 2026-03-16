@@ -18,6 +18,13 @@ related:
 slug: conducting-research-is-solving-a-puzzle
 source_frame: puzzles-and-games
 updated: '2026-03-12'
+transfers:
+  - "[source] puzzle pieces are discrete objects with inherent shapes that constrain where they can fit, making data-theory integration a geometric matching problem"
+  - "[source] the solved state is a complete picture with all pieces in place, providing a definitive, unified endpoint"
+  - "[source] difficulty is experienced as poor geometric fit -- pieces that resist integration are from the wrong puzzle"
+limits:
+  - "[source] breaks because puzzles have a single predetermined solution manufactured in advance, but research problems may have multiple valid interpretations, no clean solution, or a solution space that shifts as new data arrives"
+  - "[source] misleads because all puzzle pieces exist from the start, but in research the relevant data may not yet exist and some crucial evidence may be permanently inaccessible"
 ---
 
 ## Transfers

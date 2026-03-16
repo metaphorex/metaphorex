@@ -16,6 +16,13 @@ related:
 slug: alignment-is-physical-alignment
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[source] misalignment is angular deviation from a reference direction, measurable in magnitude and correctable by incremental adjustment"
+  - "[source] physical alignment assumes a single correct orientation against a fixed reference frame"
+  - "[source] once achieved, alignment is a stable state that persists until an external force disturbs it"
+limits:
+  - "[source] breaks because human values are contested, contextual, and contradictory, not a fixed vector that a system can be pointed toward"
+  - "[source] misleads because physical alignment is value-neutral calibration, stripping the ethical and political weight from what is fundamentally a question of whose values count"
 ---
 
 ## Transfers

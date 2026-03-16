@@ -19,6 +19,13 @@ related:
 slug: creating-is-giving-an-object
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - "[source] the giver transfers a discrete, bounded object to a recipient, making creation a social transaction rather than an internal process"
+  - "[source] gift-giving creates obligation and earns gratitude, importing the social dynamics of generosity into the creator-audience relationship"
+  - "[source] creative failure is having nothing to give -- the giver comes empty-handed, making creative failure feel like social failure"
+limits:
+  - "[source] breaks because much creation is self-directed (a diary, a personal project) with no intended recipient, and the giving frame makes private creation seem incomplete or pointless"
+  - "[source] misleads because a gift is a finished thing, so the frame skips the entire process of making -- drafts, revisions, false starts -- implying creation is instantaneous rather than iterative"
 ---
 
 ## Transfers

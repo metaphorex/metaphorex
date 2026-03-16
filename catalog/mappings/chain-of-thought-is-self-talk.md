@@ -18,6 +18,13 @@ related:
 slug: chain-of-thought-is-self-talk
 source_frame: mental-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] talking through a problem step by step improves performance over jumping directly to the answer, whether in a child doing math or a model generating intermediate tokens"
+  - "[source] inner speech is a cognitive tool that structures thinking, not mere narration of pre-existing thoughts -- the speech itself does work"
+  - "[source] private deliberation precedes public utterance, mapping hidden token generation onto the human experience of thinking before speaking"
+limits:
+  - "[source] breaks because human self-talk involves intention, metacognition, and felt understanding, while chain-of-thought tokens are statistically generated sequences that resemble the surface form of reasoning without any experiential interior"
+  - "[source] misleads because an LLM's chain of thought can be entirely confabulated -- plausible reasoning steps that do not correspond to the actual computational path from input to output"
 ---
 
 ## Transfers

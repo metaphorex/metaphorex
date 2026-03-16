@@ -17,6 +17,13 @@ related:
 slug: communication-is-linguistic-communication
 source_frame: language
 updated: '2026-03-13'
+transfers:
+  - "[source] linguistic communication has speakers, messages, grammar, and vocabulary, projecting this role structure onto every form of meaning-making"
+  - "[source] competence in a linguistic system is fluency, so navigating any communicative domain becomes being literate or fluent in its codes"
+  - "[source] all communicative content is assumed to be paraphrasable as propositional statements without loss"
+limits:
+  - "[source] breaks because many communicative acts (a warm embrace, a piece of music) have no propositional content reducible to sentences, and forcing them through a linguistic filter registers them as imprecise language rather than a different modality"
+  - "[source] misleads because the linguistic model privileges clarity and explicitness, treating ambiguity as communicative failure rather than recognizing that poetry, ritual, and diplomacy exploit polyvalence as a communicative strategy"
 ---
 
 ## Transfers

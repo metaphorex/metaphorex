@@ -19,6 +19,13 @@ related:
 slug: creating-is-making
 source_frame: manufacturing
 updated: '2026-03-12'
+transfers:
+  - "[source] a maker shapes passive raw material into a finished product through deliberate skill, with the product as a discrete object that did not exist before the maker acted"
+  - "[source] quality maps onto workmanship -- a well-made thing has fit, finish, and durability, importing craft standards into evaluation of any created thing"
+  - "[source] tools and technique are learnable and transferable, making creative capacity a set of skills rather than mysterious inspiration"
+limits:
+  - "[source] breaks because manufacturing requires prior knowledge of the product (the mold precedes the casting), but the most important creative work discovers its own form during the process"
+  - "[source] misleads because the material in manufacturing is passive and inert, but creative media push back -- language resists the poet, paint behaves unexpectedly -- and the making frame hides this reciprocal dialogue with the medium"
 ---
 
 ## Transfers

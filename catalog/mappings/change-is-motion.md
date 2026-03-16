@@ -19,6 +19,13 @@ related:
 slug: change-is-motion
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] displacement from one location to another provides direction, distance, and a measurable before-and-after, making change quantifiable"
+  - "[source] velocity maps rate of change onto a scale from frozen stillness to dizzying speed"
+  - "[source] departure from an origin point makes the degree of change proportional to distance traveled"
+limits:
+  - "[source] breaks because the motion metaphor works best for linear, directional change, but many important changes are multidimensional, cyclical, or identity-altering in ways that a stable entity traversing locations cannot represent"
+  - "[source] misleads because speed maps onto significance, systematically undervaluing gradual transformation (erosion, cultural drift) and overvaluing fast but trivial change (fashion cycles)"
 ---
 
 ## Transfers

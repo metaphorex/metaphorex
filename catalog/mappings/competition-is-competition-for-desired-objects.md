@@ -19,6 +19,13 @@ related:
 slug: competition-is-competition-for-desired-objects
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] the desired object is limited -- if one party grasps it, others cannot, making zero-sum reasoning feel natural because physical objects are inherently exclusive in possession"
+  - "[source] competitive action is modeled as reaching and grasping, with proximity to the object mapping onto likelihood of success"
+  - "[source] the outcome is binary possession: winners hold the object, losers are empty-handed"
+limits:
+  - "[source] breaks because many competitive goods (knowledge, reputation, network effects) are not depleted by sharing, and the object metaphor smuggles scarcity into domains where it does not apply"
+  - "[source] misleads because the desired object is treated as static, but competitive prizes often transform during the competition -- the market opportunity that existed at the start may be entirely different by the time someone grasps it"
 ---
 
 ## Transfers

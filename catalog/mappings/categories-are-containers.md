@@ -17,6 +17,13 @@ related:
 slug: categories-are-containers
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] containers have a definite inside, outside, and boundary, making membership a binary spatial fact rather than a matter of degree"
+  - "[source] containers can be nested inside other containers, mapping taxonomic hierarchy onto physical containment"
+  - "[source] overlapping containers create spatial intersections, which Venn diagrams literalize as the canonical visualization of category relations"
+limits:
+  - "[source] breaks because containers demand sharp boundaries, but many real categories have fuzzy edges -- a virus is not clearly inside or outside 'alive,' and the metaphor forces binary membership where reality is graded"
+  - "[source] misleads because containment implies homogeneity of contents, hiding that category members can vary enormously (penguins and eagles are both 'in' birds) and that some members are more central than others"
 ---
 
 ## Transfers

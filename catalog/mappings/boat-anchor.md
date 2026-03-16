@@ -16,6 +16,13 @@ related:
 slug: boat-anchor
 source_frame: tool-use
 updated: '2026-03-14'
+transfers:
+  - "[source] an anchor's entire function is its weight, so when it serves no purpose it becomes pure encumbrance that adds mass without contribution"
+  - "[source] the anchor represents real past investment (procurement, installation), making removal feel like admitting that investment was wasted"
+  - "[source] the anchor is conspicuously visible to everyone but collectively tolerated because removal requires effort that carries risk"
+limits:
+  - "[source] breaks because a physical anchor sitting in a yard is inert and affects nothing beyond the space it occupies, but dead code can have invisible interactions that affect build times, shadow configurations, and accumulate orphaned data"
+  - "[source] misleads because a real anchor serves a critical function (preventing drift) that the metaphor discards, preventing the useful question of what stabilizing role this code once played"
 ---
 
 ## Transfers

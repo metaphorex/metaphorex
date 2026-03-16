@@ -19,6 +19,13 @@ related:
 slug: competition-is-a-race
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - "[source] all runners traverse the same track toward a single finish line, making relative position the only measure that matters"
+  - "[source] the starting line makes initial conditions visible and debatable, distinguishing head starts from level playing fields"
+  - "[source] speed is the primary competitive variable, making urgency feel rational and hesitation feel dangerous"
+limits:
+  - "[source] breaks because races constrain movement to one dimension (forward or behind), but real competition allows lateral moves, strategic retreats, and creating entirely new markets that abandon the track"
+  - "[source] misleads because the race frame imports zero-sum structure (one winner) even when applied to positive-sum competitions where multiple companies can thrive simultaneously"
 ---
 
 ## Transfers

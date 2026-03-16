@@ -19,6 +19,13 @@ related:
 slug: creating-is-birthing
 source_frame: reproduction
 updated: '2026-03-12'
+transfers:
+  - "[source] conception is a definite moment of inception, often from the combination of two previously separate elements, giving creation a clear origin event"
+  - "[source] gestation is a period of invisible internal development where the creation grows in complexity until ready to emerge, licensing patience"
+  - "[source] labor is painful, effortful, and dangerous, producing something alive and separate from its creator"
+limits:
+  - "[source] breaks because birthing centers on a single mother-child relationship, making collaborative creation by hundreds of people awkward and gravitating toward a single 'parent' while rendering everyone else invisible"
+  - "[source] misleads because the gestation metaphor makes much of the creative work seem passive and automatic, hiding the deliberate labor of research, revision, and skill development behind a frame of biological inevitability"
 ---
 
 ## Transfers

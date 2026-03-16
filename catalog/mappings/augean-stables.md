@@ -17,6 +17,13 @@ related:
 slug: augean-stables
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] filth accumulated through years of daily neglect is qualitatively different from a single disaster, requiring a fundamentally different kind of intervention than the normal method applied harder"
+  - "[source] the cleaner is an outsider brought in to confront someone else's long-deferred problem"
+  - "[source] diverting a river through the stables compresses the cleanup into a single dramatic act rather than a gradual process"
+limits:
+  - "[source] breaks because institutional dysfunction is embedded in relationships, incentive structures, and processes that cannot be flushed with a single intervention the way physical filth can be washed away with water"
+  - "[source] misleads because the myth treats the cleanup as permanent, but stables that hold cattle will accumulate waste again tomorrow -- there is no vocabulary for ongoing maintenance"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: causes-are-forces
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] a force applied to an object produces movement proportional to the force and in the direction of the push, providing the prototype for direct causation"
+  - "[source] some forces remove barriers rather than push directly, distinguishing active causation from permissive enabling"
+  - "[source] causal sequences are paths that can be traced from origin to outcome, giving causation a spatial, directional structure"
+limits:
+  - "[source] breaks because the force prototype requires a single identifiable agent doing the pushing, but many real causes are agentless -- structural conditions, feedback loops, and statistical regularities have no pusher"
+  - "[source] misleads because forces operate at the point of contact, but many real causes operate at great temporal and spatial distances from their effects, making climate change and compound interest unrepresentable without awkward extension"
 ---
 
 ## Transfers

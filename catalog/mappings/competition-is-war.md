@@ -19,6 +19,13 @@ related:
 slug: competition-is-war
 source_frame: war
 updated: '2026-03-12'
+transfers:
+  - "[source] war provides a deep role structure -- combatants, territory, strategy, supply lines, victory and defeat -- all of which find targets in competitive domains"
+  - "[source] market segments become contested territory to be captured, defended, or ceded, imposing spatial logic on commercial rivalry"
+  - "[source] resources become munitions in an arsenal, making resource allocation feel like arming for battle"
+limits:
+  - "[source] breaks because war aims to destroy the enemy, but most competitive contexts need competitors to survive -- healthy markets require rivals, and the war frame makes monopoly feel like victory when it signals dysfunction"
+  - "[source] misleads because the war frame makes cooperation between competitors (coopetition, standard-setting, industry associations) feel like treason rather than rational strategy"
 ---
 
 ## Transfers

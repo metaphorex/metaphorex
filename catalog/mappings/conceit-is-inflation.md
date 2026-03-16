@@ -18,6 +18,13 @@ related:
 slug: conceit-is-inflation
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] inflation fills a container with air until it expands beyond its natural size, making the inflated object larger on the outside but hollow on the inside"
+  - "[source] over-inflation is inherently unstable and must eventually burst, framing conceit as a temporary state awaiting correction"
+  - "[source] deflation is sudden and potentially violent (popping, puncturing), mapping humiliation onto rapid forced reduction"
+limits:
+  - "[source] breaks because the metaphor makes self-esteem purely quantitative (too much volume), but a person can have accurate high self-regard without being conceited, and can be conceited in one domain while insecure in another"
+  - "[source] misleads because what counts as 'inflated' depends entirely on cultural norms for proper self-presentation -- the metaphor naturalizes a particular culture's norm as the uninflated default"
 ---
 
 ## Transfers

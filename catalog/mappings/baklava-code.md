@@ -15,6 +15,13 @@ related:
 slug: baklava-code
 source_frame: food-and-cooking
 updated: '2026-03-14'
+transfers:
+  - "[source] each phyllo sheet is individually transparent and insubstantial, meaningful only when stacked in aggregate"
+  - "[source] the filling (the substantive content) becomes a thin line lost between dozens of nearly identical layers"
+  - "[source] laminated phyllo bakes into a rigid, brittle structure where modifying any layer requires cutting through the entire stack"
+limits:
+  - "[source] breaks because baklava is a celebrated achievement of culinary craft, but the code it names is a failure of engineering -- the metaphor inverts the valence while borrowing the structure"
+  - "[source] misleads because the metaphor implies deliberate, artisanal layering, when baklava code usually results from mechanical compliance with a framework template rather than intentional over-engineering"
 ---
 
 ## Transfers

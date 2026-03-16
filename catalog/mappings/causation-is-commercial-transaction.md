@@ -19,6 +19,13 @@ related:
 slug: causation-is-commercial-transaction
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - "[source] transactions have a calculable price and a proportional return, creating an expectation that causes and effects should be commensurate"
+  - "[source] unpaid debts remain as outstanding obligations, framing deferred effects as causal accounts that must eventually be settled"
+  - "[source] sustained investment is expected to produce returns over time, making patience feel rational and premature quitting feel like abandoning a sunk cost"
+limits:
+  - "[source] breaks because commercial transactions require voluntary parties who consent, but many causal relationships involve no choice -- a child born into poverty did not pay for their circumstances"
+  - "[source] misleads because the metaphor assumes proportionality (big causes produce big effects), but chaotic systems and tipping points routinely produce disproportionate outcomes that feel like fraud in the transactional frame"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: boil-the-ocean
 source_frame: natural-phenomena
 updated: '2026-03-14'
+transfers:
+  - "[source] the ocean's volume so far exceeds any available heating apparatus that the gap between means and ends is comic, not merely difficult"
+  - "[source] heating the ocean requires applying energy everywhere simultaneously with no ability to decompose into prioritized regions"
+  - "[source] heat radiates away faster than it can be added, so effort disperses into an unbounded problem space without accumulating toward a result"
+limits:
+  - "[source] breaks because boiling the ocean is physically impossible due to thermodynamics, but building a large software system is merely expensive and slow -- the metaphor escalates a resource constraint into an impossibility"
+  - "[source] misleads because the metaphor is binary (ocean or not), providing no vocabulary for the spectrum between impossibly large and sensibly scoped"
 ---
 
 ## Transfers

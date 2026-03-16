@@ -18,6 +18,13 @@ related:
 slug: beliefs-are-beings-with-a-life-cycle
 source_frame: life-course
 updated: '2026-03-12'
+transfers:
+  - "[source] living organisms are born at a definite moment, develop through stages of maturation, and eventually die -- giving beliefs a biographical arc with inception, growth, and extinction"
+  - "[source] organisms reproduce and spawn offspring, making beliefs part of lineages and genealogies of thought"
+  - "[source] health and vitality are conditions that can be assessed: a vigorous organism thrives while a sick one loses capacity"
+limits:
+  - "[source] breaks because organisms have intrinsic life spans built into their biology, but beliefs have no built-in expiration date -- monotheism has persisted for millennia without senescence"
+  - "[source] misleads because the life-cycle framing makes beliefs seem to be born and die on their own, obscuring that they are actively constructed, promoted, and suppressed by people and institutions with power"
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: context-window-is-working-memory
 source_frame: mental-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] working memory holds a finite number of items simultaneously, making the context window's token limit feel like a natural cognitive constraint"
+  - "[source] recent items are easier to recall than older ones (recency effect), mapping attention-weight decay onto familiar memory dynamics"
+  - "[source] chunking and summarization extend effective capacity, making engineering workarounds for token limits feel like cognitive strategies"
+limits:
+  - "[source] breaks because working memory actively manipulates and integrates information, while a context window is passive input where tokens sit with equal ontological status until the attention mechanism processes them"
+  - "[source] misleads because human forgetting is selective (emotionally significant information persists), but context truncation drops tokens from the beginning regardless of importance -- brute FIFO rather than intelligent forgetting"
 ---
 
 ## Transfers

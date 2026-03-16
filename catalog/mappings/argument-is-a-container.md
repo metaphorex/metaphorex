@@ -20,6 +20,13 @@ related:
 slug: argument-is-a-container
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] containers have definite insides and outsides, making the boundary between included and excluded content a spatial fact"
+  - "[source] holes in a container cause contents to leak, mapping logical gaps onto material damage"
+  - "[source] packing and unpacking contents treats argument construction as loading and analysis as inspection of individual items"
+limits:
+  - "[source] breaks because containers hold things without ordering them, but arguments have internal logical structure where premises support conclusions in specific dependency relations"
+  - "[source] misleads because container boundaries appear fixed and objective, but the scope of an argument is a contestable rhetorical choice disguised as spatial geometry"
 ---
 
 ## Transfers

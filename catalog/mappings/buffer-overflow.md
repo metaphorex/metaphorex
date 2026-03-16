@@ -19,6 +19,13 @@ related:
 slug: buffer-overflow
 source_frame: fluid-dynamics
 updated: '2026-03-14'
+transfers:
+  - "[source] a vessel has a hard capacity limit that cannot be exceeded without spillage, and the severity of damage bears no relation to the size of the excess"
+  - "[source] spillage flows into whatever is physically adjacent, so the damage is determined by what happens to be next to the container rather than by the nature of the overflow"
+  - "[source] the input source operates independently of the container's capacity, with no mechanism monitoring the fill level"
+limits:
+  - "[source] breaks because physical overflow is immediately visible (water on the floor), but buffer overflow can go undetected for years as a latent vulnerability in production code"
+  - "[source] misleads because the fluid metaphor suggests the fix is a bigger container, when the actual solution is bounds checking -- validating input size before writing, not expanding capacity"
 ---
 
 ## Transfers

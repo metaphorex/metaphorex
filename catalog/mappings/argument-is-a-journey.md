@@ -20,6 +20,13 @@ related:
 slug: argument-is-a-journey
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - "[source] travelers share a path and can be co-travelers rather than adversaries, making collaborative progress the default mode"
+  - "[source] getting lost is a navigational problem to be corrected, not a defeat to be suffered"
+  - "[source] each waypoint on the path must be traversed in sequence -- skipping steps means the audience cannot follow"
+limits:
+  - "[source] breaks because journeys have a single destination, but some arguments are exploratory with no predetermined endpoint, making aimless inquiry feel like failure"
+  - "[source] misleads because the path metaphor linearizes reasoning, making productive recursion and revisiting feel like going in circles"
 ---
 
 ## Transfers

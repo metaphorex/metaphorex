@@ -16,6 +16,13 @@ related:
 slug: bicycle-for-the-mind
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] the rider provides all the energy and chooses the direction; the bicycle only multiplies the efficiency of effort already supplied"
+  - "[source] a bicycle is cheap, simple, and personally operated, requiring no institutional infrastructure or expert intermediaries"
+  - "[source] the mechanical linkage between pedal force and wheel motion is transparent and directly observable by the rider"
+limits:
+  - "[source] breaks because generative AI systems produce output without the user supplying the conceptual energy, unlike a bicycle which goes nowhere without pedaling"
+  - "[source] misleads because bicycles faithfully transmit force in the direction steered, but AI systems produce confident nonsense at unpredictable intervals -- a failure mode with no bicycle analogue"
 ---
 
 ## Transfers

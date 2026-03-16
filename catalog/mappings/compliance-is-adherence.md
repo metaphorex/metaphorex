@@ -16,6 +16,13 @@ related:
 slug: compliance-is-adherence
 source_frame: physical-connection
 updated: '2026-03-12'
+transfers:
+  - "[source] adhesion maintains contact between two surfaces, making compliance a matter of sustained physical bonding rather than a single act"
+  - "[source] the strength of the adhesive bond maps onto the degree of commitment -- strong adhesion is zealous compliance, weak adhesion is fragile compliance ready to come unstuck"
+  - "[source] separation leaves residue, mapping the lasting influence of abandoned norms onto the traces that adhesion leaves after the bond is broken"
+limits:
+  - "[source] breaks because adhesion has no moral dimension -- glue does not care what it sticks to -- but compliance is saturated with judgment about whether the rule deserves adherence"
+  - "[source] misleads because the metaphor makes compliance passive (a sticker on a surface does not choose to stick), hiding the ongoing interpretation and creative adaptation that real compliance requires"
 ---
 
 ## Transfers

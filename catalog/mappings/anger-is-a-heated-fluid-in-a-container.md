@@ -23,6 +23,13 @@ related:
 slug: anger-is-a-heated-fluid-in-a-container
 source_frame: fluid-dynamics
 updated: '2026-03-13'
+transfers:
+  - "[source] heating a sealed liquid raises internal pressure that the container must structurally resist or catastrophically fail"
+  - "[source] controlled release through a valve reduces pressure without structural damage, unlike uncontrolled rupture"
+  - "[source] the fluid's temperature provides a continuous, perceivable scale from simmering to boiling to explosion"
+limits:
+  - "[source] breaks because the hydraulic model predicts that releasing pressure (venting) reduces it, but psychological research shows that expressing anger often intensifies rather than dissipates it"
+  - "[source] misleads because fluid dynamics are involuntary physical processes, hiding the role of cognitive appraisal and narrative construction in generating and sustaining anger"
 ---
 
 ## Transfers

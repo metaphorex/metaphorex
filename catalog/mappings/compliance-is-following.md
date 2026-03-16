@@ -16,6 +16,13 @@ related:
 slug: compliance-is-following
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - "[source] rules are paths laid down in advance, with authority figures ahead setting direction and the compliant person walking behind retracing their steps"
+  - "[source] disobedience is spatial straying -- going off-track, wandering from the path -- making noncompliance navigational error"
+  - "[source] degree of compliance maps onto distance from the path or the leader, with strict compliance as close following and loose compliance as following at a distance"
+limits:
+  - "[source] breaks because following assumes a single correct path, but many regulatory environments involve competing rules and multiple valid interpretations that cannot be walked simultaneously"
+  - "[source] misleads because following is passive (you see where the leader goes and go there too), hiding the active interpretation and judgment that real compliance with ambiguous rules requires"
 ---
 
 ## Transfers

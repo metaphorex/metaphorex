@@ -19,6 +19,13 @@ related:
 slug: creating-is-making-visible
 source_frame: vision
 updated: '2026-03-12'
+transfers:
+  - "[source] creating is removing an obstruction to visibility rather than assembling a new object, framing the creator as someone who reveals what was already latent"
+  - "[source] creative skill maps onto perceptual acuity -- the creator sees what others cannot and makes it visible to them"
+  - "[source] pre-creation is darkness or concealment, presupposing a reality that precedes its disclosure"
+limits:
+  - "[source] breaks because the metaphor presupposes that the created thing pre-exists in latent form, but a novel or a symphony does not exist before the creator writes it in any meaningful sense"
+  - "[source] misleads because revelation is passive (removing a veil), downplaying the effort, skill, and struggle involved in creative work by framing it as merely uncovering what was always there"
 ---
 
 ## Transfers

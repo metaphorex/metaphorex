@@ -14,6 +14,13 @@ related:
 slug: argument-is-dance
 source_frame: dance
 updated: '2026-03-09'
+transfers:
+  - "[source] partners depend on each other for the quality of the performance, making the other person essential rather than adversarial"
+  - "[source] missteps threaten both partners equally, creating incentive to help the other recover rather than exploit their error"
+  - "[source] lead and follow are both active roles requiring continuous mutual attentiveness and real-time adjustment"
+limits:
+  - "[source] breaks because dance requires mutual consent to begin, but arguments can be forced upon unwilling participants, making the frame useless against coercion"
+  - "[source] misleads because no institutional context currently rewards collaborative argumentation, making the frame aspirational rather than descriptive of existing practice"
 ---
 
 ## Transfers

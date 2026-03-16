@@ -18,6 +18,13 @@ related:
 slug: bus-factor
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] a bus strikes randomly and without warning, modeling the threat as unforeseeable sudden loss rather than planned departure"
+  - "[source] a person's body is a container for tacit knowledge that is destroyed when the body is destroyed, with no extraction mechanism"
+  - "[source] the bus factor produces a countable metric that converts diffuse organizational anxiety into a concrete, comparable number"
+limits:
+  - "[source] breaks because the metaphor implies that adding a second person doubles safety, but knowledge transfer is not file copying -- the second person brings different mental models and blind spots"
+  - "[source] misleads because the dramatic framing (sudden death) distorts priorities, causing teams to invest heavily in catastrophic-loss mitigation while ignoring the slower, more common forms of knowledge erosion through attrition and role changes"
 ---
 
 ## Transfers

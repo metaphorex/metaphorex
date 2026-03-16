@@ -17,6 +17,13 @@ related:
 slug: compute-is-a-resource
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] scarce resources must be allocated across competing demands through budgets, quotas, and rationing"
+  - "[source] strategic resources are stockpiled, their supply chains secured, and their export controlled by nation-states"
+  - "[source] resource markets make the commodity fungible and tradeable, enabling pricing per unit and spot-market dynamics"
+limits:
+  - "[source] breaks because compute is manufactured and can be expanded by building more fabs, unlike oil deposits formed over geological time -- the scarcity logic applies short-term but not long-term"
+  - "[source] misleads because a GPU used for one training run is not consumed and can immediately serve the next -- compute is a flow resource like labor, not a stock resource like ore, but the depletion vocabulary implies otherwise"
 ---
 
 ## Transfers

@@ -16,6 +16,13 @@ related:
 slug: c-casting
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - "[source] the mold constrains liquid material into a new shape without changing the material itself, framing type conversion as reinterpretation under constraint"
+  - "[source] pouring into a mold smaller than the material risks overflow and loss of detail, mapping narrowing conversions onto destructive physical forcing"
+  - "[source] the mold is chosen before the pour, so the target shape determines the result independent of the raw material's preferences"
+limits:
+  - "[source] breaks because metal casting is irreversible (the material solidifies in the new shape), but many C casts are freely reversible, importing a permanence the operation does not have"
+  - "[source] misleads because reinterpret casts change nothing about the underlying bits -- they relabel rather than reshape -- and the manufacturing metaphor has no vocabulary for relabeling without transformation"
 ---
 
 ## Transfers

@@ -15,6 +15,13 @@ related:
 slug: ai-is-an-oracle
 source_frame: religion
 updated: '2026-03-13'
+transfers:
+  - "[source] the oracle delivers pronouncements whose generation process is hidden from the supplicant"
+  - "[source] the quality of the oracle's response depends on the ritual precision of the query"
+  - "[source] ambiguity in the oracle's pronouncement shifts interpretive burden entirely to the recipient"
+limits:
+  - "[source] breaks because oracles channel a divine source of truth, but LLMs channel a statistical summary of training data with no epistemic authority"
+  - "[source] misleads because consulting an oracle was a rare, high-stakes act requiring pilgrimage, but AI queries are trivially cheap and infinitely repeatable"
 ---
 
 ## Transfers

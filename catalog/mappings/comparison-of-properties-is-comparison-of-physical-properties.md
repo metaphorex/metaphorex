@@ -17,6 +17,13 @@ related:
 slug: comparison-of-properties-is-comparison-of-physical-properties
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] physical properties exist on perceptible scales (heavier/lighter, taller/shorter) that make ranking feel like perception rather than judgment"
+  - "[source] multiple physical dimensions (weight, size, temperature, brightness) are available for a single abstract comparison, each highlighting a different structural aspect"
+  - "[source] physical measurement has a resolution that can be crude or precise, mapping onto the distinction between rough estimates and fine-grained analysis"
+limits:
+  - "[source] breaks because physical measurement is observer-independent (anyone holding the scale gets the same result), but comparing the depth of two philosophical arguments depends entirely on the evaluator's framework"
+  - "[source] misleads because the continuous-scale model of physical properties obscures qualitative thresholds -- an argument that is slightly stronger may cross from invalid to valid, a discontinuity the physical frame cannot represent"
 ---
 
 ## Transfers

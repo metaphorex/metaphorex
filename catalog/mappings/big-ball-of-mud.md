@@ -16,6 +16,13 @@ related:
 slug: big-ball-of-mud
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] mud has no internal structure, no crystalline organization, and no discernible boundaries between parts -- it is amorphous and uniform in its lack of form"
+  - "[source] a ball of mud grows by accretion as each handful sticks to the existing mass, making it easier to add than to reshape"
+  - "[source] mud is viscerally unpleasant to handle, carrying tactile disgust that motivates cleanup through shame"
+limits:
+  - "[source] breaks because mud is homogeneous throughout, but real muddy codebases have zones of varying quality -- a well-tested core surrounded by expedient hacks -- and the metaphor flattens this useful heterogeneity"
+  - "[source] misleads because a ball of mud is physically stable and does not break, but muddy code is notoriously fragile, with hidden dependencies that cause unrelated parts to fail when one thing changes"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: argument-is-a-building
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] removing the foundation causes the entire structure above to collapse, making load-bearing elements identifiable"
+  - "[source] structural integrity can be inspected for cracks and weak joints without destroying the whole"
+  - "[source] reinforcing a weak section locally preserves the rest of the structure"
+limits:
+  - "[source] breaks because buildings are static objects to be inspected, but arguments exist in dynamic social contexts of challenge and response"
+  - "[source] misleads because architectural collapse is total and sudden, but arguments can be partially right, right for wrong reasons, or right in one context and wrong in another"
 ---
 
 ## Transfers

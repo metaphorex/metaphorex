@@ -17,6 +17,13 @@ related:
 slug: ai-safety-is-containment
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] container integrity is testable through stress probes that attempt to breach the boundary"
+  - "[source] the contents exert outward pressure proportional to their volume, requiring walls scaled to the load"
+  - "[source] a jailbreak is escape from confinement, casting circumvention as transgressive liberation"
+limits:
+  - "[source] breaks because containers hold substances with predictable physical behavior, but natural language inputs create an unbounded space of adversarial paths around any fixed barrier"
+  - "[source] misleads because containment presupposes an entity that wants to escape, importing adversarial agency onto a system that generates token sequences without desire"
 ---
 
 ## Transfers

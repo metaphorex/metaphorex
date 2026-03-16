@@ -17,6 +17,13 @@ related:
 slug: coherent-is-whole
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] a whole object has all its parts present and properly connected, making completeness and consistency a structural property that can be inspected"
+  - "[source] fragmentation destroys the object's function, making logical failure feel like sudden material breakage"
+  - "[source] gaps and holes weaken the structure, making omissions feel as dangerous as contradictions"
+limits:
+  - "[source] breaks because a perfectly whole object can be useless, so coherence in the wholeness frame gets conflated with truth -- conspiracy theories hold together beautifully while being false"
+  - "[source] misleads because productive internal tensions (dialectics, constitutional law) register as structural cracks to be repaired, when removing the tension may remove what makes the framework powerful"
 ---
 
 ## Transfers

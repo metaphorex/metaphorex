@@ -17,6 +17,13 @@ related:
 slug: cerberus
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the guardian enforces directional rules at a boundary -- the dead may enter but not leave, the living may not enter -- mapping onto asymmetric access control"
+  - "[source] the three heads watch simultaneously, making multi-factor or multi-party verification structurally harder to evade than a single checkpoint"
+  - "[source] the guardian is fearsome but subordinate, enforcing rules set by a higher authority rather than making policy itself"
+limits:
+  - "[source] breaks because the myth includes multiple stories of heroes bypassing Cerberus through music, drugged cakes, and brute force, undermining the confidence the name is meant to inspire"
+  - "[source] misleads because Cerberus guards a single physical entrance, but modern distributed systems have no single perimeter gate, making the metaphor architecturally outdated for zero-trust environments"
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: conscious-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] waking is rising from a horizontal position, grounding the up-down axis in the literal bodily posture change between sleep and consciousness"
+  - "[source] falling asleep frames the transition as a loss of control and surrender to gravity, not a chosen descent"
+  - "[source] depth of unconsciousness provides a continuous vertical scale -- deeper means more removed from awareness, with coma at the bottom"
+limits:
+  - "[source] breaks because sleep architecture involves complex cycles (light sleep, deep sleep, REM) that do not map onto a single vertical axis -- REM involves high brain activity while metaphorically at the bottom"
+  - "[source] misleads because altered states like meditation and flow are conscious but not 'up' in the alert-and-active sense, and the metaphor has only one axis for multiple dimensions of awareness"
 ---
 
 ## Transfers

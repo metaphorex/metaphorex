@@ -18,6 +18,13 @@ related:
 slug: communication-is-sending
 source_frame: containers
 updated: '2026-03-14'
+transfers:
+  - "[source] the sender packages meaning into word-containers and ships them to a receiver across a channel that can be clear or noisy"
+  - "[source] successful communication is verified by receipt: 'did the message land?' provides a clean binary success criterion"
+  - "[source] meaning is treated as a physical object that occupies space, moves through a medium, and can be damaged or lost in transit"
+limits:
+  - "[source] breaks because the receiver does not unpack a pre-formed meaning but constructs their own interpretation from cues, making divergent understanding the normal mechanism rather than a delivery error"
+  - "[source] misleads because the sending model is fundamentally one-directional, making dialogue and collaborative meaning-making hard to represent -- conversation is not two people taking turns shipping packages"
 ---
 
 ## Transfers

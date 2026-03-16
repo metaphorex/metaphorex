@@ -14,6 +14,13 @@ related: []
 slug: bankrupt
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] the public destruction of a work surface declares that the person can no longer transact, making insolvency a visible and irreversible event"
+  - "[source] destroying the bench targets the capacity to operate rather than the missing wealth itself, encoding a distinction between having no money and having no ability to make money"
+  - "[source] the bench (banca) is the etymological root of both 'bank' and 'bankrupt,' embedding a furniture-origin metaphor in the entire vocabulary of modern finance"
+limits:
+  - "[source] breaks because modern bankruptcy is a protective legal status designed to enable recovery, but the dead metaphor imports the punitive framing of public destruction and disgrace"
+  - "[source] misleads because extensions like 'morally bankrupt' have no bench to smash -- the metaphor died so thoroughly that it became raw material for new metaphors that contradict its source domain"
 ---
 
 ## Transfers

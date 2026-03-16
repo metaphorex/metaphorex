@@ -17,6 +17,13 @@ related:
 slug: code-smell
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] smell operates below conscious attention as a pre-rational detection signal -- you react before you can name the source"
+  - "[source] odor indicates something is off without diagnosing the specific cause, separating detection from diagnosis"
+  - "[source] smell has gradation (faint to overwhelming) and convergence among experienced noses, accommodating both consensus and legitimate subjective variation"
+limits:
+  - "[source] breaks because noses adapt to persistent odors (olfactory fatigue), and developers who live in a codebase for years lose sensitivity to its problems -- a mapping that is accurate but rarely discussed"
+  - "[source] misleads because the olfactory frame is inherently qualitative, implicitly devaluing automated static analysis and formal methods by framing quality as something you sniff rather than measure"
 ---
 
 ## Transfers

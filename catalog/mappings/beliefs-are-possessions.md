@@ -22,6 +22,13 @@ related:
 slug: beliefs-are-possessions
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] possessions can be acquired, held, exchanged, and lost, structuring belief change as inventory management"
+  - "[source] threats to possessions trigger protective impulses, making challenges to belief feel like threats to property requiring defense"
+  - "[source] persuasion maps onto commerce: the persuader offers a belief and the audience either buys it or rejects the merchandise"
+limits:
+  - "[source] breaks because possessions are zero-sum (giving one away means having less), but sharing a belief with another person does not deplete it"
+  - "[source] misleads because possessions sit passively in your pocket, but beliefs require continuous reinforcement through social confirmation and narrative maintenance -- they are dynamic, not static"
 ---
 
 ## Transfers

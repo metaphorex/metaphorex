@@ -18,6 +18,13 @@ related:
 slug: bad-is-stinky
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] noxious odors trigger involuntary avoidance before conscious evaluation, making detection pre-rational and immediate"
+  - "[source] biological decomposition produces intensifying smells that spread to adjacent matter through proximity"
+  - "[source] olfactory detection operates at a distance without requiring direct contact, enabling early warning"
+limits:
+  - "[source] breaks because what smells bad is culturally variable (fermented foods are delicacies in some cultures and repulsive in others), so the metaphor naturalizes culturally specific disgust as objective evaluation"
+  - "[source] misleads because many of the worst harms are odorless -- financial fraud, structural racism, carbon monoxide -- creating false confidence that badness is always sensorily detectable"
 ---
 
 ## Transfers
