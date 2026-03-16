@@ -46,6 +46,23 @@ so the user sees progress.
 
 **Dispatch order and concurrency rules:**
 
+0. **Reclaim stale issues** — if `stale_in_progress` is non-empty, remove
+   the `in-progress` label from each stale issue before dispatching miners.
+   These are sub-issues that were claimed by a miner but never completed
+   (no open PR references them).
+
+   ```bash
+   for num in <stale_issue_numbers>; do
+     gh api "repos/metaphorex/metaphorex/issues/$num/labels/in-progress" -X DELETE --silent
+   done
+   ```
+
+   Report in the round summary Highlights:
+   "Reclaimed N stale in-progress issues — now available for mining"
+
+   This step runs before miner dispatch so the reclaimed issues appear
+   in the `unclaimed` bucket on the next survey.
+
 1. **Parallel group** — launch ALL applicable agents simultaneously:
    - If `needs_smelting` is non-empty: TaskCreate "Smelting PRs...", then
      dispatch `metaphorex-agents:smelter` with model `haiku`
@@ -80,12 +97,27 @@ so the user sees progress.
 2. **Wait** for all parallel agents to complete. As each finishes, TaskUpdate
    its spinner to completed.
 
-3. **Approved PRs auto-merge.** The `auto-merge.yml` workflow handles merging
+3. **Friction aggregation** — after all agents in a round complete, scan
+   their result text for kaizen issue references (e.g., "#1432"). If 3+
+   agents reference the same kaizen issue:
+   - Add `priority:high` label if not already set:
+     ```bash
+     gh issue edit <N> --repo metaphorex/metaphorex --add-label "priority:high"
+     ```
+   - Add a comment noting the systemic impact:
+     ```bash
+     gh api repos/metaphorex/metaphorex/issues/<N>/comments \
+       -f body="Systemic: hit by N/M agents in round R. Escalating to priority:high."
+     ```
+   - Include in the round summary Kaizen section:
+     "Escalated: #1432 (worktree confusion) — hit by 5/5 miners this round"
+
+4. **Approved PRs auto-merge.** The `auto-merge.yml` workflow handles merging
    when the Assayer labels a PR `approved`. Pitboss does not merge PRs.
    If a PR is stuck (CI failing, merge conflict), the workflow will not merge
    it — check the PR's status checks for details.
 
-4. **New mining work** — only if no `in_progress` items exist AND
+5. **New mining work** — only if no `in_progress` items exist AND
    `unclaimed` issues exist (unclaimed issues only come from `surveyed`
    projects — the survey script filters accordingly):
    - Take up to 5 unclaimed issues from the survey
@@ -110,15 +142,44 @@ agent bug to fix in the agent prompt, not a pitboss workaround.
 
 ## Phase C — Round summary & loop
 
-After all agents in a round complete, print a round summary:
+After all agents in a round complete, print a round summary with three
+sections: Work, Highlights, and Kaizen.
 
 ```
-## Round 1 Complete
+## Round N Complete
+
+### Work
 - Smelted: PR #55 → needs-assay
 - Assayed: PR #48 → approved + auto-merge
-- Mined: 5 issues → PR opened
+- Mined: 5 issues → PR #123 opened
 - Remaining: 12 unclaimed issues
+
+### Highlights
+- (any bugs fixed and pushed to main this round)
+- (any stale issues reclaimed, with before/after counts)
+- (any structural improvements made to scripts or agent prompts)
+- (if nothing notable: "Routine round, no structural changes.")
+
+### Kaizen
+- Open: N issues — #1451 (kaizen feedback loops), #1432 (worktree confusion)
+- Filed this round: #1449 (missing playbook details)
+- Resolved this round: #1369, #1370, #1371 (survey.py fixes → commit abc123)
+- (if no kaizen activity: "No kaizen activity this round.")
 ```
+
+**Highlights rules:**
+- Only include genuinely notable items — not every agent completing normally
+- Always include before/after metrics when fixing pipeline blockages
+  (e.g., "Reclaimed 187 stale issues: unclaimed went 0 → 188")
+- When pushing fixes to main, name the commit and what it changes
+- When closing kaizen issues, link the fix and describe the impact
+
+**Kaizen rules:**
+- Read `kaizen_open` from the survey output each round
+- Show the open count + first 3 issue numbers/titles
+- Track which kaizen issues were filed or resolved this round
+- When resolving kaizen, always describe what the operator can expect
+  to see differently in future runs
 
 Then loop back to **Phase A** (sync + survey). The sync step pulls any PRs
 that merged during this round, so the next round works from fresh main.
@@ -128,6 +189,41 @@ If `total_actionable` is 0 after survey, print a final summary and stop.
 `total_actionable == 0`. Do not apply cost reasoning, session-length
 heuristics, or "diminishing returns" logic. The user controls budget
 externally; the pipeline runs until idle.
+
+## Session-end summary
+
+When `total_actionable` reaches 0 (or the session ends), print a final
+summary covering the entire session:
+
+```
+## Session Complete
+
+### Production
+- Rounds: N
+- PRs opened: N (list PR numbers)
+- New mappings created: ~N
+- Duplicates closed: N
+- Projects surveyed/approved: N
+- Sub-issues created: N
+
+### Improvements Made
+- (list each structural fix with before/after impact)
+- Example: "Fixed survey.py (3 bugs) → unclaimed went 0 → 188"
+- Example: "Reclaimed 187 stale in-progress issues"
+
+### Kaizen Filed
+- #NNNN: title (priority)
+- #NNNN: title (priority)
+
+### Kaizen Resolved
+- #NNNN: title — fixed via commit/PR, impact description
+
+### Open Kaizen Backlog
+- N issues remain open (list top 5 by priority)
+```
+
+Track these metrics incrementally as the session progresses. Keep running
+counters for PRs opened, mappings created, kaizen filed/resolved.
 
 ## Stats accounting
 
@@ -151,3 +247,19 @@ At the very end, post your own orchestration stats as well:
 ```
 ## stats:pitboss:opus tokens_in=<N> tokens_out=<N> ms=<N> usd_in_per_mtok=15.00 usd_out_per_mtok=75.00
 ```
+
+## Kaizen reporting
+
+When filing improvement or friction issues during a session, always use the
+kaizen label namespace — never bare `bug` or `enhancement`:
+
+```bash
+gh issue create --repo metaphorex/metaphorex \
+  --label "kaizen:pipeline" \
+  --title "kaizen: <short description>" \
+  --body "<description>"
+```
+
+Use `kaizen:pipeline` for agent prompts, orchestration, scripts, merge flow.
+Use `kaizen:content` for schema, validation, taxonomy issues.
+Search for duplicates first: `gh issue list -R metaphorex/metaphorex --label kaizen:pipeline --state open`
