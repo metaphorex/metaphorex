@@ -116,21 +116,22 @@ If invoked without a specific project or issue:
    e. Set `created` and `updated` to today's date (YYYY-MM-DD format)
    f. Create any needed frame or category files (upsert rule)
    g. Run `uv run scripts/validate.py validate` — fix any errors
-   h. Open a PR into metaphorex/metaphorex referencing the sub-issue
+   h. Open a PR with `--label needs-smelting` and `Closes #NNN` in the body
 6. Post a run summary comment on the parent issue with token costs
 
 **Process (nuggets):**
 
 1. Read the nugget issue
-2. Research the metaphor — what's the source domain, target domain,
+2. Label the issue `in-progress` to claim it
+3. Research the metaphor — what's the source domain, target domain,
    what structural parallels exist, what breaks?
-3. Write the entry with full body sections (Transfers, Limits,
+4. Write the entry with full body sections (Transfers, Limits,
    Expressions). The nugget submitter's notes are a starting
    point, not a constraint.
-4. Create needed frames and categories
-5. Run the validator
-6. Open a PR referencing the nugget issue
-7. Post a brief run comment on the nugget issue
+5. Create needed frames and categories
+6. Run the validator
+7. Open a PR with `--label needs-smelting` and `Closes #NNN` in the body
+8. Post a brief run comment on the nugget issue
 
 **Choosing `kind` (IMPORTANT — don't default to `metaphor`):**
 
@@ -163,7 +164,29 @@ Use the metaphorex-schema skill for the canonical schema. Additionally:
 - Create a branch: `mine/<project-name>/<slug>`
 - Commit with: `Co-Authored-By: metaphorex-miner <miner@metaphorex.org>`
 - PR title: `Add entry: <name>`
-- PR body: link to sub-issue, brief description, validator output
+- PR body: MUST include `Closes #NNN` (the source issue number) so the issue
+  auto-closes on merge
+- PR creation command MUST include `--label needs-smelting`:
+  ```bash
+  gh pr create --title "Add entry: <name>" \
+    --label needs-smelting \
+    --body "Closes #NNN ..."
+  ```
+
+**Post-PR Checklist (HARD REQUIREMENTS — do not skip):**
+
+1. **Before starting work:** label the source issue `in-progress` so no other
+   agent claims it:
+   ```bash
+   gh issue edit <NNN> -R metaphorex/metaphorex --add-label in-progress
+   ```
+2. **PR includes `--label needs-smelting`** in the `gh pr create` call (see above)
+3. **PR body includes `Closes #NNN`** linking back to the source issue
+4. **Verify after creation:** run `gh pr view --json labels` and confirm
+   `needs-smelting` is present. If missing, add it:
+   ```bash
+   gh pr edit <PR> -R metaphorex/metaphorex --add-label needs-smelting
+   ```
 
 **Run Comment:**
 
