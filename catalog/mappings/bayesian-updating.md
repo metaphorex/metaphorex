@@ -1,13 +1,11 @@
 ---
-applies_to:
-- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - systems-thinking
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Bayesian Updating
 provenance: munger-poor-charlies-almanack
 related:

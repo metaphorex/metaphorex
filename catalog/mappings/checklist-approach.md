@@ -1,6 +1,4 @@
 ---
-applies_to:
-- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
@@ -8,7 +6,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: paradigm
+kind: mental-model
 name: Checklist Approach
 provenance: munger-poor-charlies-almanack
 related:

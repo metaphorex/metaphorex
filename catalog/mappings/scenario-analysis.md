@@ -1,13 +1,11 @@
 ---
-applies_to:
-- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
 - cognitive-science
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Scenario Analysis
 provenance: munger-poor-charlies-almanack
 related:

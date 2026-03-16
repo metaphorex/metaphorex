@@ -1,19 +1,16 @@
 ---
-applies_to:
-- life-course
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
 - systems-thinking
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Compounding
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest
 slug: compounding
-source_frame: economics
 updated: '2026-03-13'
 ---
 

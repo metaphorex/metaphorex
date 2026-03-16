@@ -1,6 +1,4 @@
 ---
-applies_to:
-- governance
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
@@ -8,7 +6,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: paradigm
+kind: mental-model
 name: Principal-Agent Problem
 provenance: munger-poor-charlies-almanack
 related:
@@ -16,7 +14,6 @@ related:
 - lollapalooza-effect
 - the-map-is-not-the-territory
 slug: principal-agent-problem
-source_frame: economics
 updated: '2026-03-13'
 ---
 

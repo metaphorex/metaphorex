@@ -1,13 +1,11 @@
 ---
-applies_to:
-- social-behavior
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
 - social-dynamics
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Information Asymmetry
 provenance: munger-poor-charlies-almanack
 related:
@@ -15,7 +13,6 @@ related:
 - principal-agent-problem
 - the-map-is-not-the-territory
 slug: information-asymmetry
-source_frame: economics
 updated: '2026-03-13'
 ---
 

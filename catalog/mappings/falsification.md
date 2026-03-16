@@ -1,20 +1,17 @@
 ---
-applies_to:
-- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - philosophy
 - systems-thinking
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Falsification
 provenance: munger-poor-charlies-almanack
 related:
 - bayesian-updating
 - the-map-is-not-the-territory
 slug: falsification
-source_frame: intellectual-inquiry
 updated: '2026-03-13'
 ---
 

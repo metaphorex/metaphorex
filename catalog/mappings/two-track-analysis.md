@@ -1,13 +1,11 @@
 ---
-applies_to:
-- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - systems-thinking
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Two-Track Analysis
 provenance: munger-poor-charlies-almanack
 related:
