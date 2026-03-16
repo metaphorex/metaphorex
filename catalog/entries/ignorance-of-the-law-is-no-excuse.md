@@ -10,7 +10,10 @@ categories:
   - ethics-and-morality
 author: agent:metaphorex-miner
 contributors: []
-related: []
+related:
+  - where-there-is-a-right-there-is-a-remedy
+  - necessity-knows-no-law
+provenance: brooms-legal-maxims
 created: '2026-03-16'
 updated: '2026-03-16'
 harness: "Claude Code"
