@@ -21,15 +21,30 @@ for (const m of mappings) {
 }
 const sortedCats = Object.entries(byCat).sort((a, b) => b[1] - a[1]);
 
-// Top source and target frames
+// Top source frames
 const sourceCount: Record<string, number> = {};
-const targetCount: Record<string, number> = {};
 for (const m of mappings) {
-  sourceCount[m.data.source_frame] = (sourceCount[m.data.source_frame] || 0) + 1;
-  targetCount[m.data.target_frame] = (targetCount[m.data.target_frame] || 0) + 1;
+  if (m.data.source_frame) {
+    sourceCount[m.data.source_frame] = (sourceCount[m.data.source_frame] || 0) + 1;
+  }
 }
 const topSources = Object.entries(sourceCount).sort((a, b) => b[1] - a[1]).slice(0, 10);
-const topTargets = Object.entries(targetCount).sort((a, b) => b[1] - a[1]).slice(0, 10);
+
+// Top applies_to frames
+const appliesToCount: Record<string, number> = {};
+for (const m of mappings) {
+  for (const t of m.data.applies_to || []) {
+    appliesToCount[t] = (appliesToCount[t] || 0) + 1;
+  }
+}
+const topAppliesTo = Object.entries(appliesToCount).sort((a, b) => b[1] - a[1]).slice(0, 10);
+
+// Grounding breakdown
+const byGrounding: Record<string, number> = {};
+for (const m of mappings) {
+  const g = m.data.grounding || "folk";
+  byGrounding[g] = (byGrounding[g] || 0) + 1;
+}
 ---
 
 <Base title="Stats" description="Corpus statistics for the Metaphorex catalog">
@@ -47,6 +62,16 @@ const topTargets = Object.entries(targetCount).sort((a, b) => b[1] - a[1]).slice
       <tbody>
         {Object.entries(byKind).sort((a, b) => b[1] - a[1]).map(([kind, count]) => (
           <tr><td>{kind}</td><td>{count}</td></tr>
+        ))}
+      </tbody>
+    </table>
+
+    <h2>By Grounding</h2>
+    <table>
+      <thead><tr><th>Grounding</th><th>Count</th></tr></thead>
+      <tbody>
+        {Object.entries(byGrounding).sort((a, b) => b[1] - a[1]).map(([g, count]) => (
+          <tr><td>{g}</td><td>{count}</td></tr>
         ))}
       </tbody>
     </table>
@@ -71,11 +96,11 @@ const topTargets = Object.entries(targetCount).sort((a, b) => b[1] - a[1]).slice
       </tbody>
     </table>
 
-    <h2>Top Target Frames</h2>
+    <h2>Top Applies-To Frames</h2>
     <table>
-      <thead><tr><th>Frame</th><th>Used as target</th></tr></thead>
+      <thead><tr><th>Frame</th><th>Applied to</th></tr></thead>
       <tbody>
-        {topTargets.map(([frame, count]) => (
+        {topAppliesTo.map(([frame, count]) => (
           <tr><td><a href={`/frames/${frame}/`}>{frame}</a></td><td>{count}</td></tr>
         ))}
       </tbody>

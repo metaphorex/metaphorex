@@ -15,7 +15,9 @@ const sorted = mappings.sort((a, b) => a.data.name.localeCompare(b.data.name));
         <span class="tag">{m.data.kind}</span>
         <br />
         <span class="muted">
-          {m.data.source_frame} &rarr; {m.data.target_frame}
+          {m.data.source_frame && <>{m.data.source_frame}</>}
+          {m.data.source_frame && m.data.applies_to?.length ? " → " : ""}
+          {m.data.applies_to?.length ? m.data.applies_to.join(", ") : ""}
         </span>
       </li>
     ))}

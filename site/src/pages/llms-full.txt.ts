@@ -21,9 +21,12 @@ export async function GET() {
   for (const m of sortedMappings) {
     sections.push(`## ${m.data.name}`);
     sections.push("");
-    sections.push(
-      `**Kind:** ${m.data.kind} | **Source:** ${m.data.source_frame} | **Target:** ${m.data.target_frame} | **Categories:** ${m.data.categories.join(", ")}`
-    );
+    const meta: string[] = [`**Kind:** ${m.data.kind}`];
+    if (m.data.source_frame) meta.push(`**Source:** ${m.data.source_frame}`);
+    if (m.data.applies_to?.length) meta.push(`**Applies to:** ${m.data.applies_to.join(", ")}`);
+    meta.push(`**Categories:** ${m.data.categories.join(", ")}`);
+    if (m.data.grounding) meta.push(`**Grounding:** ${m.data.grounding}`);
+    sections.push(meta.join(" | "));
     sections.push("");
     sections.push(m.body || "");
     sections.push("");
