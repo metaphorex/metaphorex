@@ -21,7 +21,6 @@ transfers:
 - "[source] a dark mirror reflects the viewer's image back in a distorted, unflattering form -- the reflection is recognizable but unsettling"
 - "[source] mirrors require a viewer: the reflection is meaningless without someone to see themselves in it, making the act of looking an essential part of the encounter"
 - "[source] a dark mirror shows the viewer only when the light source (the screen) is off -- the reflection appears precisely when the device stops performing its intended function"
-- "[source] mirrors reverse left and right, producing a familiar but subtly wrong image -- close enough to recognize, different enough to disturb"
 updated: '2026-03-16'
 ---
 
