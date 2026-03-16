@@ -14,6 +14,14 @@ related:
 slug: the-commons
 source_frame: animal-husbandry
 updated: '2026-03-10'
+transfers:
+  - "[source] each herder's individually rational decision to add one more animal produces collectively irrational overgrazing"
+  - "[source] the resource is rivalrous -- one herder's use directly diminishes what remains for others"
+  - "[source] governance requires monitoring, graduated sanctions, and collective choice arrangements to prevent degradation"
+limits:
+  - "[source] breaks because grazing depletes the pasture, but information commons are non-rivalrous -- reading an article does not degrade it"
+  - "[source] misleads because Ostrom's governance principles require members who know each other and can impose social sanctions, which fails at global scale with anonymous participants"
+  - "[source] obscures that framing something as a commons preselects collective governance as the solution before analysis begins"
 ---
 
 ## Transfers

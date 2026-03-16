@@ -15,6 +15,14 @@ related:
 slug: bottleneck
 source_frame: containers
 updated: '2026-03-10'
+transfers:
+  - "[source] the narrowest point of a container determines the maximum flow rate of the entire system"
+  - "[source] widening any section other than the neck produces no increase in throughput"
+  - "[source] pouring faster into a bottlenecked container causes spillage rather than increased output"
+limits:
+  - "[source] breaks because a bottle has one fixed neck, but real systems have multiple shifting constraints that migrate when one is resolved"
+  - "[source] misleads because a bottle's geometry is permanent, but performance constraints appear and disappear dynamically as load changes"
+  - "[source] obscures that some narrow points serve as useful filters, not just flow restrictions"
 ---
 
 ## Transfers

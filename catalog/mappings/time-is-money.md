@@ -16,6 +16,14 @@ related: []
 slug: time-is-money
 source_frame: economics
 updated: '2026-03-14'
+transfers:
+  - "[source] currency can be spent, saved, invested, and wasted with moral weight attached to each"
+  - "[source] budgets allocate a finite resource across competing demands"
+  - "[source] debt creates an obligation of future repayment to the creditor"
+limits:
+  - "[source] breaks because money is fungible across transactions, but an hour of grief is not interchangeable with an hour of play"
+  - "[source] misleads because savings can be withdrawn from a bank, but time once passed cannot be retrieved regardless of how efficiently it was used"
+  - "[source] obscures that rest in a monetary frame registers as waste, punishing non-productive activity as irrational"
 ---
 
 ## Transfers

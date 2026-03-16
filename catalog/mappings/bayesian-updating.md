@@ -14,6 +14,13 @@ related:
 slug: bayesian-updating
 source_frame: probability
 updated: '2026-03-13'
+transfers:
+  - "[model] revises probability estimates proportionally to the strength of new evidence rather than replacing them wholesale"
+  - "[model] forces consideration of base rates before evaluating the significance of specific observations"
+  - "[model] tracks the magnitude and direction of belief change, making the update itself the interesting output"
+limits:
+  - "[model] breaks because the theorem requires precise numerical priors and likelihoods, but humans cannot reliably distinguish between 60% and 75% confidence"
+  - "[model] misleads because two reasoners with different priors reach different conclusions from the same evidence, and the model provides no way to adjudicate starting points"
 ---
 
 ## Transfers

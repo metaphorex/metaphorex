@@ -19,6 +19,14 @@ related:
 slug: the-anima-animus
 source_frame: mythology
 updated: '2026-03-13'
+transfers:
+  - "[source] undeveloped capacities do not disappear but form an autonomous inner counterpart that disrupts and enriches the dominant mode"
+  - "[source] the conscious personality projects its unintegrated complement onto external figures, misattributing internal dynamics as interpersonal conflict"
+  - "[source] productive tension between developed and undeveloped capacities generates creative synthesis when held consciously"
+limits:
+  - "[source] breaks because the model assumes complements come in binary pairs, but real systems have multiple undeveloped capacities simultaneously"
+  - "[source] misleads because it romanticizes the unconscious complement as richer than the developed capacity, when undeveloped skills are frequently just poor"
+  - "[source] imports gender essentialism as a load-bearing assumption, making the structural insight inseparable from its gendered framing"
 ---
 
 ## Transfers

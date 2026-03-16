@@ -16,6 +16,14 @@ related:
 slug: creative-destruction
 source_frame: destruction
 updated: '2026-03-13'
+transfers:
+  - "[paradigm] decomposition of the old releases resources -- capital, talent, customers -- for absorption by better-adapted successors"
+  - "[paradigm] innovation displaces incumbents by changing the competitive terms entirely, not by competing on existing terms"
+  - "[paradigm] today's innovator becomes tomorrow's incumbent and tomorrow's target for destruction in an endless cycle"
+limits:
+  - "[paradigm] breaks because not all destruction is creative -- asset-stripping destroys without producing successors, but the paradigm blesses both with the same vocabulary"
+  - "[paradigm] misleads because the biological analogy implies a natural process, but market destruction is driven by people with interests, power, and political connections"
+  - "[paradigm] obscures that ecological succession happens over decades allowing adaptation, but market disruption can happen in months, faster than communities can adjust"
 ---
 
 ## Transfers

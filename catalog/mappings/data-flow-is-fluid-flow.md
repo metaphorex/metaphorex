@@ -16,6 +16,14 @@ related:
 slug: data-flow-is-fluid-flow
 source_frame: fluid-dynamics
 updated: '2026-03-11'
+transfers:
+  - "[paradigm] processing stages connect with standardized joints, enabling rearrangement without redesigning the system"
+  - "[paradigm] blockage at any stage propagates upstream as backpressure"
+  - "[paradigm] flow rate through the system is constrained by the capacity of the narrowest segment"
+limits:
+  - "[paradigm] breaks because fluids are continuous, but data arrives in discrete packets with headers, delimiters, and schemas"
+  - "[paradigm] misleads because fluids obey physics and cannot flow uphill without a pump, but data can be copied, broadcast, and sent in any direction at near-zero cost"
+  - "[paradigm] obscures that merging two fluid streams produces fluid, but merging two data streams produces schema conflicts"
 ---
 
 ## Transfers

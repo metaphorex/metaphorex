@@ -17,6 +17,14 @@ related:
 slug: technical-debt
 source_frame: economics
 updated: '2026-03-14'
+transfers:
+  - "[source] interest compounds over time, making deferred repayment progressively more expensive"
+  - "[source] deliberate borrowing against future income enables present action at a known cost"
+  - "[source] bankruptcy occurs when interest payments exceed the debtor's capacity to service them"
+limits:
+  - "[source] breaks because financial debt has a quantifiable principal and interest rate, but code shortcuts have no measurable units that aggregate"
+  - "[source] misleads because debt implies a creditor who demands repayment, but no external party forces teams to refactor"
+  - "[source] obscures that paying off financial debt produces relief, but refactoring rarely delivers a comparable payoff moment"
 ---
 
 ## Transfers
