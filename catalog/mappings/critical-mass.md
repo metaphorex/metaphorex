@@ -1,13 +1,11 @@
 ---
-applies_to:
-- social-behavior
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
 - social-dynamics
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Critical Mass
 provenance: munger-poor-charlies-almanack
 related: []

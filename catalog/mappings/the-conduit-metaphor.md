@@ -10,7 +10,7 @@ contributors:
 - fshot
 created: '2026-03-10'
 harness: Claude Code
-kind: paradigm
+kind: metaphor
 name: The Conduit Metaphor
 provenance: lakoff-johnson-mwlb
 related:

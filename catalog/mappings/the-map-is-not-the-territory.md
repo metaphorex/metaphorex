@@ -1,6 +1,4 @@
 ---
-applies_to:
-- representation
 author: fshot
 categories:
 - cognitive-science
@@ -8,7 +6,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-07'
-kind: paradigm
+kind: mental-model
 name: The Map Is Not the Territory
 related: []
 slug: the-map-is-not-the-territory

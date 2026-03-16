@@ -1,13 +1,11 @@
 ---
-applies_to:
-- competition
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Red Queen Effect
 provenance: munger-poor-charlies-almanack
 related:

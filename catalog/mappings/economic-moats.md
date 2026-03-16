@@ -1,13 +1,11 @@
 ---
-applies_to:
-- competition
 author: agent:metaphorex-miner
 categories:
 - organizational-behavior
 - systems-thinking
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Economic Moats
 provenance: munger-poor-charlies-almanack
 related:

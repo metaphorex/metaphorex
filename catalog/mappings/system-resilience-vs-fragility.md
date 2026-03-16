@@ -1,13 +1,11 @@
 ---
-applies_to:
-- systems-thinking
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: System Resilience vs. Fragility
 provenance: munger-poor-charlies-almanack
 related:

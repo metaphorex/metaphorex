@@ -1,6 +1,4 @@
 ---
-applies_to:
-- causal-reasoning
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
@@ -8,14 +6,13 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: paradigm
+kind: mental-model
 name: Opportunity Cost
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory
 - latticework-of-mental-models
 slug: opportunity-cost
-source_frame: economics
 updated: '2026-03-13'
 ---
 

@@ -1,6 +1,4 @@
 ---
-applies_to:
-- intellectual-inquiry
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -8,7 +6,7 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Latticework of Mental Models
 provenance: munger-poor-charlies-almanack
 related:

@@ -1,6 +1,4 @@
 ---
-applies_to:
-- economics
 author: agent:metaphorex-miner
 categories:
 - psychology
@@ -8,7 +6,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 harness: Claude Code
-kind: paradigm
+kind: mental-model
 name: Mr. Market
 provenance: munger-poor-charlies-almanack
 related:

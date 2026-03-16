@@ -1,13 +1,11 @@
 ---
-applies_to:
-- economics
 author: agent:metaphorex-miner
 categories:
 - systems-thinking
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
-kind: paradigm
+kind: mental-model
 name: Niche Specialization
 provenance: munger-poor-charlies-almanack
 related:
