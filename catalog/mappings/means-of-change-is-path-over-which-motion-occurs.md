@@ -20,6 +20,13 @@ related:
 slug: means-of-change-is-path-over-which-motion-occurs
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - "[source] a path constrains motion to a defined channel — the traveler cannot move in arbitrary directions but must follow the route's geometry"
+  - "[source] different paths to the same destination impose different costs: some are direct, others circuitous; some are smooth, others rugged"
+  - "[source] the path exists independently of the traveler and can be traversed by others, making the route sharable and communicable"
+limits:
+  - "[source] breaks because a physical path persists after traversal (others can follow the same route), but the means of change may be consumed in the process or may not work for a different agent in different circumstances"
+  - "[source] misleads because paths offer passive terrain that the traveler moves through, but means of change often require active transformation — the 'path' itself does work on the agent, not just the reverse"
 ---
 
 ## Transfers

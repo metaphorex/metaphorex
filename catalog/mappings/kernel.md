@@ -16,6 +16,13 @@ related:
 slug: kernel
 source_frame: horticulture
 updated: '2026-03-13'
+transfers:
+  - "[source] the kernel of a seed is the reproductive core surrounded by protective layers — hull, shell, husk — that must be removed to access it"
+  - "[source] the kernel contains the genetic instructions for the entire organism, making it informationally dense relative to its size"
+  - "[source] removing the kernel destroys the seed's capacity for growth while the surrounding layers can be stripped without loss of viability"
+limits:
+  - "[source] breaks because a seed kernel is a single undifferentiated core, but operating system kernels are themselves complex systems with internal modules, drivers, and schedulers"
+  - "[source] misleads because in horticulture the kernel is the most fragile part needing protection, but in computing the kernel is the most privileged and powerful component — the relationship between core and periphery is inverted"
 ---
 
 ## Transfers

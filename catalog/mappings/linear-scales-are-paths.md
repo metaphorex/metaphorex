@@ -18,6 +18,13 @@ related:
 slug: linear-scales-are-paths
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - "[source] a path connects two endpoints through continuous intermediate positions, allowing traversal in either direction"
+  - "[source] distance along a path is cumulative — each step adds to the total distance traveled from the starting point"
+  - "[source] landmarks along a path serve as reference points that partition the journey into meaningful segments"
+limits:
+  - "[source] breaks because paths impose uniform spacing (each step covers the same distance), but many real-world scales are logarithmic or exponential, where equal increments represent vastly different magnitudes"
+  - "[source] misleads because a path is one-dimensional by definition, but many qualities placed on 'scales' (intelligence, beauty, health) are multidimensional and cannot be faithfully represented as positions on a single line"
 ---
 
 ## Transfers

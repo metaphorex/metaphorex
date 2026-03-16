@@ -18,6 +18,13 @@ related:
 slug: lustful-person-is-an-animal
 source_frame: animal-behavior
 updated: '2026-03-13'
+transfers:
+  - "[source] animals act on instinct without deliberation, responding to biological drives with immediate behavioral programs"
+  - "[source] animal mating behavior follows species-specific patterns — display, pursuit, competition — that are triggered by sensory cues rather than conscious choice"
+  - "[source] the animal operates below the threshold of moral reasoning, acting from nature rather than from considered values"
+limits:
+  - "[source] breaks because animal behavior is species-specific and stereotyped (each species has a fixed mating repertoire), but human sexual behavior is enormously variable across individuals and cultures"
+  - "[source] misleads because the metaphor frames lust as a reversion to a 'lower' nature, importing a hierarchy (rational over animal) that treats desire as inherently degrading rather than as a normal dimension of human experience"
 ---
 
 ## Transfers

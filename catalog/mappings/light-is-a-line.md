@@ -18,6 +18,13 @@ related:
 slug: light-is-a-line
 source_frame: geometry
 updated: '2026-03-12'
+transfers:
+  - "[source] a geometric line extends infinitely in one direction from a point, with zero width and perfect straightness"
+  - "[source] lines intersect surfaces at calculable angles, and reflection follows the law of equal angles of incidence and reflection"
+  - "[source] lines can be bundled into parallel sets or fanned into divergent arrays, with predictable geometric relationships between members"
+limits:
+  - "[source] breaks because lines have zero width and carry no energy, but light beams have finite cross-section, intensity profiles, and transport measurable energy"
+  - "[source] misleads because the line model cannot account for diffraction — when light passes through apertures comparable to its wavelength, it spreads in patterns no collection of straight lines can produce"
 ---
 
 ## Transfers

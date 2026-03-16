@@ -20,6 +20,13 @@ related:
 slug: interaction-between-progress-and-external-events-affecting
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] an external force applied to a moving body alters its trajectory without erasing the momentum already accumulated"
+  - "[source] the magnitude of deflection depends on the ratio of external force to the body's existing momentum"
+  - "[source] multiple forces acting simultaneously produce a resultant that differs from any single force alone"
+limits:
+  - "[source] breaks because physical forces compose linearly, but life setbacks can compound nonlinearly through psychological cascading"
+  - "[source] misleads because physical deflection is instantaneous and proportional, but external events can have delayed or disproportionate effects on purposeful activity"
 ---
 
 ## Transfers

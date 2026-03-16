@@ -16,6 +16,13 @@ related:
 slug: machines-are-people
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - "[source] persons have intentions, preferences, and beliefs that explain their behavior in terms of reasons rather than mechanisms"
+  - "[source] persons engage in social relationships that involve reciprocal obligations — they can be helpful, stubborn, cooperative, or hostile"
+  - "[source] persons learn from experience and change their behavior over time in response to accumulated interactions"
+limits:
+  - "[source] breaks because persons act from genuine understanding and can explain their reasoning, but machines execute programmed responses without comprehension, making the attribution of understanding misleading"
+  - "[source] misleads because personhood implies moral status (persons deserve consideration and have rights), and extending person-language to machines risks either lowering the bar for personhood or raising expectations of machines beyond what they can meet"
 ---
 
 ## Transfers

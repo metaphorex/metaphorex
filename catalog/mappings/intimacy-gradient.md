@@ -19,6 +19,13 @@ related:
 slug: intimacy-gradient
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] in architecture, spatial transitions from public to private require intermediate zones — a porch, a foyer, a hallway — not abrupt boundaries"
+  - "[source] the gradient controls access by making deeper zones reachable only through successive thresholds, each requiring implicit permission to cross"
+  - "[source] removing intermediate zones forces a binary choice between fully public and fully private, eliminating the social negotiation that gradual transition enables"
+limits:
+  - "[source] breaks because architectural gradients are fixed in built form once constructed, but interpersonal intimacy levels shift dynamically with context and mood"
+  - "[source] misleads because the spatial gradient assumes a single linear axis from public to private, but real intimacy is multidimensional — someone may share financial details but not emotional ones"
 ---
 
 ## Transfers

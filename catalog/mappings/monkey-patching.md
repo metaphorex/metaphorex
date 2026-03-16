@@ -16,6 +16,13 @@ related:
 slug: monkey-patching
 source_frame: social-behavior
 updated: '2026-03-14'
+transfers:
+  - "[source] a monkey manipulates objects without understanding their designed function, driven by curiosity and immediate reward rather than systemic awareness"
+  - "[source] monkey tampering creates unpredictable side effects because the animal does not model the consequences of its interventions on connected systems"
+  - "[source] the monkey's modifications are unsanctioned — they bypass the designed interfaces and access mechanisms that legitimate users are expected to follow"
+limits:
+  - "[source] breaks because the 'monkey' etymology likely derives from 'guerrilla patching' through phonetic drift, not from deliberate zoological metaphor — the animal imagery is a post-hoc rationalization of an accidental name"
+  - "[source] misleads because the monkey connotation implies recklessness, but many runtime modifications (test mocks, polyfills, compatibility shims) are disciplined engineering practices with well-understood boundaries"
 ---
 
 ## Transfers

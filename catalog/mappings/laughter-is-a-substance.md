@@ -18,6 +18,13 @@ related:
 slug: laughter-is-a-substance
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+transfers:
+  - "[source] a substance occupies volume, can accumulate in a space, and can be transferred from one container to another"
+  - "[source] substances can be produced, stored, and released — they have a lifecycle independent of their current container"
+  - "[source] a substance that fills a space affects everything within it uniformly, creating a shared condition for all occupants"
+limits:
+  - "[source] breaks because substances persist when their source is removed, but laughter ceases when the stimulus ends and cannot be stored for later use"
+  - "[source] misleads because substances affect all occupants of a space mechanically and uniformly, but laughter's social contagion depends on relationships, context, and willingness — some people in the room may not be affected at all"
 ---
 
 ## Transfers

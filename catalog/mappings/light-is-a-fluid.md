@@ -18,6 +18,13 @@ related:
 slug: light-is-a-fluid
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+transfers:
+  - "[source] fluid fills available volume by conforming to the shape of its container, distributing itself throughout enclosed spaces"
+  - "[source] fluid flows from regions of higher pressure to lower pressure, following the path of least resistance through available channels"
+  - "[source] barriers block fluid flow entirely while apertures regulate it — a dam stops a river, a valve controls a pipe"
+limits:
+  - "[source] breaks because fluid is affected by gravity and pools at the lowest point, but light propagates in straight lines from its source regardless of gravitational orientation at human scales"
+  - "[source] misleads because fluids mix when combined (red and blue dye make purple through a single mechanism), but light wavelengths combine through additive mixing — a fundamentally different process the fluid frame obscures"
 ---
 
 ## Transfers

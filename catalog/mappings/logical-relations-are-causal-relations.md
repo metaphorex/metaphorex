@@ -19,6 +19,13 @@ related:
 slug: logical-relations-are-causal-relations
 source_frame: causal-reasoning
 updated: '2026-03-12'
+transfers:
+  - "[source] causes temporally precede their effects, creating an asymmetric before-after ordering between events"
+  - "[source] a cause transfers force or energy to its effect, producing a change that would not have occurred otherwise"
+  - "[source] causal chains propagate: A causes B which causes C, creating traceable sequences from origin to outcome"
+limits:
+  - "[source] breaks because causal relations are temporal (the cause comes before the effect), but logical entailment is timeless — if P entails Q, it does so eternally, not at a particular moment"
+  - "[source] misleads because causes are defeasible (intervening events can block the effect), but valid deductive inference is indefeasible — if the premises are true, the conclusion must be true regardless of circumstances"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: knowing-is-seeing
 source_frame: vision
 updated: '2026-03-13'
+transfers:
+  - "[source] vision provides direct, immediate access to spatial relationships between objects without requiring sequential inspection"
+  - "[source] seeing is perspectival — what you see depends on where you stand, and two observers at different positions see different aspects of the same scene"
+  - "[source] visual occlusion means nearby opaque objects can hide larger realities behind them, and changing position reveals what was hidden"
+limits:
+  - "[source] breaks because vision is passive and involuntary — you cannot choose not to see what is in front of you — but knowing requires active cognitive engagement and can be willfully resisted"
+  - "[source] misleads because vision presents a unified, coherent scene simultaneously, but knowledge is fragmentary, contradictory, and built incrementally over time"
 ---
 
 ## Transfers

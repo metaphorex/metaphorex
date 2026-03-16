@@ -23,6 +23,13 @@ related:
 slug: longterm-purposeful-activity-is-a-journey
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - "[source] a journey has a fixed destination chosen before departure, and progress is measured by distance remaining to that destination"
+  - "[source] journeys encounter obstacles that block the path, requiring detours that maintain direction toward the destination while changing the route"
+  - "[source] travelers accumulate experience and fatigue as they progress — the journey changes the traveler, not just the traveler's location"
+limits:
+  - "[source] breaks because journeys have a single predetermined destination, but long-term purposeful activities often have goals that evolve as the activity progresses and the actor learns"
+  - "[source] misleads because journey progress is monotonic (each step brings you closer or takes you on a detour, but distance-to-destination is always measurable), while progress in purposeful activity can be ambiguous, non-monotonic, or unquantifiable"
 ---
 
 ## Transfers

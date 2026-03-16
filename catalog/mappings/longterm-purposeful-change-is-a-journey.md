@@ -23,6 +23,13 @@ related:
 slug: longterm-purposeful-change-is-a-journey
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - "[source] a journey requires sustained movement in a chosen direction over time, with the traveler actively maintaining course toward the destination"
+  - "[source] the path constrains movement — you cannot jump from start to destination but must traverse intermediate terrain that may include difficult stretches"
+  - "[source] a journey can be paused and resumed — the traveler retains their position and can restart from where they stopped"
+limits:
+  - "[source] breaks because journey progress is preserved during pauses (the traveler stays at their current position), but purposeful change can regress during interruptions — skills atrophy, habits reassert, and ground is lost"
+  - "[source] misleads because a journey traverses external terrain that exists independently of the traveler, but purposeful change transforms the agent itself, meaning the 'terrain' is inseparable from the traveler"
 ---
 
 ## Transfers

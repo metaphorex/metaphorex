@@ -20,6 +20,13 @@ related:
 slug: knowledge-of-past-events-is-an-external-event-exerting-force-on
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - "[source] an external force applied to a body produces acceleration proportional to the force and inversely proportional to the body's mass"
+  - "[source] force acts in a specific direction, displacing the affected body along a predictable vector"
+  - "[source] the effect of an external force depends on the current state of the body — a moving body deflects differently than a stationary one"
+limits:
+  - "[source] breaks because physical forces produce predictable, lawful effects, but knowledge of past events can produce wildly variable responses depending on interpretation and context"
+  - "[source] misleads because physical force operates mechanically without the affected body's consent, but a person can choose how to respond to new knowledge — they have agency the metaphor denies"
 ---
 
 ## Transfers

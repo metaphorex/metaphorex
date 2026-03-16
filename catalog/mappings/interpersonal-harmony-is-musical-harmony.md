@@ -18,6 +18,13 @@ related:
 slug: interpersonal-harmony-is-musical-harmony
 source_frame: music
 updated: '2026-03-12'
+transfers:
+  - "[source] musical harmony requires distinct pitches sounding simultaneously — unison is not harmony but identity"
+  - "[source] dissonance in music creates tension that resolves when voices move to consonant intervals, producing forward motion"
+  - "[source] harmonic structure constrains which notes can follow which, so each voice's freedom depends on what others are doing"
+limits:
+  - "[source] breaks because musical harmony follows precise mathematical ratios between frequencies, but interpersonal compatibility has no equivalent quantifiable basis"
+  - "[source] misleads because a skilled composer deliberately introduces dissonance for expressive effect, but interpersonal discord is rarely welcomed as a means to richer resolution"
 ---
 
 ## Transfers

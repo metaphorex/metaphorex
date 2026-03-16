@@ -20,6 +20,13 @@ related:
 slug: love-is-magic
 source_frame: magic
 updated: '2026-03-13'
+transfers:
+  - "[source] magic produces effects that violate the known causal order — things happen without a mechanism the observer can identify"
+  - "[source] magic transforms the ordinary into the extraordinary, altering the perceived nature of familiar things"
+  - "[source] magical effects are attributed to special agents (sorcerers, enchanters) whose power is innate and cannot be learned through ordinary means"
+limits:
+  - "[source] breaks because magic implies a one-directional power relation (the enchanter acts upon the enchanted), but love involves mutual transformation — both people are changed"
+  - "[source] misleads because magical effects are imposed without the recipient's participation (spells are cast on someone), but love requires active reciprocation to sustain itself"
 ---
 
 ## Transfers

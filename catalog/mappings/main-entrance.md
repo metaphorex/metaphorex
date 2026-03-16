@@ -17,6 +17,13 @@ related:
 slug: main-entrance
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] a building's main entrance is a single primary point of entry that controls access flow and establishes the visitor's first orientation to the structure"
+  - "[source] the main entrance provides identity and hierarchy — it signals which opening is primary and which are secondary or service entrances"
+  - "[source] the entrance creates a transition from exterior to interior, typically through a threshold sequence (door, vestibule, lobby) that manages the passage from public to private space"
+limits:
+  - "[source] breaks because a physical entrance admits one person or group at a time through a spatial bottleneck, but a software entry point may serve thousands of simultaneous users without congestion"
+  - "[source] misleads because architectural entrances are visible and legible to visitors by design, but software entry points are often hidden behind APIs, authentication layers, or configuration that makes discovery non-trivial"
 ---
 
 ## Transfers

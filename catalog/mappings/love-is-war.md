@@ -19,6 +19,13 @@ related:
 slug: love-is-war
 source_frame: war
 updated: '2026-03-14'
+transfers:
+  - "[source] war involves strategic pursuit of an adversary with the goal of overcoming their resistance and claiming victory"
+  - "[source] combatants occupy and contest territory, with advances and retreats determining who controls what ground"
+  - "[source] war requires both strategic planning and tactical execution under competitive pressure"
+limits:
+  - "[source] breaks because war aims to defeat or destroy the adversary, but love aims for union with the desired person — the 'opponent' is someone you want to be with, not someone you want to vanquish"
+  - "[source] misleads because war has exactly two sides in binary opposition, but courtship involves multiple dimensions of compatibility that cannot be reduced to offense and defense"
 ---
 
 ## Transfers

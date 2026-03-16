@@ -19,6 +19,13 @@ related:
 slug: loved-one-is-a-possession
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] a possession is acquired through effort or transaction, giving the owner exclusive rights of use and disposal"
+  - "[source] possessions can be lost, stolen, or given away — the relationship between owner and object is transferable"
+  - "[source] owners have authority over their possessions, deciding how they are used, displayed, or stored"
+limits:
+  - "[source] breaks because possessions are passive objects without preferences or agency, but loved ones are autonomous persons whose consent is continuously required"
+  - "[source] misleads because ownership implies exclusive, permanent control, but human relationships require ongoing negotiation and can be unilaterally ended by either party"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: lustful-person-is-an-activated-machine
 source_frame: manufacturing
 updated: '2026-03-13'
+transfers:
+  - "[source] a machine in its activated state performs its designed function automatically until deactivated or its energy source is exhausted"
+  - "[source] activation transforms a dormant, inert system into one that produces output — the transition is discontinuous, not gradual"
+  - "[source] an activated machine operates according to its mechanism, with behavior determined by design rather than choice"
+limits:
+  - "[source] breaks because machines perform the same operation identically each time they are activated, but human sexual arousal varies enormously based on context, partner, mood, and history"
+  - "[source] misleads because machines are designed for a purpose and their activation is functional, but framing human desire as mechanical activation strips agency and reduces the person to an apparatus"
 ---
 
 ## Transfers

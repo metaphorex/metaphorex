@@ -19,6 +19,13 @@ related:
 slug: logic-is-gravity
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - "[source] gravity pulls objects in a single direction (downward) with a force proportional to their mass, requiring no active agent"
+  - "[source] structures resist gravity through foundations — removing the foundation causes everything above to collapse"
+  - "[source] gravitational force is universal and inescapable within its field; objects cannot opt out of being affected"
+limits:
+  - "[source] breaks because gravity operates in one direction only, but logical entailment runs in multiple directions — contrapositive reasoning moves 'upward' from conclusion to premises"
+  - "[source] misleads because gravitational force is continuous and proportional to mass, but logical validity is binary (valid or invalid) with no intermediate degrees of compulsion"
 ---
 
 ## Transfers

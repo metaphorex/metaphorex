@@ -21,6 +21,13 @@ related:
 slug: intense-emotions-are-heat
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] elevated temperature in a substance correlates with increased molecular agitation, not with a specific chemical identity"
+  - "[source] overheating causes phase transitions — solids melt, liquids boil — producing qualitatively different behavior beyond a threshold"
+  - "[source] heat transfers from hotter bodies to cooler ones until equilibrium, never spontaneously reversing"
+limits:
+  - "[source] breaks because heat is measurable on a single scale, but emotional intensity varies across qualitative dimensions that resist unification"
+  - "[source] misleads because heated substances cool predictably toward equilibrium, but intense emotions can self-amplify through rumination rather than dissipating"
 ---
 
 ## Transfers

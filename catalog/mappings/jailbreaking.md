@@ -18,6 +18,13 @@ related:
 slug: jailbreaking
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] a jail confines an agent within boundaries set by an authority, restricting movement to a controlled space"
+  - "[source] jailbreaking exploits structural weaknesses in the confinement — gaps in walls, lapses in surveillance, flawed locks — not frontal assault on the guards"
+  - "[source] escape from jail converts the escapee into a fugitive operating outside institutional protection as well as outside institutional constraint"
+limits:
+  - "[source] breaks because jail confines a pre-existing free agent whose capacities exist independently of the confinement, but AI safety training shapes the model's capabilities themselves — there is no pre-training 'free agent' being constrained"
+  - "[source] misleads because jailbreaking narratives cast the confined agent as sympathetic and the confiner as oppressive, importing a moral valence that prejudges safety measures as authoritarian"
 ---
 
 ## Transfers

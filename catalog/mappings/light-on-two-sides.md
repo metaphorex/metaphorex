@@ -18,6 +18,13 @@ related:
 slug: light-on-two-sides
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] cross-illumination from two independent light sources eliminates the deep shadows that a single source creates on its opposite side"
+  - "[source] the two sources must come from different directions to produce graduated shadows that reveal three-dimensional form"
+  - "[source] rooms lit from a single side feel institutional while cross-lit rooms feel inhabitable — the quality of light changes the psychological experience of the space"
+limits:
+  - "[source] breaks because adding a second light source always improves visibility (light is additive), but adding a second perspective to a decision can create conflict, paralysis, or worse outcomes"
+  - "[source] misleads because architectural light sources coexist without interfering with each other, but human perspectives actively compete and can cancel each other's contributions"
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: life-is-a-container
 source_frame: containers
 updated: '2026-03-14'
+transfers:
+  - "[source] a container has finite interior volume bounded by walls, creating a clear distinction between inside and outside"
+  - "[source] contents placed in a container are constrained by its boundaries — they cannot exceed its capacity without overflow or rupture"
+  - "[source] a container's contents can be inventoried, measured, and evaluated against the available space"
+limits:
+  - "[source] breaks because containers have rigid, fixed boundaries, but a human life has elastic limits that expand and contract with circumstance, ambition, and health"
+  - "[source] misleads because a container can be emptied completely and still remain intact, but a life drained of all content (purpose, relationship, meaning) is not a functioning vessel but a crisis"
 ---
 
 ## Transfers

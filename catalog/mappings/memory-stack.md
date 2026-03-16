@@ -18,6 +18,13 @@ related:
 slug: memory-stack
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] a stack enforces last-in-first-out ordering — the most recently added item is the first retrieved, and deeper items are accessible only after removing those above them"
+  - "[source] stack depth is limited by available space, and exceeding capacity causes overflow — a catastrophic failure mode"
+  - "[source] each stack frame encapsulates a context that is suspended (not destroyed) when a new frame is pushed, and restored when that frame is popped"
+limits:
+  - "[source] breaks because stack retrieval is perfectly ordered (strict LIFO), but human memory retrieval is associative, context-dependent, and non-sequential — you can recall a childhood memory without first recalling everything that happened since"
+  - "[source] misleads because popping a stack frame restores the previous context exactly as it was, but returning to a previous mental context after interruption always involves reconstruction and loss"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: intoxication-is-becoming-electrified
 source_frame: electricity
 updated: '2026-03-12'
+transfers:
+  - "[source] electrical activation is sudden — a switch flips and current flows, with no gradual warm-up in the circuit"
+  - "[source] an electrified system operates at elevated energy until the power source is disconnected or depleted"
+  - "[source] electrification makes a previously inert system responsive to inputs it would normally ignore — a motor turns, a light emits"
+limits:
+  - "[source] breaks because electrical systems return to baseline instantly when the circuit opens, but intoxication dissipates gradually through metabolic processes"
+  - "[source] misleads because electrification enhances a system's designed function, but intoxication typically degrades the organism's normal functioning"
 ---
 
 ## Transfers

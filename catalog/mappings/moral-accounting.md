@@ -19,6 +19,13 @@ related:
 slug: moral-accounting
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] accounting maintains a double-entry ledger where every transaction is recorded as both a debit and a credit, ensuring the books always balance"
+  - "[source] debts accrue interest over time — an obligation unpaid grows larger, not smaller, with delay"
+  - "[source] bankruptcy is the terminal state where accumulated debts exceed any possibility of repayment, requiring a formal reset of obligations"
+limits:
+  - "[source] breaks because financial accounting deals in fungible currency (a dollar is a dollar), but moral actions are incommensurable — there is no exchange rate between an apology and a betrayal"
+  - "[source] misleads because the accounting frame makes forgiveness look irrational (voluntarily writing off a debt), providing no positive account of why a creditor would choose to absorb the loss"
 ---
 
 ## Transfers

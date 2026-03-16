@@ -20,6 +20,13 @@ related:
 slug: labor-is-a-resource
 source_frame: economics
 updated: '2026-03-14'
+transfers:
+  - "[source] a resource is a stock that can be measured, allocated, and depleted through use"
+  - "[source] resources are fungible within their category — one unit substitutes for another without loss of utility"
+  - "[source] resource management involves optimizing extraction rates against depletion to sustain availability over time"
+limits:
+  - "[source] breaks because resources are passive stocks acted upon by an external agent, but labor involves autonomous human beings with preferences, fatigue, creativity, and resistance"
+  - "[source] misleads because resources are fungible (one barrel of oil substitutes for another), but workers bring unique skills, relationships, and institutional knowledge that make substitution costly or impossible"
 ---
 
 ## Transfers

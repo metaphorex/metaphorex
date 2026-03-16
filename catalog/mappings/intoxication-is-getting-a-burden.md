@@ -17,6 +17,13 @@ related:
 slug: intoxication-is-getting-a-burden
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - "[source] a burden limits mobility and freedom of action in proportion to its weight relative to the bearer's capacity"
+  - "[source] bearing a burden requires continuous effort — the load does not carry itself, and fatigue accumulates over time"
+  - "[source] a burden shifts the bearer's center of gravity, making them unsteady and changing their gait"
+limits:
+  - "[source] breaks because a burden can be set down deliberately at any moment, but intoxication cannot be voluntarily ended — the substance must be metabolized"
+  - "[source] misleads because burdens are purely negative (no one seeks a heavier load), but intoxication is often deliberately sought for its pleasurable effects"
 ---
 
 ## Transfers

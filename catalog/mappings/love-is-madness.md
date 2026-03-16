@@ -18,6 +18,13 @@ related:
 slug: love-is-madness
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] madness overrides rational decision-making, producing behavior that the affected person cannot explain or control"
+  - "[source] the mad person's subjective experience is internally coherent but externally incomprehensible — they have reasons, but others cannot follow them"
+  - "[source] madness is diagnosed from outside: the affected person does not recognize their own condition as abnormal"
+limits:
+  - "[source] breaks because madness is a pathological condition that impairs functioning, but love — while it distorts judgment — is a normal and often adaptive human experience"
+  - "[source] misleads because madness in clinical terms requires treatment and cure, but framing love as illness creates the expectation that the 'symptoms' should be eliminated rather than navigated"
 ---
 
 ## Transfers

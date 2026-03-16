@@ -18,6 +18,13 @@ related:
 slug: love-is-a-unity
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] unification combines two distinct entities into a single whole that has properties neither component possessed separately"
+  - "[source] the unified whole is disrupted by separation — splitting what was unified creates two incomplete fragments, not two restored originals"
+  - "[source] unity requires complementarity — the components must fit together, which constrains both what can unify and how the union functions"
+limits:
+  - "[source] breaks because physical unification (merging, fusing, bonding) eliminates the boundary between components, but healthy love requires maintained individuality — total merger is enmeshment, not love"
+  - "[source] misleads because the unity metaphor implies that separation always produces broken halves, but people who leave relationships can become whole again independently — the 'incompleteness' is temporary grief, not structural damage"
 ---
 
 ## Transfers

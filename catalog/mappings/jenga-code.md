@@ -17,6 +17,13 @@ related:
 slug: jenga-code
 source_frame: puzzles-and-games
 updated: '2026-03-14'
+transfers:
+  - "[source] in Jenga, removing any single block risks collapse because load-bearing relationships are invisible until tested"
+  - "[source] the tower becomes more fragile with each extraction — early moves are safe, but later moves operate on a structure already compromised by previous removals"
+  - "[source] Jenga penalizes intervention: the optimal strategy for tower survival is to stop touching it entirely"
+limits:
+  - "[source] breaks because Jenga blocks are identical and interchangeable, but code components have unique responsibilities and dependencies that make some far more critical than others"
+  - "[source] misleads because Jenga is a game where collapse is the expected outcome and the goal is merely to delay it, but codebases are meant to be maintained indefinitely"
 ---
 
 ## Transfers

@@ -21,6 +21,13 @@ related:
 slug: love-is-a-physical-force
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] physical forces act at a distance, pulling or pushing bodies without requiring contact or consent"
+  - "[source] force between two bodies is mutual — if A attracts B, B attracts A with equal magnitude"
+  - "[source] force magnitude decreases with distance, creating a gradient that draws affected bodies closer"
+limits:
+  - "[source] breaks because physical forces are symmetric (Newton's third law: equal and opposite), but romantic attraction is frequently asymmetric — one person may feel drawn while the other does not"
+  - "[source] misleads because physical forces operate mechanically without the affected body's agency, but people can choose to resist attraction, making love a matter of decision as well as compulsion"
 ---
 
 ## Transfers

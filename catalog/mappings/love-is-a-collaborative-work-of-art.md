@@ -18,6 +18,13 @@ related:
 slug: love-is-a-collaborative-work-of-art
 source_frame: creative-process
 updated: '2026-03-14'
+transfers:
+  - "[source] a collaborative artwork requires both partners to contribute creative effort — a passive participant produces a diminished result"
+  - "[source] the work of art has an aesthetic standard that the collaborators negotiate through the process, not one imposed from outside"
+  - "[source] collaboration on art requires tolerance for imperfection during creation — early drafts and rough versions are necessary stages, not failures"
+limits:
+  - "[source] breaks because artworks have completion criteria (the painting is finished, the novel is published), but love has no equivalent endpoint — treating love as a completed work would mean it has stopped developing"
+  - "[source] misleads because artistic collaboration can be abandoned and the unfinished work still has value as a fragment, but abandoning a love relationship does not produce a valued artifact — it produces loss"
 ---
 
 ## Transfers

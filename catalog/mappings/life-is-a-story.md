@@ -18,6 +18,13 @@ related:
 slug: life-is-a-story
 source_frame: narrative
 updated: '2026-03-13'
+transfers:
+  - "[source] a story selects events from a continuous stream and arranges them into a causal sequence with beginning, middle, and end"
+  - "[source] narrative assigns roles to participants — protagonist, antagonist, supporting cast — that determine whose perspective governs the telling"
+  - "[source] stories require conflict and resolution to generate meaning; a narrative without tension is not a story but a chronicle"
+limits:
+  - "[source] breaks because stories are retrospectively constructed by an author who knows the ending, but life is lived forward without knowledge of what comes next"
+  - "[source] misleads because stories demand narrative coherence (every element must serve the plot), but lives are full of meaningless events, loose ends, and randomness that resist narrativization"
 ---
 
 ## Transfers

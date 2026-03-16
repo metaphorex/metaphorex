@@ -19,6 +19,13 @@ related:
 slug: love-is-a-patient
 source_frame: medicine
 updated: '2026-03-14'
+transfers:
+  - "[source] a patient's condition requires diagnosis — identifying the specific ailment before treatment can begin"
+  - "[source] treatment follows protocols calibrated to the severity of the condition, from rest to surgery"
+  - "[source] a patient can be healthy, sick, recovering, or terminal — the medical frame provides a vocabulary for stages of decline and recovery"
+limits:
+  - "[source] breaks because patients have physicians — external experts who diagnose and treat — but love has no equivalent outside authority qualified to intervene"
+  - "[source] misleads because the medical frame implies that a healthy relationship is the default state and problems are pathologies to be cured, but relationships involve irreducible tensions that are normal, not symptoms"
 ---
 
 ## Transfers

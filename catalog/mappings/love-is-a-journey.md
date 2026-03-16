@@ -17,6 +17,13 @@ related:
 slug: love-is-a-journey
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - "[source] a journey has waypoints, crossroads, and forks that require the travelers to choose a direction together"
+  - "[source] companions on a journey share the same path and pace — if one stops or turns, the other must adjust or continue alone"
+  - "[source] the journey reveals terrain that could not be seen from the starting point, requiring adaptation to conditions discovered only through travel"
+limits:
+  - "[source] breaks because journeys have destinations that define when the journey is complete, but love has no analogous terminal point — arriving would mean the relationship is over"
+  - "[source] misleads because journey companions can separate at a crossroads and each continue on valid paths, but the metaphor treats relationship dissolution as getting 'lost' or 'stuck' rather than as a legitimate choice"
 ---
 
 ## Transfers

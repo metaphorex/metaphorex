@@ -18,6 +18,13 @@ related:
 slug: magic-number
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] in magical traditions, specific numbers hold power through symbolic association — three for completeness, seven for perfection, thirteen for transgression — and their power is asserted rather than explained"
+  - "[source] magic numbers derive their significance from tradition and ritual, not from structural necessity — a different number could serve the same function"
+  - "[source] magic operates through hidden knowledge: the initiate knows the number's significance while others encounter it as an opaque, arbitrary value"
+limits:
+  - "[source] breaks because magical numbers derive power from symbolic systems shared by a community of practitioners, but magic numbers in code derive 'power' from a single programmer's undocumented intention — they are private rather than communal secrets"
+  - "[source] misleads because the 'magic' label implies the number has special properties, but the actual problem is the opposite — the number has no special properties and should be replaced by a named constant that explains its role"
 ---
 
 ## Transfers

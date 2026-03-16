@@ -17,6 +17,13 @@ related:
 slug: money-is-a-liquid
 source_frame: fluid-dynamics
 updated: '2026-03-13'
+transfers:
+  - "[source] liquid flows from regions of higher pressure to lower pressure through available channels, following the path of least resistance"
+  - "[source] liquid pools in depressions and can be dammed, diverted, or drained through engineered infrastructure"
+  - "[source] liquidity is a phase property — the same substance can be frozen (immobile), liquid (flowing), or vaporized (dispersed) depending on conditions"
+limits:
+  - "[source] breaks because liquid flows are governed by gravity and pressure differentials (passive, mechanical forces), but money flows are driven by incentives, regulations, and power structures (active, political forces) — the metaphor naturalizes what is actually chosen"
+  - "[source] misleads because liquids do not multiply when stored (a pool of water does not grow), but money generates returns through interest and investment, requiring biological or agricultural metaphors (growth, yield) that the liquid frame cannot supply"
 ---
 
 ## Transfers

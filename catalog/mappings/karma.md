@@ -16,6 +16,13 @@ related:
 slug: karma
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] karma operates across lifetimes, creating a ledger that persists beyond any single incarnation and connects present circumstances to past actions"
+  - "[source] karmic causation is morally weighted — actions are not neutral events but carry ethical charge that determines the quality of their consequences"
+  - "[source] karma functions as a closed system of moral conservation where no action is lost and no consequence is unearned"
+limits:
+  - "[source] breaks because karmic causation operates through metaphysical mechanisms (rebirth, cosmic justice) that have no empirical analog in observable cause-and-effect"
+  - "[source] misleads because karma assigns individual moral responsibility for systemic outcomes, potentially justifying suffering as deserved rather than structurally produced"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: life-is-a-gambling-game
 source_frame: gambling
 updated: '2026-03-14'
+transfers:
+  - "[source] gambling games combine player decisions with irreducible chance, making outcomes partly but not fully controllable"
+  - "[source] each wager commits resources irreversibly — once the bet is placed, the stake cannot be reclaimed regardless of outcome"
+  - "[source] gambling games have discrete rounds with clear outcomes (win or lose), and accumulated gains can be wagered again in subsequent rounds"
+limits:
+  - "[source] breaks because gambling games have known probability distributions and defined payoff structures, but life's risks involve radical uncertainty where probabilities are often unknowable"
+  - "[source] misleads because gambling allows players to walk away from the table and keep their winnings, but life provides no option to cash out — participation is compulsory until death"
 ---
 
 ## Transfers

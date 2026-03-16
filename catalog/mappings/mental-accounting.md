@@ -18,6 +18,13 @@ related:
 slug: mental-accounting
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] financial accounting assigns transactions to named ledger categories, and money in one category is treated as distinct from money in another even when it is fungible"
+  - "[source] accounts have balances that constrain spending — you can only spend from an account that has sufficient funds, regardless of total wealth"
+  - "[source] closing an account triggers a final reckoning (profit or loss) that evaluates the entire account's history as a single unit"
+limits:
+  - "[source] breaks because financial accounts can be freely consolidated or transferred between categories by the account holder, but mental categories resist reclassification — lottery winnings 'feel different' from salary even when the holder tries to treat them identically"
+  - "[source] misleads because accounting is a rational system designed to track fungible currency accurately, but mental accounting is a cognitive bias that systematically distorts rational behavior — the metaphor describes the source domain as normative while the target domain is its failure mode"
 ---
 
 ## Transfers

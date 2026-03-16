@@ -20,6 +20,13 @@ related:
 slug: intimacy-is-closeness
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] physical proximity allows sensory access — touch, whisper, scent — unavailable at distance"
+  - "[source] closing physical distance requires mutual consent; unwanted approach triggers threat responses"
+  - "[source] physical closeness is scalar and reversible — you can step closer or pull back incrementally"
+limits:
+  - "[source] breaks because physical closeness is symmetric (if A is near B, B is near A), but emotional intimacy is often asymmetric — one person may feel close while the other does not"
+  - "[source] misleads because physical distance can be measured on a single dimension, but emotional intimacy involves multiple independent dimensions (trust, disclosure, vulnerability) that do not reduce to one scale"
 ---
 
 ## Transfers

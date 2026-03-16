@@ -17,6 +17,13 @@ related:
 slug: lava-flow
 source_frame: natural-phenomena
 updated: '2026-03-14'
+transfers:
+  - "[source] lava flows slowly and predictably along the path of least resistance, accumulating in layers that harden into permanent geological formations"
+  - "[source] once cooled, lava becomes rigid basalt that is extremely difficult to remove or reshape without demolition"
+  - "[source] lava flow is driven by continuous pressure from below — it does not stop until the volcanic source is exhausted"
+limits:
+  - "[source] breaks because lava is a natural process without an agent choosing its path, but legacy code accumulates through deliberate human decisions that could have been made differently"
+  - "[source] misleads because lava flows are visually dramatic and obviously dangerous, but legacy code accumulation is invisible and its risks only become apparent when the system must change"
 ---
 
 ## Transfers

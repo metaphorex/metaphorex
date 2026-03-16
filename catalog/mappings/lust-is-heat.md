@@ -20,6 +20,13 @@ related:
 slug: lust-is-heat
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] heat intensifies continuously along a temperature gradient, with distinct thresholds where phase changes occur (melting, boiling)"
+  - "[source] heat radiates from its source and affects nearby bodies, raising their temperature through proximity"
+  - "[source] overheating causes structural breakdown — materials weaken, deform, or combust when their thermal tolerance is exceeded"
+limits:
+  - "[source] breaks because heat dissipates naturally toward equilibrium as the source cools, but lust can be self-sustaining through fantasy and fixation rather than naturally dissipating"
+  - "[source] misleads because heat affects all materials uniformly according to their thermal properties, but lust is directed at specific targets and does not generalize to all persons in proximity"
 ---
 
 ## Transfers

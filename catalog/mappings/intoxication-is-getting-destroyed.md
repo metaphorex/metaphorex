@@ -18,6 +18,13 @@ related:
 slug: intoxication-is-getting-destroyed
 source_frame: destruction
 updated: '2026-03-12'
+transfers:
+  - "[source] destruction breaks an entity's structural integrity, rendering it unable to perform its normal function"
+  - "[source] destruction is irreversible in degree — a shattered vessel cannot be unshattered, though fragments may be reassembled"
+  - "[source] destruction admits scalar intensity from partial damage to total annihilation"
+limits:
+  - "[source] breaks because destruction is permanent or requires active repair, but intoxication is self-resolving through metabolic clearance"
+  - "[source] misleads because destruction implies an external agent acting on a passive victim, but intoxication is typically self-inflicted and voluntary"
 ---
 
 ## Transfers

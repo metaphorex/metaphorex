@@ -18,6 +18,13 @@ related:
 slug: investments-are-containers-for-money
 source_frame: containers
 updated: '2026-03-12'
+transfers:
+  - "[source] a container holds its contents within defined boundaries, preventing dispersal while maintaining accessibility through an opening"
+  - "[source] the capacity of a container is finite — overfilling causes spillage or rupture"
+  - "[source] containers preserve their contents in the state they were deposited, neither adding to nor subtracting from what is inside"
+limits:
+  - "[source] breaks because containers merely store their contents unchanged, but investments transform deposited money through growth, loss, or restructuring"
+  - "[source] misleads because container contents can be fully withdrawn at any time, but many investments impose lock-up periods, penalties, or liquidity constraints on withdrawal"
 ---
 
 ## Transfers
