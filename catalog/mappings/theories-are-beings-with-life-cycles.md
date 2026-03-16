@@ -19,6 +19,13 @@ related:
 slug: theories-are-beings-with-life-cycles
 source_frame: life-course
 updated: '2026-03-13'
+transfers:
+  - "[source] organisms have biographical arcs from birth through maturation, senescence, and death, mapping the temporal trajectory of intellectual constructs onto biological inevitability"
+  - "[source] a healthy organism attracts resources and produces offspring, mapping a theory's research productivity and generation of successor frameworks onto biological vitality and reproduction"
+  - "[source] old organisms deteriorate through entropy and cellular decline, mapping accumulated anomalies and declining explanatory power onto the aging process"
+limits:
+  - "[source] breaks because dead theories can be revived -- atomism was dormant for centuries before Dalton, Lamarckian inheritance before epigenetics -- and the life-cycle metaphor has no vocabulary for resurrection"
+  - "[source] misleads because a theory's age has no bearing on its truth, yet the metaphor makes old theories feel tired and spent -- Euclidean geometry is millennia old and remains perfectly valid in its domain"
 ---
 
 ## Transfers

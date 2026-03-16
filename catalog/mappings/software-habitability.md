@@ -17,6 +17,13 @@ related:
 slug: software-habitability
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] a habitable building invites modification by its occupants rather than resisting change, mapping the quality of welcoming ongoing alteration onto codebases that support safe modification"
+  - "[source] the New England farmhouse grew irregularly around the lives of its inhabitants, mapping organic accretion over generations onto codebases shaped by the people who work in them"
+  - "[source] comfort is a design criterion distinct from formal elegance, mapping the subjective experience of feeling at home onto the programmer's ability to hold context and predict structure"
+limits:
+  - "[source] breaks because buildings communicate structure through visible spatial features while source code has no equivalent sensory legibility -- you cannot walk through a codebase and feel where the load-bearing walls are"
+  - "[source] misleads because the farmhouse model romanticizes organic growth when a codebase that grew without standards may be genuinely unsafe, like a farmhouse with lead paint and no insulation"
 ---
 
 ## Transfers

@@ -14,6 +14,13 @@ related: []
 slug: running-out-of-steam
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[source] boiler pressure drops along a visible gauge, making depletion measurable and the approaching halt predictable"
+  - "[source] a depressurizing engine slows gradually rather than stopping abruptly, producing a curve of graceful degradation"
+  - "[source] the engine requires fuel input and heat-up time before it can resume useful work, framing recovery as a resource-dependent restart cycle"
+limits:
+  - "[source] breaks because human energy is selectively depletable across domains rather than draining from a single reservoir like a boiler"
+  - "[source] misleads because it frames all non-productive states as empty boilers, rendering contemplation and incubation invisible as valuable processes"
 ---
 
 ## Transfers

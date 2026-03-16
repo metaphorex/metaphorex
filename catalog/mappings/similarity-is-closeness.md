@@ -17,6 +17,13 @@ related:
 slug: similarity-is-closeness
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] degree of resemblance maps onto spatial distance, providing a continuous metric where things can be more or less similar by being closer or farther"
+  - "[source] increasing similarity over time maps onto spatial convergence, making agreement feel like two entities approaching each other"
+  - "[source] groups of similar items form spatial clusters with gaps between them, grounding the intuition behind vector spaces and nearest-neighbor algorithms"
+limits:
+  - "[source] breaks because spatial closeness is symmetric while similarity judgments are often asymmetric -- people say North Korea is similar to China more readily than the reverse"
+  - "[source] misleads because the metric implies a fixed space with stable dimensions, while actual similarity is context-dependent and shifts with the purpose of comparison"
 ---
 
 ## Transfers

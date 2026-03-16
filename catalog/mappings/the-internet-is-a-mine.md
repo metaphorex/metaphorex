@@ -15,6 +15,13 @@ related:
 slug: the-internet-is-a-mine
 source_frame: natural-resources
 updated: '2026-03-13'
+transfers:
+  - "[source] ore sits inert underground until someone with capital and equipment extracts it, framing internet content as raw material whose value lies in the aggregate refined through industrial processing"
+  - "[source] mining operates at industrial scale by strip-mining entire deposits rather than extracting nuggets individually, naturalizing petabyte-scale web scraping as normal extraction"
+  - "[source] raw ore is worthless until refined, concentrating value and profit at the refining stage rather than with the geological processes that produced the raw material"
+limits:
+  - "[source] breaks because minerals do not have authors, and the mining metaphor erases the creative and intellectual labor of people who produced the content by converting it into geological accident"
+  - "[source] misleads because extraction implies a one-way flow that takes and gives nothing back, while the internet at its best is a reciprocal ecosystem sustained by mutual contribution"
 ---
 
 ## Transfers

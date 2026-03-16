@@ -18,6 +18,13 @@ related:
 slug: the-mind-is-a-brittle-object
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] external forces act on a material with a known breaking point, mapping psychological stress onto measurable physical pressure applied to a ceramic vessel or glass pane"
+  - "[source] brittle failure is sudden and total rather than incremental, mapping the experience of abrupt psychological collapse onto the snap of a twig or shatter of glass"
+  - "[source] broken objects stay broken, mapping the perceived irreversibility of psychological damage onto the fact that glued pottery is never as strong as the original"
+limits:
+  - "[source] breaks because actual psychological resilience is more like a flexible material that bends and springs back, and the brittle model has no vocabulary for elasticity, recovery, or post-traumatic growth"
+  - "[source] misleads because the metaphor locates causation externally as pressure from outside, making internally generated distress like endogenous depression difficult to express within the frame"
 ---
 
 ## Transfers

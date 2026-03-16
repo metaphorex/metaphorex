@@ -16,6 +16,13 @@ related:
 slug: theories-are-buildings
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] a building requires a load-bearing foundation before walls and roof can be added, mapping axioms and premises onto structural base elements whose removal collapses everything above"
+  - "[source] construction proceeds in sequential phases where each depends on the previous one, mapping the cumulative nature of intellectual work onto the staged assembly of a physical structure"
+  - "[source] weak points can be reinforced with additional buttressing, mapping the addition of supporting evidence onto structural repair that shores up a compromised section"
+limits:
+  - "[source] breaks because buildings are static finished structures while theories evolve, making a theory \"under construction\" sound incomplete rather than productively provisional"
+  - "[source] misleads because collapse is sudden and total in buildings while theories are typically revised and absorbed into successors rather than catastrophically failing"
 ---
 
 ## Transfers
@@ -52,7 +59,7 @@ Key structural parallels:
 ## Limits
 
 - **Buildings are static; theories evolve** -- the metaphor favors finished
-  structures over works in progress. A theory "under construction" sounds
+  structures over works in progress. A theory \"under construction\" sounds
   incomplete, not dynamic. This bias against intellectual provisionality
   makes scholars reluctant to share half-formed ideas.
 - **The foundation metaphor is misleading** -- buildings require literal

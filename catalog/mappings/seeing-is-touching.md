@@ -19,6 +19,13 @@ related:
 slug: seeing-is-touching
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] the gaze travels outward to make contact with its object, reversing the physical direction of perception from reception to prehension"
+  - "[source] unwanted staring inherits the ethics of unwanted touch, making visual attention feel like a bodily violation"
+  - "[source] eye contact between two people is construed as a physical encounter, importing the intimacy and intrusiveness of mutual touch"
+limits:
+  - "[source] breaks because touch requires proximity while vision operates at arbitrary distance, collapsing the reliability difference between close inspection and remote observation"
+  - "[source] misleads because the viewer is cast as active agent and the object as passive patient, underplaying the role of light emission and object visibility"
 ---
 
 ## Transfers

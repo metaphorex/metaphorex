@@ -16,6 +16,13 @@ related:
 slug: symlink
 source_frame: physical-connection
 updated: '2026-03-14'
+transfers:
+  - "[source] a chain link connects two segments into a continuous whole, mapping the physical joining of adjacent elements onto the abstract relationship between a filename and its data"
+  - "[source] a broken chain hangs uselessly from one attachment point, mapping the vivid failure mode of a dangling symlink onto a reference whose target has been deleted"
+  - "[source] an object held by multiple chains remains secure until the last one is removed, mapping link-count reference tracking onto the physical intuition of redundant attachment"
+limits:
+  - "[source] breaks because physical chains connect bidirectionally while symlinks are purely one-directional -- the target does not know it is pointed to, and reverse traversal requires scanning the entire filesystem"
+  - "[source] misleads because a hard link is not a connection between two things but two names for the same thing, importing a sense of separation where there is actually identity"
 ---
 
 ## Transfers

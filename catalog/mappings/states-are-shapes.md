@@ -16,6 +16,13 @@ related:
 slug: states-are-shapes
 source_frame: geometry
 updated: '2026-03-13'
+transfers:
+  - "[source] an entity in its proper condition has its proper geometric form, mapping visible distortion onto disturbed states so that the shape tells you the condition"
+  - "[source] restoring proper shape through forceful action maps onto reform, making \"whipping into shape\" feel like returning a deformed object to its correct configuration"
+  - "[source] regularity and symmetry signal well-being while crookedness signals dysfunction, mapping geometric orderliness onto a normative standard of good condition"
+limits:
+  - "[source] breaks because many healthy states are inherently irregular -- a diverse ecosystem, a creative mind -- and the metaphor's bias toward geometric regularity misidentifies messiness as dysfunction"
+  - "[source] misleads because shaping implies the entity being shaped is passive material, minimizing agency by casting the person as clay rather than sculptor of their own condition"
 ---
 
 ## Transfers

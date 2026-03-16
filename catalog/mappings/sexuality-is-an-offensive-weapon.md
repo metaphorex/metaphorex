@@ -20,6 +20,13 @@ related:
 slug: sexuality-is-an-offensive-weapon
 source_frame: war
 updated: '2026-03-13'
+transfers:
+  - "[source] the sexually attractive person is armed and the person attracted is under attack, forcing attraction into an asymmetric aggressor-victim frame"
+  - "[source] individual features are inventoried as specific armaments, each rated by its capacity to disable the target"
+  - "[source] resisting attraction is cast as successful defense, making sexual indifference feel like armor against assault"
+limits:
+  - "[source] breaks because weapons cause pain while sexual attraction typically causes pleasure, leaving the metaphor unable to express that being struck by beauty is usually welcome"
+  - "[source] misleads because the weapon frame removes consent entirely, making sex something done to people rather than something people do together"
 ---
 
 ## Transfers

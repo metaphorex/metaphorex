@@ -15,6 +15,13 @@ related: []
 slug: spam
 source_frame: food-and-cooking
 updated: '2026-03-13'
+transfers:
+  - "[source] the Monty Python sketch works because SPAM is repeated until it obliterates all other dialogue, mapping overwhelming repetitive volume onto the ratio problem of signal drowned by noise"
+  - "[source] SPAM the meat is not poisonous but inescapable, mapping unwantedness-without-malice onto messages that are annoying rather than dangerous"
+  - "[source] every menu item includes SPAM with no opt-out possible, mapping systemic unavoidability onto the structure of unsolicited bulk messaging that floods every channel"
+limits:
+  - "[source] breaks because modern usage applies spam to single unsolicited messages, losing the essential repetition-at-scale that made the Monty Python sketch work as structural commentary"
+  - "[source] misleads because the comedic framing makes the problem feel like a nuisance rather than a multi-billion-dollar infrastructure cost involving fraud, bandwidth, and lost productivity"
 ---
 
 ## Transfers

@@ -16,6 +16,13 @@ related:
 slug: shell
 source_frame: horticulture
 updated: '2026-03-13'
+transfers:
+  - "[source] the hard outer casing surrounds and protects the kernel, mapping the interface layer as a mediating barrier between user and core"
+  - "[source] shells are replaceable while the kernel persists, encoding the architectural judgment that the interface layer matters less than the core"
+  - "[source] a shell encloses a bounded interior with limited openings, making the computing session feel like working inside a contained environment"
+limits:
+  - "[source] breaks because a nut shell protects the kernel from the outside world, while a computing shell protects the user from the kernel, inverting the direction of protection"
+  - "[source] misleads because physical shells are passive casings while computing shells are full programming interpreters with conditionals, loops, and functions"
 ---
 
 ## Transfers

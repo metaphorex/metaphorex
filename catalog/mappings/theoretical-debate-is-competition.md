@@ -18,6 +18,13 @@ related:
 slug: theoretical-debate-is-competition
 source_frame: competition
 updated: '2026-03-13'
+transfers:
+  - "[source] participants are rivals deployed in a bounded arena, mapping adversarial structure onto scholarly exchange where each school of thought is a team advancing its position"
+  - "[source] theorists deploy evidence strategically and time their publications to outmaneuver opponents, mapping tactical thinking onto what could be cooperative intellectual inquiry"
+  - "[source] debates produce winners and losers with a demand for resolution, mapping the competitive expectation of a definitive outcome onto intellectual disputes where nuanced draws are common"
+limits:
+  - "[source] breaks because winning a debate is not the same as being correct, and a theory can prevail through rhetorical skill or institutional power without being closer to the truth"
+  - "[source] misleads because competition obscures cumulative progress -- Newtonian mechanics was not defeated by relativity but subsumed, a relationship the competition frame cannot express"
 ---
 
 ## Transfers

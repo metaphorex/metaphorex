@@ -19,6 +19,13 @@ related:
 slug: the-mind-is-a-machine
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - "[source] a functioning machine runs, stalls, and breaks down, mapping cognitive difficulty onto mechanical fault states that feel diagnosable and potentially repairable"
+  - "[source] machines produce goods through continuous operation, mapping intellectual output onto factory production where quantity and consistency are the primary measures"
+  - "[source] machines have identifiable components that can be loose, broken, or misaligned, mapping mental illness onto localized parts failures that are fixable in principle"
+limits:
+  - "[source] breaks because machines are deterministic and should produce the same output given the same input, making cognitive inconsistency always look like malfunction rather than creativity or adaptation"
+  - "[source] misleads because machines have a factory specification defining correct operation, making neurodiversity look like manufacturing defects rather than natural variation"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: the-visual-field-is-a-bounded-region
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] the visual field has edges rather than walls, with objects at the periphery rather than crossing a container threshold, mapping the extent and limits of perception onto a region with a center and fading boundaries"
+  - "[source] center versus periphery creates a gradient of visual acuity, mapping the sharpest perception at the fovea onto the center of a bounded spatial expanse"
+  - "[source] the visual field has a range and angular sweep, mapping how far perception extends onto the measurable reach of a bounded area"
+limits:
+  - "[source] breaks because the visual field moves with every saccade and head turn, while a bounded region suggests a fixed area on a map that does not relocate"
+  - "[source] misleads because even \"bounded region\" overstates the crispness of the visual periphery, where vision fades gradually rather than ending at any definable edge"
 ---
 
 ## Transfers
@@ -56,7 +63,7 @@ Bounded Region."
   suggests a fixed area on a map. The visual field moves with every saccade,
   head turn, and body rotation. The metaphor captures the shape of visual
   experience at a frozen moment but not its dynamism.
-- **The boundary is not sharp** -- even "bounded region" overstates the
+- **The boundary is not sharp** -- even \"bounded region\" overstates the
   crispness of the visual periphery. Vision does not end; it fades.
   Peripheral vision degrades in acuity and color sensitivity but never
   reaches a clean edge. The metaphor imposes a boundary where biology

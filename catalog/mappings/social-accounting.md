@@ -19,6 +19,13 @@ related:
 slug: social-accounting
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] every meaningful social act creates a ledger entry, with favors given as credits and favors received as debts that exert pressure toward reciprocal balance"
+  - "[source] accumulated social credits function as spendable wealth, making goodwill, trust, and favors owed into a form of capital that can be invested or cashed in"
+  - "[source] harm places the offender in social debt that festers if unrepaid, framing forgiveness as the act of writing off an outstanding obligation"
+limits:
+  - "[source] breaks because different social goods resist commensurability -- a year of faithful friendship cannot be weighed against a single betrayal on any meaningful ledger"
+  - "[source] misleads because the accounting frame turns all giving into investing and all receiving into borrowing, making genuine generosity structurally impossible to express"
 ---
 
 ## Transfers

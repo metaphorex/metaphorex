@@ -17,6 +17,13 @@ related:
 slug: temperature-is-creativity
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[source] higher temperature in thermodynamics means particles move faster and less predictably, mapping the mathematical flattening of probability distributions onto perceived unpredictability of output"
+  - "[source] near-zero temperature corresponds to frozen states with minimal molecular motion, mapping greedy deterministic decoding onto the intuition of rigidity and absence of surprise"
+  - "[source] a single scalar moves continuously between complete order and chaos, mapping a temperature dial onto a perceived continuum between precision and creative wildness"
+limits:
+  - "[source] breaks because randomness is not creativity -- high temperature produces statistically flatter distributions, not intentional novelty, and is as likely to yield incoherent garbage as surprising insight"
+  - "[source] misleads because thermodynamic temperature is an emergent property of collective particle behavior while LLM temperature is a parameter set by a user, lending an unearned naturalism to a design choice"
 ---
 
 ## Transfers

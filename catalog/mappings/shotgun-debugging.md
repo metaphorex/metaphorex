@@ -18,6 +18,13 @@ related:
 slug: shotgun-debugging
 source_frame: war
 updated: '2026-03-14'
+transfers:
+  - "[source] a shotgun sacrifices aim for coverage by spraying pellets, mapping the tradeoff between diagnostic understanding and simultaneous broad changes"
+  - "[source] when a shotgun kills, you cannot determine which pellet was lethal, encoding the epistemological cost of not knowing which change fixed the bug"
+  - "[source] choosing a shotgun over a rifle signals that the shooter cannot aim precisely enough, importing a judgment about the developer's desperation or the codebase's opacity"
+limits:
+  - "[source] breaks because shotgun pellets that miss embed harmlessly in the ground, while code changes that do not fix the bug may introduce new bugs or alter performance"
+  - "[source] misleads because it moralizes a sometimes-rational strategy as always reckless, when scattershot approaches can be the best use of limited time in undocumented codebases"
 ---
 
 ## Transfers

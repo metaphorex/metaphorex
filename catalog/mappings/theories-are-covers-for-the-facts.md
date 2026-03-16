@@ -18,6 +18,13 @@ related:
 slug: theories-are-covers-for-the-facts
 source_frame: covers
 updated: '2026-03-13'
+transfers:
+  - "[source] a cover must drape over all objects in its domain without leaving gaps, mapping explanatory scope onto the spatial extent of a covering that either reaches every fact or exposes some"
+  - "[source] the cover must match the contours of what it covers, mapping the geometric criterion of fit onto whether a theory's shape corresponds to the shape of the data"
+  - "[source] stretching a cover beyond its designed extent makes it thinner and liable to tear, mapping the over-extension of a theory beyond its natural scope onto material distortion under strain"
+limits:
+  - "[source] breaks because facts are not pre-existing objects laid out independently of theory -- what counts as a fact is partly determined by the theoretical framework, undermining the cover-over-data model"
+  - "[source] misleads because a cover is passive and sits on top of things, while theories actively predict new facts, generate research programs, and restructure perception of the domain"
 ---
 
 ## Transfers

@@ -16,6 +16,13 @@ related:
 slug: rubber-duck-debugging
 source_frame: communication
 updated: '2026-03-14'
+transfers:
+  - "[source] the mere posture of explanation to a listener forces linearization of assumptions that reveals gaps between expectation and reality"
+  - "[source] an inanimate audience provides the scaffolding of social cognition without the complication of actual feedback or judgment"
+  - "[source] the absurdity of the listener grants social permission to perform a technique that would otherwise feel foolish"
+limits:
+  - "[source] breaks because the duck cannot ask generative questions, so bugs that require inquiry from a different mental model remain hidden"
+  - "[source] misleads because it assumes the bug is in the explainer's organization of known information, not in missing knowledge about undocumented behavior or unfamiliar failure modes"
 ---
 
 ## Transfers

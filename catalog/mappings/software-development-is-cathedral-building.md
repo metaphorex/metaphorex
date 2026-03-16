@@ -15,6 +15,13 @@ related:
 slug: software-development-is-cathedral-building
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] a single master builder holds the design vision while trusted workers execute it, mapping top-down architectural authority onto project leadership"
+  - "[source] detailed blueprints must be complete before the first stone is cut, mapping waterfall specification onto the cathedral's requirement that plans precede construction"
+  - "[source] the building is closed to the public until ritually consecrated, mapping the closed-development release model onto the sacred unveiling of the finished work"
+limits:
+  - "[source] breaks because cathedrals serve a fixed purpose that does not shift mid-construction, while software requirements mutate constantly through user feedback"
+  - "[source] misleads because cathedrals are singular and site-specific while software can be forked, copied, and distributed at zero marginal cost, importing scarcity where none exists"
 ---
 
 ## Transfers

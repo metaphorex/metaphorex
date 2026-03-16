@@ -17,6 +17,13 @@ related:
 slug: theories-are-cloth
 source_frame: textiles
 updated: '2026-03-13'
+transfers:
+  - "[source] individual threads must be interlaced to form a coherent whole, mapping the weaving of multiple lines of evidence onto the interdependent structure where every element relies on every other"
+  - "[source] pulling one thread can unravel the entire fabric progressively, mapping the characteristic failure mode of gradual disintegration rather than sudden collapse"
+  - "[source] patches are visible repairs that reveal where the original fabric failed, mapping ad hoc theoretical revisions onto functional but aesthetically compromised mending"
+limits:
+  - "[source] breaks because cloth has no truth value and the textile metaphor evaluates theories on coherence and texture rather than correspondence with reality, encouraging elegance over accuracy"
+  - "[source] misleads because in a cloth every thread is structurally equal while in a theory some propositions are foundational axioms and others are derived consequences, flattening essential hierarchy"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: the-state-pattern
 source_frame: governance
 updated: '2026-03-14'
+transfers:
+  - "[source] a country at war operates under different rules than a country at peace while remaining the same country, mapping regime-dependent behavior onto an object that delegates to interchangeable state objects"
+  - "[source] transitions between states of governance follow defined processes like elections and treaties, mapping constrained and orderly state changes onto valid transition rules"
+  - "[source] each sovereign jurisdiction has its own self-contained laws and customs, mapping jurisdictional encapsulation onto each State subclass encapsulating behavior appropriate to that condition"
+limits:
+  - "[source] breaks because political transitions involve negotiation, conflict, and ambiguity while software state transitions are deterministic -- if condition X, enter state Y"
+  - "[source] misleads because governance implies permanence and gravitas while software objects may transition through dozens of states per second, making the metaphor's weight disproportionate to typical usage"
 ---
 
 ## Transfers

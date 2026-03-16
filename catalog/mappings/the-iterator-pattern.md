@@ -18,6 +18,13 @@ related:
 slug: the-iterator-pattern
 source_frame: travel
 updated: '2026-03-14'
+transfers:
+  - "[source] a traveler moves through a landscape visiting each location in turn, mapping sequential physical movement onto the traversal of elements in a collection"
+  - "[source] the traveler maintains awareness of current position without owning the territory, mapping the separation between knowing where you are and controlling the terrain"
+  - "[source] a forward-only traveler knows only the next step ahead, naturalizing the limitation of iterators that can advance but cannot jump or backtrack"
+limits:
+  - "[source] breaks because travelers have agency and decide when to move, while iterators are passive structures whose next() method is called by external client code"
+  - "[source] misleads because journeys are irreversible by default while iterators can be trivially reset or recreated, importing a sense of commitment that does not exist"
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: subjects-are-areas
 source_frame: spatial-location
 updated: '2026-03-13'
+transfers:
+  - "[source] a bounded spatial region has borders that distinguish it from neighboring territory, mapping disciplinary boundaries onto edges that can be claimed, defended, or transgressed"
+  - "[source] the surface of an area is accessible while depth requires excavation, mapping introductory knowledge onto the topmost layer and specialist expertise onto material buried below"
+  - "[source] unexplored territory exists beyond the mapped frontier, mapping unstudied topics onto unmapped space that awaits the pioneer researcher"
+limits:
+  - "[source] breaks because the space of a subject grows as you explore it rather than revealing fixed geography, so new questions multiply faster than old ones are resolved"
+  - "[source] misleads because \"entering a field\" sounds like free spatial navigation while access to academic subjects is gatekept by institutions, credentials, and social capital"
 ---
 
 ## Transfers
@@ -68,7 +75,7 @@ Key structural parallels:
   of an introductory course, but the metaphor breaks down for research,
   where new questions multiply faster than old ones are resolved. The space
   of a subject grows as you explore it, unlike any physical territory.
-- **The metaphor hides power relations** -- "entering a field" sounds like
+- **The metaphor hides power relations** -- \"entering a field\" sounds like
   a free choice, but access to academic subjects is gatekept by
   institutions, credentials, and social capital. The spatial metaphor makes
   knowledge look like open land anyone can explore, obscuring the barriers

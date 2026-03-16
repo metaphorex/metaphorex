@@ -21,6 +21,13 @@ related:
 slug: the-body-is-a-container-for-the-self
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] the body has an interior space bounded by a surface, mapping the container schema onto personal identity so that the self resides inside and the world is outside"
+  - "[source] loss of emotional control is failure of containment, mapping the overflow or explosion of contents through a breached boundary onto public displays of inner feeling"
+  - "[source] death is the self departing its container, mapping the most consequential entailment of the body-as-vessel onto dualist frameworks where the empty body remains after the occupant leaves"
+limits:
+  - "[source] breaks because neuroscience shows thinking and feeling are bodily processes rather than things housed inside a body, yet the metaphor produces Cartesian dualism as a linguistic default"
+  - "[source] misleads because the container model pathologizes emotional permeability, treating people easily affected by others' emotions as defective vessels rather than empathically open"
 ---
 
 ## Transfers

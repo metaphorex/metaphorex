@@ -18,6 +18,13 @@ related:
 slug: shapes-are-containers
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] any closed curve defines an interior, an exterior, and a boundary, imposing containment logic onto purely geometric forms"
+  - "[source] mathematical set membership inherits the container schema, making inclusion feel like being inside a bounded region"
+  - "[source] overlapping closed shapes produce shared contents, grounding Venn diagrams and intersection operations in spatial intuition"
+limits:
+  - "[source] breaks because open shapes like lines and curves have no inside, so the container schema silently fails for half of geometry"
+  - "[source] misleads because geometric boundaries exert no containment force, yet the metaphor imports the sense that the circle keeps the point inside it"
 ---
 
 ## Transfers

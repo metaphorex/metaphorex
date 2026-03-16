@@ -20,6 +20,13 @@ related:
 slug: seeing-is-touching-eyes-are-limbs
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] eyes reach, grasp, and sweep like hands, mapping manual dexterity onto visual agility with a detailed anatomical correspondence"
+  - "[source] visual scanning maps onto systematic palpation, making careful observation feel like the deliberate hand movements of a craftsman inspecting material"
+  - "[source] eyelids opening and closing map onto hands opening to receive and clenching to refuse contact"
+limits:
+  - "[source] breaks because eyes cannot manipulate or rearrange what they perceive, importing an agency that vision lacks compared to actual limbs"
+  - "[source] misleads because the limb metaphor makes all vision seem effortful and deliberate, obscuring the automatic, receptive character of peripheral perception"
 ---
 
 ## Transfers

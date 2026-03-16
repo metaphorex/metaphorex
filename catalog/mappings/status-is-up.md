@@ -20,6 +20,13 @@ related:
 slug: status-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] social rank maps onto altitude, with the powerful occupying high positions and the powerless at the bottom, creating a vertical architecture for social structure"
+  - "[source] changes in status map onto ascent and descent, making social mobility feel like physical climbing that requires effort and produces exhaustion"
+  - "[source] deference is enacted as physical lowering -- bowing, kneeling, lowering the eyes -- so the spatial metaphor is performed bodily as well as spoken"
+limits:
+  - "[source] breaks because the vertical axis cannot represent parallel hierarchies that do not share a single up-down dimension, such as lateral distinctions between professional specializations"
+  - "[source] misleads because the climbing metaphor implies earned altitude while much social status is inherited, creating a tension between the implication of merit and the reality of conferred position"
 ---
 
 ## Transfers

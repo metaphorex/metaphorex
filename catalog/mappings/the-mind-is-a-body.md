@@ -21,6 +21,13 @@ related:
 slug: the-mind-is-a-body
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] thinking hard maps onto physical labor that requires strength, produces fatigue, and depletes finite reserves of energy"
+  - "[source] understanding maps onto bodily perception -- seeing, grasping, touching -- making comprehension feel immediate and sensory"
+  - "[source] intellectual commitment maps onto bodily posture, with leaning, standing firm, and wavering expressing degrees of conviction"
+limits:
+  - "[source] breaks because cognitive fatigue does not work like muscular fatigue -- a person mentally exhausted in one domain may be perfectly alert in another, while the body metaphor overgeneralizes the physics of tiredness"
+  - "[source] misleads because mapping mental ability onto physical attributes like sharpness and speed makes intelligence seem like a fixed bodily endowment rather than a product of practice and context"
 ---
 
 ## Transfers

@@ -16,6 +16,13 @@ related:
 slug: the-quality-without-a-name
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] the best buildings possess an objective quality experienced in the body -- warmth, proportion, rightness of fit -- that no single label can capture without distortion"
+  - "[source] pattern languages were designed as a generative process for producing this quality, not as catalogs of clever solutions, mapping the distinction between means and ends"
+  - "[source] the farmhouse grows organically around inhabitants' lives rather than impressing visitors, mapping the priority of long-term habitation over first-impression elegance"
+limits:
+  - "[source] breaks because software has no sensory dimension equivalent to sunlight through a window or the proportions of a room, stripping the concept of the embodied foundation Alexander considered essential"
+  - "[source] misleads because the concept is unfalsifiable in software -- without shared exemplars of code that possesses or lacks the quality, the assertion becomes a way to elevate personal taste to universal principle"
 ---
 
 ## Transfers

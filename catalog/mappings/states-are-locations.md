@@ -20,6 +20,13 @@ related:
 slug: states-are-locations
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - "[source] bounded spatial regions have interiors, exteriors, and thresholds, imposing categorical boundaries and crossing-moments onto what are often continuous and gradual experiences"
+  - "[source] proximity to a location provides a gradient of nearness, mapping the approach to a state onto being on the verge or close to a condition without yet being in it"
+  - "[source] being stuck in a physical location maps confinement onto the persistence of unwanted states, making emotional or situational stasis feel like imprisonment"
+limits:
+  - "[source] breaks because a person cannot be in two locations simultaneously, while mixed states like simultaneous anxiety and excitement are common experiences the metaphor cannot represent"
+  - "[source] misleads because the location model makes recovery feel like navigation toward an exit, creating frustration when someone cannot locate a path out of a state with no spatial structure"
 ---
 
 ## Transfers

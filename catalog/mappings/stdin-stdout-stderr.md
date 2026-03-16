@@ -17,6 +17,13 @@ related:
 slug: stdin-stdout-stderr
 source_frame: fluid-dynamics
 updated: '2026-03-14'
+transfers:
+  - "[source] data enters and exits a process the way water enters and exits a pipe, making the three standard file descriptors feel like a default plumbing layout with one intake and two outflows"
+  - "[source] shell redirection operators divert streams the way valves and channels redirect water, importing the vocabulary of hydrology into process composition"
+  - "[source] separating stderr from stdout maps onto separating waste from clean water, making the design decision to isolate error messages feel hygienic rather than arbitrary"
+limits:
+  - "[source] breaks because data in a stream has strict sequential byte ordering while water molecules in a pipe have no intrinsic order, silently adding a constraint absent from the source domain"
+  - "[source] misleads because merging two fluid streams produces uniform mixing, while merging stdout and stderr produces garbled interleaving where error messages appear mid-data-line"
 ---
 
 ## Transfers

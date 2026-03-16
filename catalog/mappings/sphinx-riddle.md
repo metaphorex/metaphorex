@@ -17,6 +17,13 @@ related:
 slug: sphinx-riddle
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the Sphinx offers a fair cognitive test that applies equally to every traveler, mapping merit-based gatekeeping onto situations where intellectual performance determines passage"
+  - "[source] solving the riddle destroys the gatekeeper, mapping the paradox that a definitively solved challenge eliminates the tester onto the obsolescence of any filter whose answer becomes public"
+  - "[source] the riddle's answer requires self-knowledge rather than obscure trivia, mapping the Socratic insight that the hardest challenges demand honest self-examination"
+limits:
+  - "[source] breaks because the riddle is trivially easy in retrospect, making the metaphor poorly suited to genuinely hard problems that remain difficult even after the answer is known"
+  - "[source] misleads because Oedipus's reward for solving the riddle led directly to catastrophe, a sequel the metaphor suppresses when celebrating problem-solving"
 ---
 
 ## Transfers

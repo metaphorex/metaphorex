@@ -17,6 +17,13 @@ related:
 slug: the-visual-field-is-a-container
 source_frame: containers
 updated: '2026-03-14'
+transfers:
+  - "[source] the container schema imposes an interior, boundary, and exterior onto the continuous gradient of visual perception, making visibility a binary in-or-out threshold"
+  - "[source] objects come into view and go out of sight by crossing the container boundary, mapping changes in visibility onto spatial movements through a doorway"
+  - "[source] the container has a capacity that can be filled, mapping visual saturation onto a full vessel where no more can fit"
+limits:
+  - "[source] breaks because vision fades gradually at the periphery rather than ending at a wall, imposing a crisp inside-outside distinction that does not match the actual gradient of perceptual degradation"
+  - "[source] misleads because you can look at something without seeing it through inattentional blindness, conflating physical presence in the visual field with actual perceptual registration"
 ---
 
 ## Transfers

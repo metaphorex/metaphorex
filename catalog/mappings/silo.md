@@ -14,6 +14,13 @@ related: []
 slug: silo
 source_frame: agriculture
 updated: '2026-03-13'
+transfers:
+  - "[source] agricultural silos exist because mixing grain types causes spoilage, mapping deliberate separation-by-design onto organizational compartmentalization"
+  - "[source] silos are tall and narrow, concentrating material in deep vertical columns rather than spreading horizontally, capturing the geometry of deep hierarchy with minimal lateral connections"
+  - "[source] each silo stores a single type of grain in isolation, mapping homogeneous internal contents onto departments with their own data, budgets, and reporting chains"
+limits:
+  - "[source] breaks because the original silo preserves its contents through separation, while the organizational metaphor treats separation as the disease rather than the cure"
+  - "[source] misleads because \"breaking down silos\" has no agricultural analogue -- literally demolishing grain silos would destroy the harvest"
 ---
 
 ## Transfers

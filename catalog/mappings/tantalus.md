@@ -17,6 +17,13 @@ related:
 slug: tantalus
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the desired object is perceptible and approachable but permanently ungratifiable, mapping the specific cruelty of proximity-without-attainment onto experiences of almost-success"
+  - "[source] nearness to the goal amplifies suffering beyond what mere absence would produce, mapping the psychological insight that being one digit off the winning number hurts more than never entering"
+  - "[source] the reach-fail-recover cycle repeats indefinitely, mapping the structure of recurring almost-achievement onto situations of serial near-misses"
+limits:
+  - "[source] breaks because Tantalus's punishment is eternal while real tantalizing experiences are transient -- eventually you eat the dessert, get the job, or stop wanting it"
+  - "[source] misleads because \"tantalizing\" has acquired positive valence in modern usage, endorsing the pleasurable anticipation that the myth was designed to condemn as torture"
 ---
 
 ## Transfers
@@ -47,7 +54,7 @@ experience and everyday frustration.
   repetitive structure onto experiences of recurring almost-success: the
   startup that almost closes funding, the writer who almost lands the
   agent, the team that almost wins the championship, year after year.
-- **The word has fully detached from its source** -- "tantalizing" is used
+- **The word has fully detached from its source** -- \"tantalizing\" is used
   by millions of speakers who have never heard of Tantalus. It appears on
   restaurant menus, in perfume advertisements, and in clickbait headlines.
   The mythological origin is invisible; the word functions as a pure
@@ -58,7 +65,7 @@ experience and everyday frustration.
 - **Tantalus deserved his punishment; most tantalizing situations are
   amoral** -- in the myth, Tantalus committed horrific crimes: he served
   his own son Pelops as a meal to the gods, testing their omniscience. His
-  punishment was divine justice for specific transgressions. But "tantalizing"
+  punishment was divine justice for specific transgressions. But \"tantalizing\"
   carries no moral freight. A tantalizing dessert menu is not punishment for
   sin. The metaphor has shed the entire ethical structure of the source
   narrative, keeping only the phenomenology of frustrated desire.
@@ -70,14 +77,14 @@ experience and everyday frustration.
   sensations ("a tantalizing aroma") rather than sustained conditions.
 - **The metaphor erases the active agent** -- the gods designed Tantalus's
   punishment. Someone decided that the water would recede and the branches
-  would withdraw. But "tantalizing" in modern usage implies no torturer.
+  would withdraw. But \"tantalizing\" in modern usage implies no torturer.
   A tantalizing possibility just happens to be attractive and unreachable;
   there is no malicious architect behind it. The metaphor strips away agency
   and intentionality, converting deliberate torture into accidental
   frustration.
 - **"Tantalize" has acquired a positive valence** -- perhaps the most
   dramatic breakage. Tantalus's experience is pure suffering: unrelieved,
-  unending frustration designed as punishment. But "tantalizing" is
+  unending frustration designed as punishment. But \"tantalizing\" is
   frequently a compliment. A tantalizing trailer for a film, a tantalizing
   hint of what's to come, a tantalizing preview -- these are desirable.
   The word has migrated from naming torture to naming pleasurable
@@ -119,7 +126,7 @@ Hyginus) has him killing and cooking his son Pelops to test the gods.
 "Tantalize" entered English in the late 16th century, initially carrying
 the full weight of the myth: to tantalize someone was to torment them
 with unattainable desires. By the 18th century, the word had softened.
-By the 20th century, "tantalizing" was a standard positive adjective in
+By the 20th century, \"tantalizing\" was a standard positive adjective in
 food criticism and advertising, and the mythological connection was
 effectively dead for most speakers. The tantalus -- a locked case
 displaying but securing liquor decanters -- preserves the original

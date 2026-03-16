@@ -20,6 +20,13 @@ related:
 slug: the-conduit-metaphor
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] speakers put idea-objects into word-containers and send them to recipients who open them and extract the contents, structuring communication as a three-step packaging-transmission-extraction process"
+  - "[source] failure to communicate is failure to deliver, mapping miscommunication onto packages lost in transit, damaged en route, or never properly sealed"
+  - "[source] ideas persist independently in shared space after transmission, mapping the sense that concepts float around an environment waiting to be picked up"
+limits:
+  - "[source] breaks because meaning is constructed by the listener using context and inference rather than extracted intact from word-containers, making communication a coordinated construction rather than a transfer"
+  - "[source] misleads because the model privileges the sender as the active party while obscuring the enormous interpretive labor that listeners and readers perform to build understanding"
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: theories-are-constructed-objects
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] raw materials exist before the builder arrives, mapping facts and observations onto pre-theoretical inputs that are shaped into a finished intellectual product through skilled labor"
+  - "[source] constructed objects can be disassembled into discrete parts for individual examination, mapping the modularity of physical fabrication onto the ability to separate and critique components of a theory"
+  - "[source] the quality of craftsmanship is visible in the product, mapping an aesthetic and work ethic into intellectual evaluation where good theories are well-made and sloppy ones show their seams"
+limits:
+  - "[source] breaks because what counts as data is often determined by the theory itself, so the raw materials are not independent of the construction process as the metaphor assumes"
+  - "[source] misleads because constructed objects are meant to last, importing an expectation of permanence that conflicts with the provisional character of good science and its willingness to demolish well-crafted structures"
 ---
 
 ## Transfers

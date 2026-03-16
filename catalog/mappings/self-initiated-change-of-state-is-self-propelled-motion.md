@@ -18,6 +18,13 @@ related:
 slug: self-initiated-change-of-state-is-self-propelled-motion
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] the speed of locomotion maps onto the pace of voluntary change, making rushing feel reckless and going slowly feel measured"
+  - "[source] self-propelled motion requires muscular effort, importing the experience of physical exertion into the phenomenology of personal transformation"
+  - "[source] refusing to move maps onto refusing to change, making stubbornness feel like a body planted immovably in place"
+limits:
+  - "[source] breaks because self-propulsion implies a single trajectory, while voluntary self-change is often multidirectional and simultaneous across multiple dimensions"
+  - "[source] misleads because failure to change gets attributed to individual refusal to move rather than to structural constraints like poverty or discrimination that restrict the terrain"
 ---
 
 ## Transfers

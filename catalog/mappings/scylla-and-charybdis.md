@@ -17,6 +17,13 @@ related:
 slug: scylla-and-charybdis
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the strait offers exactly two dangers that are qualitatively different: one bounded and certain, the other catastrophic and probabilistic"
+  - "[source] geographic narrowness eliminates the middle ground, so steering away from one threat necessarily brings the ship closer to the other"
+  - "[source] Circe provides advance intelligence about both monsters, making the dilemma feel fully legible before the choice is made"
+limits:
+  - "[source] breaks because the strait is a one-time passage with a defined outcome, while real dilemmas recur chronically without narrative resolution"
+  - "[source] misleads because the six dead sailors are unnamed and unaccounted for, sanitizing the human cost of calculated acceptable losses"
 ---
 
 ## Transfers

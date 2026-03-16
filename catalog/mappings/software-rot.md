@@ -17,6 +17,13 @@ related:
 slug: software-rot
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] organic matter decays by default if left alone, mapping the inevitability of biological decomposition onto the degradation of unmaintained systems as their environments change"
+  - "[source] rot begins at the surface and works inward before becoming visible, mapping gradual onset onto the pattern of ignored warnings and intermittent failures that precede structural decay"
+  - "[source] one rotten element spreads decay to adjacent material, mapping contagion onto the way workarounds for unmaintained modules create their own maintenance burden"
+limits:
+  - "[source] breaks because software bits on disk do not physically decompose -- the code is unchanged while the environment evolves, making degradation relational rather than internal"
+  - "[source] misleads because rot is irreversible while software can be updated, refactored, and restored to full function, encouraging unnecessary rewrites when incremental repair would suffice"
 ---
 
 ## Transfers

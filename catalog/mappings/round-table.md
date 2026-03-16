@@ -17,6 +17,13 @@ related:
 slug: round-table
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] circular geometry eliminates positional hierarchy by removing endpoints that signal authority"
+  - "[source] mutual visibility around a circle makes disengagement conspicuous and silence accountable"
+  - "[source] fixed seating capacity creates an exclusive peer group that is egalitarian within but closed without"
+limits:
+  - "[source] breaks because the convener who chose participants and set the agenda holds more power than any seated member, and the circular shape conceals this asymmetry"
+  - "[source] misleads because the original Round Table dissolved into civil war, making the source narrative a story of egalitarian failure, not success"
 ---
 
 ## Transfers

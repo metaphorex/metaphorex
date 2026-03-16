@@ -18,6 +18,13 @@ related:
 slug: significant-is-big
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] physical magnitude correlates with attentional salience, making important things feel hard to miss and trivial things feel invisible"
+  - "[source] larger objects carry more momentum and exert more force, importing the physics of scale into evaluations of impact and consequence"
+  - "[source] influence maps onto vertical and volumetric stature, making powerful figures feel like they tower over their peers"
+limits:
+  - "[source] breaks because profoundly significant things can be tiny -- a virus, a transistor, a genetic mutation -- and the metaphor systematically undervalues the subtle"
+  - "[source] misleads because bigness acquires positive valence through conflation with importance, creating blind spots around bloat, excess, and overreach"
 ---
 
 ## Transfers

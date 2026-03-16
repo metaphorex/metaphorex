@@ -17,6 +17,13 @@ related:
 slug: spaghetti-code
 source_frame: food-and-cooking
 updated: '2026-03-14'
+transfers:
+  - "[source] individual strands are indistinguishable and intertwined, mapping the topology of tangled pasta onto control flow that cannot be traced linearly through the program"
+  - "[source] extracting one strand drags the entire dish with it, mapping resistance to decomposition onto the inability to refactor one module without disturbing every coupled dependency"
+  - "[source] the visual mess carries visceral disgust, importing aesthetic revulsion that motivates refactoring and signals social disapproval of unstructured programming"
+limits:
+  - "[source] breaks because spaghetti is homogeneous while real tangled code has heterogeneous components -- database queries interleaved with UI logic -- making the mess structured in ways the pasta image obscures"
+  - "[source] misleads because it blames the code rather than the conditions, when spaghetti is often the rational output of deadline pressure and changing requirements rather than incompetence"
 ---
 
 ## Transfers

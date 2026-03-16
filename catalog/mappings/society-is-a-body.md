@@ -19,6 +19,13 @@ related:
 slug: society-is-a-body
 source_frame: organism
 updated: '2026-03-13'
+transfers:
+  - "[source] each social group has a specific function analogous to an organ's biological role, making specialization feel natural and ordained rather than contingent"
+  - "[source] the head commands and the hands obey through neurological wiring, naturalizing social hierarchy by mapping it onto anatomical subordination"
+  - "[source] social cohesion maps onto bodily health while social problems map onto disease, making dysfunction legible through the familiar experience of illness"
+limits:
+  - "[source] breaks because organs cannot change roles while people can, denying social mobility by implying that individuals are born into functions as fixed as organ specialization"
+  - "[source] misleads because the body has a single head, making the metaphor unable to represent pluralism, distributed authority, or legitimate internal disagreement"
 ---
 
 ## Transfers
