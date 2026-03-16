@@ -172,7 +172,7 @@ millions of vectors efficiently?
 
 - **Pinecone Learn Series, "Hierarchical Navigable Small Worlds (HNSW)"**
 - https://www.pinecone.io/learn/series/faiss/hnsw/
-- The dominant ANN algorithm. Uses a multi-layer graph where upper
+- The dominant ANN (Approximate Nearest Neighbor) algorithm. Uses a multi-layer graph where upper
   layers have long-range connections (for fast coarse navigation) and
   lower layers have short-range connections (for precise local search).
   Think of zooming out on a map to cross a continent, then zooming in
