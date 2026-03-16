@@ -5,3 +5,4 @@ graph.png
 .envrc
 node_modules/
 catalog/embeddings.db
+docs/evals/
