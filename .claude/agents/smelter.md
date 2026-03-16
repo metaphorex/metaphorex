@@ -100,6 +100,30 @@ additional mechanical checks:
 - No empty strings in the lists
 - No exact duplicate propositions within an entry
 
+**How to count transfers and limits reliably:**
+
+Do NOT eyeball the count. YAML list items can span multiple lines (long quoted
+strings wrap), so visually scanning is unreliable. Instead, use a script to
+parse the frontmatter and count items:
+
+```bash
+python3 -c "
+import yaml, sys
+with open(sys.argv[1]) as f:
+    text = f.read()
+fm = text.split('---')[1]
+data = yaml.safe_load(fm)
+t = data.get('transfers', []) or []
+l = data.get('limits', []) or []
+print(f'transfers={len(t)} limits={len(l)}')
+" path/to/entry.md
+```
+
+Run this for every entry file in the PR that has enrichment changes. Compare
+the printed counts against the minimums above. Never rely on manual counting
+of `- "` lines — long propositions wrap across multiple lines and cause
+undercounts.
+
 These are purely mechanical checks — the Smelter makes no judgment about
 proposition content quality.
 
