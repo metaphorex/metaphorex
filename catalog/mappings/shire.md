@@ -15,7 +15,7 @@ related:
   - elysium
 created: '2026-03-16'
 updated: '2026-03-16'
-harness: Claude Code
+harness: "Claude Code"
 transfers:
   - "[source] the Shire functions only because others defend its borders without its knowledge, making its peace a product of invisible external protection rather than inherent virtue"
   - "[source] hobbits who leave the Shire and return find it both diminished and themselves changed, so the pastoral ideal cannot survive contact with the wider world in either direction"
