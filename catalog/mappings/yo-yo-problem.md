@@ -18,6 +18,13 @@ related:
 slug: yo-yo-problem
 source_frame: puzzles-and-games
 updated: '2026-03-14'
+transfers:
+  - "[source] the toy traverses the same vertical axis repeatedly, returning to its starting position after each oscillation"
+  - "[source] the string constrains motion to a single vertical path, preventing lateral movement"
+  - "[source] despite continuous kinetic activity, the toy makes no net positional progress"
+limits:
+  - "[source] breaks because yo-yo motion is deterministic and predictable, whereas the mapped traversal is unpredictable because overrides and dispatches cannot be known without reading each level"
+  - "[source] misleads because the toy is associated with play and skill, whereas the mapped experience is frustrating and unproductive"
 ---
 
 ## Transfers

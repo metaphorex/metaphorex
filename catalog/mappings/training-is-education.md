@@ -16,6 +16,13 @@ related:
 slug: training-is-education
 source_frame: education
 updated: '2026-03-13'
+transfers:
+  - "[source] a student absorbs material from a structured curriculum, building understanding through repeated exposure"
+  - "[source] a teacher transmits knowledge to a student, adapting to the student's level of mastery"
+  - "[source] rote memorization is distinguished from genuine understanding that transfers to new situations"
+limits:
+  - "[source] breaks because education aims at comprehension and justification, whereas the mapped process minimizes a loss function without producing understanding"
+  - "[source] misleads because the teacher-student relationship implies pedagogical intention and social bonding, neither of which exists in the mapped domain"
 ---
 
 ## Transfers

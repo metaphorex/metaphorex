@@ -17,6 +17,13 @@ related:
 slug: weights-are-knowledge
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] knowledge is a substance that can be stored in a container, transferred between holders, and measured in quantity"
+  - "[source] heavier objects exert more influence on their surroundings, mapping magnitude onto importance"
+  - "[source] knowledge accumulates through exposure and experience, growing the total stock over time"
+limits:
+  - "[source] breaks because knowledge requires justification and truth conditions, whereas the mapped numerical values encode statistical correlations with no epistemic warrant"
+  - "[source] misleads because the transfer framing implies genuine understanding moves between systems, when what actually transfers is numerical initialization that approximates a function"
 ---
 
 ## Transfers

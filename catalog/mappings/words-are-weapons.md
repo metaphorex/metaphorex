@@ -18,6 +18,13 @@ related:
 slug: words-are-weapons
 source_frame: war
 updated: '2026-03-13'
+transfers:
+  - "[source] projectiles travel from launcher to target on a ballistic trajectory, striking with force proportional to caliber"
+  - "[source] edged weapons penetrate defenses through sharpness and precision of aim"
+  - "[source] impact produces physical wounds that heal slowly and leave permanent scars"
+limits:
+  - "[source] breaks because weapons do not require the target's interpretation to cause damage, whereas the mapped medium depends entirely on the receiver's context and construal"
+  - "[source] misleads because the weapons frame makes all forceful communication seem destructive, providing no vocabulary for confrontation that is simultaneously sharp and beneficial"
 ---
 
 ## Transfers

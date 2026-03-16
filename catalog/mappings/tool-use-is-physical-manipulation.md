@@ -15,6 +15,13 @@ related:
 slug: tool-use-is-physical-manipulation
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] a hand selects an instrument from an available set, applies it to a target with directed force, and observes the effect"
+  - "[source] the tool extends the user's capability beyond what bare hands can accomplish"
+  - "[source] a clear boundary separates the agent (hand) from the instrument (tool), maintaining distinct roles"
+limits:
+  - "[source] breaks because physical manipulation involves proprioception and force feedback, whereas the mapped interaction is a structured data exchange with no motor component"
+  - "[source] misleads because physical tools are used one at a time, whereas the mapped domain supports parallel and nested invocations with no physical analogue"
 ---
 
 ## Transfers

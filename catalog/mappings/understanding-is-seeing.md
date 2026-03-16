@@ -9,13 +9,27 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
+harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because seeing is passive and automatic, whereas the mapped activity
+  requires effortful interpretation, context, and prior knowledge'
+- '[source] misleads because the perspective framing relativizes all views to positions,
+  providing no vocabulary for views that are simply wrong rather than differently
+  angled'
 name: Understanding Is Seeing
 related:
 - theories-are-buildings
 - ideas-are-food
 slug: understanding-is-seeing
 source_frame: vision
+transfers:
+- '[source] visual clarity depends on illumination -- objects in light are perceivable,
+  objects in darkness are not'
+- '[source] the observer''s viewpoint determines what is visible, making perception
+  position-dependent'
+- '[source] focal attention selects a narrow region for detailed inspection while
+  leaving the periphery blurred'
 updated: '2026-03-14'
 ---
 

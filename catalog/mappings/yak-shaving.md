@@ -16,6 +16,13 @@ related:
 slug: yak-shaving
 source_frame: animal-husbandry
 updated: '2026-03-14'
+transfers:
+  - "[source] an absurd grooming task on a large animal has no visible connection to any practical goal"
+  - "[source] each step in the prerequisite chain is locally rational, but the cumulative distance from the original purpose becomes surreal"
+  - "[source] the absurdity of the endpoint serves as a recognition signal that breaks the chain when named"
+limits:
+  - "[source] breaks because the metaphor implies all prerequisite work is wasteful misdirection, whereas the mapped chains often involve genuinely necessary foundational tasks"
+  - "[source] misleads because the single-strand causal chain oversimplifies the mapped structure, which is typically a branching dependency graph, not a linear sequence"
 ---
 
 ## Transfers

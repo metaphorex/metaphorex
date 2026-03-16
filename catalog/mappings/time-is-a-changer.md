@@ -8,7 +8,13 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because the mapped domain has no actual causal agent; specific
+  mechanisms produce the changes attributed to the personified force'
+- '[source] misleads because attributing change to a single agent discourages identifying
+  the specific processes responsible'
 name: Time Is a Changer
 provenance: osaka-master-metaphor-list
 related:
@@ -16,6 +22,13 @@ related:
 - time-is-a-pursuer
 slug: time-is-a-changer
 source_frame: causal-agent
+transfers:
+- '[source] a causal agent acts on objects to transform their state without their
+  consent'
+- '[source] the agent can play contradictory roles -- healer and destroyer -- depending
+  on context'
+- '[source] the agent''s effects accumulate incrementally but are narrated as deliberate
+  acts'
 updated: '2026-03-13'
 ---
 

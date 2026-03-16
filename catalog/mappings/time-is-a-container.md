@@ -8,7 +8,13 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because containers are static vessels, whereas the mapped domain
+  flows and cannot be held in place'
+- '[source] misleads because container boundaries imply mutual exclusion, but the
+  mapped entities overlap freely across multiple containers simultaneously'
 name: Time Is a Container
 provenance: osaka-master-metaphor-list
 related:
@@ -17,6 +23,12 @@ related:
 - activities-are-containers
 slug: time-is-a-container
 source_frame: containers
+transfers:
+- '[source] containers have sharp boundaries that separate interior from exterior'
+- '[source] containers have finite capacity and can be filled, leaving no room for
+  additional contents'
+- '[source] entities enter and exit containers by crossing a boundary, changing their
+  containment status'
 updated: '2026-03-13'
 ---
 
