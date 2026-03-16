@@ -16,6 +16,13 @@ related:
 slug: come-with-clean-hands
 source_frame: purity
 updated: '2026-03-16'
+transfers:
+  - "[source] moral status is a substance that can be deposited on the person via conduct, making it subject to inspection and judgment"
+  - "[source] contamination is asymmetric and totalizing -- a small amount of wrongdoing can disqualify an entire claim for relief"
+  - "[source] hands can be washed -- moral rehabilitation is possible through ceasing wrongful conduct, making restitution, or demonstrating changed behavior"
+limits:
+  - "[source] breaks because moral evaluation is interpretive and contextual, not a binary condition that can be simply inspected like physical dirt"
+  - "[source] misleads because small misconduct can disqualify valid claims, creating disproportionate outcomes that ignore proportionality between plaintiff and defendant conduct"
 ---
 
 ## Transfers

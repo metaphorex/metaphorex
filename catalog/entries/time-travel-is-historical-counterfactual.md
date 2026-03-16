@@ -16,6 +16,13 @@ related:
 slug: time-travel-is-historical-counterfactual
 source_frame: science-fiction
 updated: '2026-03-16'
+transfers:
+  - "[source] the past is a destination that can be visited via physical travel, reifying counterfactual reasoning as navigation through time rather than formal logical manipulation"
+  - "[source] causal propagation is a river flowing forward through a timeline, making effects visible and sequential but implying linear dynamics where none may exist"
+  - "[source] small changes in initial conditions produce large downstream effects -- the butterfly effect transforms a mathematical property of chaotic systems into moral drama"
+limits:
+  - "[source] breaks because counterfactual reasoning does not require a protagonist, and inserting a traveler introduces observer effects and narrative stakes absent from logical analysis"
+  - "[source] misleads because it assumes single interventions and reversibility, when real counterfactual analysis often involves multiple simultaneous changes and irreversible consequences"
 ---
 
 ## Transfers
