@@ -1,13 +1,13 @@
 // scripts/search.ts
 // Usage: bun run scripts/search.ts <query>
-// With random vectors this returns random results — proves plumbing works.
 
 import { resolve } from "node:path";
+import OpenAI from "openai";
 import { openDb } from "./lib/db.ts";
 
 const ROOT = resolve(import.meta.dirname!, "..");
 const DB_PATH = resolve(ROOT, "catalog/embeddings.db");
-const DIMS = 1536;
+const MODEL = "openai/text-embedding-3-small";
 const K = 10;
 
 const query = process.argv.slice(2).join(" ");
@@ -16,14 +16,35 @@ if (!query) {
   process.exit(1);
 }
 
+if (!process.env.OPENROUTER_API_KEY) {
+  console.error("OPENROUTER_API_KEY environment variable is required");
+  console.error("Run: source .envrc");
+  process.exit(1);
+}
+
+const openai = new OpenAI({
+  baseURL: "https://openrouter.ai/api/v1",
+  apiKey: process.env.OPENROUTER_API_KEY,
+});
+
 const db = openDb(DB_PATH);
 
-// Generate a random query vector (placeholder until real embeddings)
-const queryVec = new Float32Array(DIMS);
-for (let d = 0; d < DIMS; d++) queryVec[d] = Math.random() - 0.5;
+// Verify model matches what was used to build the DB
+const storedModel = db.query("SELECT value FROM meta WHERE key = 'embedding_model'").get() as { value: string } | null;
+if (storedModel && storedModel.value !== MODEL) {
+  console.error(`Model mismatch: DB was built with ${storedModel.value}, search uses ${MODEL}`);
+  console.error("Rebuild the database with: bun run scripts/build-db.ts");
+  process.exit(1);
+}
 
-console.log(`Query: "${query}"`);
-console.log(`(Using random vectors — results are meaningless placeholders)\n`);
+// Embed the query
+const response = await openai.embeddings.create({
+  model: MODEL,
+  input: [query],
+});
+const queryVec = new Float32Array(response.data[0].embedding);
+
+console.log(`Query: "${query}"\n`);
 
 // sqlite-vec nearest neighbor search
 const results = db.query(`

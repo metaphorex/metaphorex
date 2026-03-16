@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
+    "openai": "^6.29.0",
     "sqlite-vec": "^0.1.6"
   },
   "devDependencies": {
