@@ -15,8 +15,7 @@ limits:
   - "[source] implies that success in one domain automatically transfers to all others, obscuring that real excellence is domain-specific and that optimization along a single metric often degrades other metrics"
   - "[source] frames the destructive consequences as an intrinsic property of the gift itself, when in practice monomaniacal optimization is a choice that could be moderated, not a curse that cannot be lifted"
 name: Midas Touch
-related:
-- pandora-box
+related: []
 slug: midas-touch
 source_frame: mythology
 transfers:
