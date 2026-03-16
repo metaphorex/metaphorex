@@ -13,7 +13,7 @@ related:
 - the-map-is-not-the-territory
 - latticework-of-mental-models
 slug: opportunity-cost
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] redefines cost as the value of the best forgone alternative rather than the price paid, making invisible tradeoffs visible"
   - "[model] prohibits evaluating any option in isolation by requiring comparison with the next-best use of the same resource"

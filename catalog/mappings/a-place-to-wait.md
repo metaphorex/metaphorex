@@ -16,7 +16,7 @@ related:
 - data-flow-is-fluid-flow
 slug: a-place-to-wait
 source_frame: architecture-and-building
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] a well-designed waiting space communicates queue position and expected duration, making the wait transparent rather than opaque"
   - "[source] the waiting place is a transition zone between two states -- a liminal threshold that mediates passage rather than an engineering defect"

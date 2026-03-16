@@ -18,7 +18,7 @@ related:
 - love-is-a-journey
 slug: action-is-motion
 source_frame: embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] motion has direction, making purposeless activity feel like wandering and purposeful activity like traveling toward a destination"
   - "[source] motion has speed, mapping rate of activity onto velocity so that fast work feels energetic and slow work feels sluggish"

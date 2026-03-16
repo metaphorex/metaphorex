@@ -7,6 +7,7 @@ categories:
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: AI Is an Intern
 related:
@@ -15,7 +16,7 @@ related:
 - ai-is-an-agent
 slug: ai-is-an-intern
 source_frame: social-roles
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] interns produce work product for every assigned task with inconsistent quality, requiring review before anything ships to production"
   - "[source] interns are confident beyond their competence, delivering work without awareness of edge cases or conventions they have violated"

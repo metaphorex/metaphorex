@@ -15,7 +15,7 @@ related:
 - lollapalooza-effect
 slug: power-laws
 source_frame: probability
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[law] predicts that in multiplicative-process domains, extreme events are rare but dominate the total, making averages misleading"
   - "[law] connects the shape of the outcome distribution to its generating mechanism -- a positive feedback loop produces concentration as a structural property"

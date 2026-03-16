@@ -14,7 +14,7 @@ related:
 - ai-is-a-tool
 slug: agent-swarm
 source_frame: animal-behavior
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] swarm insects coordinate through local signals without central command, framing multi-agent systems as bottom-up rather than top-down"
   - "[source] individual swarm members are expendable -- the colony absorbs the loss of thousands without system failure"

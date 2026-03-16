@@ -7,6 +7,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: AI Is a Tool
 related:
@@ -16,7 +17,7 @@ related:
 - ai-is-an-oracle
 slug: ai-is-a-tool
 source_frame: tool-use
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] tools are inert objects that extend human capability without possessing goals, placing all agency and responsibility with the operator"
   - "[source] skill resides in the user rather than the instrument -- the same tool produces art or splinters depending on who wields it"

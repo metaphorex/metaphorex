@@ -8,6 +8,7 @@ categories:
 - software-engineering
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: AI Is an Agent
 related:
@@ -17,7 +18,7 @@ related:
 - ai-is-an-oracle
 slug: ai-is-an-agent
 source_frame: governance
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] an agent operates with delegated authority within a defined scope, choosing methods autonomously while the principal defines the objective"
   - "[source] agents owe fiduciary duties to their principals -- loyalty, care, and disclosure -- importing a trust framework onto AI delegation"

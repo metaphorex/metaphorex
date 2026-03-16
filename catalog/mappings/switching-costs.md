@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Switching Costs
 provenance: munger-poor-charlies-almanack
@@ -13,7 +14,7 @@ related:
 - survival-of-the-fittest
 slug: switching-costs
 source_frame: physics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] maps physical friction and inertia onto customer retention -- the higher the cost of changing, the more durable the business relationship regardless of satisfaction"
   - "[model] distinguishes static friction (the upfront cost to initiate a switch) from kinetic friction (the ongoing cost of operating in the new state), where most resistance concentrates at the start"

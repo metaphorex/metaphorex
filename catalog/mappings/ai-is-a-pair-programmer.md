@@ -16,7 +16,7 @@ related:
 - ai-is-a-prosthesis
 slug: ai-is-a-pair-programmer
 source_frame: collaborative-work
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] pair programming alternates driver and navigator roles, mapping onto the human-writes/AI-completes/human-reviews interaction loop"
   - "[source] pair partners bring complementary skills to the same workstation, framing human domain knowledge and AI pattern breadth as mutually compensating"

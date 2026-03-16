@@ -5,6 +5,7 @@ categories:
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Niche Specialization
 provenance: munger-poor-charlies-almanack
@@ -13,7 +14,7 @@ related:
 - red-queen-effect
 slug: niche-specialization
 source_frame: natural-selection
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts that two entities competing for the same niche cannot stably coexist -- one will displace the other or both must differentiate"
   - "[model] links specialization to tradeoff -- deep adaptation to one environment reduces fitness in all others"

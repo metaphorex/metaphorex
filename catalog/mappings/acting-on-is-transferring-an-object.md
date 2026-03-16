@@ -17,7 +17,7 @@ related:
 - action-is-control-over-possessions
 slug: acting-on-is-transferring-an-object
 source_frame: embodied-experience
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] transferring an object requires a sender, a receiver, and a thing passed between them, imposing a clear three-role structure on causation"
   - "[source] forceful transfer corresponds to intense effect -- hurling versus handing maps onto violent versus gentle action"

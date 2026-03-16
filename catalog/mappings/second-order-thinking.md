@@ -14,7 +14,7 @@ related:
 - the-map-is-not-the-territory
 slug: second-order-thinking
 source_frame: physics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] extends causal analysis beyond immediate effects to the consequences of those consequences, revealing feedback loops and unintended outcomes"
   - "[model] distinguishes depth of analysis as a layered structure where each order requires tracing the output of the previous order as a new input"

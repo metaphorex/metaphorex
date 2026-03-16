@@ -21,7 +21,7 @@ related:
 - difficulties-are-impediments-to-motion
 slug: a-force-is-a-moving-object
 source_frame: embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] moving objects have trajectory, arriving from a source and following a path through space to a point of impact"
   - "[source] moving objects can be blocked, deflected, or absorbed by obstacles placed in their path"

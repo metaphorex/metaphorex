@@ -16,7 +16,7 @@ related:
 - states-are-locations
 slug: activities-are-containers
 source_frame: containers
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] containers have sharp inside/outside boundaries, making participation a binary spatial state -- you are in or you are out"
   - "[source] entering and exiting a container are physical transitions, making starting and stopping activities feel like crossing thresholds rather than gradual state changes"

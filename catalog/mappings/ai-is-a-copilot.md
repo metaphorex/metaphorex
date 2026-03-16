@@ -7,6 +7,7 @@ categories:
 - software-engineering
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: AI Is a Copilot
 related:
@@ -15,7 +16,7 @@ related:
 - ai-is-an-intern
 slug: ai-is-a-copilot
 source_frame: aviation
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] the copilot occupies the same workspace and sees the same instruments as the pilot, but command authority is asymmetric and unambiguous"
   - "[source] copilots handle routine tasks while the pilot handles critical decisions, mapping a natural division of labor based on criticality"

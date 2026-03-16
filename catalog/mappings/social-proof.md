@@ -5,6 +5,7 @@ categories:
 - social-dynamics
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Social Proof
 provenance: munger-poor-charlies-almanack
@@ -13,7 +14,7 @@ related:
 - the-map-is-not-the-territory
 slug: social-proof
 source_frame: natural-selection
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts that uncertainty amplifies the tendency to copy others -- the less you know about a situation, the more you rely on the crowd's behavior as a heuristic"
   - "[model] identifies positive feedback cascades where each new adopter strengthens the signal for subsequent adopters, producing self-reinforcing momentum"

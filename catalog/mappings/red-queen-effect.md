@@ -5,6 +5,7 @@ categories:
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Red Queen Effect
 provenance: munger-poor-charlies-almanack
@@ -12,7 +13,7 @@ related:
 - survival-of-the-fittest
 slug: red-queen-effect
 source_frame: natural-selection
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[law] predicts that in co-evolutionary systems, continuous adaptation is required merely to maintain current relative fitness, not to advance"
   - "[law] reframes apparent progress as maintenance -- improvement that matches the competitive environment produces no net gain in position"

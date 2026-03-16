@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Two-Track Analysis
 provenance: munger-poor-charlies-almanack
@@ -14,7 +15,7 @@ related:
 - the-map-is-not-the-territory
 slug: two-track-analysis
 source_frame: manufacturing
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] requires passing two independent inspections before clearing a decision -- rational analysis of the object and psychological audit of the analyst"
   - "[model] treats failure on either track as failure of the whole analysis, preventing rational-seeming conclusions that are actually bias-driven"

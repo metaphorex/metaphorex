@@ -19,7 +19,7 @@ related:
 - problems-are-puzzles
 slug: a-problem-is-a-body-of-water
 source_frame: fluid-dynamics
-updated: '2026-03-14'
+updated: '2026-03-16'
 transfers:
   - "[source] depth maps severity on a continuous scale -- shallow problems can be waded through while deep ones threaten submersion and loss of control"
   - "[source] bodies of water have currents that carry the person independent of their will, giving the problem autonomous dynamics beyond the solver's agency"

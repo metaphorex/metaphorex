@@ -15,7 +15,7 @@ related:
 - neural-network-is-a-brain
 slug: ai-hallucination-is-perception-disorder
 source_frame: medicine
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] psychiatric hallucinations are experienced with full subjective conviction, mapping onto AI's tendency to present false outputs with the same syntactic confidence as true ones"
   - "[source] hallucination is a disorder amenable to treatment, framing confident false output as a pathology to be cured rather than an inherent property of the system"

@@ -5,6 +5,7 @@ categories:
 - social-dynamics
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Reciprocity
 provenance: munger-poor-charlies-almanack
@@ -13,7 +14,7 @@ related:
 - social-proof
 slug: reciprocity
 source_frame: economics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts that receiving an unsolicited favor creates a felt obligation to repay that operates below conscious deliberation"
   - "[model] operates symmetrically -- the same mechanism drives return of favors and return of hostility through a single social ledger"

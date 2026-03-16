@@ -5,6 +5,7 @@ categories:
 - cognitive-science
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Scenario Analysis
 provenance: munger-poor-charlies-almanack
@@ -14,7 +15,7 @@ related:
 - the-map-is-not-the-territory
 slug: scenario-analysis
 source_frame: war
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] replaces single-point forecasts with a set of plausible futures, each paired with early indicators that signal which is unfolding"
   - "[model] directs heaviest preparation toward the scenario with worst consequences rather than highest probability"

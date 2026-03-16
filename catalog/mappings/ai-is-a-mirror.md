@@ -14,7 +14,7 @@ related:
 - ai-is-a-black-box
 slug: ai-is-a-mirror
 source_frame: vision
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] a mirror reproduces what stands before it without creating or editing, positioning AI outputs as passive reflections of training data and culture"
   - "[source] when the reflection is ugly the mirror is not blamed, providing a ready-made defense that deflects responsibility from the system to society"

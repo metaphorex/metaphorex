@@ -21,7 +21,7 @@ related:
 - change-is-motion
 slug: actions-are-self-propelled-motions
 source_frame: embodied-experience
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] self-propelled motion makes the agent both mover and moved, mapping volitional agency onto the bodily experience of generating locomotion from within"
   - "[source] sustained locomotion requires continuous effort, making persistence in action feel like continued walking and quitting feel like stopping"

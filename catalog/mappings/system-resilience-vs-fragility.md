@@ -5,6 +5,7 @@ categories:
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: System Resilience vs. Fragility
 provenance: munger-poor-charlies-almanack
@@ -12,7 +13,7 @@ related:
 - redundancy
 slug: system-resilience-vs-fragility
 source_frame: architecture-and-building
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] sorts systems along a spectrum from fragile (breaks under stress) through robust (withstands stress unchanged) to antifragile (gains from stress)"
   - "[model] distinguishes graceful degradation from catastrophic failure as the key design property that determines whether a system can survive unexpected loads"

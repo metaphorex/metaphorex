@@ -15,7 +15,7 @@ related:
 - the-map-is-not-the-territory
 slug: mr-market
 source_frame: social-roles
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] reframes market prices as emotional episodes of a single counterparty rather than as information signals aggregating collective knowledge"
   - "[model] removes the felt obligation to transact by making optional participation vivid through a social-roles frame"

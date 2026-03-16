@@ -14,7 +14,7 @@ related:
 - the-map-is-not-the-territory
 slug: scale-economies
 source_frame: physics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts that fixed costs spread across increasing volume produce declining unit costs, creating a structural advantage for the largest producer"
   - "[model] identifies scaling thresholds where the cost dynamics that held in one regime break down in the next"

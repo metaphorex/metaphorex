@@ -17,7 +17,7 @@ related:
 - acting-on-is-transferring-an-object
 slug: action-is-control-over-possessions
 source_frame: economics
-updated: '2026-03-12'
+updated: '2026-03-16'
 transfers:
   - "[source] possessions can be gripped firmly or lost, mapping effectiveness onto the tightness of one's hold on resources"
   - "[source] possessions transfer between owners, framing delegation and succession as handing over objects"

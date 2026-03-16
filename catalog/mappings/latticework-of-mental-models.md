@@ -6,6 +6,7 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Latticework of Mental Models
 provenance: munger-poor-charlies-almanack
@@ -14,7 +15,7 @@ related:
 - golden-hammer
 slug: latticework-of-mental-models
 source_frame: architecture-and-building
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] derives explanatory power from the connections between models rather than from any individual model's strength"
   - "[model] requires coverage from multiple disciplines to create a framework that resists failure from any single direction of stress"

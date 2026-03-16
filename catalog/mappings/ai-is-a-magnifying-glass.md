@@ -15,7 +15,7 @@ related:
 - ai-is-a-tool
 slug: ai-is-a-magnifying-glass
 source_frame: vision
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] a magnifying glass enlarges what is already present but too small to notice, framing AI as an amplifier of existing patterns rather than a creator of new ones"
   - "[source] the user directs where the lens points, preserving human agency in determining what gets amplified"

@@ -15,7 +15,7 @@ related:
 - power-laws
 slug: regression-to-the-mean
 source_frame: probability
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[law] predicts that extreme measurements on a variable with a random component will be followed by less extreme measurements, through arithmetic rather than any causal force"
   - "[law] reveals that interventions applied at performance extremes will appear effective regardless of their actual impact, because the natural regression provides false confirmation"

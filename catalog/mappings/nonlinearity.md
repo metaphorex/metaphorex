@@ -5,6 +5,7 @@ categories:
 - cognitive-science
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Nonlinearity
 provenance: munger-poor-charlies-almanack
@@ -15,7 +16,7 @@ related:
 - the-map-is-not-the-territory
 slug: nonlinearity
 source_frame: physics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts threshold effects where gradual input produces sudden qualitative change once the system crosses a critical point"
   - "[model] identifies positive feedback loops as the mechanism by which small perturbations amplify into disproportionate outcomes"

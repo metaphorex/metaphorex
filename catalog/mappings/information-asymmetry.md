@@ -5,6 +5,7 @@ categories:
 - social-dynamics
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Information Asymmetry
 provenance: munger-poor-charlies-almanack
@@ -13,7 +14,7 @@ related:
 - principal-agent-problem
 - the-map-is-not-the-territory
 slug: information-asymmetry
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts that unequal knowledge between transacting parties degrades market quality by driving out high-quality participants"
   - "[model] identifies signaling and screening as corrective mechanisms that counterparties deploy to bridge the knowledge gap"

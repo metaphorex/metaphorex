@@ -14,7 +14,7 @@ related:
 - the-map-is-not-the-territory
 slug: lollapalooza-effect
 source_frame: physics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts that when multiple cognitive biases align in the same direction, their combined effect is multiplicative rather than additive"
   - "[model] identifies convergence of independent forces as the mechanism behind extreme outcomes that no single cause can explain"

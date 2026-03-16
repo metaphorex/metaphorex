@@ -17,7 +17,7 @@ related:
 - properties-are-possessions
 slug: abilities-are-entities-inside-a-person
 source_frame: containers
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] objects inside a container can be hidden, dormant, or buried, making discovery the key act and education an excavation"
   - "[source] containers have finite volumetric capacity, mapping cognitive limits onto spatial fullness or emptiness"

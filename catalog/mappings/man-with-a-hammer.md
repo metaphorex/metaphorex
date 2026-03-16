@@ -15,7 +15,7 @@ related:
 - lollapalooza-effect
 slug: man-with-a-hammer
 source_frame: tool-use
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts that a single analytical framework reshapes perception so that the thinker sees only problems matching the tool, not just responses matching it"
   - "[model] functions as a self-referential meta-model -- the argument for needing multiple models is itself a model about model selection"

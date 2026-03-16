@@ -16,7 +16,7 @@ related:
 - emotions-are-entities-within-a-person
 slug: acting-compulsively-is-ingesting-a-substance-compulsively
 source_frame: compulsive-ingestion
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] ingested substances produce tolerance that requires escalating doses to achieve the same effect, mapping onto behavioral escalation over time"
   - "[source] cessation of ingestion produces withdrawal symptoms, giving the discomfort of stopping a physical rather than merely psychological character"

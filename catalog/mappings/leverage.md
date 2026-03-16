@@ -5,6 +5,7 @@ categories:
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Leverage
 provenance: munger-poor-charlies-almanack
@@ -13,7 +14,7 @@ related:
 - activation-energy
 slug: leverage
 source_frame: physics
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] amplifies output relative to input symmetrically -- the same mechanism that magnifies gains magnifies losses"
   - "[model] depends on the fulcrum position, meaning the structural condition enabling amplification matters more than the effort applied"

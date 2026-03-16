@@ -14,7 +14,7 @@ related:
 - circle-of-competence
 slug: margin-of-safety
 source_frame: architecture-and-building
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] compensates for irreducible estimation error by building excess capacity between what is expected and what is designed for"
   - "[model] protects against the general condition of uncertainty rather than any specific identified risk"

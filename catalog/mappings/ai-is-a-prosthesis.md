@@ -15,7 +15,7 @@ related:
 - bicycle-for-the-mind
 slug: ai-is-a-prosthesis
 source_frame: medicine
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] a prosthesis integrates with the body until the user acts through it rather than thinking about it, driving interface design toward seamless embedding"
   - "[source] prosthetics presuppose a deficit in the user, framing AI as compensating for a cognitive limitation rather than merely adding convenience"

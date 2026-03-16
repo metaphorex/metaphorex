@@ -15,7 +15,7 @@ related:
 - ai-is-a-copilot
 slug: ai-is-a-spell-checker
 source_frame: tool-use
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] spell checkers operate on surface patterns without understanding meaning, mapping onto the claim that AI manipulates statistical regularities without comprehension"
   - "[source] spell checker suggestions are recommendations the user accepts or rejects on a case-by-case basis, preserving total user authority over output"

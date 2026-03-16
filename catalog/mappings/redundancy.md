@@ -14,7 +14,7 @@ related:
 - the-map-is-not-the-territory
 slug: redundancy
 source_frame: architecture-and-building
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] achieves system reliability exceeding any individual component's reliability by ensuring independent backup paths that do not share failure modes"
   - "[model] opposes optimization taken too far -- deliberately preserving slack and spare capacity as the difference between theoretical and practical robustness"

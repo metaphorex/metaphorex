@@ -13,7 +13,7 @@ related:
 - survival-of-the-fittest
 - the-map-is-not-the-territory
 slug: incentive-caused-bias
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts that the belief system of an agent will drift toward whatever the reward structure reinforces, independent of evidence"
   - "[model] operates through cognition rather than behavior alone -- the agent sincerely changes what they believe, not just what they do"

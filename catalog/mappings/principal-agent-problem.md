@@ -14,7 +14,7 @@ related:
 - lollapalooza-effect
 - the-map-is-not-the-territory
 slug: principal-agent-problem
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] locates the engine of organizational dysfunction in the information gap between the party who delegates and the party who executes"
   - "[model] frames monitoring and incentive alignment as rational responses to structural misalignment rather than bureaucratic overhead"

@@ -5,6 +5,7 @@ categories:
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Network Effects
 provenance: munger-poor-charlies-almanack
@@ -13,7 +14,7 @@ related:
 - the-map-is-not-the-territory
 slug: network-effects
 source_frame: network-communication
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] predicts that the unit of value in a network is the connection between nodes, not the nodes themselves, so value grows faster than membership"
   - "[model] identifies a critical mass threshold below which growth is effortful and above which it becomes self-sustaining"

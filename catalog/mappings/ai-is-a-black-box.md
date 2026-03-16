@@ -14,7 +14,7 @@ related:
 - ai-is-a-mirror
 slug: ai-is-a-black-box
 source_frame: containers
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[source] a sealed container reduces interaction to input-output exchange, stripping away all possibility of intermediate inspection"
   - "[source] opacity is a physical property of the container wall, making inscrutability feel like a fact of nature rather than a design choice"

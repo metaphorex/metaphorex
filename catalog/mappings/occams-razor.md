@@ -14,7 +14,7 @@ related:
 - first-principles-thinking
 slug: occams-razor
 source_frame: tool-use
-updated: '2026-03-13'
+updated: '2026-03-16'
 transfers:
   - "[model] treats every unnecessary assumption as a liability that increases the probability of error without increasing explanatory power"
   - "[model] operates as a comparative selector between hypotheses of equal explanatory power, not as an absolute preference for simplicity"

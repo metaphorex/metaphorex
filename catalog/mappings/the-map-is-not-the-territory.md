@@ -1,17 +1,18 @@
 ---
-author: fshot
+author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - systems-thinking
 - philosophy
 contributors: []
 created: '2026-03-07'
+harness: Claude Code
 kind: mental-model
 name: The Map Is Not the Territory
 related: []
 slug: the-map-is-not-the-territory
 source_frame: cartography
-updated: '2026-03-09'
+updated: '2026-03-16'
 transfers:
   - "[model] reframes every representation as lossy by design -- a map is useful precisely because it omits, and a 1:1 map reproduces the territory without aiding navigation"
   - "[model] replaces the question 'is this model right?' with 'what does this model leave out?' by making omission a structural feature of all abstraction"
