@@ -158,14 +158,14 @@ The `grounding` field signals epistemic status. Defaults to `folk` if omitted.
 ## Import projects and sub-issues
 
 Large-scale imports are organized as **import projects** — a parent issue
-describing the source, with individual mapping candidates tracked as native
+describing the source, with individual candidates tracked as native
 GitHub sub-issues of that parent.
 
 - **Parent issues** are labeled `import-project` and describe the source
   (a book, a pattern catalog, a field of study).
 - **Sub-issues** are created as children of the parent using GitHub's native
   sub-issue relationship (`addSubIssue` GraphQL mutation). Each sub-issue
-  represents one mapping candidate.
+  represents one candidate.
 - **Do not use body text** like "Parent issue: #3" to express parent/child
   relationships. Use GitHub's native sub-issue feature so the relationship
   is visible in the UI and queryable via the API.
@@ -173,25 +173,25 @@ GitHub sub-issues of that parent.
 The pipeline agents (Prospector, Miner, Assayer, Smelter) use native
 sub-issue queries to discover and track work.
 
-## Editorial guide for mapping entries
+## Editorial guide
 
-This section encodes the editorial standards that all mapping entries must
+This section encodes the editorial standards that all entries must
 meet. It applies equally to human and agent contributors.
 
 ### What each section does
 
-A mapping entry has five sections. Each serves a distinct analytical purpose:
+An entry has five sections. Each serves a distinct analytical purpose:
 
 **Transfers** — the structural parallels between source and target.
 Not "this is interesting" but "here is how the source domain's structure
-maps onto the target domain, and what that mapping makes visible." Lead
+maps onto the target domain, and what that makes visible." Lead
 with the core structural insight, then enumerate specific parallels as
 labeled list items. Each parallel should name what the source contributes
 that the target domain lacks on its own.
 
-**Limits** — the failure modes of the mapping. Where does the
+**Limits** — the failure modes. Where does the
 metaphor mislead, obscure, or import false assumptions? This section earns
-its keep. Every metaphor has blind spots; a catalog entry that doesn't name
+its keep. Every metaphor has blind spots; an entry that doesn't name
 them is marketing, not analysis. Be specific: name the structural mismatch,
 explain what it hides, give an example of the real-world consequence.
 
@@ -214,7 +214,7 @@ citations. If you aren't certain a source exists, omit it.
 
 ### Quality bar
 
-Before submitting a mapping entry, verify:
+Before submitting an entry, verify:
 
 - [ ] **"Transfers" names structural parallels, not vibes.** Each
   bullet should identify a specific structural feature of the source domain
@@ -254,7 +254,7 @@ broader target than just the Facade pattern.
 ### Common mistakes
 
 - **Listing features instead of structure.** "Transfers" should explain
-  the mapping's structural logic, not just list interesting facts about the
+  the entry's structural logic, not just list interesting facts about the
   source domain.
 - **Shallow "Limits."** "No metaphor is perfect" is not analysis.
   Name the specific structural mismatch and its consequences.
@@ -318,7 +318,7 @@ it breaks down often.`
 
 ### Structured list format
 
-Mapping entries use three recurring list sections. Each follows the same
+Entries use three recurring list sections. Each follows the same
 **header — explanation** pattern to keep entries parseable as semi-structured
 data.
 
