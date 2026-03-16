@@ -17,6 +17,14 @@ related:
 slug: theories-are-people
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - "[source] individuals form genealogical lineages where descendants inherit traits from ancestors"
+  - "[source] social agents compete for status, forming hierarchies of dominance and marginality"
+  - "[source] persons pass through life stages from birth through maturity to death, each with characteristic capacities"
+  - "[source] individuals possess character traits that shape how others evaluate and interact with them"
+limits:
+  - "[source] breaks because people die once and permanently, whereas the mapped entities can be revived centuries later"
+  - "[source] misleads because the genealogical frame imposes a branching tree on what is actually a tangled network of influences"
 ---
 
 ## Transfers

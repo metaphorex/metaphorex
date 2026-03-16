@@ -17,6 +17,13 @@ related:
 slug: understanding-is-grasping
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] physical grip gives the holder control over a discrete object, enabling examination from multiple angles"
+  - "[source] grip can be firm or loose, and objects can slip away if not held with sufficient force"
+  - "[source] grasping difficulty varies with the object's size, shape, and surface -- some things resist being held"
+limits:
+  - "[source] breaks because grasping is binary (held or dropped), whereas the mapped state comes in continuous degrees and kinds that the grip metaphor cannot represent"
+  - "[source] misleads because grasping treats the object as passive, but the mapped domain often involves reciprocal interaction where the object constrains the grasper"
 ---
 
 ## Transfers

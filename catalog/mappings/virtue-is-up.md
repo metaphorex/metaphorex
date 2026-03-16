@@ -21,6 +21,13 @@ related:
 slug: virtue-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] upright posture signals health and alertness, while stooping or falling signals weakness or failure"
+  - "[source] ascending requires effort proportional to the height gained, while falling is sudden and uncontrolled"
+  - "[source] vertical position establishes a hierarchy where higher entities look down on and dominate lower ones"
+limits:
+  - "[source] breaks because the vertical axis is a single dimension, whereas the mapped domain involves multidimensional tradeoffs between competing goods that cannot be ranked on a single scale"
+  - "[source] misleads because the fall metaphor imports the physics of irreversible descent, making incremental lapses feel catastrophic when they may be minor and recoverable"
 ---
 
 ## Transfers

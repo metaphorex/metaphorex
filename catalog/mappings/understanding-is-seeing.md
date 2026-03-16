@@ -17,6 +17,13 @@ related:
 slug: understanding-is-seeing
 source_frame: vision
 updated: '2026-03-14'
+transfers:
+  - "[source] visual clarity depends on illumination -- objects in light are perceivable, objects in darkness are not"
+  - "[source] the observer's viewpoint determines what is visible, making perception position-dependent"
+  - "[source] focal attention selects a narrow region for detailed inspection while leaving the periphery blurred"
+limits:
+  - "[source] breaks because seeing is passive and automatic, whereas the mapped activity requires effortful interpretation, context, and prior knowledge"
+  - "[source] misleads because the perspective framing relativizes all views to positions, providing no vocabulary for views that are simply wrong rather than differently angled"
 ---
 
 ## Transfers

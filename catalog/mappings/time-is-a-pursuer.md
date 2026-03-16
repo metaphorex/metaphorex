@@ -18,6 +18,13 @@ related:
 slug: time-is-a-pursuer
 source_frame: animal-behavior
 updated: '2026-03-13'
+transfers:
+  - "[source] a predator chases prey from behind, closing the gap with superior speed or endurance"
+  - "[source] capture by the pursuer is inevitable -- temporary evasion is possible but permanent escape is not"
+  - "[source] the pursuer's approach generates escalating anxiety proportional to the shrinking distance"
+limits:
+  - "[source] breaks because capture in a chase is a discrete event, whereas the mapped effects accumulate continuously with no single moment of seizure"
+  - "[source] misleads because the pursuit frame makes the entire experience feel threatening, leaving no vocabulary for savoring or accepting the process"
 ---
 
 ## Transfers

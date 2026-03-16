@@ -24,6 +24,14 @@ related:
 slug: time-is-motion
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] spatial displacement along a path maps sequence onto linear order, making before-and-after into behind-and-ahead"
+  - "[source] distance along the path maps onto duration, giving extent a measurable spatial analog"
+  - "[source] speed of motion maps onto the rate at which events are experienced, producing the perception of fast or slow passage"
+limits:
+  - "[source] breaks because spatial motion is reversible -- you can retrace a path -- whereas the mapped domain is strictly unidirectional"
+  - "[source] misleads because the linear-path model cannot represent cyclical recurrence, where the same event returns rather than a new one approaching"
+  - "[source] misleads because the two sub-models (moving entity vs. moving observer) assign motion to opposite parties, generating genuine ambiguity about whether 'moved forward' means earlier or later"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: zombie-process
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the undead occupy a threshold state -- terminated but not departed, consuming space among the living"
+  - "[source] a single zombie is harmless, but a horde overwhelms the system's capacity to sustain the living"
+  - "[source] zombies persist because the living fail to perform a required ritual, making neglect the vector of accumulation"
+limits:
+  - "[source] breaks because horror zombies actively attack and spread infection, whereas the mapped entities are completely inert and cause harm only through resource exhaustion"
+  - "[source] misleads because the horror framing makes a normal lifecycle stage sound pathological, when the mapped state is a deliberate design feature that preserves information the parent may need"
 ---
 
 ## Transfers

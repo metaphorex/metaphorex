@@ -15,6 +15,13 @@ related:
 slug: yin-and-yang
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] two opposing forces generate a functional whole only through continuous interaction, not through elimination of either pole"
+  - "[source] each force contains the seed of its opposite, so extreme states tend to generate their own reversals"
+  - "[source] balance is a dynamic oscillation, not a static equilibrium -- the proportions shift constantly"
+limits:
+  - "[source] breaks because not all oppositions are complementary -- some are genuinely adversarial, and the structure encourages false equivalence where none exists"
+  - "[source] misleads because the two-pole model forces complex multi-factor systems into binary pairs, obscuring interactions among three or more forces"
 ---
 
 ## Transfers

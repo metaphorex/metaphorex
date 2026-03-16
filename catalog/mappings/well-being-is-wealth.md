@@ -17,6 +17,13 @@ related:
 slug: well-being-is-wealth
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] wealth accumulates in accounts, can be invested for future returns, and depletes through expenditure"
+  - "[source] assets are fungible -- a dollar from one source substitutes for a dollar from another"
+  - "[source] wealth can be transferred between parties, redistributed, and inherited across generations"
+limits:
+  - "[source] breaks because wealth is fungible and transferable, whereas the mapped state is qualitatively diverse and cannot be given from one person to another"
+  - "[source] misleads because the investment framing encourages optimization of something that paradoxically diminishes under direct pursuit"
 ---
 
 ## Transfers

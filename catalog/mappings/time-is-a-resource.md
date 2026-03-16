@@ -18,6 +18,13 @@ related:
 slug: time-is-a-resource
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] a resource exists in quantifiable amounts that can be allocated among competing uses"
+  - "[source] consuming the resource on one purpose makes it unavailable for another, importing opportunity cost"
+  - "[source] the resource can be owned, and misuse of someone's resource constitutes a violation of their property right"
+limits:
+  - "[source] breaks because real resources obey conservation laws and can be stockpiled, whereas the mapped domain cannot be stored or redistributed between holders"
+  - "[source] misleads because the resource frame treats all units as fungible, erasing qualitative differences in how units are experienced"
 ---
 
 ## Transfers

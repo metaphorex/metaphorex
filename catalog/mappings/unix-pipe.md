@@ -17,6 +17,13 @@ related:
 slug: unix-pipe
 source_frame: fluid-dynamics
 updated: '2026-03-14'
+transfers:
+  - "[source] fluid flows unidirectionally through pipe segments connected by standard fittings"
+  - "[source] composability comes from standard connector diameters -- any segment can attach to any other"
+  - "[source] the internal flow is invisible to the user; only the output at the endpoint is observed"
+limits:
+  - "[source] breaks because fluid is continuous, whereas the mapped medium is discrete and framed, causing buffering mismatches the plumbing model cannot explain"
+  - "[source] misleads because real plumbing systems form branching graphs, but the mapped implementation supports only strictly linear chains without native branching or merging"
 ---
 
 ## Transfers

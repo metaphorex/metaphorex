@@ -19,6 +19,13 @@ related:
 slug: time-is-a-landscape-we-move-through
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - "[source] a traveler moves forward through terrain with features, landmarks, and variable topography"
+  - "[source] distance along the path corresponds to duration, making extent measurable in spatial terms"
+  - "[source] the traveler exercises agency over pace and route selection within the landscape"
+limits:
+  - "[source] breaks because real landscapes permit stopping and returning, whereas the mapped domain enforces compulsory unidirectional motion"
+  - "[source] misleads because the terrain-ahead framing implies the future pre-exists like unseen landscape, when it does not yet exist at all"
 ---
 
 ## Transfers

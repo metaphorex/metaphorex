@@ -17,6 +17,13 @@ related:
 slug: treating-illness-is-fighting-a-war
 source_frame: war
 updated: '2026-03-13'
+transfers:
+  - "[source] a defending force repels an invader from sovereign territory using strategic deployment of weapons"
+  - "[source] a commander directs the campaign, and combatants are judged as victors or losers based on outcomes"
+  - "[source] collateral damage to the territory is accepted as a cost of defeating the enemy"
+limits:
+  - "[source] breaks because war requires an external enemy, but the mapped domain often involves the body's own systems attacking themselves"
+  - "[source] misleads because the victory-or-defeat framing assigns moral responsibility for outcomes that are biologically determined, not a matter of effort or courage"
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: unknown-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] airborne objects are unstable, unpredictable, and hard to grasp, in contrast to objects at rest on a surface"
+  - "[source] bringing something down to the ground fixes it in a stable, inspectable position"
+  - "[source] raising an object off a surface puts it back into an unsettled state subject to currents and drift"
+limits:
+  - "[source] breaks because the vertical axis offers only two positions (up or down), whereas the mapped state comes in continuous degrees from fully resolved to barely investigated"
+  - "[source] misleads because the UP-is-unsettled valence conflicts with the dominant UP-is-positive orientation system, creating cognitive tension where the elevated state should be both good and bad"
 ---
 
 ## Transfers

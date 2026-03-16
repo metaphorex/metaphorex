@@ -18,6 +18,13 @@ related:
 slug: time-is-a-moving-object
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] objects approach a stationary observer, make contact, and recede into the distance"
+  - "[source] the observer is passive -- objects arrive on their own schedule regardless of the observer's actions"
+  - "[source] the speed of passing objects varies, and the observer perceives this as acceleration or deceleration"
+limits:
+  - "[source] breaks because the observer in this frame has no agency, whereas the experiencer actively structures and directs attention within the mapped domain"
+  - "[source] misleads because moving objects pass sequentially in single file, providing no way to represent simultaneous parallel processes"
 ---
 
 ## Transfers
