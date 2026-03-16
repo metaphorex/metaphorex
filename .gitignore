@@ -2,3 +2,4 @@ graph.png
 .worktrees/
 .playwright-mcp/
 .DS_Store
+__pycache__/
