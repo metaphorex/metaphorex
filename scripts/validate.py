@@ -148,6 +148,12 @@ def validate_mapping(path: Path, frame_slugs: set[str], category_slugs: set[str]
     if "source_frame" in meta and meta["source_frame"] not in frame_slugs:
         errors.append(f"{prefix}: source_frame '{meta['source_frame']}' not found in frames/")
 
+    # Circular mapping: source_frame should not also appear in applies_to
+    source_frame = meta.get("source_frame")
+    applies_to = meta.get("applies_to", [])
+    if source_frame and isinstance(applies_to, list) and source_frame in applies_to:
+        warnings.append(f"{prefix}: circular mapping — source_frame '{source_frame}' also appears in applies_to")
+
     # applies_to: forbidden for mental-model, must be list when present
     if kind == "mental-model" and "applies_to" in meta:
         errors.append(f"{prefix}: mental-model kind must not have 'applies_to'")
