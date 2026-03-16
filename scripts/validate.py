@@ -29,20 +29,25 @@ CATEGORIES_DIR = CATALOG_DIR / "categories"
 WORKS_DIR = CATALOG_DIR / "works"
 
 VALID_KINDS = {
-    "conceptual-metaphor",
+    "metaphor",
+    "pattern",
     "archetype",
-    "dead-metaphor",
     "paradigm",
+    "mental-model",
 }
 
-REQUIRED_MAPPING_FIELDS = {"slug", "name", "kind", "source_frame", "target_frame", "categories", "author", "created", "updated"}
+REQUIRED_MAPPING_FIELDS = {"slug", "name", "kind", "categories", "author", "created", "updated"}
 REQUIRED_FRAME_FIELDS = {"slug", "name", "roles", "created", "updated"}
 REQUIRED_CATEGORY_FIELDS = {"slug", "name", "created", "updated"}
 REQUIRED_WORK_FIELDS = {"slug", "name", "type", "authors", "year", "created", "updated"}
 
 VALID_WORK_TYPES = {"book", "paper", "collection", "repository", "talk", "post"}
 
-REQUIRED_MAPPING_SECTIONS = {"What It Brings", "Where It Breaks", "Expressions"}
+VALID_GROUNDING = {"proven", "established", "folk", "contested"}
+REJECTED_FIELDS = {"target_frame", "structural_properties", "failure_conditions"}
+REJECTED_KINDS = {"conceptual-metaphor", "dead-metaphor", "cross-field-mapping"}
+
+REQUIRED_MAPPING_SECTIONS = {"Transfers", "Limits", "Expressions"}
 
 
 def slugs_in(directory: Path) -> set[str]:
@@ -124,25 +129,54 @@ def validate_mapping(path: Path, frame_slugs: set[str], category_slugs: set[str]
         errors.append(f"{prefix}: slug '{meta['slug']}' doesn't match filename '{path.stem}'")
 
     # Kind validation
-    if "kind" in meta and meta["kind"] not in VALID_KINDS:
-        errors.append(f"{prefix}: invalid kind '{meta['kind']}' (valid: {', '.join(sorted(VALID_KINDS))})")
+    kind = meta.get("kind")
+    if kind in REJECTED_KINDS:
+        errors.append(f"{prefix}: deprecated kind '{kind}' — run migration script")
+    elif kind is not None and kind not in VALID_KINDS:
+        errors.append(f"{prefix}: invalid kind '{kind}' (valid: {', '.join(sorted(VALID_KINDS))})")
 
-    # Frame references
+    # Rejected fields
+    for field in REJECTED_FIELDS:
+        if field in meta:
+            errors.append(f"{prefix}: deprecated field '{field}' — use new schema")
+
+    # source_frame: required for metaphor, optional for others
+    if kind == "metaphor" and "source_frame" not in meta:
+        errors.append(f"{prefix}: metaphor kind requires 'source_frame'")
+
+    # source_frame reference check (when present)
     if "source_frame" in meta and meta["source_frame"] not in frame_slugs:
         errors.append(f"{prefix}: source_frame '{meta['source_frame']}' not found in frames/")
-    if "target_frame" in meta and meta["target_frame"] not in frame_slugs:
-        errors.append(f"{prefix}: target_frame '{meta['target_frame']}' not found in frames/")
+
+    # applies_to: forbidden for mental-model, must be list when present
+    if kind == "mental-model" and "applies_to" in meta:
+        errors.append(f"{prefix}: mental-model kind must not have 'applies_to'")
+    if "applies_to" in meta:
+        if not isinstance(meta["applies_to"], list):
+            errors.append(f"{prefix}: 'applies_to' must be a list")
+        else:
+            for at in meta["applies_to"]:
+                if at not in frame_slugs:
+                    errors.append(f"{prefix}: applies_to frame '{at}' not found in frames/")
+
+    # dead flag: metaphor only
+    if meta.get("dead") and kind != "metaphor":
+        errors.append(f"{prefix}: 'dead: true' only valid for metaphor kind")
+
+    # grounding enum
+    if "grounding" in meta and meta["grounding"] not in VALID_GROUNDING:
+        errors.append(f"{prefix}: invalid grounding '{meta['grounding']}' (valid: {', '.join(sorted(VALID_GROUNDING))})")
 
     # Category references
     for cat in meta.get("categories", []):
         if cat not in category_slugs:
             errors.append(f"{prefix}: category '{cat}' not found in categories/")
 
-    # Provenance reference (hard fail if set but not found)
+    # Provenance reference
     if "provenance" in meta and meta["provenance"] not in work_slugs:
         errors.append(f"{prefix}: provenance '{meta['provenance']}' not found in works/")
 
-    # Related references (warnings, not errors — graph grows outward)
+    # Related references (warnings, not errors)
     for rel in meta.get("related", []):
         if rel not in mapping_slugs:
             warnings.append(f"{prefix}: related mapping '{rel}' not found in mappings/")
