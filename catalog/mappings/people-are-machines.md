@@ -20,7 +20,7 @@ slug: people-are-machines
 source_frame: manufacturing
 updated: '2026-03-16'
 transfers:
-  - "[source] a machine has measurable throughput, fuel requirements, and diagnosable failure modes"
+  - "[source] a machine's failure mode is diagnosable by tracing symptoms back to a locatable component fault, not to a crisis of meaning or will"
   - "[source] machines of the same type are interchangeable — any unit meeting spec can replace any other"
   - "[source] deviation from optimal operating parameters is a defect requiring tuning or maintenance, not a feature"
 limits:
