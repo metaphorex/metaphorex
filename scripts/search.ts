@@ -81,8 +81,11 @@ const topResults = [...bySlug.values()]
   .slice(0, K);
 
 // Print results
+// sqlite-vec returns L2 distance. For normalized vectors (OpenAI embeddings are
+// normalized), convert to cosine similarity: cos_sim = 1 - (L2² / 2)
 for (const r of topResults) {
-  const score = Math.max(0, 1 - r.distance).toFixed(2);
+  const cosineSim = 1 - (r.distance * r.distance) / 2;
+  const score = Math.max(0, cosineSim).toFixed(2);
   const slug = r.slug.padEnd(30);
   const section = `[${r.section}]`.padEnd(14);
   const text = r.text.length > 60 ? r.text.slice(0, 57) + "..." : r.text;
