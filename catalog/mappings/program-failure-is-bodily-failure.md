@@ -1,7 +1,7 @@
 ---
 applies_to:
 - software-programs
-author: fshot
+author: agent:metaphorex-miner
 categories:
 - software-engineering
 - cognitive-science
