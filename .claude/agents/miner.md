@@ -148,6 +148,23 @@ Cognitive biases and effects are `mental-model`. If you're writing 5 entries
 and they're all `metaphor`, stop and re-check — that distribution is almost
 certainly wrong.
 
+**Choosing `source_frame` — mythology vs. history:**
+
+The `mythology` frame is for sacred or traditional narratives (Prometheus,
+Icarus, Sisyphus). Do NOT use it for real historical persons or documented
+military events. Use these frames instead:
+
+- `historical-figures` — real persons whose decisions became proverbial
+  (Pyrrhus, Machiavelli, Caesar). The metaphor draws on documented biography,
+  not myth.
+- `military-history` — documented battles, campaigns, and strategic outcomes
+  (Pyrrhic victory, Cannae, Maginot Line). The metaphor draws on
+  historiography, not sacred narrative.
+
+Rule of thumb: if the person or event appears primarily in chronicles and
+historical records rather than in sacred/origin narratives, it is history, not
+mythology.
+
 **Writing Entries:**
 
 Use the metaphorex-schema skill for the canonical schema. Additionally:
