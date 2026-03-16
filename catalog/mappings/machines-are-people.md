@@ -7,6 +7,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: Machines Are People
 provenance: osaka-master-metaphor-list

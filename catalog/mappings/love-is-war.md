@@ -9,6 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
+harness: Claude Code
 kind: metaphor
 name: Love Is War
 provenance: lakoff-johnson-mwlb
