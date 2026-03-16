@@ -14,7 +14,6 @@ related:
   - phoenix
 created: '2026-03-16'
 updated: '2026-03-16'
-dead: true
 harness: Claude Code
 transfers:
   - "[source] alchemy requires a base material to be destroyed and reconstituted rather than merely improved, making transformation a process of fundamental change in kind rather than degree"
