@@ -15,7 +15,7 @@ related:
   - golem
 created: '2026-03-16'
 updated: '2026-03-16'
-harness: Claude Code
+harness: "Claude Code"
 transfers:
   - "[source] Mordor is a landscape fully subordinated to a single purpose -- war production -- where every feature serves the ruling will and nothing exists for its own sake"
   - "[source] the land itself is poisoned by the system that occupies it, so that even after the ruling power falls, the territory remains damaged and hostile to life"
