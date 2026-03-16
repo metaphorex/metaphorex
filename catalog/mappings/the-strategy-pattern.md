@@ -17,6 +17,13 @@ related:
 slug: the-strategy-pattern
 source_frame: military-command
 updated: '2026-03-14'
+transfers:
+  - "[source] strategies are interchangeable plans for the same objective -- a general might cross a river through direct assault, flanking, or bridge construction, each achieving the goal through different means"
+  - "[source] the general picks the strategy based on terrain, weather, and enemy strength, while the soldiers execute it -- decision and execution are structurally separate"
+  - "[source] strategies can be changed mid-campaign as conditions change, making dynamic reconfiguration feel like adaptive leadership"
+limits:
+  - "[source] breaks because military strategies involve uncertainty, adaptation, and an adversary who actively counters your plan, while software algorithms operate on passive data that is not fighting back"
+  - "[source] misleads because 'strategy' implies high-stakes consequence (casualties, territorial loss), making mundane algorithm selection feel more consequential than picking between bubble sort and quicksort"
 ---
 
 ## Transfers

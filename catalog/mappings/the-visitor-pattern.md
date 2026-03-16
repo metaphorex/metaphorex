@@ -17,6 +17,13 @@ related:
 slug: the-visitor-pattern
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - "[source] the visitor brings the skill while the host provides access -- a home inspector evaluates while you open doors, dividing operation logic from structural exposure"
+  - "[source] different visitors do different things in the same rooms -- a real estate appraiser and an electrician walk the same house but see different things"
+  - "[source] visitors are temporary while residents are permanent, capturing that the visit changes what happens without changing what exists"
+limits:
+  - "[source] breaks because real visitors choose where to go and can decline the basement tour, while a software Visitor's visit method is called on every element exhaustively without selectivity"
+  - "[source] misleads because adding a new room to a house does not break existing guests, while adding a new element type to the object structure requires updating every visitor class with a new overload"
 ---
 
 ## Transfers

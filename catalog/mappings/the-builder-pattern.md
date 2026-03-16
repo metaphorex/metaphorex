@@ -18,6 +18,13 @@ related:
 slug: the-builder-pattern
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] construction is sequential and staged -- foundation before framing, framing before roofing -- imposing a natural order on the assembly of complex things"
+  - "[source] the blueprint is separate from the building, dividing what-to-build from how-to-build-it across different actors"
+  - "[source] partial construction is visible and inspectable on a real site, making progressive assembly a legible sequence rather than an opaque instantiation"
+limits:
+  - "[source] breaks because real construction is expensive to undo -- tearing out a wall wastes materials and labor -- while overriding a builder method call is free, importing false commitment to each step"
+  - "[source] misleads because 'builder' implies craftsmanship and site-responsive judgment, but a software builder is a dumb accumulator of configuration with no artisanal agency"
 ---
 
 ## Transfers

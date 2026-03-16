@@ -16,6 +16,13 @@ related:
 slug: the-composite-pattern
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] a single brick and an entire wall both satisfy 'building element,' making parts and wholes addressable through the same contract"
+  - "[source] nesting has load-bearing consequences in architecture, with each level transmitting forces downward just as operations propagate recursively through a tree"
+  - "[source] you can address any level of the building (room, floor, whole structure) using the same spatial vocabulary without changing your language"
+limits:
+  - "[source] breaks because physical composites obey gravity and material strength -- you cannot put a skyscraper inside a shed -- while software composites permit structurally absurd configurations including circular references"
+  - "[source] misleads because the uniform interface promise hides that a leaf node has no meaningful add/remove method, and forcing leaves and composites into the same interface violates substitutability in ways that architecture does not"
 ---
 
 ## Transfers

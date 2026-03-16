@@ -12,6 +12,12 @@ related:
 - survival-of-the-fittest
 slug: compounding
 updated: '2026-03-13'
+transfers:
+  - "[model] returns generate their own returns over time, making small consistent inputs produce disproportionate long-term outputs through exponential rather than linear accumulation"
+  - "[model] interruption destroys value non-linearly because you lose the base that future returns would have compounded on, making the cost of stopping exponential rather than proportional"
+limits:
+  - "[model] breaks because not everything compounds -- knowledge compounds only in domains where concepts build on each other, while in domains where knowledge becomes obsolete the metaphor encourages sticking with things that are actually depreciating"
+  - "[model] misleads because many real growth curves are S-shaped (logistic) rather than exponential, with skills plateauing, markets saturating, and relationships reaching equilibrium -- the model encourages expecting indefinite exponential growth"
 ---
 
 ## Transfers

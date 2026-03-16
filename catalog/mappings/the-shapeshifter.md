@@ -17,6 +17,13 @@ related:
 slug: the-shapeshifter
 source_frame: mythology
 updated: '2026-03-13'
+transfers:
+  - "[source] the shapeshifter takes the form the current situation requires, making identity context-dependent rather than fixed -- the same interface presents different behavior depending on runtime conditions"
+  - "[source] uncertainty about the shapeshifter's allegiance forces everyone else to articulate their own positions more clearly, creating tension that clarifies the rest of the system"
+  - "[source] boundary fluidity dissolves borders by existing on both sides simultaneously, structurally different from the Trickster's boundary-crossing through transgression"
+limits:
+  - "[source] breaks because the Shapeshifter is a Vogler narrative archetype designed for plot tension, not a Jungian clinical concept -- applying it as if it carried depth-psychological weight is a category error"
+  - "[source] misleads because the archetype carries persistent suspicion that the true form is hidden, pathologizing healthy adaptation (code-switching, cultural fluency, contextual self-presentation) by framing it as deception"
 ---
 
 ## Transfers

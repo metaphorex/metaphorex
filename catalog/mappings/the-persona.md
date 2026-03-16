@@ -19,6 +19,13 @@ related:
 slug: the-persona
 source_frame: mythology
 updated: '2026-03-13'
+transfers:
+  - "[source] the mask mediates between inner reality and outer expectation, presenting a deliberately designed surface that exposes certain capabilities while concealing implementation"
+  - "[source] identification with the mask (becoming your Persona) collapses the distinction between public interface and private state, making the system brittle when the surface is challenged"
+  - "[source] the mask is structurally necessary for social functioning -- a person with no social mask is not authentic but socially dysfunctional, just as a service with no API boundary is unusable"
+limits:
+  - "[source] breaks because the mask metaphor implies deception and a 'real' self hidden behind it, while in software the API is the contract and there is nothing more real behind it that the consumer should access"
+  - "[source] misleads because Jung's binary (persona vs. inner self) collapses multiple interfaces into one mask, while real systems present different faces to different audiences as competent context-switching, not pathology"
 ---
 
 ## Transfers

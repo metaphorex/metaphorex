@@ -17,6 +17,13 @@ related:
 slug: the-pipeline-pattern
 source_frame: fluid-dynamics
 updated: '2026-03-14'
+transfers:
+  - "[source] fluid flows unidirectionally through connected segments, with each segment processing independently and passing output to the next without knowledge of what comes before or after"
+  - "[source] pipelines have throughput measured in flow rate and capacity, shifting attention from correctness alone to how fast data moves through the system"
+  - "[source] backpressure builds when a downstream segment is narrower, making slow-consumer problems immediately intuitive as physical congestion"
+limits:
+  - "[source] breaks because fluids are continuous and mix, while data is discrete and retains individual identity -- a barrel of oil loses individuality mid-pipeline but a database record keeps its schema and primary key"
+  - "[source] misleads because physical pipelines do not branch easily, while software pipelines routinely fan out to multiple consumers, making the linear pipe metaphor underrepresent the directed acyclic graphs that most real data pipelines become"
 ---
 
 ## Transfers

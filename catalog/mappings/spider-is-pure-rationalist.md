@@ -15,6 +15,13 @@ related:
 slug: spider-is-pure-rationalist
 source_frame: animal-behavior
 updated: '2026-03-13'
+transfers:
+  - "[source] the spider produces silk from its own body, generating the web's material entirely from within without external input"
+  - "[source] the web is architecturally perfect and internally consistent but exists to trap -- once inside the logical structure, escape requires rejecting its premises entirely"
+  - "[source] a web is destroyed by a single finger, making intricate internal coherence inversely proportional to resilience against stubborn external facts"
+limits:
+  - "[source] breaks because pure mathematics is spider work by this taxonomy, yet Euclid, Godel, and Turing built structures that transformed the empirical sciences Bacon championed"
+  - "[source] misleads because Bacon's own inductive method (the bee's 'digestion') was criticized by Hume and Popper as logically unjustifiable -- the spider's deductive method has clearer rules of inference"
 ---
 
 ## Transfers

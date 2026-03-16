@@ -17,6 +17,13 @@ related:
 slug: the-registry-pattern
 source_frame: governance
 updated: '2026-03-14'
+transfers:
+  - "[source] the registry is the single authoritative source for official records -- you check the land registry, not the neighbor's recollection -- establishing truth by institutional mandate"
+  - "[source] registration is a formal act that grants legitimacy; entities must explicitly register before they can be found"
+  - "[source] everyone knows where the town hall is, naturalizing the single well-known access point as a civic given"
+limits:
+  - "[source] breaks because government registries are backed by law and legal enforcement, while software registry entries are backed by whatever object was registered, which may be null, misconfigured, or no longer running"
+  - "[source] misleads because changing a birth certificate requires court orders, while overwriting a software registry entry requires one line of code -- the governance metaphor suggests deliberation where the pattern offers casual mutability"
 ---
 
 ## Transfers

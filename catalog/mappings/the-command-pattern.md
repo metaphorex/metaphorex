@@ -17,6 +17,13 @@ related:
 slug: the-command-pattern
 source_frame: military-command
 updated: '2026-03-14'
+transfers:
+  - "[source] a military command is issued as an explicit recorded order, separating the officer who decides from the subordinate who executes"
+  - "[source] orders are logged in operational records and can be countermanded, making persistence and reversibility standard capabilities"
+  - "[source] a well-written order packages objective, resources, timing, and constraints into a self-contained document"
+limits:
+  - "[source] breaks because military commands target thinking agents who interpret, improvise, and report back, while a software Command invokes a method that does exactly what it is told"
+  - "[source] misleads because disobeying a military order has real ramifications (court martial, death), importing gravitas into what is often a simple method invocation with no consequence model"
 ---
 
 ## Transfers

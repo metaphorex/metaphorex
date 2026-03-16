@@ -17,6 +17,13 @@ related:
 slug: the-singleton-pattern
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - "[source] uniqueness is a structural constraint, not an accident -- the role forbids a second occupant the way a monarchy structurally forbids a second monarch"
+  - "[source] if there is only one of something, everyone must share it -- the Pope does not belong to a particular parish, naturalizing a global access point"
+  - "[source] the role outlives any particular occupant, suggesting permanence across the entire application lifecycle"
+limits:
+  - "[source] breaks because social singletons exist to prevent civil war (legitimacy), while software singletons often exist because someone was too lazy to pass a dependency as a parameter (convenience)"
+  - "[source] misleads because social singletons allow stand-ins (regents, acting presidents), while the pattern as typically implemented does not support substitution for testing"
 ---
 
 ## Transfers

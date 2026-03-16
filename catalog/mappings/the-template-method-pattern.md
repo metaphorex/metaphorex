@@ -16,6 +16,13 @@ related:
 slug: the-template-method-pattern
 source_frame: publishing
 updated: '2026-03-14'
+transfers:
+  - "[source] a form letter establishes greeting, body, and closing as fixed structure, with specific fields left blank for each recipient to fill in with personalized content"
+  - "[source] you fill in the blanks but cannot redesign the form -- a tax form has specific fields and you cannot rearrange the sections or add new ones"
+  - "[source] one newsletter template serves hundreds of issues, capturing the economics of designing structure once and instantiating it many times"
+limits:
+  - "[source] breaks because publishing templates are filled in by users at runtime, while Template Method blanks are filled in by programmers at compile time through subclassing -- the metaphor conflates runtime personalization with compile-time specialization"
+  - "[source] misleads because real templates can be ignored (leave fields blank, write outside the margins), while abstract methods must be implemented -- the pattern enforces mandatory participation where the metaphor implies optional compliance"
 ---
 
 ## Transfers

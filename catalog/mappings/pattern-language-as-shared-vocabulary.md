@@ -18,6 +18,12 @@ related:
 slug: pattern-language-as-shared-vocabulary
 source_frame: social-behavior
 updated: '2026-03-14'
+transfers:
+  - "[paradigm] patterns combine according to structural rules to produce coherent designs, the way words combine according to grammar to produce meaning"
+  - "[paradigm] shared vocabulary enables coordination without lengthy explanation -- teams that speak the same pattern language convey complete architectural ideas in a few words"
+limits:
+  - "[paradigm] breaks because natural languages evolve organically with no designer, while pattern catalogs are deliberately curated selections that are more like constructed languages (Esperanto) than living ones"
+  - "[paradigm] misleads because the democratic promise inverted in practice -- Alexander wanted pattern language to empower non-architects, but software patterns became expert gatekeeping knowledge that separates senior from junior developers"
 ---
 
 ## Transfers

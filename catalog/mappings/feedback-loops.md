@@ -13,6 +13,12 @@ related:
 slug: feedback-loops
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[model] routes a system's output back as input, either amplifying (positive feedback) or dampening (negative feedback) the signal, making invisible causal cycles visible and shifting attention from events to structures"
+  - "[model] delays in feedback cause oscillation and overshoot, explaining why well-intentioned corrections often make things worse because they correct for the past rather than the present"
+limits:
+  - "[model] breaks because the model encourages seeing feedback loops everywhere, including where causation is genuinely linear -- forcing every phenomenon into a loop structure can obscure simple one-directional cause and effect"
+  - "[model] misleads because 'positive feedback' sounds like 'good feedback' in everyday language, smuggling in a valence that the engineering concept does not have -- a bank run and an arms race are both positive feedback loops"
 ---
 
 ## Transfers

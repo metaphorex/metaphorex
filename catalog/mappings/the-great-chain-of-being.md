@@ -16,6 +16,13 @@ related: []
 slug: the-great-chain-of-being
 source_frame: ontological-hierarchy
 updated: '2026-03-13'
+transfers:
+  - "[source] the chain treats hierarchy as natural fact rather than human construction, making rank feel inevitable because it is built into the structure of reality itself"
+  - "[source] properties flow downward (personification feels charming) but attributing lower-level qualities upward (dehumanization) feels like degradation, creating a structural asymmetry in how cross-level attribution works"
+  - "[source] each level has a defining essence (rocks: substance, plants: life, animals: desire, humans: reason), imposing categorical essentialism that resists reclassification"
+limits:
+  - "[source] breaks because evolution replaced the static hierarchy with a branching tree where species are differently adapted rather than ranked, yet the folk model persists because its cognitive usefulness is independent of its truth"
+  - "[source] misleads because the chain has no room for emergence or hybridity -- artificial intelligence, language-using apes, and genetically modified organisms resist categorical placement on a linear scale"
 ---
 
 ## Transfers

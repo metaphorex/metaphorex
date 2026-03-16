@@ -16,6 +16,13 @@ related:
 slug: the-factory-pattern
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - "[source] the caller is a customer who orders a product rather than building it, separating object creation from object use as the factory separates production from consumption"
+  - "[source] factories produce to specification from blueprints, returning products that conform to a standard without the customer knowing the internal process"
+  - "[source] factories can retool to switch production runs, making reconfigurability for different product families an industrial common sense"
+limits:
+  - "[source] breaks because physical factories consume raw materials that are destroyed in processing, while software factory parameters are read, not consumed -- there is no resource depletion"
+  - "[source] misleads because factories suggest heavyweight physical infrastructure bolted to the floor, encouraging developers to over-engineer factory classes when the simplest factory is a three-line function"
 ---
 
 ## Transfers

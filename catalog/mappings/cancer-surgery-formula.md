@@ -16,6 +16,12 @@ related:
 slug: cancer-surgery-formula
 source_frame: medicine
 updated: '2026-03-13'
+transfers:
+  - "[paradigm] excision must be complete and early because delay lets the disease metastasize and partial removal lets it regrow"
+  - "[paradigm] the surgeon's skill is in sparing healthy tissue while removing the diseased, demanding precision in diagnosis before action"
+limits:
+  - "[paradigm] breaks because cancer is unambiguously pathological while business units exist on a spectrum from clearly failing to ambiguously underperforming, importing a false binary into a domain where most situations are gray"
+  - "[paradigm] misleads because it biases toward action over patience -- the oncological practice of watchful waiting for slow-growing conditions has no place in the formula, yet sometimes the cure is worse than the disease"
 ---
 
 ## Transfers

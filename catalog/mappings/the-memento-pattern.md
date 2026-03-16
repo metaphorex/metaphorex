@@ -16,6 +16,13 @@ related:
 slug: the-memento-pattern
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - "[source] a keepsake is created deliberately to preserve a specific moment, making snapshot creation selective rather than continuous"
+  - "[source] a ticket stub means nothing to a stranger but everything to the person who was there, enforcing that the memento's contents are accessible only to its originator"
+  - "[source] a photograph freezes an instant without recording the narrative that produced it, capturing state at a point in time rather than a history of operations"
+limits:
+  - "[source] breaks because real mementos do not actually restore the past (looking at a wedding photo does not make you newly married), while software mementos genuinely restore previous state -- the metaphor undersells the pattern's power"
+  - "[source] misleads because keepsakes suggest lightness and portability (a drawer of trinkets), while software mementos of complex objects can contain megabytes of serialized state with serious memory costs"
 ---
 
 ## Transfers

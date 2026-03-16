@@ -19,6 +19,13 @@ related:
 slug: the-self
 source_frame: mythology
 updated: '2026-03-13'
+transfers:
+  - "[source] the Self is the organizing center that encompasses both conscious and unconscious, making it the reference point against which all partial identities are measured"
+  - "[source] individuation requires incorporating what has been rejected -- becoming complete requires integrating the shadow, not achieving perfection"
+  - "[source] the transcendent function bridges opposing psychic forces without collapsing into one side, holding tension between competing priorities as an integrating role"
+limits:
+  - "[source] breaks because wholeness is asymptotic, never achievable -- applied to organizations, this produces endless alignment initiatives that pursue a unity complex systems cannot and should not achieve"
+  - "[source] misleads because an organizing center that claims to encompass everything can justify suppressing dissent, and the archetype has no built-in distinction between genuine integration and enforced conformity"
 ---
 
 ## Transfers

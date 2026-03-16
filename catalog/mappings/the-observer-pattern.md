@@ -16,6 +16,13 @@ related:
 slug: the-observer-pattern
 source_frame: surveillance
 updated: '2026-03-14'
+transfers:
+  - "[source] the relationship is asymmetric -- observers watch subjects, not the reverse -- establishing that information flows from the watched to the watcher"
+  - "[source] multiple observers can watch the same subject simultaneously, and observers can start and stop watching dynamically"
+  - "[source] the subject does not need to know the identities of its observers, decoupling the observed from the watchers through an abstract interface"
+limits:
+  - "[source] breaks because in surveillance the target is typically unaware, while the software subject actively maintains an observer list and calls their update methods -- the 'watched' controls the process"
+  - "[source] misleads because observers in the real world watch continuously, while software observers are dormant until a notification arrives -- the pattern is event-driven passivity, not constant vigilance"
 ---
 
 ## Transfers

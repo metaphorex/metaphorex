@@ -17,6 +17,13 @@ related:
 slug: the-mediator-pattern
 source_frame: mediation
 updated: '2026-03-14'
+transfers:
+  - "[source] disputants speak through the mediator rather than to each other, converting many-to-many direct connections into many-to-one connections to a central coordinator"
+  - "[source] the mediator knows all parties while parties know only the mediator, creating an asymmetric knowledge structure that centralizes coordination"
+  - "[source] the mediator can set ground rules and enforce interaction protocols, rejecting or transforming messages that violate the rules"
+limits:
+  - "[source] breaks because successful human mediation teaches parties to communicate directly (mediation is scaffolding), while the software Mediator remains permanently -- colleagues never learn to talk to each other"
+  - "[source] misleads because mediation implies conflict between rational actors, but the pattern is used for routine decoupling of components that have no conceptual disagreement"
 ---
 
 ## Transfers

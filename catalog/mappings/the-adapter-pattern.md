@@ -15,6 +15,13 @@ related:
 slug: the-adapter-pattern
 source_frame: hardware-compatibility
 updated: '2026-03-14'
+transfers:
+  - "[source] a travel adapter rearranges pin geometry without boosting voltage or changing frequency, separating the problem of capability from the problem of compatibility"
+  - "[source] the adapter is small and dumb by design -- pure shape translation with no transformation of the underlying power"
+  - "[source] the existence of adapters testifies to a standards failure, carrying a trace of frustration that the connection should not have been necessary"
+limits:
+  - "[source] breaks because physical adapters are passive geometry while software adapters actively execute code, translate data types, map exceptions, and may maintain state on every call"
+  - "[source] misleads because a plug adapter handles shape but not voltage -- a European device in a US socket via a shape adapter may still fry, and software adapters face the same risk of matching signatures while leaving semantic contracts misaligned"
 ---
 
 ## Transfers

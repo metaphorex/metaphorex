@@ -17,6 +17,13 @@ related:
 slug: the-proxy-pattern
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - "[source] the proxy acts within the bounds of delegated authority -- a legal proxy votes under a power of attorney, not by inherent right -- making the mandate's limits explicit"
+  - "[source] the principal need not be present because the whole point of a proxy is that the real party is elsewhere, unavailable, or costly to summon"
+  - "[source] the proxy is supposed to be indistinguishable from the principal for practical purposes, so that a valid proxy's signature is legally the principal's signature"
+limits:
+  - "[source] breaks because a power of attorney can be revoked instantly and the proxy loses all authority, while software provides no first-class mechanism for a proxy to announce that its mandate has expired"
+  - "[source] misleads because social proxies exercise judgment, read the room, and improvise, while software proxies almost always forward requests mechanically without discretion"
 ---
 
 ## Transfers

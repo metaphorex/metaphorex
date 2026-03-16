@@ -15,6 +15,13 @@ related: []
 slug: the-trickster
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the trickster crosses boundaries between worlds (divine/mortal, culture/nature), translating and transgressing in both directions simultaneously"
+  - "[source] rule-breaking is diagnostic -- you do not know which rules are load-bearing until someone violates them, making transgression a method of structural testing"
+  - "[source] trickster myths frequently end with something new created from the wreckage, making generative destruction the structural purpose rather than the chaos itself"
+limits:
+  - "[source] breaks because the line between trickster and mere destructive agent is unresolvable in advance -- even the myths cannot decide whether the figure is hero or villain"
+  - "[source] misleads because calling yourself a trickster flatters a self-image of mythological significance, providing cover for ordinary bad behavior that lacks the generative aftermath"
 ---
 
 ## Transfers

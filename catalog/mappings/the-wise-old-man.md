@@ -17,6 +17,13 @@ related:
 slug: the-wise-old-man
 source_frame: mythology
 updated: '2026-03-13'
+transfers:
+  - "[source] the wise old man appears specifically at thresholds of confusion, delivers the one piece of knowledge needed, then disappears -- guidance is compressed and situational, not ongoing"
+  - "[source] authority derives from having been through the journey personally, not from a title or position -- experience-based legitimacy rather than institutional delegation"
+  - "[source] the old man's gift is typically a single sentence, talisman, or name -- years of experience compressed into a transferable artifact"
+limits:
+  - "[source] breaks because the archetype structurally equates accumulated time with accumulated insight, but experience in a rapidly changing environment may produce deep obsolescence rather than wisdom"
+  - "[source] misleads because celebrating the person who holds all the knowledge romanticizes a single point of failure -- the wise old man is a bus factor of one, and reverence inhibits the questioning that would distribute the knowledge"
 ---
 
 ## Transfers

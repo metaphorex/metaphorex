@@ -17,6 +17,13 @@ related:
 slug: ralph-wiggum-loop
 source_frame: social-behavior
 updated: '2026-03-13'
+transfers:
+  - "[source] Ralph fails at each individual attempt without distress, making obliviousness to failure a feature that prevents learned helplessness across retries"
+  - "[source] the intelligence resides in the surrounding universe (the writers, the harness) rather than in Ralph himself, correctly locating engineering value in orchestration"
+  - "[source] cheerful persistence without discrimination converts an anti-pattern into a legitimate technique when retry cost is low and success verification is cheap"
+limits:
+  - "[source] breaks because Ralph's failures are random and surreal, while LLM failures tend to be systematic -- retrying the same prompt with the same context produces the same class of error"
+  - "[source] misleads because convergence is guaranteed in fiction (writers engineer outcomes) but not in retry loops, which can diverge, oscillate, or waste unbounded compute"
 ---
 
 ## Transfers
