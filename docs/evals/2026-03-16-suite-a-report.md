@@ -1,6 +1,6 @@
 # Eval Report: Suite A
 
-**Date:** 2026-03-16T19:31:44.303Z
+**Date:** 2026-03-16T19:48:59.789Z
 **Results:** 3/10 passed
 
 ## Summary
@@ -30,7 +30,7 @@ Top 5 results:
 
 | # | Slug | Section | Score |
 |---|------|---------|-------|
-| 1 | data-flow-is-fluid-flow | expression | 0.5538 |
+| 1 | data-flow-is-fluid-flow | expression | 0.5539 |
 | 2 | the-pipeline-pattern | expression | 0.5523 |
 | 3 | bottleneck | title | 0.4816 |
 | 4 | life-is-a-journey | expression | 0.4778 |
@@ -47,7 +47,7 @@ Top 5 results:
 | # | Slug | Section | Score |
 |---|------|---------|-------|
 | 1 | technical-debt | transfer | 0.5724 |
-| 2 | time-is-money | expression | 0.5468 |
+| 2 | time-is-money | expression | 0.5469 |
 | 3 | compounding | limit | 0.4868 |
 | 4 | the-shadow | expression | 0.4741 |
 | 5 | mental-accounting | transfer | 0.4681 |
@@ -80,7 +80,7 @@ Top 5 results:
 |---|------|---------|-------|
 | 1 | lollapalooza-effect | transfer | 0.5204 |
 | 2 | psychological-forces-are-physical-forces | limit | 0.4682 |
-| 3 | nonlinearity | transfer | 0.4664 |
+| 3 | nonlinearity | transfer | 0.4663 |
 | 4 | neural-network-is-a-brain | transfer | 0.4434 |
 | 5 | activation-energy | transfer | 0.436 |
 
@@ -128,7 +128,7 @@ Top 5 results:
 | 2 | comparison-of-properties-is-comparison-of-physical-properties | limit | 0.61 |
 | 3 | importance-is-size | limit | 0.6043 |
 | 4 | social-accounting | limit | 0.5891 |
-| 5 | comparison-of-properties-is-comparison-of-possessions | limit | 0.5846 |
+| 5 | comparison-of-properties-is-comparison-of-possessions | limit | 0.5845 |
 
 ### expression-detection PASS
 
@@ -158,7 +158,7 @@ Top 5 results:
 |---|------|---------|-------|
 | 1 | jenga-code | transfer | 0.549 |
 | 2 | coherent-is-whole | expression | 0.5239 |
-| 3 | argument-is-a-building | expression | 0.5074 |
+| 3 | argument-is-a-building | expression | 0.5075 |
 | 4 | help-is-support | expression | 0.5048 |
 | 5 | organization-is-physical-structure | expression | 0.5003 |
 
