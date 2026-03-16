@@ -41,6 +41,13 @@ export function openDb(path: string): Database {
   db.run(`CREATE INDEX IF NOT EXISTS idx_records_slug ON embedding_records(slug)`);
   db.run(`CREATE INDEX IF NOT EXISTS idx_records_section ON embedding_records(section)`);
 
+  db.run(`
+    CREATE VIRTUAL TABLE IF NOT EXISTS embeddings USING vec0(
+      id TEXT PRIMARY KEY,
+      embedding FLOAT[1536]
+    )
+  `);
+
   return db;
 }
 

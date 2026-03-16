@@ -95,5 +95,24 @@ for (const { section, count } of counts) {
   console.log(`  ${section.padEnd(12)} ${count}`);
 }
 
+// Insert random vectors (placeholder until real embeddings)
+console.log("\nGenerating random vectors (placeholder)...");
+
+const DIMS = 1536;
+
+const insertVec = db.prepare(
+  "INSERT INTO embeddings (id, embedding) VALUES (?, ?)"
+);
+
+db.transaction(() => {
+  for (const unit of units) {
+    const vec = new Float32Array(DIMS);
+    for (let d = 0; d < DIMS; d++) vec[d] = Math.random() - 0.5;
+    insertVec.run(unit.id, vec);
+  }
+})();
+
+console.log(`Inserted ${units.length} random vectors (${DIMS} dims each)`);
+
 db.close();
 console.log(`\nDatabase written to ${DB_PATH}`);
