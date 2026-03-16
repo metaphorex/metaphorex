@@ -7,7 +7,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Acting On Is Transferring An Object
 provenance: osaka-master-metaphor-list

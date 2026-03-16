@@ -7,7 +7,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Properties Are Physical Properties
 provenance: osaka-master-metaphor-list

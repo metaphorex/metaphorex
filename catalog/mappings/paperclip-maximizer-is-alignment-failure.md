@@ -7,7 +7,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-16'
-harness: Claude Code
+harness: "Claude Code"
 kind: mental-model
 limits:
 - "[model] An optimizer pursuing a single objective displaces all competing\

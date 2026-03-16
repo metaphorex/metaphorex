@@ -7,7 +7,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Self-Initiated Change Of State Is Self-Propelled Motion
 provenance: osaka-master-metaphor-list

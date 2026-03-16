@@ -16,7 +16,7 @@ related:
 created: '2026-03-16'
 updated: '2026-03-16'
 dead: true
-harness: Claude Code
+harness: "Claude Code"
 transfers:
   - "[source] the phoenix self-destructs before regenerating, making total destruction a prerequisite for renewal rather than an obstacle to it"
   - "[source] rebirth produces the same creature rather than a different one, preserving identity across the discontinuity of destruction"

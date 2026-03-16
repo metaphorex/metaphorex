@@ -8,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-12'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Force Is a Substance Contained in Affecting Causes
 provenance: osaka-master-metaphor-list

@@ -5,7 +5,7 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: mental-model
 name: Margin of Safety
 provenance: munger-poor-charlies-almanack

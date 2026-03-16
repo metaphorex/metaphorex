@@ -9,7 +9,7 @@ contributors:
 - fshot
 created: '2026-03-11'
 dead: true
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Dogfooding
 related: []

@@ -7,7 +7,7 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Compute Is a Resource
 related:

@@ -7,7 +7,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Treating Illness Is Fighting a War
 provenance: osaka-master-metaphor-list

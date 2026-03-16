@@ -7,7 +7,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-12'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Interaction Between Progress and External Events Affecting
 provenance: osaka-master-metaphor-list

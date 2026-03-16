@@ -8,7 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Theories Are Beings with Life Cycles
 provenance: osaka-master-metaphor-list

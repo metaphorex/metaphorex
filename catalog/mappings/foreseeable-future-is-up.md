@@ -8,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Foreseeable Future Events Are Up (and Ahead)
 provenance: lakoff-johnson-mwlb

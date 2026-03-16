@@ -9,7 +9,7 @@ categories:
 contributors: []
 created: '2026-03-14'
 dead: true
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Faustian Bargain
 related:

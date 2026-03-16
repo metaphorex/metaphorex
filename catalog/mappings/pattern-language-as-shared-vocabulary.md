@@ -8,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-harness: Claude Code
+harness: "Claude Code"
 kind: paradigm
 name: Pattern Language as Shared Vocabulary
 provenance: alexander-pattern-language

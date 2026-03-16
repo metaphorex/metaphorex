@@ -7,7 +7,7 @@ categories:
 contributors: []
 created: '2026-03-13'
 dead: true
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Bankrupt
 related: []

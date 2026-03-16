@@ -5,7 +5,7 @@ categories:
 - cognitive-science
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: mental-model
 name: First-Principles Thinking
 provenance: munger-poor-charlies-almanack

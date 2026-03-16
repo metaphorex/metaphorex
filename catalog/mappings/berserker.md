@@ -15,7 +15,7 @@ related:
 dead: true
 created: '2026-03-16'
 updated: '2026-03-16'
-harness: Claude Code
+harness: "Claude Code"
 transfers:
   - "[source] the berserker enters a trance state that trades rational self-governance for maximized destructive output, making the loss of control the mechanism of power rather than a side effect"
   - "[source] the berserker's frenzy is temporary and situational -- it activates in battle and deactivates afterward, distinguishing it from permanent madness"

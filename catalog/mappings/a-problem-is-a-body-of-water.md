@@ -8,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-12'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: A Problem Is a Body of Water
 provenance: osaka-master-metaphor-list

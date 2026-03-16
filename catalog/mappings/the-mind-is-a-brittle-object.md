@@ -8,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: The Mind Is A Brittle Object
 provenance: lakoff-johnson-mwlb

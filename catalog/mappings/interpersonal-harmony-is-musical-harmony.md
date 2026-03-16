@@ -8,7 +8,7 @@ categories:
 - psychology
 contributors: []
 created: '2026-03-12'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Interpersonal Harmony Is Musical Harmony
 provenance: osaka-master-metaphor-list

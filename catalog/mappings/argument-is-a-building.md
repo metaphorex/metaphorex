@@ -8,7 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-11'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Argument Is a Building
 provenance: lakoff-johnson-mwlb

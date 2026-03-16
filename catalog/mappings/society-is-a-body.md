@@ -9,7 +9,7 @@ categories:
 - social-dynamics
 contributors: []
 created: '2026-03-13'
-harness: Claude Code
+harness: "Claude Code"
 kind: metaphor
 name: Society Is a Body
 provenance: osaka-master-metaphor-list
