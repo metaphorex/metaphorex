@@ -184,7 +184,10 @@ def survey(repo: str) -> dict:
 
     # Second pass: re-classify orphans that are actually sub-issues
     # (body says "Sub-issue of #N" or title prefix matches a parent).
+    # Track the inferred parent for each orphan so we can route them to
+    # the correct unclaimed/stale bucket later.
     reclassified: list[dict] = []
+    orphan_parent_map: dict[int, int] = {}  # orphan issue# → parent issue#
     for issue in list(parents):
         body = issue.get("body") or ""
         inferred_parent = None
@@ -204,6 +207,7 @@ def survey(repo: str) -> dict:
 
         if inferred_parent is not None:
             reclassified.append(issue)
+            orphan_parent_map[issue["number"]] = inferred_parent
 
     for issue in reclassified:
         parents.remove(issue)
@@ -299,6 +303,61 @@ def survey(repo: str) -> dict:
                     "title": si["title"],
                     "priority": priority,
                 })
+
+    # Supplement with title-pattern and body-text detection for orphaned
+    # sub-issues. GitHub caps native sub-issue linkage at 100 per parent,
+    # so issues beyond that limit lose their parent link and are invisible
+    # to the REST sub_issues endpoint. We detect them two ways:
+    #   1. orphan_parent_map: body text "Sub-issue of #N" or title prefix
+    #      matching a parent (populated during reclassification above)
+    #   2. Sibling inference: title prefix "[foo]" matches siblings that
+    #      DO have native parent links to a surveyed parent
+    seen_sub_nums = {s["number"] for s in unclaimed + stale_in_progress}
+
+    # Build prefix→parent_num map from natively-linked sub-issues.
+    # If issue #X has parent #Y and title "[foo] bar", then prefix "foo"
+    # maps to parent #Y. We only care about surveyed parents.
+    prefix_to_parent: dict[str, int] = {}
+    for issue in all_issues:
+        parent_info = issue.get("parent")
+        if parent_info is None:
+            continue
+        pnum = parent_info["number"]
+        if pnum not in surveyed_parent_numbers:
+            continue
+        tm = _title_prefix_re.match(issue["title"])
+        if tm:
+            prefix_to_parent[tm.group(1).lower()] = pnum
+
+    for issue in all_issues:
+        inum = issue["number"]
+        if inum in seen_sub_nums or inum in parent_numbers:
+            continue
+
+        # Determine parent via orphan_parent_map or sibling prefix inference
+        matched_parent = orphan_parent_map.get(inum)
+        if matched_parent is None:
+            tm = _title_prefix_re.match(issue["title"])
+            if tm:
+                matched_parent = prefix_to_parent.get(tm.group(1).lower())
+        if matched_parent is None or matched_parent not in surveyed_parent_numbers:
+            continue
+
+        si_labels = [l["name"] for l in issue.get("labels", {}).get("nodes", [])]
+        priority = parent_priority.get(matched_parent, "normal")
+        if "in-progress" not in si_labels:
+            unclaimed.append({
+                "number": inum,
+                "title": issue["title"],
+                "priority": priority,
+            })
+        elif inum not in referenced_by_pr:
+            stale_in_progress.append({
+                "number": inum,
+                "title": issue["title"],
+                "priority": priority,
+            })
+        seen_sub_nums.add(inum)
 
     # Sort unclaimed so children of priority:high parents come first
     unclaimed.sort(key=lambda x: (0 if x["priority"] == "high" else 1, x["number"]))
