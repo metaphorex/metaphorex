@@ -17,6 +17,13 @@ related:
 slug: procrustean-bed
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the bed is a single fixed size that admits no variation — the standard is a point, not a range"
+  - "[source] the violence operates in two directions: stretching what falls short and amputating what exceeds, both driven by the same rigid template"
+  - "[source] the coercion is disguised as hospitality — the bed is offered as a kindness to the traveler"
+limits:
+  - "[source] breaks because most real-world standards define acceptable ranges rather than single fixed points, making the metaphor most accurate for truly rigid specifications and least accurate for systems that accommodate variation"
+  - "[source] misleads because the metaphor treats all standardization as violent conformity, providing no mechanism for distinguishing between an arbitrary standard and a necessary safety constraint"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: platform
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] a raised flat surface elevates everything built upon it above the surrounding terrain"
+  - "[source] the flatness of the surface provides equal footing to all who stand on it — no tilt toward particular users"
+  - "[source] stability is the primary structural requirement — if the platform shifts, everything built on it falls"
+limits:
+  - "[source] breaks because physical platforms are open (you step on and off freely), while technology platforms are designed for lock-in with high switching costs and limited data portability"
+  - "[source] misleads because the flatness etymology imports an assumption of neutrality that algorithmic ranking, preferential placement, and content moderation systematically violate"
 ---
 
 ## Transfers

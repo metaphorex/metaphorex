@@ -18,6 +18,13 @@ related:
 slug: properties-are-physical-properties
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] physical properties come with built-in comparative scales (heavier/lighter, sharper/duller) that carry directly into abstract evaluation"
+  - "[source] many physical modalities carry intrinsic hedonic valences (smooth is pleasant, rough is aversive) that transfer as evaluative associations"
+  - "[source] physical properties combine according to their own logic — a rough, heavy object is hard to handle in predictable ways"
+limits:
+  - "[source] breaks because physical properties are observable and measurable, while whether a responsibility is 'heavy' depends on perspective, values, and context — the metaphor imports apparent objectivity into contestable judgments"
+  - "[source] misleads because the dark/light, clean/dirty, hard/soft mappings inherit and naturalize social biases (racial, gendered, class-based) by grounding them in apparently neutral bodily experience"
 ---
 
 ## Transfers

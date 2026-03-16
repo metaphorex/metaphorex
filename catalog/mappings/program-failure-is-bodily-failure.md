@@ -14,6 +14,13 @@ related:
 slug: program-failure-is-bodily-failure
 source_frame: embodied-experience
 updated: '2026-03-09'
+transfers:
+  - "[source] symptoms are observable surface manifestations of hidden underlying causes — a fever does not name the infection"
+  - "[source] severity follows a spectrum from mild fatigue through degradation to catastrophic organ failure"
+  - "[source] diagnosis works backward from visible symptoms to locate the hidden dysfunction"
+limits:
+  - "[source] breaks because bodies heal themselves through immune response, while programs require external intervention — 'the service recovered' hides the human or watchdog that intervened"
+  - "[source] misleads because bodily failure is continuous and gradual, while program failure is often binary (running or crashed), and the metaphor suggests gradual degradation where there may be a hard threshold"
 ---
 
 ## Transfers

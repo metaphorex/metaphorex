@@ -17,6 +17,13 @@ related:
 slug: patch
 source_frame: textiles
 updated: '2026-03-13'
+transfers:
+  - "[source] patching preserves the original garment rather than replacing it — local repair is chosen over full reconstruction"
+  - "[source] accumulated patches visibly degrade the coherence of the whole, marking the artifact as heavily mended"
+  - "[source] a patch covers a specific tear without altering the rest of the fabric — the repair is spatially contained"
+limits:
+  - "[source] breaks because textile patches do not change the garment's behavior, while software patches routinely add features and alter logic — the metaphor frames evolution as mere repair"
+  - "[source] misleads because sewing a patch onto a sleeve does not affect the collar, while a software change can cascade through a codebase — the spatial locality of textile repair does not hold for code"
 ---
 
 ## Transfers

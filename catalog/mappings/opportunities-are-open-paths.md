@@ -20,6 +20,13 @@ related:
 slug: opportunities-are-open-paths
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - "[source] paths diverge, so choosing one route forecloses others — every step forward narrows the set of reachable destinations"
+  - "[source] the width of a path constrains how much lateral movement the traveler has while still making forward progress"
+  - "[source] clearing obstacles from a path makes it traversable for all subsequent travelers, not just the one who did the work"
+limits:
+  - "[source] breaks because the landscape metaphor assumes paths pre-exist the traveler, hiding the radical creativity of inventing entirely new possibilities that did not exist before"
+  - "[source] misleads because an open path appears costless to traverse, when real opportunities often carry hidden costs in time, relationships, and foreclosed alternatives"
 ---
 
 ## Transfers

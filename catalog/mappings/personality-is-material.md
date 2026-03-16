@@ -19,6 +19,13 @@ related:
 slug: personality-is-material
 source_frame: materials
 updated: '2026-03-13'
+transfers:
+  - "[source] material properties (hardness, brittleness, grain) are intrinsic to the substance and persist under varying conditions"
+  - "[source] working a material through heat and pressure permanently alters its properties — tempering steel changes its crystalline structure"
+  - "[source] quality of material follows a hierarchy (gold over lead, silk over burlap) that orders substances by value and refinement"
+limits:
+  - "[source] breaks because once tempered, material properties are fixed, while human personality continues to change throughout life — the metaphor naturalizes character as settled after formation"
+  - "[source] misleads because material hierarchies encode class prejudice, mapping 'coarse' versus 'refined' substance onto social rank as if it were a physical fact"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: responsibilities-are-possessions
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] possessions are countable objects that accumulate — more items means a heavier load, mapping quantity of duties onto physical burden"
+  - "[source] dropping a held object is a distinct event with audible consequences, making neglect of duty feel concrete and observable"
+  - "[source] transfer requires handing off to another holder, making delegation a physical act with a clear moment of exchange"
+limits:
+  - "[source] breaks because dropping a physical object leaves it lying inert, while neglected responsibilities generate cascading failures and new obligations for others"
+  - "[source] misleads because the weight metaphor makes all duties feel inherently burdensome, unable to express how many responsibilities are sources of meaning, identity, and satisfaction"
 ---
 
 ## Transfers

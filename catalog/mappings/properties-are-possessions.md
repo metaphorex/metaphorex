@@ -20,6 +20,13 @@ related:
 slug: properties-are-possessions
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] possessions can be acquired, held, lost, and transferred — each transition maps onto a change in what properties a person bears"
+  - "[source] quantity of possessions provides a scalar measure, turning binary attributes into gradable ones ('a lot of courage' vs 'very little patience')"
+  - "[source] absence of a possession constitutes a deficiency against an expected inventory — 'lacking' is stronger than 'not having'"
+limits:
+  - "[source] breaks because possessions are detachable from the owner, while properties like intelligence or kindness are constitutive of identity — you do not 'have' courage the way you have a coat"
+  - "[source] misleads because the transfer model ('she gave him courage') imports a conservation law where the giver loses what the receiver gains, misrepresenting how inspiration and influence actually work"
 ---
 
 ## Transfers

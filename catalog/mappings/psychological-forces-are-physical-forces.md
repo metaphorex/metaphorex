@@ -21,6 +21,13 @@ related:
 slug: psychological-forces-are-physical-forces
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] force acts on a patient along a specific vector, and the patient either moves or resists with counterforce"
+  - "[source] sustained pressure accumulates strain toward a threshold where the material yields or fractures"
+  - "[source] attraction operates at a distance without contact, pulling the patient toward the source along a gradient"
+limits:
+  - "[source] breaks because physical forces have identifiable sources, while psychological forces often lack a locatable agent — the metaphor fabricates internal actors ('my demons,' 'a voice inside me') to fill the role"
+  - "[source] misleads because the force frame positions the self as a passive patient being pushed, creating a systematic alibi ('I was driven to it') that deflects responsibility from chosen action"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: pandemonium
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - "[source] the disorder is collective — many agents acting on separate impulses produce emergent chaos louder than any individual contribution"
+  - "[source] the chaos occurs inside a structure designed for controlled activity, making it institutional disorder rather than wilderness"
+  - "[source] the dominant sensory register is auditory — overlapping voices and competing sounds, not visual disorder"
+limits:
+  - "[source] breaks because Milton's Pandaemonium was an orderly deliberative body holding structured debate, not a riot — the modern meaning inverts the original"
+  - "[source] misleads because 'all demons' implies malicious agency, while modern pandemonium is amoral and can be celebratory (stadium crowds, concerts)"
 ---
 
 ## Transfers

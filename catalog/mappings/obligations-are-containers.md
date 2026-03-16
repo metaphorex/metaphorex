@@ -20,6 +20,13 @@ related:
 slug: obligations-are-containers
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] a container enforces a sharp inside/outside boundary — you are either enclosed or free"
+  - "[source] the size of the enclosure constrains how much movement the contained entity has"
+  - "[source] entering a container is a threshold event distinct from being inside it, and exiting is a single spatial transition"
+limits:
+  - "[source] breaks because containers are passive and static, while obligations actively generate expectations, evolve over time, and interact with other commitments"
+  - "[source] misleads because the container hides who built it — obligations appear as pre-existing spatial features rather than socially constructed constraints imposed by identifiable agents"
 ---
 
 ## Transfers

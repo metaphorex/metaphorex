@@ -20,6 +20,13 @@ related:
 slug: obligations-are-forces
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] force acts on a patient along a specific vector, producing displacement unless met with counterforce"
+  - "[source] sustained force produces continuous strain that accumulates toward a threshold of material failure"
+  - "[source] removing the applied force produces immediate relief — the patient springs back to its unloaded state"
+limits:
+  - "[source] breaks because physical forces are amoral and proportional, while obligations carry moral valence — the metaphor treats a just duty and an unjust demand as equivalent pressures"
+  - "[source] misleads because the force frame casts the obligated person as passive patient, stripping agency from the choice to honor a commitment"
 ---
 
 ## Transfers

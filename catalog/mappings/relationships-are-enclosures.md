@@ -22,6 +22,13 @@ related:
 slug: relationships-are-enclosures
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] a container enforces a sharp interior/exterior boundary with a threshold crossing that marks the transition from outside to inside"
+  - "[source] the enclosure simultaneously provides belonging (shelter, shared space) and restriction (limited movement, confinement)"
+  - "[source] third parties crossing the container boundary are intruders whose presence violates the structural integrity of the enclosure"
+limits:
+  - "[source] breaks because the container insists on a binary (in or out), while real relationships exist on a spectrum of commitment and intimacy — 'defining the relationship' is fraught because the metaphor demands a classification the experience resists"
+  - "[source] misleads because containers have fixed dimensions, while relationships continuously renegotiate boundaries as partners grow, children arrive, and circumstances change"
 ---
 
 ## Transfers

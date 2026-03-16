@@ -20,6 +20,13 @@ related:
 slug: perception-is-shape-recognition
 source_frame: geometry
 updated: '2026-03-13'
+transfers:
+  - "[source] recognition works by matching incoming form against stored geometric templates — a figure is discerned against a ground"
+  - "[source] sharpness of edges and clarity of contours determine the vividness and certainty of the recognition"
+  - "[source] distortion of shape produces misrecognition — warped, bent, or skewed forms yield incorrect identifications"
+limits:
+  - "[source] breaks because shape recognition privileges spatial form over other perceptual modalities — color, texture, smell, taste, and sound have no natural geometric shape"
+  - "[source] misleads because the template-matching model privileges recognition of the familiar over encounter with the genuinely novel, providing no vocabulary for perceptual surprise or the formless"
 ---
 
 ## Transfers

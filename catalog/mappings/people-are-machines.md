@@ -18,6 +18,13 @@ related:
 slug: people-are-machines
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - "[source] a machine has measurable throughput, fuel requirements, and diagnosable failure modes"
+  - "[source] machines of the same type are interchangeable — any unit meeting spec can replace any other"
+  - "[source] deviation from optimal operating parameters is a defect requiring tuning or maintenance, not a feature"
+limits:
+  - "[source] breaks because machines are purpose-built with a designed function, while asking 'what are you for?' is an existential crisis for a person, not a specification question"
+  - "[source] misleads because the machine frame treats emotions as noise in the signal rather than as information, systematically devaluing the affective dimension of human experience"
 ---
 
 ## Transfers

@@ -20,6 +20,14 @@ related:
 slug: morality-is-accounting
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] every transaction creates a reciprocal entry that must eventually balance"
+  - "[source] debts accrue interest the longer they remain unsettled"
+  - "[source] insolvency is a threshold state triggered by accumulated deficit, not any single transaction"
+  - "[source] canceling a debt costs the creditor a real loss on their books"
+limits:
+  - "[source] breaks because accounting assumes all values are commensurable in a single currency, but moral wrongs differ in kind, not just magnitude"
+  - "[source] misleads because ledgers track bilateral debts between identifiable parties, hiding systemic harms with no individual creditor or debtor"
 ---
 
 ## Transfers

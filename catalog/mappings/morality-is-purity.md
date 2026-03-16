@@ -20,6 +20,13 @@ related:
 slug: morality-is-purity
 source_frame: purity
 updated: '2026-03-13'
+transfers:
+  - "[source] purity is destroyed by any admixture, no matter how small, creating an asymmetry between contamination and purification"
+  - "[source] maintaining purity requires continuous separation from all potential contaminants"
+  - "[source] testing for purity requires assay or trial that may itself introduce impurity"
+limits:
+  - "[source] breaks because physical purity is binary (pure or not) while moral character exists on a continuous spectrum of competing virtues and compromises"
+  - "[source] misleads because the asymmetry between contamination and purification makes moral recovery appear nearly impossible, punishing the reformed and rewarding the merely untested"
 ---
 
 ## Transfers

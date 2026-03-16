@@ -19,6 +19,13 @@ related:
 slug: nation-is-a-family
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - "[source] a family has a fixed set of role types (parent, child, sibling) with built-in authority asymmetries between generations"
+  - "[source] the household operates on a fixed income that must be budgeted against expenditures"
+  - "[source] competing parenting philosophies (strict discipline vs nurturant care) produce coherent but opposed systems of child-rearing"
+limits:
+  - "[source] breaks because a household budget operates on fixed income, while a sovereign government issues its own currency and can run deficits — the fiscal analogy is structurally false"
+  - "[source] misleads because children grow up and leave, but citizens in the family-nation remain permanently subject to governmental authority with no mechanism for 'adulthood'"
 ---
 
 ## Transfers

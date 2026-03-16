@@ -18,6 +18,13 @@ related:
 slug: people-are-plants
 source_frame: horticulture
 updated: '2026-03-13'
+transfers:
+  - "[source] roots anchor a plant to a specific soil, drawing sustenance from the particular locale where it grows"
+  - "[source] growth is gradual, organic, and dependent on environmental conditions rather than willed by the organism"
+  - "[source] the life cycle follows a fixed seasonal arc from germination through blossoming to withering, with each phase having a natural duration"
+limits:
+  - "[source] breaks because plants cannot choose where to grow or decide to become a different species, while people actively shape their environments and reinvent their identities"
+  - "[source] misleads because the seasonal cycle makes aging look like inevitable withering after a brief flowering, hiding the possibility of late-life creativity and new beginnings"
 ---
 
 ## Transfers

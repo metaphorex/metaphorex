@@ -19,6 +19,13 @@ related:
 slug: properties-are-contents
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] contents fill a container in variable amounts — more substance means more of the property, providing a scalar mapping"
+  - "[source] discovering what is inside requires penetrating the container boundary, making hidden properties feel literally deep"
+  - "[source] contents can enter and leave the container, mapping change of property onto movement of substance across a boundary"
+limits:
+  - "[source] breaks because container contents can be removed while the container persists, but properties are often constitutive — you cannot extract redness from a rose and leave the rose intact"
+  - "[source] misleads because the container implies fixed capacity and zero-sum competition between contents, when a person can be simultaneously courageous, kind, anxious, and creative without any quality crowding out another"
 ---
 
 ## Transfers

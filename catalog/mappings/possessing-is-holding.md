@@ -18,6 +18,13 @@ related:
 slug: possessing-is-holding
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] grip strength maps onto security of ownership — a tighter hold means more secure possession"
+  - "[source] acquiring is the moment the hand closes around the object, making possession a discrete physical event"
+  - "[source] involuntary loss is having something wrested from your grip by an external force"
+limits:
+  - "[source] breaks because modern ownership is overwhelmingly abstract (shares, intellectual property, bank balances) and requires no physical proximity, while the grip model demands bodily contact"
+  - "[source] misleads because a hand holds one object in one grip, making shared or fractional ownership inexpressible — the metaphor privileges exclusive individual possession over commons-based models"
 ---
 
 ## Transfers

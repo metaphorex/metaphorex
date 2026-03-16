@@ -18,6 +18,13 @@ related:
 slug: relationship-is-kinship
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - "[source] kinship carries non-negotiable obligations — you care for parents, protect siblings, provide for children — that feel biological rather than contractual"
+  - "[source] the parent-child relationship has a built-in authority asymmetry grounded in the earliest experienced form of hierarchy"
+  - "[source] blood permanence means you cannot un-become someone's sibling, importing inalterability into the mapped relationship"
+limits:
+  - "[source] breaks because kinship is involuntary (you are born into it), while most mapped relationships are constituted by choice, contract, or circumstance — calling a corporation a 'family' hides that employment is contingent"
+  - "[source] misleads because families have clear boundaries (kin or not-kin), making the kinship frame viscerally exclusionary — 'brotherhoods' have historically excluded by race, gender, and class by naturalizing the boundary"
 ---
 
 ## Transfers

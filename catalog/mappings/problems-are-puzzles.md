@@ -16,6 +16,13 @@ related: []
 slug: problems-are-puzzles
 source_frame: puzzles-and-games
 updated: '2026-03-14'
+transfers:
+  - "[source] puzzles have discrete pieces with specific shapes that either fit or do not, making progress binary and recognizable"
+  - "[source] the solution pre-exists discovery — you do not create it but reveal a configuration that was always latent in the parts"
+  - "[source] all necessary pieces are present from the start, so solving requires arrangement, not acquisition of new information"
+limits:
+  - "[source] breaks because puzzles are designed to be solvable with exactly one correct answer, while real problems (poverty, climate, dysfunction) may have no complete solution and many adequate partial responses"
+  - "[source] misleads because the puzzle frame skips problem-setting entirely — the real intellectual work often lies in framing the problem, not in manipulating given pieces"
 ---
 
 ## Transfers

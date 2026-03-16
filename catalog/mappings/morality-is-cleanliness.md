@@ -19,6 +19,13 @@ related:
 slug: morality-is-cleanliness
 source_frame: cleanliness
 updated: '2026-03-13'
+transfers:
+  - "[source] contamination transfers through contact regardless of the contaminant's intent"
+  - "[source] washing removes surface contaminants but does not alter the material underneath"
+  - "[source] a single drop of contaminant renders the whole volume impure while purification requires treating the entire quantity"
+limits:
+  - "[source] breaks because physical cleaning restores the original state, but moral wrongdoing cannot be undone by ritual — the act persists in memory and consequence"
+  - "[source] misleads because dirt is objective and observer-independent, while what counts as moral contamination varies by culture, era, and power structure"
 ---
 
 ## Transfers

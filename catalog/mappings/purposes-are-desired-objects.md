@@ -22,6 +22,13 @@ related:
 slug: purposes-are-desired-objects
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] acquiring an object is all-or-nothing — you either have it or you do not, making achievement a discrete binary event"
+  - "[source] objects in motion must be caught by extending the arm at the right moment, mapping urgency and timing onto purposive action"
+  - "[source] when multiple agents pursue the same object, scarcity generates competition where one person's acquisition is another's loss"
+limits:
+  - "[source] breaks because objects, once acquired, stay acquired without maintenance, while purposes like health, relationships, and skills require continuous effort to sustain"
+  - "[source] misleads because the scarcity of objects imports zero-sum logic into domains where many purposes are non-rivalrous — my becoming a better teacher does not make you a worse one"
 ---
 
 ## Transfers

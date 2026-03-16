@@ -17,6 +17,13 @@ related:
 slug: network-socket
 source_frame: tool-use
 updated: '2026-03-14'
+transfers:
+  - "[source] a socket accepts any plug that conforms to its standardized shape, decoupling the interface from the specific device"
+  - "[source] connection requires two complementary parts — plug and socket — joining to form a complete circuit for bidirectional flow"
+  - "[source] the socket is fixed in place while the plug is mobile, establishing an asymmetry between listener and connector"
+limits:
+  - "[source] breaks because a physical socket serves one plug at a time, while a server socket spawns new connected endpoints for each client — one-to-many behavior has no physical analog"
+  - "[source] misleads because physical sockets vary by visible shape, while network socket types are invisible protocol choices determined at creation time by a parameter"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: perception-is-reception
 source_frame: physical-objects
 updated: '2026-03-13'
+transfers:
+  - "[source] the receiver is stationary and passive — it accepts whatever arrives without selecting or constructing the signal"
+  - "[source] stimuli travel from source to receiver along a directed path, giving perception inherent directionality (from world to mind)"
+  - "[source] overload occurs when incoming volume exceeds the receiver's processing capacity, producing noise rather than signal"
+limits:
+  - "[source] breaks because perception is radically constructive — the brain builds perceptual experience from fragmentary cues shaped by attention, expectation, and memory, not by passively accepting delivered content"
+  - "[source] misleads because the reception model implies two people receiving the same stimulus should perceive the same thing, hiding how language, culture, and expertise shape what is perceived"
 ---
 
 ## Transfers

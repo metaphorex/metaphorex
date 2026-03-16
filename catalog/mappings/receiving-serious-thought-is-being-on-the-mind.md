@@ -18,6 +18,13 @@ related:
 slug: receiving-serious-thought-is-being-on-the-mind
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] objects on a surface press down with weight proportional to their mass, mapping seriousness of thought onto heaviness of the burden"
+  - "[source] the surface has finite carrying capacity — overloading it produces strain, mapping cognitive overwhelm onto physical excess"
+  - "[source] removing an object from the surface produces immediate relief, mapping resolution of a concern onto physical unburdening"
+limits:
+  - "[source] breaks because the surface is flat with no depth, providing no vocabulary for subconscious processing or the incubation that produces aha moments — serious thinking happens both on and below awareness"
+  - "[source] misleads because the weight mapping makes important concerns inherently burdensome, unable to represent the energizing engagement of a scientist passionately absorbed in a problem"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: network-port
 source_frame: travel
 updated: '2026-03-14'
+transfers:
+  - "[source] each berth in a harbor is assigned by a central authority to a specific type of vessel and trade"
+  - "[source] a port is a gateway where cargo transitions from transit on the open sea to processing within the city"
+  - "[source] well-established ports have conventional purposes recognized by all participants in the trade network"
+limits:
+  - "[source] breaks because a physical berth serves one ship at a time, while a network port serves thousands of simultaneous connections distinguished by source addressing"
+  - "[source] misleads because harbor ports have spatial adjacency and geography, while network port numbers are an abstract numeric space with no meaningful proximity between neighboring values"
 ---
 
 ## Transfers

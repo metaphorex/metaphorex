@@ -15,6 +15,13 @@ related: []
 slug: muscle
 source_frame: animal-behavior
 updated: '2026-03-13'
+transfers:
+  - "[source] the mouse is known only by the movement it causes beneath a covering surface, not by direct observation"
+  - "[source] the diminutive form implies many small independent agents whose aggregate produces large-scale force"
+  - "[source] the image encodes autonomous darting motion under a passive exterior, mapping visible-but-indirect action"
+limits:
+  - "[source] breaks because mice move by their own volition while muscles contract only on neural command — the metaphor imports agency where none exists"
+  - "[source] misleads because the secondary metaphor (muscle as force and intimidation) inverts the original's register of smallness and quickness into size and aggression"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: rational-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] the vertical axis maps elevation onto refinement — higher is more abstract, theoretical, and detached from the body"
+  - "[source] rising above requires effort against gravity, making transcendence an achievement and descent a failure of will"
+  - "[source] the head (seat of reason) is physically above the gut and heart (seats of emotion), grounding the hierarchy in anatomy"
+limits:
+  - "[source] breaks because cognitive science has shown emotion is essential to rational decision-making (Damasio's somatic marker hypothesis), not its opposite on a vertical axis"
+  - "[source] misleads because the spatial hierarchy has historically mapped onto a gender hierarchy (men as rational/up, women as emotional/down), naturalizing a political construction as a spatial fact"
 ---
 
 ## Transfers

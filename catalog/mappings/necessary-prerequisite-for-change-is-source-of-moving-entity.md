@@ -20,6 +20,13 @@ related:
 slug: necessary-prerequisite-for-change-is-source-of-moving-entity
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - "[source] a journey's starting point constrains which destinations are reachable and which paths are available"
+  - "[source] departure from the source means leaving it behind — you cannot simultaneously be at the origin and the destination"
+  - "[source] returning to the starting point after forward progress constitutes regression, not exploration"
+limits:
+  - "[source] breaks because many prerequisites persist as ongoing requirements rather than being left behind at departure — foundational knowledge remains necessary at every stage"
+  - "[source] misleads because the single-source model linearizes what may be multiple simultaneous enabling conditions that have no spatial analog as a single starting point"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: neural-network-is-a-brain
 source_frame: biology
 updated: '2026-03-13'
+transfers:
+  - "[source] intelligence arises from the pattern of connections between many simple units, not from the complexity of any individual unit"
+  - "[source] hierarchical layering produces progressive abstraction — early stages detect features, later stages detect compositions of features"
+  - "[source] selective activation means not every unit contributes to every output, creating sparse, stimulus-dependent response patterns"
+limits:
+  - "[source] breaks because biological neurons process signals with precise timing, release dozens of neurotransmitters, and modify their own structure — artificial neurons perform a single matrix multiplication"
+  - "[source] misleads because the brain metaphor triggers an anthropomorphism cascade where parameters become 'knowledge,' outputs become 'understanding,' and errors become 'hallucinations'"
 ---
 
 ## Transfers

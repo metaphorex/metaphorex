@@ -18,6 +18,13 @@ related:
 slug: problem-is-a-tangle
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] pulling too hard on a tangled cord cinches the knot tighter — aggressive force backfires"
+  - "[source] finding the right end to start pulling is half the work, and starting in the wrong place makes the tangle worse"
+  - "[source] knots are points where multiple strands converge and bind, localizing the maximum difficulty at intersections"
+limits:
+  - "[source] breaks because every tangle was once a set of neatly separated strands, smuggling in the assumption that the natural state is orderly and the problem is a deviation — many problems have no untangled baseline"
+  - "[source] misleads because untangling leaves strands intact, but disentangling intertwined social or economic issues often damages or transforms the elements being separated"
 ---
 
 ## Transfers

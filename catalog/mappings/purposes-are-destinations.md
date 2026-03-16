@@ -21,6 +21,13 @@ related:
 slug: purposes-are-destinations
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - "[source] progress is measurable as decreasing distance to the destination — you can be near or far from your goal"
+  - "[source] multiple routes lead to the same destination, making strategy a question of path selection"
+  - "[source] obstacles are things blocking the road that must be circumvented or removed, not flaws in the traveler"
+limits:
+  - "[source] breaks because destinations do not move, while purposes shift as you work toward them — revising your goal feels like 'moving the goalposts' when it may be the smartest response to new information"
+  - "[source] misleads because arrival ends the journey, but achieving a purpose typically opens new purposes rather than terminating purposeful activity"
 ---
 
 ## Transfers

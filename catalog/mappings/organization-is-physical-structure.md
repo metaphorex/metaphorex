@@ -17,6 +17,13 @@ related:
 slug: organization-is-physical-structure
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] what is logically prior is physically underneath, and removing it causes everything above to collapse"
+  - "[source] structural integrity requires that load-bearing elements be proportioned to what they support"
+  - "[source] decomposition into constituent parts follows physical joints and seams, enabling analysis through disassembly"
+limits:
+  - "[source] breaks because physical structures are static once built, while organizations continuously reorganize — the metaphor makes adaptive change feel like structural damage"
+  - "[source] misleads because buildings have a single architect with a blueprint, while many organized systems emerge from distributed interaction without intentional design"
 ---
 
 ## Transfers

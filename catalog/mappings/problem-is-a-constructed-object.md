@@ -18,6 +18,13 @@ related:
 slug: problem-is-a-constructed-object
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] a constructed object has identifiable components assembled in a specific order, making decomposition possible by reversing the construction sequence"
+  - "[source] complexity arises from the number and interdependence of interlocking parts, not from any single component"
+  - "[source] someone designed and built the object, which means a builder can be identified and held responsible"
+limits:
+  - "[source] breaks because many problems are emergent rather than constructed — climate change and inequality have no identifiable architect, and the demand for a builder leads to conspiracy thinking"
+  - "[source] misleads because dismantling a building yields inert materials, while decomposing a social problem into components (race, class, gender) produces elements that interact and resist separation"
 ---
 
 ## Transfers

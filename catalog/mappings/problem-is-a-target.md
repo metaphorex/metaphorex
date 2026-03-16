@@ -18,6 +18,13 @@ related:
 slug: problem-is-a-target
 source_frame: target-practice
 updated: '2026-03-13'
+transfers:
+  - "[source] a target is a localized, identifiable point that can be aimed at with precision from a distance"
+  - "[source] hitting is binary — the projectile either strikes the target or misses, with accuracy measurable as distance from center"
+  - "[source] the marksman adjusts aim based on prior misses, making the approach iterative but still convergent on a fixed point"
+limits:
+  - "[source] breaks because problems are rarely point-like — systemic difficulties have no bullseye, and the metaphor encourages the belief that a single precise intervention can resolve distributed complexity"
+  - "[source] misleads because the target frame imports violence (you shoot at targets) and suppresses collaboration, making problem-solving feel like a lone marksman's task rather than collective institutional work"
 ---
 
 ## Transfers

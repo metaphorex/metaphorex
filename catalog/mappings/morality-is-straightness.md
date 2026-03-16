@@ -20,6 +20,13 @@ related:
 slug: morality-is-straightness
 source_frame: geometry
 updated: '2026-03-13'
+transfers:
+  - "[source] a straight line is the only path fully determined by its endpoints, leaving no room for deviation or interpretation"
+  - "[source] straightness is defined relative to an external reference, not intrinsic to the line itself"
+  - "[source] a bent object can be re-straightened without destroying and replacing it"
+limits:
+  - "[source] breaks because geometric straightness admits no justified deviation, while moral life routinely requires navigating between competing goods through indirection and compromise"
+  - "[source] misleads because the reference line against which straightness is measured is treated as self-evident, hiding the question of whose norms define the standard"
 ---
 
 ## Transfers

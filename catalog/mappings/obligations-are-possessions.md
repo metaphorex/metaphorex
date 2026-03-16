@@ -20,6 +20,13 @@ related:
 slug: obligations-are-possessions
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[source] possessions can be acquired, transferred to another holder, and discharged — each transition has a distinct legal moment"
+  - "[source] possessions are countable and can be inventoried, enabling comparison of who holds more and who holds less"
+  - "[source] legitimate release requires either authority (being relieved) or completion (discharging), distinguishing it from illegitimate abandonment"
+limits:
+  - "[source] breaks because possessions are inert objects with no relational dimension, while obligations are active bonds between people that generate reciprocal expectations"
+  - "[source] misleads because the transfer model implies that delegating a duty fully releases the original holder, when accountability often persists up the chain"
 ---
 
 ## Transfers

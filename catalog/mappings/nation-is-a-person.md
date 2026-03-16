@@ -19,6 +19,13 @@ related:
 slug: nation-is-a-person
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - "[source] a person has a single coherent will that translates intention into action without internal dissent"
+  - "[source] persons pass through developmental life stages from youth through maturity to decline"
+  - "[source] interpersonal relationships involve bilateral obligations of trust, reciprocity, and honor that can be betrayed"
+limits:
+  - "[source] breaks because a person's interests are relatively coherent, while a nation's 'interests' are the output of power struggles that privilege some groups over others"
+  - "[source] misleads because the life-cycle mapping makes institutional decline feel biologically inevitable, replacing analysis of specific political and economic causes with narrative fatalism"
 ---
 
 ## Transfers

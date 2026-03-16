@@ -19,6 +19,13 @@ related:
 slug: more-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] adding substance to a pile increases its height in direct proportion to the quantity added"
+  - "[source] the vertical axis provides a single continuous scale for comparing any two quantities"
+  - "[source] peaks and valleys are extremes bounded by physical constraints like container walls and gravity"
+limits:
+  - "[source] breaks because vertical accumulation is linear, but many real quantities grow exponentially — the metaphor flattens the distinction between additive and multiplicative increase"
+  - "[source] misleads because the up-axis inherits positive valence from GOOD IS UP, making quantitative increase feel desirable even when more pollution or more debt is harmful"
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: race-condition
 source_frame: competition
 updated: '2026-03-14'
+transfers:
+  - "[source] the outcome depends entirely on which contestant crosses the finish line first — arrival order, not effort, determines the result"
+  - "[source] neither runner is doing anything wrong individually — the bug exists only in the uncoordinated interaction between correct-in-isolation components"
+  - "[source] a close finish is where the drama occurs — near-simultaneous arrival produces the contested, indeterminate outcome"
+limits:
+  - "[source] breaks because races have winners and a valid result, while race conditions produce only corruption, data loss, or undefined behavior — there is no winner, only losers"
+  - "[source] misleads because footraces are observable in real time, while race conditions depend on microsecond timing windows that disappear when you add logging or attach a debugger to observe them"
 ---
 
 ## Transfers

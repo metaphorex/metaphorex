@@ -16,6 +16,13 @@ related:
 slug: prompt-engineering-is-programming
 source_frame: software-engineering
 updated: '2026-03-13'
+transfers:
+  - "[source] programs are precise instruction sets that a compiler translates deterministically into machine behavior"
+  - "[source] debugging follows a structured cycle: modify the code, recompile, run the test suite, and check output against specification"
+  - "[source] good code can be modularized, versioned, shared, and maintained as reusable engineering artifacts"
+limits:
+  - "[source] breaks because the same prompt sent to the same model at different times can produce different outputs — no software engineer would accept a compiler with nondeterministic behavior from identical source"
+  - "[source] misleads because programming languages have formal semantics defining what each construct means, while prompt meaning is interpreted by statistical patterns with no specification to consult"
 ---
 
 ## Transfers

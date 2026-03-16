@@ -17,6 +17,13 @@ related:
 slug: piecemeal-growth
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[source] healthy buildings grow through continuous repair by their inhabitants rather than being delivered whole by an external architect"
+  - "[source] large-lump construction imposes an outsider's vision on the people who will actually inhabit the result"
+  - "[source] growth guided by a shared pattern language keeps local modifications coherent with the global whole"
+limits:
+  - "[source] breaks because buildings face physical constraints (lot size, foundation, materials) that discipline organic growth, while unconstrained software accretion produces sprawling incoherence, not charm"
+  - "[source] misleads because 'piecemeal' carries pejorative connotations in ordinary English (fragmented, half-hearted), requiring the positive valence to be argued for every time"
 ---
 
 ## Transfers

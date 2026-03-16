@@ -19,6 +19,13 @@ related:
 slug: opportunities-are-objects
 source_frame: physical-objects
 updated: '2026-03-13'
+transfers:
+  - "[source] objects in motion must be caught at the moment they pass — timing determines whether you grasp or miss"
+  - "[source] objects can be transferred from one holder to another, making distribution of opportunity a concrete social act"
+  - "[source] physical size and weight map onto significance — a larger object is harder to miss and more consequential to hold"
+limits:
+  - "[source] breaks because objects are rivalrous (one holder means one fewer for others), while many opportunities are non-rivalrous and can be pursued simultaneously by multiple people"
+  - "[source] misleads because the object frame treats opportunities as pre-existing things to be found, hiding the creative act of making opportunities where none existed"
 ---
 
 ## Transfers

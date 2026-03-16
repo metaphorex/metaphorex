@@ -17,6 +17,13 @@ related:
 slug: people-are-batteries
 source_frame: electricity
 updated: '2026-03-13'
+transfers:
+  - "[source] a battery has a single scalar charge level that depletes with use and restores with charging"
+  - "[source] drawing current faster than the recharge rate drives the battery toward a threshold of total depletion"
+  - "[source] different loads drain the battery at different rates, making some activities costlier than others"
+limits:
+  - "[source] breaks because a battery stores a single type of energy with fixed capacity, while human vitality spans physical stamina, emotional resilience, and cognitive focus — a person can be physically drained but emotionally alive"
+  - "[source] misleads because batteries degrade with each charge cycle, implying that every recovery slightly reduces maximum capacity, which misrepresents how rest often restores more than the status quo"
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: orphan-process
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - "[source] an orphan's parent did not choose to leave — the abandonment is structural, not intentional"
+  - "[source] society assigns a surrogate parent who assumes lifecycle responsibility without interfering in daily activity"
+  - "[source] loss of the parent removes supervision, leaving the child executing tasks that no one is monitoring or waiting for"
+limits:
+  - "[source] breaks because orphanhood in human life is tragic and poorly resolved, while Unix handles orphan adoption seamlessly through init — the metaphor borrows pathos the technical situation does not carry"
+  - "[source] misleads because the metaphor implies vulnerability and need, while many orphan processes are healthy and some are deliberately orphaned as a design pattern (daemonization)"
 ---
 
 ## Transfers

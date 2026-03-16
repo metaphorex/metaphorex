@@ -17,6 +17,13 @@ related:
 slug: pyrrhic-victory
 source_frame: war
 updated: '2026-03-14'
+transfers:
+  - "[source] the costs of battle are measured in a different currency than the gains — territory won but irreplaceable soldiers lost"
+  - "[source] zooming in on the immediate engagement shows success while zooming out to the larger trajectory shows failure"
+  - "[source] the winner's losses are irreplaceable far from home, while the opponent fights on home soil and can replenish"
+limits:
+  - "[source] breaks because the label is applied with hindsight as if the costs should have been anticipated, converting genuine uncertainty into obvious folly"
+  - "[source] misleads because not all costly victories are Pyrrhic — the metaphor is over-applied to any expensive win when the correct test is whether the winner would have been better off not winning at all"
 ---
 
 ## Transfers
