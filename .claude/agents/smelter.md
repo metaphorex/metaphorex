@@ -52,8 +52,8 @@ transform raw mining output into clean, validated content.
    c. For each entry file in the PR diff:
       - Verify slug matches filename
       - Verify `author` uses `agent:name` format (not bare `name`)
-      - Verify `kind` is one of: conceptual-metaphor, archetype,
-        dead-metaphor, paradigm
+      - Verify `kind` is one of: metaphor, pattern, archetype,
+        paradigm, mental-model
       - Verify `harness` field is present
       - Verify all required body sections exist and are non-empty
    d. Verify PR title matches convention: `Add entries: <project> batch N (M entries)`
@@ -82,10 +82,31 @@ transform raw mining output into clean, validated content.
 - Add missing `created`/`updated` date fields (use today's date if absent)
 - Update `updated` field to today's date when pushing fixup commits
 
+**Enrichment Validation (when PR contains `transfers`/`limits` changes):**
+
+When a PR adds `transfers` and/or `limits` to entry frontmatter, run these
+additional mechanical checks:
+
+- `transfers` field is a YAML list (not a string or scalar)
+- `limits` field is a YAML list (not a string or scalar)
+- Transfer count meets minimum for the entry's kind:
+  - metaphor, pattern, archetype: minimum 3
+  - paradigm, mental-model: minimum 2
+- Limit count meets minimum: 2 for all kinds
+- Each proposition starts with the correct prefix for its kind:
+  - metaphor, pattern, archetype: `[source]`
+  - paradigm: `[paradigm]`
+  - mental-model: `[model]` or `[law]`
+- No empty strings in the lists
+- No exact duplicate propositions within an entry
+
+These are purely mechanical checks — the Smelter makes no judgment about
+proposition content quality.
+
 **What You NEVER Do:**
 
 - Rewrite prose in any body section
-- Change `kind`, `source_frame`, or `target_frame` assignments
+- Change `kind`, `source_frame`, or `applies_to` assignments
 - Add or remove expressions
 - Judge whether content is good or bad
 - Create new frames or categories
