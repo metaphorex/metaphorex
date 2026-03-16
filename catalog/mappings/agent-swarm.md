@@ -15,6 +15,13 @@ related:
 slug: agent-swarm
 source_frame: animal-behavior
 updated: '2026-03-13'
+transfers:
+  - "[source] swarm insects coordinate through local signals without central command, framing multi-agent systems as bottom-up rather than top-down"
+  - "[source] individual swarm members are expendable -- the colony absorbs the loss of thousands without system failure"
+  - "[source] swarm insects communicate indirectly through environmental modification (stigmergy), influencing agent architecture toward shared state rather than direct messaging"
+limits:
+  - "[source] breaks because actual multi-agent AI systems use explicit orchestration logic and specialized roles, not the homogeneous agents and emergent coordination the swarm promises"
+  - "[source] misleads because adding an ant costs a colony almost nothing, while adding an AI agent costs real money in API calls and compute -- the biological scaling economics do not transfer"
 ---
 
 ## Transfers

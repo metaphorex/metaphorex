@@ -15,6 +15,12 @@ related:
 slug: redundancy
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[model] achieves system reliability exceeding any individual component's reliability by ensuring independent backup paths that do not share failure modes"
+  - "[model] opposes optimization taken too far -- deliberately preserving slack and spare capacity as the difference between theoretical and practical robustness"
+limits:
+  - "[model] breaks when failures are correlated rather than independent, since common-mode failures defeat all redundant paths simultaneously"
+  - "[model] misleads by making backup systems sound costless, when every redundant component consumes resources for maintenance whether or not it is ever needed"
 ---
 
 ## Transfers

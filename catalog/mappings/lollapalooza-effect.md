@@ -15,6 +15,12 @@ related:
 slug: lollapalooza-effect
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts that when multiple cognitive biases align in the same direction, their combined effect is multiplicative rather than additive"
+  - "[model] identifies convergence of independent forces as the mechanism behind extreme outcomes that no single cause can explain"
+limits:
+  - "[model] breaks because any extreme outcome can be retroactively attributed to converging factors, making the model unfalsifiable as a predictive tool"
+  - "[model] misleads by borrowing the precision of wave superposition for a domain where bias amplitudes and combination rules are unknown"
 ---
 
 ## Transfers

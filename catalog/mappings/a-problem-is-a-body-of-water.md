@@ -20,6 +20,13 @@ related:
 slug: a-problem-is-a-body-of-water
 source_frame: fluid-dynamics
 updated: '2026-03-14'
+transfers:
+  - "[source] depth maps severity on a continuous scale -- shallow problems can be waded through while deep ones threaten submersion and loss of control"
+  - "[source] bodies of water have currents that carry the person independent of their will, giving the problem autonomous dynamics beyond the solver's agency"
+  - "[source] a surface divides the visible from the hidden, structuring problems as having an accessible layer above and a concealed severity below"
+limits:
+  - "[source] breaks because water is continuous and undifferentiated, while many problems are collections of discrete separable components that the fluid frame resists disaggregating"
+  - "[source] misleads because escape in the water frame is always upward to the surface, hiding the value of going deeper to investigate root causes"
 ---
 
 ## Transfers

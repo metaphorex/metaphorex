@@ -14,6 +14,12 @@ related:
 slug: reciprocity
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts that receiving an unsolicited favor creates a felt obligation to repay that operates below conscious deliberation"
+  - "[model] operates symmetrically -- the same mechanism drives return of favors and return of hostility through a single social ledger"
+limits:
+  - "[model] breaks in relationships organized around unconditional giving -- parenting, charity, solidarity -- where the exchange logic corrupts the bond"
+  - "[model] misleads because the social ledger has no agreed unit of account, so parties routinely disagree about whether a debt has been settled"
 ---
 
 ## Transfers

@@ -14,6 +14,12 @@ related:
 slug: switching-costs
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[model] maps physical friction and inertia onto customer retention -- the higher the cost of changing, the more durable the business relationship regardless of satisfaction"
+  - "[model] distinguishes static friction (the upfront cost to initiate a switch) from kinetic friction (the ongoing cost of operating in the new state), where most resistance concentrates at the start"
+limits:
+  - "[model] breaks because digital technology systematically reduces switching costs through data portability, API interoperability, and open formats"
+  - "[model] misleads by making no distinction between staying because you want to and staying because leaving is painful -- friction is not loyalty"
 ---
 
 ## Transfers

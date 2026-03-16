@@ -17,6 +17,13 @@ related:
 slug: ai-is-a-tool
 source_frame: tool-use
 updated: '2026-03-13'
+transfers:
+  - "[source] tools are inert objects that extend human capability without possessing goals, placing all agency and responsibility with the operator"
+  - "[source] skill resides in the user rather than the instrument -- the same tool produces art or splinters depending on who wields it"
+  - "[source] tools are replaceable and fungible, making AI systems interchangeable commodities rather than entities with distinctive character"
+limits:
+  - "[source] breaks because tools do not generate novel outputs, and an LLM that writes text the user did not author disrupts the relationship between operator and product"
+  - "[source] misleads because the neutrality claim erases the training history that shapes every output -- a wrench works the same regardless of prior use, but an LLM carries its corpus biases into every response"
 ---
 
 ## Transfers

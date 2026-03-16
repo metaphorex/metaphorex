@@ -17,6 +17,13 @@ related:
 slug: a-place-to-wait
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - "[source] a well-designed waiting space communicates queue position and expected duration, making the wait transparent rather than opaque"
+  - "[source] the waiting place is a transition zone between two states -- a liminal threshold that mediates passage rather than an engineering defect"
+  - "[source] neglected waiting spaces breed anxiety disproportionate to actual wait duration because the absence of information amplifies uncertainty"
+limits:
+  - "[source] breaks because architectural waiting rooms are inhabitable spaces with sensory richness, while software loading states are temporal conditions without spatial agency"
+  - "[source] misleads by treating waiting as inevitable when the better engineering response may be to eliminate the wait rather than decorate it"
 ---
 
 ## Transfers

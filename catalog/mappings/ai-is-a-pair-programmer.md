@@ -17,6 +17,13 @@ related:
 slug: ai-is-a-pair-programmer
 source_frame: collaborative-work
 updated: '2026-03-13'
+transfers:
+  - "[source] pair programming alternates driver and navigator roles, mapping onto the human-writes/AI-completes/human-reviews interaction loop"
+  - "[source] pair partners bring complementary skills to the same workstation, framing human domain knowledge and AI pattern breadth as mutually compensating"
+  - "[source] thinking aloud for your partner improves your own reasoning, mapping prompt-writing onto the articulation discipline that makes pair programming effective"
+limits:
+  - "[source] breaks because pair programming requires rough equality and mutual pushback, while AI assistants defer to instructions and cannot genuinely challenge bad architectural decisions"
+  - "[source] misleads because AI generates code at machine speed, destroying the temporal rhythm of human turn-taking that gives the navigator time to think and redirect"
 ---
 
 ## Transfers

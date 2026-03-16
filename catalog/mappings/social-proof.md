@@ -14,6 +14,12 @@ related:
 slug: social-proof
 source_frame: natural-selection
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts that uncertainty amplifies the tendency to copy others -- the less you know about a situation, the more you rely on the crowd's behavior as a heuristic"
+  - "[model] identifies positive feedback cascades where each new adopter strengthens the signal for subsequent adopters, producing self-reinforcing momentum"
+limits:
+  - "[model] breaks at modern scale because the mechanism evolved for trusted tribal groups of dozens, not for millions of strangers including bots and paid influencers"
+  - "[model] misleads by conflating popularity with quality -- many people choosing something is evidence of social momentum, not evidence of correctness"
 ---
 
 ## Transfers

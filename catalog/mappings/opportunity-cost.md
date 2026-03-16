@@ -14,6 +14,12 @@ related:
 - latticework-of-mental-models
 slug: opportunity-cost
 updated: '2026-03-13'
+transfers:
+  - "[model] redefines cost as the value of the best forgone alternative rather than the price paid, making invisible tradeoffs visible"
+  - "[model] prohibits evaluating any option in isolation by requiring comparison with the next-best use of the same resource"
+limits:
+  - "[model] breaks because the best alternative is a counterfactual that cannot be observed, making the model more useful as a thinking discipline than as a calculation"
+  - "[model] misleads when applied to qualitatively incommensurable choices where alternatives cannot be measured in common units"
 ---
 
 ## Transfers

@@ -16,6 +16,13 @@ related:
 slug: ai-is-a-spell-checker
 source_frame: tool-use
 updated: '2026-03-13'
+transfers:
+  - "[source] spell checkers operate on surface patterns without understanding meaning, mapping onto the claim that AI manipulates statistical regularities without comprehension"
+  - "[source] spell checker suggestions are recommendations the user accepts or rejects on a case-by-case basis, preserving total user authority over output"
+  - "[source] spell checker failures are predictable, low-stakes, and easily overridden, domesticating AI error by mapping it onto something everyone has survived"
+limits:
+  - "[source] breaks because spell checkers correct what you wrote while LLMs generate entire documents you did not start, transforming the user from author to director"
+  - "[source] misleads because spell checkers operate on a closed finite domain (correctly spelled words) where correctness is verifiable, while AI operates on open-ended domains where correctness is contested and context-dependent"
 ---
 
 ## Transfers

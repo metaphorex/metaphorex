@@ -14,6 +14,12 @@ related:
 - the-map-is-not-the-territory
 slug: information-asymmetry
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts that unequal knowledge between transacting parties degrades market quality by driving out high-quality participants"
+  - "[model] identifies signaling and screening as corrective mechanisms that counterparties deploy to bridge the knowledge gap"
+limits:
+  - "[model] breaks in repeated-interaction settings where reputation and relationship history dissolve asymmetries without formal mechanisms"
+  - "[model] misleads by implying that full information symmetry is always desirable, when some asymmetries serve functional division of cognitive labor"
 ---
 
 ## Transfers

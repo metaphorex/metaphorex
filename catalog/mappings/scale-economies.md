@@ -15,6 +15,12 @@ related:
 slug: scale-economies
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts that fixed costs spread across increasing volume produce declining unit costs, creating a structural advantage for the largest producer"
+  - "[model] identifies scaling thresholds where the cost dynamics that held in one regime break down in the next"
+limits:
+  - "[model] breaks because large organizations face superlinear coordination overhead that eventually outweighs the sublinear scaling of production costs"
+  - "[model] misleads by framing market concentration as a natural law of physics, obscuring the role of policy, regulation, and disruptive innovation in shaping outcomes"
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: activities-are-containers
 source_frame: containers
 updated: '2026-03-14'
+transfers:
+  - "[source] containers have sharp inside/outside boundaries, making participation a binary spatial state -- you are in or you are out"
+  - "[source] entering and exiting a container are physical transitions, making starting and stopping activities feel like crossing thresholds rather than gradual state changes"
+  - "[source] containment constrains the contents, framing involvement in an activity as being subject to its rules and pressures"
+limits:
+  - "[source] breaks because containers do not interpenetrate, but activities overlap constantly -- the frame makes multitasking feel like being in two places at once"
+  - "[source] misleads because containment suggests passivity, making the activity the agent and the person the trapped contents when the person is actually choosing to participate"
 ---
 
 ## Transfers

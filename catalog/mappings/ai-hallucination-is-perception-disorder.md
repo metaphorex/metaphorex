@@ -16,6 +16,13 @@ related:
 slug: ai-hallucination-is-perception-disorder
 source_frame: medicine
 updated: '2026-03-13'
+transfers:
+  - "[source] psychiatric hallucinations are experienced with full subjective conviction, mapping onto AI's tendency to present false outputs with the same syntactic confidence as true ones"
+  - "[source] hallucination is a disorder amenable to treatment, framing confident false output as a pathology to be cured rather than an inherent property of the system"
+  - "[source] the hallucinating patient has a perceptual apparatus that has malfunctioned, implicitly granting the model a phenomenological interior"
+limits:
+  - "[source] breaks because LLMs do not perceive -- they generate statistically plausible token sequences, and the metaphor smuggles in an entire philosophy of mind through a single word"
+  - "[source] misleads by individualizing a systemic issue, locating the problem in the model rather than in the sociotechnical system of training data, deployment context, and absent verification"
 ---
 
 ## Transfers

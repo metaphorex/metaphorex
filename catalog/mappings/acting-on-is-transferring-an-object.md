@@ -18,6 +18,13 @@ related:
 slug: acting-on-is-transferring-an-object
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] transferring an object requires a sender, a receiver, and a thing passed between them, imposing a clear three-role structure on causation"
+  - "[source] forceful transfer corresponds to intense effect -- hurling versus handing maps onto violent versus gentle action"
+  - "[source] reciprocal exchange maps mutual action onto commercial logic where both parties give and receive in turn"
+limits:
+  - "[source] breaks because giving away a physical object depletes the giver, but acting on someone does not deplete the actor's capacity to act again"
+  - "[source] misleads because transfer is a discrete bounded event, while many effects of action are gradual, diffuse, or continuous rather than landing like a package"
 ---
 
 ## Transfers

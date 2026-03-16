@@ -15,6 +15,12 @@ related:
 slug: scenario-analysis
 source_frame: war
 updated: '2026-03-13'
+transfers:
+  - "[model] replaces single-point forecasts with a set of plausible futures, each paired with early indicators that signal which is unfolding"
+  - "[model] directs heaviest preparation toward the scenario with worst consequences rather than highest probability"
+limits:
+  - "[model] breaks because the most consequential events are often outside all constructed scenarios -- the model protects against known unknowns but not unknown unknowns"
+  - "[model] misleads when three scenarios collapse into anchoring on the base case, creating an illusion of rigor that reproduces the single-forecast bias it was designed to overcome"
 ---
 
 ## Transfers

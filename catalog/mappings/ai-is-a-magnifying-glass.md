@@ -16,6 +16,13 @@ related:
 slug: ai-is-a-magnifying-glass
 source_frame: vision
 updated: '2026-03-13'
+transfers:
+  - "[source] a magnifying glass enlarges what is already present but too small to notice, framing AI as an amplifier of existing patterns rather than a creator of new ones"
+  - "[source] the user directs where the lens points, preserving human agency in determining what gets amplified"
+  - "[source] magnification reveals imperfections invisible to the naked eye, framing AI as making pre-existing societal biases impossible to ignore"
+limits:
+  - "[source] breaks because AI generates entirely novel combinations that never existed in any training example, and the magnifying glass cannot account for creation, only enlargement"
+  - "[source] misleads by implying amplification is localized and reversible like setting down a lens, when AI-amplified patterns become embedded in automated systems operating at scale"
 ---
 
 ## Transfers

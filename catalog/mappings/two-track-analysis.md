@@ -15,6 +15,12 @@ related:
 slug: two-track-analysis
 source_frame: manufacturing
 updated: '2026-03-13'
+transfers:
+  - "[model] requires passing two independent inspections before clearing a decision -- rational analysis of the object and psychological audit of the analyst"
+  - "[model] treats failure on either track as failure of the whole analysis, preventing rational-seeming conclusions that are actually bias-driven"
+limits:
+  - "[model] breaks because the same brain runs both tracks, so psychological biases infect rational analysis from the start rather than waiting politely for Track Two"
+  - "[model] misleads by creating false confidence -- having 'checked for biases' via a mental checklist can substitute for genuine epistemic humility"
 ---
 
 ## Transfers

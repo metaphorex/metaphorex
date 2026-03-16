@@ -16,6 +16,12 @@ related:
 slug: regression-to-the-mean
 source_frame: probability
 updated: '2026-03-13'
+transfers:
+  - "[law] predicts that extreme measurements on a variable with a random component will be followed by less extreme measurements, through arithmetic rather than any causal force"
+  - "[law] reveals that interventions applied at performance extremes will appear effective regardless of their actual impact, because the natural regression provides false confirmation"
+limits:
+  - "[law] breaks when the underlying distribution is non-stationary, since a shifting mean makes regression predictions invalid"
+  - "[law] misleads by providing a rationale for inaction -- dismissing genuine signals as statistical noise when the extreme measurement reflects real structural change"
 ---
 
 ## Transfers

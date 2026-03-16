@@ -13,6 +13,12 @@ related:
 slug: red-queen-effect
 source_frame: natural-selection
 updated: '2026-03-13'
+transfers:
+  - "[law] predicts that in co-evolutionary systems, continuous adaptation is required merely to maintain current relative fitness, not to advance"
+  - "[law] reframes apparent progress as maintenance -- improvement that matches the competitive environment produces no net gain in position"
+limits:
+  - "[law] breaks when competition is loosely coupled, since many competitive environments do not involve the tight co-evolutionary arms race the model assumes"
+  - "[law] misleads by foreclosing the option of changing the game entirely, since disruption succeeds precisely by refusing the incumbent's race"
 ---
 
 ## Transfers

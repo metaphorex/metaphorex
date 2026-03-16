@@ -16,6 +16,12 @@ related:
 slug: power-laws
 source_frame: probability
 updated: '2026-03-13'
+transfers:
+  - "[law] predicts that in multiplicative-process domains, extreme events are rare but dominate the total, making averages misleading"
+  - "[law] connects the shape of the outcome distribution to its generating mechanism -- a positive feedback loop produces concentration as a structural property"
+limits:
+  - "[law] breaks because many distributions that superficially resemble power laws do not survive rigorous statistical testing"
+  - "[law] misleads by naturalizing extreme concentration as mathematically inevitable, disguising the role of policy and institutional design in shaping distributions"
 ---
 
 ## Transfers

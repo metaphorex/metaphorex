@@ -15,6 +15,12 @@ related:
 slug: latticework-of-mental-models
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[model] derives explanatory power from the connections between models rather than from any individual model's strength"
+  - "[model] requires coverage from multiple disciplines to create a framework that resists failure from any single direction of stress"
+limits:
+  - "[model] breaks because real knowledge requires deep expertise, not shallow acquaintance with many frameworks -- breadth without depth produces the collector's fallacy"
+  - "[model] misleads because the lattice metaphor implies static architecture, while effective reasoning requires constant revision of how models relate to each other"
 ---
 
 ## Transfers

@@ -16,6 +16,12 @@ related:
 slug: mr-market
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - "[model] reframes market prices as emotional episodes of a single counterparty rather than as information signals aggregating collective knowledge"
+  - "[model] removes the felt obligation to transact by making optional participation vivid through a social-roles frame"
+limits:
+  - "[model] breaks because markets aggregate information from millions of independent actors, and dismissing price movements as one person's moods can mean ignoring legitimate warning signals"
+  - "[model] misleads by assuming the investor can reliably distinguish between mood-driven price and intrinsic value, when intrinsic value is itself an uncertain estimate"
 ---
 
 ## Transfers

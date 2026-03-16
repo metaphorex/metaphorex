@@ -16,6 +16,13 @@ related:
 slug: ai-is-a-prosthesis
 source_frame: medicine
 updated: '2026-03-13'
+transfers:
+  - "[source] a prosthesis integrates with the body until the user acts through it rather than thinking about it, driving interface design toward seamless embedding"
+  - "[source] prosthetics presuppose a deficit in the user, framing AI as compensating for a cognitive limitation rather than merely adding convenience"
+  - "[source] dependency on a prosthesis is expected and normalized, reframing cognitive reliance on AI from a concern to a feature"
+limits:
+  - "[source] breaks because prosthetics do not have their own agenda, while AI systems generate novel outputs, refuse requests, and exhibit behaviors their users did not intend"
+  - "[source] misleads because prostheses restore function toward a normative baseline, but AI routinely outperforms unaided human cognition on specific tasks, making it enhancement rather than restoration"
 ---
 
 ## Transfers

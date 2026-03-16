@@ -15,6 +15,13 @@ related:
 slug: ai-is-a-black-box
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] a sealed container reduces interaction to input-output exchange, stripping away all possibility of intermediate inspection"
+  - "[source] opacity is a physical property of the container wall, making inscrutability feel like a fact of nature rather than a design choice"
+  - "[source] trust correlates with visibility -- hidden contents are inherently suspicious, making opacity a moral failing as well as a technical one"
+limits:
+  - "[source] breaks because black boxes in engineering are deliberately sealed as a useful abstraction, while neural network opacity is accidental and the internals are relevant to safety and fairness"
+  - "[source] misleads because the binary open/closed container frame has no vocabulary for partial transparency like attention visualization or mechanistic interpretability"
 ---
 
 ## Transfers

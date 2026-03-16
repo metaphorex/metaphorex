@@ -14,6 +14,13 @@ related:
 - the-map-is-not-the-territory
 slug: incentive-caused-bias
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts that the belief system of an agent will drift toward whatever the reward structure reinforces, independent of evidence"
+  - "[model] operates through cognition rather than behavior alone -- the agent sincerely changes what they believe, not just what they do"
+  - "[model] produces systematic distortion across all individuals sharing the same payoff matrix, making the bias structural rather than personal"
+limits:
+  - "[model] breaks when agents have strong professional identity or ethical commitments that override financial incentives"
+  - "[model] misleads by treating incentive removal as a solution, when incentive structures are often load-bearing and their removal creates different distortions"
 ---
 
 ## Transfers

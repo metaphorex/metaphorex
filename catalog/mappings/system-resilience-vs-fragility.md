@@ -13,6 +13,12 @@ related:
 slug: system-resilience-vs-fragility
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[model] sorts systems along a spectrum from fragile (breaks under stress) through robust (withstands stress unchanged) to antifragile (gains from stress)"
+  - "[model] distinguishes graceful degradation from catastrophic failure as the key design property that determines whether a system can survive unexpected loads"
+limits:
+  - "[model] breaks because some systems should be fragile by design -- fire alarms and circuit breakers are engineered to break under specific conditions as a feature"
+  - "[model] misleads by treating the fragile-robust-antifragile spectrum as a single dimension, when real systems are fragile to some stresses and antifragile to others simultaneously"
 ---
 
 ## Transfers

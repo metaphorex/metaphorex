@@ -15,6 +15,12 @@ related:
 slug: occams-razor
 source_frame: tool-use
 updated: '2026-03-13'
+transfers:
+  - "[model] treats every unnecessary assumption as a liability that increases the probability of error without increasing explanatory power"
+  - "[model] operates as a comparative selector between hypotheses of equal explanatory power, not as an absolute preference for simplicity"
+limits:
+  - "[model] breaks when reality is genuinely complex, since correct explanations can be less parsimonious than incorrect simple ones"
+  - "[model] misleads because 'simplicity' is ill-defined -- fewer variables, fewer parameters, and fewer entity types do not always rank the same way"
 ---
 
 ## Transfers

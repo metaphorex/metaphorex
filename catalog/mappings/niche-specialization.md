@@ -14,6 +14,12 @@ related:
 slug: niche-specialization
 source_frame: natural-selection
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts that two entities competing for the same niche cannot stably coexist -- one will displace the other or both must differentiate"
+  - "[model] links specialization to tradeoff -- deep adaptation to one environment reduces fitness in all others"
+limits:
+  - "[model] breaks because business niches are partly socially constructed and can shift rapidly, unlike ecological niches that emerge from slow-changing physical constraints"
+  - "[model] misleads by implying specialization is the only path to survival, when some of the most successful entities are broad generalists operating at scales where competitive exclusion does not apply"
 ---
 
 ## Transfers

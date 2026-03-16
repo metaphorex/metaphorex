@@ -22,6 +22,13 @@ related:
 slug: actions-are-self-propelled-motions
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - "[source] self-propelled motion makes the agent both mover and moved, mapping volitional agency onto the bodily experience of generating locomotion from within"
+  - "[source] sustained locomotion requires continuous effort, making persistence in action feel like continued walking and quitting feel like stopping"
+  - "[source] starting to move requires overcoming inertia, framing procrastination as a failure to generate the initial force for motion"
+limits:
+  - "[source] breaks because a body moves in one direction at a time, but agents routinely pursue multiple simultaneous actions that the single-trajectory frame cannot represent"
+  - "[source] misleads because passive and receptive actions like listening, waiting, and holding space require real effort but involve no self-propelled motion and become invisible"
 ---
 
 ## Transfers

@@ -16,6 +16,12 @@ related:
 slug: nonlinearity
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts threshold effects where gradual input produces sudden qualitative change once the system crosses a critical point"
+  - "[model] identifies positive feedback loops as the mechanism by which small perturbations amplify into disproportionate outcomes"
+limits:
+  - "[model] breaks because labeling any surprising outcome as 'nonlinear' after the fact explains everything and predicts nothing"
+  - "[model] misleads by importing the mathematical precision of physics into social systems where the functional form and inflection points are unknown"
 ---
 
 ## Transfers

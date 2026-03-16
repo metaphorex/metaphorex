@@ -18,6 +18,13 @@ related:
 slug: ai-is-an-agent
 source_frame: governance
 updated: '2026-03-13'
+transfers:
+  - "[source] an agent operates with delegated authority within a defined scope, choosing methods autonomously while the principal defines the objective"
+  - "[source] agents owe fiduciary duties to their principals -- loyalty, care, and disclosure -- importing a trust framework onto AI delegation"
+  - "[source] accountability flows through the principal-agent chain, providing a vocabulary for answering who is responsible when the system errs"
+limits:
+  - "[source] breaks because legal agents have enforceable fiduciary obligations and face real consequences for exceeding scope, while AI agents have no legal personhood and no accountability mechanism"
+  - "[source] misleads by normalizing autonomous action before trust is earned, since human agency is granted after demonstrated competence while AI 'agent' is a marketing label applied to unproven systems"
 ---
 
 ## Transfers

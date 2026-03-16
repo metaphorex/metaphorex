@@ -16,6 +16,13 @@ related:
 slug: ai-is-a-copilot
 source_frame: aviation
 updated: '2026-03-13'
+transfers:
+  - "[source] the copilot occupies the same workspace and sees the same instruments as the pilot, but command authority is asymmetric and unambiguous"
+  - "[source] copilots handle routine tasks while the pilot handles critical decisions, mapping a natural division of labor based on criticality"
+  - "[source] copilots monitor the pilot and cross-check decisions as a safety function, framing AI review and error detection as an expected crew role"
+limits:
+  - "[source] breaks because real copilots hold the same certifications as the captain and can land the plane independently, importing a baseline competence that AI does not possess"
+  - "[source] misleads because aviation copilots are trained to push back on captain errors through CRM protocols, while AI assistants are designed to be agreeable and defer"
 ---
 
 ## Transfers

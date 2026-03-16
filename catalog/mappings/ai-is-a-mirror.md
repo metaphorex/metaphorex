@@ -15,6 +15,13 @@ related:
 slug: ai-is-a-mirror
 source_frame: vision
 updated: '2026-03-13'
+transfers:
+  - "[source] a mirror reproduces what stands before it without creating or editing, positioning AI outputs as passive reflections of training data and culture"
+  - "[source] when the reflection is ugly the mirror is not blamed, providing a ready-made defense that deflects responsibility from the system to society"
+  - "[source] mirrors reveal what the viewer would rather not see, giving AI outputs a truth-telling quality as cultural diagnostics"
+limits:
+  - "[source] breaks because mirrors reproduce at 1:1 scale while AI selectively amplifies overrepresented patterns, hiding the distortion behind a frame of fidelity"
+  - "[source] misleads because the angle, curvature, and framing of a mirror are design choices by the builder, but the metaphor erases the engineering agency behind training data curation and objective functions"
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: abilities-are-entities-inside-a-person
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - "[source] objects inside a container can be hidden, dormant, or buried, making discovery the key act and education an excavation"
+  - "[source] containers have finite volumetric capacity, mapping cognitive limits onto spatial fullness or emptiness"
+  - "[source] extracting contents requires an outside agent to reach in, framing coaching and teaching as drawing out what was already present"
+limits:
+  - "[source] breaks because abilities are not separable from the person -- the container metaphor creates a duality between you and your talents that privileges innate possession over constructed skill"
+  - "[source] misleads by implying that undiscovered abilities pre-exist their cultivation, when many capacities come into being only through specific developmental experiences"
 ---
 
 ## Transfers

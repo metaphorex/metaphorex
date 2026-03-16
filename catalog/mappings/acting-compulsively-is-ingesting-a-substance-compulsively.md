@@ -17,6 +17,13 @@ related:
 slug: acting-compulsively-is-ingesting-a-substance-compulsively
 source_frame: compulsive-ingestion
 updated: '2026-03-13'
+transfers:
+  - "[source] ingested substances produce tolerance that requires escalating doses to achieve the same effect, mapping onto behavioral escalation over time"
+  - "[source] cessation of ingestion produces withdrawal symptoms, giving the discomfort of stopping a physical rather than merely psychological character"
+  - "[source] the substance shifts agency from the person to the thing consumed, reframing compulsive behavior as something that happens to you rather than something you choose"
+limits:
+  - "[source] breaks for ritualistic or anxiety-driven compulsions like handwashing or lock-checking where nothing is being 'taken in' and the ingestion frame has no purchase"
+  - "[source] misleads by pathologizing ordinary repetition -- 'addicted to video games' imports clinical severity into contexts where it may not apply"
 ---
 
 ## Transfers

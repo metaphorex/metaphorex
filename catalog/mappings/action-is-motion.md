@@ -19,6 +19,13 @@ related:
 slug: action-is-motion
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] motion has direction, making purposeless activity feel like wandering and purposeful activity like traveling toward a destination"
+  - "[source] motion has speed, mapping rate of activity onto velocity so that fast work feels energetic and slow work feels sluggish"
+  - "[source] physical obstacles block motion, externalizing impediments to action as objects in the path rather than properties of the agent"
+limits:
+  - "[source] breaks because stillness is not inaction -- meditation, observation, and deliberation are purposeful activities that involve no motion and become invisible in this frame"
+  - "[source] misleads because the frame privileges linear goal-directed activity and codes cyclical, recursive, or exploratory work as aimless wandering"
 ---
 
 ## Transfers

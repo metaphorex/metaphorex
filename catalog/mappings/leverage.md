@@ -14,6 +14,12 @@ related:
 slug: leverage
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - "[model] amplifies output relative to input symmetrically -- the same mechanism that magnifies gains magnifies losses"
+  - "[model] depends on the fulcrum position, meaning the structural condition enabling amplification matters more than the effort applied"
+limits:
+  - "[model] breaks because physical levers produce deterministic force ratios, while business leverage involves uncertain and context-dependent amplification"
+  - "[model] misleads by drawing attention to the amplification while obscuring the massive upfront cost of building the fulcrum condition"
 ---
 
 ## Transfers

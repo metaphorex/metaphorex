@@ -16,6 +16,12 @@ related:
 slug: man-with-a-hammer
 source_frame: tool-use
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts that a single analytical framework reshapes perception so that the thinker sees only problems matching the tool, not just responses matching it"
+  - "[model] functions as a self-referential meta-model -- the argument for needing multiple models is itself a model about model selection"
+limits:
+  - "[model] breaks when specialization genuinely outperforms generalism, since deep expertise in a narrow domain regularly beats broad but shallow model repertoires"
+  - "[model] misleads by pathologizing all single-framework analysis, when the problem may actually be a nail and the hammer is the correct tool"
 ---
 
 ## Transfers

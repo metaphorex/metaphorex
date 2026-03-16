@@ -18,6 +18,13 @@ related:
 slug: action-is-control-over-possessions
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - "[source] possessions can be gripped firmly or lost, mapping effectiveness onto the tightness of one's hold on resources"
+  - "[source] possessions transfer between owners, framing delegation and succession as handing over objects"
+  - "[source] possession implies inventory -- readiness for action is a matter of having the right items available"
+limits:
+  - "[source] breaks because possession implies exclusive ownership, making collaborative action feel like zero-sum competition for control rather than joint endeavor"
+  - "[source] misleads because loss of possessions triggers loss aversion, making necessary adaptation feel like defeat when the metaphor frames it as dispossession"
 ---
 
 ## Transfers

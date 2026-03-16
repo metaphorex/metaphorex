@@ -16,6 +16,13 @@ related:
 slug: ai-is-an-intern
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - "[source] interns produce work product for every assigned task with inconsistent quality, requiring review before anything ships to production"
+  - "[source] interns are confident beyond their competence, delivering work without awareness of edge cases or conventions they have violated"
+  - "[source] the intern role imports an existing supervision protocol that most professionals already know: assign, review, correct, repeat"
+limits:
+  - "[source] breaks because interns learn and grow -- the intern who errs in June does not repeat the error in August, while an LLM's parameters are fixed and the same category of error recurs"
+  - "[source] misleads because interns have common sense about the physical world and social norms, while AI errors are often alien failures of a fundamentally different kind of processing"
 ---
 
 ## Transfers

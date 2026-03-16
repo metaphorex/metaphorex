@@ -16,6 +16,13 @@ related:
 slug: ai-is-an-iceberg
 source_frame: natural-phenomena
 updated: '2026-03-13'
+transfers:
+  - "[source] roughly 90% of an iceberg's mass is submerged, importing the structural claim that the visible interface represents a tiny fraction of the system's true substance"
+  - "[source] the submerged mass supports the visible portion's stability, framing polished interfaces as dependent on unglamorous infrastructure that degrades invisibly"
+  - "[source] the Titanic struck what it could not see, framing hidden AI costs (biased data, exploited labor, carbon emissions) as the dangerous parts"
+limits:
+  - "[source] breaks because icebergs form through natural geological processes, while AI infrastructure is built by people making deliberate choices about what to hide and what to invest in"
+  - "[source] misleads because icebergs have a sharp waterline while AI infrastructure exists on a gradient of visibility -- some elements are public, some proprietary, some actively concealed"
 ---
 
 ## Transfers

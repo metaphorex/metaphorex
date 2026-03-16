@@ -12,6 +12,12 @@ related: []
 slug: the-map-is-not-the-territory
 source_frame: cartography
 updated: '2026-03-09'
+transfers:
+  - "[model] reframes every representation as lossy by design -- a map is useful precisely because it omits, and a 1:1 map reproduces the territory without aiding navigation"
+  - "[model] replaces the question 'is this model right?' with 'what does this model leave out?' by making omission a structural feature of all abstraction"
+limits:
+  - "[model] breaks when taken to nihilistic extremes, since 'all models are wrong' does not mean all models are equally wrong -- some maps serve their purpose far better than others"
+  - "[model] misleads by enabling weaponized skepticism, where 'that's just a model' becomes a way to dismiss any framework the speaker finds inconvenient"
 ---
 
 ## Transfers

@@ -22,6 +22,13 @@ related:
 slug: a-force-is-a-moving-object
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - "[source] moving objects have trajectory, arriving from a source and following a path through space to a point of impact"
+  - "[source] moving objects can be blocked, deflected, or absorbed by obstacles placed in their path"
+  - "[source] moving objects have momentum proportional to mass and velocity, requiring greater force to stop larger or faster objects"
+limits:
+  - "[source] breaks because forces are interactions between bodies, not third entities traveling between them -- the metaphor reifies force into a substance"
+  - "[source] misleads because continuous sustained forces like gravity have no arrival event, but the moving-object frame imposes an episodic structure of approach-impact-aftermath"
 ---
 
 ## Transfers

@@ -14,6 +14,12 @@ related:
 slug: network-effects
 source_frame: network-communication
 updated: '2026-03-13'
+transfers:
+  - "[model] predicts that the unit of value in a network is the connection between nodes, not the nodes themselves, so value grows faster than membership"
+  - "[model] identifies a critical mass threshold below which growth is effortful and above which it becomes self-sustaining"
+limits:
+  - "[model] breaks because most real networks have local rather than global effects -- a user does not benefit from nodes in distant, irrelevant parts of the network"
+  - "[model] misleads by conflating demand-side network effects with supply-side scale economies and switching costs, which are structurally different mechanisms"
 ---
 
 ## Transfers

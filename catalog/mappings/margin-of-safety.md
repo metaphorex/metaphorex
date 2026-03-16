@@ -15,6 +15,12 @@ related:
 slug: margin-of-safety
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - "[model] compensates for irreducible estimation error by building excess capacity between what is expected and what is designed for"
+  - "[model] protects against the general condition of uncertainty rather than any specific identified risk"
+limits:
+  - "[model] breaks because engineering safety factors are precise ratios, while investment margins rest on estimated intrinsic values that are themselves uncertain"
+  - "[model] misleads by suggesting the margin is static once established, when investment values can deteriorate and eliminate the buffer dynamically"
 ---
 
 ## Transfers

@@ -15,6 +15,12 @@ related:
 - the-map-is-not-the-territory
 slug: principal-agent-problem
 updated: '2026-03-13'
+transfers:
+  - "[model] locates the engine of organizational dysfunction in the information gap between the party who delegates and the party who executes"
+  - "[model] frames monitoring and incentive alignment as rational responses to structural misalignment rather than bureaucratic overhead"
+limits:
+  - "[model] breaks when agents are motivated by professional ethics, intrinsic satisfaction, or identity rather than rational self-interest"
+  - "[model] misleads by implying the principal's interests are always legitimate, when principals can have objectives that are worse for the system than the agent's deviation"
 ---
 
 ## Transfers
