@@ -13,8 +13,8 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const allMappings = await getCollection("mappings");
-const members = allMappings
+const allEntries = await getCollection("entries");
+const members = allEntries
   .filter((m) => m.data.categories.includes(entry.data.slug))
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
 ---
@@ -27,11 +27,11 @@ const members = allMappings
 
     <Content />
 
-    <h2>Mappings ({members.length})</h2>
+    <h2>Entries ({members.length})</h2>
     <ul>
       {members.map((m) => (
         <li>
-          <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+          <a href={`/entries/${m.data.slug}/`}>{m.data.name}</a>
           <span class="tag">{m.data.kind}</span>
         </li>
       ))}

@@ -49,7 +49,7 @@ def gh(*args: str) -> str:
 def catalog_counts() -> dict[str, int]:
     """Count entries in each catalog subdirectory."""
     counts = {}
-    for subdir in ["mappings", "frames", "categories"]:
+    for subdir in ["entries", "frames", "categories"]:
         dir_path = CATALOG_DIR / subdir
         counts[subdir] = len(list(dir_path.glob("*.md")))
     return counts
@@ -62,9 +62,9 @@ def entries_added_on(target_date: date) -> list[str]:
     This avoids duplicates from edits showing up as re-merges.
     """
     slugs = []
-    mappings_dir = CATALOG_DIR / "mappings"
+    entries_dir = CATALOG_DIR / "entries"
     target_str = target_date.isoformat()
-    for md_file in sorted(mappings_dir.glob("*.md")):
+    for md_file in sorted(entries_dir.glob("*.md")):
         post = frontmatter.load(md_file)
         created = str(post.metadata.get("created", ""))
         if created == target_str:
@@ -75,8 +75,8 @@ def entries_added_on(target_date: date) -> list[str]:
 def entries_added_in_range(start: date, end: date) -> list[str]:
     """Get mapping slugs first added in a date range (inclusive)."""
     slugs = []
-    mappings_dir = CATALOG_DIR / "mappings"
-    for md_file in sorted(mappings_dir.glob("*.md")):
+    entries_dir = CATALOG_DIR / "entries"
+    for md_file in sorted(entries_dir.glob("*.md")):
         post = frontmatter.load(md_file)
         created = str(post.metadata.get("created", ""))
         if created and start.isoformat() <= created <= end.isoformat():
@@ -309,7 +309,7 @@ def generate_ops(target_date: date) -> str:
     lines.append("## At a Glance")
     delta = f"vs {yesterday_count} yesterday" if yesterday_count else "first day"
     lines.append(f"- **+{today_count} entries today** ({delta})")
-    lines.append(f"- **{counts['mappings']}** mappings · "
+    lines.append(f"- **{counts['entries']}** entries · "
                  f"**{counts['frames']}** frames · "
                  f"**{counts['categories']}** categories")
     lines.append(f"- **${week_cost:.2f} spent** this week")
@@ -362,14 +362,14 @@ def generate_changelog(target_date: date) -> str:
     lines.append(f"# Week {iso_week}, {iso_year}")
     lines.append("")
     lines.append(f"**{len(new_slugs)} new entries** added this week. "
-                 f"Catalog now has **{counts['mappings']}** mappings, "
+                 f"Catalog now has **{counts['entries']}** entries, "
                  f"{counts['frames']} frames, and {counts['categories']} categories.")
     lines.append("")
 
     if new_slugs:
         lines.append("## New Entries")
         for slug in new_slugs:
-            lines.append(f"- [{slug}](/mappings/{slug}/)")
+            lines.append(f"- [{slug}](/entries/{slug}/)")
         lines.append("")
     else:
         lines.append("No new entries this week.")

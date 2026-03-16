@@ -13,9 +13,9 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const allMappings = await getCollection("mappings");
-const asSource = allMappings.filter((m) => m.data.source_frame === entry.data.slug);
-const asAppliesTo = allMappings.filter((m) => (m.data.applies_to || []).includes(entry.data.slug));
+const allEntries = await getCollection("entries");
+const asSource = allEntries.filter((m) => m.data.source_frame === entry.data.slug);
+const asAppliesTo = allEntries.filter((m) => (m.data.applies_to || []).includes(entry.data.slug));
 ---
 
 <Base title={entry.data.name}>
@@ -34,7 +34,7 @@ const asAppliesTo = allMappings.filter((m) => (m.data.applies_to || []).includes
         <ul>
           {asSource.map((m) => (
             <li>
-              <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+              <a href={`/entries/${m.data.slug}/`}>{m.data.name}</a>
               {m.data.applies_to?.length ? <> &rarr; {m.data.applies_to.join(", ")}</> : ""}
             </li>
           ))}
@@ -49,7 +49,7 @@ const asAppliesTo = allMappings.filter((m) => (m.data.applies_to || []).includes
           {asAppliesTo.map((m) => (
             <li>
               {m.data.source_frame && <>{m.data.source_frame} &rarr; </>}
-              <a href={`/mappings/${m.data.slug}/`}>{m.data.name}</a>
+              <a href={`/entries/${m.data.slug}/`}>{m.data.name}</a>
             </li>
           ))}
         </ul>

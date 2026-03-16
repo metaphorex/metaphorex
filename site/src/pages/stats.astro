@@ -2,19 +2,19 @@
 import Base from "@/layouts/Base.astro";
 import { getCollection } from "astro:content";
 
-const mappings = await getCollection("mappings");
+const entries = await getCollection("entries");
 const frames = await getCollection("frames");
 const categories = await getCollection("categories");
 
 // Breakdown by kind
 const byKind: Record<string, number> = {};
-for (const m of mappings) {
+for (const m of entries) {
   byKind[m.data.kind] = (byKind[m.data.kind] || 0) + 1;
 }
 
 // Breakdown by category
 const byCat: Record<string, number> = {};
-for (const m of mappings) {
+for (const m of entries) {
   for (const c of m.data.categories) {
     byCat[c] = (byCat[c] || 0) + 1;
   }
@@ -23,7 +23,7 @@ const sortedCats = Object.entries(byCat).sort((a, b) => b[1] - a[1]);
 
 // Top source frames
 const sourceCount: Record<string, number> = {};
-for (const m of mappings) {
+for (const m of entries) {
   if (m.data.source_frame) {
     sourceCount[m.data.source_frame] = (sourceCount[m.data.source_frame] || 0) + 1;
   }
@@ -32,7 +32,7 @@ const topSources = Object.entries(sourceCount).sort((a, b) => b[1] - a[1]).slice
 
 // Top applies_to frames
 const appliesToCount: Record<string, number> = {};
-for (const m of mappings) {
+for (const m of entries) {
   for (const t of m.data.applies_to || []) {
     appliesToCount[t] = (appliesToCount[t] || 0) + 1;
   }
@@ -41,7 +41,7 @@ const topAppliesTo = Object.entries(appliesToCount).sort((a, b) => b[1] - a[1]).
 
 // Grounding breakdown
 const byGrounding: Record<string, number> = {};
-for (const m of mappings) {
+for (const m of entries) {
   const g = m.data.grounding || "folk";
   byGrounding[g] = (byGrounding[g] || 0) + 1;
 }
@@ -51,7 +51,7 @@ for (const m of mappings) {
   <article>
     <h1>Corpus Stats</h1>
     <p>
-      <strong>{mappings.length}</strong> mappings &middot;
+      <strong>{entries.length}</strong> entries &middot;
       <strong>{frames.length}</strong> frames &middot;
       <strong>{categories.length}</strong> categories
     </p>
@@ -78,7 +78,7 @@ for (const m of mappings) {
 
     <h2>By Category</h2>
     <table>
-      <thead><tr><th>Category</th><th>Mappings</th></tr></thead>
+      <thead><tr><th>Category</th><th>Entries</th></tr></thead>
       <tbody>
         {sortedCats.map(([cat, count]) => (
           <tr><td><a href={`/categories/${cat}/`}>{cat}</a></td><td>{count}</td></tr>

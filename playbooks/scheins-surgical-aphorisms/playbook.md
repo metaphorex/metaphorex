@@ -27,7 +27,7 @@ are domain-specific clinical advice. The issue's selectivity guidance is
 clear: import only aphorisms that encode reasoning patterns that transfer
 beyond medicine.
 
-**Estimated yield: 20-25 mappings.**
+**Estimated yield: 20-25 entries.**
 
 ### What Makes This Source Distinctive
 
@@ -118,7 +118,7 @@ An aphorism qualifies for the manifest ONLY if it meets ALL of:
 ### For Miners
 
 Each candidate in the manifest has:
-- `slug`: the filename for `catalog/mappings/{slug}.md`
+- `slug`: the filename for `catalog/entries/{slug}.md`
 - `name`: human-readable name
 - `kind`: `conceptual-metaphor`, `dead-metaphor`, or `paradigm`
 - `source_frame`: the medical/surgical domain

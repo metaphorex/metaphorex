@@ -269,7 +269,7 @@ summary covering the entire session:
 ```
 
 Track these metrics incrementally as the session progresses. Keep running
-counters for PRs opened, mappings created, kaizen filed/resolved.
+counters for PRs opened, entries created, kaizen filed/resolved.
 
 ## Stats accounting
 

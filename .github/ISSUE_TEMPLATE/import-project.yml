@@ -31,7 +31,7 @@ body:
     id: scope
     attributes:
       label: Estimated scope
-      description: Rough number of mappings, what kinds, any known candidates
+      description: Rough number of entries, what kinds, any known candidates
     validations:
       required: false
   - type: textarea

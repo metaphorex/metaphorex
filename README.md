@@ -5,8 +5,8 @@ Browse the catalog at [**metaphorex.org**](https://metaphorex.org).
 
 ## What This Is
 
-A catalog of **mappings** — structured analyses of how concepts from one domain
-illuminate another. Each mapping documents what the metaphor brings (the useful
+A catalog of **entries** — structured analyses of how concepts from one domain
+illuminate another. Each entry documents what the metaphor brings (the useful
 structural parallels), where it breaks (the limits and misleading implications),
 and concrete expressions found in the wild.
 
@@ -24,7 +24,7 @@ corpora.
 
 ```
 catalog/               Content
-  mappings/            One markdown file per mapping (the main content)
+  entries/             One markdown file per entry (the main content)
   frames/              Conceptual domains (source and target)
   categories/          Taxonomy labels for cross-cutting classification
 site/                  Astro site powering metaphorex.org
@@ -39,7 +39,7 @@ docs/                  Design documents and plans
 ### Browse
 
 Visit [metaphorex.org](https://metaphorex.org), or read entries directly on
-GitHub in [catalog/mappings/](catalog/mappings/). Each mapping has:
+GitHub in [catalog/entries/](catalog/entries/). Each entry has:
 
 - **What It Brings** — the structural parallels that make it useful
 - **Where It Breaks** — where the metaphor misleads (the most important section)
@@ -80,7 +80,7 @@ start:
   to mine a book, paper, or corpus for metaphors.
 - **Edit an entry** — open a PR improving any catalog content with examples
   from your field, additional references, or sharper analysis.
-- **Write a full entry** — create a mapping markdown file with the required
+- **Write a full entry** — create an entry markdown file with the required
   frontmatter, validate, and open a PR.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines, schema details,

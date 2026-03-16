@@ -2,7 +2,7 @@
 # requires-python = ">=3.11"
 # dependencies = ["python-frontmatter>=1.1.0"]
 # ///
-"""Migrate catalog/mappings/ frontmatter and body sections to schema v2.
+"""Migrate catalog/entries/ frontmatter and body sections to schema v2.
 
 Frontmatter transforms:
   kind: conceptual-metaphor  →  kind: metaphor
@@ -25,7 +25,7 @@ from pathlib import Path
 
 import frontmatter
 
-CATALOG_DIR = Path(__file__).resolve().parent.parent / "catalog" / "mappings"
+CATALOG_DIR = Path(__file__).resolve().parent.parent / "catalog" / "entries"
 
 KIND_MAP = {
     "conceptual-metaphor": "metaphor",
@@ -79,7 +79,7 @@ def migrate_post(post: frontmatter.Post) -> list[str]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Migrate mappings to schema v2")
+    parser = argparse.ArgumentParser(description="Migrate entries to schema v2")
     parser.add_argument(
         "--dry-run",
         action="store_true",

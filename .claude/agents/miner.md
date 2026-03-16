@@ -81,7 +81,7 @@ If invoked without a specific project or issue:
 2. Read the enrichment playbook at `playbooks/catalog-enrichment/playbook.md`
 3. Claim the issue (remove `needs-enrichment`, add `enriching`)
 4. For each slug in the batch:
-   a. Read the existing file from `catalog/mappings/<slug>.md`
+   a. Read the existing file from `catalog/entries/<slug>.md`
    b. Read the body sections (## Transfers, ## Limits) for context about what the entry covers
    c. Generate `transfers:` list — structured propositions using the correct prefix for the entry's kind:
       - `[source]` for metaphor, pattern, archetype
@@ -152,7 +152,7 @@ certainly wrong.
 
 Use the metaphorex-schema skill for the canonical schema. Additionally:
 
-- Read 2-3 seed entries from `catalog/mappings/` to match tone and depth
+- Read 2-3 seed entries from `catalog/entries/` to match tone and depth
 - "Limits" must be substantive — never a throwaway section
 - Expressions must come from real usage, not invented examples
 - Include Origin Story and References when the source provides them

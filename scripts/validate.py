@@ -8,7 +8,7 @@
 
 Usage:
     uv run scripts/validate.py validate          # validate all content
-    uv run scripts/validate.py validate catalog/mappings/ # validate specific dir
+    uv run scripts/validate.py validate catalog/entries/ # validate specific dir
     uv run scripts/validate.py extract            # emit JSON to stdout
 """
 
@@ -23,7 +23,7 @@ import frontmatter
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG_DIR = ROOT / "catalog"
-MAPPINGS_DIR = CATALOG_DIR / "mappings"
+ENTRIES_DIR = CATALOG_DIR / "entries"
 FRAMES_DIR = CATALOG_DIR / "frames"
 CATEGORIES_DIR = CATALOG_DIR / "categories"
 WORKS_DIR = CATALOG_DIR / "works"
@@ -112,12 +112,12 @@ def validate_work(path: Path, work_slugs: set[str], errors: list[str], warnings:
             warnings.append(f"{prefix}: related work '{rel}' not found in works/")
 
 
-def validate_mapping(path: Path, frame_slugs: set[str], category_slugs: set[str],
-                     mapping_slugs: set[str], work_slugs: set[str],
-                     errors: list[str], warnings: list[str]) -> None:
+def validate_entry(path: Path, frame_slugs: set[str], category_slugs: set[str],
+                   entry_slugs: set[str], work_slugs: set[str],
+                   errors: list[str], warnings: list[str]) -> None:
     post = frontmatter.load(path)
     meta = post.metadata
-    prefix = f"catalog/mappings/{path.name}"
+    prefix = f"catalog/entries/{path.name}"
 
     # Check required fields
     for field in REQUIRED_MAPPING_FIELDS:
@@ -178,8 +178,8 @@ def validate_mapping(path: Path, frame_slugs: set[str], category_slugs: set[str]
 
     # Related references (warnings, not errors)
     for rel in meta.get("related", []):
-        if rel not in mapping_slugs:
-            warnings.append(f"{prefix}: related mapping '{rel}' not found in mappings/")
+        if rel not in entry_slugs:
+            warnings.append(f"{prefix}: related entry '{rel}' not found in entries/")
 
     # Required sections
     sections = parse_sections(post.content)
@@ -235,14 +235,14 @@ def validate_category(path: Path, category_slugs: set[str], errors: list[str], w
 def validate(target: str | None = None) -> tuple[list[str], list[str]]:
     frame_slugs = slugs_in(FRAMES_DIR)
     category_slugs = slugs_in(CATEGORIES_DIR)
-    mapping_slugs = slugs_in(MAPPINGS_DIR)
+    entry_slugs = slugs_in(ENTRIES_DIR)
     work_slugs = slugs_in(WORKS_DIR) if WORKS_DIR.exists() else set()
     errors: list[str] = []
     warnings: list[str] = []
 
-    dirs_to_check = {"mappings", "frames", "categories", "works"}
+    dirs_to_check = {"entries", "frames", "categories", "works"}
     if target:
-        # Accept both "mappings" and "catalog/mappings"
+        # Accept both "entries" and "catalog/entries"
         normalized = target.rstrip("/").removeprefix("catalog/")
         dirs_to_check = {normalized}
 
@@ -258,16 +258,16 @@ def validate(target: str | None = None) -> tuple[list[str], list[str]]:
         for f in sorted(CATEGORIES_DIR.glob("*.md")):
             validate_category(f, category_slugs, errors, warnings)
 
-    if "mappings" in dirs_to_check:
-        for f in sorted(MAPPINGS_DIR.glob("*.md")):
-            validate_mapping(f, frame_slugs, category_slugs, mapping_slugs, work_slugs, errors, warnings)
+    if "entries" in dirs_to_check:
+        for f in sorted(ENTRIES_DIR.glob("*.md")):
+            validate_entry(f, frame_slugs, category_slugs, entry_slugs, work_slugs, errors, warnings)
 
     return errors, warnings
 
 
 def extract() -> list[dict]:
     results = []
-    for f in sorted(MAPPINGS_DIR.glob("*.md")):
+    for f in sorted(ENTRIES_DIR.glob("*.md")):
         post = frontmatter.load(f)
         sections = parse_sections(post.content)
         results.append({

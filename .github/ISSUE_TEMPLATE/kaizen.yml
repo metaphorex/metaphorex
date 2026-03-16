@@ -19,7 +19,7 @@ body:
     attributes:
       label: What happened
       description: What friction did you hit? What workaround did you use?
-      placeholder: "Validator rejected a valid mapping because..."
+      placeholder: "Validator rejected a valid entry because..."
     validations:
       required: true
   - type: textarea

@@ -112,7 +112,7 @@ A dead metaphor worth resurrecting must satisfy three criteria:
   the origin, the metaphor isn't dead enough to be interesting to resurrect.
 - **Terms already in the catalog** -- 38 dead-metaphor entries already exist
   (mostly from the sw-eng-vernacular and unix-c-metaphors projects). Check
-  `catalog/mappings/` before adding candidates.
+  `catalog/entries/` before adding candidates.
 
 ### Prioritization (Batch 1)
 

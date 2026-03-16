@@ -15,7 +15,7 @@ Zero warnings, zero errors is the precedent. Fix all issues before merging.
 ## Directory Structure
 
 ```
-catalog/           # Content: mappings/, frames/, categories/
+catalog/           # Content: entries/, frames/, categories/
 playbooks/         # Import project playbooks, scripts, manifests
 site/              # Astro site (metaphorex.org)
 scripts/           # Validation, survey, utilities
@@ -25,7 +25,7 @@ docs/              # Design docs and plans
 
 ## Content Schema
 
-Entries live in `catalog/mappings/<slug>.md` with YAML frontmatter:
+Entries live in `catalog/entries/<slug>.md` with YAML frontmatter:
 
 ```yaml
 slug: argument-is-war          # kebab-case, matches filename
@@ -61,7 +61,7 @@ Categories (`catalog/categories/`) have: slug, name, broader?, related[].
 
 ## Key Conventions
 
-- Slug-based filenames: `catalog/mappings/argument-is-war.md`
+- Slug-based filenames: `catalog/entries/argument-is-war.md`
 - Flat directories (no subdirs until 200+ entries)
 - Entries must include their frames in the same PR (validator enforces)
 - Frames are cheap (create freely), categories are expensive (taxonomy decisions)

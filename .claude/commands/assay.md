@@ -1,9 +1,9 @@
 ---
 name: assay
-description: Review a Miner's mapping PR for quality and correctness
+description: Review a Miner's entry PR for quality and correctness
 ---
 
-Launch the Assayer agent to review a mapping PR.
+Launch the Assayer agent to review an entry PR.
 
 **Usage:** `/assay <pr-url>`
 

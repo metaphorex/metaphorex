@@ -163,7 +163,7 @@ as an active metaphor (nobody thinks about electrical transformers).
 
 ### Distinguishing from existing entries
 
-Check `catalog/mappings/` for overlap. Currently no AI-specific mappings
+Check `catalog/entries/` for overlap. Currently no AI-specific entries
 exist. The general `people-are-machines` mapping is tangentially related
 but covers the opposite direction (applying machine metaphors to humans,
 not human metaphors to machines).

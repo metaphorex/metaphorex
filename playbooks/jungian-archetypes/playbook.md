@@ -96,7 +96,7 @@ Candidates from secondary Jungian literature without a CW essay are tagged
 ### For Miners
 
 Each candidate in the manifest has:
-- `slug`: filename for `catalog/mappings/{slug}.md`
+- `slug`: filename for `catalog/entries/{slug}.md`
 - `name`: human-readable archetype name
 - `kind`: `archetype` (all entries)
 - `source_frame`: `mythology` (all entries -- archetypes originate in

@@ -125,7 +125,7 @@ candidate lists from LLM knowledge. Follow this priority order:
    canonical candidate list
 5. If no archives found: research the source directly, document why no
    archive exists, and flag the candidate list as LLM-sourced
-6. Read seed entries from `catalog/mappings/` to calibrate tone and depth
+6. Read seed entries from `catalog/entries/` to calibrate tone and depth
    (use the metaphorex-schema skill)
 7. For each candidate, determine: slug, name, kind, source_frame,
    applies_to, categories

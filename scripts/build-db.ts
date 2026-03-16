@@ -42,7 +42,7 @@ db.run("INSERT OR REPLACE INTO meta VALUES ('embedding_model', ?)", [MODEL]);
 db.run("INSERT OR REPLACE INTO meta VALUES ('embedding_dimensions', ?)", [String(DIMS)]);
 
 const catalog = await readCatalog();
-console.log(`Read ${catalog.length} mappings from catalog`);
+console.log(`Read ${catalog.length} entries from catalog`);
 
 // Collect all text units
 interface TextUnit {
