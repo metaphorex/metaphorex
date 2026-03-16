@@ -233,6 +233,41 @@ Add enrichment-specific quality checks:
 
 ## 5. Implementation Tasks
 
+### Task 0: Terminology rename — "mappings" → "entries"
+
+**What:** The term "mapping" no longer fits the full 5-kind taxonomy. A mental
+model doesn't "map" anything; a razor doesn't have a source→target transfer.
+Rename the user-facing term from "mapping" to "entry" across all prose,
+agent prompts, skill files, CONTRIBUTING.md, CLAUDE.md, and the site.
+
+The `catalog/mappings/` directory stays as-is (renaming it would break every
+agent, script, and link). The frontmatter field names stay. Only the
+*conceptual term* used in prose, agent instructions, and UI changes.
+
+**Who:** Human (mechanical find-and-replace + editorial review)
+**Files:**
+- `CONTRIBUTING.md` — replace "mapping" / "mappings" with "entry" / "entries" in prose
+- `CLAUDE.md` — same
+- `.claude/skills/metaphorex-schema/SKILL.md` — same
+- `.claude/agents/miner.md` — same
+- `.claude/agents/assayer.md` — same
+- `.claude/agents/smelter.md` — same
+- `.claude/agents/prospector.md` — same
+- `.claude/agents/surveyor.md` — same
+- `site/` — any user-facing copy
+
+**Caution:** Don't rename:
+- `catalog/mappings/` directory
+- Frontmatter field names (`mapping_slugs`, etc.)
+- The `validate_mapping()` function name in `validate.py`
+- The term "mapping" when it refers to the *conceptual metaphor relationship*
+  (source→target mapping), not the content type
+
+**Acceptance criteria:**
+- grep for `\bmapping\b` in prose files returns only structural/relational uses
+- Agent prompts say "entry" / "entries" when referring to catalog content
+- `catalog/mappings/` directory unchanged
+
 ### Task 1: Create enrichment labels
 
 **What:** Add `needs-enrichment` and `enriching` labels to the repo.
