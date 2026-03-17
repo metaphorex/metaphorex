@@ -91,8 +91,21 @@ If invoked without a specific project or issue:
    d. Generate `limits:` list — same prefix conventions
    e. Each proposition must pass three tests: independence (true of source domain), discrimination (false of 2+ similar domains), relational (not attributive)
    f. Meet min counts: 3 transfers for metaphor/pattern/archetype, 2 for paradigm/mental-model; 2 limits for all kinds
-   g. Insert `transfers:` and `limits:` into the YAML frontmatter
-   h. Do NOT alter any existing body text or other frontmatter fields
+   g. Insert `transfers:` and `limits:` into the YAML frontmatter.
+      **YAML quoting rule:** Use single-quoted strings for all proposition
+      values. Single quotes prevent nested-double-quote breakage. If a
+      proposition contains an apostrophe, double it (`''`). Example:
+      ```yaml
+      transfers:
+        - '[source] Attacks can be "repelled" or "deflected"'
+        - '[source] A speaker''s position is a territory to hold'
+      ```
+   h. After inserting frontmatter, verify YAML parses cleanly:
+      ```bash
+      python3 -c "import yaml; yaml.safe_load(open('<filepath>'))"
+      ```
+      If it fails, fix the quoting before moving to the next entry.
+   i. Do NOT alter any existing body text or other frontmatter fields
 5. If an entry already has `transfers`/`limits`, skip it
 6. If an entry's body is too thin for good propositions, note the slug in a comment on the batch sub-issue rather than generating bad propositions
 7. Run `uv run scripts/validate.py validate` — zero errors required
