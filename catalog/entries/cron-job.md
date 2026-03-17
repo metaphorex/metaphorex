@@ -14,6 +14,7 @@ contributors:
 related: []
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: established
 transfers:
   - "[source] a job is a discrete unit of work assigned to a worker, with a defined start, execution, and completion"

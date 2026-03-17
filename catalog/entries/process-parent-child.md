@@ -17,6 +17,7 @@ related:
 - orphan-process
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: established
 transfers:
   - "[source] a parent produces offspring that inherit traits, resources, and identity from their lineage"

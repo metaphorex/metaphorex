@@ -14,6 +14,7 @@ contributors:
 related: []
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: established
 transfers:
   - "[source] a driver is an agent with specialized knowledge who operates a vehicle or machine on behalf of passengers who lack that expertise"

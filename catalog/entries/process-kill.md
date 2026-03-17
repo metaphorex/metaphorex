@@ -17,6 +17,7 @@ related:
 - process-parent-child
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: established
 transfers:
   - "[source] killing is an irreversible act that ends a living entity's autonomous existence"

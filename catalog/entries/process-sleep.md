@@ -16,6 +16,7 @@ related:
 - process-parent-child
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: established
 transfers:
   - "[source] a sleeping organism is alive but unconscious, unresponsive to ordinary stimuli until a set duration elapses or an interruption occurs"
