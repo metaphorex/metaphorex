@@ -14,6 +14,7 @@ contributors: []
 related: []
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 transfers:
   - "[source] a split tally stick creates two unique halves that must physically rejoin to verify a debt, mapping onto financial instruments that pair a creditor's record with a debtor's obligation"
   - "[source] the stock (larger half) is held by the creditor as proof of the debt, mapping onto equity certificates held by investors as proof of ownership"

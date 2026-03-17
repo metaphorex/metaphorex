@@ -13,6 +13,7 @@ contributors: []
 related: []
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 transfers:
   - "[source] seeds are scattered widely by hand across a field without selecting individual landing spots, mapping onto signals or messages distributed to all receivers without choosing specific recipients"
   - "[source] the sower walks a path and casts outward in arcs, covering ground systematically but imprecisely, mapping onto transmitters radiating in patterns that blanket a geographic area"

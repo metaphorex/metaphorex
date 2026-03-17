@@ -14,6 +14,7 @@ contributors: []
 related: []
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 transfers:
   - "[source] a neutral third party holds the wagered stakes until the outcome is decided, mapping onto organizational actors who hold interest in a venture whose outcome is uncertain"
   - "[source] every gambler who places a stake has something to lose, mapping onto the assumption that legitimate organizational participants must have something at risk"

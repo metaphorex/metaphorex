@@ -14,6 +14,7 @@ contributors: []
 related: []
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 transfers:
   - "[source] physical ribbon binds documents together and must be untied before any paper can be accessed, mapping onto procedural requirements that must be completed before action can be taken"
   - "[source] the red color of the binding tape marks documents as official government or legal records, distinguishing them from ordinary papers, mapping onto the idea that bureaucratic procedures signal institutional authority"

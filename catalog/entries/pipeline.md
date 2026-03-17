@@ -16,6 +16,7 @@ related:
   - bottleneck
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 transfers:
   - "[source] fluid flows through a pipe in one direction from source to destination, with each section carrying the same material forward, mapping onto sequential stages that move items (deals, candidates, code) from start to finish"
   - "[source] a pipe has fixed capacity determined by its diameter, and exceeding that capacity causes pressure buildup or rupture, mapping onto process stages with throughput limits that create backlogs when overloaded"
