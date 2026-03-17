@@ -16,6 +16,7 @@ related:
   - orphan-process
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: folk
 transfers:
   - "[source] a signal interrupts the recipient's current activity to demand immediate attention, like a tap on the shoulder"

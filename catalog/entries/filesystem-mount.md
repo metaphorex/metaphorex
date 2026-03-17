@@ -16,6 +16,7 @@ related:
   - filesystem-root
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: folk
 transfers:
   - "[source] mounting attaches a separate object to a fixed frame, making it accessible as part of the larger assembly"

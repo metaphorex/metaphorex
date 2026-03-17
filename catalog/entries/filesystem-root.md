@@ -16,6 +16,7 @@ related:
   - kernel
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: folk
 transfers:
   - "[source] a root anchors the tree and is the origin point from which all branches grow outward"

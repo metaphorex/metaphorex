@@ -16,6 +16,7 @@ related:
   - filesystem-tree
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: folk
 transfers:
   - "[source] access is granted or withheld by an owner according to a three-tier social hierarchy of owner, group, and others"

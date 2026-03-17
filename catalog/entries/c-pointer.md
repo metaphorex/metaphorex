@@ -15,6 +15,7 @@ related:
   - data-flow-is-fluid-flow
 created: '2026-03-17'
 updated: '2026-03-17'
+harness: Claude Code
 grounding: folk
 transfers:
   - "[source] pointing selects a target by indicating its location rather than holding the target itself -- indirection as a spatial gesture"
