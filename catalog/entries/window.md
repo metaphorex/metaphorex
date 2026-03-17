@@ -5,13 +5,15 @@ categories:
 contributors: []
 created: '2026-03-15'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Window
 related:
 - companion
 slug: window
 source_frame: embodied-experience
-target_frame: architecture-and-building
+applies_to:
+- architecture-and-building
 updated: '2026-03-15'
 ---
 

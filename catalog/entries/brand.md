@@ -6,14 +6,16 @@ categories:
 contributors: []
 created: '2026-03-15'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Brand
 related:
 - capital
 - salary
 slug: brand
 source_frame: animal-husbandry
-target_frame: economics
+applies_to:
+- economics
 updated: '2026-03-15'
 ---
 

@@ -6,13 +6,15 @@ categories:
 contributors: []
 created: '2026-03-15'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Companion
 related:
 - salary
 slug: companion
 source_frame: food-and-cooking
-target_frame: social-behavior
+applies_to:
+- social-behavior
 updated: '2026-03-15'
 ---
 
