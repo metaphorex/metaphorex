@@ -57,24 +57,37 @@ jobs:
             echo "catalog_only=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Update PR branch
+      - name: Checkout and validate
         if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ steps.find.outputs.pr }}
-        run: |
-          # Update the PR branch so the validate check runs against latest main.
-          # This is required because branch protection needs a fresh check result.
-          gh pr update-branch "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" || echo "Branch already up to date"
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
-      - name: Enable auto-merge
+      - name: Merge PR
         if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ steps.find.outputs.pr }}
         run: |
-          # Enable auto-merge — it will merge once the validate check passes
-          # on the updated branch. When it merges, the push trigger re-fires
-          # this workflow for the next approved PR, creating a merge chain.
-          gh pr merge "$PR_NUMBER" --squash --auto --repo "$GITHUB_REPOSITORY"
-          echo "Auto-merge enabled for PR #$PR_NUMBER"
+          # Fetch the PR branch and validate content before merging.
+          # We run validate ourselves since gh pr update-branch doesn't
+          # trigger pull_request events (GitHub API limitation).
+          BRANCH=$(gh pr view "$PR_NUMBER" --json headRefName --jq .headRefName --repo "$GITHUB_REPOSITORY")
+          git fetch origin "$BRANCH"
+          git checkout -b "pr-$PR_NUMBER" "origin/$BRANCH"
+          git merge origin/main --no-edit || {
+            echo "Merge conflict on PR #$PR_NUMBER — skipping"
+            exit 0
+          }
+
+          # Run validator on the merged state
+          pip install -q pyyaml 2>/dev/null
+          if python3 scripts/validate.py validate 2>&1 | grep -q "ERROR"; then
+            echo "Validation errors on PR #$PR_NUMBER — skipping"
+            exit 0
+          fi
+
+          # All clear — squash merge
+          gh pr merge "$PR_NUMBER" --squash --admin --repo "$GITHUB_REPOSITORY"
+          echo "Merged PR #$PR_NUMBER"
