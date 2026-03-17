@@ -1,6 +1,4 @@
 ---
-applies_to:
-- language
 author: agent:metaphorex-miner
 categories:
 - philosophy
@@ -8,21 +6,20 @@ categories:
 contributors: []
 created: '2026-03-17'
 harness: Claude Code
-kind: paradigm
+kind: mental-model
 name: Idols of the Marketplace
 related:
 - idols-of-the-tribe
 - idols-of-the-cave
 - honeybee-is-ideal-scientist
 slug: idols-of-the-marketplace
-source_frame: economics
 transfers:
-  - "[paradigm] words are exchanged like currency in a marketplace, and like debased currency they can circulate widely while representing less value (precision) than their face suggests"
-  - "[paradigm] the marketplace enforces conformity on its participants: to trade you must use the common coin, meaning thinkers must use shared vocabulary even when that vocabulary distorts what they are trying to say"
-  - "[paradigm] the paradigm holds that language is not a transparent medium for thought but an active distorter of it, positioning linguistic reform as a prerequisite for intellectual progress"
+  - "[model] words are exchanged like currency in a marketplace, and like debased currency they can circulate widely while representing less value (precision) than their face suggests"
+  - "[model] the marketplace enforces conformity on its participants: to trade you must use the common coin, meaning thinkers must use shared vocabulary even when that vocabulary distorts what they are trying to say"
+  - "[model] the paradigm holds that language is not a transparent medium for thought but an active distorter of it, positioning linguistic reform as a prerequisite for intellectual progress"
 limits:
-  - "[paradigm] breaks because the marketplace metaphor implies language is merely instrumental (a medium of exchange), while language also constitutes thought -- Wittgenstein's 'the limits of my language mean the limits of my world' goes further than Bacon's corrective framing"
-  - "[paradigm] misleads because it implies that linguistic distortion can be fixed by choosing better words, when in practice the 'better' words carry their own distortions -- there is no non-metaphorical language to retreat to"
+  - "[model] breaks because the marketplace metaphor implies language is merely instrumental (a medium of exchange), while language also constitutes thought -- Wittgenstein's 'the limits of my language mean the limits of my world' goes further than Bacon's corrective framing"
+  - "[model] misleads because it implies that linguistic distortion can be fixed by choosing better words, when in practice the 'better' words carry their own distortions -- there is no non-metaphorical language to retreat to"
 updated: '2026-03-17'
 ---
 
