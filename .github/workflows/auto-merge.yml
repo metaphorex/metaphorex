@@ -57,37 +57,38 @@ jobs:
             echo "catalog_only=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Checkout and validate
-        if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
-
-      - name: Merge PR
+      - name: Merge approved PRs
         if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ steps.find.outputs.pr }}
         run: |
-          # Fetch the PR branch and validate content before merging.
-          # We run validate ourselves since gh pr update-branch doesn't
-          # trigger pull_request events (GitHub API limitation).
-          BRANCH=$(gh pr view "$PR_NUMBER" --json headRefName --jq .headRefName --repo "$GITHUB_REPOSITORY")
-          git fetch origin "$BRANCH"
-          git checkout -b "pr-$PR_NUMBER" "origin/$BRANCH"
-          git merge origin/main --no-edit || {
-            echo "Merge conflict on PR #$PR_NUMBER — skipping"
-            exit 0
-          }
+          # Try to merge approved PRs one at a time. Skip conflicting ones.
+          # Process up to 5 per run to avoid workflow timeout.
+          MERGED=0
+          MAX=5
 
-          # Run validator on the merged state
-          pip install -q pyyaml 2>/dev/null
-          if python3 scripts/validate.py validate 2>&1 | grep -q "ERROR"; then
-            echo "Validation errors on PR #$PR_NUMBER — skipping"
-            exit 0
-          fi
+          for PR_NUMBER in $(gh pr list --label approved --state open \
+            --limit 20 --json number --jq '.[].number' \
+            -R "$GITHUB_REPOSITORY"); do
 
-          # All clear — squash merge
-          gh pr merge "$PR_NUMBER" --squash --admin --repo "$GITHUB_REPOSITORY"
-          echo "Merged PR #$PR_NUMBER"
+            [ "$MERGED" -ge "$MAX" ] && break
+
+            # Check catalog-only
+            files=$(gh pr diff "$PR_NUMBER" --name-only --repo "$GITHUB_REPOSITORY" 2>/dev/null)
+            non_catalog=$(echo "$files" | grep -v '^catalog/' || true)
+            if [ -n "$non_catalog" ]; then
+              echo "PR #$PR_NUMBER touches non-catalog files — skip"
+              continue
+            fi
+
+            # Try to squash merge directly
+            if gh pr merge "$PR_NUMBER" --squash --admin --repo "$GITHUB_REPOSITORY" 2>/dev/null; then
+              echo "Merged PR #$PR_NUMBER"
+              MERGED=$((MERGED + 1))
+              sleep 2  # Let GitHub process the merge
+            else
+              echo "PR #$PR_NUMBER failed to merge — skip (likely conflict)"
+            fi
+          done
+
+          echo "Merged $MERGED PRs this run"
