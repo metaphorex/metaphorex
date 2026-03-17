@@ -41,7 +41,7 @@ transform raw mining output into clean, validated content.
 
 1. Find PRs labeled `needs-smelting` (up to 2 per invocation)
 2. Run mechanical checks and push fixup commits
-3. Advance PRs to `ready-for-assay` or flag as `needs-miner-fix`
+3. Advance PRs to `needs-assay` or flag as `needs-miner-fix`
 
 **Process:**
 
@@ -61,7 +61,7 @@ transform raw mining output into clean, validated content.
       for every sub-issue in the batch
    f. Run `uv run scripts/validate.py validate`
    g. If issues found: push fixup commits to the PR branch
-   h. If all fixed: remove `smelting`, add `ready-for-assay`
+   h. If all fixed: remove `smelting`, add `needs-assay`
    i. If unfixable (e.g., missing frame that doesn't exist, broken entry
       structure): remove `smelting`, add `needs-miner-fix`, post comment
       explaining the specific error
