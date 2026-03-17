@@ -1,0 +1,174 @@
+{
+  "project": "security-threat-modeling",
+  "project_issue": 1400,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://openguard.sh/blog/prompt-injections/",
+    "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+    "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+    "https://www.osti.gov/servlets/purl/947345",
+    "https://link.springer.com/article/10.1007/s13347-020-00397-5"
+  ],
+  "excluded": [
+    {
+      "slug": "firewall",
+      "reason": "Already in catalog as kind: metaphor, source_frame: architecture-and-building"
+    },
+    {
+      "slug": "ai-safety-is-containment",
+      "reason": "Already in catalog as kind: metaphor, source_frame: containers"
+    },
+    {
+      "slug": "guardrails",
+      "reason": "Already in catalog as kind: metaphor"
+    },
+    {
+      "slug": "jailbreaking",
+      "reason": "Already in catalog as kind: metaphor"
+    },
+    {
+      "slug": "buffer-overflow",
+      "reason": "Already in catalog as kind: metaphor, source_frame: fluid-dynamics"
+    },
+    {
+      "slug": "trojan-horse",
+      "reason": "Already in catalog as kind: metaphor. Issue listed it as candidate but entry exists (created 2026-03-16)."
+    },
+    {
+      "slug": "computer-virus-is-biological-infection",
+      "reason": "Already in catalog as kind: metaphor, source_frame: contagion. Created 2026-03-17."
+    }
+  ],
+  "candidates": [
+    {
+      "slug": "risk-is-a-triangle",
+      "name": "Risk Is A Triangle",
+      "kind": "cross-field-mapping",
+      "source_frame": "fire-safety",
+      "target_frame": "combinatorial-risk",
+      "categories": ["systems-thinking", "security"],
+      "source": "archive",
+      "description": "The 'necessary conditions' pattern: N independent conditions, individually manageable, dangerous only in combination. Fire triangle (heat+fuel+oxygen), fraud triangle (pressure+opportunity+rationalization), epidemiological triad, lethal trifecta all share this structure. Mitigation is subtraction: remove one side, break the chain. The fire triangle evolved to tetrahedron (adding chemical chain reaction); the pattern may continue to grow."
+    },
+    {
+      "slug": "lethal-trifecta",
+      "name": "Lethal Trifecta",
+      "kind": "paradigm",
+      "source_frame": "fire-safety",
+      "target_frame": "agent-security",
+      "categories": ["ai-discourse", "security"],
+      "source": "archive",
+      "description": "Willison (2025): private data + untrusted content + external communication. Structurally isomorphic to fire triangle -- fuel/heat/oxygen maps to data/injection-vector/exfiltration-channel. Named after the horse racing term (triple crown of misfortune). Each element is individually safe; the combination is exploitable. Security reduces to eliminating one leg."
+    },
+    {
+      "slug": "confused-deputy",
+      "name": "Confused Deputy",
+      "kind": "paradigm",
+      "source_frame": "authority-and-delegation",
+      "target_frame": "agent-security",
+      "categories": ["computer-science", "security"],
+      "source": "archive",
+      "description": "Norm Hardy (1988). An authorized entity is tricked into misusing its authority on behalf of an attacker. The Clinejection case: developers authorize Tool A (Cline), compromise silently delegates authority to Tool B (OpenClaw). The recursion problem in supply chains. Originally an OS capability-system concept, now central to agent security."
+    },
+    {
+      "slug": "source-and-sink-analysis",
+      "name": "Source And Sink Analysis",
+      "kind": "paradigm",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "security-analysis",
+      "categories": ["computer-science", "security"],
+      "source": "archive",
+      "description": "Map untrusted inputs (sources) to dangerous outputs (sinks). From OpenGuard: 'If you have not drawn both maps, you do not know where your prompt-injection risk is.' Borrowed from taint analysis in compilers and data-flow analysis in static analysis. The fluid-dynamics metaphor structures security analysis as flow control: track where contaminated data enters and where it can exit."
+    },
+    {
+      "slug": "attack-surface",
+      "name": "Attack Surface",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "security-analysis",
+      "categories": ["security", "software-engineering"],
+      "source": "archive",
+      "description": "Spatial/geometric: every exposed interface is terrain the adversary can probe. OpenGuard documents how browser agents dramatically expand the attack surface -- 'every webpage, embedded advertisement, and dynamically loaded script.' The metaphor makes risk feel measurable (area) but hides that not all surface is equally vulnerable. Dead enough that practitioners rarely think about warfare."
+    },
+    {
+      "slug": "supply-chain-attack",
+      "name": "Supply Chain Attack",
+      "kind": "metaphor",
+      "source_frame": "logistics",
+      "target_frame": "security-analysis",
+      "categories": ["security", "software-engineering"],
+      "source": "archive",
+      "description": "The Clinejection case: compromising upstream npm package to reach 4,000 downstream machines. The chain metaphor structures transitive trust -- each link trusts the one before it, a single compromised link poisons everything downstream. Imports the logistics assumption that chains are linear and inspectable; real dependency graphs are not."
+    },
+    {
+      "slug": "defense-in-depth",
+      "name": "Defense In Depth",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "security-analysis",
+      "categories": ["security", "systems-thinking"],
+      "source": "archive",
+      "description": "Military doctrine (Clausewitz, WWI trench systems) applied to layered security controls. No single layer is sufficient. OpenGuard's 7-part baseline is defense-in-depth applied to agent security. Breaks when layers share assumptions or when the metaphor suggests depth alone (rather than diversity of defense type) is sufficient."
+    },
+    {
+      "slug": "zero-trust",
+      "name": "Zero Trust",
+      "kind": "metaphor",
+      "source_frame": "social-dynamics",
+      "target_frame": "network-security",
+      "categories": ["security", "organizational-behavior"],
+      "source": "archive",
+      "description": "Explicit rejection of the firewall/perimeter metaphor. 'Never trust, always verify.' Kindervag (2010). OpenGuard predicts permissions moving toward cloud IAM patterns with per-session credentials. Imports paranoia as an architectural principle. Breaks when the metaphor suggests trust is binary rather than contextual."
+    },
+    {
+      "slug": "blast-radius",
+      "name": "Blast Radius",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "security-analysis",
+      "categories": ["security", "systems-thinking"],
+      "source": "archive",
+      "description": "Scope of damage from a single compromise. The Clinejection attack's blast radius was not one machine but the entire publication pipeline. Spatial metaphor for impact assessment. Imports the assumption that damage attenuates with distance -- in software, it often does not. Used in both security and cloud architecture (failure domain sizing)."
+    },
+    {
+      "slug": "poison-pill",
+      "name": "Poison Pill",
+      "kind": "metaphor",
+      "source_frame": "toxicology",
+      "target_frame": "security-analysis",
+      "categories": ["security", "computer-science"],
+      "source": "archive",
+      "description": "Memory poisoning, cache poisoning, data poisoning -- all use the toxicology frame. OpenGuard documents memory poisoning achieving 'above 95% injection success.' Small contamination, large effect. The Clinejection article describes cache poisoning flooding 10GB+ of junk data. Imports dose-response thinking from pharmacology."
+    },
+    {
+      "slug": "prompt-injection",
+      "name": "Prompt Injection",
+      "kind": "metaphor",
+      "source_frame": "medicine",
+      "target_frame": "agent-security",
+      "categories": ["security", "ai-discourse"],
+      "source": "archive",
+      "description": "Willison named it after SQL injection (2022), which itself borrows the medical/syringe metaphor: foreign material injected into a trusted stream. OpenGuard calls it 'the most critical agent security threat.' The injection metaphor imports the assumption of a boundary between self and non-self that can be violated -- the same structure as biological infection."
+    },
+    {
+      "slug": "security-is-an-immune-system",
+      "name": "Security Is An Immune System",
+      "kind": "metaphor",
+      "source_frame": "biology",
+      "target_frame": "security-analysis",
+      "categories": ["security", "systems-thinking"],
+      "source": "archive",
+      "description": "Adaptive defense, not static walls. Detect-and-respond vs. prevent-and-block. The alternative to the firewall/perimeter model. OpenGuard's 'fast feedback loops' recommendation maps to immune-system thinking: monitoring, pattern recognition, adaptive response. Breaks when it implies security systems can learn with the same generality as immune systems. Documented in Sandia CyberFest (2008) as a major metaphor family."
+    },
+    {
+      "slug": "permissions-are-keys",
+      "name": "Permissions Are Keys",
+      "kind": "metaphor",
+      "source_frame": "physical-security",
+      "target_frame": "access-control",
+      "categories": ["security", "computer-science"],
+      "source": "archive",
+      "description": "Keys, keychains, key rotation, master keys, key escrow, revocation. OpenGuard discusses per-session credentials replacing long-lived API tokens -- moving from master keys to single-use keys. Clinejection shows what happens when keys (NPM_RELEASE_TOKEN, VSCE_PAT) are stolen. The metaphor is so dead that 'key' in computing rarely triggers the physical source domain."
+    }
+  ]
+}
