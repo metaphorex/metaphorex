@@ -22,6 +22,9 @@ transfers:
 limits:
   - "[source] breaks because counterfactual reasoning does not require a protagonist, and inserting a traveler introduces observer effects and narrative stakes absent from logical analysis"
   - "[source] misleads because it assumes single interventions and reversibility, when real counterfactual analysis often involves multiple simultaneous changes and irreversible consequences"
+  - "[source] biases toward individual-agency explanations by placing a single traveler at a single decision point, obscuring structural and overdetermined historical causes"
+  - "[source] represents causation as a linear river flowing forward through a timeline, hiding feedback loops, emergent properties, and overdetermined outcomes"
+  - "[source] treats the past as a fully specified, determinate state that can be visited and observed, obscuring that historical knowledge is incomplete, contested, and constructed"
 ---
 
 ## Transfers

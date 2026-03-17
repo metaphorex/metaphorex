@@ -23,6 +23,9 @@ transfers:
 limits:
   - "[source] breaks because moral evaluation is interpretive and contextual, not a binary condition that can be simply inspected like physical dirt"
   - "[source] misleads because small misconduct can disqualify valid claims, creating disproportionate outcomes that ignore proportionality between plaintiff and defendant conduct"
+  - "[source] asymmetric contamination logic means a single drop of wrongdoing can void an otherwise valid claim, importing purity's all-or-nothing threshold where proportionality is needed"
+  - "[source] the washing metaphor trivializes moral rehabilitation -- handwashing is quick and complete, but genuine behavioral change is uncertain, partial, and unverifiable"
+  - "[source] places the stain on individual hands while obscuring systemic or institutional conditions that shaped the conduct being judged"
 ---
 
 ## Transfers
