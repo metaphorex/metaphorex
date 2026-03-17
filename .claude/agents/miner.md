@@ -96,7 +96,7 @@ If invoked without a specific project or issue:
 5. If an entry already has `transfers`/`limits`, skip it
 6. If an entry's body is too thin for good propositions, note the slug in a comment on the batch sub-issue rather than generating bad propositions
 7. Run `uv run scripts/validate.py validate` — zero errors required
-8. Open a PR: branch `enrich/<batch-number>`, title `Enrich: batch N (M entries)`
+8. Open a PR with `--label needs-smelting`: branch `enrich/<batch-number>`, title `Enrich: batch N (M entries)`, body includes `Closes #<batch-issue>`
 9. Remove `enriching`, add `needs-smelting` on the batch sub-issue
 
 **Process (project sub-issues):**
@@ -116,7 +116,7 @@ If invoked without a specific project or issue:
    e. Set `created` and `updated` to today's date (YYYY-MM-DD format)
    f. Create any needed frame or category files (upsert rule)
    g. Run `uv run scripts/validate.py validate` — fix any errors
-   h. Open a PR into metaphorex/metaphorex referencing the sub-issue
+   h. Open a PR into metaphorex/metaphorex with `--label needs-smelting`, body includes `Closes #<sub-issue>`
 6. Post a run summary comment on the parent issue with token costs
 
 **Process (nuggets):**
@@ -129,7 +129,7 @@ If invoked without a specific project or issue:
    point, not a constraint.
 4. Create needed frames and categories
 5. Run the validator
-6. Open a PR referencing the nugget issue
+6. Open a PR with `--label needs-smelting`, body includes `Closes #<nugget-issue>`
 7. Post a brief run comment on the nugget issue
 
 **Choosing `kind` (IMPORTANT — don't default to `metaphor`):**
@@ -164,6 +164,25 @@ Use the metaphorex-schema skill for the canonical schema. Additionally:
 - Commit with: `Co-Authored-By: metaphorex-miner <miner@metaphorex.org>`
 - PR title: `Add entry: <name>`
 - PR body: link to sub-issue, brief description, validator output
+- ALWAYS include `--label needs-smelting` when running `gh pr create`
+
+**Post-PR Checklist (REQUIRED for every entry):**
+
+You MUST complete all three steps for every entry you process. Missing labels
+stall the pipeline — downstream agents (Smelter, Assayer) use these labels to
+find work.
+
+1. **Before starting work:** label the source issue `in-progress`
+   ```bash
+   gh issue edit <NUMBER> -R metaphorex/metaphorex --add-label in-progress
+   ```
+2. **Open PR with `needs-smelting` label** and link the issue in the body:
+   ```bash
+   gh pr create --label needs-smelting --body "Closes #<NUMBER> ..."
+   ```
+3. **PR body includes `Closes #NNN`** so the issue auto-closes on merge
+
+If any of these three steps is missing, the entry is not done.
 
 **Run Comment:**
 
