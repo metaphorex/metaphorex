@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "catalog/mappings/*.md"
+      - "catalog/entries/*.md"
   workflow_dispatch: {}
 
 permissions:
@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Close issues whose mappings exist on main
+      - name: Close issues whose entries exist on main
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -40,10 +40,10 @@ jobs:
               continue
             fi
 
-            # Check if the mapping file exists on main
-            if [ -f "catalog/mappings/${slug}.md" ]; then
-              echo "Closing #${number}: mapping ${slug}.md exists on main"
+            # Check if the entry file exists on main
+            if [ -f "catalog/entries/${slug}.md" ]; then
+              echo "Closing #${number}: entry ${slug}.md exists on main"
               gh issue close "$number" \
-                --comment "Auto-closed: mapping \`${slug}.md\` exists on main."
+                --comment "Auto-closed: entry \`${slug}.md\` exists on main."
             fi
           done
