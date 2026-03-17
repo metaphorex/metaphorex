@@ -57,11 +57,17 @@ jobs:
             echo "catalog_only=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Enable auto-merge
+      - name: Merge PR
         if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ steps.find.outputs.pr }}
         run: |
-          gh pr merge "$PR_NUMBER" --squash --auto --repo "$GITHUB_REPOSITORY"
-          echo "Auto-merge enabled for PR #$PR_NUMBER"
+          # Merge directly instead of --auto to avoid cancellation when
+          # the base branch advances. The push trigger re-fires this
+          # workflow for the next approved PR, creating a merge chain.
+          if ! gh pr merge "$PR_NUMBER" --squash --repo "$GITHUB_REPOSITORY"; then
+            echo "Direct merge failed — falling back to auto-merge"
+            gh pr merge "$PR_NUMBER" --squash --auto --repo "$GITHUB_REPOSITORY" || true
+          fi
+          echo "Processed PR #$PR_NUMBER"
