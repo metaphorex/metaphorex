@@ -1,0 +1,335 @@
+{
+  "project": "tps-deming",
+  "project_issue": 1233,
+  "related_issues": [1354],
+  "source_type": "archive",
+  "archive_urls": [
+    "https://mag.toyota.co.uk/toyota-production-system-glossary/",
+    "https://www.leanproduction.com/lean-glossary/",
+    "https://www.lean.org/explore-lean/lexicon-terms/",
+    "https://deming.org/explore/fourteen-points/",
+    "https://deming.org/explore/pdsa/"
+  ],
+  "candidates": [
+    {
+      "slug": "kanban",
+      "name": "Kanban",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "software-engineering"],
+      "source": "archive",
+      "description": "Signboard/card system for pull-based flow control. Migrated from factory floors to software development (Kanban boards, Trello, Jira). Encodes the principle that work should be pulled by capacity, not pushed by schedule."
+    },
+    {
+      "slug": "kaizen",
+      "name": "Kaizen",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "Continuous improvement through small, incremental changes by all employees. Contrasts with kaikaku (radical change). Encodes the philosophy that perfection is asymptotic and improvement is everyone's job."
+    },
+    {
+      "slug": "muda-mura-muri",
+      "name": "Muda, Mura, Muri",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "The three enemies of efficiency: waste (muda), unevenness (mura), and overburden (muri). A diagnostic trinity -- most waste-reduction efforts focus only on muda, missing that unevenness and overburden are upstream causes."
+    },
+    {
+      "slug": "jidoka",
+      "name": "Jidoka",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "software-engineering"],
+      "source": "archive",
+      "description": "Automation with a human touch -- machines that detect abnormalities and stop themselves. One of the two pillars of TPS. Encodes the principle that quality requires human judgment embedded in automated systems, not bolted on after."
+    },
+    {
+      "slug": "poka-yoke",
+      "name": "Poka-Yoke",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "software-engineering"],
+      "source": "archive",
+      "description": "Mistake-proofing: designing processes so errors are physically impossible or immediately detected. Encodes the insight that human error is a design failure, not a discipline failure. Migrated heavily into UX design and software (type systems, form validation)."
+    },
+    {
+      "slug": "gemba",
+      "name": "Gemba",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "The real place where value is created. 'Go to the gemba' encodes radical empiricism: decisions must be grounded in direct observation, not reports. Contrasts with management-by-dashboard."
+    },
+    {
+      "slug": "genchi-genbutsu",
+      "name": "Genchi Genbutsu",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Go and see for yourself. Closely related to gemba but emphasizes the practice rather than the place. Encodes distrust of secondhand information and abstraction layers between decision-makers and reality."
+    },
+    {
+      "slug": "andon",
+      "name": "Andon",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "software-engineering"],
+      "source": "archive",
+      "description": "Visual signal system where any worker can halt the production line to flag a problem. Encodes distributed quality authority -- the lowest-level worker has veto power over the highest-throughput process. Migrated to software as build-status lights, CI dashboards."
+    },
+    {
+      "slug": "heijunka",
+      "name": "Heijunka",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Production leveling: smoothing volume and variety to eliminate batch-and-queue peaks. Encodes the insight that variability is the hidden enemy of efficiency -- even when average capacity matches average demand, variance kills throughput."
+    },
+    {
+      "slug": "just-in-time",
+      "name": "Just-in-Time",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "economics-and-finance"],
+      "source": "archive",
+      "description": "Produce only what is needed, when needed, in the amount needed. One of the two pillars of TPS. Encodes the principle that inventory is not an asset but a liability that masks problems. Migrated to software (JIT compilation), logistics, and education."
+    },
+    {
+      "slug": "hoshin-kanri",
+      "name": "Hoshin Kanri",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "systems-thinking"],
+      "source": "archive",
+      "description": "Policy deployment: aligning strategy (compass direction) across all organizational levels through catchball -- iterative negotiation between layers. Encodes the principle that strategy without deployment is theater, and deployment without alignment is chaos."
+    },
+    {
+      "slug": "hansei",
+      "name": "Hansei",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "psychology"],
+      "source": "archive",
+      "description": "Deep reflection, especially after failure but also after success. Culturally loaded: assumes personal responsibility and emotional engagement with shortcomings. Encodes the principle that improvement requires honest self-examination, not just data analysis."
+    },
+    {
+      "slug": "nemawashi",
+      "name": "Nemawashi",
+      "kind": "mental-model",
+      "source_frame": "horticulture",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Literally 'going around the roots' -- preparing a tree for transplanting by carefully digging around its root system. In organizations: building consensus informally before a formal decision. Encodes the principle that decisions need groundwork to survive transplanting."
+    },
+    {
+      "slug": "takt-time",
+      "name": "Takt Time",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "The heartbeat of production: available time divided by customer demand. Not a target to exceed but a rhythm to match. Encodes the principle that pace should be set by the customer, not the producer. From German 'Takt' (beat/pulse)."
+    },
+    {
+      "slug": "value-stream",
+      "name": "Value Stream",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "manufacturing",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "All activities (value-adding and non-value-adding) required to bring a product from concept to customer. The 'stream' metaphor encodes flow, impediments, tributaries, and the idea that value moves like water through a landscape of processes."
+    },
+    {
+      "slug": "five-whys",
+      "name": "Five Whys",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Iterative root-cause analysis: ask 'why' five times to drill past symptoms to causes. Encodes the insight that the obvious cause is usually a symptom, and that causal chains are deeper than they appear. Widely adopted in software incident postmortems."
+    },
+    {
+      "slug": "obeya",
+      "name": "Obeya",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Big room: a dedicated physical space where cross-functional teams gather around visual management boards. Encodes the principle that colocation and visual information radiators accelerate decision-making. Migrated to agile 'war rooms' and virtual obeyas."
+    },
+    {
+      "slug": "kata",
+      "name": "Kata",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "education-and-learning"],
+      "source": "archive",
+      "description": "Structured practice routines (from martial arts) applied to improvement and coaching. Toyota Kata (Mike Rother) codifies the improvement kata and coaching kata as repeatable patterns. Encodes the principle that improvement is a skill developed through deliberate practice, not a project."
+    },
+    {
+      "slug": "yokoten",
+      "name": "Yokoten",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Horizontal deployment: spreading lessons learned across the organization. Not copying solutions but understanding the thinking behind them and adapting. Encodes the principle that knowledge transfer requires understanding, not imitation."
+    },
+    {
+      "slug": "kaikaku",
+      "name": "Kaikaku",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Radical change, as opposed to kaizen's incremental improvement. Encodes the recognition that some problems cannot be solved incrementally -- sometimes the system needs revolutionary redesign. The kaizen/kaikaku pair is a complete theory of change."
+    },
+    {
+      "slug": "pdca-cycle",
+      "name": "PDCA Cycle",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Plan-Do-Check-Act: Deming's iterative improvement cycle (originally Shewhart's). A meta-metaphor for learning: all improvement is hypothesis-testing. The cycle structure encodes that checking results and adjusting is not optional -- it is half the work."
+    },
+    {
+      "slug": "constancy-of-purpose",
+      "name": "Constancy of Purpose",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Deming Point 1: Create constancy of purpose toward improvement. Encodes the principle that short-term profit-seeking and long-term quality are structurally incompatible. Organizations must choose a time horizon and commit."
+    },
+    {
+      "slug": "drive-out-fear",
+      "name": "Drive Out Fear",
+      "kind": "mental-model",
+      "source_frame": "organizational-behavior",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "psychology"],
+      "source": "archive",
+      "description": "Deming Point 8: Fear prevents people from reporting problems, asking questions, and taking initiative. Encodes the insight that psychological safety is a prerequisite for quality, not a nice-to-have. Fear is the invisible tax on every process."
+    },
+    {
+      "slug": "cease-dependence-on-inspection",
+      "name": "Cease Dependence on Inspection",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "software-engineering"],
+      "source": "archive",
+      "description": "Deming Point 3: You cannot inspect quality into a product. Quality must be built into the process. Encodes the structural insight that inspection is detection (too late), not prevention. Migrated to software as 'shift left' and test-driven development."
+    },
+    {
+      "slug": "break-down-barriers",
+      "name": "Break Down Barriers Between Departments",
+      "kind": "mental-model",
+      "source_frame": "architecture-and-building",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Deming Point 9: Departmental silos create local optimization at the expense of system-wide performance. The barrier metaphor makes organizational structure spatial -- walls between departments are physical obstructions to information flow."
+    },
+    {
+      "slug": "eliminate-slogans",
+      "name": "Eliminate Slogans and Exhortations",
+      "kind": "mental-model",
+      "source_frame": "organizational-behavior",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Deming Point 10: Targets and slogans create adversarial relationships because the bulk of quality problems belong to the system, not the workforce. Encodes the profound insight that exhorting workers to do better is blaming them for system failures."
+    },
+    {
+      "slug": "eliminate-numerical-quotas",
+      "name": "Eliminate Numerical Quotas",
+      "kind": "mental-model",
+      "source_frame": "measurement",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "systems-thinking"],
+      "source": "archive",
+      "description": "Deming Points 11a/11b: Work standards and management-by-numbers substitute measurement for understanding. Quotas guarantee mediocrity: they are ceilings disguised as floors. Closely related to Goodhart's Law."
+    },
+    {
+      "slug": "pride-of-workmanship",
+      "name": "Pride of Workmanship",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "psychology"],
+      "source": "archive",
+      "description": "Deming Point 12: Remove barriers that rob workers of pride in their work. Encodes the principle that intrinsic motivation is the most powerful quality driver, and that management systems (merit ratings, stack ranking) systematically destroy it."
+    },
+    {
+      "slug": "system-of-profound-knowledge",
+      "name": "System of Profound Knowledge",
+      "kind": "paradigm",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "philosophy"],
+      "source": "llm",
+      "description": "Deming's integrative framework: appreciation for a system, knowledge of variation, theory of knowledge, and psychology. Encodes the principle that quality management requires understanding four interconnected domains, not just statistical tools."
+    },
+    {
+      "slug": "a-bad-system-beats-a-good-person",
+      "name": "A Bad System Will Beat a Good Person Every Time",
+      "kind": "mental-model",
+      "source_frame": "organizational-behavior",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "llm",
+      "description": "Deming's most quoted aphorism. Encodes the fundamental systems-thinking insight: individual performance is dominated by system design. Blaming individuals for system failures is not just unfair -- it prevents improvement by misdirecting attention."
+    },
+    {
+      "slug": "standardized-work",
+      "name": "Standardized Work",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Documented best current practice as a baseline for improvement. Not bureaucratic rigidity but the opposite: you cannot improve what is not standardized, because without a standard you cannot distinguish improvement from variation."
+    },
+    {
+      "slug": "continuous-flow",
+      "name": "Continuous Flow",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "manufacturing",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Work moves through production with minimal buffers between steps, like water flowing rather than collecting in pools. Encodes the insight that batching creates queues, queues create wait times, and wait times hide problems."
+    }
+  ]
+}
