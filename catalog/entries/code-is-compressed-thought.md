@@ -7,7 +7,7 @@ applies_to:
   - software-engineering
 categories:
   - software-engineering
-author: gabriel
+author: agent:gabriel
 contributors: []
 related: []
 created: '2026-03-17'
