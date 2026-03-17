@@ -5,16 +5,26 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Keelhauled
 related: []
 slug: keelhauled
 source_frame: seafaring
-target_frame: social-behavior
+applies_to:
+- social-behavior
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 Keelhauling was a naval punishment in which a sailor was tied to a rope,
 thrown overboard, and dragged beneath the ship from one side to the other
@@ -54,7 +64,6 @@ reprimand in modern life.
   implies that the punishment exceeded what the situation warranted. Nobody
   says they were keelhauled and means they received a proportionate
   response.
-
 ## Where It Breaks
 
 - **The severity gap is enormous** -- keelhauling was torture that
@@ -88,7 +97,6 @@ reprimand in modern life.
   spectacle, the risk of drowning -- all the structural content that made
   the original metaphor precise and horrifying -- have been replaced by a
   generic sense of harsh treatment.
-
 ## Expressions
 
 - "I got keelhauled" -- the standard modern usage, meaning a severe
@@ -102,7 +110,6 @@ reprimand in modern life.
 - "Dragged over the coals" -- a competing dead metaphor (from
   ordeal-by-fire traditions) that occupies similar semantic territory and
   has the same severity-bleaching problem
-
 ## Origin Story
 
 Keelhauling was practiced primarily by Dutch and other European navies

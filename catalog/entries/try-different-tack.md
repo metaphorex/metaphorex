@@ -4,17 +4,27 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Try a Different Tack
 related:
 - fathom
 slug: try-different-tack
 source_frame: seafaring
-target_frame: intellectual-inquiry
+applies_to:
+- intellectual-inquiry
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 Tacking is the maneuver a sailing vessel uses to make progress into the
 wind. Because no square-rigged or fore-and-aft-rigged vessel can sail
@@ -50,7 +60,6 @@ Key structural parallels:
   each leg makes real progress toward the destination. The metaphor
   validates non-linear approaches and reframes apparent lateral movement
   as genuine advance.
-
 ## Where It Breaks
 
 - **The wind is a known constraint; many problems have unknown
@@ -75,7 +84,6 @@ Key structural parallels:
   tack" is sometimes used in situations where the goal itself may be
   unreachable or ill-defined. The metaphor does not naturally accommodate
   the possibility that no combination of approaches will work.
-
 ## Expressions
 
 - "Let's try a different tack" -- adopting a new approach as changing
@@ -87,7 +95,6 @@ Key structural parallels:
 - "Tacking back and forth" -- alternating between approaches as
   zigzagging upwind
 - "Change tack" -- shift strategy as turn the vessel through the wind
-
 ## Origin Story
 
 Tack in the nautical sense referred originally to the rope holding
@@ -100,3 +107,4 @@ use ("take a different tack") appeared by the early nineteenth century
 and was already common enough to be noted in dictionaries by mid-century.
 The widespread misspelling as "tact" in contemporary usage confirms that
 for most speakers, the sailing origin has been completely forgotten.
+

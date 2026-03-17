@@ -5,16 +5,26 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Hand Over Fist
 related: []
 slug: hand-over-fist
 source_frame: seafaring
-target_frame: economics
+applies_to:
+- economics
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 Hauling a rope aboard a sailing ship required a specific technique: one
 hand grips the rope (making a fist), the other hand reaches past it to
@@ -50,7 +60,6 @@ accumulation, especially of money.
   over fist, never lose it. The phrase has a built-in directionality that
   maps onto the assumption that accumulation is always positive, always
   ascending.
-
 ## Where It Breaks
 
 - **Rope-hauling is labor; money-making may not be** -- the nautical
@@ -82,7 +91,6 @@ accumulation, especially of money.
   with "making money," "spending money," or "losing money." A metaphor
   that once described a general physical technique has been captured by
   a single target domain.
-
 ## Expressions
 
 - "Making money hand over fist" -- the dominant modern usage, meaning
@@ -97,7 +105,6 @@ accumulation, especially of money.
 - "Hand over hand" -- the older form, still used in some dialects and
   in literal descriptions of rope-pulling, now perceived as a variant
   rather than the original
-
 ## Origin Story
 
 The phrase "hand over hand" appears in English nautical writing by the
@@ -116,3 +123,4 @@ and the nautical origin was forgotten by most speakers. The phrase's
 survival is partly due to its phonetic appeal -- the hard consonants and
 monosyllables give it a percussive rhythm that mimics the action it
 once described.
+

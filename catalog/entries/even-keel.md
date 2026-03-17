@@ -5,17 +5,27 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Even Keel
 related:
 - in-the-doldrums
 slug: even-keel
 source_frame: seafaring
-target_frame: mental-experience
+applies_to:
+- mental-experience
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 The keel is the central structural timber running the full length of a
 ship's bottom -- the spine from which the rest of the hull is built. A
@@ -55,7 +65,6 @@ rich:
   structural capacity to absorb them. The metaphor implies that
   restoring the even keel is a matter of redistribution and design,
   not just willpower.
-
 ## Where It Breaks
 
 - **Ships are passive; people have agency** -- a ship's keel does not
@@ -86,7 +95,6 @@ rich:
   the price of speed. The metaphor's insistence on "even" as ideal
   can obscure situations where imbalance is a sign of productive
   engagement rather than a problem to be corrected.
-
 ## Expressions
 
 - "Keep on an even keel" -- the most common form, meaning to maintain
@@ -101,7 +109,6 @@ rich:
   and the disruption is external
 - "The company is back on an even keel" -- organizational recovery
   after a crisis, implying that operational stability has been restored
-
 ## Origin Story
 
 The phrase emerges from the general vocabulary of shipbuilding and

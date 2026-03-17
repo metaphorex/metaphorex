@@ -4,17 +4,27 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Fathom
 related:
 - a-problem-is-a-body-of-water
 slug: fathom
 source_frame: seafaring
-target_frame: intellectual-inquiry
+applies_to:
+- intellectual-inquiry
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 To fathom was to measure water depth by lowering a weighted line (a
 sounding line) marked at intervals of one fathom -- six feet, roughly
@@ -46,7 +56,6 @@ Key structural parallels:
   the measurement in the human body. This embodied origin reinforces the
   metaphor's intuitive feel: understanding is reaching, and what you
   cannot reach you cannot measure.
-
 ## Where It Breaks
 
 - **Depth is one-dimensional; understanding is not** -- the sounding
@@ -75,7 +84,6 @@ Key structural parallels:
   precision. You either fathom something or you don't. The graduated
   measurement that made the original term useful has been replaced by a
   binary.
-
 ## Expressions
 
 - "I can't fathom why she did that" -- comprehension failure as inability
@@ -88,7 +96,6 @@ Key structural parallels:
   of understanding
 - "Hard to fathom" -- difficulty of comprehension as difficulty of
   measurement
-
 ## Origin Story
 
 The word fathom derives from Old English faethm, meaning "embrace" or
@@ -101,3 +108,4 @@ twentieth century, most English speakers had lost contact with the
 nautical meaning entirely, making this a textbook dead metaphor: the
 source domain has become invisible while the mapping remains fully
 active.
+

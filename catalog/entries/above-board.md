@@ -4,17 +4,27 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Above Board
 related:
 - know-the-ropes
 slug: above-board
 source_frame: seafaring
-target_frame: ethics-and-morality
+applies_to:
+- ethics-and-morality
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 Cargo and crew visible above the deck boards, not concealed below.
 Pirates hid armed fighters below decks to ambush merchant vessels;
@@ -46,7 +56,6 @@ transparency and honest dealing.
   of two unrelated domains on the same metaphorical structure suggests
   the mapping reflects a deep cognitive pattern rather than a historical
   accident.
-
 ## Where It Breaks
 
 - **Concealment is sometimes ethical** -- the metaphor treats everything
@@ -78,7 +87,6 @@ transparency and honest dealing.
   politically motivated. The metaphor provides no framework for
   questioning whether the demand for above-board-ness is itself
   legitimate.
-
 ## Expressions
 
 - "Above board" -- the standard form, meaning honest, transparent,
@@ -89,7 +97,6 @@ transparency and honest dealing.
   concealment without directly alleging fraud
 - "Open and above board" -- the emphatic form, doubling the
   transparency claim with a near-synonym
-
 ## Origin Story
 
 The phrase appears in English by the late sixteenth century. The

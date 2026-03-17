@@ -5,16 +5,26 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Between the Devil and the Deep Blue Sea
 related: []
 slug: between-devil-and-deep-blue-sea
 source_frame: seafaring
-target_frame: event-structure
+applies_to:
+- event-structure
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 The "devil" on a wooden ship was the longest seam on the hull, typically
 the garboard seam where the hull planking meets the keel, near or below the
@@ -54,7 +64,6 @@ dilemma where all options are bad.
   This distinguishes it from weaker dilemma metaphors like "between a rock
   and a hard place," which has no specificity about the nature of the
   dangers.
-
 ## Where It Breaks
 
 - **The theological misreading has consumed the nautical original** -- most
@@ -86,7 +95,6 @@ dilemma where all options are bad.
   more bad options, none of which map neatly onto the spatial metaphor of
   being squeezed between exactly two dangers. The expression oversimplifies
   by geometrizing the problem.
-
 ## Expressions
 
 - "Between the devil and the deep blue sea" -- the full form, now used to
@@ -102,7 +110,6 @@ dilemma where all options are bad.
 - "The devil to pay and no pitch hot" -- the full nautical expression
   meaning an urgent problem with no resources to fix it, virtually extinct
   in modern usage
-
 ## Origin Story
 
 The earliest recorded uses of "between the devil and the deep sea" date to

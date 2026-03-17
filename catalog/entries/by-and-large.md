@@ -5,16 +5,26 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: By and Large
 related: []
 slug: by-and-large
 source_frame: seafaring
-target_frame: language
+applies_to:
+- language
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 In sailing, "by" means close-hauled -- sailing as near to the wind as
 possible, a demanding point of sail requiring constant attention to trim.
@@ -48,7 +58,6 @@ The mapping onto general language is a compression of that range:
   must account for both. This nuance maps onto the modern usage as a
   residual honesty: saying "by and large" signals that the speaker
   knows there are exceptions and is choosing to generalize anyway.
-
 ## Where It Breaks
 
 - **The technical structure is completely dead** -- unlike many dead
@@ -80,7 +89,6 @@ The mapping onto general language is a compression of that range:
   This makes it one of the most thoroughly dead metaphors in English --
   it has passed from dead metaphor to pure idiom, with no possibility
   of resurrection.
-
 ## Expressions
 
 - "By and large, it works" -- the default usage, meaning "on the whole"
@@ -92,7 +100,6 @@ The mapping onto general language is a compression of that range:
 - "Not by and large but specifically" -- the occasional contrast,
   where a speaker rejects the vague hedge in favor of precision,
   implicitly acknowledging that "by and large" is imprecise
-
 ## Origin Story
 
 The phrase is attested in nautical contexts from the late 17th century.

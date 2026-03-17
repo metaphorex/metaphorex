@@ -4,17 +4,27 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Over a Barrel
 related:
 - fathom
 slug: over-a-barrel
 source_frame: seafaring
-target_frame: social-behavior
+applies_to:
+- social-behavior
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 The most widely cited nautical origin: sailors being punished were bent
 over a cannon barrel or deck barrel for flogging. A competing etymology
@@ -48,7 +58,6 @@ Key structural parallels:
   over. One acts, the other receives. The metaphor captures situations
   of radical power imbalance where one side has all the agency and the
   other has none.
-
 ## Where It Breaks
 
 - **The metaphor implies physical force; most leverage is structural**
@@ -78,7 +87,6 @@ Key structural parallels:
   a barrel" might mean "they are punishing us" or "they are the only
   ones who can save us" -- quite different framings of the same
   powerlessness.
-
 ## Expressions
 
 - "They've got us over a barrel" -- being in a position of no leverage
@@ -89,7 +97,6 @@ Key structural parallels:
   immobility and exposure
 - "Don't put yourself over a barrel" -- warning against entering a
   position of total vulnerability
-
 ## Origin Story
 
 The exact origin is disputed. The punishment theory points to naval
@@ -106,3 +113,4 @@ and by the mid-twentieth century the nautical context was largely
 forgotten. Most contemporary users understand "over a barrel" as pure
 idiom, with no image of a barrel, a ship, or a sailor's exposed back.
 The source domain has gone fully dark.
+

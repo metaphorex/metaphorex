@@ -4,17 +4,27 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Know the Ropes
 related:
 - above-board
 slug: know-the-ropes
 source_frame: seafaring
-target_frame: intellectual-inquiry
+applies_to:
+- intellectual-inquiry
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 A square-rigged sailing ship carried miles of cordage -- halyards, sheets,
 braces, stays, shrouds, clew lines, buntlines -- each with a specific
@@ -42,7 +52,6 @@ since rigging configurations varied from ship to ship.
   been fully absorbed into general English with no residual nautical
   flavor. It is a textbook dead metaphor: the vehicle has been
   forgotten while the mapping persists.
-
 ## Where It Breaks
 
 - **Ropes are static; organizational knowledge changes** -- a ship's
@@ -73,7 +82,6 @@ since rigging configurations varied from ship to ship.
   non-transferable, which may be accurate for tacit knowledge but
   obscures the role of documentation, training programs, and
   organizational memory.
-
 ## Expressions
 
 - "Know the ropes" -- the standard form, meaning to understand how a
@@ -86,7 +94,6 @@ since rigging configurations varied from ship to ship.
 - "The ropes" -- used as a standalone noun for the procedures and
   conventions of a domain: "the ropes of academic publishing," "the
   ropes of the insurance industry"
-
 ## Origin Story
 
 The expression originates in the age of sail, when the complexity of a

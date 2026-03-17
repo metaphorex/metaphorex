@@ -5,17 +5,27 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Shot across the Bow
 related:
 - take-wind-out-of-sails
 slug: shot-across-the-bow
 source_frame: seafaring
-target_frame: communication
+applies_to:
+- communication
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 A shot across the bow is a cannon round fired deliberately in front of
 an approaching ship, demanding it stop and identify itself. The shot is
@@ -52,7 +62,6 @@ Key structural parallels:
   this cost into social contexts: issuing a warning exposes your
   concerns, your red lines, and sometimes your vulnerabilities. A shot
   across the bow is not a cost-free communication.
-
 ## Where It Breaks
 
 - **Social warnings lack the unambiguity of cannon fire** -- a cannon
@@ -86,7 +95,6 @@ Key structural parallels:
   A regulatory inquiry intended as a warning can tank a company's stock
   price. A pointed public comment can destroy a relationship. The
   metaphor's assumption of precise control is often unrealistic.
-
 ## Expressions
 
 - "A shot across the bow" -- a warning action intended to change
@@ -100,7 +108,6 @@ Key structural parallels:
   action as a calibrated warning
 - "Warning shot" -- the fully generalized form, now used without any
   awareness of maritime origin
-
 ## Origin Story
 
 The practice of firing across a ship's bow dates to the age of sail and
@@ -118,3 +125,4 @@ in political and diplomatic contexts where the naval metaphor was still
 vivid. By the 20th century, it had fully generalized to any calibrated
 warning action, and most speakers use it without any awareness of its
 maritime origin.
+

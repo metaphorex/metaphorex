@@ -5,17 +5,27 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: In the Doldrums
 related:
 - even-keel
 slug: in-the-doldrums
 source_frame: seafaring
-target_frame: mental-experience
+applies_to:
+- mental-experience
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 The doldrums are the Intertropical Convergence Zone, a belt of ocean near
 the equator where the northeast and southeast trade winds meet and cancel
@@ -50,7 +60,6 @@ structural precision:
   one sailor. The metaphor naturally extends to group stagnation: a
   team, a company, a market sector in the doldrums. The shared nature
   of the predicament is built into the image.
-
 ## Where It Breaks
 
 - **The doldrums end; depression may not** -- the meteorological doldrums
@@ -79,7 +88,6 @@ structural precision:
   place, crews driven to despair -- has been worn down to a polite
   euphemism. The dead metaphor has lost the very extremity that made
   the mapping powerful.
-
 ## Expressions
 
 - "The economy is in the doldrums" -- the most common modern usage,
@@ -94,7 +102,6 @@ structural precision:
 - "Shaking off the doldrums" -- implying that the stagnation can be
   overcome by effort, which subtly contradicts the original metaphor
   where effort was precisely what could not help
-
 ## Origin Story
 
 The word "doldrums" likely derives from "dol" (an archaic word for dull

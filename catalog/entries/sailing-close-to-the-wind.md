@@ -5,16 +5,26 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Sailing Close to the Wind
 related: []
 slug: sailing-close-to-the-wind
 source_frame: seafaring
-target_frame: ethics-and-morality
+applies_to:
+- ethics-and-morality
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 Sailing "close to the wind" (also "close-hauled") means pointing the bow
 as near to the wind direction as possible. This extracts maximum forward
@@ -51,7 +61,6 @@ The metaphor maps this risk-reward calculus onto ethical and legal behavior.
   requires constant vigilance and adjustment. A policy that was safely
   close to the wind in one regulatory environment may cross the line when
   rules change.
-
 ## Where It Breaks
 
 - **Wind is not morality** -- the wind is a neutral physical force with no
@@ -80,7 +89,6 @@ The metaphor maps this risk-reward calculus onto ethical and legal behavior.
   been replaced by a vague sense of "pushing your luck" or "nearly going
   too far." The dead metaphor retains the judgment -- mild disapproval
   mixed with grudging respect -- but not the source domain knowledge.
-
 ## Expressions
 
 - "He's sailing close to the wind" -- the standard form, usually a warning
@@ -95,7 +103,6 @@ The metaphor maps this risk-reward calculus onto ethical and legal behavior.
   domain is being overwritten by a more generic spatial frame
 - "On the edge" -- the fully dead version, where the sailing imagery has
   been replaced entirely by generic spatial metaphor
-
 ## Origin Story
 
 The expression appears in English by the early 19th century, when
@@ -112,3 +119,4 @@ invisible boundary between success and failure has no better analogy in
 common experience. Unlike many nautical dead metaphors that survive through
 sheer linguistic inertia, "sailing close to the wind" retains some
 structural vitality because the mapping is so apt.
+

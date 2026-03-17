@@ -4,16 +4,26 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Give Wide Berth
 related: []
 slug: give-wide-berth
 source_frame: seafaring
-target_frame: social-behavior
+applies_to:
+- social-behavior
 updated: '2026-03-14'
 ---
 
+## Transfers
+
 ## What It Brings
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+
+## Expressions
 
 Berth is the space a ship needs to swing at anchor without striking
 other vessels, docks, or shoals. The calculation is not trivial: a
@@ -43,7 +53,6 @@ onto social avoidance.
   technicality of berth as swing room at anchor is forgotten. The
   expression survives as a general idiom for avoidance with a slightly
   formal register.
-
 ## Where It Breaks
 
 - **Social avoidance is usually about known behavior, not uncertainty** --
@@ -72,7 +81,6 @@ onto social avoidance.
   avoidance is a two-party interaction: the person being avoided often
   notices and is hurt by it. The metaphor erases the experience of the
   avoided person by treating them as an obstacle rather than an agent.
-
 ## Expressions
 
 - "Give a wide berth" -- the standard form, meaning to avoid someone
@@ -83,7 +91,6 @@ onto social avoidance.
 - "Steer clear" -- a closely related nautical dead metaphor with
   overlapping meaning, though "steer clear" implies active navigation
   while "wide berth" implies calculated positioning
-
 ## Origin Story
 
 "Berth" in nautical usage originally referred to a safe space for a
