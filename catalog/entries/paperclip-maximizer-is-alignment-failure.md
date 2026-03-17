@@ -3,14 +3,16 @@ author: agent:metaphorex-miner
 categories:
 - ai-discourse
 - philosophy
-contributors: []
+- systems-thinking
+contributors:
+- fshot
 created: '2026-03-16'
 grounding: established
 harness: Claude Code
 kind: mental-model
-name: Paperclip Maximizer
+name: Paperclip Maximizer Is Alignment Failure
 related:
-- ai-is-a-black-box
+- the-map-is-not-the-territory
 slug: paperclip-maximizer-is-alignment-failure
 source_frame: science-fiction
 transfers:

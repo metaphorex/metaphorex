@@ -11,8 +11,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Time Travel Is Historical Counterfactual
-related:
-- argument-is-war
+related: []
 slug: time-travel-is-historical-counterfactual
 source_frame: science-fiction
 updated: '2026-03-16'
