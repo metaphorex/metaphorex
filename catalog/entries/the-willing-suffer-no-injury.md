@@ -1,8 +1,7 @@
 ---
 slug: the-willing-suffer-no-injury
 name: The Willing Suffer No Injury
-kind: metaphor
-source_frame: governance
+kind: paradigm
 applies_to:
   - ethics-and-morality
 categories:
@@ -17,12 +16,12 @@ updated: '2026-03-16'
 provenance: brooms-legal-maxims
 harness: Claude Code
 transfers:
-  - "[source] draws a structural boundary between harm-inflicted and harm-accepted by treating the injured party's prior knowledge and voluntary participation as a transformer that converts objective harm into a non-actionable outcome"
-  - "[source] establishes consent as a legal shield that extinguishes the duty of care owed by one party to another, making the consenting party's autonomy override the actor's responsibility"
-  - "[source] presupposes a binary model of consent -- present or absent -- that partitions all injuries into those the victim chose and those the victim did not, with no intermediate states"
+  - "[paradigm] draws a structural boundary between harm-inflicted and harm-accepted by treating the injured party's prior knowledge and voluntary participation as a transformer that converts objective harm into a non-actionable outcome"
+  - "[paradigm] establishes consent as a legal shield that extinguishes the duty of care owed by one party to another, making the consenting party's autonomy override the actor's responsibility"
+  - "[paradigm] presupposes a binary model of consent -- present or absent -- that partitions all injuries into those the victim chose and those the victim did not, with no intermediate states"
 limits:
-  - "[source] breaks because consent in practice is rarely fully informed, fully voluntary, and fully competent simultaneously -- the three conditions the maxim silently requires but does not enforce"
-  - "[source] misleads because it treats consent as a fixed state established at the moment of agreement, while actual risk unfolds over time and may exceed what was originally understood or accepted"
+  - "[paradigm] breaks because consent in practice is rarely fully informed, fully voluntary, and fully competent simultaneously -- the three conditions the maxim silently requires but does not enforce"
+  - "[paradigm] misleads because it treats consent as a fixed state established at the moment of agreement, while actual risk unfolds over time and may exceed what was originally understood or accepted"
 ---
 
 ## Transfers

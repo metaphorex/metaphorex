@@ -1,8 +1,7 @@
 ---
 slug: no-one-is-bound-to-the-impossible
 name: No One Is Bound to the Impossible
-kind: metaphor
-source_frame: governance
+kind: paradigm
 applies_to:
   - ethics-and-morality
 categories:
@@ -18,12 +17,12 @@ updated: '2026-03-16'
 provenance: brooms-legal-maxims
 harness: Claude Code
 transfers:
-  - "[source] establishes feasibility as a boundary condition on legitimate authority, treating demands that exceed capacity as structurally void rather than merely difficult"
-  - "[source] distinguishes between high standards (demanding the difficult) and bad faith (demanding the impossible), drawing a line where obligation terminates regardless of the authority's power to enforce it"
-  - "[source] treats the impossibility defense as a structural feature of the obligation itself rather than an excuse by the obligated party, framing infeasible demands as defective commands rather than failed compliance"
+  - "[paradigm] establishes feasibility as a boundary condition on legitimate authority, treating demands that exceed capacity as structurally void rather than merely difficult"
+  - "[paradigm] distinguishes between high standards (demanding the difficult) and bad faith (demanding the impossible), drawing a line where obligation terminates regardless of the authority's power to enforce it"
+  - "[paradigm] treats the impossibility defense as a structural feature of the obligation itself rather than an excuse by the obligated party, framing infeasible demands as defective commands rather than failed compliance"
 limits:
-  - "[source] breaks because the boundary between difficult and impossible is rarely clear-cut, and the maxim provides no method for determining where difficulty ends and impossibility begins -- creating a contested zone where both sides can argue in good faith"
-  - "[source] misleads because invoking impossibility is itself a power move that can be used to avoid difficult-but-feasible obligations, and the maxim provides cover for strategic non-compliance dressed as principled refusal"
+  - "[paradigm] breaks because the boundary between difficult and impossible is rarely clear-cut, and the maxim provides no method for determining where difficulty ends and impossibility begins -- creating a contested zone where both sides can argue in good faith"
+  - "[paradigm] misleads because invoking impossibility is itself a power move that can be used to avoid difficult-but-feasible obligations, and the maxim provides cover for strategic non-compliance dressed as principled refusal"
 ---
 
 ## Transfers

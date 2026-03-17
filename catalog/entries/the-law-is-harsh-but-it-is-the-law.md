@@ -1,8 +1,7 @@
 ---
 slug: the-law-is-harsh-but-it-is-the-law
 name: The Law Is Harsh but It Is the Law
-kind: metaphor
-source_frame: governance
+kind: paradigm
 applies_to:
   - ethics-and-morality
 categories:
@@ -18,12 +17,12 @@ updated: '2026-03-16'
 provenance: brooms-legal-maxims
 harness: Claude Code
 transfers:
-  - "[source] separates the legitimacy of a rule from its desirability by treating harshness as a recognized cost of systematic governance rather than a defect, framing bad outcomes from good systems as structurally different from bad outcomes from bad systems"
-  - "[source] prioritizes the stability of a rule-based order over the justice of individual outcomes, encoding the structural argument that ad hoc exceptions to harsh rules cause more damage than the harshness itself"
-  - "[source] creates a rhetorical posture where the speaker acknowledges the pain of the outcome while affirming the necessity of the system, splitting sympathy from action"
+  - "[paradigm] separates the legitimacy of a rule from its desirability by treating harshness as a recognized cost of systematic governance rather than a defect, framing bad outcomes from good systems as structurally different from bad outcomes from bad systems"
+  - "[paradigm] prioritizes the stability of a rule-based order over the justice of individual outcomes, encoding the structural argument that ad hoc exceptions to harsh rules cause more damage than the harshness itself"
+  - "[paradigm] creates a rhetorical posture where the speaker acknowledges the pain of the outcome while affirming the necessity of the system, splitting sympathy from action"
 limits:
-  - "[source] breaks because the maxim provides no internal mechanism for distinguishing a harsh-but-legitimate law from an unjust law that should be changed, collapsing rule-of-law into rule-obedience"
-  - "[source] misleads because it frames compliance as the only principled response to harsh law, erasing the traditions of civil disobedience, jury nullification, and prosecutorial discretion that operate as legitimate safety valves within legal systems"
+  - "[paradigm] breaks because the maxim provides no internal mechanism for distinguishing a harsh-but-legitimate law from an unjust law that should be changed, collapsing rule-of-law into rule-obedience"
+  - "[paradigm] misleads because it frames compliance as the only principled response to harsh law, erasing the traditions of civil disobedience, jury nullification, and prosecutorial discretion that operate as legitimate safety valves within legal systems"
 ---
 
 ## Transfers

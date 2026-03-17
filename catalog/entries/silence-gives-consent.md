@@ -1,8 +1,7 @@
 ---
 slug: silence-gives-consent
 name: Silence Gives Consent
-kind: metaphor
-source_frame: governance
+kind: paradigm
 applies_to:
   - social-behavior
 categories:
@@ -17,12 +16,12 @@ updated: '2026-03-16'
 provenance: brooms-legal-maxims
 harness: Claude Code
 transfers:
-  - "[source] treats silence not as absence of communication but as a specific communicative act -- a positive endorsement -- inverting the default assumption that non-response is neutral"
-  - "[source] shifts the burden of obligation from the actor to the bystander, making the person who fails to object responsible for the outcome rather than the person who proposed it"
-  - "[source] distinguishes between silence-as-ignorance and silence-as-acquiescence by requiring that the silent party had knowledge and opportunity to speak, establishing preconditions for when inaction becomes consent"
+  - "[paradigm] treats silence not as absence of communication but as a specific communicative act -- a positive endorsement -- inverting the default assumption that non-response is neutral"
+  - "[paradigm] shifts the burden of obligation from the actor to the bystander, making the person who fails to object responsible for the outcome rather than the person who proposed it"
+  - "[paradigm] distinguishes between silence-as-ignorance and silence-as-acquiescence by requiring that the silent party had knowledge and opportunity to speak, establishing preconditions for when inaction becomes consent"
 limits:
-  - "[source] breaks because legal consent requires capacity, information, and freedom from coercion -- conditions that silence alone cannot demonstrate, making the maxim a rebuttable presumption rather than a logical entailment"
-  - "[source] misleads because the maxim was developed for contexts with formal standing and defined procedures for objection, but when applied to informal social situations it can be used to manufacture consent from people who lacked the power, knowledge, or standing to object"
+  - "[paradigm] breaks because legal consent requires capacity, information, and freedom from coercion -- conditions that silence alone cannot demonstrate, making the maxim a rebuttable presumption rather than a logical entailment"
+  - "[paradigm] misleads because the maxim was developed for contexts with formal standing and defined procedures for objection, but when applied to informal social situations it can be used to manufacture consent from people who lacked the power, knowledge, or standing to object"
 ---
 
 ## Transfers

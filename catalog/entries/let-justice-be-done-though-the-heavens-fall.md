@@ -1,8 +1,7 @@
 ---
 slug: let-justice-be-done-though-the-heavens-fall
 name: Let Justice Be Done Though the Heavens Fall
-kind: metaphor
-source_frame: governance
+kind: paradigm
 applies_to:
   - ethics-and-morality
 categories:
@@ -17,12 +16,12 @@ updated: '2026-03-16'
 provenance: brooms-legal-maxims
 harness: Claude Code
 transfers:
-  - "[source] treats justice as a non-negotiable absolute that takes lexical priority over all consequences, including catastrophic ones, making cost-benefit analysis structurally inadmissible"
-  - "[source] uses cosmic-scale imagery (the heavens falling) to establish that no consequence is large enough to override a principle, creating a rhetorical framework where even the most extreme objection has already been conceded and dismissed"
-  - "[source] separates the question of what is right from the question of what is prudent, framing these as independent dimensions rather than inputs to a single calculation"
+  - "[paradigm] treats justice as a non-negotiable absolute that takes lexical priority over all consequences, including catastrophic ones, making cost-benefit analysis structurally inadmissible"
+  - "[paradigm] uses cosmic-scale imagery (the heavens falling) to establish that no consequence is large enough to override a principle, creating a rhetorical framework where even the most extreme objection has already been conceded and dismissed"
+  - "[paradigm] separates the question of what is right from the question of what is prudent, framing these as independent dimensions rather than inputs to a single calculation"
 limits:
-  - "[source] breaks because the maxim presupposes agreement on what justice requires, when in practice the content of justice is the primary dispute -- the heavens-falling framing short-circuits the deliberation that justice demands"
-  - "[source] misleads because it presents deontological commitment as costless to the speaker while the consequences fall on others, creating a structural asymmetry where the person invoking the principle bears none of the burden of the falling heavens"
+  - "[paradigm] breaks because the maxim presupposes agreement on what justice requires, when in practice the content of justice is the primary dispute -- the heavens-falling framing short-circuits the deliberation that justice demands"
+  - "[paradigm] misleads because it presents deontological commitment as costless to the speaker while the consequences fall on others, creating a structural asymmetry where the person invoking the principle bears none of the burden of the falling heavens"
 ---
 
 ## Transfers
