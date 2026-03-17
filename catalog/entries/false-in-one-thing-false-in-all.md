@@ -22,9 +22,13 @@ transfers:
   - "[paradigm] a single demonstrated falsehood licenses discounting the entire body of testimony from that source, converting a local credibility failure into a global one"
   - "[paradigm] the cost of detecting unreliability is shifted from the evaluator to the source -- one lie forces the liar to rehabilitate everything, not the listener to re-verify each claim"
   - "[paradigm] reliability is treated as a property of the speaker, not of individual statements, so that a failure of the container poisons all contents"
+  - "[paradigm] a single lie is treated as a high-information signal about the source's reliability -- one defection in an iterated game reveals the strategy, so the signal is not averaged with prior good behavior"
 limits:
   - "[paradigm] breaks because local unreliability does not entail global unreliability -- a witness who misremembers a date may still accurately describe a face, and the maxim collapses this distinction"
   - "[paradigm] misleads because it provides cover for dismissing inconvenient testimony by finding any single error, incentivizing motivated search for flaws rather than honest evaluation"
+  - "[paradigm] conflates error with deception -- being wrong about a date is not the same as lying about it, and the maxim punishes honest witnesses for normal cognitive failures by treating incompetence and malice as equivalent"
+  - "[paradigm] ignores corroboration -- even an unreliable witness can provide testimony that is independently supported, and a blanket discard prevents evaluating each claim on its own merits"
+  - "[paradigm] treats data quality as binary when it is granular -- discarding an entire dataset because one row is corrupt is wasteful in contexts where per-item verification is cheap"
 ---
 
 ## Transfers

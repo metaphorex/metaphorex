@@ -24,8 +24,10 @@ transfers:
   - "[source] testing (the original sense of 'proving') reveals whether a rule is robust or brittle, because a rule that survives its exceptions is stronger than one never challenged"
   - "[source] the boundary case defines the territory -- you learn what a rule covers by examining what it explicitly excludes"
 limits:
-  - "[source] breaks because the modern inversion ('exceptions confirm rules') provides a thought-terminating defense of any generalization, since every counterexample becomes evidence for the claim it contradicts"
-  - "[source] misleads because the legal sense requires a formally stated exception, while the folk sense applies the maxim to informal generalizations where no authority has granted an exception"
+  - "[source] breaks because the semantic drift from 'tests' to 'confirms' inverted the maxim's epistemology -- the same words now encode dogmatism (defend rules with exceptions) rather than critical thinking (interrogate rules with exceptions)"
+  - "[source] misleads because the folk version is a thought-terminating cliche that treats every counterexample as confirmation, making the generalization unfalsifiable and immunizing it against evidence"
+  - "[source] fails because the legal sense requires a formally stated exception from an authority, while the folk sense applies the maxim to informal generalizations where no authority has granted an exception"
+  - "[source] cannot handle statistical claims -- the maxim's logic of stated exceptions implying unstated rules works for categorical rules but not probabilistic ones, where outliers are expected rather than exceptional"
 ---
 
 ## Transfers

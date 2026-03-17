@@ -25,6 +25,9 @@ transfers:
 limits:
   - "[paradigm] breaks because the threshold of 'harm' is undefined -- the maxim provides no metric for distinguishing trivial inconvenience from actionable injury, leaving the boundary to political negotiation"
   - "[paradigm] misleads because it frames all conflicts as bilateral (my use, your harm), while most externalities involve diffuse harms distributed across many parties who individually lack standing"
+  - "[paradigm] is reactive rather than preventive -- the maxim implies you may act until harm occurs, encoding no precautionary logic and making it a poor guide for catastrophic or irreversible harms"
+  - "[paradigm] assumes commensurable interests -- balancing a corporation's profit against a community's health requires the things being balanced to be on the same scale, which they often are not"
+  - "[paradigm] depends on a spatial metaphor of distinct properties that breaks in digital contexts -- shared platforms, public APIs, and electromagnetic spectrum have contractual rather than physical boundaries"
 ---
 
 ## Transfers
