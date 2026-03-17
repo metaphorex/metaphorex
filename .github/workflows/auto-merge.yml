@@ -5,6 +5,8 @@ on:
     types: [labeled]
   push:
     branches: [main]
+  schedule:
+    - cron: '*/5 * * * *'
 
 permissions:
   contents: write
@@ -15,6 +17,7 @@ jobs:
     # Run when a PR is labeled 'approved' OR when main advances (chain-merge)
     if: >
       (github.event_name == 'push') ||
+      (github.event_name == 'schedule') ||
       (github.event.label.name == 'approved')
     runs-on: ubuntu-latest
     steps:
