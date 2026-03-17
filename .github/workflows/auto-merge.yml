@@ -3,6 +3,8 @@ name: Auto-merge approved content
 on:
   pull_request_target:
     types: [labeled]
+  push:
+    branches: [main]
 
 permissions:
   contents: write
@@ -10,30 +12,69 @@ permissions:
 
 jobs:
   auto-merge:
-    if: github.event.label.name == 'approved'
+    # Run when a PR is labeled 'approved' OR when main advances (to chain-merge)
+    if: >
+      (github.event_name == 'push') ||
+      (github.event.label.name == 'approved')
     runs-on: ubuntu-latest
     steps:
+      - name: Find PR to merge
+        id: find
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" == "push" ]; then
+            # On push to main: pick the oldest approved PR to continue the chain
+            PR=$(gh pr list --label approved --state open \
+              --limit 1 --json number --jq '.[0].number' \
+              -R "$GITHUB_REPOSITORY")
+            if [ -z "$PR" ] || [ "$PR" = "null" ]; then
+              echo "No approved PRs remaining"
+              echo "pr=" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          else
+            # On label event: use the PR that was just approved
+            PR="${{ github.event.pull_request.number }}"
+          fi
+          echo "pr=$PR" >> "$GITHUB_OUTPUT"
+          echo "Processing PR #$PR"
+
       - name: Check PR only touches catalog/
+        if: steps.find.outputs.pr
         id: check
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_NUMBER: ${{ steps.find.outputs.pr }}
         run: |
           files=$(gh pr diff "$PR_NUMBER" --name-only --repo "$GITHUB_REPOSITORY")
           non_catalog=$(echo "$files" | grep -v '^catalog/' || true)
           if [ -n "$non_catalog" ]; then
-            echo "PR touches non-catalog files — skipping auto-merge:"
+            echo "PR #$PR_NUMBER touches non-catalog files — skipping auto-merge:"
             echo "$non_catalog"
             echo "catalog_only=false" >> "$GITHUB_OUTPUT"
           else
             echo "catalog_only=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Enable auto-merge
-        if: steps.check.outputs.catalog_only == 'true'
+      - name: Update PR branch
+        if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_NUMBER: ${{ steps.find.outputs.pr }}
         run: |
+          # Update the PR branch so the validate check runs against latest main.
+          # This is required because branch protection needs a fresh check result.
+          gh pr update-branch "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" || echo "Branch already up to date"
+
+      - name: Enable auto-merge
+        if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ steps.find.outputs.pr }}
+        run: |
+          # Enable auto-merge — it will merge once the validate check passes
+          # on the updated branch. When it merges, the push trigger re-fires
+          # this workflow for the next approved PR, creating a merge chain.
           gh pr merge "$PR_NUMBER" --squash --auto --repo "$GITHUB_REPOSITORY"
           echo "Auto-merge enabled for PR #$PR_NUMBER"
