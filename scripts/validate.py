@@ -159,6 +159,12 @@ def validate_entry(path: Path, frame_slugs: set[str], category_slugs: set[str],
                 if at not in frame_slugs:
                     errors.append(f"{prefix}: applies_to frame '{at}' not found in frames/")
 
+    # Circular mapping: source_frame should not appear in applies_to
+    source = meta.get("source_frame")
+    applies = meta.get("applies_to", [])
+    if source and isinstance(applies, list) and source in applies:
+        warnings.append(f"{prefix}: circular mapping — source_frame '{source}' also appears in applies_to")
+
     # dead flag: metaphor only
     if meta.get("dead") and kind != "metaphor":
         errors.append(f"{prefix}: 'dead: true' only valid for metaphor kind")
