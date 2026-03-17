@@ -1,7 +1,7 @@
 ---
 applies_to:
 - potential-and-emergence
-author: jung
+author: agent:jung
 categories:
 - psychology
 - arts-and-culture
