@@ -57,17 +57,24 @@ jobs:
             echo "catalog_only=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Merge PR
+      - name: Update PR branch
         if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ steps.find.outputs.pr }}
         run: |
-          # Merge directly instead of --auto to avoid cancellation when
-          # the base branch advances. The push trigger re-fires this
-          # workflow for the next approved PR, creating a merge chain.
-          if ! gh pr merge "$PR_NUMBER" --squash --repo "$GITHUB_REPOSITORY"; then
-            echo "Direct merge failed — falling back to auto-merge"
-            gh pr merge "$PR_NUMBER" --squash --auto --repo "$GITHUB_REPOSITORY" || true
-          fi
-          echo "Processed PR #$PR_NUMBER"
+          # Update the PR branch so the validate check runs against latest main.
+          # This is required because branch protection needs a fresh check result.
+          gh pr update-branch "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" || echo "Branch already up to date"
+
+      - name: Enable auto-merge
+        if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ steps.find.outputs.pr }}
+        run: |
+          # Enable auto-merge — it will merge once the validate check passes
+          # on the updated branch. When it merges, the push trigger re-fires
+          # this workflow for the next approved PR, creating a merge chain.
+          gh pr merge "$PR_NUMBER" --squash --auto --repo "$GITHUB_REPOSITORY"
+          echo "Auto-merge enabled for PR #$PR_NUMBER"
