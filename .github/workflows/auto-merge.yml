@@ -12,58 +12,19 @@ permissions:
 
 jobs:
   auto-merge:
-    # Run when a PR is labeled 'approved' OR when main advances (to chain-merge)
+    # Run when a PR is labeled 'approved' OR when main advances (chain-merge)
     if: >
       (github.event_name == 'push') ||
       (github.event.label.name == 'approved')
     runs-on: ubuntu-latest
     steps:
-      - name: Find PR to merge
-        id: find
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if [ "${{ github.event_name }}" == "push" ]; then
-            # On push to main: pick the oldest approved PR to continue the chain
-            PR=$(gh pr list --label approved --state open \
-              --limit 1 --json number --jq '.[0].number' \
-              -R "$GITHUB_REPOSITORY")
-            if [ -z "$PR" ] || [ "$PR" = "null" ]; then
-              echo "No approved PRs remaining"
-              echo "pr=" >> "$GITHUB_OUTPUT"
-              exit 0
-            fi
-          else
-            # On label event: use the PR that was just approved
-            PR="${{ github.event.pull_request.number }}"
-          fi
-          echo "pr=$PR" >> "$GITHUB_OUTPUT"
-          echo "Processing PR #$PR"
-
-      - name: Check PR only touches catalog/
-        if: steps.find.outputs.pr
-        id: check
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ steps.find.outputs.pr }}
-        run: |
-          files=$(gh pr diff "$PR_NUMBER" --name-only --repo "$GITHUB_REPOSITORY")
-          non_catalog=$(echo "$files" | grep -v '^catalog/' || true)
-          if [ -n "$non_catalog" ]; then
-            echo "PR #$PR_NUMBER touches non-catalog files — skipping auto-merge:"
-            echo "$non_catalog"
-            echo "catalog_only=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "catalog_only=true" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Merge approved PRs
-        if: steps.find.outputs.pr && steps.check.outputs.catalog_only == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Try to merge approved PRs one at a time. Skip conflicting ones.
-          # Process up to 5 per run to avoid workflow timeout.
+          # Merge up to 5 approved catalog-only PRs per run.
+          # Each successful merge pushes to main, which triggers the next
+          # run via the push trigger — creating a self-draining chain.
           MERGED=0
           MAX=5
 
@@ -73,21 +34,23 @@ jobs:
 
             [ "$MERGED" -ge "$MAX" ] && break
 
-            # Check catalog-only
-            files=$(gh pr diff "$PR_NUMBER" --name-only --repo "$GITHUB_REPOSITORY" 2>/dev/null)
+            # Skip PRs that touch non-catalog files
+            files=$(gh pr diff "$PR_NUMBER" --name-only \
+              --repo "$GITHUB_REPOSITORY" 2>/dev/null) || continue
             non_catalog=$(echo "$files" | grep -v '^catalog/' || true)
             if [ -n "$non_catalog" ]; then
               echo "PR #$PR_NUMBER touches non-catalog files — skip"
               continue
             fi
 
-            # Try to squash merge directly
-            if gh pr merge "$PR_NUMBER" --squash --admin --repo "$GITHUB_REPOSITORY" 2>/dev/null; then
+            # Squash merge (strict=false means no rebase needed)
+            if gh pr merge "$PR_NUMBER" --squash \
+              --repo "$GITHUB_REPOSITORY" 2>&1; then
               echo "Merged PR #$PR_NUMBER"
               MERGED=$((MERGED + 1))
-              sleep 2  # Let GitHub process the merge
+              sleep 2
             else
-              echo "PR #$PR_NUMBER failed to merge — skip (likely conflict)"
+              echo "PR #$PR_NUMBER failed to merge — skip"
             fi
           done
 
