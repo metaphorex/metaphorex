@@ -1,0 +1,6992 @@
+{
+  "project": "catalog-enrichment",
+  "project_issue": 1460,
+  "source_type": "archive",
+  "archive_urls": [],
+  "total_catalog_entries": 694,
+  "already_enriched": 288,
+  "candidates": [
+    {
+      "slug": "a-force-is-a-moving-object",
+      "name": "A Force Is a Moving Object",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "physics-and-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "a-place-to-wait",
+      "name": "A Place to Wait",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "a-problem-is-a-body-of-water",
+      "name": "A Problem Is a Body of Water",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "a-problem-is-a-locked-container-for-its-solution",
+      "name": "A Problem Is a Locked Container for Its Solution",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "a-problem-is-a-region-in-a-landscape",
+      "name": "A Problem Is a Region in a Landscape",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "a-schedule-is-a-moving-object",
+      "name": "A Schedule Is a Moving Object",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "abilities-are-entities-inside-a-person",
+      "name": "Abilities Are Entities Inside A Person",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "above-board",
+      "name": "Above Board",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "acting-compulsively-is-ingesting-a-substance-compulsively",
+      "name": "Acting Compulsively Is Ingesting A Substance Compulsively",
+      "kind": "metaphor",
+      "source_frame": "compulsive-ingestion",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "acting-on-is-transferring-an-object",
+      "name": "Acting On Is Transferring An Object",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "action-is-control-over-possessions",
+      "name": "Action Is Control Over Possessions",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "action-is-motion",
+      "name": "Action Is Motion",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "actions-are-self-propelled-motions",
+      "name": "Actions Are Self-Propelled Motions",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "activities-are-containers",
+      "name": "Activities Are Containers",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "agent-swarm",
+      "name": "Agent Swarm",
+      "kind": "metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-hallucination-is-perception-disorder",
+      "name": "AI Hallucination Is Perception Disorder",
+      "kind": "metaphor",
+      "source_frame": "medicine",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-a-black-box",
+      "name": "AI Is a Black Box",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-a-copilot",
+      "name": "AI Is a Copilot",
+      "kind": "metaphor",
+      "source_frame": "aviation",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-a-magnifying-glass",
+      "name": "AI Is a Magnifying Glass",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-a-mirror",
+      "name": "AI Is a Mirror",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-a-pair-programmer",
+      "name": "AI Is a Pair Programmer",
+      "kind": "metaphor",
+      "source_frame": "collaborative-work",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "software-engineering",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-a-prosthesis",
+      "name": "AI Is a Prosthesis",
+      "kind": "metaphor",
+      "source_frame": "medicine",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-a-spell-checker",
+      "name": "AI Is a Spell Checker",
+      "kind": "metaphor",
+      "source_frame": "tool-use",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-a-tool",
+      "name": "AI Is a Tool",
+      "kind": "metaphor",
+      "source_frame": "tool-use",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-an-agent",
+      "name": "AI Is an Agent",
+      "kind": "metaphor",
+      "source_frame": "governance",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "philosophy",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-an-iceberg",
+      "name": "AI Is an Iceberg",
+      "kind": "metaphor",
+      "source_frame": "natural-phenomena",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-an-intern",
+      "name": "AI Is an Intern",
+      "kind": "metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-is-an-oracle",
+      "name": "AI Is an Oracle",
+      "kind": "metaphor",
+      "source_frame": "religion",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ai-safety-is-containment",
+      "name": "AI Safety Is Containment",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "security"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "alignment-is-physical-alignment",
+      "name": "Alignment Is Physical Alignment",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "an-instrument-is-a-companion",
+      "name": "An Instrument Is a Companion",
+      "kind": "metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "anger-is-a-heated-fluid-in-a-container",
+      "name": "Anger Is a Heated Fluid in a Container",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "argument-is-a-building",
+      "name": "Argument Is a Building",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "argument-is-a-container",
+      "name": "Argument Is a Container",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "argument-is-a-journey",
+      "name": "Argument Is a Journey",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "argument-is-dance",
+      "name": "Argument Is Dance",
+      "kind": "metaphor",
+      "source_frame": "dance",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "at-loggerheads",
+      "name": "At Loggerheads",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "augean-stables",
+      "name": "Augean Stables",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "law-and-governance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "bad-is-stinky",
+      "name": "Bad Is Stinky",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "baklava-code",
+      "name": "Baklava Code",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "bankrupt",
+      "name": "Bankrupt",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "batten-down-the-hatches",
+      "name": "Batten Down the Hatches",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "beliefs-are-beings-with-a-life-cycle",
+      "name": "Beliefs Are Beings with a Life Cycle",
+      "kind": "metaphor",
+      "source_frame": "life-course",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "beliefs-are-possessions",
+      "name": "Beliefs Are Possessions",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "between-devil-and-deep-blue-sea",
+      "name": "Between the Devil and the Deep Blue Sea",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "bicycle-for-the-mind",
+      "name": "Bicycle for the Mind",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "big-ball-of-mud",
+      "name": "Big Ball of Mud",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "bitter-end",
+      "name": "Bitter End",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "boat-anchor",
+      "name": "Boat Anchor",
+      "kind": "metaphor",
+      "source_frame": "tool-use",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "boil-the-ocean",
+      "name": "Boil the Ocean",
+      "kind": "metaphor",
+      "source_frame": "natural-phenomena",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "brand",
+      "name": "Brand",
+      "kind": "metaphor",
+      "source_frame": "animal-husbandry",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "economics-and-finance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "buffer-overflow",
+      "name": "Buffer Overflow",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "",
+      "categories": [
+        "computer-science",
+        "security"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "bus-factor",
+      "name": "Bus Factor",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "by-and-large",
+      "name": "By and Large",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "c-casting",
+      "name": "C Casting",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "c-string",
+      "name": "C String",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "capital",
+      "name": "Capital",
+      "kind": "metaphor",
+      "source_frame": "animal-husbandry",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "economics-and-finance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "categories-are-containers",
+      "name": "Categories Are Containers",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "causation-is-commercial-transaction",
+      "name": "Causation Is Commercial Transaction",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "causation-is-control-over-an-entity-relative-to-a-location",
+      "name": "Causation Is Control Over An Entity Relative To A Location",
+      "kind": "metaphor",
+      "source_frame": "governance",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "causation-is-control-over-an-object-relative-to-a-possessor",
+      "name": "Causation Is Control Over An Object Relative To A Possessor",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "causation-is-control-over-relative-location",
+      "name": "Causation Is Control Over Relative Location",
+      "kind": "metaphor",
+      "source_frame": "governance",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "causes-and-effects-are-linked-objects",
+      "name": "Causes And Effects Are Linked Objects",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "causes-are-forces",
+      "name": "Causes Are Forces",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy",
+        "physics-and-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "cerberus",
+      "name": "Cerberus",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "security"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "chain-of-thought-is-self-talk",
+      "name": "Chain of Thought Is Self-Talk",
+      "kind": "metaphor",
+      "source_frame": "mental-experience",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "change-is-motion",
+      "name": "Change Is Motion",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "change-is-replacement",
+      "name": "Change Is Replacement",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "code-smell",
+      "name": "Code Smell",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "coherent-is-whole",
+      "name": "Coherent Is Whole",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "communication-is-linguistic-communication",
+      "name": "Communication Is Linguistic Communication",
+      "kind": "metaphor",
+      "source_frame": "language",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "communication-is-sending",
+      "name": "Communication Is Sending",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "companion",
+      "name": "Companion",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "comparison-of-properties-is-comparison-of-physical-properties",
+      "name": "Comparison of Properties Is Comparison of Physical Properties",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "comparison-of-properties-is-comparison-of-possessions",
+      "name": "Comparison of Properties Is Comparison of Possessions",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "competition-is-1-on-1-physical-aggression",
+      "name": "Competition Is 1-on-1 Physical Aggression",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "competition-is-a-race",
+      "name": "Competition Is a Race",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "competition-is-competition-for-desired-objects",
+      "name": "Competition Is Competition for Desired Objects",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "competition-is-war",
+      "name": "Competition Is War",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "compliance-is-adherence",
+      "name": "Compliance Is Adherence",
+      "kind": "metaphor",
+      "source_frame": "physical-connection",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "compliance-is-following",
+      "name": "Compliance Is Following",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "compliance-is-tightness",
+      "name": "Compliance Is Tightness",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "compute-is-a-resource",
+      "name": "Compute Is a Resource",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "conceit-is-inflation",
+      "name": "Conceit Is Inflation",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "conducting-research-is-solving-a-puzzle",
+      "name": "Conducting Research Is Solving a Puzzle",
+      "kind": "metaphor",
+      "source_frame": "puzzles-and-games",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "conscious-is-up",
+      "name": "Conscious Is Up; Unconscious Is Down",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "context-window-is-working-memory",
+      "name": "Context Window Is Working Memory",
+      "kind": "metaphor",
+      "source_frame": "mental-experience",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "copper-bottomed",
+      "name": "Copper-Bottomed",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "creating-is-birthing",
+      "name": "Creating Is Birthing",
+      "kind": "metaphor",
+      "source_frame": "reproduction",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "creating-is-giving-an-object",
+      "name": "Creating Is Giving an Object",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "creating-is-making-visible",
+      "name": "Creating Is Making Visible",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "creating-is-making",
+      "name": "Creating Is Making",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "creating-is-moving-to-a-location",
+      "name": "Creating Is Moving To A Location",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "creation-is-cultivation",
+      "name": "Creation Is Cultivation",
+      "kind": "metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "creative-process-is-construction",
+      "name": "Creative Process Is Construction",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "arts-and-culture"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "creative-process-is-gardening",
+      "name": "Creative Process Is Gardening",
+      "kind": "metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "arts-and-culture",
+        "biology-and-ecology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "cut-and-run",
+      "name": "Cut and Run",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "daemon",
+      "name": "Daemon",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "damocles-sword",
+      "name": "Damocles' Sword",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "law-and-governance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "dangerous-beliefs-are-contagious-diseases",
+      "name": "Dangerous Beliefs Are Contagious Diseases",
+      "kind": "metaphor",
+      "source_frame": "contagion",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "darkness-is-a-cover",
+      "name": "Darkness Is a Cover",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "darkness-is-a-solid",
+      "name": "Darkness Is a Solid",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "data-is-fuel",
+      "name": "Data Is Fuel",
+      "kind": "metaphor",
+      "source_frame": "natural-resources",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "dead-in-the-water",
+      "name": "Dead in the Water",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "death-is-departure",
+      "name": "Death Is Departure",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "deep-magic",
+      "name": "Deep Magic",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "desire-is-hunger",
+      "name": "Desire Is Hunger",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "desires-are-forces-between-the-desired-and-the-desirer",
+      "name": "Desires Are Forces Between the Desired and the Desirer",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "difficult-subjects-are-adversaries",
+      "name": "Difficult Subjects Are Adversaries",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "difficulties-are-burdens",
+      "name": "Difficulties Are Burdens",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "difficulties-are-containers",
+      "name": "Difficulties Are Containers",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "difficulties-are-impediments-to-motion",
+      "name": "Difficulties Are Impediments to Motion",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "difficulty-is-moving",
+      "name": "Difficulty Is Moving",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "disgust-is-nausea",
+      "name": "Disgust Is Nausea",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "disparity-is-change",
+      "name": "Disparity Is Change",
+      "kind": "metaphor",
+      "source_frame": "event-structure",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "dns-domain",
+      "name": "DNS Domain",
+      "kind": "metaphor",
+      "source_frame": "governance",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "dogfooding",
+      "name": "Dogfooding",
+      "kind": "metaphor",
+      "source_frame": "animal-husbandry",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "duck-typing",
+      "name": "Duck Typing",
+      "kind": "metaphor",
+      "source_frame": "folk-taxonomy",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "effect-on-emotional-self-is-contact-with-physical-self",
+      "name": "Effect on Emotional Self Is Contact with Physical Self",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "effects-of-humor-are-injuries",
+      "name": "Effects of Humor Are Injuries",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "elysium",
+      "name": "Elysium",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "emotion-is-motion",
+      "name": "Emotion Is Motion",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "emotional-intimacy-is-physical-closeness",
+      "name": "Emotional Intimacy Is Physical Closeness",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "emotional-self-is-a-brittle-object",
+      "name": "Emotional Self Is A Brittle Object",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "emotional-stability-is-balance",
+      "name": "Emotional Stability Is Balance",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "emotional-stability-is-contact-with-the-ground",
+      "name": "Emotional Stability Is Contact with the Ground",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "emotional-stability-is-maintaining-position",
+      "name": "Emotional Stability Is Maintaining Position",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "emotions-are-entities-within-a-person",
+      "name": "Emotions Are Entities Within A Person",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "emotions-are-forces",
+      "name": "Emotions Are Forces",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "emotions-are-locations",
+      "name": "Emotions Are Locations",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "euphoric-states-are-up",
+      "name": "Euphoric States Are Up",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "even-keel",
+      "name": "Even Keel",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "event-structure",
+      "name": "Event Structure (Location Case)",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "excalibur",
+      "name": "Excalibur",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "existence-is-a-location",
+      "name": "Existence Is A Location",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "existence-is-an-object",
+      "name": "Existence Is An Object",
+      "kind": "metaphor",
+      "source_frame": "physical-objects",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "existence-is-having-a-form",
+      "name": "Existence Is Having A Form",
+      "kind": "metaphor",
+      "source_frame": "physical-objects",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "existence-is-life",
+      "name": "Existence Is Life",
+      "kind": "metaphor",
+      "source_frame": "life-course",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "existence-is-visibility",
+      "name": "Existence Is Visibility",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "external-appearance-is-a-cover",
+      "name": "External Appearance Is A Cover",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "external-conditions-are-climate",
+      "name": "External Conditions Are Climate",
+      "kind": "metaphor",
+      "source_frame": "natural-phenomena",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "external-events-affecting-progress-are-forces-affecting",
+      "name": "External Events Affecting Progress Are Forces Affecting",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "facts-are-points",
+      "name": "Facts Are Points",
+      "kind": "metaphor",
+      "source_frame": "geometry",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "fathom",
+      "name": "Fathom",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "faustian-bargain",
+      "name": "Faustian Bargain",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "economics-and-finance",
+        "ethics-and-morality"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "fear-driven-development",
+      "name": "Fear-Driven Development",
+      "kind": "metaphor",
+      "source_frame": "social-behavior",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "fear-is-cold",
+      "name": "Fear Is Cold",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "filesystem-tree",
+      "name": "Filesystem Tree",
+      "kind": "metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "fine-tuning-is-specialization",
+      "name": "Fine-Tuning Is Specialization",
+      "kind": "metaphor",
+      "source_frame": "music",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "finished-is-up",
+      "name": "Finished Is Up",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "firewall",
+      "name": "Firewall",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "security"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "first-rate",
+      "name": "First-Rate",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "flagship",
+      "name": "Flagship",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "force-is-a-substance-contained-in-affecting-causes",
+      "name": "Force Is a Substance Contained in Affecting Causes",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "force-is-a-substance-directed-at-an-affected-party",
+      "name": "Force Is a Substance Directed at an Affected Party",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "foreseeable-future-is-up",
+      "name": "Foreseeable Future Events Are Up (and Ahead)",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "form-is-motion",
+      "name": "Form Is Motion",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "foundation-model-is-a-foundation",
+      "name": "Foundation Model Is a Foundation",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "gaining-physical-intimacy-is-a-competition",
+      "name": "Gaining Physical Intimacy (Against Resistance) Is a Competition",
+      "kind": "metaphor",
+      "source_frame": "competition",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "getting-is-eating",
+      "name": "Getting Is Eating",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "give-wide-berth",
+      "name": "Give Wide Berth",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "god-object",
+      "name": "God Object",
+      "kind": "metaphor",
+      "source_frame": "religion",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "golden-hammer",
+      "name": "Golden Hammer",
+      "kind": "metaphor",
+      "source_frame": "tool-use",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "golem",
+      "name": "Golem",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "ai-discourse"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "good-is-up",
+      "name": "Good Is Up; Bad Is Down",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy",
+        "ethics-and-morality"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "gordian-knot",
+      "name": "Gordian Knot",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "groundswell",
+      "name": "Groundswell",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "guardrails",
+      "name": "Guardrails",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "security"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "hand-over-fist",
+      "name": "Hand Over Fist",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "happy-is-up",
+      "name": "Happy Is Up; Sad Is Down",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "harm-is-being-in-a-harmful-location",
+      "name": "Harm Is Being in a Harmful Location",
+      "kind": "metaphor",
+      "source_frame": "spatial-location",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "harm-is-causing-functional-objects-to-be-nonfunctional",
+      "name": "Harm Is Causing Functional Objects to Be Nonfunctional",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "harm-is-having-a-harmful-possession",
+      "name": "Harm Is Having a Harmful Possession",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "harm-is-lacking-a-needed-possession",
+      "name": "Harm Is Lacking a Needed Possession",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "harm-is-physical-injury",
+      "name": "Harm Is Physical Injury",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "harm-is-preventing-forward-motion-toward-a-goal",
+      "name": "Harm Is Preventing Forward Motion Toward a Goal",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "harming-is-lowering",
+      "name": "Harming Is Lowering",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "having-control-is-up",
+      "name": "Having Control Is Up; Being Subject To Control Is Down",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "health-is-up",
+      "name": "Health Is Up; Sickness Is Down",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "health-and-medicine"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "heisenbug",
+      "name": "Heisenbug",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "help-is-support",
+      "name": "Help Is Support",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "high-and-dry",
+      "name": "High and Dry",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "hope-is-a-benefical-possession",
+      "name": "Hope Is a Beneficial Possession",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "hope-is-a-child",
+      "name": "Hope Is a Child",
+      "kind": "metaphor",
+      "source_frame": "life-course",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "hope-is-light",
+      "name": "Hope Is Light",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "hydra-code",
+      "name": "Hydra Code",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-children",
+      "name": "Ideas Are Children",
+      "kind": "metaphor",
+      "source_frame": "life-course",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-commodities",
+      "name": "Ideas Are Commodities",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "economics-and-finance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-cutting-instruments",
+      "name": "Ideas Are Cutting Instruments",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-fashions",
+      "name": "Ideas Are Fashions",
+      "kind": "metaphor",
+      "source_frame": "social-behavior",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-light-sources",
+      "name": "Ideas Are Light-Sources",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-locations",
+      "name": "Ideas Are Locations",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-money",
+      "name": "Ideas Are Money",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "economics-and-finance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-objects",
+      "name": "Ideas Are Objects",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-people",
+      "name": "Ideas Are People",
+      "kind": "metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-perceptions",
+      "name": "Ideas Are Perceptions",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-plants",
+      "name": "Ideas Are Plants",
+      "kind": "metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "biology-and-ecology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-products",
+      "name": "Ideas Are Products",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-resources",
+      "name": "Ideas Are Resources",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy",
+        "economics-and-finance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "ideas-are-writing",
+      "name": "Ideas Are Writing",
+      "kind": "metaphor",
+      "source_frame": "writing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "importance-is-size",
+      "name": "Importance Is Size",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "in-the-doldrums",
+      "name": "In the Doldrums",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "in-the-offing",
+      "name": "In the Offing",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "incentive-caused-bias",
+      "name": "Incentive-Caused Bias",
+      "kind": "mental-model",
+      "source_frame": "",
+      "target_frame": "",
+      "categories": [
+        "psychology",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "inflation-is-an-entity",
+      "name": "Inflation Is an Entity",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "economics-and-finance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "information-asymmetry",
+      "name": "Information Asymmetry",
+      "kind": "mental-model",
+      "source_frame": "",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "intelligence-is-a-light-source",
+      "name": "Intelligence Is a Light Source",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "intense-emotions-are-heat",
+      "name": "Intense Emotions Are Heat",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "interaction-between-progress-and-external-events-affecting",
+      "name": "Interaction Between Progress and External Events Affecting",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "interpersonal-harmony-is-musical-harmony",
+      "name": "Interpersonal Harmony Is Musical Harmony",
+      "kind": "metaphor",
+      "source_frame": "music",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "intimacy-gradient",
+      "name": "Intimacy Gradient",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "intimacy-is-closeness",
+      "name": "Intimacy Is Closeness",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "intoxication-is-becoming-electrified",
+      "name": "Intoxication Is Becoming Electrified",
+      "kind": "metaphor",
+      "source_frame": "electricity",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "intoxication-is-getting-a-burden",
+      "name": "Intoxication Is Getting A Burden",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "intoxication-is-getting-destroyed",
+      "name": "Intoxication Is Getting Destroyed",
+      "kind": "metaphor",
+      "source_frame": "destruction",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "investments-are-containers-for-money",
+      "name": "Investments Are Containers For Money",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "jailbreaking",
+      "name": "Jailbreaking",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "security"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "jenga-code",
+      "name": "Jenga Code",
+      "kind": "metaphor",
+      "source_frame": "puzzles-and-games",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "jury-rigged",
+      "name": "Jury-Rigged",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "karma",
+      "name": "Karma",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "keelhauled",
+      "name": "Keelhauled",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "kernel",
+      "name": "Kernel",
+      "kind": "metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "know-the-ropes",
+      "name": "Know the Ropes",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "knowing-is-seeing",
+      "name": "Knowing Is Seeing",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "knowledge-of-past-events-is-an-external-event-exerting-force-on",
+      "name": "Knowledge of Past Events Is an External Event Exerting Force On",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "labor-is-a-resource",
+      "name": "Labor Is a Resource",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "organizational-behavior",
+        "economics-and-finance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "latticework-of-mental-models",
+      "name": "Latticework of Mental Models",
+      "kind": "mental-model",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "philosophy",
+        "cognitive-science",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "laughter-is-a-substance",
+      "name": "Laughter Is a Substance",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "lava-flow",
+      "name": "Lava Flow",
+      "kind": "metaphor",
+      "source_frame": "natural-phenomena",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "leeway",
+      "name": "Leeway",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "leverage",
+      "name": "Leverage",
+      "kind": "mental-model",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "life-is-a-container",
+      "name": "Life Is a Container",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "life-is-a-gambling-game",
+      "name": "Life Is a Gambling Game",
+      "kind": "metaphor",
+      "source_frame": "gambling",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "life-is-a-story",
+      "name": "Life Is a Story",
+      "kind": "metaphor",
+      "source_frame": "narrative",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "light-is-a-fluid",
+      "name": "Light Is A Fluid",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "light-is-a-line",
+      "name": "Light Is A Line",
+      "kind": "metaphor",
+      "source_frame": "geometry",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "light-on-two-sides",
+      "name": "Light on Two Sides",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "linear-scales-are-paths",
+      "name": "Linear Scales Are Paths",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "logic-is-gravity",
+      "name": "Logic Is Gravity",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "logical-relations-are-causal-relations",
+      "name": "Logical Relations Are Causal Relations",
+      "kind": "metaphor",
+      "source_frame": "causal-reasoning",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "lollapalooza-effect",
+      "name": "Lollapalooza Effect",
+      "kind": "mental-model",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "psychology",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "longterm-purposeful-activity-is-a-journey",
+      "name": "Long-Term Purposeful Activity Is a Journey",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "longterm-purposeful-change-is-a-journey",
+      "name": "Long-Term Purposeful Change Is a Journey",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "loose-cannon",
+      "name": "Loose Cannon",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "love-is-a-collaborative-work-of-art",
+      "name": "Love Is a Collaborative Work of Art",
+      "kind": "metaphor",
+      "source_frame": "creative-process",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "love-is-a-journey",
+      "name": "Love Is A Journey",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "love-is-a-patient",
+      "name": "Love Is a Patient",
+      "kind": "metaphor",
+      "source_frame": "medicine",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "health-and-medicine"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "love-is-a-physical-force",
+      "name": "Love Is a Physical Force",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology",
+        "physics-and-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "love-is-a-unity",
+      "name": "Love Is a Unity",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "love-is-madness",
+      "name": "Love Is Madness",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "love-is-magic",
+      "name": "Love Is Magic",
+      "kind": "metaphor",
+      "source_frame": "magic",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "love-is-war",
+      "name": "Love Is War",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "loved-one-is-a-possession",
+      "name": "Loved One Is A Possession",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "lust-is-heat",
+      "name": "Lust Is Heat",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "lustful-person-is-an-activated-machine",
+      "name": "Lustful Person Is an Activated Machine",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "lustful-person-is-an-animal",
+      "name": "Lustful Person Is an Animal",
+      "kind": "metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "machines-are-people",
+      "name": "Machines Are People",
+      "kind": "metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "magic-number",
+      "name": "Magic Number",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "main-entrance",
+      "name": "Main Entrance",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "mainstay",
+      "name": "Mainstay",
+      "kind": "dead-metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "man-with-a-hammer",
+      "name": "Man with a Hammer",
+      "kind": "mental-model",
+      "source_frame": "tool-use",
+      "target_frame": "",
+      "categories": [
+        "philosophy",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "margin-of-safety",
+      "name": "Margin of Safety",
+      "kind": "mental-model",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "philosophy",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "means-of-change-is-path-over-which-motion-occurs",
+      "name": "Means of Change Is Path over Which Motion Occurs",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "memory-stack",
+      "name": "Memory Stack",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "mental-accounting",
+      "name": "Mental Accounting",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "money-is-a-liquid",
+      "name": "Money Is A Liquid",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "monkey-patching",
+      "name": "Monkey-Patching",
+      "kind": "metaphor",
+      "source_frame": "social-behavior",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "moral-accounting",
+      "name": "Moral Accounting",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "morality-is-accounting",
+      "name": "Morality Is Accounting",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "morality-is-cleanliness",
+      "name": "Morality Is Cleanliness",
+      "kind": "metaphor",
+      "source_frame": "cleanliness",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "morality-is-purity",
+      "name": "Morality Is Purity",
+      "kind": "metaphor",
+      "source_frame": "purity",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "morality-is-straightness",
+      "name": "Morality Is Straightness",
+      "kind": "metaphor",
+      "source_frame": "geometry",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "more-is-up",
+      "name": "More Is Up; Less Is Down",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "mr-market",
+      "name": "Mr. Market",
+      "kind": "mental-model",
+      "source_frame": "social-roles",
+      "target_frame": "",
+      "categories": [
+        "psychology",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "muscle",
+      "name": "Muscle",
+      "kind": "metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "nation-is-a-family",
+      "name": "Nation Is a Family",
+      "kind": "metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "nation-is-a-person",
+      "name": "Nation Is a Person",
+      "kind": "metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "necessary-prerequisite-for-change-is-source-of-moving-entity",
+      "name": "Necessary Prerequisite for Change Is Source of Moving Entity",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "network-effects",
+      "name": "Network Effects",
+      "kind": "mental-model",
+      "source_frame": "network-communication",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "network-port",
+      "name": "Network Port",
+      "kind": "metaphor",
+      "source_frame": "travel",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "network-socket",
+      "name": "Network Socket",
+      "kind": "metaphor",
+      "source_frame": "tool-use",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "neural-network-is-a-brain",
+      "name": "Neural Network Is a Brain",
+      "kind": "metaphor",
+      "source_frame": "biology",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "niche-specialization",
+      "name": "Niche Specialization",
+      "kind": "mental-model",
+      "source_frame": "natural-selection",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "nonlinearity",
+      "name": "Nonlinearity",
+      "kind": "mental-model",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "null-pointer",
+      "name": "Null Pointer",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "computer-science",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "obligations-are-containers",
+      "name": "Obligations Are Containers",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "obligations-are-forces",
+      "name": "Obligations Are Forces",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy",
+        "physics-and-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "obligations-are-possessions",
+      "name": "Obligations Are Possessions",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "occams-razor",
+      "name": "Occam's Razor",
+      "kind": "mental-model",
+      "source_frame": "tool-use",
+      "target_frame": "",
+      "categories": [
+        "philosophy",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "opportunities-are-objects",
+      "name": "Opportunities Are Objects",
+      "kind": "metaphor",
+      "source_frame": "physical-objects",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "opportunities-are-open-paths",
+      "name": "Opportunities Are Open Paths",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "opportunity-cost",
+      "name": "Opportunity Cost",
+      "kind": "mental-model",
+      "source_frame": "",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "organization-is-physical-structure",
+      "name": "Organization Is Physical Structure",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "orphan-process",
+      "name": "Orphan Process",
+      "kind": "metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "over-a-barrel",
+      "name": "Over a Barrel",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "pandemonium",
+      "name": "Pandemonium",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "patch",
+      "name": "Patch",
+      "kind": "metaphor",
+      "source_frame": "textiles",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "people-are-batteries",
+      "name": "People Are Batteries",
+      "kind": "metaphor",
+      "source_frame": "electricity",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "people-are-machines",
+      "name": "People Are Machines",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "people-are-plants",
+      "name": "People Are Plants",
+      "kind": "metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "perception-is-reception",
+      "name": "Perception Is Reception",
+      "kind": "metaphor",
+      "source_frame": "physical-objects",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "perception-is-shape-recognition",
+      "name": "Perception Is Shape Recognition",
+      "kind": "metaphor",
+      "source_frame": "geometry",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "personality-is-material",
+      "name": "Personality Is Material",
+      "kind": "metaphor",
+      "source_frame": "materials",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "piecemeal-growth",
+      "name": "Piecemeal Growth",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "pied-piper",
+      "name": "Pied Piper",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "plain-sailing",
+      "name": "Plain Sailing",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "platform",
+      "name": "Platform",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "systems-thinking",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "possessing-is-holding",
+      "name": "Possessing Is Holding",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "power-laws",
+      "name": "Power Laws",
+      "kind": "mental-model",
+      "source_frame": "probability",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "principal-agent-problem",
+      "name": "Principal-Agent Problem",
+      "kind": "mental-model",
+      "source_frame": "",
+      "target_frame": "",
+      "categories": [
+        "organizational-behavior",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "problem-is-a-constructed-object",
+      "name": "Problem Is a Constructed Object",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "problem-is-a-tangle",
+      "name": "Problem Is a Tangle",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "problem-is-a-target",
+      "name": "Problem Is A Target",
+      "kind": "metaphor",
+      "source_frame": "target-practice",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "problems-are-puzzles",
+      "name": "Problems Are Puzzles",
+      "kind": "metaphor",
+      "source_frame": "puzzles-and-games",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "process-thread",
+      "name": "Process Thread",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "process-trap",
+      "name": "Process Trap",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "computer-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "procrustean-bed",
+      "name": "Procrustean Bed",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "program-failure-is-bodily-failure",
+      "name": "Program Failure Is Bodily Failure",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "prompt-engineering-is-programming",
+      "name": "Prompt Engineering Is Programming",
+      "kind": "metaphor",
+      "source_frame": "software-engineering",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "properties-are-contents",
+      "name": "Properties Are Contents",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "properties-are-physical-properties",
+      "name": "Properties Are Physical Properties",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "properties-are-possessions",
+      "name": "Properties Are Possessions",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "psychological-forces-are-physical-forces",
+      "name": "Psychological Forces Are Physical Forces",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology",
+        "physics-and-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "purposes-are-desired-objects",
+      "name": "Purposes Are Desired Objects",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "purposes-are-destinations",
+      "name": "Purposes Are Destinations",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "pyrrhic-victory",
+      "name": "Pyrrhic Victory",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "economics-and-finance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "race-condition",
+      "name": "Race Condition",
+      "kind": "metaphor",
+      "source_frame": "competition",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "rational-is-up",
+      "name": "Rational Is Up; Emotional Is Down",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "receiving-serious-thought-is-being-on-the-mind",
+      "name": "Receiving Serious Thought Is Being On The Mind",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "reciprocity",
+      "name": "Reciprocity",
+      "kind": "mental-model",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "psychology",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "red-queen-effect",
+      "name": "Red Queen Effect",
+      "kind": "mental-model",
+      "source_frame": "natural-selection",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "redundancy",
+      "name": "Redundancy",
+      "kind": "mental-model",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "regression-to-the-mean",
+      "name": "Regression to the Mean",
+      "kind": "mental-model",
+      "source_frame": "probability",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "relationship-is-kinship",
+      "name": "Relationship Is Kinship",
+      "kind": "metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "relationships-are-enclosures",
+      "name": "Relationships Are Enclosures",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "responsibilities-are-possessions",
+      "name": "Responsibilities Are Possessions",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "round-table",
+      "name": "Round Table",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "law-and-governance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "rubber-duck-debugging",
+      "name": "Rubber Duck Debugging",
+      "kind": "metaphor",
+      "source_frame": "communication",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "running-out-of-steam",
+      "name": "Running Out of Steam",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "sailing-close-to-the-wind",
+      "name": "Sailing Close to the Wind",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "salary",
+      "name": "Salary",
+      "kind": "metaphor",
+      "source_frame": "materials",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "economics-and-finance"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "scale-economies",
+      "name": "Scale Economies",
+      "kind": "mental-model",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "scenario-analysis",
+      "name": "Scenario Analysis",
+      "kind": "mental-model",
+      "source_frame": "war",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "scuttlebutt",
+      "name": "Scuttlebutt",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "scylla-and-charybdis",
+      "name": "Scylla and Charybdis",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "second-order-thinking",
+      "name": "Second-Order Thinking",
+      "kind": "mental-model",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "seeing-is-touching-eyes-are-limbs",
+      "name": "Seeing Is Touching, Eyes Are Limbs",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "seeing-is-touching",
+      "name": "Seeing Is Touching",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "self-initiated-change-of-state-is-self-propelled-motion",
+      "name": "Self-Initiated Change Of State Is Self-Propelled Motion",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "sexuality-is-an-offensive-weapon",
+      "name": "Sexuality Is An Offensive Weapon",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "shapes-are-containers",
+      "name": "Shapes Are Containers",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "shapeshifter",
+      "name": "Shapeshifter",
+      "kind": "archetype",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "shell",
+      "name": "Shell",
+      "kind": "metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "shot-across-the-bow",
+      "name": "Shot across the Bow",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "shotgun-debugging",
+      "name": "Shotgun Debugging",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "showing-true-colors",
+      "name": "Showing True Colors",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "significant-is-big",
+      "name": "Significant Is Big",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "silo",
+      "name": "Silo",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "similarity-is-closeness",
+      "name": "Similarity Is Closeness",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "social-accounting",
+      "name": "Social Accounting",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "social-proof",
+      "name": "Social Proof",
+      "kind": "mental-model",
+      "source_frame": "natural-selection",
+      "target_frame": "",
+      "categories": [
+        "psychology",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "society-is-a-body",
+      "name": "Society Is a Body",
+      "kind": "metaphor",
+      "source_frame": "organism",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "software-development-is-cathedral-building",
+      "name": "Software Development Is Cathedral Building",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "software-habitability",
+      "name": "Software Habitability",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "software-rot",
+      "name": "Software Rot",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "spaghetti-code",
+      "name": "Spaghetti Code",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "spam",
+      "name": "Spam",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "",
+      "categories": [
+        "linguistics",
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "sphinx-riddle",
+      "name": "Sphinx Riddle",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "states-are-locations",
+      "name": "States Are Locations",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "states-are-shapes",
+      "name": "States Are Shapes",
+      "kind": "metaphor",
+      "source_frame": "geometry",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "status-is-up",
+      "name": "Status Is Up; Lack Of Status Is Down",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "social-dynamics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "stdin-stdout-stderr",
+      "name": "Stdin, Stdout, Stderr",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "strong-emotion-is-blinding",
+      "name": "Strong Emotion Is Blinding",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "strong-emotions-are-madness",
+      "name": "Strong Emotions Are Madness",
+      "kind": "metaphor",
+      "source_frame": "madness",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "subjects-are-areas",
+      "name": "Subjects Are Areas",
+      "kind": "metaphor",
+      "source_frame": "spatial-location",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "switching-costs",
+      "name": "Switching Costs",
+      "kind": "mental-model",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "organizational-behavior",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "symlink",
+      "name": "Symlink",
+      "kind": "metaphor",
+      "source_frame": "physical-connection",
+      "target_frame": "",
+      "categories": [
+        "computer-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "system-resilience-vs-fragility",
+      "name": "System Resilience vs. Fragility",
+      "kind": "mental-model",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "systems-thinking",
+        "organizational-behavior"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "take-wind-out-of-sails",
+      "name": "Take the Wind out of Someone's Sails",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "taken-aback",
+      "name": "Taken Aback",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "tantalus",
+      "name": "Tantalus",
+      "kind": "metaphor",
+      "source_frame": "mythology",
+      "target_frame": "",
+      "categories": [
+        "mythology-and-religion",
+        "psychology"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "tcp-handshake",
+      "name": "TCP Handshake",
+      "kind": "metaphor",
+      "source_frame": "social-behavior",
+      "target_frame": "",
+      "categories": [
+        "computer-science",
+        "security"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "temperature-is-creativity",
+      "name": "Temperature Is Creativity",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "cognitive-science"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-body-is-a-container-for-the-self",
+      "name": "The Body Is a Container for the Self",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-conduit-metaphor",
+      "name": "The Conduit Metaphor",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-event-structure-metaphorical-system",
+      "name": "The Event Structure Metaphorical System",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-internet-is-a-mine",
+      "name": "The Internet Is a Mine",
+      "kind": "metaphor",
+      "source_frame": "natural-resources",
+      "target_frame": "",
+      "categories": [
+        "ai-discourse",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-iterator-pattern",
+      "name": "The Iterator Pattern",
+      "kind": "metaphor",
+      "source_frame": "travel",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-map-is-not-the-territory",
+      "name": "The Map Is Not the Territory",
+      "kind": "mental-model",
+      "source_frame": "cartography",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "systems-thinking",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-mind-is-a-body",
+      "name": "The Mind Is a Body",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-mind-is-a-brittle-object",
+      "name": "The Mind Is A Brittle Object",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-mind-is-a-machine",
+      "name": "The Mind Is A Machine",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-quality-without-a-name",
+      "name": "The Quality Without a Name",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "software-engineering",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-state-pattern",
+      "name": "The State Pattern",
+      "kind": "metaphor",
+      "source_frame": "governance",
+      "target_frame": "",
+      "categories": [
+        "software-engineering"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-visual-field-is-a-bounded-region",
+      "name": "The Visual Field Is A Bounded Region",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "the-visual-field-is-a-container",
+      "name": "The Visual Field Is A Container",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "theoretical-debate-is-competition",
+      "name": "Theoretical Debate Is Competition",
+      "kind": "metaphor",
+      "source_frame": "competition",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "theories-are-beings-with-life-cycles",
+      "name": "Theories Are Beings with Life Cycles",
+      "kind": "metaphor",
+      "source_frame": "life-course",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "theories-are-buildings",
+      "name": "Theories Are Buildings",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "theories-are-cloth",
+      "name": "Theories Are Cloth",
+      "kind": "metaphor",
+      "source_frame": "textiles",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "theories-are-constructed-objects",
+      "name": "Theories Are Constructed Objects",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "theories-are-covers-for-the-facts",
+      "name": "Theories Are Covers for the Facts",
+      "kind": "metaphor",
+      "source_frame": "covers",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "linguistics",
+        "philosophy"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "three-sheets-to-the-wind",
+      "name": "Three Sheets to the Wind",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "try-different-tack",
+      "name": "Try a Different Tack",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "two-track-analysis",
+      "name": "Two-Track Analysis",
+      "kind": "mental-model",
+      "source_frame": "manufacturing",
+      "target_frame": "",
+      "categories": [
+        "cognitive-science",
+        "systems-thinking"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    },
+    {
+      "slug": "window",
+      "name": "Window",
+      "kind": "metaphor",
+      "source_frame": "embodied-experience",
+      "target_frame": "",
+      "categories": [
+        "linguistics"
+      ],
+      "source": "archive",
+      "missing_fields": [
+        "transfers",
+        "limits"
+      ],
+      "description": "Add transfers and limits propositions to existing entry"
+    }
+  ]
+}
