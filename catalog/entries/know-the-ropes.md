@@ -13,7 +13,7 @@ slug: know-the-ropes
 source_frame: seafaring
 applies_to:
 - intellectual-inquiry
-updated: '2026-03-14'
+updated: '2026-03-18'
 transfers:
   - '[source] a sailing ship has hundreds of lines each controlling a specific sail or spar, and competence requires knowing which rope does what without looking'
   - '[source] pulling the wrong line under pressure can capsize a sail or snap a mast, making rope-knowledge a matter of operational safety not mere efficiency'
@@ -24,14 +24,6 @@ limits:
 ---
 
 ## Transfers
-
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
 
 A square-rigged sailing ship carried miles of cordage -- halyards, sheets,
 braces, stays, shrouds, clew lines, buntlines -- each with a specific
@@ -59,7 +51,10 @@ since rigging configurations varied from ship to ship.
   been fully absorbed into general English with no residual nautical
   flavor. It is a textbook dead metaphor: the vehicle has been
   forgotten while the mapping persists.
-## Where It Breaks
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
 
 - **Ropes are static; organizational knowledge changes** -- a ship's
   rigging, once set up, remains largely constant for the duration of a
@@ -89,6 +84,7 @@ since rigging configurations varied from ship to ship.
   non-transferable, which may be accurate for tacit knowledge but
   obscures the role of documentation, training programs, and
   organizational memory.
+
 ## Expressions
 
 - "Know the ropes" -- the standard form, meaning to understand how a

@@ -13,7 +13,7 @@ slug: loose-cannon
 source_frame: seafaring
 applies_to:
 - social-behavior
-updated: '2026-03-14'
+updated: '2026-03-18'
 transfers:
   - '[source] a cannon that breaks free from its lashings on a rolling ship deck becomes a multi-ton projectile that crushes anything in its random path, endangering the crew more than the enemy'
   - '[source] the danger is proportional to the cannon''s own power -- the more potent the weapon, the more destructive it is when uncontrolled -- mapping onto the idea that capable but undisciplined people are the most dangerous'
@@ -24,14 +24,6 @@ limits:
 ---
 
 ## Transfers
-
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
 
 A naval cannon weighed one to three tons. Secured to the deck by heavy
 rope tackle, it was manageable. Unsecured on a rolling ship, it became
@@ -72,7 +64,10 @@ structural imports.
   randomness: a loose cannon is not someone pursuing a hostile agenda
   but someone whose actions cannot be predicted. The danger is not
   malice but chaos.
-## Where It Breaks
+
+## Limits
+
+The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
 
 - **People have intentions; cannons do not** -- a cannon rolls
   according to physics. A person described as a loose cannon is
@@ -102,6 +97,7 @@ structural imports.
   wooden deck toward your legs. The dead metaphor has been tamed
   into a mild criticism, losing the life-or-death urgency that made
   the original image so powerful.
+
 ## Expressions
 
 - "He's a loose cannon" -- an unpredictable person whose actions
