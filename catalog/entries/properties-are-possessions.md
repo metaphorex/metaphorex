@@ -20,6 +20,13 @@ related:
 slug: properties-are-possessions
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] having an attribute is owning an object, mapping the abstract relation of predication onto the concrete relation of possession'
+  - '[source] acquiring a property is receiving or picking up an object, mapping attribute change onto the social act of obtaining property'
+  - '[source] losing a property is having it taken away, mapping attribute loss onto dispossession with its accompanying sense of theft or injustice'
+limits:
+  - '[source] breaks because possessions are external to the owner and can be transferred, while properties are intrinsic to the bearer and often cannot be given away'
+  - '[source] misleads because the possession frame implies that all properties are equally detachable, while some attributes are constitutive of identity and cannot be alienated'
 ---
 
 ## Transfers

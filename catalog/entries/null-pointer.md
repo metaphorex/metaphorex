@@ -16,6 +16,13 @@ related:
 slug: null-pointer
 source_frame: embodied-experience
 updated: '2026-03-17'
+transfers:
+  - '[source] pointing at empty space is a communicative act that makes absence present through the gesture of indicating'
+  - '[source] the deliberate marker of nothing occupies the same physical form as markers of something, giving absence a body'
+  - '[source] dereferencing a null pointer is reaching for an object at a location guaranteed to be uninhabitable, triggering a fault'
+limits:
+  - '[source] breaks because real pointing at nothing is harmless, while dereferencing a null pointer crashes the program'
+  - '[source] misleads because embodied absence is context-dependent and recoverable, while null propagates through type systems as a universal inhabitor of every reference type'
 ---
 
 ## Transfers

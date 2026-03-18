@@ -19,6 +19,13 @@ related:
 slug: orphan-process
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - '[source] the parent''s death is unintentional, mapping blameless abandonment onto a crashed or exited parent process'
+  - '[source] the system adopts orphans by assigning a surrogate parent (init/PID 1) that handles lifecycle without interfering with daily work'
+  - '[source] an orphan''s resources must still be properly reclaimed at death, mapping social burial rites onto process reaping'
+limits:
+  - '[source] breaks because human orphanhood carries lasting emotional trauma, while an orphan process is functionally unaware of its parent''s death'
+  - '[source] misleads because adoption in human societies is complex and contested, while init adoption is automatic, unconditional, and instantaneous'
 ---
 
 ## Transfers

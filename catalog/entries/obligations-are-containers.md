@@ -20,6 +20,13 @@ related:
 slug: obligations-are-containers
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] entering an obligation crosses a boundary from outside to inside, creating a discrete threshold moment of commitment'
+  - '[source] the container has walls that constrain movement, mapping physical confinement onto the restriction of choices under obligation'
+  - '[source] fulfilling an obligation is exiting the container, making discharge feel like spatial liberation rather than moral completion'
+limits:
+  - '[source] breaks because containers have rigid, visible boundaries, while the edges of an obligation are often negotiable and contested'
+  - '[source] misleads because containers hold only one thing at a time in a location, while a person can be simultaneously inside multiple overlapping obligations with no spatial conflict'
 ---
 
 ## Transfers

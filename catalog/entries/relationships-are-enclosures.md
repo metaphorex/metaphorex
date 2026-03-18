@@ -22,6 +22,13 @@ related:
 slug: relationships-are-enclosures
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] being in a relationship is being inside a bounded space with another person, mapping physical co-habitation onto emotional commitment'
+  - '[source] the enclosure has an inside (intimacy, shared access) and an outside (exclusion, distance), creating a binary of belonging'
+  - '[source] leaving a relationship is exiting the enclosure, mapping physical departure onto emotional separation with the same threshold finality'
+limits:
+  - '[source] breaks because enclosures have rigid walls, while relationship boundaries are negotiated, porous, and continuously redefined'
+  - '[source] misleads because the enclosure frame implies that two people share identical bounded space, while partners in a relationship often experience different degrees of containment and freedom'
 ---
 
 ## Transfers

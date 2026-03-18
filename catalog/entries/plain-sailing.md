@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - event-structure
 updated: '2026-03-14'
+transfers:
+  - '[source] flat, unobstructed water allows steady progress without course corrections, mapping navigational ease onto effortless progress in any endeavor'
+  - '[source] the absence of hazards (reefs, shallows, opposing currents) defines the ease, mapping threat removal onto problem elimination'
+  - '[source] the sailor''s skill is not tested in calm conditions, mapping unchallenging circumstances onto situations requiring no special competence'
+limits:
+  - '[source] breaks because calm seas with no wind actually halt a sailing vessel, while the metaphor treats absence of obstacles as pure advantage'
+  - '[source] misleads because sailors value challenging conditions that test seamanship, while the metaphor frames difficulty as purely negative rather than as the source of skill development'
 ---
 
 ## Transfers

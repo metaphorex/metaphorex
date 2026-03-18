@@ -20,6 +20,13 @@ related:
 slug: opportunities-are-open-paths
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - '[source] opportunities are unobstructed routes through otherwise blocked terrain, making options feel spatial and navigable'
+  - '[source] choosing one path forecloses others at the point of divergence, importing the irreversibility of spatial commitment'
+  - '[source] blocked paths become impassable through barriers imposed by external forces, not by the traveler''s choice'
+limits:
+  - '[source] breaks because physical paths pre-exist the traveler, while many opportunities must be constructed rather than discovered'
+  - '[source] misleads because the path frame implies a single traveler on each route, while real opportunities often require collective action and shared traversal'
 ---
 
 ## Transfers

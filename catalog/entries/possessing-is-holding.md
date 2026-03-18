@@ -18,6 +18,13 @@ related:
 slug: possessing-is-holding
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] ownership is experienced as having something physically within your grasp, mapping the tactile sensation of gripping onto the abstract relation of possession'
+  - '[source] losing a possession is the object slipping from your hand, mapping the embodied failure of grip onto the legal or social loss of ownership'
+  - '[source] the strength of possession correlates with the firmness of the hold, mapping tight grip onto secure ownership and loose grip onto tenuous claim'
+limits:
+  - '[source] breaks because physical holding requires continuous exertion, while legal possession persists without ongoing effort through institutional recognition'
+  - '[source] misleads because you can only hold a few physical objects at once, while a person or entity can possess unlimited abstract properties simultaneously'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: pyrrhic-victory
 source_frame: war
 updated: '2026-03-14'
+transfers:
+  - '[source] the victor''s losses in winning are so severe that they undermine the capacity to sustain the advantage gained'
+  - '[source] the cost of victory is measured in irreplaceable resources (veteran soldiers, institutional knowledge), not in fungible assets that can be resupplied'
+  - '[source] repeated pyrrhic victories produce cumulative attrition that transforms a winning record into a losing trajectory'
+limits:
+  - '[source] breaks because Pyrrhus fought on foreign soil far from reinforcement, while many costly victories occur in contexts where recovery is possible given sufficient time'
+  - '[source] misleads because the historical Pyrrhus recognized his predicament and chose to withdraw, while the metaphor is typically applied to actors who do not recognize the unsustainability of their approach'
 ---
 
 ## Transfers

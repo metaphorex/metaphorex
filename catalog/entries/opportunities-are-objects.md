@@ -19,6 +19,13 @@ related:
 slug: opportunities-are-objects
 source_frame: physical-objects
 updated: '2026-03-13'
+transfers:
+  - '[source] opportunities can be grasped, held, and lost, importing the urgency of catching a moving physical object'
+  - '[source] opportunities can be transferred between people like property, making social advantage feel like a gift or theft'
+  - '[source] a missed opportunity is a dropped object, adding the regret structure of something that was within reach but slipped away'
+limits:
+  - '[source] breaks because physical objects persist when dropped and can be retrieved, while missed opportunities are often permanently gone'
+  - '[source] misleads because the object frame makes opportunities feel scarce and singular, while many favorable circumstances are renewable or can be created'
 ---
 
 ## Transfers

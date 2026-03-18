@@ -18,6 +18,13 @@ related:
 slug: process-trap
 source_frame: embodied-experience
 updated: '2026-03-17'
+transfers:
+  - '[source] a trap is a concealed mechanism that triggers on contact, mapping hidden hardware interrupts onto unexpected transitions from user to kernel mode'
+  - '[source] the trapped entity is redirected to a handler''s control, mapping physical capture onto the transfer of execution to an exception handler'
+  - '[source] the trap is set in advance by an authority and activated by the subject''s own action, mapping premeditated hunting devices onto predefined interrupt vectors'
+limits:
+  - '[source] breaks because physical traps are hostile and harmful to the trapped entity, while process traps are a normal, designed part of system operation'
+  - '[source] misleads because a physical trap immobilizes the captured animal, while a process trap transfers control temporarily and the trapped process typically resumes execution afterward'
 ---
 
 ## Transfers

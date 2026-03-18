@@ -16,6 +16,13 @@ related:
 slug: rubber-duck-debugging
 source_frame: communication
 updated: '2026-03-14'
+transfers:
+  - '[source] the mere form of social interaction triggers cognitive benefits without requiring a real interlocutor''s feedback'
+  - '[source] line-by-line narration forces confrontation with every assumption, surfacing gaps between expectation and implementation'
+  - '[source] the absurdity of the listener grants social permission to perform the otherwise embarrassing act of talking to oneself'
+limits:
+  - '[source] breaks because the duck cannot ask generative questions, and real debugging conversations are most productive when the listener probes with why and what-if'
+  - '[source] misleads because it assumes the bug is in the programmer''s organization of known information, failing when the bug stems from unknown API behavior or system-level interactions'
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: problem-is-a-constructed-object
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - '[source] problems are assembled from component parts, mapping physical construction onto the analysis of contributing factors'
+  - '[source] dismantling the construction reveals how the problem was built, mapping deconstruction onto root-cause analysis'
+  - '[source] the problem can be rebuilt differently by rearranging its components, mapping renovation onto problem reframing'
+limits:
+  - '[source] breaks because constructed objects have a builder with intent, while many problems emerge from systemic interactions with no designing agent'
+  - '[source] misleads because physical constructions can be fully dismantled into known parts, while problems often have emergent properties that disappear when decomposed'
 ---
 
 ## Transfers

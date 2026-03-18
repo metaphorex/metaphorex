@@ -17,6 +17,13 @@ related:
 slug: round-table
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] circular geometry eliminates the head-of-table position, mapping the absence of spatial hierarchy onto the absence of authority hierarchy'
+  - '[source] every participant faces every other, mapping mutual visibility onto mutual accountability where disengagement is conspicuous'
+  - '[source] membership is bounded by the number of seats, mapping physical capacity limits onto invitation-only elite participation'
+limits:
+  - '[source] breaks because geometric equality does not dissolve power differentials from resources, information, or institutional authority that participants bring to the table'
+  - '[source] misleads because Arthur''s Round Table ended in civil war, and the source narrative is about the failure of egalitarian governance, not its success'
 ---
 
 ## Transfers

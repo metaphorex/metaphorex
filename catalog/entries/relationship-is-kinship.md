@@ -18,6 +18,13 @@ related:
 slug: relationship-is-kinship
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - '[source] non-biological connections are mapped onto family bonds, importing the obligations, loyalty, and permanence of blood ties'
+  - '[source] hierarchical kinship terms (parent, child, sibling) encode asymmetric or symmetric power relations between connected entities'
+  - '[source] kinship creates inherited obligations that pass through generations, mapping biological descent onto institutional lineage'
+limits:
+  - '[source] breaks because kinship is involuntary and permanent, while most metaphorical relationships can be dissolved by choice'
+  - '[source] misleads because kinship implies shared genetic interest, while relationships framed as kinship may involve fundamentally misaligned incentives that the family vocabulary obscures'
 ---
 
 ## Transfers

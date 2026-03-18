@@ -17,6 +17,13 @@ related:
 slug: network-socket
 source_frame: tool-use
 updated: '2026-03-14'
+transfers:
+  - '[source] a socket accepts any conforming plug without knowing what device is attached, decoupling interface shape from device identity'
+  - '[source] the socket is fixed in place while the plug is mobile, establishing an asymmetry between listener and connector'
+  - '[source] connection requires physical insertion of complementary parts, making the join bilateral rather than broadcast'
+limits:
+  - '[source] breaks because physical sockets wear out from repeated insertion, but network sockets degrade from resource exhaustion, not mechanical fatigue'
+  - '[source] misleads because a wall socket serves one plug at a time, while a server socket multiplexes thousands of concurrent connections through accept()'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: piecemeal-growth
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - '[source] additions are made incrementally to an existing whole, preserving what works while extending at the margins'
+  - '[source] each piece must fit the local context of its neighbors, mapping physical adjacency constraints onto design coherence'
+  - '[source] the whole acquires character through accumulated small decisions rather than through a single master plan imposed in advance'
+limits:
+  - '[source] breaks because piecemeal physical additions create visible seams and style clashes, while well-managed incremental design can achieve seamless coherence through shared principles'
+  - '[source] misleads because the metaphor implies that growth without a master plan is always organic and adaptive, when it can also produce incoherent sprawl if local decisions ignore systemic effects'
 ---
 
 ## Transfers

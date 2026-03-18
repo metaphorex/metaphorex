@@ -17,6 +17,13 @@ related:
 slug: patch
 source_frame: textiles
 updated: '2026-03-13'
+transfers:
+  - '[source] repair preserves the original rather than replacing it, mapping the economics of mending onto the economics of software maintenance'
+  - '[source] accumulated patches degrade the whole, mapping the aesthetic decline of patchwork onto the technical fragility of heavily-patched code'
+  - '[source] the patch is visibly distinct from the original fabric, mapping the detectability of mended cloth onto the traceable history of code changes'
+limits:
+  - '[source] breaks because textile patches restore original function without changing behavior, while software patches often alter functionality and introduce new behavior'
+  - '[source] misleads because a cloth patch is a permanent physical addition, while a software patch can be rolled back, versioned, and superseded cleanly'
 ---
 
 ## Transfers

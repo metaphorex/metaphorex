@@ -22,6 +22,13 @@ related:
 slug: purposes-are-desired-objects
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] goals are things you reach for and try to grasp, mapping the physical act of obtaining an object onto the pursuit of an objective'
+  - '[source] achieving a purpose is possessing the desired object, mapping goal completion onto the satisfaction of holding what you sought'
+  - '[source] competing agents can pursue the same object, mapping rivalry for scarce goods onto competition for shared goals'
+limits:
+  - '[source] breaks because physical objects provide the same value regardless of how they were obtained, while purposes often derive their meaning from the process of pursuit rather than the outcome'
+  - '[source] misleads because objects are finite and possessable by one party, while many purposes (knowledge, justice, understanding) are non-rivalrous and cannot be depleted by sharing'
 ---
 
 ## Transfers

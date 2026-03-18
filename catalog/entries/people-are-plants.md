@@ -18,6 +18,13 @@ related:
 slug: people-are-plants
 source_frame: horticulture
 updated: '2026-03-13'
+transfers:
+  - '[source] growth depends on environmental conditions rather than internal will, mapping soil quality and climate onto social circumstances and nurture'
+  - '[source] development follows seasonal rhythms with periods of dormancy and flowering, mapping agricultural time onto human developmental stages'
+  - '[source] roots anchor and nourish from a specific location, mapping biological attachment to soil onto personal attachment to place and community'
+limits:
+  - '[source] breaks because plants cannot relocate themselves, while people uproot and transplant by choice, making the metaphor overstate the cost of mobility'
+  - '[source] misleads because plant growth is deterministic given conditions, while human development involves deliberate choice, self-direction, and the capacity to grow against environmental pressures'
 ---
 
 ## Transfers

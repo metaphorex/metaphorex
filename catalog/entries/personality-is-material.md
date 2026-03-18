@@ -19,6 +19,13 @@ related:
 slug: personality-is-material
 source_frame: materials
 updated: '2026-03-13'
+transfers:
+  - '[source] character has texture and composition that can be tested under stress, mapping material properties like hardness and flexibility onto moral qualities'
+  - '[source] personality is forged or tempered through experience, mapping metallurgical processes onto character development through adversity'
+  - '[source] some personalities are brittle and crack under pressure while others bend and recover, mapping fracture mechanics onto psychological resilience'
+limits:
+  - '[source] breaks because materials have fixed composition after manufacture, while personality continues to change throughout life in response to experience and choice'
+  - '[source] misleads because material properties are objectively measurable by standardized tests, while personality traits are context-dependent, observer-relative, and resist stable quantification'
 ---
 
 ## Transfers

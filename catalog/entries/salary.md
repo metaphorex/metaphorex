@@ -17,6 +17,13 @@ source_frame: materials
 applies_to:
 - economics
 updated: '2026-03-15'
+transfers:
+  - '[source] salt was a non-negotiable necessity for survival, mapping the material requirement of a preservation commodity onto the non-negotiable nature of wages as subsistence'
+  - '[source] salt preserved food from decay, mapping the arresting of biological decomposition onto the financial function of preventing economic deterioration'
+  - '[source] salt was measurable, fungible, and tradeable by weight, mapping commodity quantification onto the treatment of labor as a similarly measurable, interchangeable substance'
+limits:
+  - '[source] breaks because salt was communally distributed, while salary is a private individual transaction, compressing the shift from shared provisioning to atomized compensation into a dead word'
+  - '[source] misleads because the subsistence framing naturalizes low pay by etymologically encoding bare necessity, making it harder to argue that compensation should reflect value created rather than survival costs'
 ---
 
 ## What It Brings

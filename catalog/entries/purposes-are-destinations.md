@@ -21,6 +21,13 @@ related:
 slug: purposes-are-destinations
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - '[source] achieving a goal is arriving at a location after traveling a path, mapping spatial arrival onto temporal completion'
+  - '[source] progress toward a purpose is measurable as distance remaining, mapping spatial proximity onto nearness to goal achievement'
+  - '[source] obstacles between the current position and the destination must be navigated around, mapping physical impediments onto difficulties in goal pursuit'
+limits:
+  - '[source] breaks because destinations exist before the traveler arrives, while many purposes are constructed during the process of pursuing them'
+  - '[source] misleads because arriving at a destination ends the journey, while achieving a purpose often reveals further purposes beyond it'
 ---
 
 ## Transfers

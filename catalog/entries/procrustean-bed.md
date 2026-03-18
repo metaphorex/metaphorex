@@ -17,6 +17,13 @@ related:
 slug: procrustean-bed
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] the host forces the guest to fit the bed by cutting or stretching, mapping violent alteration of the subject onto forced conformity to a rigid standard'
+  - '[source] the bed''s dimensions are fixed and non-negotiable, mapping physical rigidity onto institutional inflexibility in standards, metrics, or categories'
+  - '[source] the violence is presented as hospitality, mapping coercion disguised as accommodation onto policies that claim to serve those they harm'
+limits:
+  - '[source] breaks because Procrustes acted on individuals one at a time, while procrustean systems typically operate on populations through standardized bureaucratic processes'
+  - '[source] misleads because the myth involves deliberate malice, while most procrustean standardization arises from institutional convenience rather than intent to harm'
 ---
 
 ## Transfers
