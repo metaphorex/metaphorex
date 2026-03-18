@@ -21,6 +21,13 @@ related:
 slug: strong-emotions-are-madness
 source_frame: madness
 updated: '2026-03-13'
+transfers:
+  - '[source] emotional intensity maps onto a continuum of insanity -- mild emotion is eccentricity, extreme emotion is full-blown madness -- providing a scale from slight oddity to total breakdown'
+  - '[source] the emotional person has lost control of the rational self, which is in the grip of a condition like a patient in the grip of a disease -- agency has been surrendered to the emotion'
+  - '[source] recovery from emotion maps onto recovery of sanity -- ''coming to one''s senses'' or ''returning to one''s right mind'' -- framing the emotional episode as a temporary departure from a rational baseline'
+limits:
+  - '[source] breaks because the metaphor equates a normal human experience (intense feeling) with a pathological state (mental illness), trivializing mental illness while pathologizing emotional intensity'
+  - '[source] misleads because ''madness'' erases the intentional content of emotion -- grief is grief about something, anger is anger at something, but the madness frame treats all intense emotions as the same kind of directionless cognitive failure'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: the-state-pattern
 source_frame: governance
 updated: '2026-03-14'
+transfers:
+  - '[source] each state has distinct rules of engagement, the way a country at war operates differently from a country at peace -- the same entity, different behavioral regimes'
+  - '[source] transitions between states are constrained and rule-governed, mapping the orderly processes of political transition (elections, treaties) onto valid state-change logic'
+  - '[source] the entity persists across state changes -- France remains France whether monarchy, republic, or empire -- distinguishing identity from current behavioral mode'
+limits:
+  - '[source] breaks because political states are contested with ambiguous transitions involving negotiation and conflict, while software state transitions are mechanical and deterministic -- the metaphor imports drama where the pattern delivers predictability'
+  - '[source] misleads because governance implies permanence (states endure for decades), while a software object might transition through dozens of states per second -- the metaphor''s gravitas is disproportionate to typical use'
 ---
 
 ## Transfers

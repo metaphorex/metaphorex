@@ -17,6 +17,13 @@ related:
 slug: the-visual-field-is-a-container
 source_frame: containers
 updated: '2026-03-14'
+transfers:
+  - '[source] what is inside the container is what you can see, and what is outside is invisible -- the metaphor imposes a sharp inside/outside threshold on the continuous gradient of visual perception'
+  - '[source] changes in visibility are spatial movements across a boundary -- objects ''come into view'' and ''go out of sight'' as though crossing a doorway between visible and invisible'
+  - '[source] the visual field can be full -- ''my field of vision was entirely filled by the crowd'' -- giving visual perception a container capacity that can be saturated'
+limits:
+  - '[source] breaks because vision has no sharp boundary -- the visual field fades gradually at the periphery rather than ending at a wall, and the container metaphor imposes a crisp threshold that does not match perceptual experience'
+  - '[source] misleads because you can look at something without seeing it (inattentional blindness) and see something without looking at it (peripheral awareness), conflating physical presence in the visual field with perceptual registration'
 ---
 
 ## Transfers

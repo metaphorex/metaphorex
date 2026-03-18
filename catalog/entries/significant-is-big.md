@@ -18,6 +18,13 @@ related:
 slug: significant-is-big
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] importance maps onto physical magnitude through embodied experience -- things bigger than the child command more attention, pose greater consequences, and require more deference'
+  - '[source] influence maps onto stature, creating a social topography where powerful people tower over peers and small operators lack influence'
+  - '[source] visibility correlates with size, making importance feel like perceptual salience -- significant things are hard to miss because large objects are easier to see'
+limits:
+  - '[source] breaks because small things can be profoundly significant (a virus, a transistor, a mutation), and the metaphor systematically undervalues the tiny and subtle'
+  - '[source] misleads because the metaphor encourages rhetorical inflation -- to signal that something matters, speakers must make it ''bigger'' than the last significant thing, producing an escalation ratchet'
 ---
 
 ## Transfers

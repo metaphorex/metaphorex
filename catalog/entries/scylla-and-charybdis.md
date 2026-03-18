@@ -17,6 +17,13 @@ related:
 slug: scylla-and-charybdis
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] the two dangers are qualitatively different -- one offers certain bounded loss (six sailors), the other offers probabilistic total destruction (the whole ship)'
+  - '[source] the strait''s narrowness eliminates the middle ground, forcing a binary choice between two harms with no room to maneuver'
+  - '[source] the decision-maker receives expert intelligence about both options (Circe''s briefing) yet must still choose between losses, not between good and bad outcomes'
+limits:
+  - '[source] breaks because the strait is a one-time passage, while real dilemmas recur chronically -- the same trade-off reappears without a defined endpoint'
+  - '[source] misleads because the myth moves on without accountability for the six dead sailors, sanitizing the human cost of ''acceptable losses'' in a way that organizational decisions cannot'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: software-habitability
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - '[source] the code is a dwelling whose primary measure is whether its inhabitants can read, navigate, and modify it comfortably over time -- not whether it impresses visitors'
+  - '[source] the New England farmhouse model privileges organic growth over formal elegance -- code that grew around its maintainers'' needs, irregular but navigable, over pristine monuments to the original author'
+  - '[source] the concept distinguishes inhabitants from tourists, prioritizing the experience of people who will spend months modifying the code over the first impression of someone passing through'
+limits:
+  - '[source] breaks because buildings communicate their structure through visible physical features (doors, hallways, load-bearing walls), while source code has no equivalent spatial legibility -- you cannot ''walk through'' a codebase and feel where the structure is'
+  - '[source] misleads because the farmhouse romance obscures that organic growth without standards produces the software equivalent of inadequate wiring and lead paint -- accumulated technical debt wearing a warm aesthetic'
 ---
 
 ## Transfers

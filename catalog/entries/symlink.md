@@ -16,6 +16,13 @@ related:
 slug: symlink
 source_frame: physical-connection
 updated: '2026-03-14'
+transfers:
+  - '[source] a link joins two things the way a chain connects segments -- the metaphor makes the abstract relationship between a filename and its data feel tangible and manipulable'
+  - '[source] a broken link is a chain with a missing segment, and ''dangling'' adds a gravitational image of a rope hanging uselessly into empty space -- one of computing''s most vivid error-state metaphors'
+  - '[source] link count maps onto structural integrity -- an object held by multiple chains remains secure, and when the last chain is removed it falls, grounding reference counting in physical intuition'
+limits:
+  - '[source] breaks because physical links are bidirectional (A connects to B and B to A), while symlinks are purely one-directional -- the target does not know the link exists, making ''link'' misleading about mutual connection'
+  - '[source] misleads because hard links are not connections between two things but two names for the same thing -- there is no ''link'' object to inspect, and calling this a link imports separation where there is actually identity'
 ---
 
 ## Transfers

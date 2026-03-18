@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - communication
 updated: '2026-03-14'
+transfers:
+  - '[source] the defining structural feature is the deliberate miss -- the shot must be close enough to demonstrate capability but far enough to be clearly intentional'
+  - '[source] the warning preserves the target''s agency by offering a choice (stop, change course, or accept consequences) rather than imposing immediate harm'
+  - '[source] firing reveals the shooter''s own position, armament, and red lines -- the warning is not a cost-free communication'
+limits:
+  - '[source] breaks because social warnings lack the unambiguity of cannon fire -- what the sender intends as a calibrated threat, the recipient may perceive as routine correspondence'
+  - '[source] misleads because the metaphor assumes a recognized escalation protocol (hail, warning shot, engagement), but social situations rarely have such orderly escalation ladders'
 ---
 
 ## Transfers

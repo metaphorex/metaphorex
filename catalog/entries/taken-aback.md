@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - mental-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] the surprise specifically interrupts forward momentum -- the ship was moving forward and is now stopped or driven backward, importing a model of surprise as halted progress rather than generic startlement'
+  - '[source] the cause is external and arrives without warning from a direction the observer was not monitoring -- the helmsman feels the wind change, he does not see it coming'
+  - '[source] the physical staggering of the ship and crew maps onto psychological staggering, giving the expression a kinesthetic quality that ''surprised'' lacks'
+limits:
+  - '[source] breaks because the expression has been softened from life-threatening nautical emergency to mild social inconvenience -- a gap between the source domain''s severity and the target domain''s mildness that makes the mapping structurally dishonest'
+  - '[source] misleads because the directional logic (''aback'' means backward, driven in reverse) has been lost -- modern speakers picture freezing in place rather than being pushed in the wrong direction, losing the metaphor''s most interesting structural feature'
 ---
 
 ## Transfers

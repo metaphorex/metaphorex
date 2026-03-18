@@ -17,6 +17,13 @@ related:
 slug: tantalus
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] the desired object is perceptible and approachable but permanently ungratifiable -- close enough to activate desire, far enough to prevent satisfaction, structurally distinct from mere absence'
+  - '[source] proximity intensifies suffering -- nearness to the unattainable amplifies frustration, so a near-miss is more painful than a complete miss'
+  - '[source] the cycle repeats indefinitely -- Tantalus reaches, fails, recovers, reaches again -- mapping onto the experience of recurring almost-success'
+limits:
+  - '[source] breaks because ''tantalizing'' has acquired a positive valence -- the word now names pleasurable anticipation (a tantalizing preview, a tantalizing trailer), endorsing the sensation it was originally coined to condemn as torture'
+  - '[source] misleads because the myth is about divine punishment for specific crimes (serving his son to the gods), but the English word carries no moral freight -- the entire ethical structure has been shed, keeping only the phenomenology of frustrated desire'
 ---
 
 ## Transfers

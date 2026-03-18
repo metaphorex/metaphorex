@@ -19,6 +19,13 @@ related:
 slug: society-is-a-body
 source_frame: organism
 updated: '2026-03-13'
+transfers:
+  - '[source] social roles map onto bodily organs with specific functions -- the ruler is the head, the military is the arm, laborers are the hands -- making social specialization seem as natural as organ differentiation'
+  - '[source] social hierarchy maps onto anatomical hierarchy -- the head commands and the hands obey -- naturalizing the subordination of social classes through biological analogy'
+  - '[source] social dysfunction maps onto disease, making reform legible as surgery or medicine applied to a sick organism'
+limits:
+  - '[source] breaks because bodies have genuine neurological hierarchies (the brain controls the hand through wiring), but societies have no equivalent natural wiring that makes rulers superior to workers -- the metaphor smuggles a political claim inside a biological fact'
+  - '[source] misleads because the metaphor pathologizes dissent -- protesters become fevers, dissidents become infections, and revolutions become autoimmune disorders, framing all challenge to existing order as disease'
 ---
 
 ## Transfers

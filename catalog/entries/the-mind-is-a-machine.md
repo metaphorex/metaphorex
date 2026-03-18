@@ -19,6 +19,13 @@ related:
 slug: the-mind-is-a-machine
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - '[source] cognitive difficulty maps onto mechanical fault -- the mind stalls, is rusty, or has a screw loose -- making psychological problems feel diagnosable and in principle repairable'
+  - '[source] thinking produces ideas the way machines produce goods, privileging quantity and consistency of mental output over quality or originality'
+  - '[source] the mind requires energy input and depletes with use -- ''running out of steam'' and ''needs to recharge'' import thermodynamic constraints that map well onto the experience of cognitive fatigue'
+limits:
+  - '[source] breaks because machines are deterministic (same inputs, same outputs), but minds are not -- the metaphor diagnoses inconsistency as malfunction rather than creativity, adaptation, or growth'
+  - '[source] misleads because if the mind is a machine it has a factory specification, making neurodiversity look like manufacturing defects rather than natural variation -- deviation from the spec is always breakdown, never difference'
 ---
 
 ## Transfers

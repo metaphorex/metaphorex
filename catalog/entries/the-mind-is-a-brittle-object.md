@@ -18,6 +18,13 @@ related:
 slug: the-mind-is-a-brittle-object
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] external forces act on the mind as on a ceramic vessel -- pressure produces cracking, and the material has a known breaking point that stress can exceed'
+  - '[source] brittle failure is sudden and total, unlike gradual machine wear -- ''his mind snapped'' captures the experience of abrupt psychological collapse that the machine metaphor cannot'
+  - '[source] broken objects stay broken -- the metaphor implies psychological damage is permanent, mapping the irreversibility of shattered pottery onto mental health'
+limits:
+  - '[source] breaks because psychological resilience is more like a flexible material than a brittle one -- people bend, stretch, and spring back, and the metaphor has no vocabulary for elasticity or post-traumatic growth'
+  - '[source] misleads because the metaphor locates the cause externally (pressure cracks from outside), making it hard to talk about internally generated psychological distress like endogenous depression that arises without external force'
 ---
 
 ## Transfers

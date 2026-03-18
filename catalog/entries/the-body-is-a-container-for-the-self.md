@@ -21,6 +21,13 @@ related:
 slug: the-body-is-a-container-for-the-self
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] the body has an interior space where the self resides, and emotions are things that fill or overflow that space -- the boundary between body interior and exterior maps onto the boundary between private experience and public presentation'
+  - '[source] the self is an occupant that normally inhabits the body but can be dislodged by extreme emotion, illness, or altered states -- ''beside herself with rage'' places the self outside its container'
+  - '[source] death is the self departing its container -- ''he passed away,'' ''she''s gone'' -- leaving the body as an empty vessel, mapping directly onto dualist frameworks'
+limits:
+  - '[source] breaks because the self is not separable from the body -- the container metaphor implies the self could exist independently (like water in a glass), producing Cartesian dualism as a linguistic default that contradicts embodied cognition'
+  - '[source] misleads because the container model pathologizes porosity -- a person whose boundaries are ''too permeable'' is defective, providing no vocabulary for the value of empathic openness or dissolution of self-boundaries that contemplative traditions treat as a goal'
 ---
 
 ## Transfers

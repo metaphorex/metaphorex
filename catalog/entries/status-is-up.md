@@ -20,6 +20,13 @@ related:
 slug: status-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] social rank maps onto altitude, creating a vertical architecture where people occupy floors in a building with the most prestigious at the top'
+  - '[source] social mobility maps onto physical ascent and descent -- climbing requires effort, falling is sudden, and the metaphor makes status change feel like gravitational work'
+  - '[source] deference is enacted through spatial lowering (bowing, kneeling, lowering eyes), making the metaphor both spoken and physically performed'
+limits:
+  - '[source] breaks because not all social position is vertical -- caste systems and professional specializations create lateral distinctions that share no single up-down axis, and the metaphor cannot represent parallel hierarchies'
+  - '[source] misleads because the mapping reinforces meritocracy by aligning high status with GOOD IS UP -- those at the top seem implicitly deserving, providing cognitive scaffolding for the just-world hypothesis while structural inequality becomes invisible'
 ---
 
 ## Transfers

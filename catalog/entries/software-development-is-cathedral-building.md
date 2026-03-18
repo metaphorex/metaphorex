@@ -15,6 +15,13 @@ related:
 slug: software-development-is-cathedral-building
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - '[source] a single architect holds the vision and arbitrates all design disputes by fiat, while contributors execute the plan rather than negotiate its shape'
+  - '[source] construction proceeds in dependent phases (foundations, walls, roof) that cannot be reordered, mapping onto milestone-driven release schedules where v1.0 ships only when everything is ''finished'''
+  - '[source] the product is concealed until the architect declares it complete, importing the consecration model where no one sees the building until it is ritually opened'
+limits:
+  - '[source] breaks because cathedrals serve a fixed purpose (worship) that does not shift mid-construction, while software requirements mutate constantly -- the metaphor makes requirement changes feel like heresy rather than normal feedback'
+  - '[source] misleads because the revelation model hides defects -- if you do not show the building until it is done, you discover that the nave is too narrow only at consecration, systematically delaying feedback'
 ---
 
 ## Transfers

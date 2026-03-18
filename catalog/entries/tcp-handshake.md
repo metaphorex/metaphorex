@@ -17,6 +17,13 @@ related:
 slug: tcp-handshake
 source_frame: social-behavior
 updated: '2026-03-17'
+transfers:
+  - '[source] the handshake requires bilateral consent -- communication is not something one party does to another but something two parties agree to do together, with a SYN without SYN-ACK being a hand extended into empty air'
+  - '[source] the three-phase ritual (initiate, reciprocate, confirm) is the minimum exchange needed for both sides to verify mutual willingness and ability, mirroring the social greeting sequence'
+  - '[source] the handshake precedes the conversation -- no data is exchanged until the greeting completes, enforcing trust establishment before substantive exchange'
+limits:
+  - '[source] breaks because physical handshakes are hard to fake (you see who extends their hand), while TCP handshakes occur over a network where the source address can be forged -- the SYN flood attack exploits this gap between social trust and protocol vulnerability'
+  - '[source] misleads because social handshakes convey identity (face, grip, expression), while TCP handshakes authenticate nothing -- the warmth implied by the social metaphor is absent, which is why TLS had to be layered on top'
 ---
 
 ## Transfers

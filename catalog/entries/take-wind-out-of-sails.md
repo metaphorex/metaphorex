@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - competition
 updated: '2026-03-14'
+transfers:
+  - '[source] the competitive move is indirect -- you attack the environmental resource the opponent depends on rather than the opponent directly, mapping resource denial as a strategy distinct from confrontation'
+  - '[source] positioning is the weapon -- the tactic depends entirely on placement relative to wind and opponent, importing the insight that strategic positioning can be more decisive than direct engagement'
+  - '[source] the opponent is stalled, not destroyed -- a becalmed ship can recover when conditions change, mapping this onto competitive neutralization that is temporary and tactical rather than final'
+limits:
+  - '[source] breaks because arguments and enthusiasm are not zero-sum like wind -- deflating someone''s position does not necessarily strengthen yours, and the metaphor imports a zero-sum physics that does not apply to social dynamics'
+  - '[source] misleads because the metaphor implies strategic intent and skill, but modern usage often describes accidental or thoughtless undermining -- a casual remark that deflates excitement, not a deliberate tactical maneuver'
 ---
 
 ## Transfers

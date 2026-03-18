@@ -18,6 +18,13 @@ related:
 slug: the-iterator-pattern
 source_frame: travel
 updated: '2026-03-14'
+transfers:
+  - '[source] the iterator traverses a collection the way a traveler visits towns along a road, maintaining its position the way a traveler knows where they are -- sequential access as physical movement'
+  - '[source] the iterator does not own the territory it traverses -- a traveler passing through does not own the towns -- mapping the distinction between traversal and ownership onto access without copying'
+  - '[source] forward-only iterators embody the traveler who knows only ''next'' -- they can advance but cannot jump or backtrack, naturalizing the limitation as a feature of the journey'
+limits:
+  - '[source] breaks because travelers are embodied agents with fatigue and needs, while iterators are abstract position variables with a next() method -- the journey metaphor imports physicality that does not exist'
+  - '[source] misleads because travelers have agency and decide when to move, while iterators are controlled externally by client code -- the metaphor anthropomorphizes a passive data structure'
 ---
 
 ## Transfers

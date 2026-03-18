@@ -16,6 +16,13 @@ related:
 slug: states-are-shapes
 source_frame: geometry
 updated: '2026-03-13'
+transfers:
+  - '[source] normal state maps onto normal shape -- a person ''in shape'' is healthy, an argument ''in good form'' is well-structured, and distorted shape signals a disturbed state'
+  - '[source] change of state maps onto deformation or reformation -- an economy can be ''reshaped'' and a personality ''molded,'' making abstract change perceptible as visible physical deformation'
+  - '[source] causing change is shaping -- the agent who alters another''s state is sculpting, molding, or bending them, mapping causal influence onto physical manipulation of material'
+limits:
+  - '[source] breaks because the metaphor privileges geometric regularity as a model of well-being, but many healthy states are irregular -- a healthy ecosystem is messy, a creative mind unpredictable -- importing an aesthetic preference and presenting it as universal criterion'
+  - '[source] misleads because shaping implies passivity of the shaped -- ''she was shaped by her environment'' frames the person as clay rather than sculptor, minimizing agency in self-determined states'
 ---
 
 ## Transfers
