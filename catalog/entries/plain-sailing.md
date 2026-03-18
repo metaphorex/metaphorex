@@ -16,12 +16,12 @@ applies_to:
 - event-structure
 updated: '2026-03-14'
 transfers:
-  - '[source] Plane sailing projects a curved surface onto a flat plane, reducing spherical trigonometry to simple right-triangle calculations'
-  - '[source] The approximation introduces negligible error at short distances but cumulative error at long distances, so its validity is scale-dependent'
-  - '[source] The navigator actively chooses the simplified model when conditions warrant it, making ease a methodological decision rather than an environmental given'
+  - '[source] plane sailing projects a curved surface onto a flat plane, reducing spherical trigonometry to simple right-triangle calculations'
+  - '[source] the approximation introduces negligible error at short distances but cumulative error at long distances, so its validity is scale-dependent'
+  - '[source] the navigator actively chooses the simplified model when conditions warrant it, making ease a methodological decision rather than an environmental given'
 limits:
-  - '[source] Breaks because the original source domain is computational simplification, not calm weather — a plane-sailing voyage can occur in rough seas, so "ease" refers to the math, not the conditions'
-  - '[source] Fails to transfer the built-in caveat: plane sailing degrades predictably with distance, but the metaphor offers no signal for when the simplification stops being safe'
+  - '[source] breaks because the original source domain is computational simplification, not calm weather — a plane-sailing voyage can occur in rough seas, so "ease" refers to the math, not the conditions'
+  - '[source] fails to transfer the built-in caveat: plane sailing degrades predictably with distance, but the metaphor offers no signal for when the simplification stops being safe'
 ---
 
 ## Transfers
