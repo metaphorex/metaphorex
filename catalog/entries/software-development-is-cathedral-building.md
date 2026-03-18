@@ -7,6 +7,7 @@ categories:
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: Software Development Is Cathedral Building
 provenance: raymond-cathedral-and-bazaar

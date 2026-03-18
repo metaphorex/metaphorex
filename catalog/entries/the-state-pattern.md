@@ -7,6 +7,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
+harness: Claude Code
 dead: true
 kind: metaphor
 name: The State Pattern

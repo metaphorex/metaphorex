@@ -7,6 +7,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: The Quality Without a Name
 provenance: alexander-pattern-language
