@@ -16,12 +16,12 @@ applies_to:
 - event-structure
 updated: '2026-03-14'
 transfers:
-  - '[source] flat, unobstructed water allows steady progress without course corrections, mapping navigational ease onto effortless progress in any endeavor'
-  - '[source] the absence of hazards (reefs, shallows, opposing currents) defines the ease, mapping threat removal onto problem elimination'
-  - '[source] the sailor''s skill is not tested in calm conditions, mapping unchallenging circumstances onto situations requiring no special competence'
+  - '[source] Plane sailing projects a curved surface onto a flat plane, reducing spherical trigonometry to simple right-triangle calculations'
+  - '[source] The approximation introduces negligible error at short distances but cumulative error at long distances, so its validity is scale-dependent'
+  - '[source] The navigator actively chooses the simplified model when conditions warrant it, making ease a methodological decision rather than an environmental given'
 limits:
-  - '[source] breaks because calm seas with no wind actually halt a sailing vessel, while the metaphor treats absence of obstacles as pure advantage'
-  - '[source] misleads because sailors value challenging conditions that test seamanship, while the metaphor frames difficulty as purely negative rather than as the source of skill development'
+  - '[source] Breaks because the original source domain is computational simplification, not calm weather — a plane-sailing voyage can occur in rough seas, so "ease" refers to the math, not the conditions'
+  - '[source] Fails to transfer the built-in caveat: plane sailing degrades predictably with distance, but the metaphor offers no signal for when the simplification stops being safe'
 ---
 
 ## Transfers
