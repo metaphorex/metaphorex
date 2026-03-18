@@ -19,6 +19,13 @@ related:
 slug: boil-the-ocean
 source_frame: natural-phenomena
 updated: '2026-03-14'
+transfers:
+  - '[source] boiling the entire ocean requires more energy than any practical system can deliver, framing the project as demanding resources that exceed all available supply by orders of magnitude'
+  - '[source] the ocean is a single continuous body that cannot be partially boiled without the heat dissipating, importing the insight that the problem cannot be decomposed into tractable sub-problems'
+  - '[source] the absurdity of the image is the point -- no one would seriously attempt it -- framing the proposal as revealing the proposer''s inability to scope work realistically'
+limits:
+  - '[source] breaks because ocean-boiling is physically impossible, while most "boil-the-ocean" projects are merely impractical and could theoretically succeed with sufficient resources and time'
+  - '[source] misleads by dismissing ambitious scope categorically, when some historically successful projects (interstate highway system, moon landing) would have sounded like boiling the ocean at proposal stage'
 ---
 
 ## Transfers

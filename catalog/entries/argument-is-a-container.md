@@ -20,6 +20,13 @@ related:
 slug: argument-is-a-container
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] a container has an inside and an outside with a boundary between them, framing arguments as having content that is either included in or excluded from the argument''s scope'
+  - '[source] containers can be full, empty, or partially filled, importing the assessment that arguments have varying amounts of substance or content'
+  - '[source] what is inside the container is contained and organized by it, framing the argument as giving structure and coherence to the propositions it holds'
+limits:
+  - '[source] breaks because containers hold their contents passively, while arguments actively relate propositions through logical inference, not mere spatial inclusion'
+  - '[source] misleads by implying arguments have sharp boundaries, when real arguments shade into background assumptions and contextual knowledge without a clear inside-outside division'
 ---
 
 ## Transfers

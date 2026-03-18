@@ -15,6 +15,13 @@ related:
 slug: ai-is-an-oracle
 source_frame: religion
 updated: '2026-03-13'
+transfers:
+  - '[source] an oracle delivers answers from a source of knowledge inaccessible to the questioner, framing AI as possessing compressed knowledge that the user cannot directly inspect or verify'
+  - '[source] oracular pronouncements are ambiguous and require interpretation by the recipient, importing the structural problem that AI outputs need contextual judgment to apply correctly'
+  - '[source] supplicants approach the oracle with specific questions and receive responses shaped by the question''s framing, mapping prompt engineering onto the ancient practice of formulating queries to elicit useful prophecy'
+limits:
+  - '[source] breaks because the Delphic oracle''s authority rested on divine connection, while AI authority rests on statistical patterns in training data -- the epistemological basis is fundamentally different'
+  - '[source] misleads by implying the oracle possesses truth that humans lack, when AI recombines existing human knowledge rather than accessing a superior source'
 ---
 
 ## Transfers

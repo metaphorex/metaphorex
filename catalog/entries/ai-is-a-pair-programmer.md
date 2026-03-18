@@ -17,6 +17,13 @@ related:
 slug: ai-is-a-pair-programmer
 source_frame: collaborative-work
 updated: '2026-03-13'
+transfers:
+  - '[source] pair programming assigns distinct roles -- driver and navigator -- where the navigator catches errors the driver misses, importing a division of labor where AI reviews while the human authors'
+  - '[source] the pair shares a single codebase and communicates in real time about design decisions, framing human-AI coding as a collaborative dialogue rather than batch delegation'
+  - '[source] pair programming improves code quality through continuous review rather than post-hoc inspection, importing the structural benefit of catching defects at creation time'
+limits:
+  - '[source] breaks because a human pair partner understands the business context, user needs, and team dynamics that inform design choices, while AI responds only to what is explicit in the prompt and codebase'
+  - '[source] misleads by implying equal agency, when the AI cannot initiate design disagreements or refuse to implement architecturally unsound requests'
 ---
 
 ## Transfers

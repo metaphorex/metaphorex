@@ -16,6 +16,13 @@ related:
 slug: big-ball-of-mud
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] mud is structureless, undifferentiated, and takes whatever shape its container imposes, framing the codebase as lacking internal boundaries or organizing principles'
+  - '[source] a ball of mud accumulates incrementally as material sticks to its surface, importing the growth pattern where expedient additions accrete without deliberate architecture'
+  - '[source] mud is difficult to decompose into constituent parts once mixed, framing the entanglement problem where modules in the codebase cannot be separated without tearing connected dependencies'
+limits:
+  - '[source] breaks because mud is homogeneous throughout, while even poorly structured codebases contain internal clusters of coherence that a mud metaphor obscures'
+  - '[source] misleads by implying the only remedy is starting over with clean material, when many big-ball-of-mud systems are successfully refactored incrementally through strangler-fig and other decomposition patterns'
 ---
 
 ## Transfers

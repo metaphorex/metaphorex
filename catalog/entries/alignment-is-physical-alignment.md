@@ -16,6 +16,13 @@ related:
 slug: alignment-is-physical-alignment
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - '[source] physical alignment requires bringing two objects into a shared axis or orientation, framing value alignment as achieving correspondence between AI objectives and human values along measurable dimensions'
+  - '[source] misalignment in machinery causes friction, wear, and eventual failure, importing the prediction that even small divergences between AI objectives and human values will compound into significant harm over time'
+  - '[source] alignment is a continuous maintenance task -- machines drift out of alignment through use -- framing AI alignment as requiring ongoing monitoring rather than one-time calibration'
+limits:
+  - '[source] breaks because physical alignment has a clear reference axis (the machine''s design specification), while human values are plural, contested, and context-dependent with no single correct alignment target'
+  - '[source] misleads by implying alignment is a binary state (aligned or not), when AI systems may be well-aligned on some value dimensions and poorly aligned on others simultaneously'
 ---
 
 ## Transfers

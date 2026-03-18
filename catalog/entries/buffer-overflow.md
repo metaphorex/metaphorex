@@ -19,6 +19,13 @@ related:
 slug: buffer-overflow
 source_frame: fluid-dynamics
 updated: '2026-03-14'
+transfers:
+  - '[source] a buffer is a fixed-capacity holding area, and overflow occurs when input exceeds that capacity and spills into adjacent space, framing the vulnerability as a boundary violation where data escapes its designated region'
+  - '[source] the overflow overwrites whatever occupies adjacent memory, importing the mechanism where unchecked input corrupts program state that was assumed to be protected by spatial separation'
+  - '[source] buffer overflow exploits depend on the adjacency of the buffer to critical control data (return addresses), framing the vulnerability as an architectural co-location problem rather than an input validation problem'
+limits:
+  - '[source] breaks because physical buffers (reservoirs, holding tanks) overflow by spilling outward harmlessly, while memory buffer overflow corrupts adjacent internal state -- the damage direction is inverted'
+  - '[source] misleads by suggesting the fix is simply a bigger buffer, when the actual remedy is bounds checking that prevents overflow regardless of buffer size'
 ---
 
 ## Transfers

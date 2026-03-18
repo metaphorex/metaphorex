@@ -17,6 +17,13 @@ related:
 slug: ai-is-a-tool
 source_frame: tool-use
 updated: '2026-03-13'
+transfers:
+  - '[source] a tool extends human capability in a specific direction chosen by the user, importing the structure where the human provides intentionality and the tool provides mechanical advantage'
+  - '[source] tools require skill to use effectively -- a saw in untrained hands produces rough cuts -- framing AI proficiency as a learned craft rather than plug-and-play automation'
+  - '[source] a tool can be put down when not needed and has no agenda of its own, importing the assumption that AI is inert when not invoked and serves no interests independent of the user'
+limits:
+  - '[source] breaks because traditional tools transform the physical world through predictable mechanical action, while AI transforms information through statistical processes whose outputs are not fully predictable from inputs'
+  - '[source] misleads by implying the user always understands what the tool is doing, when AI internal processes are opaque even to expert users'
 ---
 
 ## Transfers

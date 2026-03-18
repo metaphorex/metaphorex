@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - event-structure
 updated: '2026-03-14'
+transfers:
+  - '[source] battening hatches seals deck openings with wooden strips and tarpaulins before a storm arrives, framing preparation as closing vulnerable interfaces before a known threat materializes'
+  - '[source] the action is preventive and time-bounded -- you batten down when the storm is approaching, not after it hits -- importing urgency tied to a narrow preparation window'
+  - '[source] hatches are normally open for ventilation and access, so battening them trades operational flexibility for survival, framing crisis preparation as accepting reduced capability to preserve structural integrity'
+limits:
+  - '[source] breaks because sailors can observe approaching weather and time their preparations, while many organizational crises arrive without warning or with ambiguous signals'
+  - '[source] misleads by implying that the threat is external and temporary (a storm passes), when many organizational threats are internal or persistent'
 ---
 
 ## Transfers

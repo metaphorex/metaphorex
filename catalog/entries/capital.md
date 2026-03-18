@@ -17,6 +17,13 @@ source_frame: animal-husbandry
 applies_to:
 - economics
 updated: '2026-03-15'
+transfers:
+  - '[source] capital originally referred to heads of cattle (capita) counted as the principal asset of a pastoral economy, framing wealth as a countable stock of productive assets rather than a flow of income'
+  - '[source] cattle reproduce, so capital generates returns from its own stock without being consumed, importing the structural distinction between assets that produce value (capital) and assets that are used up (supplies)'
+  - '[source] a herd can be grown by retaining offspring rather than slaughtering them, framing investment as the choice to forgo immediate consumption in favor of future productive capacity'
+limits:
+  - '[source] breaks because cattle are self-reproducing biological organisms, while financial capital requires external deployment decisions and market conditions to generate returns'
+  - '[source] misleads by implying capital is tangible and countable in discrete units, when modern capital includes intangible assets (intellectual property, brand equity, social capital) that resist the head-counting metaphor'
 ---
 
 ## What It Brings

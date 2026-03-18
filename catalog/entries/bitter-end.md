@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - event-structure
 updated: '2026-03-14'
+transfers:
+  - '[source] the bitter end is the inboard end of an anchor cable secured to the bitts, and paying out rope to the bitter end means no more cable remains -- the ship is at maximum anchor scope'
+  - '[source] reaching the bitter end is a hard physical limit imposed by the finite length of the cable, framing persistence as continuing until a real material constraint stops further progress'
+  - '[source] the transition from having rope left to having none is abrupt and consequential -- beyond the bitter end, the anchor is lost -- importing the structure of a sudden threshold after gradual depletion'
+limits:
+  - '[source] breaks because the nautical bitter end is a precise, known-in-advance limit (the cable has a measurable length), while metaphorical bitter ends are usually discovered only upon arrival'
+  - '[source] misleads by implying the endpoint is always negative (losing the anchor), when reaching the end of a process can also mean completion rather than catastrophe'
 ---
 
 ## Transfers

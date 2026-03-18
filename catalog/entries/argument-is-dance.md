@@ -14,6 +14,13 @@ related:
 slug: argument-is-dance
 source_frame: dance
 updated: '2026-03-09'
+transfers:
+  - '[source] dance requires partners to coordinate their movements in real time, framing argument as mutual responsiveness rather than unilateral attack'
+  - '[source] the quality of a dance depends on both participants and cannot be achieved solo, importing the insight that argument quality is a joint production, not an individual achievement'
+  - '[source] missteps in dance threaten both partners'' performance, framing the other person''s error as a shared problem to correct rather than an advantage to exploit'
+limits:
+  - '[source] breaks because dance partners typically share the goal of a good performance, while arguers may have genuinely incompatible objectives that coordination cannot resolve'
+  - '[source] misleads by implying argument should be aesthetically evaluated, when many arguments aim at truth-finding where elegance is irrelevant to validity'
 ---
 
 ## Transfers

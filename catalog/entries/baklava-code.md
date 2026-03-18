@@ -15,6 +15,13 @@ related:
 slug: baklava-code
 source_frame: food-and-cooking
 updated: '2026-03-14'
+transfers:
+  - '[source] baklava consists of many thin layers of phyllo dough stacked atop one another, framing over-layered software as having excessive thin abstraction levels that each add minimal value'
+  - '[source] each phyllo layer is fragile and transparent individually but the stack becomes rigid and difficult to modify, importing the paradox where individually reasonable abstractions collectively create brittleness'
+  - '[source] the filling (functionality) is compressed between layers of pastry (abstraction), framing the problem as useful code being obscured by disproportionate structural overhead'
+limits:
+  - '[source] breaks because baklava layers are uniform and identical in composition, while software abstraction layers serve categorically different purposes (presentation, business logic, persistence)'
+  - '[source] misleads by implying the solution is fewer layers, when the problem is inappropriate layering -- some well-designed systems have many layers that each carry genuine structural weight'
 ---
 
 ## Transfers
