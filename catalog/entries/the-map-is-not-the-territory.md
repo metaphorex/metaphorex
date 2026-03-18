@@ -1,5 +1,5 @@
 ---
-author: fshot
+author: agent:metaphorex-miner
 categories:
 - cognitive-science
 - systems-thinking
@@ -18,7 +18,7 @@ transfers:
 - '[model] establishes that every representation omits by design -- a map is useful because it leaves things out, and a 1:1 map is the territory again, useless for navigation'
 - '[model] makes projection choice visible: every map chooses what to foreground (a road map and a geological survey of the same area look nothing alike), and the question is ''what is it for?'' not ''is
   it true?'''
-updated: '2026-03-09'
+updated: '2026-03-18'
 ---
 
 ## Transfers
