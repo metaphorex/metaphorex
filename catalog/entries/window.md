@@ -14,7 +14,7 @@ slug: window
 source_frame: embodied-experience
 applies_to:
 - architecture-and-building
-updated: '2026-03-15'
+updated: '2026-03-18'
 transfers:
   - '[source] The opening is bidirectional — it simultaneously admits perception inward and outward, encoding surveillance and privacy in a single structure'
   - '[source] The frame crops reality into a bounded selection, making the window a device of selective attention rather than full exposure'
@@ -25,7 +25,7 @@ limits:
   - '[source] The eye metaphor implies a single fixed perspective, but temporal extensions like "window of opportunity" abandon spatial perception entirely'
 ---
 
-## What It Brings
+## Transfers
 
 The body's eye maps onto the building's opening. Old Norse *vindauga* --
 *vindr* (wind) + *auga* (eye) -- understood a hole in a wall as an eye
@@ -58,7 +58,7 @@ Key structural parallels:
   mapping: wall-opening is body-opening. The metaphor was so natural it
   was invented twice.
 
-## Where It Breaks
+## Limits
 
 - **Wind-eyes don't close** -- the original *vindauga* was an unglazed
   opening. Glass windows, which can be opened and closed, shuttered and

@@ -15,23 +15,23 @@ slug: three-sheets-to-the-wind
 source_frame: seafaring
 applies_to:
 - embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-18'
 transfers:
-  - '[source] Loss of control is graduated — each additional loose sheet produces a distinct, worsening degree of ungovernability'
-  - '[source] The vessel''s underlying machinery remains intact; impairment is in governance of existing capacity, not loss of capacity'
-  - '[source] The mapping is kinesthetic — it describes staggering motion rather than rendering moral judgment'
+- '[source] Loss of control is graduated — each additional loose sheet produces a distinct, worsening degree of ungovernability'
+- '[source] The vessel''s underlying machinery remains intact; impairment is in governance of existing capacity, not loss of capacity'
+- '[source] The mapping is kinesthetic — it describes staggering motion rather than rendering moral judgment'
 limits:
-  - '[source] Sheets come loose involuntarily through storm or equipment failure, obscuring that drunkenness begins as a voluntary act'
-  - '[source] The graduated scale (one, two, three sheets) has collapsed in modern usage to a single fixed phrase for the extreme case, erasing the structural precision that made the original mapping interesting'
+- '[source] Sheets come loose involuntarily through storm or equipment failure, obscuring that drunkenness begins as a voluntary act'
+- '[source] The graduated scale (one, two, three sheets) has collapsed in modern usage to a single fixed phrase for the extreme case, erasing the structural precision that made the original mapping interesting'
 ---
 
 ## Transfers
 
-## What It Brings
+Loss of control is graduated. Each sheet that comes loose produces increasing impairment, not a sudden collapse into total dysfunction. The vessel's machinery remains intact — the problem is governance, not capacity. And the mapping is kinesthetic, describing the visible staggering of a drunk person rather than rendering moral judgment. This is why the expression carries a lighter, almost affectionate tone compared to clinical language.
 
 ## Limits
 
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+The metaphor assumes sheets come loose involuntarily through mechanical failure, but drunkenness begins as a voluntary act — the ship's accident maps imperfectly onto human choice. And the graduated scale that made the original metaphor structurally interesting has been lost in modern usage, which only preserves the extreme case ("three sheets to the wind") as a fixed phrase, erasing the intermediate steps.
 
 ## Expressions
 

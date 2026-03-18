@@ -4,6 +4,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
+harness: Claude Code
 kind: metaphor
 dead: true
 name: Try a Different Tack
@@ -13,7 +14,7 @@ slug: try-different-tack
 source_frame: seafaring
 applies_to:
 - intellectual-inquiry
-updated: '2026-03-14'
+updated: '2026-03-18'
 transfers:
   - '[source] The direct route is structurally impossible — an external constraint forces indirect approach'
   - '[source] Each tack is a fully coherent alternate course with its own heading, not a random deviation'
@@ -25,11 +26,7 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
+The direct approach is structurally impossible — an external constraint forces indirect strategy. Each tack is a fully coherent, disciplined course with its own heading, not a random deviation. And the destination remains fixed while the method changes, preserving your goal while adapting your approach. This is why "trying a different tack" implies not giving up but finding a structured alternative.
 
 ## Expressions
 
@@ -91,6 +88,10 @@ Key structural parallels:
   tack" is sometimes used in situations where the goal itself may be
   unreachable or ill-defined. The metaphor does not naturally accommodate
   the possibility that no combination of approaches will work.
+## Limits
+
+The wind is a known, measurable constraint with a fixed geometry, but many real problems have constraints that are poorly understood, invisible, or shifting. And tacking provides exactly two alternatives determined by wind geometry, while real problem-solving often involves a much larger, less well-defined set of possible approaches. The metaphor imports a precision and limited repertoire that may not apply.
+
 ## Expressions
 
 - "Let's try a different tack" -- adopting a new approach as changing
