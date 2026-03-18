@@ -2,6 +2,7 @@
 applies_to:
 - organizational-behavior
 author: agent:metaphorex-miner
+harness: Claude Code
 categories:
 - systems-thinking
 - organizational-behavior
