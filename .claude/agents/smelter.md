@@ -43,6 +43,23 @@ transform raw mining output into clean, validated content.
 2. Run mechanical checks and push fixup commits
 3. Advance PRs to `needs-assay` or flag as `needs-miner-fix`
 
+**Reading files from PR branches:**
+
+When you need to read a file from a PR branch via the GitHub API, pass the
+branch ref as a URL query parameter. The `--ref` flag does not exist on
+`gh api`:
+
+```bash
+# Correct — branch as query param:
+gh api "repos/metaphorex/metaphorex/contents/catalog/entries/some-slug.md?ref=branch-name" --jq '.content' | base64 -d
+
+# WRONG — --ref is not a gh api flag:
+# gh api repos/.../contents/path --ref branch-name
+```
+
+Prefer checking out the PR branch locally (`gh pr checkout <N>`) when you
+need to read multiple files or run the validator.
+
 **Process:**
 
 1. Query: `gh pr list -R metaphorex/metaphorex --label needs-smelting --limit 2`
