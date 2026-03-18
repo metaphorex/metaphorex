@@ -201,6 +201,22 @@ When writing entries, prioritize:
 
 Avoid restating what any educated reader already knows about the metaphor.
 
+**Git Safety (worktree guard):**
+
+Nested worktrees can cause commits on unintended branches. At the start of
+every run, perform these two checks:
+
+1. **Verify repo root.** Run `git rev-parse --show-toplevel` and confirm the
+   output matches the expected repository root. If it does not, abort
+   immediately with a clear error — do not proceed with any git operations.
+2. **Verify branch before committing.** Before every `git commit` or
+   `gh pr create`, run `git branch --show-current` and confirm it matches the
+   branch you created for this task. If the branch name is wrong, abort with a
+   clear error — do not commit to the wrong branch.
+
+If either check fails, stop work and report the mismatch in a comment on the
+source issue. Do not attempt to fix the worktree state yourself.
+
 **Git Workflow:**
 
 - Create a branch: `mine/<project-name>/<slug>`
