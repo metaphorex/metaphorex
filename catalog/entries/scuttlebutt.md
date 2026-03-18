@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - communication
 updated: '2026-03-14'
+transfers:
+  - '[source] the gathering place is incidental to its designed purpose -- sailors came for water, not conversation, yet the convergence point generated an informal information network'
+  - '[source] information flows through a metonymic chain: container to location to activity to content, each step further from the physical origin'
+  - '[source] the information exchanged is unverified but socially functional -- it bonds the group and provides early warning without official sanction'
+limits:
+  - '[source] breaks because the original scuttlebutt enforced spatial convergence in a confined space, while modern gossip networks are distributed and asynchronous with no physical focal point'
+  - '[source] misleads because the barrel was egalitarian (any sailor could drink and talk), but real gossip networks are stratified with hub-and-spoke topology that the metaphor''s implied democracy obscures'
 ---
 
 ## Transfers
