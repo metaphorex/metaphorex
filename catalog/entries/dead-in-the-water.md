@@ -4,6 +4,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
+harness: Claude Code
 kind: metaphor
 dead: true
 name: Dead in the Water

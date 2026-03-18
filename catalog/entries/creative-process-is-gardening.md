@@ -8,6 +8,7 @@ categories:
 - biology-and-ecology
 contributors: []
 created: '2026-03-07'
+harness: Claude Code
 kind: metaphor
 name: Creative Process Is Gardening
 provenance: eno-composers-as-gardeners

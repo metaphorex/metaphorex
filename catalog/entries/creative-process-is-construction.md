@@ -7,6 +7,7 @@ categories:
 - arts-and-culture
 contributors: []
 created: '2026-03-07'
+harness: Claude Code
 kind: metaphor
 name: Creative Process Is Construction
 provenance: eno-composers-as-gardeners
