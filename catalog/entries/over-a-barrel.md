@@ -25,14 +25,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 The most widely cited nautical origin: sailors being punished were bent
 over a cannon barrel or deck barrel for flogging. A competing etymology
 places the scene at rescue rather than punishment -- a near-drowned
@@ -65,7 +57,8 @@ Key structural parallels:
   over. One acts, the other receives. The metaphor captures situations
   of radical power imbalance where one side has all the agency and the
   other has none.
-## Where It Breaks
+
+## Limits
 
 - **The metaphor implies physical force; most leverage is structural**
   -- being literally bent over a barrel involves bodily coercion. But

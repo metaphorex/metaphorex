@@ -26,7 +26,7 @@ limits:
   - '[source] misleads because the subsistence framing naturalizes low pay by etymologically encoding bare necessity, making it harder to argue that compensation should reflect value created rather than survival costs'
 ---
 
-## What It Brings
+## Transfers
 
 A commodity of survival maps onto compensation for labor. The Latin
 *salarium* -- whether it meant an allowance for purchasing salt, a
@@ -57,7 +57,7 @@ Key structural parallels:
   material cost of keeping you alive. The phrase treats the worker as
   an expense to be justified, not a person to be valued.
 
-## Where It Breaks
+## Limits
 
 - **Salt was communal; salary is individual** -- salt was distributed,
   shared, used collectively. A salary is a private transaction between

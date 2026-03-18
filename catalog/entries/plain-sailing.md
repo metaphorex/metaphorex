@@ -26,14 +26,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 The original term was "plane sailing" -- a navigation method that treats
 the Earth's surface as a flat plane rather than a sphere. Over short
 distances, this simplification introduces negligible error and makes
@@ -64,7 +56,8 @@ Key structural parallels:
   distinction has been completely lost in modern usage, where "plain
   sailing" implies favorable external conditions rather than a
   deliberately simplified approach.
-## Where It Breaks
+
+## Limits
 
 - **The folk etymology erased the actual insight** -- by replacing
   "plane" with "plain," English speakers lost the original meaning
