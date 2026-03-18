@@ -9,6 +9,9 @@ contributors: []
 created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because landscapes are fixed while you navigate them, but real problems often change as you work on them -- the swamp rearranges itself while you wade through it'
+- '[source] misleads by implying total resolution (exit the region), when many problems (chronic illness, structural poverty) have no clean boundary and must be lived with rather than escaped'
 name: A Problem Is a Region in a Landscape
 provenance: osaka-master-metaphor-list
 related:
@@ -19,6 +22,10 @@ related:
 - purposes-are-destinations
 slug: a-problem-is-a-region-in-a-landscape
 source_frame: journeys
+transfers:
+- '[source] maps problematic states onto bad locations with terrain features (paths, dead ends, obstacles, visibility), making problem-solving a journey of finding and following a route to the exit'
+- '[source] maps confusion onto disorientation and clarity onto visibility, so not knowing the solution is being lost and understanding is seeing the way out'
+- '[source] gives problems depth and a center -- moving further in is getting worse, moving toward the edges is approaching relief -- providing a spatial scale of severity'
 updated: '2026-03-17'
 ---
 

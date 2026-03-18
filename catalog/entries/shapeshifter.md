@@ -6,11 +6,19 @@ categories:
 contributors: []
 created: '2026-03-14'
 kind: archetype
+limits:
+- '[source] breaks because the archetype stigmatizes flexibility by framing all form-change as inherently deceptive, when much adaptation is neither dishonest nor suspect'
+- '[source] misleads by assuming a stable identity beneath transformations, but in some domains there is no true form -- a startup that has pivoted three times is the sum of its pivots'
 name: Shapeshifter
 related: []
 slug: shapeshifter
 source_frame: mythology
 target_frame: social-roles
+transfers:
+- '[source] the shapeshifter survives by becoming what the situation requires, treating identity as a strategic tool rather than a fixed fact'
+- '[source] changing form exploits the assumption that appearance reflects reality, mapping deception through adopted personas onto social engineering and impersonation'
+- '[source] shapeshifters cross categories supposed to be fixed (human/animal, friend/enemy), making category boundaries visible by violating them'
+- '[source] most traditions preserve a true form beneath the transformations (Proteus can be pinned, Loki can be bound), implying that identity persists even when form is fluid'
 updated: '2026-03-14'
 ---
 

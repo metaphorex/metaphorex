@@ -7,10 +7,17 @@ categories:
 contributors: []
 created: '2026-03-07'
 kind: mental-model
+limits:
+- '[model] breaks when taken to its extreme as corrosive nihilism: ''all models are wrong'' does not mean all models are equally wrong, and incompleteness is not a license to treat frameworks as interchangeable'
+- '[model] misleads when weaponized as ''that''s just a model'' to dismiss any inconvenient framework -- climate models are incomplete but this does not make them useless'
 name: The Map Is Not the Territory
 related: []
 slug: the-map-is-not-the-territory
 source_frame: cartography
+transfers:
+- '[model] establishes that every representation omits by design -- a map is useful because it leaves things out, and a 1:1 map is the territory again, useless for navigation'
+- '[model] makes projection choice visible: every map chooses what to foreground (a road map and a geological survey of the same area look nothing alike), and the question is ''what is it for?'' not ''is
+  it true?'''
 updated: '2026-03-09'
 ---
 

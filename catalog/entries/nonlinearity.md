@@ -6,6 +6,9 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks because calling everything nonlinear makes the concept unfalsifiable -- if every surprising outcome is attributed to nonlinearity, it explains everything and predicts nothing'
+- '[model] misleads by implying that linear models are always wrong, when most systems behave linearly within their normal operating range and nonlinear effects matter only at the extremes'
 name: Nonlinearity
 provenance: munger-poor-charlies-almanack
 related:
@@ -15,6 +18,9 @@ related:
 - the-map-is-not-the-territory
 slug: nonlinearity
 source_frame: physics
+transfers:
+- '[model] predicts that near a threshold, the relationship between cause and effect changes character -- a small input can trigger a qualitative phase change rather than a proportional response'
+- '[model] identifies positive feedback loops as the mechanism: outputs feed back as inputs, amplifying small perturbations until they explode (bank runs) or collapse suddenly (viral content saturation)'
 updated: '2026-03-13'
 ---
 

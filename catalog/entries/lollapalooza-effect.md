@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks because any extreme outcome can be retroactively attributed to converging factors, making it an unfalsifiable post-hoc narrative rather than a predictive tool'
+- '[model] misleads because the physics analogy (wave superposition) is mathematically precise, while cognitive biases have no known amplitudes, frequencies, or combination rules'
 name: Lollapalooza Effect
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +17,10 @@ related:
 - the-map-is-not-the-territory
 slug: lollapalooza-effect
 source_frame: physics
+transfers:
+- '[model] predicts that when multiple cognitive tendencies align in the same direction, their combined effect is multiplicative rather than additive, producing outcomes no single bias can explain'
+- '[model] identifies threshold effects where individual biases accumulate quietly until their convergence crosses a critical point and produces extreme behavior (cults, financial manias, institutional
+  corruption)'
 updated: '2026-03-13'
 ---
 

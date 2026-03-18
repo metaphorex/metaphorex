@@ -6,12 +6,18 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[law] breaks because not all competition is tightly co-evolutionary -- many competitive environments involve impersonal forces (technology shifts, demographic changes) rather than direct mutual escalation'
+- '[law] misleads by obscuring the option of changing the game entirely, biasing toward incremental improvement and against radical repositioning or disruptive innovation'
 name: Red Queen Effect
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest
 slug: red-queen-effect
 source_frame: natural-selection
+transfers:
+- '[law] predicts that in co-evolutionary competition, adaptation is maintenance rather than advancement -- improving by 10% while competitors improve by 10% means standing still, not gaining ground'
+- '[law] predicts that standing still is falling behind, because competitors who continue evolving make your unchanged position relatively worse even though nothing about you has changed'
 updated: '2026-03-13'
 ---
 

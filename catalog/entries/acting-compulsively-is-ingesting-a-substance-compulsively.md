@@ -10,12 +10,22 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks for ritualistic or anxiety-driven compulsions (handwashing, checking locks) where nothing is being ''taken in'' and the ingestion frame does not map naturally'
+- '[source] misleads by pathologizing ordinary repetition -- calling someone a ''news junkie'' imports the full pathology of substance abuse into contexts with no intermediate category between normal enjoyment
+  and clinical addiction'
 name: Acting Compulsively Is Ingesting A Substance Compulsively
 provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person
 slug: acting-compulsively-is-ingesting-a-substance-compulsively
 source_frame: compulsive-ingestion
+transfers:
+- '[source] maps the structure of substance addiction (craving, tolerance, withdrawal, relapse) onto any repetitive behavior that feels out of control, giving compulsion a ready-made narrative arc'
+- '[source] recasts the activity as a substance that the person takes in, shifting agency from the person to the substance so that the behavior becomes something that happens to you rather than something
+  you do'
+- '[source] imports the escalation logic of pharmacological tolerance: just as the body adapts to a substance and requires more for the same effect, the metaphor explains why compulsive behaviors intensify
+  over time'
 updated: '2026-03-13'
 ---
 

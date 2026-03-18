@@ -9,6 +9,10 @@ contributors: []
 created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because the planner is rendered passive (standing still while events approach), obscuring that scheduling involves active manipulation -- moving meetings, extending deadlines, compressing
+  timelines'
+- '[source] misleads by giving arbitrary human-created deadlines the false objectivity of natural phenomena, making them feel as inevitable as sunrise rather than negotiable agreements'
 name: A Schedule Is a Moving Object
 provenance: osaka-master-metaphor-list
 related:
@@ -18,6 +22,10 @@ related:
 - purposes-are-destinations
 slug: a-schedule-is-a-moving-object
 source_frame: physics
+transfers:
+- '[source] maps scheduled events onto objects moving toward a stationary observer, making deadlines approach with speed that corresponds to urgency and momentum that resists redirection'
+- '[source] frames missed deadlines as objects that passed through the observer''s location without being caught, registering temporal failure as spatial failure to intercept'
+- '[source] gives schedules inertia -- once a project is ''on track'' it resists being stopped or redirected -- importing physics of moving objects into the experienced difficulty of changing plans'
 updated: '2026-03-17'
 ---
 

@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks when failures are correlated (common-mode failure) -- the 2008 crisis showed that ''diversified'' mortgage portfolios all depended on the same housing market assumptions'
+- '[model] misleads by making backup systems sound obviously wise while understating the ongoing cost of keeping redundant components functional, not just present'
 name: Redundancy
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +17,10 @@ related:
 - the-map-is-not-the-territory
 slug: redundancy
 source_frame: architecture-and-building
+transfers:
+- '[model] predicts that system reliability can exceed the reliability of any individual component, provided failures are independent and backup components exist'
+- '[model] maps engineering backup systems onto organizational resilience, where deliberately preserved slack, spare capacity, and duplication protect against the catastrophic failures that over-optimization
+  invites'
 updated: '2026-03-13'
 ---
 

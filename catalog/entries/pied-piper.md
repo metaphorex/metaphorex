@@ -7,12 +7,20 @@ contributors: []
 created: '2026-03-14'
 harness: Claude Code
 kind: archetype
+limits:
+- '[source] breaks because the piper''s music works through literal enchantment, stripping agency from followers and preventing analysis of why people actually find a leader appealing'
+- '[source] misleads by implying a single piper when many collective phenomena (market bubbles, viral movements) emerge from distributed network effects rather than a central enchanter'
 name: Pied Piper
 related:
 - siren
 slug: pied-piper
 source_frame: mythology
 target_frame: social-behavior
+transfers:
+- '[source] the piper attracts followers through a medium that bypasses rational evaluation, mapping musical enchantment onto charismatic influence that operates below conscious assessment'
+- '[source] the first audience (rats) validates the piper''s capability, which then grants access to the second audience (children), encoding how early wins build credibility for unendorsed purposes'
+- '[source] the betrayal follows a broken contract -- the piper turns destructive only after the town refuses payment, making the danger contingent on bad faith rather than unprovoked malice'
+- '[source] once the music begins, followers move as a collective with individual agency suspended, mapping onto viral movements and ideological capture where resistance feels impossible'
 updated: '2026-03-14'
 ---
 

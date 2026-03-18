@@ -6,11 +6,21 @@ contributors: []
 created: '2026-03-14'
 harness: Claude Code
 kind: dead-metaphor
+limits:
+- '[source] breaks because assembling a jury mast required deep seamanship (selecting spars, rigging stays, bending sail), but the metaphor has acquired connotations of clumsiness that dishonor the original
+  expert improvisation'
+- '[source] misleads because in the source domain jury rigs were always replaced upon reaching port, while metaphorical jury-rigged solutions routinely become permanent -- inverting the original expectation
+  of temporariness'
 name: Jury-Rigged
 related: []
 slug: jury-rigged
 source_frame: seafaring
 target_frame: tool-use
+transfers:
+- '[source] the jury rig was assembled after catastrophe using only materials at hand, with no access to proper supplies, mapping emergency improvisation born from desperate necessity onto any makeshift
+  solution under constraint'
+- '[source] the jury rig was explicitly temporary -- meant to last only until the ship reached port for proper repairs -- mapping onto solutions that should be replaced as soon as possible'
+- '[source] the standard for a jury rig was survival, not excellence -- it needed only enough sail area for steerage, mapping reduced adequacy standards onto solutions that work but barely'
 updated: '2026-03-14'
 ---
 

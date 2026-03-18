@@ -6,6 +6,9 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[law] breaks because most nodes only care about a small subset of the network -- the billionth user in a distant country adds negligible value, making n-squared dramatically overstate actual value creation'
+- '[law] misleads by conflating true network effects (demand-side scale) with scale economies, brand recognition, or switching costs, which are different mechanisms with different strategic implications'
 name: Network Effects
 provenance: munger-poor-charlies-almanack
 related:
@@ -13,6 +16,9 @@ related:
 - the-map-is-not-the-territory
 slug: network-effects
 source_frame: network-communication
+transfers:
+- '[law] predicts that the value of a network grows faster than the number of nodes because each new participant creates value for every existing participant, not just for themselves'
+- '[law] predicts that below a critical mass threshold the network struggles to attract participants, but above it growth becomes self-sustaining as the network becomes its own recruitment engine'
 updated: '2026-03-13'
 ---
 

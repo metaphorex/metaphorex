@@ -6,6 +6,10 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks because you can only prepare for futures you can conceive -- the most consequential events are often outside all constructed scenarios (unknown unknowns)'
+- '[model] misleads because in practice organizations construct bull/base/bear cases then anchor on the base case exactly as they would have anchored on a single forecast, making the ceremony of three numbers
+  an illusion of rigor'
 name: Scenario Analysis
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +18,10 @@ related:
 - the-map-is-not-the-territory
 slug: scenario-analysis
 source_frame: war
+transfers:
+- '[model] replaces single-point forecasts with multiple plausible futures, each with early-warning triggers, converting prediction (hard) into pattern recognition (trainable)'
+- '[model] prescribes asymmetric preparation: allocate most heavily for the scenario with worst consequences even if it is not most likely, importing the military principle of preparing for capabilities
+  rather than intentions'
 updated: '2026-03-13'
 ---
 

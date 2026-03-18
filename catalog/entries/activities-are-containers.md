@@ -10,12 +10,19 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because activities bleed into each other with no crisp boundaries, forcing binary in/out distinctions onto experiences that are gradual, partial, and overlapping'
+- '[source] misleads by suggesting passivity through containment -- ''stuck in a meeting'' makes the meeting the agent and the person the trapped contents, obscuring that participation is usually chosen'
 name: Activities Are Containers
 provenance: lakoff-johnson-mwlb
 related:
 - states-are-locations
 slug: activities-are-containers
 source_frame: containers
+transfers:
+- '[source] maps the container image schema onto events and processes, making participation a spatial relationship: you are inside an activity or outside it, with entry and exit as physical transitions'
+- '[source] imports containment as constraint -- being inside an activity means being subject to its rules and pressures, and the container can become a trap (''stuck in this project'')'
+- '[source] gives activities measurable extent (''a lot in this course'', ''full schedule''), treating content as stuff filling a bounded space with capacity limits'
 updated: '2026-03-14'
 ---
 

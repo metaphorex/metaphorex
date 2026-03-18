@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks because specialization works -- deep experts in narrow domains regularly outperform generalists with broad but shallow model repertoires'
+- '[model] misleads by implying that seeing nails everywhere is always a distortion, when sometimes the hammer is the right tool and the problem genuinely is what the specialist says it is'
 name: Man with a Hammer
 provenance: munger-poor-charlies-almanack
 related:
@@ -15,6 +18,9 @@ related:
 - lollapalooza-effect
 slug: man-with-a-hammer
 source_frame: tool-use
+transfers:
+- '[model] predicts that a single analytical framework shapes perception, not just action -- the model you carry determines what you perceive as relevant, causing you to force every problem into its shape'
+- '[model] functions as the meta-model that motivates the latticework: it is self-referential by design, explaining why you need many models by showing what happens when you have only one'
 updated: '2026-03-13'
 ---
 

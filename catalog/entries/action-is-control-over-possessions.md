@@ -9,6 +9,9 @@ contributors: []
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because possession implies exclusive ownership, making collaborative action feel like a zero-sum contest for control rather than a joint endeavor'
+- '[source] misleads by mapping failure onto loss, triggering loss aversion so that ''losing control'' feels catastrophic when ''changing approach'' would describe the same situation without the anxiety'
 name: Action Is Control Over Possessions
 provenance: osaka-master-metaphor-list
 related:
@@ -17,6 +20,10 @@ related:
 - acting-on-is-transferring-an-object
 slug: action-is-control-over-possessions
 source_frame: economics
+transfers:
+- '[source] maps the economics of possession (acquiring, holding, losing assets) onto purposeful action, making readiness for action a matter of inventory and empowerment feel like enrichment'
+- '[source] maps failure to act onto dispossession (''lost his composure'', ''lost control''), while gaining control maps onto acquisition (''seized the initiative'', ''gained the upper hand'')'
+- '[source] frames transfer of leadership as changing hands of possessions (''handed over the reins'', ''passed the torch''), making authority an object with a clear holder at any moment'
 updated: '2026-03-12'
 ---
 
