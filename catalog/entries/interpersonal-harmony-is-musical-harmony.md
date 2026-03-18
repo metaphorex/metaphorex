@@ -18,6 +18,13 @@ related:
 slug: interpersonal-harmony-is-musical-harmony
 source_frame: music
 updated: '2026-03-12'
+transfers:
+  - '[source] maps the acoustic phenomenon of multiple pitches sounding together in pleasing combination onto social accord, importing the requirement that each participant maintains a distinct role that complements the others'
+  - '[source] imports the dissonance-resolution structure from music theory, so interpersonal conflict is a tension that seeks resolution and "discord" is a specific failure of complementary coordination, not mere disagreement'
+  - '[source] gives social groups an ensemble structure where harmony requires active listening and mutual adjustment in real time, not just individual goodwill'
+limits:
+  - '[source] misleads because musical harmony follows physics (integer frequency ratios) and is acoustically determined, while social harmony is culturally constructed and has no equivalent natural law governing what "sounds good" between people'
+  - '[source] breaks when conflict is productive, since the metaphor codes all dissonance as a problem to resolve, but in social life persistent disagreement and creative tension often produce better outcomes than premature harmonization'
 ---
 
 ## Transfers

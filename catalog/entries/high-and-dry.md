@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] maps a ship stranded above the waterline by receding tide onto being abandoned without resources, importing the specific helplessness of a vessel that cannot move without the medium it was designed for'
+  - '[source] carries the implication that the stranding is caused by an external force (the tide) withdrawing rather than by any action of the stranded party, framing abandonment as environmental rather than personal failure'
+  - '[source] imports the visibility of the predicament -- a ship high and dry is conspicuously stuck, exposed to everyone on shore -- mapping shame and public helplessness onto the social situation'
+limits:
+  - '[source] misleads because a beached ship can refloat when the tide returns, but the idiomatic usage implies a more permanent abandonment with no cyclical rescue coming'
+  - '[source] breaks when the person left "high and dry" actively contributed to their situation, since the nautical source frames the ship as entirely passive and the tide as the sole causal agent'
 ---
 
 ## Transfers

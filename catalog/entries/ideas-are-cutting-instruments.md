@@ -20,6 +20,13 @@ related:
 slug: ideas-are-cutting-instruments
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - '[source] maps the sharpness of blades onto intellectual precision, so a keen argument divides a problem into parts the way a scalpel separates tissue along clean lines'
+  - '[source] imports the distinction between sharp and dull as a quality gradient -- a dull mind is like a dull knife, requiring brute force to accomplish what sharpness achieves effortlessly'
+  - '[source] gives analysis the structure of cutting: separating one thing into two distinct pieces, mapping the physical act of division onto the cognitive act of distinction-making'
+limits:
+  - '[source] misleads by valorizing separation and division as the primary intellectual virtue, obscuring synthetic and integrative thinking that brings things together rather than cutting them apart'
+  - '[source] breaks when ideas need to be approximate, exploratory, or deliberately ambiguous, since cutting instruments reward precision and the metaphor has no vocabulary for productive vagueness'
 ---
 
 ## Transfers

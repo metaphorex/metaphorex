@@ -21,6 +21,13 @@ related:
 slug: ideas-are-money
 source_frame: economics
 updated: '2026-03-14'
+transfers:
+  - '[source] maps the specific properties of currency (denomination, fungibility, savability, spendability) onto ideas, distinguishing it from the commodity metaphor by emphasizing exchange-medium functions rather than use-value'
+  - '[source] imports the inflation-deflation dynamic so that ideas lose value when there are too many competing in the same space, encoding intellectual currency debasement'
+  - '[source] gives ideas a denomination structure where some are "worth" more than others, mapping the quantitative hierarchy of currency onto the qualitative hierarchy of intellectual contribution'
+limits:
+  - '[source] misleads by importing the zero-sum structure of money (spending depletes your supply), while sharing ideas can increase rather than decrease the total intellectual wealth'
+  - '[source] breaks because money is a pure medium with no intrinsic content, while ideas have substantive content that determines their value independent of exchange dynamics'
 ---
 
 ## Transfers

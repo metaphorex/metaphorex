@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] maps a specific naval punishment -- dragging a sailor under the ships hull through barnacle-encrusted planking -- onto severe reprimand, importing the disproportionate violence and public spectacle of the original practice'
+  - '[source] carries the punitive-authority structure where the punishment is administered by those in power over the victim and is deliberately excessive, encoding the asymmetry between the offense and the disciplinary response'
+  - '[source] imports the dual-damage mechanism where the sailor was both drowned and lacerated, mapping compound punishment onto situations where someone is subjected to multiple overlapping forms of censure simultaneously'
+limits:
+  - '[source] misleads because keelhauling was frequently fatal or permanently disfiguring, while the idiomatic usage describes harsh verbal criticism that leaves no lasting damage, trivializing the violence of the source'
+  - '[source] breaks when the person "keelhauled" in modern usage deserved the criticism, since the nautical punishment was notorious for being disproportionate and cruel, and the metaphor carries a sympathy-for-the-victim framing that may not apply'
 ---
 
 ## Transfers

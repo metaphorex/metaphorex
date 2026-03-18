@@ -20,6 +20,13 @@ related:
 slug: harming-is-lowering
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] maps harm onto downward displacement, aligning it with gravity so that harming feels like a force pushing in the direction things naturally fall'
+  - '[source] encodes cumulative damage as progressive descent, so a person already lowered by prior harm is more vulnerable because they have less distance left before hitting bottom'
+  - '[source] connects naturally to social hierarchy through the UP IS HIGH STATUS system, making reputational and status harm expressible as literal demotion in vertical space'
+limits:
+  - '[source] misleads because not all harm involves descent -- betrayal damages trust laterally and isolation harms by removing connection, neither of which maps onto a clear directional change'
+  - '[source] breaks when lowering is positive (humility, grounding, coming down to earth), conflicting with spiritual and cultural traditions that value descent and prostration'
 ---
 
 ## Transfers

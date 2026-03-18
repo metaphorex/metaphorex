@@ -17,6 +17,13 @@ related:
 slug: jenga-code
 source_frame: puzzles-and-games
 updated: '2026-03-14'
+transfers:
+  - '[source] maps the game mechanic of removing load-bearing pieces from a tower onto modifying legacy code, where every component is structurally necessary and each change risks catastrophic collapse'
+  - '[source] imports the observable progression from stable to precarious, where each successful modification makes the next one more dangerous, encoding the ratchet of increasing fragility over time'
+  - '[source] carries the single-move-collapse dynamic where the system tolerates many changes but fails catastrophically on one, mapping the unpredictability of which specific modification will trigger the break'
+limits:
+  - '[source] misleads because Jenga blocks are identical and interchangeable, while code components vary enormously in criticality, coupling, and replaceability, and the metaphor flattens this heterogeneity'
+  - '[source] breaks because Jenga collapse is total and final, while codebase failures are usually partial, recoverable, and revertable -- real systems have version control, backups, and rollback mechanisms that Jenga towers lack'
 ---
 
 ## Transfers

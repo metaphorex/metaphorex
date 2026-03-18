@@ -17,6 +17,13 @@ related:
 slug: hope-is-a-child
 source_frame: life-course
 updated: '2026-03-12'
+transfers:
+  - '[source] maps the developmental trajectory of childhood -- fragility, growth, dependence, open future -- onto hope, making it something alive that demands care from the person who harbors it'
+  - '[source] imports the parental responsibility structure so that losing hope is not just misfortune but a failure of nurture, carrying moral weight absent from the possession metaphor'
+  - '[source] gives hope a temporal arc from birth through maturation, so new hope is tender and vulnerable while seasoned hope has been tested and strengthened by experience'
+limits:
+  - '[source] misleads by making hope seem fragile by default, when in practice hope can be remarkably stubborn and resistant to contrary evidence'
+  - '[source] breaks because children grow into autonomous agents who eventually separate from their parents, but hope that becomes independent of the hoper is no longer hope -- it has become expectation or confidence'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: having-control-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] maps dominance onto the vertical axis grounded in physical combat, where the winner ends up on top and the loser on the bottom, making authority feel like a spatial arrangement'
+  - '[source] imports scope-of-vision from elevation, so being "on top of" a situation means having comprehensive oversight while being "under" means constrained by limited perspective'
+  - '[source] makes submission feel like spatial collapse -- yielding is going down, capitulating, caving in -- importing the physical effort of fighting gravity into the experience of resistance'
+limits:
+  - '[source] misleads by making hierarchies feel natural rather than constructed, so flat organizations sound like they are missing something rather than deliberately designed'
+  - '[source] breaks for lateral and networked forms of power -- peer influence, cultural authority, and persuasion do not map onto the vertical axis, rendering soft power invisible'
 ---
 
 ## Transfers

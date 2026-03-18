@@ -17,6 +17,13 @@ related:
 slug: happy-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] upright posture correlates with positive affect from infancy onward, grounding the vertical axis in a bodily experience that precedes language'
+  - '[source] vertical movement provides a dynamic scale where mood change maps onto spatial traversal -- rising spirits, falling into depression -- making emotional transitions feel like physical journeys'
+  - '[source] depth below a surface encodes severity, so "deep depression" and "rock bottom" import the effort required to climb out of a physical hole'
+limits:
+  - '[source] misleads by collapsing qualitatively different positive states (contentment, joy, elation, mania) onto a single vertical axis where they differ only in altitude'
+  - '[source] breaks because the metaphor provides no vocabulary for pathological highs -- mania and euphoria are "up" and therefore coded as good, making it difficult to articulate that being too high is dangerous'
 ---
 
 ## Transfers

@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - economics
 updated: '2026-03-14'
+transfers:
+  - '[source] the alternating-grip technique eliminates dead time between pulls, mapping continuous rhythmic labor onto uninterrupted financial accumulation'
+  - '[source] rope-hauling motion is always unidirectional (upward or toward the sailor), importing a built-in assumption that accumulation only goes one way'
+  - '[source] each completed grip naturally positions the next hand for the following pull, mapping self-reinforcing momentum onto compounding gains'
+limits:
+  - '[source] misleads because rope-hauling moves a finite length of existing rope, while the economic usage implies unbounded generation of new wealth from nothing'
+  - '[source] breaks when the phrase borrows the legitimacy of strenuous physical labor to describe accumulation that may involve no effort at all, obscuring the distinction between earned and unearned income'
 ---
 
 ## Transfers

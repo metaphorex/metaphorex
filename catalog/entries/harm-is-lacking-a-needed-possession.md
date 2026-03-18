@@ -20,6 +20,13 @@ related:
 slug: harm-is-lacking-a-needed-possession
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - '[source] maps harm onto absence rather than presence, making suffering a deficit -- an empty slot in the self where a vital resource should be'
+  - '[source] gives harm a before-and-after dispossession structure where becoming harmed is losing something you once had, and the difference is the harm'
+  - '[source] makes the agent of harm into a thief or expropriator, giving harmful agency a specific moral color distinct from the physical-injury or location frames'
+limits:
+  - '[source] misleads by presupposing a prior state of wholeness -- framing all deprivation as loss obscures the difference between losing something and never having had it'
+  - '[source] breaks for harms that involve unwanted additions (intrusive thoughts, chronic pain, harassment) rather than subtractions, since the deprivation frame only speaks the language of not having enough'
 ---
 
 ## Transfers

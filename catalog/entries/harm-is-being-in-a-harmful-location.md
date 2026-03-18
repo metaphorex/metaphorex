@@ -19,6 +19,13 @@ related:
 slug: harm-is-being-in-a-harmful-location
 source_frame: spatial-location
 updated: '2026-03-12'
+transfers:
+  - '[source] maps harm onto spatial containment so the harmed person occupies a dangerous region, making harm feel environmental and immersive rather than event-based'
+  - '[source] gives harm spatial boundaries with entry and exit, so becoming harmed is crossing a threshold and recovery is physically departing the harmful region'
+  - '[source] encodes severity as depth within the location, so "deep trouble" imports the physics of climbing out -- deeper means harder to escape'
+limits:
+  - '[source] misleads by treating harm as a property of a place rather than an action by an agent, hiding who caused the harm and naturalizing it as something that simply exists in certain areas'
+  - '[source] breaks for punctual harms (a single blow, a sudden betrayal) that are events rather than states, since the location frame pushes toward duration and persistence'
 ---
 
 ## Transfers

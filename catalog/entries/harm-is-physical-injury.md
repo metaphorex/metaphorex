@@ -20,6 +20,13 @@ related:
 slug: harm-is-physical-injury
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] maps abstract harm onto bodily wounding, giving invisible harms (emotional, financial, reputational) a visible signature that can be pointed to and assessed'
+  - '[source] imports the biological healing arc -- trauma, inflammation, repair, scarring -- making recovery feel temporal and automatic but also leaving permanent marks'
+  - '[source] preserves causal agency because injuries require someone or something that strikes, cuts, or breaks, making this frame better at capturing intentional harm than location-based alternatives'
+limits:
+  - '[source] misleads by expecting a punctual injuring event, making cumulative and gradual harms (systemic discrimination, institutional neglect) harder to name because there is no single wound to point to'
+  - '[source] breaks because the healing arc implies restoration to a prior state, creating false optimism about harms that produce permanent irreversible changes where no ''healing'' is possible'
 ---
 
 ## Transfers
