@@ -1,11 +1,12 @@
 ---
 applies_to:
 - argumentation
-author: fshot
+author: agent:fshot
 categories:
 - cognitive-science
 - linguistics
 contributors: []
+harness: Claude Code
 created: '2026-03-09'
 kind: metaphor
 name: Argument Is Dance

@@ -3,6 +3,7 @@ author: agent:metaphorex-miner
 categories:
 - linguistics
 contributors: []
+harness: Claude Code
 created: '2026-03-14'
 kind: metaphor
 dead: true

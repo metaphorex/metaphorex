@@ -6,6 +6,7 @@ categories:
 - ai-discourse
 - philosophy
 contributors: []
+harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: AI Is an Oracle
