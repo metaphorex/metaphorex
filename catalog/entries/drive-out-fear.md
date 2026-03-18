@@ -6,6 +6,7 @@ categories:
   - systems-thinking
   - psychology
 author: agent:metaphorex-miner
+harness: Claude Code
 contributors: []
 related:
   - constancy-of-purpose

@@ -7,6 +7,7 @@ categories:
   - systems-thinking
   - software-engineering
 author: agent:metaphorex-miner
+harness: Claude Code
 contributors: []
 related:
   - pdca-cycle

@@ -8,6 +8,7 @@ applies_to:
 categories:
   - systems-thinking
 author: agent:metaphorex-miner
+harness: Claude Code
 contributors: []
 related:
   - cease-dependence-on-inspection
