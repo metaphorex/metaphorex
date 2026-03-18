@@ -18,14 +18,14 @@ slug: theories-are-cloth
 source_frame: textiles
 updated: '2026-03-13'
 transfers:
-  - '[source] Individual threads gain structural integrity only through interlacing with other threads'
-  - '[source] Failure propagates progressively by unraveling rather than collapsing all at once'
-  - '[source] Repairs are visible as patches that mark where the original weave failed'
-  - '[source] Quality is assessed by texture and tightness of weave rather than by load-bearing capacity'
+  - '[source] individual threads gain structural integrity only through interlacing with other threads'
+  - '[source] failure propagates progressively by unraveling rather than collapsing all at once'
+  - '[source] repairs are visible as patches that mark where the original weave failed'
+  - '[source] quality is assessed by texture and tightness of weave rather than by load-bearing capacity'
 limits:
-  - '[source] Cloth has no hierarchy among threads, hiding the distinction between foundational axioms and derived claims'
-  - '[source] Fabric is inert once woven, obscuring that theories actively predict and generate new inquiry'
-  - '[source] Weaving implies a single artisan at a loom, misrepresenting the distributed authorship of most theoretical work'
+  - '[source] cloth has no hierarchy among threads, hiding the distinction between foundational axioms and derived claims'
+  - '[source] fabric is inert once woven, obscuring that theories actively predict and generate new inquiry'
+  - '[source] weaving implies a single artisan at a loom, misrepresenting the distributed authorship of most theoretical work'
 ---
 
 ## Transfers
