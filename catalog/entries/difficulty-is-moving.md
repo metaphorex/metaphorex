@@ -18,6 +18,13 @@ related:
 slug: difficulty-is-moving
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] physical exertion against gravitational or frictional resistance maps the felt strain of difficult action as muscular effort to move'
+  - '[source] speed of motion is inversely proportional to difficulty, making temporal progress and physical velocity interchangeable measures'
+  - '[source] terrain conditions (mud, ice, steep grades) map the environmental factors that make action harder, not as discrete obstacles but as pervasive resistance'
+limits:
+  - '[source] breaks because some difficulty requires precision rather than force (threading a needle is hard but nothing resists your motion), and the movement frame cannot represent that'
+  - '[source] misleads because the motion frame linearizes difficulty into a push-through-resistance trajectory, making patience look like stalling and reflection look like standing still'
 ---
 
 ## Transfers

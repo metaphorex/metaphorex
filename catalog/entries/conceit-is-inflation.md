@@ -18,6 +18,13 @@ related:
 slug: conceit-is-inflation
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] inflation fills a container with air until it expands beyond its natural size, mapping self-regard as volume that should be proportionate'
+  - '[source] the inflating substance is insubstantial air, implying the expanded self-image is hollow -- big on the outside, empty on the inside'
+  - '[source] over-inflation leads inevitably to bursting, framing conceit as an inherently unstable state awaiting sudden corrective collapse'
+limits:
+  - '[source] breaks because deflation maps onto humiliation, but psychological deflation can be depression or shame, not healthy equilibrium'
+  - '[source] misleads because the metaphor makes self-esteem purely quantitative, unable to represent domain-specific conceit or high self-regard grounded in genuine accomplishment'
 ---
 
 ## Transfers

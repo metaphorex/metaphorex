@@ -19,6 +19,13 @@ related:
 slug: competition-is-competition-for-desired-objects
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] the desired object is scarce and exclusive in possession -- if one party grasps it, others cannot, imposing zero-sum structure'
+  - '[source] competitive action is modeled as physically reaching for and closing a hand around a tangible prize, making success feel like grasping'
+  - '[source] proximity to the object maps onto likelihood of winning, giving competition a spatial gradient of closeness'
+limits:
+  - '[source] breaks because many competitive goods (knowledge, reputation, network effects) are not diminished by sharing, violating the scarcity assumption'
+  - '[source] misleads because the object is assumed static, but real competitive prizes transform during the contest -- the market opportunity that existed at the start may be unrecognizable by the time someone "grasps" it'
 ---
 
 ## Transfers

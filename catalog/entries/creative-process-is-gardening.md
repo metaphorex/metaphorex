@@ -17,6 +17,13 @@ related:
 slug: creative-process-is-gardening
 source_frame: horticulture
 updated: '2026-03-14'
+transfers:
+  - '[source] the gardener creates conditions for emergence rather than specifying outcomes, making the plan a starting condition rather than a blueprint'
+  - '[source] weeding is as important as planting -- removing what does not belong strengthens what remains, framing editing as care rather than destruction'
+  - '[source] cross-pollination between adjacent plants produces unplanned hybrids, mapping the productive accidents that arise from creative adjacencies'
+limits:
+  - '[source] breaks because pure emergence without curation produces wilderness, not a garden -- the metaphor needs the gardener''s active agency to work'
+  - '[source] misleads because gardens are slow and seasonal, importing patience as a universal virtue when some creative work demands urgency and speed'
 ---
 
 ## Transfers

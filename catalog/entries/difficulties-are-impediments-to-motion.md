@@ -22,6 +22,13 @@ related:
 slug: difficulties-are-impediments-to-motion
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] problems are solid objects positioned on a defined path, making them feel concrete, locatable, and addressable before forward motion can resume'
+  - '[source] some impediments slow the traveler (burdens, rough terrain) rather than blocking completely, mapping chronic difficulties as degraded environmental conditions'
+  - '[source] the worst impediments trap the traveler entirely (bogged down, stuck in a rut), mapping total stuckness as the extreme case of obstruction'
+limits:
+  - '[source] breaks because some difficulties are about ambiguity (which path to take), not blockage (path is blocked), and the impediment frame handles uncertainty poorly'
+  - '[source] misleads because clearing an obstacle on a path solves the problem, but real difficulties are often recursive, systemic, or self-generating -- removing one reveals another behind it'
 ---
 
 ## Transfers

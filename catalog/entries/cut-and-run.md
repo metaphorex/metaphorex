@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] cutting the anchor cable sacrifices expensive equipment (anchor, chain, cable) for speed of escape, encoding a specific cost-benefit trade-off'
+  - '[source] once the cable is cut it cannot be reattached at sea, mapping the irreversibility of certain desperate departures'
+  - '[source] urgency overrides standard procedure -- the normal slow process of weighing anchor is replaced by an emergency shortcut'
+limits:
+  - '[source] breaks because the original nautical act was often the rational tactical choice, but modern usage inverts the moral valence to imply cowardice'
+  - '[source] misleads because the metaphor hides the threat being fled from, focusing on the departure and ignoring the conditions that motivated it'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: change-is-replacement
 source_frame: manufacturing
 updated: '2026-03-17'
+transfers:
+  - '[source] a worn or defective part is removed and a new part installed in the same slot, treating change as discrete substitution rather than continuous modification'
+  - '[source] the discarded part is destroyed or disposed of, making the change irreversible once the old component is gone'
+  - '[source] replacement requires an external agent who performs the swap, importing the expectation that change needs an operator'
+limits:
+  - '[source] breaks because most change is gradual and continuous, not a clean boundary between old-part-out and new-part-in'
+  - '[source] misleads because replacement destroys identity continuity, making the Ship-of-Theseus problem inevitable for any entity that changes incrementally'
 ---
 
 ## Transfers

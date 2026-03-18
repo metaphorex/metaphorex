@@ -19,6 +19,13 @@ related:
 slug: competition-is-war
 source_frame: war
 updated: '2026-03-12'
+transfers:
+  - '[source] war provides a deep role structure -- combatants, allies, weapons, territory, strategy, victory, defeat -- that maps onto nearly every aspect of competitive activity'
+  - '[source] competitors occupy and defend territorial positions, and losing ground to the enemy threatens existential survival'
+  - '[source] resource allocation is arming for battle: capital and talent become an "arsenal" and running out of funding is running out of ammunition'
+limits:
+  - '[source] breaks because war aims to destroy the enemy, but healthy markets need competitors and monopoly is often dysfunction, not victory'
+  - '[source] misleads because the zero-sum logic of war obscures positive-sum competition where two rivals can expand a shared market'
 ---
 
 ## Transfers

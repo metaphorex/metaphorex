@@ -18,6 +18,13 @@ related:
 slug: darkness-is-a-cover
 source_frame: containers
 updated: '2026-03-12'
+transfers:
+  - '[source] a cover draped over the landscape conceals what lies underneath while leaving it intact, mapping darkness as concealment rather than destruction'
+  - '[source] dawn lifts or peels back the cover, revealing what was always there underneath, framing sunrise as an act of uncovering'
+  - '[source] a cover provides shelter from observation, mapping darkness as protection for those who wish not to be seen'
+limits:
+  - '[source] breaks because covers are placed by agents with purpose, but darkness arrives through planetary rotation without intention or agency'
+  - '[source] misleads because the cover metaphor implies concealment implies something worth hiding, biasing darkness toward suspicion and moral charge'
 ---
 
 ## Transfers

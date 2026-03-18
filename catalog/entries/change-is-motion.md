@@ -19,6 +19,13 @@ related:
 slug: change-is-motion
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] displacement from one location to another preserves the identity of the moving object throughout the trajectory'
+  - '[source] velocity of motion provides a continuous scale from stillness to dizzying speed, mapping rate of change onto perceived urgency'
+  - '[source] forward and backward motion along a path imposes a normative axis where direction can be evaluated as progress or regression'
+limits:
+  - '[source] breaks because many important changes are identity-altering transformations where the entity does not persist through the displacement'
+  - '[source] misleads because speed of motion conflates with significance, systematically undervaluing slow but profound change like erosion or cultural drift'
 ---
 
 ## Transfers

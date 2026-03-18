@@ -17,6 +17,13 @@ related:
 slug: data-is-fuel
 source_frame: natural-resources
 updated: '2026-03-13'
+transfers:
+  - '[source] fuel must be extracted from natural deposits, refined into usable form, and consumed by an engine, mapping the data pipeline as an industrial extraction-to-combustion process'
+  - '[source] fuel is finite and depletable, importing scarcity economics and making "data moats" a coherent competitive strategy analogous to controlling oil reserves'
+  - '[source] the entity that extracts a resource owns it, naturalizing the appropriation of publicly generated content for private model training'
+limits:
+  - '[source] breaks because data is not consumed -- it persists after use, can be copied infinitely at near-zero cost, and does not deplete with training'
+  - '[source] misleads because data is produced by human creative labor, not formed by geological processes, but the "natural resource" frame obscures the workers who generate it'
 ---
 
 ## Transfers

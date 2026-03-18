@@ -17,6 +17,13 @@ related:
 slug: daemon
 source_frame: mythology
 updated: '2026-03-13'
+transfers:
+  - '[source] the Greek daimon was an autonomous intermediary spirit that attended to its domain without being summoned, mapping background processes that run without direct human interaction'
+  - '[source] daimons were morally neutral forces with purpose but without malice, mapping processes that execute configuration faithfully regardless of consequences'
+  - '[source] invisibility was by design -- daimons operated behind the scenes, and visibility was a sign of failure, mapping the principle that well-behaved daemons stay silent'
+limits:
+  - '[source] breaks because daimons had judgment and could warn or choose, while a Unix daemon follows its configuration with perfect literal obedience and no agency'
+  - '[source] misleads because the entire numinous framework (the uncanny, the liminal, the sacred) has been bleached into a technical term, losing the sense that autonomous agents deserve respect and caution'
 ---
 
 ## Transfers

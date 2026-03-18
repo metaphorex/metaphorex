@@ -18,6 +18,13 @@ related:
 slug: disgust-is-nausea
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] the emetic reflex operates involuntarily to expel toxic substances, mapping moral rejection as an urgent bodily imperative rather than a deliberate judgment'
+  - '[source] contamination spreads through physical contact, importing contagion logic where proximity to the disgusting thing is itself a form of pollution'
+  - '[source] stomach tolerance varies between individuals, mapping moral sensitivity as digestive robustness ("no stomach for violence")'
+limits:
+  - '[source] breaks because nausea is involuntary while moral judgment is partly deliberate, naturalizing culturally conditioned prejudice as bodily reflex'
+  - '[source] misleads because the contamination logic licenses exclusion -- if a person is morally nauseating, proximity is pollution, providing ready-made reasoning for segregation and dehumanization'
 ---
 
 ## Transfers

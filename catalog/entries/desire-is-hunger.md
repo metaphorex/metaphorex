@@ -19,6 +19,13 @@ related:
 slug: desire-is-hunger
 source_frame: food-and-cooking
 updated: '2026-03-12'
+transfers:
+  - '[source] hunger is an internal deficit that motivates action toward a specific remedy, mapping desire as a felt emptiness demanding to be filled'
+  - '[source] eating produces satiation that ends the hunger, mapping fulfillment of desire as consumption with a terminal satisfaction signal'
+  - '[source] excess appetite beyond need is gluttony, importing a moral framework where some desire is natural but too much is sinful'
+limits:
+  - '[source] breaks because hunger has a biological endpoint (fullness) but many desires like status and wealth have no satiation mechanism -- fulfillment generates new desire'
+  - '[source] misleads because hunger is universal and involuntary while most desires beyond basic needs are culturally constructed, but the metaphor naturalizes socially shaped wants as biological drives'
 ---
 
 ## Transfers

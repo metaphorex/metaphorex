@@ -19,6 +19,13 @@ related:
 slug: difficulties-are-containers
 source_frame: containers
 updated: '2026-03-12'
+transfers:
+  - '[source] a container has an interior, walls, and depth, so being inside a difficulty means experiencing constraints from every direction, not just ahead on a path'
+  - '[source] falling into a container is often involuntary, mapping the onset of trouble as a boundary-crossing accident rather than a chosen entry'
+  - '[source] depth within the container maps severity -- "deep trouble" means escape requires climbing further, not just stepping aside'
+limits:
+  - '[source] breaks because containers have crisp boundaries (in or out), but real difficulties have fuzzy edges that shade gradually from manageable to overwhelming'
+  - '[source] misleads because exiting a container is a single act, but resolving a difficulty often requires transforming the situation entirely, and the container stays in the landscape to be fallen into again'
 ---
 
 ## Transfers
