@@ -19,6 +19,13 @@ related:
 slug: love-is-a-patient
 source_frame: medicine
 updated: '2026-03-14'
+transfers:
+  - '[source] a patient requires diagnosis before treatment, mapping the idea that a struggling relationship must first be examined to identify what is wrong before interventions can help'
+  - '[source] patients can be sick, recovering, or in remission, providing a vocabulary of graduated states between healthy and terminal for describing relationship condition'
+  - '[source] treatment requires ongoing care and compliance, not a single intervention, structuring relationship repair as a sustained therapeutic process'
+limits:
+  - '[source] a patient is a single organism with objective vital signs that indicate health, but a relationship involves two subjects whose assessments of the relationship''s health may contradict'
+  - '[source] medical treatment follows established protocols with known efficacy rates, but relationship repair has no equivalent evidence base or standardized procedures'
 ---
 
 ## Transfers

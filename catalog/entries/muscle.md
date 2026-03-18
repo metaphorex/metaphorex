@@ -15,6 +15,13 @@ related: []
 slug: muscle
 source_frame: animal-behavior
 updated: '2026-03-13'
+transfers:
+  - '[source] muscle develops through repeated exertion against resistance and atrophies without use, mapping the idea that organizational capacity strengthens through exercise and weakens through neglect'
+  - '[source] muscle produces force only when voluntarily contracted -- it is potential power that must be deliberately activated -- mapping the distinction between having capability and deploying it'
+  - '[source] muscles work in antagonistic pairs (bicep/tricep) where engaging one requires relaxing the other, structuring the tradeoff between opposing organizational capabilities'
+limits:
+  - '[source] muscle growth has biological limits determined by genetics and physiology, but organizational ''muscle'' has no inherent ceiling and can be augmented through tools, technology, and structural change'
+  - '[source] muscle responds predictably to training stimuli (progressive overload produces hypertrophy), but organizational capability does not scale linearly with investment -- resistance can increase faster than capacity'
 ---
 
 ## Transfers

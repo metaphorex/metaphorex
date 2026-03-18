@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] a cannon that breaks free from its lashings on a rolling ship deck becomes a multi-ton projectile that crushes anything in its random path, endangering the crew more than the enemy'
+  - '[source] the danger is proportional to the cannon''s own power -- the more potent the weapon, the more destructive it is when uncontrolled -- mapping onto the idea that capable but undisciplined people are the most dangerous'
+  - '[source] the cannon''s movement is driven by the ship''s motion (external forces) rather than its own intent, structuring the unpredictability as reactive and chaotic rather than malicious'
+limits:
+  - '[source] a loose cannon is an inanimate object with no intent or capacity to learn, while the people described as loose cannons have agency and can potentially be brought under discipline'
+  - '[source] the solution on ship was to re-lash or jettison the cannon, but organizations cannot simply tie down or discard a person without ethical and legal constraints'
 ---
 
 ## Transfers

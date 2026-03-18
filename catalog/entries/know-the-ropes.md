@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - intellectual-inquiry
 updated: '2026-03-14'
+transfers:
+  - '[source] a sailing ship has hundreds of lines each controlling a specific sail or spar, and competence requires knowing which rope does what without looking'
+  - '[source] pulling the wrong line under pressure can capsize a sail or snap a mast, making rope-knowledge a matter of operational safety not mere efficiency'
+  - '[source] the knowledge is embodied and tactile -- a sailor identifies ropes by feel, position, and wear rather than from labels, mapping onto expertise that is procedural rather than declarative'
+limits:
+  - '[source] on a ship the ropes are physically fixed in location and finite in number, whereas organizational know-how involves shifting procedures and informal norms with no stable inventory'
+  - '[source] shipboard rope knowledge can be taught by walking a novice through every line in a single tour, implying a bounded learning curve that most institutional knowledge does not have'
 ---
 
 ## Transfers

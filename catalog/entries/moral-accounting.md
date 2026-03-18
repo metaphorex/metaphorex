@@ -19,6 +19,13 @@ related:
 slug: moral-accounting
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] accounting tracks debits and credits against a ledger that must balance, mapping the moral intuition that good and bad deeds create obligations that demand settlement'
+  - '[source] debts accumulate interest over time if not repaid, structuring the sense that unreciprocated favors or unavenged wrongs grow more pressing the longer they remain unsettled'
+  - '[source] an account can be ''settled'' by a single compensating transaction, mapping the satisfaction of revenge or repayment as restoring moral equilibrium'
+limits:
+  - '[source] accounting is precise and quantitative -- a $50 debt is exactly offset by a $50 payment -- but moral debts have no agreed unit of measurement and parties routinely disagree on the balance'
+  - '[source] accounting is symmetric (debits equal credits in double-entry), but moral perception is asymmetric -- the harm-doer and the harmed consistently estimate the moral debt differently'
 ---
 
 ## Transfers

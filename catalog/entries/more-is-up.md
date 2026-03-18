@@ -19,6 +19,13 @@ related:
 slug: more-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] vertical height increases as material is added to a pile, grounding the correlation between quantity and spatial elevation in direct bodily experience'
+  - '[source] ''up'' requires sustained effort against gravity while ''down'' happens passively, structuring the intuition that increase requires active work while decrease is natural entropy'
+  - '[source] vertical position is instantly perceivable from a distance, mapping the idea that quantitative differences should be immediately visible and comparable'
+limits:
+  - '[source] the vertical axis has a natural zero (ground level) and is bounded below, but many abstract quantities mapped onto it (temperature, debt, mood) can go negative with no spatial analogue'
+  - '[source] physical height is absolute and observer-independent, but ''more'' is often relative to a contextual baseline -- what counts as ''high'' income depends on the reference group, not a fixed ground plane'
 ---
 
 ## Transfers

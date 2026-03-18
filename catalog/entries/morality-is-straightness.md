@@ -20,6 +20,13 @@ related:
 slug: morality-is-straightness
 source_frame: geometry
 updated: '2026-03-13'
+transfers:
+  - '[source] a straight line is the shortest distance between two points with no deviation, mapping moral rectitude as adherence to a direct path without wavering or bending'
+  - '[source] straightness is immediately visible -- any curve or kink is detectable against the straight reference -- mapping moral deviance as conspicuous departure from an obvious standard'
+  - '[source] straightening a bent object requires applying corrective force, mapping moral reform as a process of being ''set straight'' through discipline or correction'
+limits:
+  - '[source] straightness is a geometric property that admits no degrees -- a line is straight or it is not -- but moral behavior exists on a spectrum of judgment where minor deviations may be insignificant'
+  - '[source] a straight path ignores terrain and obstacles, but moral navigation often requires bending around competing obligations, mapping inflexible rectitude onto situations that demand contextual judgment'
 ---
 
 ## Transfers

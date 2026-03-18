@@ -18,6 +18,13 @@ related:
 slug: lustful-person-is-an-animal
 source_frame: animal-behavior
 updated: '2026-03-13'
+transfers:
+  - '[source] animals act on instinct without deliberative override, mapping the experience of lust as a reversion to pre-rational drives that bypass social conditioning'
+  - '[source] predator-prey dynamics structure pursuit -- stalking, chasing, capturing -- mapping sexual pursuit as a hunt where the object of desire is prey'
+  - '[source] animals are positioned below humans on the Great Chain of Being, structuring lust as a descent from higher rational selfhood to lower appetitive nature'
+limits:
+  - '[source] animals'' behavior is species-typical and predictable within narrow ethological parameters, but human sexual behavior varies enormously across individuals and cultures in ways animal models cannot capture'
+  - '[source] the metaphor positions animality as purely negative (loss of control), ignoring that animal behavior includes pair-bonding, courtship rituals, and mate selection -- forms of discriminating choice'
 ---
 
 ## Transfers

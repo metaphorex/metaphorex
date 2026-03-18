@@ -20,6 +20,13 @@ related:
 slug: morality-is-purity
 source_frame: purity
 updated: '2026-03-13'
+transfers:
+  - '[source] pure substances contain no admixture -- any foreign element is contamination regardless of quantity -- mapping the moral intuition that a single transgression can taint an otherwise good character'
+  - '[source] purity is destroyed by contact with impurity and cannot be restored to its original state (mixed liquids cannot be unmixed), structuring the idea that moral corruption is irreversible'
+  - '[source] maintaining purity requires vigilant boundary defense to prevent any contaminating contact, mapping the moral emphasis on avoidance, segregation, and prophylactic rules'
+limits:
+  - '[source] chemical purity is measurable to arbitrary precision (99.99%), but moral purity has no quantitative scale and typically operates as a binary judgment (pure or fallen)'
+  - '[source] the purity metaphor treats moral goodness as a default state that can only be degraded, ignoring that moral character can be actively built, improved, and strengthened through engagement with difficulty'
 ---
 
 ## Transfers

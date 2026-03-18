@@ -20,6 +20,13 @@ related:
 slug: love-is-magic
 source_frame: magic
 updated: '2026-03-13'
+transfers:
+  - '[source] magic operates through hidden causal mechanisms that violate known natural laws, mapping the sense that love''s origins and workings are inexplicable by rational analysis'
+  - '[source] magic spells compel behavior in the enchanted person against their will, structuring love as something that overrides agency -- you are ''under a spell'''
+  - '[source] magic can be cast by one person onto another, introducing asymmetry where one party is the agent (enchanter) and the other is the patient (enchanted)'
+limits:
+  - '[source] magic spells can be broken by a counter-spell or specific action (kiss, true name), but real romantic attachment has no reliable method of deliberate dissolution'
+  - '[source] magic implies a single moment of enchantment that causes the entire effect, obscuring that love develops through accumulated interaction rather than a discrete casting event'
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: love-is-madness
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] madness overrides rational self-governance, mapping the experience of love as a state where normal judgment and self-interest are suspended'
+  - '[source] a mad person acts in ways that appear incoherent to outside observers but follow an internal logic invisible to others, structuring lovers'' behavior as privately sensible but publicly inexplicable'
+  - '[source] madness is a departure from a baseline of sanity to which one may or may not return, mapping the temporality of infatuation as an altered state with uncertain duration'
+limits:
+  - '[source] madness is classified as pathological and requiring treatment, but framing love as illness pathologizes a normal human experience and implies it should be cured'
+  - '[source] madness in clinical terms involves deteriorating function over time, whereas love typically enhances well-being and social functioning even when it disrupts routine'
 ---
 
 ## Transfers
