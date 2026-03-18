@@ -20,6 +20,13 @@ related:
 slug: fear-is-cold
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] the physiological experience of fear (vasoconstriction, shivering, pallor) maps onto the physical experience of cold, so that fear chills, freezes, makes the blood run cold, and leaves a person cold with dread'
+  - '[source] paralysis from fear maps onto the immobilizing effect of extreme cold -- frozen with fear, frozen in place -- importing the physical mechanism where cold stiffens the body and prevents movement'
+  - '[source] the social dimension of fear maps onto the social dimension of cold: a cold stare produces fear, a chilling warning conveys threat, and an icy tone signals danger, giving interpersonal fear the perceptual texture of temperature'
+limits:
+  - '[source] breaks because cold affects the entire body uniformly (everything gets cold), while fear is often localized in specific cognitive and somatic patterns (racing heart, tunnel vision, gut feeling) that do not distribute like temperature'
+  - '[source] misleads by importing cold''s gradualism (temperatures drop continuously), when fear often arrives as a sudden discontinuous spike rather than a gradual cooling'
 ---
 
 ## Transfers

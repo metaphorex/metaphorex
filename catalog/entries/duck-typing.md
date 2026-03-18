@@ -17,6 +17,13 @@ related:
 slug: duck-typing
 source_frame: folk-taxonomy
 updated: '2026-03-14'
+transfers:
+  - '[source] identity is constituted by observable behavior rather than declared lineage, so that an entity''s classification depends on what it does (walks, quacks, swims) not what it was born as'
+  - '[source] the folk-taxonomic test groups entities by surface behavioral markers rather than by phylogenetic or formal hierarchies, making classification cheap and immediate but shallow'
+  - '[source] the test is one-directional: matching behaviors confirm membership but cannot detect impostors whose behavioral match is syntactic rather than semantic'
+limits:
+  - '[source] breaks because real ducks are unambiguous (few non-ducks walk, quack, and swim), while software objects can easily share method signatures without sharing semantics, making false positives far more common than in the zoological source'
+  - '[source] misleads by framing identity as fully determined by observable behavior, missing internal state, side effects, and concurrency characteristics that are invisible from method signatures alone'
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: existence-is-an-object
 source_frame: physical-objects
 updated: '2026-03-12'
+transfers:
+  - '[source] existence is something that can be possessed, given, taken away, or lost -- ''she has a life,'' ''fate took his existence,'' ''they were given a second chance at life'' -- mapping ontological status onto the having or lacking of a thing'
+  - '[source] existence-as-object can be qualified by properties of objects: it can be fragile, precarious, fleeting, or robust, importing material characteristics onto an abstract ontological condition'
+  - '[source] creating existence is producing an object (bringing something into being, making a life), and destroying existence is destroying an object (taking a life, ending an existence), giving creation and destruction the concrete structure of manufacture and demolition'
+limits:
+  - '[source] breaks because objects can be set aside, stored, or exchanged, but existence cannot be separated from the entity that exists -- you cannot put your existence on a shelf or hand it to someone else'
+  - '[source] misleads by implying that existence is a countable, bounded thing with clear edges, when the boundaries of what counts as existing (a species, a tradition, a self) are often indeterminate'
 ---
 
 ## Transfers

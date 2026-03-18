@@ -18,6 +18,13 @@ related:
 slug: guardrails
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - '[source] metal barriers along a road prevent vehicles from leaving the roadway while allowing free movement within the lane, mapping AI behavioral constraints onto boundary devices that permit action within a corridor but prevent catastrophic departure from the intended path'
+  - '[source] guardrails are passive and fixed -- they do not steer the vehicle but only activate on contact with the boundary -- mapping onto the design pattern where AI constraints are triggered by boundary violations rather than continuously directing behavior'
+  - '[source] guardrails are designed for the worst case (a vehicle heading off a cliff), not for normal driving, importing the structure that AI safety constraints are emergency measures for tail-risk scenarios rather than guidance for typical operation'
+limits:
+  - '[source] breaks because road guardrails are rigid and binary (they either stop the vehicle or they do not), while AI behavioral constraints operate on probabilistic outputs and must make graded judgments about boundary proximity rather than simple contact detection'
+  - '[source] misleads by implying that the safe corridor is well-defined and the boundaries are obvious (you can see a guardrail), when AI behavioral boundaries are contested, context-dependent, and often discovered only after a violation has already occurred'
 ---
 
 ## Transfers

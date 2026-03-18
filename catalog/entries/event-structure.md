@@ -22,6 +22,13 @@ related:
 slug: event-structure
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - '[source] an entire coherent system maps the structure of events onto spatial motion: states are locations, changes are movements between locations, causes are forces, actions are self-propelled motions, purposes are destinations, and difficulties are impediments blocking the path'
+  - '[source] the source-path-goal image schema provides the structural backbone, so that every event has a starting point (initial state), a path (process of change), and an endpoint (final state or purpose), giving abstract event reasoning the geometry of a journey'
+  - '[source] agency maps onto locomotion -- the person who acts is the person who moves themselves -- creating a clean distinction between self-propelled action and externally caused change that structures how responsibility is attributed'
+limits:
+  - '[source] breaks because the one-traveler-on-one-path model privileges linearity, but many real event structures are cyclical (economic cycles), recursive (feedback loops), or multi-dimensional (policy changes affecting dozens of variables simultaneously)'
+  - '[source] misleads by treating purposes as pre-existing destinations on a map, when many purposes emerge in the course of action and are not known before the journey begins'
 ---
 
 ## Transfers

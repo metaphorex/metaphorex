@@ -21,6 +21,13 @@ related:
 slug: external-events-affecting-progress-are-forces-affecting
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - '[source] events that help or hinder progress map onto physical forces that accelerate or impede a moving body -- tailwinds help, headwinds hinder, crosswinds deflect -- giving external circumstances the directional, quantifiable structure of Newtonian mechanics'
+  - '[source] the person pursuing a goal is a body in motion, and external events are forces acting on that body, so that favorable circumstances are pushes from behind and obstacles are resistance from ahead, preserving the vector logic of force and direction'
+  - '[source] multiple external events combine as forces combine: they can reinforce, cancel, or deflect each other, importing the superposition principle where the net effect on progress is the sum of all external force-events'
+limits:
+  - '[source] breaks because physical forces are measurable and decomposable into orthogonal components, while external events affecting progress are qualitative, context-dependent, and often interact non-linearly rather than by simple vector addition'
+  - '[source] misleads by treating the person as a passive body buffeted by external forces, obscuring the role of strategic response, adaptation, and the capacity to change direction entirely rather than merely resist or yield'
 ---
 
 ## Transfers

@@ -16,6 +16,13 @@ related: []
 slug: dogfooding
 source_frame: animal-husbandry
 updated: '2026-03-14'
+transfers:
+  - '[source] the manufacturer''s willingness to consume their own product functions as a credibility signal precisely because the product is undesirable to eat, importing the logic that costly self-imposed tests are more convincing than costless claims'
+  - '[source] feedback loops tighten when the producer and consumer share a nervous system, because defects become personal irritants rather than reported abstractions'
+  - '[source] the trust test is asymmetric: passing it (eating the food) proves confidence, but failing it (refusing to eat) is devastating to credibility in a way that no amount of external testing can compensate for'
+limits:
+  - '[source] breaks because the dog and the manufacturer have different nutritional needs and taste preferences, just as internal developer-users have fundamentally different expertise, patience, and workflows than external customers'
+  - '[source] misleads by implying that a single act of consumption validates the entire product, when internal use typically exercises only a narrow subset of features and configurations'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: fine-tuning-is-specialization
 source_frame: music
 updated: '2026-03-13'
+transfers:
+  - '[source] fine-tuning a musical instrument adjusts pitch by tiny increments to achieve precise harmonic relationships, mapping onto the ML process of making small parameter adjustments to optimize performance on a specific domain after broad pre-training'
+  - '[source] the prerequisite of a well-built instrument maps onto the prerequisite of a well-trained base model: you can only fine-tune what is already roughly in tune, importing the structure that specialization presupposes a functional generalist foundation'
+  - '[source] the tuner''s ear discriminates between acceptable and unacceptable output by listening, mapping onto the evaluation process where human judgment of model outputs guides the direction of parameter adjustment'
+limits:
+  - '[source] breaks because musical fine-tuning is reversible (you can retune to a different key), while ML fine-tuning can cause catastrophic forgetting where the model loses general capabilities it previously had'
+  - '[source] misleads by implying that fine-tuning is a small final adjustment, when in practice it can dramatically alter the model''s behavior, personality, and capabilities -- far more than tightening a tuning peg by a fraction of a turn'
 ---
 
 ## Transfers

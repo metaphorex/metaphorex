@@ -20,6 +20,13 @@ related:
 slug: existence-is-life
 source_frame: life-course
 updated: '2026-03-12'
+transfers:
+  - '[source] non-living things are understood through the life cycle of organisms: ideas are born, traditions grow, institutions mature, and practices die -- mapping biological temporality onto abstract entities that have no metabolism'
+  - '[source] the vitality of an existing thing maps onto biological health: a thriving business is alive and well, a failing one is dying, a defunct one is dead -- importing the organic distinction between healthy function and terminal decline'
+  - '[source] existence has a natural lifespan in this mapping -- things are born, flourish, age, and eventually die -- which imports the expectation that all things have a finite temporal arc even when no biological mechanism constrains their duration'
+limits:
+  - '[source] breaks because biological death is irreversible, but ideas, institutions, and traditions can be revived, resurrected, or reborn without any biological mechanism -- the metaphor imports a finality that the target domain does not possess'
+  - '[source] misleads by naturalizing decline and death as inevitable for all existing things, which can discourage maintenance and renewal by framing institutional decay as organic and therefore unavoidable'
 ---
 
 ## Transfers

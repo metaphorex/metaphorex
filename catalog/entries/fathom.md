@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - intellectual-inquiry
 updated: '2026-03-14'
+transfers:
+  - '[source] comprehension maps onto measuring water depth by lowering a weighted sounding line until it hits bottom, so that understanding is reaching the bottom of something hidden beneath an opaque surface'
+  - '[source] the capacity for understanding maps onto the length of the sounding line -- what is unfathomable exceeds the instrument''s reach, not because the depth does not exist but because the measuring tool runs out'
+  - '[source] the unit of measure (one fathom = one arm-span) grounds comprehension in the human body, making the limits of understanding feel embodied and personal rather than abstract'
+limits:
+  - '[source] breaks because depth is one-dimensional while understanding is multi-dimensional -- the sounding line measures a single quantity (how deep), but comprehending a complex situation requires grasping multiple interacting dimensions simultaneously'
+  - '[source] misleads by implying there is a fixed bottom to be found, when many things people try to fathom (motivations, complex systems) may have no determinate bottom at all -- unfathomable conflates ''too deep for me'' with ''has no floor'''
 ---
 
 ## Transfers

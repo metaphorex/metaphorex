@@ -18,6 +18,13 @@ related:
 slug: faustian-bargain
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] a transaction maps onto selling one''s soul to the devil: you gain extraordinary power or knowledge now in exchange for catastrophic, irrevocable loss later -- importing the structure that the cost is deferred, disproportionate, and hidden in the terms'
+  - '[source] the bargainer enters freely but cannot exit: Faust chooses the deal knowing the price, yet once committed, the contract is binding and the soul is forfeit regardless of regret, importing the asymmetry between easy entry and impossible exit'
+  - '[source] the devil as counterparty imports the structure of an adversary who is more sophisticated than the bargainer and whose terms are designed to exploit the gap between what the bargainer wants now and what they will lose later'
+limits:
+  - '[source] breaks because Faust''s bargain has a single definitive moment of agreement with clear terms, while real ''Faustian bargains'' (technical debt, fossil fuel dependence) are typically accumulated through many small decisions with no single signing ceremony'
+  - '[source] misleads by implying a conscious, knowing trade-off (Faust understood he was selling his soul), when many real-world analogues involve actors who genuinely do not foresee the deferred costs'
 ---
 
 ## Transfers

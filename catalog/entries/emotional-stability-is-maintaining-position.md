@@ -20,6 +20,13 @@ related:
 slug: emotional-stability-is-maintaining-position
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] emotional stability is spatial fixity -- holding your ground, staying in a good place -- so that the stable person resists forces that would relocate them while the unstable person is displaced against their will'
+  - '[source] emotional disturbance is not a fall (as in the balance variant) but a relocation -- being carried away, swept up, beside oneself -- giving instability a destination rather than just a direction (down)'
+  - '[source] recovery maps onto navigation back to a prior position (getting back to where I was, finding my way back), rather than mechanical restoration of equilibrium, which imports a spatial geography of emotional states'
+limits:
+  - '[source] breaks because the metaphor codes positional fixity as health, making adaptive change look pathological -- a person leaving an abusive situation is ''uprooted'' or ''displaced'' even when the movement is exactly what is needed'
+  - '[source] misleads by privileging return over progress, so that ''getting back to normal'' becomes the default recovery goal even when the pre-disturbance state was itself problematic'
 ---
 
 ## Transfers
