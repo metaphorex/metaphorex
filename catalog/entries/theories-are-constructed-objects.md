@@ -18,6 +18,14 @@ related:
 slug: theories-are-constructed-objects
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - '[source] Raw materials exist independently of the builder and constrain what can be constructed'
+  - '[source] Construction requires specialized tools separable from both materials and product'
+  - '[source] Constructed objects can be disassembled into discrete components for individual inspection'
+limits:
+  - '[source] Physical materials pre-exist construction, but in theory-making what counts as data is partly determined by the theory itself'
+  - '[source] Constructed objects are intentional artifacts, obscuring the role of serendipity and accidental discovery in theoretical insight'
+  - '[source] Disassembly returns original components, but deconstructing a theory transforms the elements being analyzed rather than recovering pre-theoretical observations'
 ---
 
 ## Transfers

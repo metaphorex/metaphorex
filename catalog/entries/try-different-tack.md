@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - intellectual-inquiry
 updated: '2026-03-14'
+transfers:
+  - '[source] The direct route is structurally impossible — an external constraint forces indirect approach'
+  - '[source] Each tack is a fully coherent alternate course with its own heading, not a random deviation'
+  - '[source] The destination remains fixed while the route changes, encoding persistence of purpose with flexibility of means'
+limits:
+  - '[source] Tacking offers exactly two alternative angles determined by wind geometry, but real problem-solving often involves a much larger and less well-defined set of possible approaches'
+  - '[source] The wind is a known, measurable constraint, obscuring that many real obstacles are poorly understood or invisible'
 ---
 
 ## Transfers

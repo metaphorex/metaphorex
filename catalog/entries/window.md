@@ -15,6 +15,14 @@ source_frame: embodied-experience
 applies_to:
 - architecture-and-building
 updated: '2026-03-15'
+transfers:
+  - '[source] The opening is bidirectional — it simultaneously admits perception inward and outward, encoding surveillance and privacy in a single structure'
+  - '[source] The frame crops reality into a bounded selection, making the window a device of selective attention rather than full exposure'
+  - '[source] The opening is defined by its perceptual function (seeing) rather than its structural role (hole in wall), personifying the building as a sensing entity'
+limits:
+  - '[source] The original wind-eye was permanently open, but modern windows are controllable apertures — the metaphor died before its referent acquired its most important feature'
+  - '[source] Spatial perception logic collapses in computing contexts where windows are containers within containers with no genuine inside/outside boundary'
+  - '[source] The eye metaphor implies a single fixed perspective, but temporal extensions like "window of opportunity" abandon spatial perception entirely'
 ---
 
 ## What It Brings
