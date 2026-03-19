@@ -7,7 +7,6 @@ categories:
 - organizational-behavior
 contributors: []
 created: '2026-03-19'
-dead: true
 grounding: folk
 harness: Claude Code
 kind: metaphor
@@ -112,8 +111,9 @@ Key structural parallels:
   stations to begin cooking the entrees for that table
 - "Don't fire until I call it" -- holding back execution until the
   coordinator is ready, common in both kitchen and military contexts
-- "We need to fire this project" -- using the kitchen metaphor in
-  business to mean "trigger execution of a prepared plan"
+- "Fire when ready" -- deployment and release management borrowing the
+  kitchen's trigger-on-readiness protocol, confirming that all
+  preconditions are met before execution begins
 - "Heard" -- the acknowledgment protocol confirming the fire command
   was received, borrowed into business contexts as a model of clear
   communication
