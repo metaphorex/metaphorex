@@ -10,11 +10,10 @@ name: Shapeshifter
 related: []
 slug: shapeshifter
 source_frame: mythology
-target_frame: social-roles
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Nearly every mythological tradition includes figures who can change
 their form: Proteus in Greek myth, Loki in Norse, the kitsune in
@@ -58,7 +57,7 @@ Key structural parallels:
   The archetype implies that identity is real even when form is
   fluid.
 
-## Where It Breaks
+## Limits
 
 - **Not all adaptation is deception** -- the shapeshifter archetype
   carries a moral charge: changing form is associated with trickery,
