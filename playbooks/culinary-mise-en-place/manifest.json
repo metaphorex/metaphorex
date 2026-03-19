@@ -1,0 +1,365 @@
+{
+  "project": "culinary-mise-en-place",
+  "project_issue": 1351,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://www.escoffier.edu/blog/culinary-arts/slang-and-lingo-every-chef-should-learn/",
+    "https://www.escoffier.edu/blog/culinary-arts/more-useful-examples-of-chef-jargon/",
+    "https://www.webstaurantstore.com/article/511/kitchen-slang-phrases.html",
+    "https://www.webstaurantstore.com/article/939/culinary-terms-glossary.html",
+    "https://www.nateliason.com/notes/work-clean-dan-charnas",
+    "https://www.escoffier.edu/blog/culinary-pastry-careers/different-types-of-chef-jobs-in-the-brigade-de-cuisine/"
+  ],
+  "candidates": [
+    {
+      "slug": "mise-en-place",
+      "name": "Mise en Place",
+      "kind": "paradigm",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Everything in its place before work begins. The core culinary principle that preparation IS the work. Migrated wholesale into productivity, project management, and personal workflow design via Charnas's Work Clean."
+    },
+    {
+      "slug": "in-the-weeds",
+      "name": "In the Weeds",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Being overwhelmed and falling behind on orders. Names the threshold beyond which adding more effort does not help -- you need to shed load or get help. Used widely in project management and operations."
+    },
+    {
+      "slug": "eighty-six",
+      "name": "86'd",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "To remove an item from the menu because it has run out. Migrated into general slang meaning to eliminate, remove, or kill something. Used in business for discontinuing products or features."
+    },
+    {
+      "slug": "fire",
+      "name": "Fire (kitchen command)",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "The command to begin cooking a dish. Separates the moment of ordering from the moment of execution -- a deliberate synchronization mechanism. Maps onto project management's concept of authorized work start."
+    },
+    {
+      "slug": "brigade-system",
+      "name": "Brigade System",
+      "kind": "paradigm",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Escoffier's military-inspired kitchen hierarchy (chef de cuisine, sous chef, chef de partie, commis). A strict division of labor and chain of command. Still the dominant organizational metaphor in professional kitchens; maps onto corporate org charts and software team structures."
+    },
+    {
+      "slug": "on-the-fly",
+      "name": "On the Fly",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["linguistics"],
+      "source": "archive",
+      "description": "An urgent order needed immediately, usually because of a mistake or delay. Encodes the idea of unplanned, reactive work that disrupts the planned sequence. Widely used in software for runtime changes and ad-hoc fixes."
+    },
+    {
+      "slug": "heard",
+      "name": "Heard (call and callback)",
+      "kind": "pattern",
+      "source_frame": "food-and-cooking",
+      "target_frame": "communication",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "The kitchen acknowledgment protocol: a command is given and must be echoed back ('Heard!' / 'Oui, Chef!'). Ensures no instruction is silently dropped. Maps onto aviation readbacks, military radio protocol, and software acknowledgment patterns."
+    },
+    {
+      "slug": "behind",
+      "name": "Behind / Corner / Hot",
+      "kind": "pattern",
+      "source_frame": "food-and-cooking",
+      "target_frame": "communication",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Spatial awareness callouts in the kitchen. 'Behind!' means someone is passing behind you. 'Corner!' warns of a blind turn. 'Hot!' warns of dangerous temperature. A safety protocol that prevents collisions in tight, high-stakes environments."
+    },
+    {
+      "slug": "dying-on-the-pass",
+      "name": "Dying on the Pass",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Food sitting too long in the pickup window, losing quality with every second. Names the cost of handoff delays -- the work is done but the downstream consumer has not collected it. Maps onto queuing theory and WIP limits."
+    },
+    {
+      "slug": "all-day",
+      "name": "All Day",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "The total count of a particular item needed across all active tickets. A real-time aggregation that prevents per-ticket thinking. Maps onto backlog prioritization and capacity planning."
+    },
+    {
+      "slug": "expo",
+      "name": "Expo (Expeditor)",
+      "kind": "pattern",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "The person who coordinates between kitchen and front-of-house, verifying orders before they leave. A quality gate and traffic controller role. Maps onto release managers, QA gatekeepers, and integration coordinators."
+    },
+    {
+      "slug": "the-pass",
+      "name": "The Pass",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "The physical boundary between kitchen and dining room where finished plates are placed. A liminal zone with its own rules and its own manager. Maps onto deployment boundaries, staging environments, and handoff points."
+    },
+    {
+      "slug": "the-line",
+      "name": "The Line",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "The cooking area in the kitchen where the real work happens. 'Being on the line' means being in production. Maps onto assembly lines, front-line workers, and the distinction between production and management roles."
+    },
+    {
+      "slug": "a-la-minute",
+      "name": "A la Minute",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Prepared fresh to order, not from pre-made stock. The just-in-time principle in cooking: freshness requires waiting but rewards with quality. Maps onto on-demand computation, JIT compilation, and pull-based manufacturing."
+    },
+    {
+      "slug": "dead-plate",
+      "name": "Dead Plate",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "A dish that cannot be served -- either returned, prepared wrong, or abandoned. Pure waste in a system optimized against waste. Maps onto dead code, abandoned PRs, and sunk cost in project management."
+    },
+    {
+      "slug": "prep",
+      "name": "Prep Work",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "The hours of chopping, measuring, and organizing that happen before service. Invisible work that makes visible work possible. Maps onto sprint planning, infrastructure setup, and the distinction between preparation and execution."
+    },
+    {
+      "slug": "planning-is-prime",
+      "name": "Planning Is Prime",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas Work Clean principle 1: Daily planning and task sequencing. Know your 'Meeze Point' -- the maximum tasks you can handle before becoming overwhelmed."
+    },
+    {
+      "slug": "arranging-spaces-perfecting-movements",
+      "name": "Arranging Spaces, Perfecting Movements",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas Work Clean principle 2: Optimize physical workspace and body mechanics. Create checklists for recurring processes. The spatial dimension of mise en place."
+    },
+    {
+      "slug": "cleaning-as-you-go",
+      "name": "Cleaning as You Go",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas Work Clean principle 3: Maintain workspace organization continuously. 'Come to zero' hourly. Maps onto refactoring, tech debt management, and the Boy Scout Rule."
+    },
+    {
+      "slug": "making-first-moves",
+      "name": "Making First Moves",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas Work Clean principle 4: Prioritize process work that unblocks others. Start each day with 30 minutes of process time. Maps onto unblocking dependencies and servant leadership."
+    },
+    {
+      "slug": "finishing-actions",
+      "name": "Finishing Actions",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas Work Clean principle 5: Batch similar work and avoid incomplete tasks. Document progress for smooth resumption. Maps onto WIP limits and the cost of context switching."
+    },
+    {
+      "slug": "slowing-down-to-speed-up",
+      "name": "Slowing Down to Speed Up",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas Work Clean principle 6: Combat panic through deliberate, measured work. Clear your station mentally and physically before proceeding. Maps onto 'go slow to go fast' in software."
+    },
+    {
+      "slug": "call-and-callback",
+      "name": "Call and Callback",
+      "kind": "pattern",
+      "source_frame": "food-and-cooking",
+      "target_frame": "communication",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas Work Clean principle 7 (also called 'call and response'). Communicate clearly. Confirm understanding before proceeding. Maps onto acknowledgment protocols, TCP handshakes, and code review."
+    },
+    {
+      "slug": "inspect-and-correct",
+      "name": "Inspect and Correct",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas Work Clean principle 9: Track daily errors and their consequences. Document preventive measures. Maps onto retrospectives, blameless postmortems, and continuous improvement cycles."
+    },
+    {
+      "slug": "total-utilization",
+      "name": "Total Utilization",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas Work Clean principle 10: Conserve space to conserve motion to conserve time. Use all resources fully, log waste. Maps onto resource efficiency, nose-to-tail thinking, and zero-waste manufacturing."
+    },
+    {
+      "slug": "sous-chef",
+      "name": "Sous Chef",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "The second-in-command in Escoffier's brigade. Literally 'under-chef.' Acts as intermediary between head chef and station chefs. Maps onto deputy/lieutenant roles and the concept of a designated successor."
+    },
+    {
+      "slug": "chef-de-partie",
+      "name": "Chef de Partie",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Station chef responsible for a specific area of production. Encodes the principle that specialization within a hierarchy enables throughput. Maps onto team leads, module owners, and domain experts."
+    },
+    {
+      "slug": "front-of-house-back-of-house",
+      "name": "Front of House / Back of House",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "The fundamental division between customer-facing space and production space. Maps onto frontend/backend in software, public API vs internal implementation, and the dramaturgical distinction between frontstage and backstage."
+    },
+    {
+      "slug": "the-rush",
+      "name": "The Rush",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "llm",
+      "description": "The peak period of service when orders flood in. A predictable surge that can only be survived, not prevented. Maps onto traffic spikes, launch days, and seasonal demand patterns."
+    },
+    {
+      "slug": "ticket-rail",
+      "name": "Ticket Rail / The Board",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "The metal strip holding incoming order tickets. A physical kanban board predating kanban boards. Makes work visible, sequenced, and bounded by physical space."
+    },
+    {
+      "slug": "stretch-it",
+      "name": "Stretch It",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Making limited ingredients last across more dishes. Resourcefulness under constraint. Maps onto budget stretching, feature thinning, and graceful degradation when resources are scarce."
+    },
+    {
+      "slug": "flash-it",
+      "name": "Flash It",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Quick reheating of a dish using high heat. A recovery technique for food that has cooled. Maps onto hot-patching, quick fixes, and emergency interventions that restore something to serviceable state without full rework."
+    },
+    {
+      "slug": "hands",
+      "name": "Hands!",
+      "kind": "pattern",
+      "source_frame": "food-and-cooking",
+      "target_frame": "communication",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "A call for immediate assistance carrying food to tables. A load-balancing request -- the bottleneck is transport, not production. Maps onto help requests in ops, interrupt-driven task assignment, and swarming patterns."
+    },
+    {
+      "slug": "coming-to-zero",
+      "name": "Coming to Zero",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Periodically clearing and resetting your workspace to a pristine state. A Charnas concept from Work Clean. Maps onto inbox zero, clearing the backlog, and the psychological benefit of periodic clean resets."
+    },
+    {
+      "slug": "meeze-point",
+      "name": "Meeze Point",
+      "kind": "mental-model",
+      "source_frame": "food-and-cooking",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Charnas's term for the maximum number of tasks a person can handle before becoming overwhelmed. A personal WIP limit. Knowing it lets you plan around your actual capacity rather than aspirational capacity."
+    }
+  ]
+}
