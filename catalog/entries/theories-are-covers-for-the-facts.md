@@ -18,6 +18,14 @@ related:
 slug: theories-are-covers-for-the-facts
 source_frame: covers
 updated: '2026-03-13'
+transfers:
+  - '[source] A cover must match the contour of what it covers, introducing a geometric fit criterion between explanation and data'
+  - '[source] Stretching a cover beyond its designed area thins it and makes it liable to tear'
+  - '[source] Gaps in coverage expose specific uncovered areas rather than causing total structural failure'
+limits:
+  - '[source] Covers are passive surfaces, hiding that theories actively predict new phenomena rather than merely draping over existing ones'
+  - '[source] A cover is a single flat layer with no internal structure, obscuring the hierarchical depth of axioms, principles, and derived predictions'
+  - '[source] All uncovered areas appear as failures, making no distinction between genuine explanatory gaps and facts outside the theory''s intended scope'
 ---
 
 ## Transfers

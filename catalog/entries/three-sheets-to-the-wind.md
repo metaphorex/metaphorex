@@ -15,7 +15,14 @@ slug: three-sheets-to-the-wind
 source_frame: seafaring
 applies_to:
 - embodied-experience
-updated: '2026-03-14'
+updated: '2026-03-18'
+transfers:
+- '[source] Loss of control is graduated — each additional loose sheet produces a distinct, worsening degree of ungovernability'
+- '[source] The vessel''s underlying machinery remains intact; impairment is in governance of existing capacity, not loss of capacity'
+- '[source] The mapping is kinesthetic — it describes staggering motion rather than rendering moral judgment'
+limits:
+- '[source] Sheets come loose involuntarily through storm or equipment failure, obscuring that drunkenness begins as a voluntary act'
+- '[source] The graduated scale (one, two, three sheets) has collapsed in modern usage to a single fixed phrase for the extreme case, erasing the structural precision that made the original mapping interesting'
 ---
 
 ## Transfers
