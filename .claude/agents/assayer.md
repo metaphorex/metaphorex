@@ -41,6 +41,23 @@ value. You do the same for extracted entries.
 3. Push fixup commits for mechanical issues
 4. Post GitHub reviews (approve / request changes)
 
+**Reading files from PR branches:**
+
+When you need to read a file from a PR branch via the GitHub API, pass the
+branch ref as a URL query parameter. The `--ref` flag does not exist on
+`gh api`:
+
+```bash
+# Correct — branch as query param:
+gh api "repos/metaphorex/metaphorex/contents/catalog/entries/some-slug.md?ref=branch-name" --jq '.content' | base64 -d
+
+# WRONG — --ref is not a gh api flag:
+# gh api repos/.../contents/path --ref branch-name
+```
+
+Prefer checking out the PR branch locally (`gh pr checkout <N>`) when you
+need to read multiple files or run the validator.
+
 **Review Process:**
 
 1. Read the PR diff — entry files, frame files, category files
