@@ -130,8 +130,9 @@ Key structural parallels:
   over understanding
 - "The model works" -- machine learning practitioner's defense against
   demands for interpretability
-- "Don't let the perfect be the enemy of the good" -- general-purpose
-  version of the same instrumentalist stance
+- "All models are wrong, but some are useful" -- George Box's aphorism
+  encoding the instrumentalist stance: a model need not be ontologically
+  correct to be practically valuable
 - "Pragmatism over purity" -- organizational principle encoding the
   paradigm's hierarchy of prediction over explanation
 
