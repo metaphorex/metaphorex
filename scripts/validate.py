@@ -195,6 +195,14 @@ def validate_entry(path: Path, frame_slugs: set[str], category_slugs: set[str],
         elif not sections[section]:
             errors.append(f"{prefix}: section '## {section}' is empty")
 
+    # Frontmatter-body alignment: enrichment fields must have matching body sections
+    for field, heading in (("transfers", "Transfers"), ("limits", "Limits")):
+        if field in meta:
+            if heading not in sections:
+                warnings.append(f"{prefix}: frontmatter has '{field}' but body ## {heading} section is missing")
+            elif not sections[heading]:
+                warnings.append(f"{prefix}: frontmatter has '{field}' but body ## {heading} section is empty")
+
 
 def validate_frame(path: Path, frame_slugs: set[str], errors: list[str], warnings: list[str]) -> None:
     post = frontmatter.load(path)
