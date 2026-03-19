@@ -49,6 +49,13 @@ REJECTED_KINDS = {"conceptual-metaphor", "dead-metaphor", "cross-field-mapping"}
 
 REQUIRED_MAPPING_SECTIONS = {"Transfers", "Limits", "Expressions"}
 
+# Legacy headings that should be replaced with canonical names
+DEPRECATED_HEADINGS = {
+    "Where It Breaks": "Limits",
+    "What It Brings": "Transfers",
+    "What It Enables": "Expressions",
+}
+
 
 def slugs_in(directory: Path) -> set[str]:
     """Collect all slugs from frontmatter in a directory."""
@@ -194,6 +201,24 @@ def validate_entry(path: Path, frame_slugs: set[str], category_slugs: set[str],
             errors.append(f"{prefix}: missing required section '## {section}'")
         elif not sections[section]:
             errors.append(f"{prefix}: section '## {section}' is empty")
+
+    # Duplicate section check — parse_sections silently overwrites duplicates,
+    # so count headings directly from the raw markdown body
+    heading_counts: dict[str, int] = {}
+    for line in post.content.split("\n"):
+        m = re.match(r"^## (.+)$", line)
+        if m:
+            h = m.group(1).strip()
+            heading_counts[h] = heading_counts.get(h, 0) + 1
+    for section in REQUIRED_MAPPING_SECTIONS:
+        count = heading_counts.get(section, 0)
+        if count > 1:
+            errors.append(f"{prefix}: duplicate section '## {section}' appears {count} times")
+
+    # Deprecated heading check
+    for heading, replacement in DEPRECATED_HEADINGS.items():
+        if heading in heading_counts:
+            errors.append(f"{prefix}: deprecated section '## {heading}' — use '## {replacement}'")
 
 
 def validate_frame(path: Path, frame_slugs: set[str], errors: list[str], warnings: list[str]) -> None:
