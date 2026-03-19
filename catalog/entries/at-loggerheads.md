@@ -18,14 +18,6 @@ updated: '2026-03-14'
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 A loggerhead was a long-handled iron instrument with a ball or cup at
 the end, heated in a fire and used to melt pitch for caulking a ship's
 seams. It was an essential tool of ship maintenance -- heavy, blunt, and
@@ -61,7 +53,8 @@ Key structural parallels:
   metaphor inherits this: being at loggerheads implies not just
   disagreement but heated, angry disagreement. The temperature of the
   tool maps onto the temperature of the conflict.
-## Where It Breaks
+
+## Limits
 
 - **The source object is completely forgotten** -- almost no
   contemporary English speaker knows what a loggerhead is. The
@@ -90,6 +83,7 @@ Key structural parallels:
   minority. "At loggerheads" flattens these asymmetries, potentially
   obscuring the fact that one party has far more at stake or far fewer
   options than the other.
+
 ## Expressions
 
 - "The two sides are at loggerheads" -- locked in fierce disagreement
@@ -100,6 +94,7 @@ Key structural parallels:
   institutional deadlock as symmetrical confrontation
 - "The unions and management are at loggerheads" -- workplace conflict
   as crewmates turned adversaries
+
 ## Origin Story
 
 The word loggerhead has been in English since at least the sixteenth
@@ -120,4 +115,3 @@ is a reminder that dead metaphors often carry unresolved histories.
 Loggerhead sea turtles, named for their disproportionately large
 heads, are a separate derivation that further muddies the word's
 semantic field.
-

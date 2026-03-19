@@ -27,11 +27,79 @@ limits:
 
 ## Transfers
 
-Loss of control is graduated. Each sheet that comes loose produces increasing impairment, not a sudden collapse into total dysfunction. The vessel's machinery remains intact — the problem is governance, not capacity. And the mapping is kinesthetic, describing the visible staggering of a drunk person rather than rendering moral judgment. This is why the expression carries a lighter, almost affectionate tone compared to clinical language.
+A "sheet" in sailing is not a sail -- it is a rope (or chain) that
+controls the angle of a sail relative to the wind. Each sail has one
+or two sheets. If a sheet comes loose, its sail flaps uncontrolled and
+the ship lurches to one side. If three sheets are loose simultaneously,
+the ship staggers drunkenly, unable to hold any course, rolling and
+yawing with each wave. Sailors mapped this visible loss of controlled
+motion directly onto the visible loss of controlled motion in a drunk
+person.
+
+- **Graduated scale of impairment** -- sailors reportedly used a
+  numerical scale: one sheet to the wind was tipsy, two sheets was
+  noticeably drunk, three sheets was falling-down intoxicated. The
+  metaphor imports a graded structure that maps the number of
+  uncontrolled sails onto the degree of drunkenness. This is
+  unusually precise for a folk metaphor -- it provides not just a
+  binary (drunk/sober) but a continuum, and the continuum is
+  anchored in observable physical facts about ship behavior.
+- **The mapping is kinesthetic, not moral** -- the metaphor describes
+  how a drunk person moves, not how they ought to behave. A ship
+  with three loose sheets staggers, lurches, and cannot hold a
+  straight line. So does a drunk person. The mapping is body-to-body
+  (ship's body to human body) rather than evaluative. This is why
+  the expression has a slightly affectionate or humorous tone
+  compared to clinical terms like "inebriated" -- it describes a
+  spectacle rather than rendering a judgment.
+- **Loss of control is incremental and visible** -- one loose sheet
+  produces a slight list; three produces chaos. The metaphor imports
+  the idea that impairment is a gradual process with visible stages,
+  not an all-or-nothing switch. Each additional sheet that comes
+  loose is another step toward complete loss of directional control.
+  Applied to drinking, this maps onto the observable progression from
+  slight unsteadiness to total inability to walk straight.
+- **The ship is not damaged, just ungovernable** -- a ship with three
+  loose sheets has nothing structurally wrong with it. The sails are
+  intact, the hull is sound, the rudder works. The problem is entirely
+  one of control: the crew cannot direct the ship's power. The
+  metaphor imports the distinction between capacity and control.
+  A drunk person still has legs that work; they just cannot coordinate
+  them. The impairment is in the governance, not the machinery.
 
 ## Limits
 
-The metaphor assumes sheets come loose involuntarily through mechanical failure, but drunkenness begins as a voluntary act — the ship's accident maps imperfectly onto human choice. And the graduated scale that made the original metaphor structurally interesting has been lost in modern usage, which only preserves the extreme case ("three sheets to the wind") as a fixed phrase, erasing the intermediate steps.
+- **Most people think "sheets" means "sails"** -- this is the most
+  common misunderstanding of the expression. If sheets were sails,
+  three loose sails would be a disaster of missing equipment. The
+  actual image -- three ropes flapping free while the sails they
+  control swing wildly -- is more nuanced: the equipment is all
+  present but uncontrolled. The misunderstanding flattens the
+  metaphor from "loss of control over existing capacity" to "loss
+  of capacity," which is a different (and less interesting) mapping.
+- **Ships do not choose to lose their sheets** -- sheets come loose
+  through storm, equipment failure, or crew error. Drunkenness is
+  a voluntary state (at least at the start). The metaphor maps an
+  involuntary mechanical failure onto a voluntary behavior, which
+  can either trivialize drinking (it just happened, like a rope
+  snapping) or obscure the agency involved. Sailors may have
+  appreciated this ambiguity: the metaphor gave them a way to
+  describe drunkenness without assigning blame.
+- **The graduated scale has been lost** -- modern speakers only use
+  "three sheets to the wind," never "one sheet" or "two sheets."
+  The scale that made the original metaphor structurally interesting
+  has collapsed into a single fixed phrase meaning "very drunk." The
+  intermediate steps -- the careful nautical observation that one
+  loose sheet produces different behavior from three -- have been
+  forgotten, leaving only the extreme case.
+- **The expression is now a marker of folksy register, not a live
+  metaphor** -- saying someone is "three sheets to the wind" in
+  contemporary English signals a deliberately colorful, old-fashioned
+  style of speech. The expression has migrated from descriptive
+  vocabulary to stylistic choice. Nobody uses it as the most natural
+  way to say "drunk"; they use it when they want to sound
+  picturesque. This is a stage beyond dead metaphor -- it is a
+  fossilized metaphor that has been revived as ornament.
 
 ## Expressions
 
@@ -44,6 +112,7 @@ The metaphor assumes sheets come loose involuntarily through mechanical failure,
   (the ship is listing so far it takes on water), which provides
   evidence that sailors had a whole vocabulary of ship-as-drunk-body
   mappings
+
 ## Origin Story
 
 The expression appears in print by the early 19th century. Richard

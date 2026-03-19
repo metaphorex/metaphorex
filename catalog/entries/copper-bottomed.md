@@ -5,16 +5,16 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Copper-Bottomed
 related: []
 slug: copper-bottomed
 source_frame: seafaring
-target_frame: economics
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 From the 1760s onward, the Royal Navy sheathed the underwater hulls of
 its warships in copper plates. Copper sheathing prevented two serious
@@ -45,7 +45,7 @@ guarantees or promises considered completely trustworthy.
   quality onto guarantees that protect against risks people do not
   normally think about until disaster strikes.
 
-## Where It Breaks
+## Limits
 
 - **Copper sheathing caused its own problems** -- the copper reacted
   galvanically with the iron bolts holding the hull together, corroding
