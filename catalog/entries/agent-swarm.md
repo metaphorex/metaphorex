@@ -9,11 +9,20 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because AI agents in practice are specialized (code generation, search, planning), not interchangeable like swarm insects within a caste -- real systems look more like a crew than a colony'
+- '[source] misleads because the emergent behavior that makes biological swarms compelling is precisely what developers cannot afford: actual multi-agent frameworks use explicit orchestration (pipelines,
+  directed graphs, supervisors), delivering choreography while the metaphor promises emergence'
 name: Agent Swarm
 related:
 - ai-is-a-tool
 slug: agent-swarm
 source_frame: animal-behavior
+transfers:
+- '[source] maps insect colony behavior onto multi-agent AI, importing decentralized coordination where individual agents follow local rules and useful behavior emerges from interactions without central
+  command'
+- '[source] imports the expendability of individual swarm insects onto AI agents, framing fault tolerance as a natural property where the swarm absorbs individual agent failures and continues functioning'
+- '[source] maps stigmergy (indirect coordination through environmental modification like pheromone trails) onto agent communication through shared state, message queues, and artifact repositories'
 updated: '2026-03-13'
 ---
 

@@ -7,10 +7,17 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 dead: true
+limits:
+- '[source] breaks because copper reacted galvanically with iron bolts, corroding them and weakening the hull -- the protection itself introduced new failure modes that the metaphor ignores'
+- '[source] misleads by implying permanence, but copper sheathing thinned over time and required periodic replacement in dry-dock, making the original protection temporary and maintenance-dependent'
 name: Copper-Bottomed
 related: []
 slug: copper-bottomed
 source_frame: seafaring
+transfers:
+- '[source] copper sheathing demonstrably prevented worm damage and fouling, mapping proven material investment onto guarantees backed by tangible assets rather than mere promises'
+- '[source] the expense of coppering signaled that the ship was worth protecting, carrying the implication that the cost of the guarantee is itself evidence of commitment'
+- '[source] the copper was below the waterline and invisible during normal operation, mapping hidden-but-essential protection onto guarantees that guard against risks people forget until disaster strikes'
 updated: '2026-03-14'
 ---
 

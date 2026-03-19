@@ -7,11 +7,19 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 dead: true
+limits:
+- '[source] breaks because the rating measured destructive firepower, not general quality -- first-rates were slower, harder to maneuver, and often sat in port because they were too valuable to risk'
+- '[source] misleads because the system was a bureaucratic pay-scale classification, not a quality judgment -- calling a ship first-rate was a payroll category, not a compliment'
 name: First-Rate
 related:
 - flagship
 slug: first-rate
 source_frame: seafaring
+transfers:
+- '[source] the Royal Navy rating system was a precise, gun-count taxonomy where first-rate meant 100+ guns, but the metaphor collapsed this quantitative precision into a vague superlative meaning simply
+  excellent'
+- '[source] first-rates were extremely expensive and few in number (fewer than ten in service), carrying a faint echo of exclusivity into the metaphorical usage'
+- '[source] the existence of ''first-rate'' implies a system of lower rates, and the metaphor preserved this asymmetrically -- ''second-rate'' survives as pejorative while third through sixth vanished'
 updated: '2026-03-14'
 ---
 

@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks because many agents (teachers, doctors, civil servants) are motivated by professional ethics and intrinsic satisfaction, not just rational self-interest'
+- '[model] misleads by implicitly framing the principal''s interests as legitimate, when principals can have bad objectives and agent deviation may serve longer-term organizational health'
 name: Principal-Agent Problem
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +17,9 @@ related:
 - lollapalooza-effect
 - the-map-is-not-the-territory
 slug: principal-agent-problem
+transfers:
+- '[model] predicts that whenever work is delegated, information asymmetry creates structural opportunities for the agent to serve themselves at the principal''s expense'
+- '[model] reframes governance structures (boards, audits, regulations) not as bureaucratic overhead but as rational monitoring responses to the principal-agent gap'
 updated: '2026-03-13'
 ---
 

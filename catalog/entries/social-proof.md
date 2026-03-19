@@ -6,6 +6,10 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks in modern environments because tribal social proof involved dozens of known individuals, while digital social proof involves millions of strangers, bots, and algorithmic artifacts'
+- '[model] misleads by confusing popularity with quality -- the best-selling book is not necessarily the best book, and the mechanism that was supposed to aggregate information can instead destroy it through
+  pluralistic ignorance'
 name: Social Proof
 provenance: munger-poor-charlies-almanack
 related:
@@ -13,6 +17,10 @@ related:
 - the-map-is-not-the-territory
 slug: social-proof
 source_frame: natural-selection
+transfers:
+- '[model] predicts that under uncertainty people default to copying others'' behavior, an evolved heuristic where the less you know about a situation the more you look to peers for guidance'
+- '[model] identifies cascade dynamics: once enough individuals adopt a behavior, each new adopter adds to the signal, creating a self-reinforcing positive feedback loop identical to stampedes and market
+  bubbles'
 updated: '2026-03-13'
 ---
 

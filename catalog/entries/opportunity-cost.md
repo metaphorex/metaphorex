@@ -7,12 +7,18 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks because the best alternative is usually unknowable -- you cannot observe the counterfactual career, investment, or relationship that never happened'
+- '[model] misleads when applied to rest and leisure, framing every idle moment as costly and producing the pathology of treating all time as an investment vehicle'
 name: Opportunity Cost
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory
 - latticework-of-mental-models
 slug: opportunity-cost
+transfers:
+- '[model] reframes cost from what you pay to what you give up, forcing every choice to be evaluated against the best available alternative rather than in isolation'
+- '[model] makes the invisible alternative visible: every ''yes'' is simultaneously a ''no'' to something else, and sunk costs become irrelevant because the model is strictly forward-looking'
 updated: '2026-03-13'
 ---
 

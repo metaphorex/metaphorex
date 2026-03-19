@@ -6,6 +6,10 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks because friction alone is not a moat -- if customers stay only because leaving is painful, the business is built on resentment that can collapse suddenly when alternatives reduce switching
+  costs'
+- '[model] misleads by reducing accumulated expertise, community membership, and identity to mechanical resistance, when these ''switching costs'' have independent value beyond mere friction'
 name: Switching Costs
 provenance: munger-poor-charlies-almanack
 related:
@@ -13,6 +17,9 @@ related:
 - survival-of-the-fittest
 slug: switching-costs
 source_frame: physics
+transfers:
+- '[model] maps physical friction and inertia onto customer behavior: the higher the cost of switching (money, time, data migration, retraining), the more durable the customer relationship'
+- '[model] distinguishes static friction (upfront switching cost) from kinetic friction (ongoing cost of the new system), predicting that most resistance is concentrated at the start of a transition'
 updated: '2026-03-13'
 ---
 

@@ -7,12 +7,19 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks when applied reflexively to all expert advice, because it provides no mechanism for distinguishing incentive-driven opinion from correct professional judgment'
+- '[model] misleads by suggesting incentive removal as the fix, when incentive structures are load-bearing and removing them produces different problems like reduced effort and adverse selection'
 name: Incentive-Caused Bias
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest
 - the-map-is-not-the-territory
 slug: incentive-caused-bias
+transfers:
+- '[model] predicts that incentives do not merely alter behavior but reshape sincere beliefs, so that agents genuinely come to believe what the incentive structure rewards'
+- '[model] reframes biased professional judgment as structural rather than characterological -- when many individuals in the same incentive structure show the same bias, the explanation is the payoff matrix,
+  not individual dishonesty'
 updated: '2026-03-13'
 ---
 

@@ -6,12 +6,19 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks because some systems should be fragile by design -- fire alarms, circuit breakers, and democratic checks are engineered to break under specific conditions as a feature'
+- '[model] misleads by hiding the human cost of stress testing: when organizations are stress-tested by recessions, real people lose jobs, but the engineering frame treats suffering as load data'
 name: System Resilience vs. Fragility
 provenance: munger-poor-charlies-almanack
 related:
 - redundancy
 slug: system-resilience-vs-fragility
 source_frame: architecture-and-building
+transfers:
+- '[model] sorts systems along a spectrum from fragile (breaks under stress) through robust (withstands stress unchanged) to antifragile (gains from stress), providing a taxonomy for evaluating structural
+  soundness'
+- '[model] identifies that fragile systems concentrate critical function in one component while robust systems distribute it, making single-point-of-failure analysis the key diagnostic tool'
 updated: '2026-03-13'
 ---
 

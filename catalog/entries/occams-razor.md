@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks because ''simplicity'' is ambiguous -- fewer variables, fewer parameters, and fewer entity types are different measures that can rank the same explanations differently'
+- '[model] misleads when weaponized against nuance, shutting down discussion of complex phenomena (inequality, institutional failures) that genuinely resist monocausal explanation'
 name: Occam's Razor
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +17,9 @@ related:
 - first-principles-thinking
 slug: occams-razor
 source_frame: tool-use
+transfers:
+- '[model] operates as a selection criterion among competing hypotheses: unnecessary complexity is a cost because every additional assumption is another place where the theory can be wrong'
+- '[model] applies comparatively, not absolutely -- it prefers the simpler of two explanations that account for the same evidence equally well, not simple explanations over accurate ones'
 updated: '2026-03-13'
 ---
 

@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks because each additional order of analysis is less reliable as uncertainty compounds, and the model provides no principled stopping rule for how many orders to consider'
+- '[model] misleads by importing the precision of physics (higher-order derivatives are mathematically exact) into social systems where second-order effects are speculative narratives disguised as calculation'
 name: Second-Order Thinking
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +17,9 @@ related:
 - the-map-is-not-the-territory
 slug: second-order-thinking
 source_frame: physics
+transfers:
+- '[model] maps higher-order derivatives from calculus onto consequence analysis, where first-order effects are immediate visible consequences and second-order effects are the consequences of those consequences'
+- '[model] reveals that most decision-makers analyze only immediate effects as a cognitive default, and names the layers to make the analytical gap visible and correctable'
 updated: '2026-03-13'
 ---
 

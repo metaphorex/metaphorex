@@ -6,6 +6,10 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks because ecological niches emerge from slowly-changing physical constraints, while business niches are partly socially constructed and can shift rapidly with technology or regulation'
+- '[model] misleads by implying specialization is the survival path, when some of the most successful businesses (Amazon, Alphabet) are broad generalists operating at scales where competitive exclusion
+  does not cleanly apply'
 name: Niche Specialization
 provenance: munger-poor-charlies-almanack
 related:
@@ -13,6 +17,9 @@ related:
 - red-queen-effect
 slug: niche-specialization
 source_frame: natural-selection
+transfers:
+- '[model] predicts that two species competing for the same niche cannot stably coexist (competitive exclusion), mapping onto businesses offering identical products to the same customers at the same price'
+- '[model] identifies that specialization implies tradeoffs -- deep adaptation to one niche means poor fitness in others, making the specialist vulnerable if the niche disappears'
 updated: '2026-03-13'
 ---
 

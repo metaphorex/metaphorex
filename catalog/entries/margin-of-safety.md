@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks because in engineering safety factors are precise ratios, but in investing both the expected load (intrinsic value) and the margin are estimates layered on estimates'
+- '[model] misleads by suggesting permanence, but investment margins erode dynamically as businesses deteriorate, competitors emerge, and economies shift -- unlike a static structural factor'
 name: Margin of Safety
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +17,9 @@ related:
 - circle-of-competence
 slug: margin-of-safety
 source_frame: architecture-and-building
+transfers:
+- '[model] maps structural over-engineering (bridges designed for several times expected load) onto epistemic humility -- the gap between what you think you know and what you are willing to bet on'
+- '[model] applies specifically to situations where failure is catastrophic and irreversible, making it an engineering response to tail risk rather than a general-purpose heuristic'
 updated: '2026-03-13'
 ---
 

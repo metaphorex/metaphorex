@@ -7,11 +7,21 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 dead: true
+limits:
+- '[source] breaks because ships carried spare cordage and a broken mainstay could be replaced at sea with skill, while the metaphorical usage implies irreplaceability that the nautical reality did not
+  support'
+- '[source] misleads by implying permanence, but hemp rope deteriorated in salt air and required regular replacement -- the original mainstay was a consumable maintenance item, not an enduring fixture'
 name: Mainstay
 related:
 - flagship
 slug: mainstay
 source_frame: seafaring
+transfers:
+- '[source] the mainstay was the single most critical piece of standing rigging -- without it the mainmast would fall backward and bring down the entire rig -- mapping irreplaceable structural support onto
+  indispensable people or institutions'
+- '[source] standing rigging does not move and does its work silently by being present, mapping the invisible contribution of structural support onto people whose value is noticed only when threatened with
+  removal'
+- '[source] the mainstay ran from masthead to bow as a tension member holding two parts in correct relationship, mapping the bridging function onto elements that connect what would otherwise drift apart'
 updated: '2026-03-14'
 ---
 

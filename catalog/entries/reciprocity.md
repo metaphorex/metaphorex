@@ -6,6 +6,9 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks when applied to relationships that resist the exchange frame -- parenting, friendship, and solidarity are corroded by transactional logic rather than explained by it'
+- '[model] misleads by assuming rough equality between parties, when power asymmetry distorts the ledger and makes coerced ''exchange'' look like legitimate reciprocity'
 name: Reciprocity
 provenance: munger-poor-charlies-almanack
 related:
@@ -13,6 +16,9 @@ related:
 - social-proof
 slug: reciprocity
 source_frame: economics
+transfers:
+- '[model] predicts that receiving an unsolicited favor creates an obligation felt as almost physical discomfort until discharged, operating as a behavioral program beneath conscious awareness'
+- '[model] identifies bilateral symmetry: positive reciprocity (return favors) and negative reciprocity (return hostility) use the same underlying mechanism, with both debts and credits demanding settlement'
 updated: '2026-03-13'
 ---
 

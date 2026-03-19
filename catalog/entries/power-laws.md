@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[law] breaks because the model is frequently over-applied -- many distributions only superficially resemble power laws and fail rigorous statistical testing (Clauset et al. 2009)'
+- '[law] misleads by naturalizing extreme concentration, framing billionaire wealth or monopoly dominance as inevitable mathematical features rather than products of policy and historical accident'
 name: Power Laws
 provenance: munger-poor-charlies-almanack
 related:
@@ -15,6 +18,9 @@ related:
 - lollapalooza-effect
 slug: power-laws
 source_frame: probability
+transfers:
+- '[law] predicts that in power-law distributions, extreme events are rare but so large they dominate the total -- the largest earthquake releases more energy than all smaller ones combined'
+- '[law] connects the shape of the distribution to its generating mechanism: multiplicative processes (wealth grows proportionally, popularity breeds popularity) produce power-law outcomes'
 updated: '2026-03-13'
 ---
 

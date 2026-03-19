@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[law] breaks when the mean itself is shifting -- climate temperatures hitting new extremes are not regressing to a fixed mean, and a student whose scores jump may have genuinely learned'
+- '[law] misleads when used to excuse inaction, dismissing genuine systemic problems as noise that will self-correct without providing a clear threshold for when a signal is real'
 name: Regression to the Mean
 provenance: munger-poor-charlies-almanack
 related:
@@ -15,6 +18,10 @@ related:
 - power-laws
 slug: regression-to-the-mean
 source_frame: probability
+transfers:
+- '[law] predicts that extreme values on first measurement will tend toward the average on second measurement, not from a causal force but because the random component of performance is unlikely to repeat'
+- '[law] reveals the illusion of effective intervention: actions taken at extreme moments (reprimands after poor performance, treatment at symptom peaks) appear to work because natural regression provides
+  false confirmation'
 updated: '2026-03-13'
 ---
 

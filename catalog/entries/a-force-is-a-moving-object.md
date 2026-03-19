@@ -11,6 +11,11 @@ contributors:
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because forces in physics are interactions between two bodies, not third entities traveling between them -- the moving-object frame reifies forces into discrete things with independent
+  existence'
+- '[source] misleads for continuous sustained forces (gravity never stops pulling, tension never releases) because the moving-object event structure (approach, impact, aftermath) fits impulsive forces but
+  distorts sustained ones'
 name: A Force Is a Moving Object
 provenance: osaka-master-metaphor-list
 related:
@@ -21,6 +26,10 @@ related:
 - difficulties-are-impediments-to-motion
 slug: a-force-is-a-moving-object
 source_frame: embodied-experience
+transfers:
+- '[source] maps invisible physical interactions onto visible moving objects, giving forces direction, trajectory, and momentum so they can be blocked, deflected, or absorbed like thrown objects'
+- '[source] gives forces a temporal arrival structure -- a force was not here, then approached, then made impact -- making abstract causation tractable through the narrative of collision'
+- '[source] allows agents to propel forces (''she hurled accusations'', ''they launched an attack''), extending the metaphor into causation where exerting force is throwing something at a target'
 updated: '2026-03-14'
 ---
 

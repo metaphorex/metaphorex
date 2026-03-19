@@ -10,12 +10,19 @@ contributors:
 created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because architectural waiting rooms are physical spaces you can inhabit and walk around, while software waits are temporal states where the user has no agency beyond waiting or canceling'
+- '[source] misleads by invoking communal waiting experiences (other patients, a receptionist, shared commiseration) when software loading is solitary, missing the social dimension entirely'
 name: A Place to Wait
 related:
 - the-facade-pattern
 - data-flow-is-fluid-flow
 slug: a-place-to-wait
 source_frame: architecture-and-building
+transfers:
+- '[source] maps architectural waiting spaces onto software loading states, framing the quality of the wait as a design responsibility rather than an engineering afterthought'
+- '[source] demands that waiting spaces communicate status -- queue position, estimated time, progress indication -- importing the architectural principle that the wait should not be opaque'
+- '[source] treats the waiting place as a liminal transition zone between two states (outside/inside, requesting/receiving), framing buffer states as architectural thresholds rather than defects'
 updated: '2026-03-14'
 ---
 

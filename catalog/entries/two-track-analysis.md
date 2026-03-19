@@ -6,6 +6,9 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks because Track Two is self-referential -- the biases you are trying to detect are the ones preventing detection, and the same brain runs both tracks rather than independent evaluators'
+- '[model] misleads by creating false confidence: running through a bias checklist can substitute the ceremony of self-examination for the substance, making the analyst less humble rather than more'
 name: Two-Track Analysis
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +17,10 @@ related:
 - the-map-is-not-the-territory
 slug: two-track-analysis
 source_frame: manufacturing
+transfers:
+- '[model] imports engineering inspection protocols into decision-making: Track One evaluates rational factors (facts, numbers, logic) while Track Two audits the analyst for subconscious biases and social
+  pressures'
+- '[model] insists that a failure on either track is a failure of the whole analysis, bridging conventional analysis (Track One only) and behavioral psychology (Track Two only) into an integrated framework'
 updated: '2026-03-13'
 ---
 

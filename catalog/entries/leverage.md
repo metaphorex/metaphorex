@@ -6,6 +6,9 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks because physical levers are predictable (force multiplication is deterministic), while business leverage is uncertain, context-dependent, and can evaporate without warning'
+- '[model] misleads by drawing attention to the amplification while obscuring the massive upfront investment required to build the fulcrum (the brand, network, or regulatory moat) that enables it'
 name: Leverage
 provenance: munger-poor-charlies-almanack
 related:
@@ -13,6 +16,10 @@ related:
 - activation-energy
 slug: leverage
 source_frame: physics
+transfers:
+- '[model] maps a lever''s mechanical advantage onto any situation where small input produces amplified output, with the fulcrum (brand, distribution, regulatory advantage) determining the amplification
+  ratio'
+- '[model] predicts that amplification is symmetric -- leverage magnifies both gains and losses -- making it the critical structural feature that distinguishes leverage from a free lunch'
 updated: '2026-03-13'
 ---
 

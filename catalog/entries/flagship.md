@@ -7,12 +7,21 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 dead: true
+limits:
+- '[source] breaks because the admiral deliberately chose his flagship and could transfer the flag at will, while a company''s flagship product is often determined by market reception rather than executive
+  decree'
+- '[source] misleads because admirals sometimes chose flagships for pragmatic reasons (cabin space, signaling position), not because they were the finest vessels -- the metaphor has drifted to mean premium
+  or best'
 name: Flagship
 related:
 - mainstay
 - first-rate
 slug: flagship
 source_frame: seafaring
+transfers:
+- '[source] the flagship carried the admiral''s flag and represented the entire fleet to foreign ports and allied navies, mapping this representative function onto products that define a brand''s identity'
+- '[source] the flagship received preferential allocation of crew, provisions, and maintenance because the admiral depended on it, mapping onto products that get the best resources and largest budgets'
+- '[source] a fleet knew which ship was the flagship simply by the flag, providing hierarchical ordering without requiring detailed comparison -- the flag does the work of ranking'
 updated: '2026-03-14'
 ---
 

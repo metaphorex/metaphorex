@@ -9,6 +9,10 @@ contributors: []
 created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks for design problems, ethical dilemmas, and creative challenges where solutions must be invented rather than discovered -- the metaphor systematically favors analytical over generative
+  problem-solving'
+- '[source] misleads by implying a single definitive solution (the container holds one object), causing premature closure when the solver finds one answer and stops looking'
 name: A Problem Is a Locked Container for Its Solution
 provenance: osaka-master-metaphor-list
 related:
@@ -18,6 +22,10 @@ related:
 - ideas-are-objects
 slug: a-problem-is-a-locked-container-for-its-solution
 source_frame: containers
+transfers:
+- '[source] maps a locked container onto a problem and the object inside onto the solution, making problem-solving a matter of gaining access to what already exists rather than creating something new'
+- '[source] frames difficulty as the strength of the lock (''tough nut to crack'', ''intractable''), providing a natural scale where hard problems have stronger locks and failed attempts are failed entries'
+- '[source] treats expertise as possession of keys rather than capacity to build, mapping the problem-solver''s skill onto a repertoire of unlocking tools'
 updated: '2026-03-17'
 ---
 

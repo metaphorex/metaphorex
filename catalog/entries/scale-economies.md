@@ -7,6 +7,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
+limits:
+- '[model] breaks because large organizations face diseconomies -- coordination overhead often scales superlinearly with size, requiring more bureaucracy per additional unit of output beyond a certain point'
+- '[model] misleads by naturalizing winner-take-all dynamics as mathematical law, when scale advantages can evaporate through technology shifts, regulatory changes, or market fragmentation'
 name: Scale Economies
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +17,9 @@ related:
 - the-map-is-not-the-territory
 slug: scale-economies
 source_frame: physics
+transfers:
+- '[model] maps physical scaling laws (volume increases faster than surface area) onto cost structure, where fixed costs spread across more units as production grows, driving unit cost down'
+- '[model] identifies learning curves as a temporal scaling effect: cumulative production volume drives cost reductions through experience, making doing more of something make you better at it'
 updated: '2026-03-13'
 ---
 

@@ -10,6 +10,10 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks for defensive, conserving, and stabilizing actions (holding a position, maintaining a standard, resisting change) which look like standing still or moving backward in the self-propelled
+  frame'
+- '[source] misleads by making stopping seem effortless (just cease propelling), when ceasing an action (quitting a habit, ending a commitment) often requires enormous effort and courage'
 name: Actions Are Self-Propelled Motions
 provenance: osaka-master-metaphor-list
 related:
@@ -21,6 +25,10 @@ related:
 - change-is-motion
 slug: actions-are-self-propelled-motions
 source_frame: embodied-experience
+transfers:
+- '[source] maps volitional locomotion onto intentional action, with the critical distinction that the agent is both mover and moved -- self-propulsion maps onto self-determination and agency'
+- '[source] makes procrastination literally a failure to start moving, and persistence a refusal to stop, giving both initiation and perseverance a visceral physical character'
+- '[source] gives purposeful action a direction that maps onto purposiveness: aimless action is wandering, focused action is marching, and correct action is being on track'
 updated: '2026-03-13'
 ---
 

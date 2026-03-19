@@ -1,18 +1,26 @@
 ---
+applies_to:
+- ethics-and-morality
 author: agent:metaphorex-miner
 categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
-kind: metaphor
 dead: true
+kind: metaphor
+limits:
+- '[source] breaks because some concealment is morally required -- whistleblower protections, medical privacy, and sealed court records involve deliberate hiding for good reasons that the spatial logic
+  makes look dishonest'
+- '[source] misleads by creating only two categories (visible/hidden) when real moral situations involve gradients of disclosure -- partial redaction, tiered access, confidential-but-legal arrangements'
 name: Above Board
 related:
 - know-the-ropes
 slug: above-board
 source_frame: seafaring
-applies_to:
-- ethics-and-morality
+transfers:
+- '[source] the deck divides the ship into two moral zones -- visible above and hidden below -- mapping physical visibility onto moral transparency where what you keep above board can withstand inspection'
+- '[source] the moral claim is procedural rather than substantive: above-board means auditable and open to scrutiny, not necessarily virtuous or fair'
+- '[source] the convergence of nautical (cargo above deck) and card-playing (hands above table) etymologies on the same structure suggests a deep cognitive pattern linking visibility to honesty'
 updated: '2026-03-14'
 ---
 

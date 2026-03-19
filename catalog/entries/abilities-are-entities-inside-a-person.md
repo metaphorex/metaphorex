@@ -10,6 +10,10 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because the container model favors nativism, implying abilities were always present waiting to be found, with no good vocabulary for skills genuinely constructed through practice and
+  effort'
+- '[source] misleads by localizing all competence inside a single person, making collective and situated capabilities (team skills, tool-dependent expertise, institutional knowledge) invisible'
 name: Abilities Are Entities Inside A Person
 provenance: osaka-master-metaphor-list
 related:
@@ -17,6 +21,10 @@ related:
 - properties-are-possessions
 slug: abilities-are-entities-inside-a-person
 source_frame: containers
+transfers:
+- '[source] treats the person as a container and abilities as objects within it, making the abstract question of capability into the concrete question of what someone has inside them'
+- '[source] maps depth within the container onto importance -- deep abilities are fundamental and authentic while surface abilities are trivial -- giving talent a vertical dimension'
+- '[source] frames education and coaching as excavation -- drawing out what is already inside rather than installing something new -- with discovery as the key pedagogical act'
 updated: '2026-03-13'
 ---
 

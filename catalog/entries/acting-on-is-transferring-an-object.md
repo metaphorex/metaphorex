@@ -9,6 +9,9 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because the three-role structure oversimplifies causal chains that involve mediators, amplifiers, dampeners, and feedback loops invisible in the giver-object-receiver frame'
+- '[source] misleads by implying conservation: when you give an object you no longer have it, but giving someone a hard time does not deplete your capacity to do so again'
 name: Acting On Is Transferring An Object
 provenance: osaka-master-metaphor-list
 related:
@@ -17,6 +20,10 @@ related:
 - action-is-control-over-possessions
 slug: acting-on-is-transferring-an-object
 source_frame: embodied-experience
+transfers:
+- '[source] maps physical object transfer onto interpersonal causation with a three-role structure: an agent who gives, a patient who receives, and an effect that passes between them as a discrete object'
+- '[source] makes the intensity of action correspond to force of transfer -- gentle giving is gentle action, violent throwing is violent action -- scaling impact through the physics of the transferred object'
+- '[source] maps mutual action onto exchange (''they traded insults'', ''she gave as good as she got''), importing commercial or gift-exchange logic into reciprocal social interaction'
 updated: '2026-03-13'
 ---
 

@@ -6,6 +6,9 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks when applied to relationships built on trust, reputation, and reciprocity, because it assumes rational self-interest and breeds paranoia about every counterparty'
+- '[model] misleads by implying full transparency is always optimal, when some asymmetries serve useful purposes like division of cognitive labor and professional specialization'
 name: Information Asymmetry
 provenance: munger-poor-charlies-almanack
 related:
@@ -13,6 +16,10 @@ related:
 - principal-agent-problem
 - the-map-is-not-the-territory
 slug: information-asymmetry
+transfers:
+- '[model] predicts that when one party knows more about product quality than the other, the market degrades as good products withdraw and only the worst remain (adverse selection)'
+- '[model] identifies signaling (warranties, credentials) and screening (due diligence, inspections) as corrective mechanisms that allow quality sellers to separate themselves from lemons'
+- '[model] reframes institutions like brands, certifications, and regulations as necessary bridges over information gaps that would otherwise destroy functional markets'
 updated: '2026-03-13'
 ---
 

@@ -10,6 +10,9 @@ contributors:
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks because water is continuous and connected, while many problems are collections of distinct separable issues -- the fluid imagery makes disaggregation and decomposition hard to conceptualize'
+- '[source] misleads by making problem-solving feel passive (bodies of water act on you, you cannot reshape the ocean), underserving situations where the solver has significant power to alter conditions'
 name: A Problem Is a Body of Water
 provenance: osaka-master-metaphor-list
 related:
@@ -19,6 +22,10 @@ related:
 - problems-are-puzzles
 slug: a-problem-is-a-body-of-water
 source_frame: fluid-dynamics
+transfers:
+- '[source] maps water depth onto problem severity, giving difficulties a natural scale where shallow problems can be waded through while deep ones threaten drowning and loss of control'
+- '[source] divides problems into visible surface and hidden depths (''these issues run deep'', ''tip of the iceberg''), importing the structure where what you can see is only part of the difficulty'
+- '[source] maps currents, tides, and eddies onto forces beyond the problem-solver''s control, giving the problem its own agency that carries you along independent of your will'
 updated: '2026-03-14'
 ---
 

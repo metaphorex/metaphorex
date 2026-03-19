@@ -7,6 +7,9 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
+limits:
+- '[model] breaks because lattices are static structures built once, while real mental models need constant revision as new evidence changes both beliefs and their interrelationships'
+- '[model] misleads by making breadth of model collection feel like wisdom, when Munger himself had deep expertise in a few disciplines rather than shallow acquaintance with dozens'
 name: Latticework of Mental Models
 provenance: munger-poor-charlies-almanack
 related:
@@ -14,6 +17,9 @@ related:
 - golden-hammer
 slug: latticework-of-mental-models
 source_frame: architecture-and-building
+transfers:
+- '[model] reframes learning as structural engineering where individual models are useless alone but woven together become load-bearing, with the connections between models doing the real explanatory work'
+- '[model] predicts that a well-organized set of models makes ignorance legible -- gaps in coverage are visible, unlike a disorganized collection that hides its blind spots'
 updated: '2026-03-13'
 ---
 

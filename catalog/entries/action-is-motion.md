@@ -10,6 +10,9 @@ contributors:
 created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
+limits:
+- '[source] breaks for cyclical, recursive, or exploratory activities that have no clear forward direction, coding routine maintenance, iterative design, and open-ended research as aimless wandering'
+- '[source] misleads by making rest seem like failure -- if action is motion and motion is good, then stillness is coded as not-doing, creating a bias toward busyness over deliberation'
 name: Action Is Motion
 provenance: lakoff-johnson-mwlb
 related:
@@ -18,6 +21,11 @@ related:
 - love-is-a-journey
 slug: action-is-motion
 source_frame: embodied-experience
+transfers:
+- '[source] maps bodily motion onto purposeful activity, making physical displacement the prototype for all doing -- progress is distance covered, speed is intensity, and obstacles are things blocking the
+  path'
+- '[source] gives action crisp temporal boundaries defined by motion onset and cessation (''let''s get this moving'', ''put the brakes on''), framing starting and stopping as physical transitions'
+- '[source] serves as the grounding metaphor on which LIFE IS A JOURNEY, PURPOSES ARE DESTINATIONS, and the entire journey family of metaphors depend'
 updated: '2026-03-14'
 ---
 
