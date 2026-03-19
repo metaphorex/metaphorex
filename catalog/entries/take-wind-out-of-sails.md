@@ -26,14 +26,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 In age-of-sail naval tactics, a ship could gain decisive advantage by
 maneuvering to the windward side of an opponent. In this position, your
 ship's sails intercept the wind before it reaches the enemy, leaving
@@ -67,7 +59,8 @@ Key structural parallels:
   created or controls. The parallel in organizations: budget, attention,
   political capital, and market demand are shared resources that can be
   captured by positioning.
-## Where It Breaks
+
+## Limits
 
 - **Arguments and enthusiasm are not zero-sum like wind** -- in the
   nautical scenario, the wind intercepted by your sails is physically
@@ -96,6 +89,7 @@ Key structural parallels:
   ("their sails") and ignores the human cost. When applied to business
   or organizational competition, this framing can sanitize tactics that
   cause real harm to real people.
+
 ## Expressions
 
 - "She completely took the wind out of his sails" -- deflating someone's
@@ -109,6 +103,7 @@ Key structural parallels:
   of preemptive resource capture
 - "Becalmed" -- used independently to mean stalled or lacking momentum,
   retaining the nautical origin more visibly
+
 ## Origin Story
 
 The tactic of gaining the windward position (the "weather gage") was a
@@ -122,4 +117,3 @@ preserved the competitive and tactical connotations. By the 20th century,
 it had generalized to any situation where someone's momentum, argument,
 or enthusiasm is deflated -- typically without any awareness of the
 naval origin.
-

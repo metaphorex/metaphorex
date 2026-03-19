@@ -25,14 +25,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 A scuttlebutt was a butt (barrel) that had been scuttled (had a hole cut
 in it) so sailors could dip a ladle in for drinking water. It was the
 ship's water cooler -- a shared resource that people gathered around, and
@@ -68,7 +60,8 @@ Key structural parallels:
   knowledge, and provides early warning about changes. The metaphor
   carries this dual nature -- unreliable but valuable -- into modern
   usage.
-## Where It Breaks
+
+## Limits
 
 - **The original scuttlebutt was a physical constraint; modern gossip
   networks are unconstrained** -- the barrel created a natural bottleneck
@@ -99,6 +92,7 @@ Key structural parallels:
   communication. The most useful part of the original mapping -- that
   informal information exchange depends on shared spaces -- is exactly
   what the dead metaphor has buried.
+
 ## Expressions
 
 - "What's the scuttlebutt?" -- asking for informal news or gossip,
@@ -111,6 +105,7 @@ Key structural parallels:
   information networks, using agricultural rather than nautical imagery
 - "Scuttlebutt has it that..." -- framing information as coming from
   informal sources, implying it is unverified but worth knowing
+
 ## Origin Story
 
 The word combines "scuttle" (to cut a hole in something, from the
@@ -129,4 +124,3 @@ metaphors independently confirm the same social observation -- that
 informal communication clusters around shared physical resources -- but
 the nautical version arrived first and traveled further into abstraction,
 losing its barrel entirely along the way.
-

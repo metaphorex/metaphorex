@@ -5,17 +5,17 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: First-Rate
 related:
 - flagship
 slug: first-rate
 source_frame: seafaring
-target_frame: measurement
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The Royal Navy classified warships by "rating" -- a formal taxonomy based
 on the number of guns a ship carried. A first-rate ship of the line
@@ -46,7 +46,7 @@ onto a vague quality judgment: "first-rate" now means simply "excellent."
   have vanished from common usage. The lower end of the taxonomy died
   while the top and its immediate neighbor survived.
 
-## Where It Breaks
+## Limits
 
 - **The rating system measured destructive power, not quality** -- a
   first-rate ship was not "better" in any general sense. It was slower

@@ -19,7 +19,7 @@ applies_to:
 updated: '2026-03-15'
 ---
 
-## What It Brings
+## Transfers
 
 A commodity of survival maps onto compensation for labor. The Latin
 *salarium* -- whether it meant an allowance for purchasing salt, a
@@ -50,7 +50,7 @@ Key structural parallels:
   material cost of keeping you alive. The phrase treats the worker as
   an expense to be justified, not a person to be valued.
 
-## Where It Breaks
+## Limits
 
 - **Salt was communal; salary is individual** -- salt was distributed,
   shared, used collectively. A salary is a private transaction between

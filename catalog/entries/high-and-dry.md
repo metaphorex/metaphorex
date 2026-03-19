@@ -19,14 +19,6 @@ updated: '2026-03-14'
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 A ship left high and dry is one stranded above the waterline when the
 tide recedes. The vessel sits on exposed ground, unable to move, fully
 visible, and utterly dependent on the next tide to float again. The
@@ -60,7 +52,8 @@ Key structural parallels:
   dependency into social situations: being left high and dry means you
   cannot rescue yourself. You need circumstances to change or someone
   else to intervene.
-## Where It Breaks
+
+## Limits
 
 - **Tides are predictable; social abandonment usually is not** -- a
   navigator who understands tidal charts should not be caught out by a
@@ -94,6 +87,7 @@ Key structural parallels:
   situations of abandonment exist on a spectrum. You can be partially
   stranded, gradually abandoned, or intermittently supported. The
   metaphor's all-or-nothing structure misses these gradations.
+
 ## Expressions
 
 - "Left high and dry" -- abandoned without resources or support,
@@ -107,6 +101,7 @@ Key structural parallels:
 - "The tide went out" -- occasionally used independently to describe
   withdrawal of support, as in Buffett's famous remark about swimming
   naked when the tide goes out
+
 ## Origin Story
 
 The expression dates to at least the early 19th century in its
@@ -119,4 +114,3 @@ stranded in an exposed position away from harbor. The figurative sense
 of being abandoned or left without resources had fully established
 itself in English by the mid-19th century, and by the 20th century
 most speakers used it without any awareness of the nautical origin.
-

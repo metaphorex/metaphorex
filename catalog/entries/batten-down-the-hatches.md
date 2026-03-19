@@ -18,14 +18,6 @@ updated: '2026-03-14'
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 Before a storm, a ship's crew secured the hatch covers -- the openings
 in the deck that provided access to cargo holds and living quarters
 below. Tarpaulins were stretched over the hatch coamings and fastened
@@ -60,7 +52,8 @@ preparation for an anticipated crisis.
   it. The metaphor preserves this defensive posture: to batten down
   the hatches is to accept that the crisis is coming and shift from
   growth mode to survival mode.
-## Where It Breaks
+
+## Limits
 
 - **Most organizational crises do not arrive like weather** -- storms
   are external, impersonal, and uncontrollable. They come from outside
@@ -92,6 +85,7 @@ preparation for an anticipated crisis.
   information flow to employees. The metaphor's logic of total
   sealing can encourage overcorrection -- shutting down communication
   precisely when it is most needed.
+
 ## Expressions
 
 - "Batten down the hatches" -- the standard form, meaning to prepare
@@ -102,6 +96,7 @@ preparation for an anticipated crisis.
   process of crisis preparation underway
 - "Hatches battened" -- the completion form, indicating that
   preparations are finished and the organization is in defensive posture
+
 ## Origin Story
 
 "Batten" as a verb meaning to fasten with battens dates to the early

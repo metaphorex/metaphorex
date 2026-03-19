@@ -26,14 +26,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 "Colors" in naval parlance are the ship's flag -- the national ensign
 that identifies whose navy or merchant fleet the vessel belongs to.
 International custom and the laws of war permitted ships to fly false
@@ -74,7 +66,8 @@ tactical deception-then-reveal sequence onto social behavior.
   accident or misunderstanding but a deliberate strategy. When we
   say someone showed their true colors, we imply that the earlier,
   pleasant presentation was calculated, not merely polite.
-## Where It Breaks
+
+## Limits
 
 - **People are not flags** -- a flag is a simple, unambiguous symbol:
   it is either the French tricolor or it is not. Human identity is
@@ -109,6 +102,7 @@ tactical deception-then-reveal sequence onto social behavior.
   interesting: the legitimacy of deception, the link between reveal
   and action, the visual semiotics of flag recognition. What remains
   is a generic phrase for unmasking.
+
 ## Expressions
 
 - "Showing true colors" -- revealing one's real character or
@@ -125,6 +119,7 @@ tactical deception-then-reveal sequence onto social behavior.
 - "Nailing your colors to the mast" -- a related naval expression
   meaning to commit irrevocably (a nailed flag cannot be hauled
   down in surrender), which preserves the flag-as-identity mapping
+
 ## Origin Story
 
 The practice of flying false colors was widespread in the age of

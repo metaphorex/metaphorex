@@ -26,14 +26,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 "Aback" is a sailing term meaning that the wind is pressing the sails
 flat against the masts -- the wrong side. In normal sailing, wind fills
 the sails from behind, pushing the ship forward. When the wind suddenly
@@ -71,7 +63,8 @@ onto psychological experience.
   not a permanent one. This structural feature is part of why the
   expression feels milder than "stunned" or "shocked" -- it implies
   a pause, not a collapse.
-## Where It Breaks
+
+## Limits
 
 - **The expression has been softened beyond recognition** -- in
   sailing, being taken aback was a dangerous emergency that could
@@ -106,6 +99,7 @@ onto psychological experience.
   the metaphor's most interesting structural feature: the idea that
   surprise does not merely stop you but pushes you in the wrong
   direction.
+
 ## Expressions
 
 - "I was taken aback" -- surprised and momentarily unable to respond,
@@ -117,6 +111,7 @@ onto psychological experience.
 - "Nothing takes him aback" -- describing someone unflappable, where
   the negation reveals the metaphor's structure (this person's sails
   cannot be reversed)
+
 ## Origin Story
 
 "Aback" as a nautical term dates to at least the 17th century, with
