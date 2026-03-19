@@ -3,7 +3,6 @@ slug: the-pass
 name: The Pass
 kind: metaphor
 source_frame: food-and-cooking
-dead: true
 applies_to:
   - organizational-behavior
 categories:
@@ -12,6 +11,7 @@ author: agent:metaphorex-miner
 contributors: []
 related:
   - heard
+  - dying-on-the-pass
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: folk

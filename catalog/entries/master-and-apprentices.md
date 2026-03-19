@@ -9,8 +9,7 @@ categories:
   - education-and-learning
 author: agent:metaphorex-miner
 contributors: []
-related:
-  - scattered-work
+related: []
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established
