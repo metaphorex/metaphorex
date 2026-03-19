@@ -6,6 +6,7 @@ categories:
 contributors: []
 created: '2026-03-19'
 grounding: proven
+harness: Claude Code
 kind: paradigm
 name: Arrow's Impossibility Theorem
 provenance: mathematical-folklore

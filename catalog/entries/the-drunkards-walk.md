@@ -4,6 +4,7 @@ categories:
 - mathematics-and-logic
 contributors: []
 created: '2026-03-19'
+harness: Claude Code
 kind: metaphor
 name: The Drunkard's Walk
 provenance: mathematical-folklore

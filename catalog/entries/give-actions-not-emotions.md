@@ -4,6 +4,7 @@ categories:
 - decision-making
 contributors: []
 created: '2026-03-19'
+harness: Claude Code
 kind: mental-model
 name: Give Actions Not Emotions
 provenance: hauser-reich-directing

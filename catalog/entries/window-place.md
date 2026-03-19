@@ -6,6 +6,7 @@ categories:
 - software-engineering
 contributors: []
 created: '2026-03-19'
+harness: Claude Code
 kind: pattern
 name: Window Place
 provenance: alexander-pattern-language
