@@ -17,6 +17,13 @@ related:
 slug: sphinx-riddle
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] the obstacle is cognitive rather than physical, and it applies equally to everyone -- the Sphinx poses a fair test where intellectual performance alone determines passage or destruction'
+  - '[source] the riddle has a single correct answer with binary outcome (pass/live or fail/die), importing a make-or-break definitiveness with no partial credit'
+  - '[source] solving the riddle destroys the gatekeeper -- a test that has been passed eliminates the tester, mapping onto the obsolescence of any gatekeeping mechanism once its answer is widely known'
+limits:
+  - '[source] breaks because the riddle is trivially easy in retrospect (the difficulty is reframing, not computation), making the metaphor better suited to insight problems than to genuinely hard problems that remain difficult even after you understand them'
+  - '[source] misleads because the myth suppresses the sequel -- Oedipus''s reward for solving the riddle was the throne and marriage to his mother, meaning the intellectual triumph led directly to catastrophe, a detail the celebratory use of the metaphor always drops'
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: sexuality-is-an-offensive-weapon
 source_frame: war
 updated: '2026-03-13'
+transfers:
+  - '[source] sexual attractiveness is armament deployed against a target -- the attractive person is armed, the attracted person is under attack and must resist or be ''slain'''
+  - '[source] individual sexual features map onto specific weapons in an inventory (killer smile, killer body), each capable of inflicting its own type of damage'
+  - '[source] sexual indifference maps onto successful defense -- being ''impervious to her charms'' is wearing armor against the weapon'
+limits:
+  - '[source] breaks because the weapon frame erases mutuality -- attraction is typically bilateral, but the metaphor forces it into an asymmetric aggressor/victim structure'
+  - '[source] misleads because pleasure disappears from the mapping -- weapons cause pain, but sexual attraction typically causes delight, and the structure of harm is used to describe the structure of pleasure'
 ---
 
 ## Transfers

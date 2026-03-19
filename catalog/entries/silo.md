@@ -7,6 +7,7 @@ categories:
 - organizational-behavior
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 dead: true
 kind: metaphor
 name: Silo
@@ -14,6 +15,13 @@ related: []
 slug: silo
 source_frame: agriculture
 updated: '2026-03-13'
+transfers:
+  - '[source] isolation is architectural -- each grain type gets its own sealed container because mixing causes spoilage, mapping separation-by-design onto organizational structure'
+  - '[source] the shape is tall and narrow, concentrating material in a deep column with minimal lateral extent -- departments have deep hierarchy but no sideways connections'
+  - '[source] the word has become purely pejorative in organizational contexts, a diagnosis never a prescription, with the agricultural origin completely forgotten'
+limits:
+  - '[source] breaks because agricultural silos preserve their contents through separation -- mixing grain causes cross-contamination and spoilage -- yet the organizational metaphor inverts this, treating separation as the disease rather than the cure'
+  - '[source] misleads because ''breaking down silos'' has no agricultural analogue -- literally destroying grain silos would destroy the harvest, making the metaphor''s own remedy catastrophic in its source domain'
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: strong-emotion-is-blinding
 source_frame: vision
 updated: '2026-03-13'
+transfers:
+  - '[source] the graduated impairment of vision (slight blur to total blindness) maps onto the graduated impairment of judgment by emotion, giving a perceptual scale to cognitive disruption'
+  - '[source] different emotions produce different visual impairments -- anger produces total blindness, love produces selective blindness, grief produces darkness -- mapping specific emotional phenomenologies onto specific visual disturbances'
+  - '[source] recovery from emotion is recovery of sight -- ''the scales fell from her eyes'' -- framing emotional clearing as a perceptual event where the world was always there but invisible'
+limits:
+  - '[source] breaks because emotions also sharpen perception -- fear makes you hypervigilant, anger clarifies injustice, love reveals subtleties no one else notices -- and the blinding frame has no way to express what emotion lets you see that reason alone cannot'
+  - '[source] misleads because the metaphor privileges reason over emotion as the natural state, providing cognitive scaffolding for dismissing emotional testimony (''you''re too upset to see clearly'') when emotional response may be the legitimate and accurate reaction'
 ---
 
 ## Transfers

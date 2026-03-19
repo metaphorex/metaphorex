@@ -19,6 +19,13 @@ related:
 slug: social-accounting
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] every meaningful social act creates a ledger entry -- favors given are credits, favors received are debts, and healthy relationships maintain roughly balanced books'
+  - '[source] social capital is wealth that can be accumulated, invested, spent, or cashed in, making social standing quantifiable and fungible'
+  - '[source] harm creates debt that must be repaid or forgiven -- forgiveness is writing off a debt, and unrepaid injury is a balance that festers'
+limits:
+  - '[source] breaks because social goods resist fungibility -- a year of faithful friendship cannot be weighed against a single betrayal on any meaningful ledger, yet the metaphor demands commensurability'
+  - '[source] misleads because the accounting frame turns all giving into investing and all receiving into borrowing, eliminating the possibility of genuine generosity that expects no return'
 ---
 
 ## Transfers

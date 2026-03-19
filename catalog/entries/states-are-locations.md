@@ -20,6 +20,13 @@ related:
 slug: states-are-locations
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - '[source] being in a state is being inside a bounded region with an interior, exterior, and threshold -- you are either in the state or not, imposing categorical boundaries on continuous experience'
+  - '[source] state changes are movements across a spatial boundary -- you ''fall into'' depression or ''come out of'' your shell, giving transitions a threshold structure with a moment of crossing'
+  - '[source] proximity to a state is possible without being in it -- you can be ''on the verge'' or ''close to'' a state, providing a spatial gradient from approach to full inhabitation'
+limits:
+  - '[source] breaks because states are not discrete locations -- a person can be simultaneously anxious and excited, but the location metaphor struggles with mixed states since you cannot be in two places at once'
+  - '[source] misleads because the metaphor makes states feel external (you visit depression rather than being depression), which can be therapeutically useful but misrepresents states as places separate from the self'
 ---
 
 ## Transfers

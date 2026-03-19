@@ -8,6 +8,7 @@ categories:
 - philosophy
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: metaphor
 name: Similarity Is Closeness
 provenance: osaka-master-metaphor-list
@@ -17,6 +18,13 @@ related:
 slug: similarity-is-closeness
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] degree of similarity maps onto distance in space, providing a continuous metric where things can be more or less alike by being nearer or farther apart'
+  - '[source] change in similarity maps onto change in position -- converging views approach each other, diverging opinions drift apart'
+  - '[source] groups of similar things are clusters occupying the same spatial neighborhood, providing the cognitive foundation for formal methods like multidimensional scaling and vector embeddings'
+limits:
+  - '[source] breaks because physical closeness is symmetric (if A is near B then B is near A), but similarity judgments are empirically asymmetric -- North Korea is judged similar to China more readily than China to North Korea'
+  - '[source] misleads because the metaphor implies a fixed space with stable dimensions, but similarity is context-dependent -- a cow and a chicken are close in a farm-animal conversation and far apart in a conversation about flight'
 ---
 
 ## Transfers

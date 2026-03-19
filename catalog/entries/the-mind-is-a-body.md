@@ -21,6 +21,13 @@ related:
 slug: the-mind-is-a-body
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] mental effort maps onto physical exertion -- thinking hard is grappling, wrestling, stretching -- importing the body''s limited reserves of energy that deplete with use and recover with rest'
+  - '[source] understanding maps onto bodily perception -- seeing, grasping, putting your finger on something -- making comprehension feel immediate and sensory'
+  - '[source] intellectual commitment maps onto bodily posture -- having a stance, leaning toward, standing firm -- making indecision feel like physical wavering'
+limits:
+  - '[source] breaks because cognitive fatigue does not work like physical fatigue -- a person can be mentally exhausted in one domain and perfectly alert in another, overgeneralizing the physics of tiredness'
+  - '[source] misleads because not all mental activity is effortful -- pattern recognition, language comprehension, and intuitive judgment are largely effortless, but the body metaphor has no vocabulary for the mind''s capacity to think without trying'
 ---
 
 ## Transfers

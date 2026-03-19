@@ -17,6 +17,13 @@ related:
 slug: software-rot
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] degradation is the default outcome of inaction -- the system decays as its environment changes around it, making the insight that doing nothing is not neutral but a choice to let the system decay'
+  - '[source] rot begins at the surface and works inward, so by the time degradation is visible the decay is structural -- a few ignored warnings escalate to systemic incompatibility'
+  - '[source] rot spreads from one neglected module to its workarounds and their dependencies, propagating decay outward through the codebase like spoilage through adjacent material'
+limits:
+  - '[source] breaks because software does not physically decompose -- the bits on disk are identical years later, and what changes is the environment (libraries, OS, user expectations), making the degradation relational rather than internal'
+  - '[source] misleads because rot is irreversible (you cannot un-rot an apple), but software can be updated, refactored, and restored, importing a finality that can encourage rewrites when incremental repair would suffice'
 ---
 
 ## Transfers

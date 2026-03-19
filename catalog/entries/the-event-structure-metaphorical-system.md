@@ -24,6 +24,13 @@ related:
 slug: the-event-structure-metaphorical-system
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] the system maps the entire domain of event structure onto spatial motion and force dynamics through two parallel cases: a location case (states are locations, changes are movements) and an object case (attributes are possessions, changes are transfers)'
+  - '[source] the component metaphors are consistent and mutually reinforcing -- if states are locations then changes must be movements, if purposes are destinations then means must be paths -- producing a unified conceptual system, not a loose collection'
+  - '[source] the system provides vocabulary for all abstract reasoning about events: causation is force, difficulties are impediments to motion, progress is forward movement'
+limits:
+  - '[source] breaks because the system imposes directionality on all change, making gradual, multidirectional, or cyclical change hard to express -- a situation slowly dissolving or cycling between states does not fit the forward-motion model'
+  - '[source] misleads because progress as forward motion conceals loss -- advancing toward a goal may involve genuine costs, but the system treats forward as inherently positive and backward as inherently negative, making reversal always seem like failure'
 ---
 
 ## Transfers

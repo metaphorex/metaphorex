@@ -15,6 +15,13 @@ related: []
 slug: spam
 source_frame: food-and-cooking
 updated: '2026-03-13'
+transfers:
+  - '[source] the harm is not in any single message but in the volume that buries legitimate content -- the metaphor encodes a signal-to-noise ratio problem as a single comic image from Monty Python'
+  - '[source] the named content (SPAM meat) is not dangerous, just inescapable and unwanted, distinguishing spam from malicious attacks and framing the problem as nuisance rather than threat'
+  - '[source] the comedy sketch''s structure maps precisely: every menu option contains SPAM, and the customer who does not want it has no opt-out -- the system offers no escape from what it has decided you will receive'
+limits:
+  - '[source] breaks because the original sketch is about overwhelming repetition and inescapable presence, but modern usage has broadened to include even a single unsolicited message -- losing the essential volume that made the metaphor work'
+  - '[source] misleads because the comedic framing makes the classification sound obvious and binary (''mark as spam''), obscuring the genuine difficulty of distinguishing unwanted commercial email from wanted commercial email in a multi-billion-dollar contested zone'
 ---
 
 ## Transfers

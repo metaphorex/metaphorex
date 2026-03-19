@@ -18,6 +18,13 @@ related:
 slug: shotgun-debugging
 source_frame: war
 updated: '2026-03-14'
+transfers:
+  - '[source] the weapon sacrifices accuracy for coverage -- if you do not know exactly what to target, you saturate the area and hope something hits'
+  - '[source] when the shotgun kills, you cannot attribute the kill to any single pellet, importing the epistemological cost of comprehension-free fixes'
+  - '[source] choosing a shotgun over a rifle signals desperation about the target''s opacity, importing the judgment of the situation along with the technique'
+limits:
+  - '[source] breaks because shotgun pellets that miss are inert, while code changes that do not fix the bug may introduce new bugs or create dependencies -- the metaphor underestimates collateral damage'
+  - '[source] misleads because real shotguns are effective within their intended range, while shotgun debugging frequently fails entirely -- the metaphor imports a success rate the strategy does not possess'
 ---
 
 ## Transfers

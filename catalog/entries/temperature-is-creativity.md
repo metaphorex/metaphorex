@@ -17,6 +17,13 @@ related:
 slug: temperature-is-creativity
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - '[source] higher temperature flattens the probability distribution over tokens, making less-likely selections more likely -- the metaphor maps thermodynamic agitation onto textual unpredictability'
+  - '[source] the mapping provides a single scalar that moves between complete order (temperature zero) and chaos (temperature approaching infinity), giving users a satisfying creativity dial'
+  - '[source] the mathematics is not a loose analogy -- the softmax function with temperature is literally the Boltzmann distribution from statistical mechanics, making the physics import direct and precise'
+limits:
+  - '[source] breaks because randomness is not creativity -- creativity involves intention, judgment, and evaluation of novelty, while high temperature simply reduces regard for the model''s own probability estimates, conflating statistical unpredictability with cognitive originality'
+  - '[source] misleads because the dial metaphor hides a phase transition -- there is a narrow useful range and then rapid descent into incoherence, not the smooth gradient from precise to creative that the physics metaphor suggests'
 ---
 
 ## Transfers

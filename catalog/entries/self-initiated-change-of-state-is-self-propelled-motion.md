@@ -18,6 +18,13 @@ related:
 slug: self-initiated-change-of-state-is-self-propelled-motion
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] voluntary change maps onto autonomous locomotion -- the agent of change and the thing that moves are the same entity, importing self-generated force'
+  - '[source] the speed of locomotion maps onto the pace of self-transformation, making rushed change feel reckless and slow change feel deliberate'
+  - '[source] refusal to change maps onto physical immobility -- stubbornness is a body planted in place, refusing to move under its own power'
+limits:
+  - '[source] breaks because many important changes of state (grief, aging, falling in love) are neither fully voluntary nor fully imposed, and the metaphor has no vocabulary for partial agency'
+  - '[source] misleads because backward motion is framed as regression, when revisiting a previous state can be productive rather than a retreat'
 ---
 
 ## Transfers

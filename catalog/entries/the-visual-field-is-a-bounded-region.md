@@ -8,6 +8,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
+harness: Claude Code
 kind: metaphor
 name: The Visual Field Is A Bounded Region
 provenance: lakoff-johnson-mwlb
@@ -17,6 +18,13 @@ related:
 slug: the-visual-field-is-a-bounded-region
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] the visual field has edges rather than walls -- objects are at the periphery, near the edge, or beyond it, as a matter of distance from the center rather than container crossing'
+  - '[source] center-periphery structure replaces inside-outside structure, mapping better onto the actual gradient of visual acuity that is sharpest at the fovea and degrades toward the edges'
+  - '[source] the visual field admits of degrees in a way a container does not -- objects can be more or less central, more or less peripheral -- capturing the gradient quality of vision'
+limits:
+  - '[source] breaks because bounded regions are static, while the visual field moves with every saccade, head turn, and body rotation -- the metaphor captures shape at a frozen moment but not dynamism'
+  - '[source] misleads because even ''bounded region'' overstates the crispness of the visual periphery -- vision does not end at a boundary but fades gradually, and the metaphor imposes an edge where biology provides a gradient'
 ---
 
 ## Transfers

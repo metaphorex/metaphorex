@@ -16,6 +16,13 @@ related:
 slug: shell
 source_frame: horticulture
 updated: '2026-03-13'
+transfers:
+  - '[source] the protective outer layer mediates between the environment and the generative core -- users touch the shell, not the kernel, just as one handles a nut without touching the seed'
+  - '[source] shells are disposable and replaceable (bash, zsh, fish) while the kernel persists, encoding the architectural judgment that the interface layer matters less than the core'
+  - '[source] the shell defines a contained interior -- a session has boundaries, variables, and limited openings, mapping directly from the physical enclosure'
+limits:
+  - '[source] breaks because the direction of protection is inverted -- a nut shell protects the kernel from the outside world, but a computing shell protects the user from the kernel''s complexity'
+  - '[source] misleads because physical shells are passive casings, while computing shells are full interpreters with conditionals, loops, and functions -- calling them ''shells'' radically undersells their capabilities'
 ---
 
 ## Transfers

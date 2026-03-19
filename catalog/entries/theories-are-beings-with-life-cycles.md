@@ -19,6 +19,13 @@ related:
 slug: theories-are-beings-with-life-cycles
 source_frame: life-course
 updated: '2026-03-13'
+transfers:
+  - '[source] theories have biographical arcs -- birth (origin from crisis or breakthrough), growth (gaining adherents and generating research), maturation (rich development and defense), and death (abandonment by active researchers)'
+  - '[source] theories reproduce -- Darwinism gave birth to neo-Darwinism, sociobiology, and evolutionary psychology, carrying forward the parent''s core insights while adapting to new contexts'
+  - '[source] health and vigor map onto research activity -- a healthy theory attracts adherents and responds to challenges, while a sick theory accumulates anomalies and fails to inspire new work'
+limits:
+  - '[source] breaks because theories do not age biologically -- Euclidean geometry is over two millennia old and remains perfectly valid, and the life-cycle metaphor prejudices us against old ideas simply because they are old'
+  - '[source] misleads because dead theories come back -- atomism was dead for centuries before Dalton revived it, Lamarckian inheritance was dead before epigenetics -- but the life-cycle metaphor has no vocabulary for resurrection'
 ---
 
 ## Transfers

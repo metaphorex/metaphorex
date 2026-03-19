@@ -18,6 +18,13 @@ related:
 slug: shapes-are-containers
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] any closed curve creates an interior, an exterior, and a boundary -- the container schema imposes containment logic on geometric forms that have no inherent ''inside'''
+  - '[source] movement relative to a shape is construed as entry and exit -- a line ''passes into'' or ''exits'' a region as though crossing a container boundary'
+  - '[source] overlapping shapes map onto overlapping containers sharing contents, producing the cognitive foundation for Venn diagrams and set-theoretic intersection'
+limits:
+  - '[source] breaks because open shapes (lines, rays, unclosed curves) have no interior, and the metaphor silently fails for half of geometry without signaling its inapplicability'
+  - '[source] misleads because the geometric boundary has no barrier function -- a circle does not keep a point inside it the way a container wall prevents escape, importing containment force where there is only mathematical description'
 ---
 
 ## Transfers

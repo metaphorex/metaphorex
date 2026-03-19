@@ -18,6 +18,13 @@ related:
 slug: theoretical-debate-is-competition
 source_frame: competition
 updated: '2026-03-13'
+transfers:
+  - '[source] theorists are rivals deployed as competitors, with each school of thought functioning as a team whose contributions are measured by whether they advance their side''s position'
+  - '[source] evidence is deployed strategically -- timing publications, choosing which objections to address, anticipating opponents'' moves -- making tactical thinking feel like a natural part of scholarship'
+  - '[source] debates produce winners and losers, demanding resolution where one side prevails -- a draw feels like failure rather than a nuanced outcome'
+limits:
+  - '[source] breaks because winning is not truth -- a theory can ''win'' through rhetorical skill, institutional power, or persistence without being more accurate, and the metaphor conflates persuasive success with being correct'
+  - '[source] misleads because the competition frame obscures cumulative progress -- Newtonian mechanics was not ''defeated'' by relativity but subsumed, and the metaphor has no vocabulary for integration and refinement rather than replacement'
 ---
 
 ## Transfers

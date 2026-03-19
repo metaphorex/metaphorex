@@ -18,6 +18,13 @@ related:
 slug: subjects-are-areas
 source_frame: spatial-location
 updated: '2026-03-13'
+transfers:
+  - '[source] academic disciplines are bounded spatial regions that can be entered, explored, surveyed, and mastered -- knowledge acquisition is spatial navigation through territory'
+  - '[source] expertise maps onto depth and breadth -- a scholar can range broadly across many areas or dig deep into a narrow patch, with surface knowledge accessible to anyone who enters'
+  - '[source] research maps onto exploration of uncharted territory, with pioneer researchers opening new areas and disciplinary boundaries functioning as territorial borders'
+limits:
+  - '[source] breaks because subjects do not have fixed borders -- the boundary between psychology and neuroscience is contested and shifting, and interdisciplinary work reveals that supposedly separate territories were always the same land'
+  - '[source] misleads because the metaphor privileges vertical descent (depth equals expertise) and treats breadth as superficiality, providing no vocabulary for the value of synthesis at the intersection of fields'
 ---
 
 ## Transfers

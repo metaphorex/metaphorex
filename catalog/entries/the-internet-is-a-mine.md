@@ -15,6 +15,13 @@ related:
 slug: the-internet-is-a-mine
 source_frame: natural-resources
 updated: '2026-03-13'
+transfers:
+  - '[source] internet content is raw material waiting to be extracted, refined, and sold -- the value is not in content as written but in the aggregate, processed through training into model weights, with content creators framed as geological processes'
+  - '[source] not all deposits are equally rich -- dataset curation and quality assessment map onto prospecting and geological surveys, shaping decisions about which sources to scrape'
+  - '[source] the refining stage captures the value -- raw ore is worthless, refined metal is valuable -- concentrating profit at the AI company rather than with the people who produced the raw material'
+limits:
+  - '[source] breaks because minerals do not have authors -- internet content was created by people with intentions, rights, and expectations, and the mining metaphor erases authorship entirely, converting creative labor into geological accident'
+  - '[source] misleads because mining requires land rights while scraping operates in a legal gray zone -- the metaphor imports the idea of legitimate extraction while obscuring that ''mineral rights'' for internet content are fiercely contested'
 ---
 
 ## Transfers

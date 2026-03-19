@@ -20,6 +20,13 @@ related:
 slug: seeing-is-touching-eyes-are-limbs
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] the eyes function as limbs that reach outward to contact objects -- gaze has length, direction, and grip, mapping manual dexterity onto visual agility'
+  - '[source] visual scanning maps onto manual exploration: systematic looking is systematic palpation, with the eyes tracing contours the way fingers trace surfaces'
+  - '[source] eyelid opening and closing maps onto hand opening and closing -- the eyelid gates visual contact the way fingers control grip'
+limits:
+  - '[source] breaks because eyes cannot manipulate what they see -- hands grasp, rotate, and reshape objects, but visual selection does not physically alter the scene'
+  - '[source] misleads because the limb metaphor makes vision seem effortful and deliberate, when much of visual perception is automatic, passive, and requires no ''reaching'''
 ---
 
 ## Transfers

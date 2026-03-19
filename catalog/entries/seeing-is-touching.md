@@ -19,6 +19,13 @@ related:
 slug: seeing-is-touching
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] the gaze travels outward from the observer to make physical contact with its object, reversing the actual direction of photon travel'
+  - '[source] eye contact between two people is construed as physical encounter, importing the intimacy and intrusiveness of touch into the visual domain'
+  - '[source] visual impact maps onto physical impact -- a striking image, an eye-catching display, a sight that hits -- making arresting visuals feel like bodily contact'
+limits:
+  - '[source] breaks because touch requires proximity while vision operates at arbitrary distance, collapsing the epistemic difference between close inspection and remote observation'
+  - '[source] misleads because the metaphor makes the viewer active and the object passive, obscuring the role of light, contrast, and the object''s own visibility in perception'
 ---
 
 ## Transfers

@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] identity is a flag that can be changed -- a French frigate flying British colors is still French, importing a model of social identity as deliberate performance rather than inherent essence'
+  - '[source] the reveal and the attack are simultaneous -- raising the true flag preceded the broadside, linking identity disclosure to commitment to hostile action'
+  - '[source] the deception phase was standard tactics, not dishonorable -- the moral weight fell on the reveal, not the concealment'
+limits:
+  - '[source] breaks because a flag is a binary symbol (this nation or that one), while human identity is layered and contextual -- the metaphor cannot capture the multiplicity of self-presentation'
+  - '[source] misleads because the expression has acquired a built-in negativity bias -- ''showing true colors'' almost always means revealing something negative, though the naval context was morally neutral about the deception itself'
 ---
 
 ## Transfers

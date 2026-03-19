@@ -17,6 +17,13 @@ related:
 slug: stdin-stdout-stderr
 source_frame: fluid-dynamics
 updated: '2026-03-14'
+transfers:
+  - '[source] data enters a process the way water enters a pipe -- continuously, sequentially, and in one direction -- giving every process a default plumbing layout of one intake and two outflows'
+  - '[source] separating stdout from stderr maps onto separating clean water from waste, making the design decision feel natural and hygienic rather than arbitrary'
+  - '[source] buffering maps onto a holding tank that accumulates fluid before releasing it downstream, with ''flush'' explicitly naming the action of clearing accumulated contents'
+limits:
+  - '[source] breaks because data in a stream has strict sequential ordering (byte 47 always follows byte 46), while water in a pipe has no intrinsic molecular ordering -- the metaphor silently adds a constraint absent from the source domain'
+  - '[source] misleads because merging two water streams produces uniform mixture, but merging stderr and stdout produces garbled interleaving where error messages appear mid-data-line -- the fluid metaphor suggests smooth mixing where the reality is jagged'
 ---
 
 ## Transfers

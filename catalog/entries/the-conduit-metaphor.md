@@ -20,6 +20,13 @@ related:
 slug: the-conduit-metaphor
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] communication is packaging ideas into word-containers and sending them to a recipient who unpacks them -- formulation is packaging, transmission is delivery, understanding is extraction'
+  - '[source] the system interlocks three sub-metaphors (ideas are objects, words are containers, communication is sending) that together constitute the default model of how English speakers think about language'
+  - '[source] ideas can exist independently in shared space -- ''that idea has been floating around for a long time'' -- making meanings seem like objects that persist in the environment'
+limits:
+  - '[source] breaks because meaning is not contained in words and transferred intact -- meaning is constructed by the listener using context, shared knowledge, and inference, making communication coordinated construction rather than delivery'
+  - '[source] misleads because the model privileges the sender (who packages and sends) over the receiver (who merely unpacks), obscuring the enormous interpretive labor that listeners and readers perform'
 ---
 
 ## Transfers
