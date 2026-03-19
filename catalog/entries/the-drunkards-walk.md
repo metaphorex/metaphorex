@@ -15,7 +15,7 @@ slug: the-drunkards-walk
 source_frame: probability
 updated: '2026-03-19'
 transfers:
-  - '[source] A drunk person''s stumbling path has no directional intent, yet over many steps can drift far from the starting point, structuring the insight that distance from origin requires no plan'
+  - '[source] a drunk person''s stumbling path has no directional intent, yet over many steps can drift far from the starting point, structuring the insight that distance from origin requires no plan'
   - '[source] Each step is independent of the previous one -- the drunk does not remember or compensate for where they have been -- modeling processes where history does not inform the next move'
   - '[source] The expected distance from the origin grows with the square root of steps, not linearly, capturing why random processes produce less extreme outcomes than intentional ones over time'
 limits:
