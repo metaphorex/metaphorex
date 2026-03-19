@@ -1,0 +1,263 @@
+{
+  "project": "napoleons-military-maxims",
+  "project_issue": 1230,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://www.gutenberg.org/files/50750/50750-h/50750-h.htm",
+    "https://www.napoleonguide.com/maxim_war.htm",
+    "https://classics.mit.edu/Tzu/artwar.html",
+    "https://clausewitzstudies.org/readings/OnWar1873/BK1ch07.html"
+  ],
+  "candidates": [
+    {
+      "slug": "fog-of-war",
+      "name": "Fog of War",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking", "cognitive-science"],
+      "source": "archive",
+      "description": "Clausewitz's concept that uncertainty, incomplete information, and the chaos of engagement obscure the true state of affairs. Widely adopted in business (market uncertainty), politics (voter behavior), and technology (complex system failures). Encodes the structural insight that information degrades under stress and that perfect knowledge is impossible in adversarial or dynamic environments."
+    },
+    {
+      "slug": "friction-in-war",
+      "name": "Friction",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "systems-performance",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Clausewitz's concept that countless small difficulties accumulate to make the apparently easy extraordinarily hard. The gap between plan and execution. Transferred to business operations, software deployment, organizational change. 'Everything in war is simple, but the simplest thing is difficult.'"
+    },
+    {
+      "slug": "center-of-gravity",
+      "name": "Center of Gravity",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Clausewitz borrowed from Newtonian mechanics: the hub of all power and movement on which everything depends. In business strategy, the single capability or asset that gives an organization its competitive strength. Attacking the center of gravity is more effective than attacking peripheral elements."
+    },
+    {
+      "slug": "decisive-point",
+      "name": "Decisive Point",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Napoleon Maxim LXX: 'The art of war consists, with an inferior force, of always having more force at the point of attack.' The principle of concentration at the decisive point transfers to resource allocation in business, product strategy, and competitive positioning. Do not spread thin; mass your strength where it matters most."
+    },
+    {
+      "slug": "never-do-what-the-enemy-wishes",
+      "name": "Never Do What the Enemy Wishes",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking", "mathematics-and-logic"],
+      "source": "archive",
+      "description": "Napoleon Maxim XVI: 'Never to do what the enemy wishes you to do, for this reason alone, that he desires it.' A pure game-theoretic insight: if your adversary wants you to take an action, that action likely serves their interests. Transfers to negotiation, competitive strategy, and adversarial reasoning in security."
+    },
+    {
+      "slug": "offensive-must-be-sustained",
+      "name": "The Offensive Must Be Sustained",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Napoleon Maxim VI: 'When once the offensive has been assumed, it must be sustained to the last extremity.' Half-measures in initiative are worse than not starting. Transfers to product launches, market entry, organizational change: commitment to the initiative once begun, because partial execution creates the worst of both worlds."
+    },
+    {
+      "slug": "defense-to-offense-transition",
+      "name": "The Transition from Defense to Offense",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Napoleon Maxim XIX: 'The transition from the defensive to the offensive is one of the most delicate operations.' The moment of switching from reactive to proactive posture is structurally fragile. Transfers to business turnarounds, crisis management pivot points, and competitive repositioning."
+    },
+    {
+      "slug": "unity-of-command",
+      "name": "Unity of Command",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "Napoleon Maxim LXIV: 'Nothing is so important in war as an undivided command.' One decision-maker, one chain of authority. Transferred directly to management theory (Fayol's 14 principles), organizational design, and the 'single-threaded owner' pattern in tech companies. Councils of war (Maxim LXII) produce indecision."
+    },
+    {
+      "slug": "interior-lines",
+      "name": "Interior Lines",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Napoleon Maxim XXVI: Corps acting separately against a concentrated force will be defeated. The army on interior lines can concentrate faster than dispersed opponents. Transfers to platform strategy (central position serving multiple markets), multi-front competition, and the advantage of focused organizations over distributed ones."
+    },
+    {
+      "slug": "army-marches-on-its-stomach",
+      "name": "An Army Marches on Its Stomach",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "Napoleon's famous aphorism (also reflected in Maxim XXI on supply lines). Logistics and infrastructure determine capability more than fighting spirit. 'Amateurs study tactics; professionals study logistics.' Transfers to operations management, infrastructure investment, and the unsexy-but-critical support systems that enable performance."
+    },
+    {
+      "slug": "moral-is-to-physical-as-three-to-one",
+      "name": "The Moral Is to the Physical as Three to One",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "Napoleon's quantification of morale's importance. Intangible factors (will, cohesion, belief) outweigh material factors. Transfers to team management, organizational culture, employee engagement. The ratio is metaphorical but the structural claim is serious: motivation multiplies capability."
+    },
+    {
+      "slug": "scorched-earth",
+      "name": "Scorched Earth",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Destroying resources to deny them to the advancing enemy. Napoleon experienced this devastatingly in Russia (1812). Transfers to business (destroying value to prevent acquisition), litigation (making lawsuits so expensive neither side wins), and technology (deleting data rather than surrendering it). The metaphor encodes the logic of mutual destruction as defense."
+    },
+    {
+      "slug": "strategic-retreat",
+      "name": "Strategic Retreat",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Napoleon Maxim XXVII: retreating columns should rally sufficiently in the rear to prevent interruption. Retreat as deliberate repositioning rather than defeat. Transfers to business (exiting unprofitable markets), product strategy (sunsetting features), and personal decisions (knowing when to quit as strategy, not failure)."
+    },
+    {
+      "slug": "collect-your-whole-force",
+      "name": "Collect Your Whole Force",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Napoleon Maxim XXIX: 'When you have resolved to fight a battle, collect your whole force. Dispense with nothing. A single battalion sometimes decides the day.' The principle of total commitment once a decision is made. No reserves held back from vanity or timidity. Transfers to resource allocation, product launches, and all-hands mobilization."
+    },
+    {
+      "slug": "know-your-enemy-know-yourself",
+      "name": "Know Your Enemy and Know Yourself",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking", "cognitive-science"],
+      "source": "archive",
+      "description": "Sun Tzu, Art of War III: 'If you know the enemy and know yourself, you need not fear the result of a hundred battles.' The most transferred military concept in history. Self-knowledge and adversary-knowledge as complementary prerequisites for effective action. Transfers to competitive intelligence, self-assessment, negotiation preparation."
+    },
+    {
+      "slug": "all-warfare-is-deception",
+      "name": "All Warfare Is Deception",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking", "mathematics-and-logic"],
+      "source": "archive",
+      "description": "Sun Tzu, Art of War I: 'All warfare is based on deception.' Appear weak when strong, strong when weak. The structural claim that strategic advantage comes from information asymmetry. Transfers to competitive strategy (stealth launches), negotiation (concealing your BATNA), and poker-like reasoning in adversarial contexts."
+    },
+    {
+      "slug": "supreme-art-is-to-subdue-without-fighting",
+      "name": "The Supreme Art Is to Subdue Without Fighting",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Sun Tzu, Art of War III: 'The supreme art of war is to subdue the enemy without fighting.' Victory through positioning, deterrence, or making resistance futile. Transfers to business (making competition irrelevant via blue ocean strategy), diplomacy, and conflict resolution. The deepest counter-metaphor to 'competition is war.'"
+    },
+    {
+      "slug": "boots-on-the-ground",
+      "name": "Boots on the Ground",
+      "kind": "dead-metaphor",
+      "source_frame": "war",
+      "target_frame": "organizational-behavior",
+      "categories": ["linguistics", "organizational-behavior"],
+      "source": "llm",
+      "description": "Physical military presence in a theater of operations. Transferred to business as having personnel physically present (field sales, on-site teams). Encodes the structural insight that remote oversight is insufficient for certain operations and that physical presence changes the dynamics of engagement."
+    },
+    {
+      "slug": "collateral-damage",
+      "name": "Collateral Damage",
+      "kind": "dead-metaphor",
+      "source_frame": "war",
+      "target_frame": "decision-making",
+      "categories": ["linguistics", "systems-thinking"],
+      "source": "llm",
+      "description": "Unintended harm to non-targets during military operations. Transferred to business (layoffs affecting good employees), policy (regulations hurting unintended groups), and technology (software changes breaking adjacent features). The euphemistic framing is itself interesting: 'collateral' distances the decision-maker from the harm."
+    },
+    {
+      "slug": "beachhead-strategy",
+      "name": "Beachhead Strategy",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "llm",
+      "description": "Securing a small, defensible initial position from which to expand. From amphibious warfare (Normandy, Gallipoli). Transferred to market entry strategy: dominate a narrow niche before expanding. Geoffrey Moore's 'Crossing the Chasm' explicitly uses this military metaphor for technology market entry."
+    },
+    {
+      "slug": "war-on-two-fronts",
+      "name": "War on Two Fronts",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Napoleon Maxim IV and XI: operating on separated lines without communication is fatal. Fighting on two fronts divides resources and attention. Transfers to business (competing in two markets simultaneously), personal productivity (context-switching), and organizational strategy. Germany's two-front war in both World Wars is the canonical cautionary tale."
+    },
+    {
+      "slug": "flanking-maneuver",
+      "name": "Flanking Maneuver",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "competition",
+      "categories": ["systems-thinking"],
+      "source": "llm",
+      "description": "Attacking the side or rear rather than the fortified front. Transfers to competitive strategy (entering markets from unexpected angles), argumentation (addressing assumptions rather than conclusions), and innovation (disrupting incumbents from adjacent spaces rather than head-on competition)."
+    },
+    {
+      "slug": "calculated-risk",
+      "name": "Calculated Risk",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Napoleon Maxim LXXIII: 'The first principle of a general-in-chief is to calculate what he must do, to see if he has all the means to surmount the obstacles.' Also Maxim LXXVIII: 'In war, nothing is achieved except by calculation.' Risk-taking governed by rigorous analysis, not boldness alone. Transfers to investment, product decisions, and entrepreneurship."
+    },
+    {
+      "slug": "every-soldier-carries-a-marshals-baton",
+      "name": "Every Soldier Carries a Marshal's Baton",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "Napoleon's principle that talent should rise regardless of birth. Merit-based promotion as organizational advantage. Transfers to corporate meritocracy ideals, talent development, and the structural insight that organizations that promote from within based on performance outperform those with rigid hierarchies."
+    },
+    {
+      "slug": "reserves-and-commitment",
+      "name": "Throw In Your Last Reserve",
+      "kind": "conceptual-metaphor",
+      "source_frame": "war",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Napoleon Maxim LXVII: 'A general who retains fresh troops for the day after a battle is almost always beaten.' Total commitment at the decisive moment. Transfers to startup strategy (burn rate decisions), competitive moves (holding back resources from fear), and the tension between prudent reserves and decisive action."
+    }
+  ]
+}
