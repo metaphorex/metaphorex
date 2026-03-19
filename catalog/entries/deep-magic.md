@@ -17,6 +17,13 @@ related:
 slug: deep-magic
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] magical knowledge is both potent and dangerous, acquired through initiation rather than study, and non-transferable to the uninitiated'
+  - '[source] spells work by exact recitation without the caster understanding the mechanism, mapping code that must be preserved verbatim with no principled explanation of why it works'
+  - '[source] magic traditions distinguish apprentice, journeyman, and master, naturalizing expertise hierarchies as mystical levels of initiation'
+limits:
+  - '[source] breaks because software is deterministic -- every behavior has a traceable causal chain -- but calling it "magic" concedes understanding prematurely and dignifies ignorance as mystery'
+  - '[source] misleads because labeling code as deep magic rewards obscurity (the wizard-developer accrues status from monopoly on comprehension) and discourages investigation by other developers'
 ---
 
 ## Transfers

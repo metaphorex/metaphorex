@@ -16,6 +16,13 @@ related:
 slug: compliance-is-adherence
 source_frame: physical-connection
 updated: '2026-03-12'
+transfers:
+  - '[source] adhesion maintains continuous physical contact between two surfaces, mapping compliance as staying bonded to a rule''s surface'
+  - '[source] bond strength varies from firm to weak, providing a gradient of commitment from zealous compliance to fragile half-hearted adherence'
+  - '[source] separation leaves residue, mapping the persistence of compliance habits even after the rule itself has been removed'
+limits:
+  - '[source] breaks because adhesion is a binary state (stuck or unstuck) with no room for partial compliance or compliance with the spirit but not the letter'
+  - '[source] misleads because glue has no moral dimension -- it sticks to anything -- hiding the question of whether the rule deserves adherence'
 ---
 
 ## Transfers

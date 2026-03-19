@@ -20,6 +20,13 @@ related:
 slug: ideas-are-fashions
 source_frame: social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] maps the trend cycle (novelty, adoption, peak, decline, revival) onto intellectual history, making ideas subject to social contagion dynamics rather than purely rational evaluation'
+  - '[source] imports the distinction between trendsetters and followers, encoding the social hierarchy of intellectual life where early adopters gain status and late adopters are derivative'
+  - '[source] gives ideas an expiration dynamic where "outdated" ideas lose credibility regardless of their truth value, mapping social obsolescence onto epistemic evaluation'
+limits:
+  - '[source] misleads by reducing intellectual change to arbitrary social cycling, obscuring the genuine epistemic progress that sometimes drives the adoption and abandonment of ideas'
+  - '[source] breaks because fashion explicitly values novelty over quality, while intellectual traditions often demonstrate the opposite -- enduring ideas gain authority precisely because they resist the trend cycle'
 ---
 
 ## Transfers

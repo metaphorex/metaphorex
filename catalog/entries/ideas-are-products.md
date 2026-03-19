@@ -20,6 +20,13 @@ related:
 slug: ideas-are-products
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - '[source] maps industrial manufacturing onto intellectual activity, so the mind is a factory, thinking is the production process, and ideas are the output with origin stories in their production methods'
+  - '[source] imports quality-control logic so ideas can be well-made or shoddy, polished or rough, importing manufacturing standards onto epistemic evaluation'
+  - '[source] gives ideas a production chain with raw materials (data, observations), processing (analysis, synthesis), and finished goods (theories, arguments), mapping industrial workflow onto intellectual method'
+limits:
+  - '[source] misleads by treating intellectual activity as repeatable manufacturing where the same inputs reliably produce the same outputs, ignoring the irreducible creativity and contingency of original thought'
+  - '[source] breaks because manufactured products are designed to be identical copies, while ideas gain value precisely from their uniqueness and originality, inverting the industrial premium on uniformity'
 ---
 
 ## Transfers

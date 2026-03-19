@@ -18,6 +18,13 @@ related:
 slug: light-on-two-sides
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - '[source] a room lit from two opposing sides eliminates harsh shadows and creates depth through cross-illumination, mapping onto designs that provide multiple perspectives or access points'
+  - '[source] two light sources create redundancy -- if one is blocked, the room remains partially lit -- structuring the architectural insight that single-source dependency produces fragile spaces'
+  - '[source] cross-lighting reveals the three-dimensional texture of surfaces that single-directional light flattens, mapping onto the idea that multiple inputs produce richer understanding'
+limits:
+  - '[source] architectural cross-lighting works because light is additive (two sources always produce more light), but in information design, two perspectives can produce confusion rather than clarity if they contradict'
+  - '[source] the pattern assumes both light sources are desirable, but in architecture unwanted glare from a second source can be worse than controlled single-sided illumination'
 ---
 
 ## Transfers

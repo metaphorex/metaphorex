@@ -19,6 +19,13 @@ related:
 slug: fear-driven-development
 source_frame: social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] fear as the primary motivator for engineering decisions maps social-behavioral dynamics (avoidance of blame, punishment, or embarrassment) onto technical process, so that code is written to avoid criticism rather than to solve problems well'
+  - '[source] the development process inherits the structure of a fear response: defensive action, avoidance of visibility, and preference for the safe-but-suboptimal choice over the risky-but-correct one'
+  - '[source] institutional memory of past failures acts as a persistent threat signal, so that teams over-engineer against known past disasters while ignoring novel risks that have not yet triggered a fear response'
+limits:
+  - '[source] breaks because fear in the source domain (social behavior) produces fight-or-flight responses that are temporary and acute, while fear-driven development describes a chronic institutional condition that persists indefinitely'
+  - '[source] misleads by framing all caution as fear-driven, when some defensive engineering practices (redundancy, defensive coding, extensive testing) are rational responses to genuine risk rather than symptoms of organizational pathology'
 ---
 
 ## Transfers

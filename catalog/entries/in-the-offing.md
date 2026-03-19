@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - event-structure
 updated: '2026-03-14'
+transfers:
+  - '[source] maps the visible-but-not-yet-arrived position of a ship between the anchorage and the horizon onto events that are anticipated and detectable but have not yet materialized'
+  - '[source] imports the spatial certainty of the offing -- a ship seen there will arrive, barring disaster -- encoding a stronger expectation than mere possibility, closer to confident prediction'
+  - '[source] carries the observer-on-shore perspective where the approaching thing is visible to watchers but not yet within reach, mapping the gap between knowing something is coming and being able to act on it'
+limits:
+  - '[source] misleads because a ship in the offing has a definite identity and destination, while the idiomatic usage often applies to vague or uncertain future events where neither identity nor outcome is clear'
+  - '[source] breaks when the anticipated event never actually arrives, since the nautical offing implies near-certainty of arrival and the metaphor provides no vocabulary for the approaching thing turning away'
 ---
 
 ## Transfers

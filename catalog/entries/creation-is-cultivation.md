@@ -19,6 +19,13 @@ related:
 slug: creation-is-cultivation
 source_frame: horticulture
 updated: '2026-03-12'
+transfers:
+  - '[source] the cultivator prepares soil and plants seeds but the growth happens according to the organism''s own developmental schedule, not the farmer''s will'
+  - '[source] creative development follows seasonal stages (planting, growing, harvesting) with dormant periods that are part of the productive cycle'
+  - '[source] failure maps to organic death -- withering, dying on the vine -- framing creative failure as natural and often outside the creator''s control'
+limits:
+  - '[source] breaks because a seed contains the oak teleologically, but a poem does not exist in potential before the poet writes it, importing false inevitability'
+  - '[source] misleads because "organic growth" carries positive valence, making it hard to criticize growth that may be cancerous or to recognize ideologies that "take root" as invasive species'
 ---
 
 ## Transfers

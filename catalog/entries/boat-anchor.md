@@ -16,6 +16,13 @@ related:
 slug: boat-anchor
 source_frame: tool-use
 updated: '2026-03-14'
+transfers:
+  - '[source] an anchor is heavy, inert, and prevents the vessel from moving, framing a useless technology or asset as something that consumes space and resources while actively impeding progress'
+  - '[source] anchors are designed to resist movement by digging into the seabed, importing the insight that the impediment is not accidental but structural -- the legacy system was built to resist change'
+  - '[source] cutting the anchor cable is the emergency remedy when the anchor cannot be raised, framing abandonment as a deliberate severing operation rather than gradual deprecation'
+limits:
+  - '[source] breaks because an anchor serves a vital function when the vessel needs to stay in place, while a boat-anchor technology by definition serves no useful purpose -- the metaphor erases the original design intent'
+  - '[source] misleads by implying the anchor can simply be dropped to the bottom and forgotten, when legacy systems often have dependencies that make clean separation impossible'
 ---
 
 ## Transfers

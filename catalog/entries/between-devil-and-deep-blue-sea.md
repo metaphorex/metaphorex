@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - event-structure
 updated: '2026-03-14'
+transfers:
+  - '[source] the devil on one side and the sea on the other leaves no safe direction, framing a dilemma as a spatial trap where every available path leads to a distinct but equally serious danger'
+  - '[source] the two threats are categorically different (supernatural vs. natural), importing the structure where the dilemma''s options are not merely bad but incommensurably different kinds of bad'
+  - '[source] the phrase implies a narrow physical space with danger on both flanks, framing the decision-maker as constrained to a shrinking zone of survivable action'
+limits:
+  - '[source] breaks because the spatial metaphor implies exactly two threats, while real dilemmas often involve multiple overlapping risks that cannot be reduced to a binary'
+  - '[source] misleads by implying static threats that stay on their respective sides, when real constraints often shift, merge, or create new dangers through interaction'
 ---
 
 ## Transfers

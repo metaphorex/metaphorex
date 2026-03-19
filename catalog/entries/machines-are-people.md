@@ -16,6 +16,13 @@ related:
 slug: machines-are-people
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - '[source] people have intentions, preferences, and moods, mapping onto the tendency to attribute agency to machines (''it doesn''t want to start'', ''it''s being stubborn'')'
+  - '[source] people communicate their internal states through behavior, structuring machine malfunctions as expressions of displeasure or fatigue rather than mechanical failures'
+  - '[source] interpersonal strategies (persuasion, patience, coaxing) are applied to machines, mapping social intelligence onto troubleshooting (''just be gentle with it'')'
+limits:
+  - '[source] people have genuine internal states that cause their behavior, but machines'' apparent ''moods'' are projections with no subjective experience behind them'
+  - '[source] social strategies work on people because they respond to social cues, but machines respond only to physical inputs -- talking nicely to a jammed printer changes nothing mechanically'
 ---
 
 ## Transfers

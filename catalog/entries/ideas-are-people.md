@@ -20,6 +20,13 @@ related:
 slug: ideas-are-people
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - '[source] gives ideas biographical arcs -- birth, maturation, reproduction, death -- making intellectual history legible as a population of agents interacting over time'
+  - '[source] imports the kinship structure so ideas have parents, siblings, and offspring, encoding genealogical relationships between intellectual traditions as literal family trees'
+  - '[source] makes ideas capable of agency, so theories can "fight" competitors, "survive" criticism, and "attract" followers, mapping social dynamics onto epistemic evaluation'
+limits:
+  - '[source] misleads by attributing intentions and strategies to ideas, obscuring the human agents who actually propagate, defend, and modify them'
+  - '[source] breaks because people are mortal and unrepeatable, while ideas can be independently reinvented by multiple thinkers in different contexts, violating the biological assumption of unique individuality'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: creating-is-making-visible
 source_frame: vision
 updated: '2026-03-12'
+transfers:
+  - '[source] the creator removes an obstruction to visibility, framing creation as disclosure of what was latent rather than fabrication of something new'
+  - '[source] creative skill maps to perceptual acuity -- the creator sees what others cannot and makes it visible to them'
+  - '[source] the audience is transformed from blind to sighted, making successful creation a change in the perceiver rather than in the world'
+limits:
+  - '[source] breaks because the metaphor presupposes that the created thing pre-exists in hidden form, importing Platonic mysticism about a realm of latent objects'
+  - '[source] misleads because revelation is passive (removing a veil), downplaying the labor, skill, and struggle involved in genuine making'
 ---
 
 ## Transfers

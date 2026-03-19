@@ -17,6 +17,13 @@ related:
 slug: ai-safety-is-containment
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] containment requires an unbroken barrier between a hazardous interior and a vulnerable exterior, framing AI safety as maintaining separation between capable systems and uncontrolled environments'
+  - '[source] containment protocols escalate with the hazard level (BSL-1 through BSL-4), importing a tiered approach where more capable AI requires more stringent isolation measures'
+  - '[source] containment breach in biological labs triggers immediate lockdown and decontamination procedures, framing AI safety incidents as requiring rapid response protocols rather than post-hoc analysis'
+limits:
+  - '[source] breaks because biological containment holds a physically bounded organism, while AI capabilities leak through information channels (APIs, model weights, published papers) that cannot be sealed'
+  - '[source] misleads by framing the threat as escape from confinement, when many AI risks arise from intended use within sanctioned boundaries rather than unauthorized breakout'
 ---
 
 ## Transfers

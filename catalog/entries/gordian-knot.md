@@ -17,6 +17,13 @@ related:
 slug: gordian-knot
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] an impossibly complex entanglement is resolved not by patient analysis but by a single decisive act that redefines the problem -- Alexander cuts the knot rather than untying it -- importing the structure that some problems are better dissolved than solved'
+  - '[source] the story privileges boldness over expertise: the knot defeated every skilled rope-worker, but Alexander succeeded through audacity rather than technique, mapping onto situations where conventional domain expertise fails and lateral thinking succeeds'
+  - '[source] the oracle''s prophecy (whoever unties the knot will rule Asia) frames the problem as a legitimacy test, importing the structure that solving an impossible problem is not just useful but proves the solver''s fitness to lead'
+limits:
+  - '[source] breaks because cutting a knot destroys the rope, while real-world ''Gordian knot'' solutions must usually preserve the system being untangled -- you cannot cut a regulatory tangle without destroying the regulations, which may serve purposes the cutter ignores'
+  - '[source] misleads by framing patient analysis as weakness and dramatic action as strength, which romanticizes impatience and can justify destructive shortcuts through problems that actually require careful, incremental resolution'
 ---
 
 ## Transfers

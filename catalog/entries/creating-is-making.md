@@ -19,6 +19,13 @@ related:
 slug: creating-is-making
 source_frame: manufacturing
 updated: '2026-03-12'
+transfers:
+  - '[source] the maker acts on passive raw material with deliberate skill, imposing form onto substance through intentional shaping'
+  - '[source] the finished product is a discrete, bounded object separable from its maker -- inspectable, evaluable, and ownable as an independent entity'
+  - '[source] quality standards from manufacturing (workmanship, fit and finish) transfer directly, making "well-made" a legible measure of creative achievement'
+limits:
+  - '[source] breaks because manufacturing requires knowing the product in advance (the mold precedes the casting), while important creative work discovers its form during the process'
+  - '[source] misleads because the material in manufacturing is inert, hiding the reciprocal dialogue between creator and medium where language pushes back against the poet'
 ---
 
 ## Transfers

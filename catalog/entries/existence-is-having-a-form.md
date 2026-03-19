@@ -18,6 +18,13 @@ related:
 slug: existence-is-having-a-form
 source_frame: physical-objects
 updated: '2026-03-12'
+transfers:
+  - '[source] to exist is to have a discernible shape -- things take form when they come into being, and lose form when they cease to exist -- mapping ontological status onto the presence or absence of physical contour'
+  - '[source] the process of coming into existence maps onto the process of gaining shape: ideas form, plans take shape, a personality crystallizes, giving emergence the visual structure of an object becoming visible through its outline'
+  - '[source] destruction of existence is loss of form: things dissolve, disintegrate, fall apart, become formless -- mapping non-existence onto the entropy that reduces structured objects to undifferentiated matter'
+limits:
+  - '[source] breaks because many existing things lack discernible form (electromagnetic fields, social norms, mathematical truths), so the metaphor systematically privileges the tangible and visible over the abstract and diffuse'
+  - '[source] misleads by equating loss of form with loss of existence, when transformation (changing form) is not the same as destruction -- a caterpillar dissolves into formless goo inside a chrysalis but continues to exist'
 ---
 
 ## Transfers

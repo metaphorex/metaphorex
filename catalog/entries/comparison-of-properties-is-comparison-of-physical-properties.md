@@ -17,6 +17,13 @@ related:
 slug: comparison-of-properties-is-comparison-of-physical-properties
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] physical properties exist on perceptible scales (heavier/lighter, taller/shorter) that make ranking feel like sensory perception rather than judgment'
+  - '[source] multiple physical dimensions (weight, size, temperature, sharpness) are available for a single comparison, each highlighting different aspects'
+  - '[source] instruments yield increasingly precise measurements, importing the concept that comparison has a resolution and better tools produce finer distinctions'
+limits:
+  - '[source] breaks because abstract properties like intelligence are multidimensional, but the physical frame forces them onto single linear scales'
+  - '[source] misleads because physical comparison is observer-independent while abstract comparison depends entirely on the evaluator''s framework and values'
 ---
 
 ## Transfers

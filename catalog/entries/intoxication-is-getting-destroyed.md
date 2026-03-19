@@ -18,6 +18,13 @@ related:
 slug: intoxication-is-getting-destroyed
 source_frame: destruction
 updated: '2026-03-12'
+transfers:
+  - '[source] maps violent physical destruction (hammering, smashing, wrecking) onto the state of extreme intoxication, encoding the catastrophic loss of normal function as structural collapse'
+  - '[source] imports the suddenness and totality of impact -- you are not gradually loaded but struck and demolished -- mapping the difference between tipsy and blackout onto the difference between dented and obliterated'
+  - '[source] gives intoxication a passive-victim structure where the drinker is the object acted upon by destructive force, encoding the loss of agency that characterizes severe inebriation'
+limits:
+  - '[source] misleads because destroyed objects do not self-repair, while the intoxicated person recovers (with a hangover) by morning, and the metaphor carries an irreversibility that actual drunkenness lacks'
+  - '[source] breaks when intoxication is voluntary and pleasurable, since the destruction frame encodes only suffering and damage, missing the social and hedonic dimensions that make people seek the state the metaphor calls "getting wrecked"'
 ---
 
 ## Transfers

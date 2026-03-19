@@ -17,6 +17,13 @@ related:
 slug: knowing-is-seeing
 source_frame: vision
 updated: '2026-03-13'
+transfers:
+  - '[source] vision operates at a distance without physical contact, mapping onto the idea that knowledge can be acquired through observation rather than direct interaction'
+  - '[source] seeing requires a light source to illuminate the object, structuring knowledge as dependent on something external that reveals what was already there'
+  - '[source] visual focus is selective -- you see what you attend to and miss what falls outside your gaze -- mapping onto the partiality of all knowing'
+limits:
+  - '[source] vision is passive and instantaneous (you see or you don''t), obscuring forms of knowing that require active construction, effort, and time'
+  - '[source] seeing implies a single correct perspective from a fixed viewpoint, hiding that understanding often requires integrating multiple contradictory frameworks'
 ---
 
 ## Transfers

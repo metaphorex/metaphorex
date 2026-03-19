@@ -19,6 +19,13 @@ related:
 slug: help-is-support
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] maps assistance onto holding something up against gravity, so the helper bears weight that would otherwise cause the helped person to fall or collapse'
+  - '[source] imports the structural-engineering logic where support must be positioned beneath or alongside the load, making the helper spatially subordinate to the person being helped'
+  - '[source] encodes the withdrawal of help as removal of a supporting structure, importing the risk of collapse -- if you "pull the rug out" or "knock the props away," the supported person falls'
+limits:
+  - '[source] misleads by framing the helped person as a passive load rather than an active agent, importing the structural assumption that loads do not support themselves'
+  - '[source] breaks for help that operates through challenge, opposition, or destabilization -- tough love, constructive criticism, and adversarial training all help by pushing down rather than holding up'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: gaining-physical-intimacy-is-a-competition
 source_frame: competition
 updated: '2026-03-12'
+transfers:
+  - '[source] one partner''s pursuit of physical intimacy against the other''s resistance is structured as a competitive contest with an attacker advancing and a defender resisting -- importing winners, losers, strategies, and the adversarial logic of opposition'
+  - '[source] sexual ''scoring'' maps athletic achievement onto physical intimacy, so that intimacy milestones are points won, the pursuing partner is the player, and success is defined by the pursuer''s progress against resistance'
+  - '[source] the competitive frame imports escalation dynamics: each ''advance'' met with ''defense'' raises the stakes, with the pursuer needing to overcome successive lines of resistance, mapping courtship onto a series of contested boundaries'
+limits:
+  - '[source] breaks because competition requires an adversary whose defeat is the goal, but healthy physical intimacy requires mutual desire -- the metaphor structurally erases the possibility that both parties want the same outcome and replaces consent with capitulation'
+  - '[source] misleads by importing the competitive premise that resistance is expected and overcoming it is victory, which normalizes pressure and coercion by framing them as legitimate competitive strategies rather than violations of autonomy'
 ---
 
 ## Transfers

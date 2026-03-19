@@ -14,6 +14,13 @@ related: []
 slug: dns-domain
 source_frame: governance
 updated: '2026-03-17'
+transfers:
+  - '[source] feudal governance delegates authority hierarchically from sovereign to vassal, mapping the DNS tree where root delegates to TLDs, TLDs to registrants, registrants to subdomains'
+  - '[source] the authoritative source for land records is the sovereign''s registry, mapping the authoritative name server as the one with the right to define truth about its zone'
+  - '[source] territorial sovereignty means the lord controls what happens within borders, mapping a domain registrant''s exclusive control over names in their subtree'
+limits:
+  - '[source] breaks because DNS domains are abstract namespaces that can point anywhere (GeoDNS, anycast), not fixed mappable territory with physical borders'
+  - '[source] misleads because revoking feudal authority triggered wars, but DNS delegation changes are operationally trivial database updates -- the metaphor overstates the weight of authority relationships'
 ---
 
 ## Transfers

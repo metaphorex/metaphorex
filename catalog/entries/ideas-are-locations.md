@@ -20,6 +20,13 @@ related:
 slug: ideas-are-locations
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - '[source] spatializes the landscape of thought so different ideas occupy different positions, and thinking is movement through that terrain -- arriving at conclusions, departing from premises'
+  - '[source] imports the physics of occupation so you can only be "at" one idea at a time, encoding the cognitive constraint that attention is singular even when knowledge is distributed'
+  - '[source] gives ideas proximity and distance, so "close" ideas are related and "far" ideas are unrelated, mapping conceptual similarity onto spatial nearness'
+limits:
+  - '[source] misleads by making ideas feel fixed in space like cities on a map, when ideas are actually mutable and their relationships shift depending on the framework used to organize them'
+  - '[source] breaks because locations have single occupancy (two things cannot be in the same place), but multiple ideas can occupy the same conceptual role, and the metaphor provides no way to express this overlap'
 ---
 
 ## Transfers

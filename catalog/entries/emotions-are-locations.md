@@ -21,6 +21,13 @@ related:
 slug: emotions-are-locations
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - '[source] each emotion is a bounded region that a person enters, occupies, and eventually leaves -- you are in love, in despair, in a rage -- imposing categorical boundaries on what is actually a continuous spectrum of feeling'
+  - '[source] the onset of emotion is arrival at a place (fell into depression, stumbled into love) and recovery is departure (came out of grief, emerged from shock), giving emotional change the structure of a journey between places'
+  - '[source] being trapped in an emotion maps onto being trapped in a place (stuck in sadness, mired in guilt), importing the spatial logic that escape requires finding an exit from a bounded enclosure'
+limits:
+  - '[source] breaks because the emotion-place still ''exists'' after you leave it in the metaphor (you can return to it, others can visit it), but emotions do not have permanent addresses -- the anger you felt yesterday is not waiting in a location for you to revisit'
+  - '[source] misleads by imposing categorical boundaries (you are either in the emotion or not) on states that blend continuously, making it hard to express partial or transitional emotional states'
 ---
 
 ## Transfers

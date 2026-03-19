@@ -18,6 +18,13 @@ related:
 slug: bus-factor
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] the scenario posits a team member being hit by a bus, framing knowledge concentration risk through an irreversible, random removal event that cannot be anticipated or negotiated'
+  - '[source] the bus factor counts the minimum number of removals before the project fails, importing a quantitative threshold metric for organizational resilience'
+  - '[source] the bus is indiscriminate -- it does not target the most critical person -- framing the risk as independent of any particular person''s importance and therefore requiring distributed knowledge'
+limits:
+  - '[source] breaks because bus strikes are random and uncorrelated, while real knowledge-holder departures are often clustered (layoffs, team moves, competing offers) and correlated with organizational dysfunction'
+  - '[source] misleads by reducing knowledge risk to a count of people, when knowledge transfer difficulty depends on tacit knowledge depth, documentation quality, and system complexity -- not just headcount'
 ---
 
 ## Transfers

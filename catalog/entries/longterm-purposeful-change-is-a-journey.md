@@ -23,6 +23,13 @@ related:
 slug: longterm-purposeful-change-is-a-journey
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - '[source] a journey transforms the traveler''s location from origin to destination, mapping intentional change as movement from a current state to a desired future state'
+  - '[source] the traveler must keep moving to make progress -- stopping means the destination recedes no closer -- structuring change as requiring sustained effort rather than one-time action'
+  - '[source] journeys can be abandoned mid-route with the traveler stranded between origin and destination, mapping the risk of incomplete transformation that leaves the subject in a worse hybrid state'
+limits:
+  - '[source] a journey''s endpoint exists independently of the traveler and can be visited before committing to the trip, but the endpoint of purposeful change often does not exist until the change process creates it'
+  - '[source] reversing a journey means retracing the same path, but reversing a change process rarely restores the original state because the act of changing alters the substrate'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: nation-is-a-family
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - '[source] a family has a hierarchical authority structure (parents govern children) based on care and obligation rather than contract, mapping governance as parental stewardship rather than bureaucratic administration'
+  - '[source] family members are bound by unchosen ties of birth rather than voluntary association, structuring citizenship as an ascribed identity with unconditional mutual obligation'
+  - '[source] the family''s internal conflicts are private and should be resolved ''within the family'' before outsiders intervene, mapping the norm against foreign interference in domestic affairs'
+limits:
+  - '[source] families are small enough for every member to know every other personally, but nations comprise millions of strangers, making the intimacy and trust of family bonds a fiction at national scale'
+  - '[source] family authority (parenting) is temporary and aims to produce autonomous adults who leave, but state authority over citizens is permanent and does not aim to make citizens independent of the state'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: hydra-code
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] maps the Hydra''s head-regeneration property onto codebases where fixing one bug introduces two new ones, capturing the specific pathology of repair that worsens the system'
+  - '[source] imports Heracles'' solution -- cauterizing each stump immediately after cutting -- mapping onto the need to address root causes rather than surface symptoms to prevent regrowth'
+  - '[source] carries the implication that the system is a single interconnected organism rather than independent parts, so damage to one head propagates through the shared body to spawn new problems elsewhere'
+limits:
+  - '[source] misleads because the Hydra regenerates identical heads, while real bug proliferation typically produces different kinds of failures in different subsystems rather than clones of the original defect'
+  - '[source] breaks when the codebase problems stem from independent, unrelated issues rather than a shared root cause, since the Hydra metaphor assumes a single organism whose parts are interconnected'
 ---
 
 ## Transfers

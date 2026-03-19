@@ -17,6 +17,13 @@ related:
 slug: intoxication-is-getting-a-burden
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] maps progressive weight accumulation onto progressive impairment, so the intoxicated person staggers, lists, and eventually collapses under an invisible load that increases with each drink'
+  - '[source] imports the physics of bearing weight -- unsteadiness, loss of balance, slowed movement, eventual inability to stand -- mapping these specific physical symptoms onto the observable signs of drunkenness'
+  - '[source] gives intoxication a gradual-onset structure calibrated to accumulation, distinguishing it from the sudden-impact frame of "getting destroyed" by emphasizing incremental loading'
+limits:
+  - '[source] misleads by framing intoxication as purely impairing (burdens only slow you down), missing the pleasurable and disinhibiting phases that motivate people to drink in the first place'
+  - '[source] breaks because burdens can be set down voluntarily at any time, while intoxication once acquired cannot be shed by choice -- you cannot simply put the drunkenness down and walk away sober'
 ---
 
 ## Transfers

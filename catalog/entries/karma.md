@@ -16,6 +16,13 @@ related:
 slug: karma
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] maps a cosmic moral accounting system -- where actions generate merit or demerit that balances over time -- onto the everyday intuition that good and bad behavior will eventually be repaid in kind'
+  - '[source] imports the ledger structure with debits and credits, giving moral causation a bookkeeping precision where specific actions produce specific consequences, not vague "what goes around comes around"'
+  - '[source] carries the temporal-displacement property where consequences may arrive much later than their causes, encoding the intuition that justice operates on a longer timescale than human patience'
+limits:
+  - '[source] misleads by implying a just universe where suffering is always deserved (earned through prior bad karma), which can rationalize victim-blaming and indifference to structural injustice'
+  - '[source] breaks because the original concept requires rebirth across multiple lifetimes for the ledger to balance, while the popular Western usage expects karma to close accounts within a single life, collapsing the cosmological timescale into an impossibly short window'
 ---
 
 ## Transfers

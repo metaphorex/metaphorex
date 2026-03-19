@@ -18,6 +18,13 @@ related:
 slug: effects-of-humor-are-injuries
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] the involuntary, overwhelming quality of intense laughter maps onto the involuntary, overwhelming quality of physical injury, preserving the structure of loss of bodily control while inverting the valence from negative to positive'
+  - '[source] the temporal structure of a joke (setup then punchline) maps onto the temporal structure of a blow (windup then impact), with the punchline as the moment force connects'
+  - '[source] the comedian-audience asymmetry maps onto the aggressor-victim asymmetry, with the comedian wielding humor as a weapon (razor-sharp wit, cutting remarks) and the audience suffering pleasurable damage'
+limits:
+  - '[source] breaks because injury is unwanted while laughter is sought -- the valence inversion is total, so the metaphor preserves intensity and involuntariness but discards the defining feature of harm: its undesirability'
+  - '[source] misleads by framing the audience as passive victims of comedic force, erasing the collaborative, contextual nature of humor where timing, shared knowledge, and willingness to laugh co-produce the effect'
 ---
 
 ## Transfers

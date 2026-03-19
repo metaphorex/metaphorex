@@ -18,6 +18,13 @@ related:
 slug: getting-is-eating
 source_frame: food-and-cooking
 updated: '2026-03-12'
+transfers:
+  - '[source] acquisition maps onto the structure of eating: the desirable thing is consumed, incorporated into the self, and once eaten cannot be given back -- importing the irreversibility and self-nourishing quality of ingestion onto the act of obtaining'
+  - '[source] eagerness to acquire maps onto hunger and appetite -- ''hungry for success,'' ''appetite for risk,'' ''devouring opportunities'' -- importing the urgency and biological compulsion of food-seeking onto economic and social acquisition'
+  - '[source] excessive acquisition maps onto gluttony -- ''swallowing companies whole,'' ''biting off more than you can chew,'' ''a glutton for punishment'' -- importing the moral vocabulary of overconsumption onto greed and overreach'
+limits:
+  - '[source] breaks because eaten food is destroyed in the process of consumption, while most acquired things (possessions, knowledge, rights) persist intact after acquisition -- the metaphor imports a destructive consumption structure onto non-destructive obtaining'
+  - '[source] misleads by framing acquisition as an individual biological act (one mouth, one stomach), when most real-world getting involves social transactions between parties rather than solitary ingestion'
 ---
 
 ## Transfers

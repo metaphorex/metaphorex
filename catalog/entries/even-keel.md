@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - mental-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] the keel is the invisible structural timber below the waterline that determines whether a ship sits level, mapping emotional stability onto deep foundational structures (character, habits) rather than surface presentation'
+  - '[source] an even keel is the ship''s natural resting state when properly loaded, not a heroic achievement, mapping emotional health onto a baseline condition to be restored rather than an extraordinary state to be attained'
+  - '[source] a ship on an even keel still responds to waves but self-rights after each disturbance, distinguishing resilience (self-righting) from rigidity (unmoved), which maps emotional stability onto dynamic recovery rather than static immobility'
+limits:
+  - '[source] breaks because ships maintain an even keel partly through ballast -- dead weight that costs speed and cargo capacity -- but the metaphor does not acknowledge that emotional steadiness may similarly require carrying suppressed feelings or avoided risks'
+  - '[source] misleads by treating level as the unconditional ideal, when in sailing, heeling (tilting) under full sail is the price of speed -- the metaphor cannot express situations where emotional intensity is the sign of productive engagement rather than a problem to correct'
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: intimacy-is-closeness
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] maps physical proximity onto emotional connection, grounded in the bodily experience that people we trust and love are literally near us and people we distrust are kept at a distance'
+  - '[source] imports the continuous gradient of physical distance, giving intimacy a smooth scale from "distant acquaintance" through "close friend" to "intimate partner" calibrated to spatial measurement'
+  - '[source] makes relationship change feel like movement -- growing apart, coming together, drifting away -- encoding the temporal dynamics of emotional connection as spatial trajectories'
+limits:
+  - '[source] misleads because physical closeness is symmetric (if I am near you, you are near me), while emotional intimacy is often asymmetric, and the spatial metaphor has no natural way to express one-sided closeness'
+  - '[source] breaks for relationships that are intimate despite geographic distance (long-distance partnerships, epistolary friendships), since the metaphor equates proximity with connection and provides no vocabulary for intimate distance'
 ---
 
 ## Transfers

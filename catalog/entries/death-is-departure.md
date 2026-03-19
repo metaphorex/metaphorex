@@ -18,6 +18,13 @@ related:
 slug: death-is-departure
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - '[source] a traveler who departs is no longer here but is somewhere else, structurally entailing a destination and making afterlife beliefs spatially coherent'
+  - '[source] the survivor experiences departure as abandonment, mapping grief as the loss of someone who was present rather than the annihilation of a person'
+  - '[source] dying is gradual departure -- slipping away, fading -- mapping the process of death as slow withdrawal from the world of the living'
+limits:
+  - '[source] breaks because there is no traveler -- death is cessation, not relocation, but the departure metaphor preserves the person as an entity that has merely changed address'
+  - '[source] misleads because if death is departure then reunion is possible ("I''ll see you on the other side"), generating false hope that is a structural entailment of the journey frame'
 ---
 
 ## Transfers

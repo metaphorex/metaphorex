@@ -18,6 +18,13 @@ related:
 slug: conducting-research-is-solving-a-puzzle
 source_frame: puzzles-and-games
 updated: '2026-03-12'
+transfers:
+  - '[source] discrete pieces have fixed shapes that constrain where they can fit, mapping data points onto elements with inherent compatibility relationships'
+  - '[source] the completed puzzle reveals a unified picture, framing research as convergent toward a single final understanding'
+  - '[source] all pieces exist in the box from the start, implying that the evidence needed for the solution is already available and merely needs arrangement'
+limits:
+  - '[source] breaks because puzzles have a predetermined correct solution while research problems may have multiple valid interpretations or no clean solution at all'
+  - '[source] misleads because puzzle pieces do not change shape, but evidence in research is subject to reinterpretation that changes what a datum means under a new theory'
 ---
 
 ## Transfers

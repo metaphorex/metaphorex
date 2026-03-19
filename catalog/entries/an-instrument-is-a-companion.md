@@ -17,6 +17,13 @@ related:
 slug: an-instrument-is-a-companion
 source_frame: social-roles
 updated: '2026-03-14'
+transfers:
+  - '[source] a companion is chosen, carried through time, and develops a shared history with its owner, framing the musician-instrument relationship as accumulating irreplaceable mutual adaptation'
+  - '[source] companions respond differently to different people based on the relationship, importing the phenomenon that the same instrument sounds different under different players'' hands'
+  - '[source] losing a companion causes grief disproportionate to material replacement cost, framing instrument loss as relational rupture rather than property damage'
+limits:
+  - '[source] breaks because companions have reciprocal agency -- they choose to stay, respond to care, and can withdraw -- while instruments are passive objects whose "responsiveness" is projected by the player'
+  - '[source] misleads by implying the instrument has preferences about its player, when the adaptation is entirely one-directional from player to instrument'
 ---
 
 ## Transfers

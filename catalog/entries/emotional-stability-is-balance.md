@@ -20,6 +20,13 @@ related:
 slug: emotional-stability-is-balance
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] the body''s vestibular experience of maintaining equilibrium against gravity maps onto psychological composure, so that emotional health is standing upright with a stable center of gravity and emotional crisis is tipping and toppling'
+  - '[source] external events that cause emotional distress map onto forces that knock the body off balance (threw me, shook me, knocked me sideways), externalizing the cause of disturbance as a push from outside'
+  - '[source] recovery maps onto the restoration of equilibrium (regaining balance, finding footing), framing emotional healing as a return to a prior stable state rather than a transformation into something new'
+limits:
+  - '[source] breaks because the metaphor implies a single correct position (balanced, centered) and codes all deviation as dysfunction, when healthy emotional life requires range and intensity -- grief, rage, and ecstasy are not failures of balance'
+  - '[source] misleads when extended to clinical language (chemical imbalance) by suggesting depression is literally a scale tipped the wrong way, reducible to a mechanical adjustment, which oversimplifies complex psychiatric conditions'
 ---
 
 ## Transfers

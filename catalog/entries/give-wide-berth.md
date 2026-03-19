@@ -13,6 +13,13 @@ source_frame: seafaring
 applies_to:
 - social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] social avoidance maps onto the nautical calculation of anchoring far enough away that a neighboring vessel''s worst-case swing arc still leaves a safe margin, importing uncertainty about the hazard''s future range of movement as the reason for distance'
+  - '[source] distance is the only available safety measure -- you cannot control the other vessel''s behavior, only your own proximity to it -- mapping onto the social logic that avoidance acknowledges inability to change the other person''s conduct'
+  - '[source] the hazard is the other vessel''s potential range of motion, not its current position, importing the structure that you avoid someone not because of what they are doing now but because of what they might do'
+limits:
+  - '[source] breaks because nautical berth-giving is temporary (you pass the hazard and move on), while social avoidance can be permanent, and the metaphor''s transient framing trivializes the cost of severed relationships'
+  - '[source] misleads by framing avoidance as unambiguously prudent (good seamanship), when social avoidance can be cowardice, conflict avoidance, or passive aggression -- the nautical authority lent to the decision obscures its potential costs'
 ---
 
 ## Transfers

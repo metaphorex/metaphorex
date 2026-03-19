@@ -18,6 +18,13 @@ related:
 slug: mental-accounting
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] accounting assigns transactions to separate ledger accounts that are tracked independently, mapping the cognitive tendency to treat money differently depending on which mental ''account'' it belongs to'
+  - '[source] accounts have budgets that constrain spending within categories regardless of the overall balance, structuring the irrational resistance to fungibility across mental categories'
+  - '[source] closing one account and opening another resets the psychological reference point, mapping behaviors like treating a tax refund as ''found money'' separate from earned income'
+limits:
+  - '[source] formal accounting is governed by consistent rules applied across all accounts (GAAP, double-entry), but mental accounting rules are inconsistent, context-dependent, and violate the fungibility principle that formal accounting enforces'
+  - '[source] accounting ledgers are cumulative and never forget a transaction, but mental accounts are selectively maintained -- people abandon losing mental accounts to avoid confronting sunk costs'
 ---
 
 ## Transfers
