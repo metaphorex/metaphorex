@@ -1,14 +1,14 @@
 ---
 applies_to:
-- communication
-- software-programs
+- argumentation
+- narrative
+- performance
 author: agent:metaphorex-miner
 categories:
 - arts-and-culture
 - linguistics
 contributors: []
 created: '2026-03-19'
-dead: true
 grounding: established
 harness: Claude Code
 kind: metaphor
@@ -21,7 +21,7 @@ transfers:
   - '[source] callbacks create a layered temporal structure where meaning accrues across a performance: the first instance establishes the pattern, later instances reward attention and build cumulative pleasure'
   - '[source] the technique depends on shared memory between performer and audience -- a callback that the audience does not remember is just a non-sequitur, establishing that successful reuse requires a relationship, not just repetition'
 limits:
-  - '[source] breaks because comedy callbacks require precise timing and context shift (the joke must land differently the second time), while software callbacks and conversational references often succeed through exact repetition rather than recontextualization'
+  - '[source] breaks because comedy callbacks require precise timing and context shift (the joke must land differently the second time), while rhetorical and narrative callbacks often succeed through exact repetition rather than recontextualization'
   - '[source] misleads because in comedy the callback''s power diminishes if overused (the third callback is weaker than the second), while in rhetoric and branding, repetition compounds value -- the comedy model incorrectly predicts diminishing returns for all reuse'
 updated: '2026-03-19'
 ---
@@ -57,10 +57,9 @@ Key structural parallels:
   temporal structure from one without. It rewards sustained attention.
   Each callback retroactively enriches the earlier material by
   demonstrating that it was not disposable -- it was setup for
-  something later. This transfers directly to narrative design,
-  curriculum structure, and API design: elements that recur in new
-  contexts signal intentional architecture rather than accidental
-  repetition.
+  something later. This transfers to narrative design and curriculum
+  structure: elements that recur in new contexts signal intentional
+  architecture rather than accidental repetition.
 - **Context shift is essential** -- the callback is not mere
   repetition. The phrase or element must appear in a new context
   that reframes its meaning. "That's what she said" is funny the
@@ -74,14 +73,8 @@ Key structural parallels:
   performing for a crowd that arrived late, or a writer whose
   readers skip chapters, cannot use callbacks effectively. This
   transfers the structural requirement of shared context: callbacks
-  in code reviews, team standups, and running inside jokes all
+  in presentations, team rituals, and running inside jokes all
   depend on all parties having been present for the original.
-
-The term "callback" has also been adopted in software engineering
-(callback functions, callback URLs) where the structural parallel is
-thinner -- a function that is "called back" later is really just
-deferred execution, not recontextualized reference. The comedy origin
-is largely dead in the software usage.
 
 ## Limits
 
@@ -106,12 +99,12 @@ is largely dead in the software usage.
   advertising) rather than participatory. Not all callbacks are
   gifts to the audience; some are techniques for bypassing critical
   evaluation.
-- **Software "callback" has diverged entirely** -- in programming,
+- **Not the same word as software "callback"** -- in programming,
   a callback function is a function passed as an argument to be
-  executed later. The structural connection to comedy (an element
-  returns in a new context) is vestigial at best. The programming
-  usage is now a dead metaphor that shares a word but not a mapping,
-  and treating the two as related misleads about both.
+  executed later. That usage traces to telephone etymology ("calling
+  back" someone who called you), not to comedy. The two uses share a
+  word but not a conceptual lineage, and treating them as related
+  misleads about both.
 
 ## Expressions
 
@@ -121,11 +114,10 @@ is largely dead in the software usage.
   an ending echoes a beginning
 - "Running gag" -- a comedy structure built entirely on callbacks,
   where the same element recurs with escalating context shifts
-- "Easter egg" -- in software and media, a hidden callback that
-  rewards attentive users, borrowing the recognition-as-pleasure
-  mechanism from comedy
 - "Leitmotif" -- the musical equivalent, where a melodic phrase
   recurs in different harmonic and dramatic contexts
+- "Brick" -- comedy jargon for a callback placed so densely that it
+  builds a wall of interconnected references across a set
 
 ## Origin Story
 
@@ -136,11 +128,6 @@ documentation of the technique in comedy pedagogy came through Greg
 Dean's *Step by Step to Stand-Up Comedy* (1999) and Judy Carter's
 *The Comedy Bible* (2001), both of which treat the callback as a
 learnable structural device rather than an improvisational gift.
-
-The migration of "callback" into software engineering followed a
-different etymological path -- from the telephone practice of
-"calling back" someone who called you -- and the two uses share a
-word but not a conceptual lineage.
 
 ## References
 
