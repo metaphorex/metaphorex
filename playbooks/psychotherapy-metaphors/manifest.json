@@ -1,0 +1,444 @@
+{
+  "project": "psychotherapy-metaphors",
+  "project_issue": 1353,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://contextualscience.org/metaphors",
+    "https://contextualconsulting.co.uk/therapy-approaches/a-z-of-act-metaphors",
+    "https://coping.us/images/Compendium_of_ACT_Metaphors.pdf",
+    "https://dulwichcentre.com.au/articles-about-narrative-therapy/externalising/",
+    "https://www.blatner.com/adam/level2/metaphors.htm"
+  ],
+  "candidates": [
+    {
+      "slug": "passengers-on-the-bus",
+      "name": "Passengers on the Bus",
+      "kind": "metaphor",
+      "source_frame": "transportation",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT metaphor: you are the bus driver, unwanted thoughts/feelings are rowdy passengers. You can drive toward your values without obeying them. Core self-as-context intervention."
+    },
+    {
+      "slug": "quicksand",
+      "name": "Quicksand",
+      "kind": "metaphor",
+      "source_frame": "geology",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT metaphor: struggling with difficult feelings makes you sink deeper, like struggling in quicksand. Acceptance (spreading out, going still) is counter-intuitive but effective."
+    },
+    {
+      "slug": "tug-of-war-with-a-monster",
+      "name": "Tug of War with a Monster",
+      "kind": "metaphor",
+      "source_frame": "games-and-play",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT metaphor: you're in a tug-of-war with a monster (your pain) over a bottomless pit. The solution is not to pull harder but to drop the rope entirely."
+    },
+    {
+      "slug": "leaves-on-a-stream",
+      "name": "Leaves on a Stream",
+      "kind": "metaphor",
+      "source_frame": "nature",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT defusion exercise: visualize placing each thought on a leaf and watching it float downstream. Teaches non-attachment to thoughts without suppressing them."
+    },
+    {
+      "slug": "chessboard-self",
+      "name": "The Chessboard",
+      "kind": "metaphor",
+      "source_frame": "games-and-play",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT self-as-context metaphor: you are not the chess pieces (thoughts, feelings) but the board itself. The board holds all pieces without being threatened by any of them."
+    },
+    {
+      "slug": "sky-and-weather",
+      "name": "The Sky and the Weather",
+      "kind": "metaphor",
+      "source_frame": "meteorology",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT self-as-context metaphor: you are the sky, your emotions are the weather. Weather changes constantly but the sky remains. Distinguishes transient experience from stable self."
+    },
+    {
+      "slug": "unwelcome-party-guest",
+      "name": "The Unwelcome Party Guest",
+      "kind": "metaphor",
+      "source_frame": "social-dynamics",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT acceptance metaphor: difficult emotions are like uninvited guests at your party. Trying to throw them out ruins the party for everyone. Better to let them stay while you host."
+    },
+    {
+      "slug": "struggle-switch",
+      "name": "The Struggle Switch",
+      "kind": "metaphor",
+      "source_frame": "machinery",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT metaphor by Russ Harris: imagine a switch at the back of your mind. When ON, you struggle with every uncomfortable feeling, creating suffering on top of pain. Turning it OFF is acceptance."
+    },
+    {
+      "slug": "clean-pain-vs-dirty-pain",
+      "name": "Clean Pain vs Dirty Pain",
+      "kind": "mental-model",
+      "source_frame": "psychotherapy",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT distinction: clean pain is the unavoidable suffering of being human. Dirty pain is the suffering we add by struggling with clean pain (anxiety about anxiety, guilt about guilt)."
+    },
+    {
+      "slug": "mind-as-a-radio",
+      "name": "The Mind as a Radio",
+      "kind": "metaphor",
+      "source_frame": "technology",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT defusion metaphor: your mind is like a radio that plays negative commentary. You can't turn it off, but you can turn down the volume and stop taking it literally."
+    },
+    {
+      "slug": "values-compass",
+      "name": "The Values Compass",
+      "kind": "metaphor",
+      "source_frame": "navigation",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT values metaphor: values are like a compass pointing in a direction, not a destination you arrive at. You can always check your heading even when lost."
+    },
+    {
+      "slug": "dropping-the-anchor",
+      "name": "Dropping the Anchor",
+      "kind": "metaphor",
+      "source_frame": "navigation",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT grounding technique: in an emotional storm, drop an anchor. It doesn't stop the storm, but it holds you steady so you don't get swept away."
+    },
+    {
+      "slug": "choice-point",
+      "name": "The Choice Point",
+      "kind": "mental-model",
+      "source_frame": "navigation",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT framework by Russ Harris: at any moment you are at a choice point between moving toward your values or away from them. Internal experiences (thoughts, feelings) show up but don't determine the choice."
+    },
+    {
+      "slug": "finger-trap",
+      "name": "The Finger Trap",
+      "kind": "metaphor",
+      "source_frame": "games-and-play",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT acceptance metaphor: like a Chinese finger trap, pulling harder (resisting) makes you more stuck. The counter-intuitive solution is to push inward (toward the discomfort)."
+    },
+    {
+      "slug": "ball-in-a-pool",
+      "name": "Ball in a Pool",
+      "kind": "metaphor",
+      "source_frame": "physics-and-engineering",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT acceptance metaphor: pushing a beach ball underwater takes constant effort, and it pops back up violently when you let go. Suppressing emotions works the same way."
+    },
+    {
+      "slug": "demons-on-the-boat",
+      "name": "Demons on the Boat",
+      "kind": "metaphor",
+      "source_frame": "mythology-and-folklore",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT variant of passengers on the bus: demons (painful emotions) threaten you on your boat, but if you stop fighting them and sail toward your values, they lose their power."
+    },
+    {
+      "slug": "hands-as-thoughts",
+      "name": "Hands as Thoughts",
+      "kind": "metaphor",
+      "source_frame": "body-and-embodiment",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT defusion exercise: hold hands in front of face (fused with thoughts -- can't see). Slowly lower them (defusion). The thoughts are still there but no longer block your view."
+    },
+    {
+      "slug": "creative-hopelessness",
+      "name": "Creative Hopelessness",
+      "kind": "mental-model",
+      "source_frame": "psychotherapy",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT phase where the client recognizes that all their control strategies have failed. Not despair but liberation: if fighting doesn't work, maybe you can try something else entirely."
+    },
+    {
+      "slug": "externalizing-the-problem",
+      "name": "Externalizing the Problem",
+      "kind": "pattern",
+      "source_frame": "narrative",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Michael White's narrative therapy technique: 'the person is not the problem; the problem is the problem.' Separating identity from problem creates agency to resist it."
+    },
+    {
+      "slug": "re-authoring",
+      "name": "Re-Authoring",
+      "kind": "pattern",
+      "source_frame": "narrative",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Narrative therapy: the client is the author of their life story, and dominant problem-saturated narratives can be rewritten by finding and amplifying 'unique outcomes' that contradict the problem story."
+    },
+    {
+      "slug": "holding-space",
+      "name": "Holding Space",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Therapeutic stance that has migrated into coaching, management, and UX: creating a container where someone can feel without being fixed. Doing less is doing more."
+    },
+    {
+      "slug": "therapeutic-alliance",
+      "name": "The Therapeutic Alliance",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Bordin's concept: therapist and client form an alliance (military metaphor) with agreed goals, tasks, and emotional bond. Has migrated into UX (user-product alliance) and management."
+    },
+    {
+      "slug": "rupture-and-repair",
+      "name": "Rupture and Repair",
+      "kind": "metaphor",
+      "source_frame": "materials-and-construction",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Safran's concept: breakdowns in the therapeutic relationship are not failures but opportunities. A repaired alliance is stronger than one never ruptured. Has migrated into relationship coaching and team dynamics."
+    },
+    {
+      "slug": "unconditional-positive-regard",
+      "name": "Unconditional Positive Regard",
+      "kind": "mental-model",
+      "source_frame": "psychotherapy",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Rogers' concept: accepting the whole person without conditions. The metaphor is acceptance-as-sunlight -- it doesn't discriminate. Migrated into parenting, education, and management philosophy."
+    },
+    {
+      "slug": "transference",
+      "name": "Transference",
+      "kind": "metaphor",
+      "source_frame": "psychotherapy",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Freud's concept: feelings about past figures are 'transferred' onto the therapist. The spatial metaphor (transfer as movement of feelings from one vessel to another) has become a general term for misplaced emotional reactions."
+    },
+    {
+      "slug": "window-of-tolerance",
+      "name": "Window of Tolerance",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Dan Siegel's concept: a window (bounded aperture) through which you can process experience. Too much arousal pushes you above (hyperarousal), too little below (hypoarousal). Widely adopted in trauma therapy and education."
+    },
+    {
+      "slug": "felt-sense",
+      "name": "Felt Sense",
+      "kind": "mental-model",
+      "source_frame": "body-and-embodiment",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Gendlin's focusing concept: a pre-verbal bodily knowing that is more than emotion and more than thought. The body 'knows' before the mind articulates. Migrated into UX research and design thinking."
+    },
+    {
+      "slug": "the-body-keeps-the-score",
+      "name": "The Body Keeps the Score",
+      "kind": "metaphor",
+      "source_frame": "accounting",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Van der Kolk's metaphor: trauma is tallied in the body like a ledger. The body is an accounting system that records what the mind tries to forget. Has reshaped trauma treatment."
+    },
+    {
+      "slug": "inner-child",
+      "name": "The Inner Child",
+      "kind": "metaphor",
+      "source_frame": "family-and-kinship",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "The adult self contains a child-self that still carries old wounds and needs. Therapeutic work involves reparenting this inner child. Widely used in self-help, coaching, and pop psychology."
+    },
+    {
+      "slug": "shadow-work",
+      "name": "Shadow Work",
+      "kind": "metaphor",
+      "source_frame": "light-and-darkness",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Jung's concept: the shadow is the disowned part of the self, cast by the light of the persona. Integrating (not eliminating) the shadow is the work. Has migrated into leadership development."
+    },
+    {
+      "slug": "defense-mechanisms",
+      "name": "Defense Mechanisms",
+      "kind": "metaphor",
+      "source_frame": "war",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Freud's military metaphor: the ego deploys defensive fortifications (denial, projection, sublimation) against threatening impulses. The self is a fortress under siege from within."
+    },
+    {
+      "slug": "presenting-problem",
+      "name": "The Presenting Problem",
+      "kind": "metaphor",
+      "source_frame": "theater-and-performance",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Clinical term with theatrical metaphor: the problem 'presents' itself on stage, but the real issue is backstage. Distinction between manifest complaint and latent dynamics. Used in consulting and diagnostics."
+    },
+    {
+      "slug": "pendulation",
+      "name": "Pendulation",
+      "kind": "metaphor",
+      "source_frame": "physics-and-engineering",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Somatic Experiencing concept by Peter Levine: therapeutic oscillation between activation (trauma state) and resource (safety). Like a pendulum, the nervous system swings between states and finds equilibrium."
+    },
+    {
+      "slug": "titration",
+      "name": "Titration",
+      "kind": "metaphor",
+      "source_frame": "chemistry",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Somatic Experiencing: approaching trauma in small, measured doses like a chemist adding reagent drop by drop. Too much too fast overwhelms; the right amount allows processing."
+    },
+    {
+      "slug": "containment",
+      "name": "Containment",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Bion's concept: the therapist acts as a container for the client's unbearable emotions, metabolizing them and returning them in digestible form. Widely used in management (leader-as-container)."
+    },
+    {
+      "slug": "mirroring",
+      "name": "Mirroring",
+      "kind": "metaphor",
+      "source_frame": "optics-and-reflection",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Kohut's self psychology: the therapist (or parent) mirrors the client's experience back, providing the reflective surface needed for self-recognition. Migrated into coaching and active listening."
+    },
+    {
+      "slug": "scaffolding-therapeutic",
+      "name": "Scaffolding (Therapeutic)",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Vygotsky-derived concept applied to therapy: temporary support structures that enable the client to do work they cannot yet do alone. The scaffolding is removed as capacity grows."
+    },
+    {
+      "slug": "working-through",
+      "name": "Working Through",
+      "kind": "metaphor",
+      "source_frame": "manual-labor",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "llm",
+      "description": "Freud's Durcharbeitung: psychological change requires repeatedly working through (like kneading dough or working through rock) resistant material. Insight alone is not enough; the labor of repetition is required."
+    },
+    {
+      "slug": "cognitive-defusion",
+      "name": "Cognitive Defusion",
+      "kind": "metaphor",
+      "source_frame": "explosives-and-ordnance",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT core process: thoughts are 'fused' like a bomb fused to detonate. Defusion is removing the fuse -- the thought remains but loses its explosive power to control behavior."
+    },
+    {
+      "slug": "psychological-flexibility",
+      "name": "Psychological Flexibility",
+      "kind": "metaphor",
+      "source_frame": "materials-and-construction",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "ACT's central construct: the mind can be rigid (brittle, breaking under pressure) or flexible (bending without breaking). The hexaflex model maps six processes that contribute to flexibility."
+    },
+    {
+      "slug": "unique-outcomes",
+      "name": "Unique Outcomes",
+      "kind": "pattern",
+      "source_frame": "narrative",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Narrative therapy (White & Epston): moments when the problem's influence was resisted or absent. These exceptions to the dominant story become seeds for an alternative narrative."
+    },
+    {
+      "slug": "the-absent-but-implicit",
+      "name": "The Absent but Implicit",
+      "kind": "pattern",
+      "source_frame": "narrative",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Narrative therapy (White): when someone expresses pain, there is an implicit value being violated. The therapist names what is absent (the cherished value) to connect pain to meaning."
+    },
+    {
+      "slug": "double-listening",
+      "name": "Double Listening",
+      "kind": "pattern",
+      "source_frame": "narrative",
+      "target_frame": "psychotherapy",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Narrative therapy: simultaneously listening to the problem story AND the counter-story (values, skills, hopes) embedded within it. Requires hearing what is said AND what is not said."
+    }
+  ]
+}
