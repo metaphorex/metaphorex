@@ -26,14 +26,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 When a ship at anchor needed to flee immediately -- an approaching enemy,
 a sudden storm, a shifting lee shore -- the crew could cut the anchor
 cable with an axe rather than spend the time hauling the anchor up through
@@ -67,7 +59,8 @@ structure of emergency abandonment onto social and professional life:
   tactical decision -- a captain who stayed to haul anchor under enemy
   fire was a fool, not a hero. The metaphor has imported the structure
   of the act while inverting its moral valence.
-## Where It Breaks
+
+## Limits
 
 - **The original was often rational; the metaphor implies it is not** --
   a captain cutting the cable was making a calculated decision: the
@@ -97,6 +90,7 @@ structure of emergency abandonment onto social and professional life:
   reconnect. The metaphor's finality overstates the irreversibility
   of most social departures, which exist on a spectrum from temporary
   withdrawal to permanent exit.
+
 ## Expressions
 
 - "They cut and ran" -- the standard accusation of hasty, irresponsible
@@ -112,6 +106,7 @@ structure of emergency abandonment onto social and professional life:
 - "Cut your losses and run" -- a variant that makes the cost-benefit
   logic explicit, partially restoring the rationality of the original
   nautical act
+
 ## Origin Story
 
 The phrase is attested in nautical usage from the early 18th century.
