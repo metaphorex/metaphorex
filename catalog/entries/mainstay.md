@@ -5,17 +5,17 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Mainstay
 related:
 - flagship
 slug: mainstay
 source_frame: seafaring
-target_frame: physical-objects
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The mainstay was the heavy rope or cable running from the top of the
 mainmast forward to the bow of a ship. It was the single most critical
@@ -43,7 +43,7 @@ many; it was the one that prevented catastrophic structural failure.
   correct relationship. The metaphor preserves this bridging function:
   a mainstay connects what would otherwise drift apart.
 
-## Where It Breaks
+## Limits
 
 - **The original mainstay was replaceable; the metaphorical one is not**
   -- ships carried spare cordage, and a broken mainstay could be replaced
