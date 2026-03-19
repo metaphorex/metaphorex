@@ -18,7 +18,7 @@ applies_to:
 updated: '2026-03-15'
 ---
 
-## What It Brings
+## Transfers
 
 Shared bread maps onto shared life. The Latin *com* (with) + *panis*
 (bread) defines a companion as literally someone you break bread with.
@@ -52,7 +52,7 @@ Key structural parallels:
   vocabulary of togetherness in English is rooted in this single food
   metaphor.
 
-## Where It Breaks
+## Limits
 
 - **Bread assumes a specific food culture** -- the metaphor is
   Mediterranean and European. Cultures where rice, maize, or millet

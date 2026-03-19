@@ -17,7 +17,7 @@ applies_to:
 updated: '2026-03-15'
 ---
 
-## What It Brings
+## Transfers
 
 The body's eye maps onto the building's opening. Old Norse *vindauga* --
 *vindr* (wind) + *auga* (eye) -- understood a hole in a wall as an eye
@@ -50,7 +50,7 @@ Key structural parallels:
   mapping: wall-opening is body-opening. The metaphor was so natural it
   was invented twice.
 
-## Where It Breaks
+## Limits
 
 - **Wind-eyes don't close** -- the original *vindauga* was an unglazed
   opening. Glass windows, which can be opened and closed, shuttered and

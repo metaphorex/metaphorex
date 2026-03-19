@@ -25,14 +25,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 A naval cannon weighed one to three tons. Secured to the deck by heavy
 rope tackle, it was manageable. Unsecured on a rolling ship, it became
 a nightmare: a multi-ton iron cylinder sliding unpredictably across a
@@ -72,7 +64,8 @@ structural imports.
   randomness: a loose cannon is not someone pursuing a hostile agenda
   but someone whose actions cannot be predicted. The danger is not
   malice but chaos.
-## Where It Breaks
+
+## Limits
 
 - **People have intentions; cannons do not** -- a cannon rolls
   according to physics. A person described as a loose cannon is
@@ -102,6 +95,7 @@ structural imports.
   wooden deck toward your legs. The dead metaphor has been tamed
   into a mild criticism, losing the life-or-death urgency that made
   the original image so powerful.
+
 ## Expressions
 
 - "He's a loose cannon" -- an unpredictable person whose actions
@@ -115,6 +109,7 @@ structural imports.
   roll, they do not fire
 - "A cannon loose on the gun deck" -- the fuller nautical image,
   rarely used but more precise
+
 ## Origin Story
 
 The phrase originates in the age of sail, when warships carried dozens
