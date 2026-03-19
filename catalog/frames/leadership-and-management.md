@@ -1,27 +1,27 @@
 ---
-slug: leadership-and-management
+created: '2026-03-19'
 name: Leadership and Management
 related:
 - organizational-behavior
-- war
-- military-command
+- theatrical-directing
 roles:
 - leader
 - follower
+- team
 - vision
-- decision
 - delegation
+- decision
 - authority
-- morale
-- strategy
-created: '2026-03-19'
+- accountability
+slug: leadership-and-management
 updated: '2026-03-19'
 ---
 
-The practice of directing groups toward goals through decision-making,
-resource allocation, and motivation. As a target domain, leadership
-borrows heavily from military command (strategy, chain of command),
-navigation (charting a course, steering), and sports coaching (team
-building, game plans). The frame encompasses both the formal authority
-of management and the informal influence of leadership, a distinction
-that generates its own rich metaphorical vocabulary.
+The practice of directing collective effort toward outcomes. Encompasses both
+formal authority (management hierarchy, resource allocation, performance
+evaluation) and informal influence (inspiration, culture-setting, mentorship).
+As a target domain, leadership is overwhelmingly structured by spatial metaphors
+(leading from the front, top-down, bottom-up) and military metaphors (chain of
+command, strategy, deployment). The persistent tension between direct control
+and indirect influence makes it a productive target for metaphors from directing,
+gardening, coaching, and parenting.

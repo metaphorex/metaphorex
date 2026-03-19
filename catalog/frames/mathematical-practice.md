@@ -1,5 +1,5 @@
 ---
-slug: mathematical-practice
+created: '2026-03-19'
 name: Mathematical Practice
 related:
 - intellectual-inquiry
@@ -13,7 +13,7 @@ roles:
 - intuition
 - computation
 - abstraction
-created: '2026-03-19'
+slug: mathematical-practice
 updated: '2026-03-19'
 ---
 

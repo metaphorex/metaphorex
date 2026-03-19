@@ -1,25 +1,26 @@
 ---
-slug: organizational-structure
+created: '2026-03-19'
 name: Organizational Structure
 related:
-- organizational-behavior
 - architecture-and-building
+- organizational-behavior
 roles:
-- division
-- team
+- structure
+- center
+- periphery
+- boundary
 - hierarchy
 - network
-- boundary
-- interface
-- autonomy
-- coordination
-created: '2026-03-19'
+- node
+- flow
+slug: organizational-structure
 updated: '2026-03-19'
 ---
 
-The formal and informal arrangements by which organizations divide labor,
-allocate authority, and coordinate activity. As a target domain, organizational
-structure borrows from architecture (building, foundations, silos), biology
-(organisms, ecosystems, cells), and engineering (systems, modules, interfaces).
-The frame foregrounds the tension between local autonomy and global coherence --
-the same tension that drives software architecture decisions.
+The spatial and relational arrangement of roles, teams, and functions within
+an organization. As a target domain, organizational structure borrows
+extensively from architecture (silos, foundations, bridges), biology (organs,
+cells, nervous systems), and geography (centers, peripheries, territories).
+The frame foregrounds how physical layout and reporting relationships shape
+information flow, power dynamics, and emergent behavior -- the insight that
+structure is not neutral but actively produces outcomes.
