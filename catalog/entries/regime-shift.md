@@ -16,7 +16,9 @@ limits:
 - '[source] frames regime shifts as driven by slow variable accumulation crossing a threshold, but many organizational "regime shifts" are caused by discrete shocks (a key person leaving, a competitor launching) rather than gradual parameter drift'
 name: Regime Shift
 provenance: ecological-metaphors
-related: []
+related:
+- critical-mass
+- system-resilience-vs-fragility
 slug: regime-shift
 source_frame: ecology
 transfers:

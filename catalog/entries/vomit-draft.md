@@ -12,9 +12,14 @@ kind: metaphor
 limits:
 - '[source] imports the involuntary, convulsive quality of vomiting, but first-draft writing is a deliberate act that requires choosing to sit down and type -- the metaphor disguises the discipline required to produce the "effortless" expulsion'
 - '[source] frames the output as waste to be cleaned up, which can devalue the first draft''s actual content -- experienced writers know that vomit drafts often contain the best sentences in the project, buried among the mess'
+- '[source] can become an excuse for self-indulgent drafts that never mature past the first pass -- "it''s a vomit draft" functions as a shield against feedback rather than a stage in a process'
+- '[source] is tuned for narrative, comedy, and essay forms -- technical documentation, legal briefs, and formal proofs require precision from the first sentence, where unstructured expulsion followed by cleanup is less efficient than careful upfront thinking'
+- '[source] imports illness and disgust as the baseline valence for creative production, framing the material inside the writer as toxic content requiring purging rather than a constructive act of discovery'
 name: Vomit Draft
 provenance: comedy-writers-glossary
-related: []
+related:
+- creative-process-is-construction
+- creative-process-is-gardening
 slug: vomit-draft
 source_frame: biology
 transfers:

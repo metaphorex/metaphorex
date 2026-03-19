@@ -15,7 +15,8 @@ limits:
 - '[source] assumes a single line of succession -- the sous chef becomes the head chef -- but organizational deputies often occupy lateral roles with no expectation of succession, making the apprenticeship framing inappropriate'
 name: Sous Chef
 provenance: culinary-mise-en-place
-related: []
+related:
+- mise-en-place
 slug: sous-chef
 source_frame: food-and-cooking
 transfers:
