@@ -21,6 +21,13 @@ related:
 slug: ideas-are-light-sources
 source_frame: vision
 updated: '2026-03-14'
+transfers:
+  - '[source] maps luminosity onto intellectual significance, so a "brilliant" idea illuminates surrounding problems the way a bright light reveals a dark room, making previously invisible things visible'
+  - '[source] imports the inverse-square law of light, encoding the intuition that even powerful ideas lose illuminating force over distance from their original context'
+  - '[source] gives ideas a radiance structure where they cast light on nearby ideas, creating pools of clarity surrounded by shadow, mapping the selective nature of intellectual insight'
+limits:
+  - '[source] misleads by treating intellectual insight as passive emission rather than active construction -- light sources radiate automatically, but understanding requires effortful engagement from the perceiver'
+  - '[source] breaks because light reveals what already exists, while ideas often create new conceptual objects that had no prior existence to be illuminated, conflating discovery with invention'
 ---
 
 ## Transfers

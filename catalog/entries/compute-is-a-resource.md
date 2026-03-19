@@ -17,6 +17,13 @@ related:
 slug: compute-is-a-resource
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] resource extraction requires supply chains, refining infrastructure, and strategic reserves, mapping GPU manufacturing onto mineral extraction logistics'
+  - '[source] scarce resources are allocated through budgets, quotas, and market pricing, structuring compute capacity as a fungible commodity traded on spot markets'
+  - '[source] nations compete geopolitically for strategic resources, importing the vocabulary of embargoes, stockpiles, and arms races onto chip manufacturing'
+limits:
+  - '[source] breaks because compute is manufactured and expandable, not a finite geological deposit -- humanity can always build more fabs'
+  - '[source] misleads because compute does not deplete with use (a GPU runs the next job immediately), importing stock-resource scarcity logic onto a flow resource like electricity'
 ---
 
 ## Transfers

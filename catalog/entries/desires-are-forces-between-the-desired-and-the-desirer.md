@@ -21,6 +21,13 @@ related:
 slug: desires-are-forces-between-the-desired-and-the-desirer
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - '[source] the desired object exerts gravitational or magnetic pull on the desirer, with force magnitude proportional to desire intensity'
+  - '[source] self-control is a counterforce opposing the pull, mapping willpower as physical resistance in a force-dynamic agonist-antagonist structure'
+  - '[source] when multiple forces act simultaneously on the desirer, the result is felt tension -- the strain of competing desire vectors producing ambivalence'
+limits:
+  - '[source] breaks because Newton''s third law requires symmetric force (A attracts B and B attracts A equally), but desire is routinely non-reciprocal'
+  - '[source] misleads because the force metaphor places the origin of attraction in the desired object ("it draws me"), externalizing desire and deflecting responsibility from the desirer'
 ---
 
 ## Transfers

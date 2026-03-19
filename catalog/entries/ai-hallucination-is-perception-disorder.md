@@ -16,6 +16,13 @@ related:
 slug: ai-hallucination-is-perception-disorder
 source_frame: medicine
 updated: '2026-03-13'
+transfers:
+  - '[source] a hallucinating patient generates percepts without external stimulus, mapping onto a model generating assertions without grounding in retrieved evidence'
+  - '[source] psychiatric hallucinations carry subjective certainty indistinguishable from veridical perception, importing the structural problem that AI false outputs are syntactically identical to true ones'
+  - '[source] diagnosis of hallucination requires an external observer who can compare the patient''s report against reality, framing AI evaluation as requiring ground-truth comparison rather than self-assessment'
+limits:
+  - '[source] breaks because psychiatric hallucinations arise from a malfunctioning perceptual system that normally works, whereas language models have no veridical perception mode from which to deviate'
+  - '[source] misleads by implying hallucination is a pathology to be cured rather than an intrinsic property of next-token prediction operating without a world model'
 ---
 
 ## Transfers

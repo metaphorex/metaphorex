@@ -18,6 +18,13 @@ related:
 slug: importance-is-size
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] maps the perceptual salience of large objects (dominance of visual field, unavoidability, effort to manage) onto abstract significance, so important things demand attention the way large objects do'
+  - '[source] imports the physical resource logic where bigger things require more effort to move, contain, or alter, encoding the intuition that important matters are correspondingly harder to handle'
+  - '[source] gives importance a relative scale calibrated to surrounding context, so a "big deal" is big relative to its neighbors the way a large object is large relative to objects around it'
+limits:
+  - '[source] misleads by privileging visible, conspicuous significance over subtle but consequential factors -- a tiny mutation, a single vote, a minor code change can be enormously important while remaining perceptually small'
+  - '[source] breaks when importance is inversely related to size, as in precision instruments, critical code paths, or single points of failure where the smallest component carries the greatest consequence'
 ---
 
 ## Transfers

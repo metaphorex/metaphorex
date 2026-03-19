@@ -17,6 +17,13 @@ related:
 slug: intoxication-is-becoming-electrified
 source_frame: electricity
 updated: '2026-03-12'
+transfers:
+  - '[source] maps the sudden flow of electrical current through a body onto the onset of intoxication, capturing the jolt, the involuntary response, and the sense of being animated by an external energy source'
+  - '[source] imports the buzzing quality of low-level current, encoding the specific phase of intoxication where alertness increases and inhibitions drop before heavier impairment sets in'
+  - '[source] gives intoxication a sense of amplification and charge, mapping the way electrical current energizes systems onto the stimulant phase of substance effects'
+limits:
+  - '[source] misleads by emphasizing activation and energy, which captures only the early stimulant phase of most intoxicants and fails to represent the sedation, confusion, and motor impairment that follow'
+  - '[source] breaks because electrical current follows predictable physical laws (Ohms law, resistance), while intoxication effects vary enormously by substance, dosage, tolerance, and individual physiology, resisting the regularity the electrical frame implies'
 ---
 
 ## Transfers

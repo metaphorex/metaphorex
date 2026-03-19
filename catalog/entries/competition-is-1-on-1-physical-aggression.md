@@ -18,6 +18,13 @@ related:
 slug: competition-is-1-on-1-physical-aggression
 source_frame: war
 updated: '2026-03-13'
+transfers:
+  - '[source] two combatants use their own bodies in direct physical contact, with no intermediaries, weapons of mass effect, or supply chains'
+  - '[source] competitive moves land as blows whose quality is measured by impact force -- how hard they hit and whether they stagger the opponent'
+  - '[source] the contest ends when one party cannot physically continue, providing a clear dramatic knockout endpoint'
+limits:
+  - '[source] breaks because actual competition is rarely dyadic -- most markets, fields, and races involve multiple parties with shifting alliances'
+  - '[source] misleads because fistfights are symmetrical in capability while real competition thrives on asymmetry (capital vs. innovation, incumbency vs. momentum)'
 ---
 
 ## Transfers

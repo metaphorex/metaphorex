@@ -20,6 +20,13 @@ related:
 slug: argument-is-a-journey
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - '[source] a journey proceeds step by step from a starting point toward a destination, framing argument as a sequential process where each step follows from and depends on the previous one'
+  - '[source] travelers can take wrong turns, reach dead ends, and retrace their steps, importing the structure where arguments can go astray and require backtracking to recover'
+  - '[source] the journey can be followed by others who take the same path, framing argument as a public route that can be retraced and verified by independent travelers'
+limits:
+  - '[source] breaks because journeys have a single traveler moving through space, while arguments involve multiple participants who may follow different paths to the same or different conclusions'
+  - '[source] misleads by implying a single correct route from premises to conclusion, when valid arguments can take multiple independent paths to the same endpoint'
 ---
 
 ## Transfers

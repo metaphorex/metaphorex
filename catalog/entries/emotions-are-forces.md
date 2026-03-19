@@ -20,6 +20,13 @@ related:
 slug: emotions-are-forces
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - '[source] emotions act on a person the way physical forces act on bodies -- pushing, pulling, pressing, driving -- so that being in the grip of emotion is being subject to a vector quantity with magnitude and direction'
+  - '[source] emotional overwhelm maps onto being overpowered by a force that exceeds one''s capacity to resist, importing the physics of force balance where composure holds only while the restraining force exceeds the emotional force'
+  - '[source] competing emotions map onto opposing forces whose net effect determines the person''s trajectory, giving internal conflict the structure of a force diagram with resultant vectors'
+limits:
+  - '[source] breaks because physical forces are measurable, directional, and decomposable into components, while emotions resist quantification and do not combine according to vector addition -- grief and joy can coexist without canceling'
+  - '[source] misleads by making the person a passive body acted upon by external forces, obscuring the role of appraisal, interpretation, and choice in shaping emotional experience'
 ---
 
 ## Transfers

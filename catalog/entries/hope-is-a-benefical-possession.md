@@ -19,6 +19,13 @@ related:
 slug: hope-is-a-benefical-possession
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - '[source] maps hope onto an object you can hold, cling to, lose, or give away, making an intangible psychological orientation into a discrete thing subject to economics of possession'
+  - '[source] encodes the loss of hope as dispossession -- something taken from you or dropped -- giving despair the structure of an economic event rather than a mood shift'
+  - '[source] makes hope transferable between persons (giving hope, receiving hope), importing the transactional structure where one party enriches another by handing over a valued object'
+limits:
+  - '[source] misleads by treating hope as inert inventory that you either have or lack, missing the active, effortful quality of hoping -- hope in practice requires continuous regeneration, not just storage'
+  - '[source] breaks because possession implies scarcity and rivalry (if I give you my hope, I have less), while hope can be shared without diminishing the original supply'
 ---
 
 ## Transfers

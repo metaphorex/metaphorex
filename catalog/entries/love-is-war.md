@@ -19,6 +19,13 @@ related:
 slug: love-is-war
 source_frame: war
 updated: '2026-03-14'
+transfers:
+  - '[source] war involves strategic pursuit of objectives against resistance, mapping courtship as a campaign requiring tactics, persistence, and overcoming the other''s defenses'
+  - '[source] warriors ''conquer'' territory and defend positions, structuring romantic success as territorial gain and vulnerability as exposure of undefended positions'
+  - '[source] war produces winners and losers with asymmetric outcomes, mapping the power dynamics of pursuit where one party ''surrenders'' to the other'
+limits:
+  - '[source] war is inherently adversarial with each side''s gain being the other''s loss, but love at its best is cooperative with both parties benefiting simultaneously'
+  - '[source] war ends with victory, surrender, or annihilation, providing no model for the ongoing mutual maintenance that sustains long-term love'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: force-is-a-substance-directed-at-an-affected-party
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+transfers:
+  - '[source] causal force maps onto a fluid substance projected from agent to patient -- pressure is applied, force is directed, influence flows toward a target -- giving causation the structure of a stream with a source, direction, and endpoint'
+  - '[source] the affected party receives the force-substance the way a surface receives a jet of fluid -- the more substance directed, the greater the impact -- importing proportionality between the quantity of directed force and the magnitude of the effect'
+  - '[source] resistance to causation maps onto deflecting or absorbing a fluid stream: the affected party can resist, redirect, or absorb the force, giving the causal interaction a dynamic of push and counterpush'
+limits:
+  - '[source] breaks because the directed-stream model implies a single unidirectional path from cause to effect, while real causation is often bidirectional (the affected party changes the cause in return) or distributed across networks rather than flowing point-to-point'
+  - '[source] misleads by treating force as a substance that arrives from outside, obscuring cases where the affected party generates its own response internally rather than merely receiving and resisting an incoming stream'
 ---
 
 ## Transfers

@@ -12,6 +12,13 @@ related: []
 slug: excalibur
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] the artifact functions as a legitimacy test that only one person can pass -- drawing the sword reveals the rightful king -- importing the structure that authority is conferred by demonstrating a unique capability rather than by argument, election, or lineage'
+  - '[source] the test is embedded in the artifact itself (the sword resists all others), so legitimacy is self-authenticating: the successful performance is both the proof and the conferral, with no external adjudicator required'
+  - '[source] the weapon that chooses its wielder inverts the normal tool-user relationship, mapping onto situations where a role, technology, or opportunity seems to select the person rather than the reverse'
+limits:
+  - '[source] breaks because the sword''s test has exactly one correct answer (one rightful king), while real-world legitimacy is typically contested, contextual, and plural -- many people may be qualified for the same role'
+  - '[source] misleads by framing legitimacy as innate and pre-ordained (you either can draw the sword or you cannot), obscuring the role of preparation, circumstance, and institutional design in determining who succeeds at tests of fitness'
 ---
 
 ## Transfers

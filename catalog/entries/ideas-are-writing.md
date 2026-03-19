@@ -19,6 +19,13 @@ related:
 slug: ideas-are-writing
 source_frame: writing
 updated: '2026-03-12'
+transfers:
+  - '[source] maps authorship and inscription onto thinking, so ideas are composed, edited, and interpreted through conventions of literacy rather than simply perceived or grasped'
+  - '[source] imports the permanence of inscription -- written things persist beyond the writer -- encoding the intuition that ideas outlive their creators when properly recorded'
+  - '[source] gives ideas a readability gradient (clear prose vs. obscure text), mapping the craft of writing onto the communicability of thought and making clarity a literary rather than logical virtue'
+limits:
+  - '[source] misleads by tying ideas to their written expression, conflating the quality of the prose with the quality of the thought and privileging literate cultures over oral ones'
+  - '[source] breaks because written texts are fixed once published, while ideas continue to evolve in the minds of those who encounter them, violating the inscription metaphor of permanent record'
 ---
 
 ## Transfers

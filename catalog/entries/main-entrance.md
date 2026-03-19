@@ -17,6 +17,13 @@ related:
 slug: main-entrance
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - '[source] a building''s main entrance is the architecturally designated primary point of ingress, typically the most visible and best-maintained access point'
+  - '[source] the main entrance channels most foot traffic through a single controlled point, enabling monitoring, greeting, and wayfinding for visitors'
+  - '[source] buildings with a clear main entrance distinguish front-of-house (public, curated) from back-of-house (service, unpolished), mapping the separation of public APIs from internal implementation'
+limits:
+  - '[source] a building''s main entrance is spatially fixed and cannot be moved without major renovation, but a software entry point can be refactored, redirected, or multiplied at low cost'
+  - '[source] physical entrances are visible to anyone approaching the building, but software entry points may be documented or undocumented, discoverable or hidden, with no spatial analogue to architectural visibility'
 ---
 
 ## Transfers

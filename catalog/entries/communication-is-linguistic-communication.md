@@ -17,6 +17,13 @@ related:
 slug: communication-is-linguistic-communication
 source_frame: language
 updated: '2026-03-13'
+transfers:
+  - '[source] linguistic communication has discrete units (words, sentences) combined by grammatical rules, providing an analytical toolkit for any sign system'
+  - '[source] competence in a language involves fluency, vocabulary, and literacy, structuring mastery of any communicative domain as language acquisition'
+  - '[source] every utterance has a speaker with propositional intent, forcing all communicative acts into the mold of someone trying to say something'
+limits:
+  - '[source] breaks because much communication (touch, music, dance) has no propositional content reducible to sentences without fundamental loss'
+  - '[source] misleads because the linguistic model privileges explicitness and disambiguation, treating strategic ambiguity and polyvalence as communicative failure rather than communicative strategy'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: lava-flow
 source_frame: natural-phenomena
 updated: '2026-03-14'
+transfers:
+  - '[source] lava follows the path of least resistance downhill, solidifying into permanent rock that subsequent flows must route around, mapping onto legacy code that hardens in place and constrains future development'
+  - '[source] once cooled, lava cannot be reshaped without extraordinary energy (re-melting), structuring the intuition that ossified code resists refactoring'
+  - '[source] successive eruptions layer new flows atop old ones, producing geological strata where the oldest rock is buried deepest and hardest to reach'
+limits:
+  - '[source] lava flows are natural and directionless -- they have no author or intent -- whereas legacy code was written by people making deliberate (if now-forgotten) design choices'
+  - '[source] geological lava is chemically homogeneous within a single flow, while legacy code layers may use entirely different languages, frameworks, and paradigms'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: emotion-is-motion
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] the transition from emotional neutrality to emotional engagement maps onto the transition from physical stillness to physical movement, with an external mover setting the person in motion'
+  - '[source] emotional intensity maps onto speed and force of motion -- mild emotions are gentle stirrings while extreme emotions are being hurled, thrown, or swept away -- preserving the proportional structure of magnitude'
+  - '[source] loss of emotional control maps onto loss of directional control, with the composed person moving steadily or standing still and the overwhelmed person being flung erratically without direction'
+limits:
+  - '[source] breaks because motion has direction and destination while most emotional experiences do not -- grief does not arrive somewhere, joy does not have a trajectory -- so the metaphor borrows dynamism while discarding teleology'
+  - '[source] misleads by treating all emotions as reactive (being moved by an external force), leaving no apparatus for internally generated emotions like spontaneous sadness or unprompted creative excitement'
 ---
 
 ## Transfers

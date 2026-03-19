@@ -18,6 +18,13 @@ related:
 slug: form-is-motion
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] static spatial form is described as the trajectory of an imagined moving entity -- a road goes from Paris to Lyon, a fence runs along the boundary, a mountain range extends north to south -- mapping the shape of objects onto the paths a traveler would trace along them'
+  - '[source] the particular form of a static thing is expressed as the manner of the imagined motion -- a river winds, a path zigzags, a coastline curves -- importing the vocabulary of how bodies move to describe how shapes look'
+  - '[source] spatial boundaries are given temporal structure: a trail starts at the parking lot and ends at the summit, importing a journey''s beginning and end onto a static configuration that has no inherent starting point'
+limits:
+  - '[source] breaks because the imagined direction of motion is arbitrary -- a road ''goes'' from Paris to Lyon equally well as it ''goes'' from Lyon to Paris -- but the metaphor encourages speakers to assign a privileged direction to inherently undirected spatial forms'
+  - '[source] misleads by animating static objects, which can import intentionality where none exists -- ''the river seeks the sea'' personifies a physical process, making gravity-driven flow sound purposeful'
 ---
 
 ## Transfers

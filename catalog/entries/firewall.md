@@ -14,6 +14,13 @@ related: []
 slug: firewall
 source_frame: architecture-and-building
 updated: '2026-03-10'
+transfers:
+  - '[source] a fireproof wall divides a building into zones so that fire on one side cannot reach the other, mapping network security onto binary spatial separation where the barrier creates a safe side and a danger side with no intermediate state'
+  - '[source] the wall is passive and permanent -- it does not decide what to block but blocks everything by material composition -- mapping onto the original concept of network firewalls as static boundary defenses that separate trusted from untrusted networks'
+  - '[source] breach of the firewall is catastrophic: once fire crosses the wall, the protected zone is fully exposed, importing the binary failure mode where the barrier either holds completely or fails completely'
+limits:
+  - '[source] breaks because a physical firewall blocks everything (all fire, all heat), while network firewalls must selectively permit traffic, making them more like guarded gates than solid walls -- the metaphor obscures the complexity of rule-based filtering'
+  - '[source] misleads by implying that threats are exclusively external (fire on the other side of the wall), when many network security failures originate from inside the perimeter -- the wall model has no apparatus for insider threats'
 ---
 
 ## Transfers

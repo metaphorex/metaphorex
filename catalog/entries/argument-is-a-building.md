@@ -19,6 +19,13 @@ related:
 slug: argument-is-a-building
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - '[source] a building requires a foundation laid before walls can rise, framing argument construction as requiring premises established before conclusions can be supported'
+  - '[source] structural loads must be distributed through load-bearing elements to the foundation, importing the insight that each claim in an argument must connect to supporting evidence through a traceable chain'
+  - '[source] removing a load-bearing wall collapses the structure, framing certain premises as non-negotiable supports whose refutation destroys the entire argument'
+limits:
+  - '[source] breaks because buildings are static structures that do not respond to occupants, while arguments are dynamic exchanges where premises can be revised mid-construction without starting over'
+  - '[source] misleads by implying arguments have a single correct architecture, when the same conclusion can be supported by multiple independent structural designs'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ related:
 slug: coherent-is-whole
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] a whole physical object has all parts present and properly connected, with no gaps or missing pieces that would compromise function'
+  - '[source] fragmentation into pieces destroys the object''s function, making breakage the source-domain analogue of logical inconsistency'
+  - '[source] holes in a physical structure weaken load-bearing capacity, making omissions feel as structurally threatening as contradictions'
+limits:
+  - '[source] breaks because coherence is not truth -- a perfectly whole object can be useless, and conspiracy theories cohere beautifully'
+  - '[source] misleads because productive intellectual tensions like dialectics get treated as cracks that need repair rather than features that generate power'
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: difficulties-are-burdens
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] a heavy physical load produces muscular strain, impeded movement, and progressive fatigue, mapping the felt experience of sustained difficulty'
+  - '[source] multiple heavy objects accumulate weight until the total exceeds load-bearing capacity, mapping the overwhelming effect of simultaneous problems'
+  - '[source] setting down a heavy object produces immediate felt relief -- lighter, freer, capable of movement again -- mapping problem resolution as unburdening'
+limits:
+  - '[source] breaks because burdens are inert masses, but many real difficulties are active agents that change, adapt, and resist (an adversary, a progressing disease)'
+  - '[source] misleads because burdens are carried by individual bodies, making it natural to ask "who carries this?" rather than "why does this burden exist?" -- individualizing structural problems'
 ---
 
 ## Transfers

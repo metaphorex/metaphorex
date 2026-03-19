@@ -16,6 +16,13 @@ related:
 slug: compliance-is-tightness
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] physical bonds and restraints limit the range of motion available, mapping degree of enforcement onto degree of physical constraint'
+  - '[source] tightness can be self-applied (self-discipline, self-restraint) extending the frame from external authority to internal self-binding'
+  - '[source] loosening a bond is a continuous action with proportional effect, providing a gradient from rigid constraint to total slack'
+limits:
+  - '[source] breaks because tightness frames all compliance as restriction, with no vocabulary for voluntary alignment where rules match the person''s own values'
+  - '[source] misleads because the metaphor suggests looseness is the natural default state, importing a Hobbesian assumption that people deviate without external binding'
 ---
 
 ## Transfers

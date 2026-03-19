@@ -21,6 +21,13 @@ related:
 slug: ideas-are-resources
 source_frame: economics
 updated: '2026-03-14'
+transfers:
+  - '[source] maps scarcity economics onto intellectual life, so ideas can be hoarded, depleted, wasted, or conserved, importing the management logic of finite resource pools'
+  - '[source] imports the extraction metaphor so ideas are "mined" from experience or data, encoding the intuition that intellectual raw material exists in the world and must be found and processed'
+  - '[source] gives ideas a depletion trajectory where overuse drains their explanatory power, mapping resource exhaustion onto the diminishing returns of a framework applied too broadly'
+limits:
+  - '[source] misleads by treating ideas as non-renewable, when ideas are the paradigmatic non-rivalrous good -- using an idea does not consume it, and sharing it creates more rather than less'
+  - '[source] breaks because resource management assumes fungibility (one barrel of oil substitutes for another), while ideas are qualitatively distinct and cannot be meaningfully aggregated into a stockpile'
 ---
 
 ## Transfers

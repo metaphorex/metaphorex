@@ -21,6 +21,13 @@ related:
 slug: causation-is-control-over-an-entity-relative-to-a-location
 source_frame: governance
 updated: '2026-03-17'
+transfers:
+  - '[source] controlling an entity''s position relative to a location means the cause moves the effect to or from a place, framing causation as spatially relocating a patient'
+  - '[source] the controller determines both direction and destination of movement, importing the structure where the cause specifies not just that change occurs but where the effect ends up'
+  - '[source] arrival at the location constitutes the effect being fully realized, framing causal completion as reaching a destination rather than undergoing a continuous process'
+limits:
+  - '[source] breaks because spatial relocation has a single dimension of change (position), while many causal processes transform the entity''s nature rather than merely moving it'
+  - '[source] misleads by implying the entity remains unchanged during transit, when most causal processes alter the patient as part of producing the effect'
 ---
 
 ## Transfers

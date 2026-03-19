@@ -15,6 +15,13 @@ related:
 slug: c-string
 source_frame: manufacturing
 updated: '2026-03-17'
+transfers:
+  - '[source] a string of beads has a definite first-to-last linear order determined by their position on a continuous thread, framing character sequences as one-dimensional arrangements where position is identity'
+  - '[source] the string ends where the thread is knotted, and the knot is not a bead, framing the null terminator as a boundary marker that belongs to the string''s structure but not its content'
+  - '[source] strings can be tied end-to-end to form a longer string, framing concatenation as a physical joining operation that preserves the order of both originals'
+limits:
+  - '[source] breaks because a physical string cannot extend beyond its thread''s length, while a C string can overwrite past its allocated buffer, exploiting the gap between the metaphor''s bounded intuition and memory''s unbounded addressability'
+  - '[source] misleads by implying strings are self-contained objects, when C strings are conventions imposed on raw memory with no runtime enforcement of their boundaries'
 ---
 
 ## Transfers

@@ -6,6 +6,7 @@ categories:
 - ai-discourse
 - organizational-behavior
 contributors: []
+harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: AI Is an Intern
@@ -16,6 +17,13 @@ related:
 slug: ai-is-an-intern
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - '[source] an intern produces work that must be reviewed before it can be trusted, importing a mandatory supervision structure where AI output requires human verification'
+  - '[source] interns are eager, fast, and confident in ways that occasionally mask incompetence, framing AI''s fluent but sometimes wrong outputs as a recognizable organizational pattern'
+  - '[source] the value of an intern depends heavily on the quality of the tasks delegated and the feedback provided, importing the insight that AI usefulness is a function of prompt design and human oversight quality'
+limits:
+  - '[source] breaks because interns learn from correction and improve over a tenure, while a deployed AI model does not update from individual user feedback within a session'
+  - '[source] misleads by implying the AI will eventually graduate to unsupervised work, when the structural need for verification does not diminish with use'
 ---
 
 ## Transfers

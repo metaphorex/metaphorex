@@ -18,6 +18,13 @@ related:
 slug: harm-is-causing-functional-objects-to-be-nonfunctional
 source_frame: manufacturing
 updated: '2026-03-12'
+transfers:
+  - '[source] maps harm onto the transition from working to broken, importing the manufacturing assumption that entities have a defined functional state and departure from it constitutes damage'
+  - '[source] provides a severity gradient from minor impairment (dented, scratched) to total destruction (smashed, obliterated), calibrated to physical artifact damage'
+  - '[source] makes recovery into repair, importing the need for skilled intervention, spare parts, and time on the workbench -- and the possibility that some damage is beyond repair'
+limits:
+  - '[source] misleads by assuming a factory-specification state of proper function, pathologizing any deviation as damage rather than variation'
+  - '[source] breaks because broken objects do not suffer or feel their breakage, stripping the experiential dimension from harm and reducing it to a mechanical problem'
 ---
 
 ## Transfers

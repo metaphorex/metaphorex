@@ -18,6 +18,13 @@ related:
 slug: darkness-is-a-solid
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - '[source] solid matter has density, thickness, and resistance to penetration, mapping very dark environments as substances that impede both movement and perception'
+  - '[source] cutting or piercing a solid requires a blade or projectile, framing light beams as instruments that cleave through resistant darkness'
+  - '[source] solid substances exert weight and pressure, mapping the psychological experience of deep darkness as physically oppressive and heavy'
+limits:
+  - '[source] breaks because darkness is the absence of photons, not the presence of matter -- the metaphor reifies an absence into a substance'
+  - '[source] misleads because if darkness is solid then illumination must be violent (cutting, piercing, shattering), framing understanding as an aggressive act rather than gradual dawning'
 ---
 
 ## Transfers

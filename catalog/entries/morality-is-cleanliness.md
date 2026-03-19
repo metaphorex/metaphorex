@@ -19,6 +19,13 @@ related:
 slug: morality-is-cleanliness
 source_frame: cleanliness
 updated: '2026-03-13'
+transfers:
+  - '[source] dirt is matter out of place that contaminates by contact, mapping the experience of immoral acts as pollutants that spread to whatever they touch'
+  - '[source] cleaning requires active effort and specific agents (soap, water), structuring moral restoration as a process requiring deliberate purification rituals (confession, atonement, punishment)'
+  - '[source] contamination can be invisible -- surfaces look clean but harbor pathogens -- mapping the anxiety that hidden sins persist even when no one can detect them'
+limits:
+  - '[source] physical cleanliness is binary and objective (surfaces are contaminated or sterile), but moral status is a matter of degree, context, and disputed judgment'
+  - '[source] cleaning removes the actual contaminant and restores the original state, but moral ''cleansing'' does not undo the harm done -- it changes the moral agent''s status without reversing consequences'
 ---
 
 ## Transfers

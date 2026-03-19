@@ -17,6 +17,13 @@ related:
 slug: network-port
 source_frame: travel
 updated: '2026-03-14'
+transfers:
+  - '[source] a port is a designated place where vessels dock, cargo is loaded, and customs inspection occurs before goods enter or leave a territory, mapping network ports as controlled entry points where data is checked and routed'
+  - '[source] ports are numbered and specialized -- different wharves handle different types of cargo -- mapping the convention of assigning specific port numbers to specific protocols (80 for HTTP, 443 for HTTPS)'
+  - '[source] a port can be open (accepting ships) or closed (denying entry), mapping the binary access control of network port states in firewall configurations'
+limits:
+  - '[source] physical ports are geographically fixed and expensive to build, creating natural scarcity, but network ports are logical abstractions that can be created in unlimited numbers at zero marginal cost'
+  - '[source] a physical port''s capacity is limited by dock space and handling speed (ships queue), but network ports multiplex thousands of simultaneous connections with no physical queuing constraint'
 ---
 
 ## Transfers

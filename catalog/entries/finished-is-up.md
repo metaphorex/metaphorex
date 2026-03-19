@@ -19,6 +19,13 @@ related:
 slug: finished-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] completion maps onto upward spatial position -- things wrap up, time is up, the game is up -- grounded in the embodied experience that physical activities often end with an upward gesture (standing up from a task, raising hands when done)'
+  - '[source] being nearly finished maps onto being near the top -- almost up, coming up to the deadline -- importing the vertical metaphor''s sense that completion is a summit approached from below'
+  - '[source] the transition from unfinished to finished maps onto upward movement, so that progress toward completion is ascent and incomplete work is still below the finish line'
+limits:
+  - '[source] breaks because ''up'' also means more, better, and continuing (keeping it up, ramping up), creating direct contradictions with finished-is-up when completion means cessation rather than achievement'
+  - '[source] misleads by importing the irreversibility of reaching a summit, when many ''finished'' states are temporary or reversible -- a project can be ''wrapped up'' and then reopened, but a climber at the top has definitively arrived'
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: interaction-between-progress-and-external-events-affecting
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] maps the reciprocal dynamic between a moving agent and environmental forces, where progress itself changes the force landscape and external forces redirect the trajectory of progress'
+  - '[source] imports the feedback-loop structure from physical dynamics, so external events do not merely accelerate or retard progress but alter the conditions that determine what counts as forward'
+  - '[source] distinguishes itself from simple force-on-object models by encoding mutual modification -- the agent changes the environment and the environment changes the agent in an ongoing interaction'
+limits:
+  - '[source] misleads by suggesting a bilateral symmetry between agent and environment, when in practice external forces often overwhelm individual progress without the agent having any reciprocal effect'
+  - '[source] breaks for situations where progress and external events are genuinely independent, since the metaphor assumes coupling and cannot represent contexts where the two variables are unrelated'
 ---
 
 ## Transfers

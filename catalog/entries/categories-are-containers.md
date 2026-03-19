@@ -7,6 +7,7 @@ categories:
 - linguistics
 - philosophy
 contributors: []
+harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: Categories Are Containers
@@ -17,6 +18,13 @@ related:
 slug: categories-are-containers
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] a container has an interior, an exterior, and a boundary surface that separates them, framing categorization as placing items definitively inside or outside a bounded region'
+  - '[source] an object is either inside a container or not -- it cannot be partially inside -- importing the classical logic of category membership as binary and determinate'
+  - '[source] containers can be nested inside larger containers, framing taxonomic hierarchy as spatial nesting where subcategories are literally contained within their parent categories'
+limits:
+  - '[source] breaks because many real categories have graded membership (a penguin is a less prototypical bird than a robin), while containers enforce binary in-or-out that cannot represent typicality gradients'
+  - '[source] misleads by implying category boundaries are sharp and observer-independent, when category membership is often context-dependent, culturally variable, and contested at the margins'
 ---
 
 ## Transfers

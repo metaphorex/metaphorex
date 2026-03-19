@@ -15,6 +15,13 @@ related:
 slug: golem
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] the golem obeys commands with absolute literalness -- it has immense power but no judgment, executing instructions exactly as given regardless of the consequences the creator intended to avoid -- mapping onto systems that follow specifications precisely while violating their spirit'
+  - '[source] the golem is animated by inscribing a word (emet, truth) and deactivated by erasing a letter (met, death), importing the structure that the gap between functioning and catastrophe is a single-character change in the controlling instructions'
+  - '[source] the creator''s relationship to the golem is one of escalating loss of control: the golem grows more powerful and more dangerous as it follows its instructions more thoroughly, mapping onto systems whose faithful execution of their programming produces unintended emergent harms'
+limits:
+  - '[source] breaks because the golem has no internal state or learning -- it does not adapt, generalize, or develop goals beyond the inscribed command -- while the modern systems it is most often mapped onto (AI, bureaucracies) do learn and develop emergent objectives'
+  - '[source] misleads by implying that the solution is as simple as erasing a letter (deactivating the system), when real complex systems cannot be turned off by a single control action and typically resist shutdown through institutional, economic, or technical lock-in'
 ---
 
 ## Transfers
