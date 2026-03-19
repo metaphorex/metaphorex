@@ -48,24 +48,30 @@ transform raw mining output into clean, validated content.
 1. Query: `gh pr list -R metaphorex/metaphorex --label needs-smelting --limit 2`
 2. For each PR:
    a. Remove `needs-smelting` label, add `smelting` label
-   b. Clone the PR branch
-   c. For each entry file in the PR diff:
+   b. Get the PR diff: `gh pr diff <N> -R metaphorex/metaphorex`
+      Do NOT clone the repo. Shallow clones (`--depth 1`) miss commits and
+      cause false positives. Use `gh pr diff` to see exactly what GitHub shows.
+   c. To read a full file from the PR branch, use:
+      `gh api repos/metaphorex/metaphorex/contents/<path>?ref=<branch> --jq .content | base64 -d`
+   d. For each entry file in the PR diff:
       - Verify slug matches filename
       - Verify `author` uses `agent:name` format (not bare `name`)
       - Verify `kind` is one of: metaphor, pattern, archetype,
         paradigm, mental-model
       - Verify `harness` field is present
       - Verify all required body sections exist and are non-empty
-   d. Verify PR title matches convention: `Add entries: <project> batch N (M entries)`
-   e. Verify PR body lists all entry slugs and `Closes #X, #Y, ...`
+   e. Verify PR title matches convention: `Add entries: <project> batch N (M entries)`
+   f. Verify PR body lists all entry slugs and `Closes #X, #Y, ...`
       for every sub-issue in the batch
-   f. Run `uv run scripts/validate.py validate`
-   g. If issues found: push fixup commits to the PR branch
-   h. If all fixed: remove `smelting`, add `needs-assay`
-   i. If unfixable (e.g., missing frame that doesn't exist, broken entry
+   g. To run validation, check out the PR branch:
+      `gh pr checkout <N>`
+      then run `uv run scripts/validate.py validate`
+   h. If issues found: push fixup commits to the PR branch
+   i. If all fixed: remove `smelting`, add `needs-assay`
+   j. If unfixable (e.g., missing frame that doesn't exist, broken entry
       structure): remove `smelting`, add `needs-miner-fix`, post comment
       explaining the specific error
-   j. Replace the PR's Test Plan section with a validation summary:
+   k. Replace the PR's Test Plan section with a validation summary:
       ```
       ## Validation
       ✓ `uv run scripts/validate.py` — 0 errors
