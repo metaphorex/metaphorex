@@ -18,6 +18,13 @@ related:
 slug: external-appearance-is-a-cover
 source_frame: containers
 updated: '2026-03-12'
+transfers:
+  - '[source] the visible surface of a person or thing functions as a removable covering over a hidden interior -- what you see is a cover for what lies beneath -- importing the two-layer ontology of containers where outside and inside can differ'
+  - '[source] deception maps onto covering: to disguise is to cover, to reveal is to uncover, and truth is what lies beneath the surface, giving epistemology the structure of peeling layers off a container'
+  - '[source] judging by appearances maps onto evaluating a container by its wrapping, which the metaphor frames as unreliable because covers can be changed, decorated, or faked independently of what they contain'
+limits:
+  - '[source] breaks because covers are separable from what they cover (you can remove a lid), but appearance is not separable from the thing that appears -- a person''s face is not a mask placed over a ''real'' face underneath'
+  - '[source] misleads by presupposing that there is always a hidden interior that differs from the visible surface, which can foster paranoid interpretive habits even when appearance and reality genuinely coincide'
 ---
 
 ## Transfers

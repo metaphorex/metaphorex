@@ -16,6 +16,13 @@ related:
 slug: golden-hammer
 source_frame: tool-use
 updated: '2026-03-14'
+transfers:
+  - '[source] the tool is not merely familiar but prized -- golden, beautiful, invested with personal identity -- importing the structure that attachment to a tool is emotional rather than rational, and that the hammer''s beauty makes the wielder unwilling to set it aside'
+  - '[source] the nail illusion maps onto confirmation bias: the hammer-holder sees nails everywhere because the hammer is the only instrument available, importing the perceptual distortion where the tool you hold determines the problems you perceive'
+  - '[source] the hammer''s force is indiscriminate -- it can only strike -- mapping onto the antipattern where a familiar technology is applied with excessive force to problems that require precision, delicacy, or a fundamentally different approach'
+limits:
+  - '[source] breaks because a physical golden hammer is recognizably inappropriate for non-nail tasks (you would not use a hammer to paint), while software golden hammers often produce results that appear adequate, hiding the mismatch behind working-but-suboptimal implementations'
+  - '[source] misleads by framing the problem as individual attachment (one person''s favorite tool), when golden hammer syndrome is often institutional: an entire organization standardizes on a technology and then applies it everywhere regardless of fit'
 ---
 
 ## Transfers

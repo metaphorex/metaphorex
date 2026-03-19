@@ -16,6 +16,13 @@ related:
 slug: foundation-model-is-a-foundation
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - '[source] the architectural foundation bears the weight of everything built above it and is the first thing laid and the last thing replaced, mapping onto the ML structure where a pre-trained model supports all downstream applications and is prohibitively expensive to replace once the ecosystem is built on it'
+  - '[source] cracks in a foundation propagate upward into every structure built upon it, mapping onto the way biases, errors, or limitations in a foundation model propagate into every fine-tuned application and downstream product'
+  - '[source] a foundation constrains what can be built above it -- you cannot build a skyscraper on a cottage foundation -- mapping onto the way a model''s architecture, training data, and capabilities set hard limits on what downstream applications are possible'
+limits:
+  - '[source] breaks because architectural foundations are passive and inert, while foundation models actively generate outputs, make decisions, and exhibit emergent behaviors that no building foundation ever does'
+  - '[source] misleads by importing the permanence and singularity of building foundations (one foundation per building), when the ML ecosystem can and does swap foundation models, run multiple in parallel, and ensemble them -- the architectural metaphor makes lock-in seem more inevitable than it is'
 ---
 
 ## Transfers

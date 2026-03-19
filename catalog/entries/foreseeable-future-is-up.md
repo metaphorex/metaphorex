@@ -19,6 +19,13 @@ related:
 slug: foreseeable-future-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] events that are approaching in time are spatially above and ahead -- ''coming up next,'' ''what''s up ahead,'' ''the upcoming election'' -- mapping temporal proximity onto a vertical-and-forward position grounded in the embodied experience of seeing what is in front of and above you'
+  - '[source] the foreseeable future maps onto the visible horizon ahead and above, so that events beyond the foreseeable are below the horizon and invisible, importing the visual structure of line-of-sight as the limit of temporal prediction'
+  - '[source] the transition from future to present maps onto descent: upcoming events ''come down to'' the present moment, and deadlines ''bear down'' on you, importing a gravitational logic where the future falls toward you'
+limits:
+  - '[source] breaks because ''up'' also means positive (GOOD IS UP) and more (MORE IS UP), creating confusions when upcoming events are negative -- an ''upcoming crisis'' is spatially up but evaluatively down, producing incoherence between the vertical metaphors'
+  - '[source] misleads by importing the visual metaphor''s assumption that the future is seeable (foreseeable = visually accessible), which naturalizes prediction and makes unpredictable events feel like failures of observation rather than inherent uncertainty'
 ---
 
 ## Transfers

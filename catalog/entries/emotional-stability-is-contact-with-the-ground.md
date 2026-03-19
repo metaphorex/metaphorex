@@ -19,6 +19,13 @@ related:
 slug: emotional-stability-is-contact-with-the-ground
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] emotional stability maps onto the body''s relationship to the surface beneath it -- feet planted on solid earth -- making stability a relational property (contact with something firm) rather than an internal property (center of gravity)'
+  - '[source] emotional upheaval maps onto geological disruption (earth-shattering, foundations shaken, world crumbled), so that catastrophic life events are disasters that destroy the very surface a person stands on'
+  - '[source] emotional support from others maps onto providing solid ground to stand on (she was his rock, the community provided solid ground), making support feel structural and foundational rather than merely comforting'
+limits:
+  - '[source] breaks because the metaphor treats the ground as inherently safe and stable, but physical ground can be quicksand, a fault line, or thin ice -- there is limited vocabulary for the person who is stably grounded in something toxic'
+  - '[source] misleads by coding all separation from the ground as pathological (floating, unmoored), when states of creative absorption, spiritual transcendence, and joyful abandon are experienced as positive forms of being airborne'
 ---
 
 ## Transfers

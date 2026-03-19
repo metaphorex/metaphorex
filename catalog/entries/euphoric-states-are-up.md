@@ -19,6 +19,13 @@ related:
 slug: euphoric-states-are-up
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] euphoria, ecstasy, and elation map onto elevated spatial position -- being on a high, on top of the world, on cloud nine -- extending the general HAPPY IS UP orientation to its extreme by equating the most intense positive states with the highest altitudes'
+  - '[source] the come-down from euphoria maps onto descent from height, importing the physics that what goes up must come down and that the higher the peak, the longer and more disorienting the fall'
+  - '[source] drug-induced euphoria inherits the vertical schema (getting high, being up), fusing chemical and spatial elevation so thoroughly that ''high'' has become the standard term for intoxicated euphoria'
+limits:
+  - '[source] breaks because the metaphor treats extreme elevation as purely positive, but altitude in the source domain brings danger (thin air, vertigo, falls) -- the mapping selectively imports the view-from-above pleasure while suppressing the risks of extreme height'
+  - '[source] misleads by making the descent from euphoria seem like a spatial fall rather than a neurochemical process, which can frame normal emotional baseline as a ''low'' rather than a healthy resting state'
 ---
 
 ## Transfers

@@ -16,6 +16,13 @@ related:
 slug: god-object
 source_frame: religion
 updated: '2026-03-14'
+transfers:
+  - '[source] a monotheistic deity is omniscient (knows everything), omnipotent (can do everything), and omnipresent (involved in everything), mapping onto a software class that has too many responsibilities, knows too much about other components, and is coupled to everything in the system'
+  - '[source] the theological problem of divine omnipotence (can God create a stone so heavy He cannot lift it?) maps onto the engineering problem of a class so central that any change to it risks breaking the entire system -- the very power that makes it useful makes it impossible to modify safely'
+  - '[source] monotheism''s single point of authority maps onto the architectural antipattern of a single point of failure: everything depends on the god object, so its failure is system-wide, just as the absence of a monotheistic God would collapse the cosmology'
+limits:
+  - '[source] breaks because a deity''s omniscience is a feature (comprehensive knowledge is what makes God effective), while a software object''s omniscience is a defect (coupling to everything is what makes it fragile) -- the metaphor inverts the valence of the defining property'
+  - '[source] misleads by implying that the solution is ''atheism'' (removing the god object entirely), when the real engineering fix is distributing responsibilities across multiple smaller objects -- the theological frame has no vocabulary for polytheistic refactoring'
 ---
 
 ## Transfers
