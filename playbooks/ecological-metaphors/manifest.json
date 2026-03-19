@@ -1,0 +1,319 @@
+{
+  "project": "ecological-metaphors",
+  "project_issue": 1352,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://en.wikipedia.org/wiki/Glossary_of_ecology",
+    "https://en.wikipedia.org/wiki/Outline_of_ecology",
+    "https://www.kokkonuts.org/wp-content/uploads/Olson-et-al.-2019.pdf",
+    "https://link.springer.com/article/10.1023/A:1011910014900",
+    "https://www.resalliance.org/adaptive-cycle",
+    "https://www.resalliance.org/panarchy"
+  ],
+  "already_in_catalog": [
+    {
+      "slug": "the-commons",
+      "note": "Covers tragedy of the commons and Ostrom's governance. Skip."
+    },
+    {
+      "slug": "system-resilience-vs-fragility",
+      "note": "Covers Holling resilience theory from the Munger/Taleb angle. Ecological-resilience entry should cross-reference but not duplicate."
+    },
+    {
+      "slug": "niche-specialization",
+      "note": "Covers ecological niche as business mental model. Ecological-niche entry should focus on the metaphor's life in ecology itself and its migration critique."
+    }
+  ],
+  "candidates": [
+    {
+      "slug": "keystone-species",
+      "name": "Keystone Species",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Paine (1969) coined for intertidal starfish. Migrated to business (keystone firms in platform ecosystems), community organizing (keystone community members), and software (keystone dependencies). The metaphor imports disproportionate structural importance: remove the keystone and the arch collapses."
+    },
+    {
+      "slug": "tipping-point",
+      "name": "Tipping Point",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "social-dynamics",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Ecological regime shifts where gradual change produces sudden, irreversible state transitions. Gladwell popularized for social epidemics. Now load-bearing in climate discourse (ice sheet tipping points), politics (electoral tipping points), and technology adoption (market tipping points). The metaphor imports threshold nonlinearity and irreversibility."
+    },
+    {
+      "slug": "ecosystem-as-metaphor",
+      "name": "Ecosystem",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "economics",
+      "categories": ["biology-and-ecology", "organizational-behavior"],
+      "source": "archive",
+      "description": "Tansley (1935) coined for interacting biotic and abiotic components. Now the dominant metaphor for technology platforms (startup ecosystem, innovation ecosystem, developer ecosystem). James Moore (1993) formalized 'business ecosystem.' The metaphor imports interdependence and co-evolution but often drops competition, predation, and collapse."
+    },
+    {
+      "slug": "invasive-species-as-metaphor",
+      "name": "Invasive Species",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "social-dynamics",
+      "categories": ["biology-and-ecology", "social-dynamics"],
+      "source": "archive",
+      "description": "Ecology's most politically contested metaphor. Military language (invasion, alien, colonization) maps onto immigration, cultural change, and market disruption. Larson (2005) and Subramaniam critique the xenophobic resonance. Productive opposed pair: invasion biology vs. novel ecosystems theory."
+    },
+    {
+      "slug": "carrying-capacity",
+      "name": "Carrying Capacity",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "economics",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Maximum population an environment can sustain indefinitely. Migrated to urban planning (city carrying capacity), business (market carrying capacity), and sustainability discourse. The metaphor imports hard limits and overshoot-collapse dynamics, but real carrying capacities are dynamic, not fixed."
+    },
+    {
+      "slug": "food-chain",
+      "name": "Food Chain / Food Web",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "social-dynamics"],
+      "source": "archive",
+      "description": "Elton (1927) formalized trophic levels. 'Food chain' as social hierarchy metaphor ('top of the food chain,' 'bottom of the food chain') imports vertical power ordering. Food web (interconnected, non-linear) is more ecologically accurate but less metaphorically productive -- people prefer the chain's simplicity."
+    },
+    {
+      "slug": "ecological-succession",
+      "name": "Ecological Succession",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Predictable sequence from pioneer species through seral stages to climax community. Maps onto industry maturation (startups as pioneers, incumbents as climax species), urban development, and organizational aging. Clements vs. Gleason debate (deterministic vs. stochastic succession) mirrors strategy debates."
+    },
+    {
+      "slug": "pioneer-species",
+      "name": "Pioneer Species",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "economics",
+      "categories": ["biology-and-ecology", "organizational-behavior"],
+      "source": "archive",
+      "description": "First colonizers of disturbed or barren ground -- fast-growing, opportunistic, low-investment. Maps onto first-mover startups, early adopters, and frontier settlers. The metaphor imports both the advantage (no competition) and the fate (pioneers get displaced by later, more competitive species)."
+    },
+    {
+      "slug": "apex-predator",
+      "name": "Apex Predator",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "economics",
+      "categories": ["biology-and-ecology", "social-dynamics"],
+      "source": "archive",
+      "description": "Top-of-chain species with no natural predators. Maps onto dominant corporations, elite performers, and unchecked power. The metaphor imports both dominance and regulatory function (apex predators control mesopredator populations, maintaining ecosystem health). Remove the apex predator and the system degrades -- the mesopredator release effect."
+    },
+    {
+      "slug": "trophic-cascade",
+      "name": "Trophic Cascade",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "systems-thinking",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Removal or addition of a top predator ripples down through trophic levels, changing the entire ecosystem. The wolves-of-Yellowstone story is the canonical example. Maps onto organizational leadership changes, regulatory shifts, and platform policy changes that cascade through dependent systems."
+    },
+    {
+      "slug": "symbiosis-as-metaphor",
+      "name": "Symbiosis",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "organizational-behavior"],
+      "source": "archive",
+      "description": "De Bary (1879) coined for organisms living together. Three subtypes (mutualism, commensalism, parasitism) form a productive metaphor family for inter-organizational relationships. 'Symbiotic relationship' in business usually means mutualism but obscures the parasitism possibility. The metaphor imports obligate vs. facultative dependence."
+    },
+    {
+      "slug": "parasitism-as-metaphor",
+      "name": "Parasitism",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "social-dynamics",
+      "categories": ["biology-and-ecology", "social-dynamics"],
+      "source": "archive",
+      "description": "One organism benefits at the other's expense without killing it (distinguishes from predation). Metaphorically applied to economic relationships, social free-riding, and political rhetoric. Heavily moralized: calling someone a 'parasite' is one of the most loaded ecological metaphors. Bong Joon-ho's Parasite (2019) made the metaphor's class dimensions explicit."
+    },
+    {
+      "slug": "mutualism-as-metaphor",
+      "name": "Mutualism",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "organizational-behavior"],
+      "source": "archive",
+      "description": "Both organisms benefit from the association. The preferred metaphor for partnerships, alliances, and platform-developer relationships. Imports the structural insight that cooperation can be individually rational (not just altruistic). Often invoked to sanitize relationships that are actually more parasitic or commensal."
+    },
+    {
+      "slug": "balance-of-nature",
+      "name": "Balance of Nature",
+      "kind": "paradigm",
+      "source_frame": "ecology",
+      "target_frame": "philosophy",
+      "categories": ["biology-and-ecology", "philosophy"],
+      "source": "archive",
+      "description": "Cuddington (2001) demonstrated this foundational metaphor constrains equilibrium thinking in population ecology. The idea that nature tends toward stable balance -- harmony, self-regulation, return to equilibrium after disturbance. Demonstrably wrong (most ecosystems are non-equilibrium) but deeply embedded in environmental policy, conservation rhetoric, and folk ecology."
+    },
+    {
+      "slug": "adaptive-cycle",
+      "name": "Adaptive Cycle",
+      "kind": "mental-model",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Holling's (1986) four-phase lazy-eight model: growth (r), conservation (K), release/collapse (omega), reorganization (alpha). Applied to business cycles, organizational change, and social-ecological systems. The metaphor imports the inevitability of collapse as a precondition for renewal -- creative destruction with an ecological warrant."
+    },
+    {
+      "slug": "panarchy",
+      "name": "Panarchy",
+      "kind": "paradigm",
+      "source_frame": "ecology",
+      "target_frame": "systems-thinking",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Gunderson and Holling (2002). Nested adaptive cycles operating at different scales -- a hierarchy where each level can revolt upward or remember downward. The metaphor imports cross-scale interaction: a small, fast disturbance can cascade upward to destabilize a large, slow system. Deliberately named to evoke Pan (the Greek god of disruption) as an antidote to 'hierarchy.'"
+    },
+    {
+      "slug": "ecological-resilience",
+      "name": "Ecological Resilience",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Holling (1973) distinguished ecological resilience (ability to absorb disturbance and reorganize while retaining identity) from engineering resilience (speed of return to equilibrium). The ecological version is now dominant in organizational theory, urban planning, and climate adaptation. Cross-reference system-resilience-vs-fragility but note: Holling's version is specifically about identity persistence through transformation, not just bouncing back."
+    },
+    {
+      "slug": "ecological-niche",
+      "name": "Ecological Niche",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "economics",
+      "categories": ["biology-and-ecology", "organizational-behavior"],
+      "source": "archive",
+      "description": "Elton (1927) and Hutchinson's fundamental vs. realized niche distinction. While niche-specialization already exists in catalog (Munger angle), this entry focuses on the metaphor's ecological origins, Gause's competitive exclusion, and the critique of importing ecological niche thinking into business where niches are socially constructed and mutable. Distinct from niche-specialization which treats it as a mental model."
+    },
+    {
+      "slug": "monoculture",
+      "name": "Monoculture",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "organizational-behavior"],
+      "source": "archive",
+      "description": "Agricultural practice of growing a single crop. Metaphorically: organizational monoculture (everyone thinks the same), technological monoculture (everyone runs the same OS -- the Windows monoculture in security), cultural monoculture. The metaphor imports vulnerability: monocultures are efficient but catastrophically fragile to any pathogen that targets the single variety."
+    },
+    {
+      "slug": "dead-zone",
+      "name": "Dead Zone",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "economics",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "llm",
+      "description": "Hypoxic areas in oceans where excess nutrients cause algal blooms that consume all oxygen. Maps onto economic dead zones (areas where investment has withdrawn), innovation dead zones (spaces too commoditized for startups, too small for incumbents), and organizational dead zones (teams where nothing grows)."
+    },
+    {
+      "slug": "indicator-species",
+      "name": "Indicator Species",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "systems-thinking",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Species whose presence, absence, or condition signals broader ecosystem health. The canary in the coal mine is the folk version. Maps onto leading indicators in business (customer churn as indicator species for product health), social indicators, and organizational health metrics."
+    },
+    {
+      "slug": "edge-effect",
+      "name": "Edge Effect",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "organizational-behavior"],
+      "source": "archive",
+      "description": "Boundaries between ecosystems (ecotones) host greater biodiversity and novel interactions than either ecosystem alone. Maps onto interdisciplinary innovation (edges between fields are more productive), organizational boundary-spanning roles, and the creative value of liminal spaces."
+    },
+    {
+      "slug": "ecological-footprint",
+      "name": "Ecological Footprint",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "economics",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Wackernagel and Rees (1996). Translates resource consumption into land-area equivalents. The metaphor imports spatial concreteness to an abstract accounting problem. Spawned carbon footprint, water footprint, and the 'footprint' family of impact metaphors. Critiqued for implying that impact is a matter of individual choice (your footprint) rather than systemic structure."
+    },
+    {
+      "slug": "natural-capital",
+      "name": "Natural Capital",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "economics",
+      "categories": ["biology-and-ecology", "economics-and-finance"],
+      "source": "llm",
+      "description": "Ecosystem services reframed as capital stock that yields flows of value. Costanza et al. (1997) valued global ecosystem services at $33 trillion/year. The metaphor imports financial accounting logic into ecology: depreciation, returns on investment, balance sheets. Critiqued for commodifying nature and implying that only economically valued nature is worth protecting."
+    },
+    {
+      "slug": "seed-and-soil",
+      "name": "Seed and Soil",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "health-and-medicine",
+      "categories": ["biology-and-ecology", "health-and-medicine"],
+      "source": "llm",
+      "description": "Paget (1889) proposed the seed-and-soil hypothesis for cancer metastasis: tumor cells (seeds) only grow in hospitable tissue environments (soil). Maps onto innovation (ideas need the right environment), education (learning needs fertile ground), and startup culture (the same idea succeeds or fails depending on ecosystem conditions)."
+    },
+    {
+      "slug": "pollinator-as-metaphor",
+      "name": "Pollinator",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "organizational-behavior"],
+      "source": "llm",
+      "description": "Cross-pollination as knowledge transfer between domains. The pollinator role in organizations: people who move between teams, conferences, or industries carrying ideas. Maps onto consultants, conference speakers, and boundary spanners. The metaphor imports mutual benefit (pollinator gets nectar, plant gets reproduction) and inadvertence (the pollinator does not intend to fertilize)."
+    },
+    {
+      "slug": "old-growth-vs-clear-cut",
+      "name": "Old Growth vs. Clear-Cut",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "organizational-behavior",
+      "categories": ["biology-and-ecology", "organizational-behavior"],
+      "source": "llm",
+      "description": "Old-growth forests: complex, stable, slow-growing, irreplaceable on human timescales. Clear-cuts: rapid, efficient, devastating. Maps onto organizational knowledge (institutional memory as old growth, mass layoffs as clear-cutting), codebase management (legacy code as old growth, rewrites as clear-cuts), and cultural heritage."
+    },
+    {
+      "slug": "regime-shift",
+      "name": "Regime Shift",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "systems-thinking",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Abrupt, persistent change in ecosystem structure and function -- a lake flipping from clear to turbid, a savanna becoming desert. Related to tipping-point but emphasizes the new stable state rather than the threshold. Maps onto market regime shifts, political realignments, and technological paradigm changes. The metaphor imports hysteresis: the path back requires more effort than the path forward."
+    },
+    {
+      "slug": "ecological-arms-race",
+      "name": "Ecological Arms Race",
+      "kind": "metaphor",
+      "source_frame": "ecology",
+      "target_frame": "competition",
+      "categories": ["biology-and-ecology", "systems-thinking"],
+      "source": "archive",
+      "description": "Co-evolutionary escalation between predator and prey, parasite and host. Dawkins and Krebs (1979) formalized the concept. Maps onto cybersecurity (attacker-defender arms race), advertising, regulation-evasion cycles, and the Red Queen effect. The metaphor imports the structural impossibility of permanent advantage: each adaptation by one side selects for counter-adaptation by the other."
+    }
+  ]
+}
