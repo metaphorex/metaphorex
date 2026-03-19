@@ -21,6 +21,13 @@ related:
 slug: intense-emotions-are-heat
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] maps elevated body temperature (flushing, sweating, sensation of burning) onto emotional intensity, grounding the metaphor in a direct physiological correlation that makes it feel almost literal'
+  - '[source] imports the physics of heat transfer and accumulation, so emotions can "build up" pressure and require "venting" or "cooling down," encoding the temporal dynamics of emotional escalation'
+  - '[source] gives emotional intensity a danger threshold -- overheating, boiling point, combustion -- mapping the physical damage caused by extreme heat onto the destructive potential of uncontrolled intense emotion'
+limits:
+  - '[source] misleads by applying equally to anger, desire, shame, and excitement without distinguishing between them, since all map onto "heat" and the metaphor provides no thermal vocabulary for qualitative emotional differences'
+  - '[source] breaks for intense emotions that are phenomenologically cold -- dread, grief, clinical depression -- where the bodily experience is chilling rather than heating, and the heat frame cannot represent them'
 ---
 
 ## Transfers

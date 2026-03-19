@@ -18,6 +18,13 @@ related:
 slug: investments-are-containers-for-money
 source_frame: containers
 updated: '2026-03-12'
+transfers:
+  - '[source] maps the container image schema onto financial instruments, so money is placed into bounded spaces (accounts, funds, portfolios) and later removed, making investing feel like filling and emptying vessels'
+  - '[source] imports the containment logic where money inside an investment is separated from money outside it, encoding the commitment structure where invested capital is no longer liquid or freely available'
+  - '[source] gives investments a capacity property (how much they can hold) and a fill-level property (how much is currently in them), mapping physical volume onto financial exposure'
+limits:
+  - '[source] misleads because containers preserve their contents unchanged, while investments transform the money placed in them -- capital is deployed, lent, or converted to assets, not simply stored in a box'
+  - '[source] breaks for investments that generate returns exceeding the original deposit, since containers cannot produce more than was placed inside them, and the metaphor has no natural way to express money multiplying within a vessel'
 ---
 
 ## Transfers

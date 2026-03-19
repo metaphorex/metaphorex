@@ -17,6 +17,13 @@ related:
 slug: intelligence-is-a-light-source
 source_frame: vision
 updated: '2026-03-12'
+transfers:
+  - '[source] maps luminosity onto cognitive capacity itself (not just its products), so an intelligent person emits brightness the way a lamp or star does, and dim persons lack wattage'
+  - '[source] imports the radiance structure where intelligence illuminates everything in its vicinity, making nearby problems visible and solvable through proximity to the bright mind'
+  - '[source] gives intelligence a natural intensity gradient (dim, bright, brilliant, blinding) calibrated to the continuous spectrum of light output rather than discrete categories'
+limits:
+  - '[source] misleads by treating intelligence as a single undifferentiated emission, when cognitive ability is domain-specific and multidimensional -- a person can be brilliant in one area and dim in another simultaneously'
+  - '[source] breaks because light sources illuminate passively and automatically, while intelligence requires deliberate application and effort, and a brilliant person choosing not to engage illuminates nothing'
 ---
 
 ## Transfers

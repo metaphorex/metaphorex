@@ -20,6 +20,13 @@ related:
 slug: harm-is-preventing-forward-motion-toward-a-goal
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] makes harm relative to a destination, so the damage is measured as the gap between where someone is and where they would have been without obstruction'
+  - '[source] frames the harmer as an agent who physically blocks the victim, making harm a spatial relationship between bodies on a path rather than a wound inflicted on a body'
+  - '[source] encodes severity as degree of obstruction -- delay, detour, reversal, total stoppage -- providing a gradient tied to lost ground rather than physical damage'
+limits:
+  - '[source] misleads because harm without a clear goal becomes invisible, risking devaluation of harm done to people whose lives are not framed as progress narratives'
+  - '[source] breaks by conflating harm with mere inconvenience, since both map onto obstruction and the metaphor provides no structural way to distinguish a minor delay from a catastrophic derailment'
 ---
 
 ## Transfers

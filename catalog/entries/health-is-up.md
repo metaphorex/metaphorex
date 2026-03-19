@@ -20,6 +20,13 @@ related:
 slug: health-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] grounds health in the direct bodily correlation between upright posture and physical well-being, making the vertical metaphor feel less figurative than almost any other orientational mapping'
+  - '[source] maps recovery onto rising and relapse onto falling, so the trajectory of illness follows a spatial path that makes "getting back on your feet" both literal and metaphorical simultaneously'
+  - '[source] encodes vital signs as vertical position -- pulse rate, temperature, and blood pressure can be "up" or "down" -- importing the measurement-scale orientation into medical reasoning'
+limits:
+  - '[source] misleads because chronic illness often involves horizontal fluctuation rather than vertical descent, and patients who will never "rise" are implicitly coded as permanently low'
+  - '[source] breaks when health metrics going up is pathological (high blood pressure, elevated temperature, rising tumor markers), directly contradicting the UP IS GOOD default'
 ---
 
 ## Transfers

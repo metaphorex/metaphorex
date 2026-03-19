@@ -15,6 +15,13 @@ related:
 slug: heisenbug
 source_frame: physics
 updated: '2026-03-14'
+transfers:
+  - '[source] maps the observer effect from quantum mechanics onto debugging, where adding instrumentation (print statements, debuggers, logging) changes timing, memory layout, or optimization enough to alter the bug'
+  - '[source] imports the principle that measurement disturbs the measured system, structuring a specific class of software defects as fundamentally resistant to direct observation'
+  - '[source] carries the implication that the bug exists in a superposition of states -- present when unobserved, absent when observed -- mapping quantum indeterminacy onto race conditions and optimization-dependent behavior'
+limits:
+  - '[source] misleads because quantum uncertainty is a fundamental physical limit, while heisenbugs are caused by contingent engineering factors (timing sensitivity, compiler optimizations) that can in principle be controlled'
+  - '[source] breaks when the metaphor suggests debugging is impossible rather than merely indirect -- heisenbugs can be found through techniques that don''t disturb execution (static analysis, post-mortem traces), unlike true quantum phenomena'
 ---
 
 ## Transfers

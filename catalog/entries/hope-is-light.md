@@ -18,6 +18,13 @@ related:
 slug: hope-is-light
 source_frame: vision
 updated: '2026-03-12'
+transfers:
+  - '[source] maps visibility and orientation in darkness onto the psychological function of hope, so hope allows you to see a path forward when circumstances are otherwise opaque'
+  - '[source] imports the physics of light propagation -- a single source illuminates a wide area, and light diminishes with distance -- encoding how a small hope can reframe a large situation but weakens over time or distance'
+  - '[source] carries the contrast structure of light-against-darkness, so hope is most salient and most valued precisely when circumstances are worst, the way a candle matters most in a blackout'
+limits:
+  - '[source] misleads because light reveals what is actually there, while hope projects what might be there -- the metaphor conflates accurate perception with wishful anticipation'
+  - '[source] breaks when hope is not illuminating but blinding, as in false hope that prevents someone from seeing their actual situation clearly, since the light frame has no natural way to express harmful illumination'
 ---
 
 ## Transfers
