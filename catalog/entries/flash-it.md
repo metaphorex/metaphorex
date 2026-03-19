@@ -4,7 +4,6 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-19'
-dead: true
 kind: metaphor
 name: Flash It
 provenance: culinary-mise-en-place
