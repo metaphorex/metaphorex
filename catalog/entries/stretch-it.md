@@ -153,11 +153,14 @@ cook's ability to stretch a dish without the diner noticing was a
 transferable skill for any domain where constraints are real and
 failure is visible.
 
-The metaphor gained currency in startup culture through the
-language of "lean" operations, where "stretch goals" and "stretch
-resources" became standard vocabulary. The culinary origin has
-largely been forgotten, but the structural logic persists: make
-the limited thing serve more people, preserve the essential
+The metaphor gained currency in startup and management culture
+through phrases like "stretch resources" and "make it go further,"
+which import the culinary logic directly. "Stretch goals" — targets
+set beyond normal capacity — draws on the same root word but from
+athletic imagery (reaching, extending) rather than culinary
+technique; the two uses are related but distinct. The structural
+logic of culinary stretching persists in organizational language:
+make the limited thing serve more people, preserve the essential
 quality, and don't let the customer see the seams.
 
 ## References
