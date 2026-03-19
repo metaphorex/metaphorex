@@ -17,6 +17,13 @@ related:
 slug: pandemonium
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] chaos emerges from the interaction of many independent agents acting on separate impulses within a shared space'
+  - '[source] the disorder erupts inside a structure designed for controlled activity, making it institutional chaos rather than wilderness chaos'
+  - '[source] noise is the dominant sensory register, with overlapping voices and sounds producing unintelligibility rather than visual disorder'
+limits:
+  - '[source] breaks because Milton''s Pandaemonium was architecturally magnificent and deliberately constructed, while the modern usage implies disintegration and loss of control'
+  - '[source] misleads because the original demons acted with strategic purpose in their parliament, while the modern sense implies purely purposeless disorder'
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: obligations-are-forces
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] obligation exerts directional pressure toward a specific action, mapping physical pushing onto moral compulsion'
+  - '[source] the obligated person can resist with counterforce, generating the same tension structure as two physical objects in opposition'
+  - '[source] stronger obligations override weaker ones through vector addition, mapping force dynamics onto moral priority'
+limits:
+  - '[source] breaks because physical forces act on passive objects, while obligated persons are agents who can reinterpret or reject the obligation entirely'
+  - '[source] misleads because physical force produces predictable displacement, while moral pressure produces unpredictable responses including resentment, defiance, and creative compliance'
 ---
 
 ## Transfers

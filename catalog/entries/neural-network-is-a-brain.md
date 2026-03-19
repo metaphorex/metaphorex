@@ -16,7 +16,14 @@ related:
 - people-are-machines
 slug: neural-network-is-a-brain
 source_frame: biology
-updated: '2026-03-13'
+updated: '2026-03-18'
+transfers:
+  - '[source] biological neurons integrate signals from thousands of synapses and fire above a threshold, mapping onto weighted-sum-plus-activation'
+  - '[source] brain regions process information through hierarchical layers of increasing abstraction, from edges to objects to concepts'
+  - '[source] learning in brains adjusts synaptic strengths through repeated exposure, mapping onto weight updates via backpropagation'
+limits:
+  - '[source] breaks because biological neurons have complex internal state, temporal dynamics, and thousands of dendritic connections, while artificial neurons compute a single dot product'
+  - '[source] misleads because brains do not have a loss function or gradient signal propagated backward through layers; biological learning is local and Hebbian, not global and error-driven'
 ---
 
 ## Transfers

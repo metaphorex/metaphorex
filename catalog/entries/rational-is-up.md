@@ -19,6 +19,13 @@ related:
 slug: rational-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] rational thought is spatially higher, mapping the vertical axis onto the hierarchy of cognitive faculties with reason above emotion'
+  - '[source] gaining rationality is rising while losing it is falling, mapping elevation change onto cognitive state transitions'
+  - '[source] the high ground affords a broader view, mapping visual range from elevation onto the comprehensive perspective attributed to rational detachment'
+limits:
+  - '[source] breaks because physical elevation is a continuous dimension, while the distinction between rational and irrational thinking is not a smooth gradient but a contested and context-dependent judgment'
+  - '[source] misleads because the upward direction imports positive valence automatically, encoding the assumption that rational thinking is always superior rather than situationally appropriate'
 ---
 
 ## Transfers

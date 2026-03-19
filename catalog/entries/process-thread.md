@@ -15,6 +15,13 @@ related:
 slug: process-thread
 source_frame: manufacturing
 updated: '2026-03-17'
+transfers:
+  - '[source] a thread is a single continuous strand within a larger fabric, mapping the linear sequence of execution within a shared address space'
+  - '[source] multiple threads interweave to form a coherent whole, mapping concurrent execution paths onto the warp and weft of woven cloth'
+  - '[source] a broken thread disrupts the local pattern without necessarily destroying the entire fabric, mapping thread failure onto localized process crash'
+limits:
+  - '[source] breaks because textile threads do not compete for shared resources or deadlock against each other, while computational threads contend for locks, memory, and CPU time'
+  - '[source] misleads because threads in cloth are physically parallel and non-interfering, while process threads share mutable state and require explicit synchronization to avoid corruption'
 ---
 
 ## Transfers

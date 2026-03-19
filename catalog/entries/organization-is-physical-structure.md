@@ -17,6 +17,13 @@ related:
 slug: organization-is-physical-structure
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - '[source] logical dependence maps onto physical support, so that removing a foundational premise collapses the structure above it'
+  - '[source] complexity maps onto height, with abstract or general concepts sitting above concrete or specific details'
+  - '[source] stability requires balanced distribution of load across supporting elements, mapping engineering constraints onto institutional design'
+limits:
+  - '[source] breaks because physical structures are static once built, while organizations reorganize continuously without demolishing the existing arrangement'
+  - '[source] misleads because structural failure in buildings is catastrophic and irreversible, while organizational dysfunction is usually gradual and repairable'
 ---
 
 ## Transfers

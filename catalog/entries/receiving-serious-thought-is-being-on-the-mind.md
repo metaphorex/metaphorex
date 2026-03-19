@@ -18,6 +18,13 @@ related:
 slug: receiving-serious-thought-is-being-on-the-mind
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] a topic receiving attention is located on the surface of the mind as a physical object rests on a surface'
+  - '[source] the topic''s weight or salience determines how firmly it stays on the mind, mapping physical heaviness onto psychological preoccupation'
+  - '[source] removing the topic from the mind requires deliberate effort, mapping the act of lifting an object off a surface onto the cognitive work of letting go'
+limits:
+  - '[source] breaks because physical objects on a surface are passive, while topics on the mind actively generate associations, emotions, and further thoughts'
+  - '[source] misleads because the surface metaphor implies a single layer of attention, while cognitive processing occurs at multiple levels of consciousness simultaneously'
 ---
 
 ## Transfers

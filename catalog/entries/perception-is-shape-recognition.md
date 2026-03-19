@@ -20,6 +20,13 @@ related:
 slug: perception-is-shape-recognition
 source_frame: geometry
 updated: '2026-03-13'
+transfers:
+  - '[source] understanding is recognizing a familiar form, mapping the visual act of identifying contours onto the cognitive act of categorizing experience'
+  - '[source] perceiving requires matching sensory input against stored templates, making recognition dependent on prior exposure to similar shapes'
+  - '[source] ambiguous inputs produce competing shape interpretations, mapping the Necker cube effect onto the experience of seeing situations differently'
+limits:
+  - '[source] breaks because shape recognition operates on spatial geometry, while much perception involves temporal patterns, emotional valence, and social context that have no geometric form'
+  - '[source] misleads because shape templates are fixed once learned, while perceptual categories are continuously revised through new experience and contextual priming'
 ---
 
 ## Transfers

@@ -14,6 +14,13 @@ related: []
 slug: running-out-of-steam
 source_frame: physics
 updated: '2026-03-13'
+transfers:
+  - '[source] energy depletion follows a gradual pressure-drop curve rather than a sudden cutoff, mapping the slow deceleration of a depressurizing boiler onto the progressive onset of fatigue'
+  - '[source] the depletion is visible and predictable from the pressure gauge, mapping measurable mechanical decline onto the observable slowing of a person or initiative'
+  - '[source] the engine cannot resume until fuel is added and the boiler reheats, mapping the mandatory waiting period of steam generation onto the recovery time before productive capacity returns'
+limits:
+  - '[source] breaks because a steam engine has a single depletable reservoir, while human energy is influenced by motivation, context, and emotion in ways that allow selective depletion and spontaneous recovery'
+  - '[source] misleads because the metaphor frames all non-productive states as depletion, obscuring the value of contemplation, incubation, and daydreaming that may precede creative breakthroughs'
 ---
 
 ## Transfers

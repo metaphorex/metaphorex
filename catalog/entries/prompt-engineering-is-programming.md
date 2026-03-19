@@ -16,6 +16,13 @@ related:
 slug: prompt-engineering-is-programming
 source_frame: software-engineering
 updated: '2026-03-13'
+transfers:
+  - '[source] the prompt specifies desired behavior through structured instructions, mapping source code onto natural-language directives that control execution'
+  - '[source] iterative refinement of prompts through testing and debugging maps the edit-compile-run cycle onto prompt-submit-evaluate loops'
+  - '[source] prompt patterns become reusable templates, mapping software libraries and functions onto documented prompt techniques like chain-of-thought and few-shot examples'
+limits:
+  - '[source] breaks because programming produces deterministic output for identical inputs, while the same prompt can yield different outputs across runs due to sampling and model updates'
+  - '[source] misleads because programs execute instructions literally, while language models interpret prompts through statistical patterns and may creatively deviate from stated intent'
 ---
 
 ## Transfers

@@ -20,6 +20,13 @@ related:
 slug: obligations-are-possessions
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] obligations can be acquired, transferred, and discharged like property, giving abstract duties the logic of ownership'
+  - '[source] having an obligation means holding an inventory item that persists until actively disposed of'
+  - '[source] obligations can be inherited from predecessors, mapping property succession onto institutional continuity of duty'
+limits:
+  - '[source] breaks because possessions can be abandoned unilaterally, while obligations persist regardless of the holder''s desire to be rid of them'
+  - '[source] misleads because the possession frame makes obligations feel countable and discrete, while real moral duties often overlap, conflict, and resist enumeration'
 ---
 
 ## Transfers

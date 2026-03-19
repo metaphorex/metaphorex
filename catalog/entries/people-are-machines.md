@@ -18,6 +18,13 @@ related:
 slug: people-are-machines
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - '[source] human performance is diagnosable like mechanical failure, with locatable causes and fixable faults rather than existential crises'
+  - '[source] people produce output the way machines produce goods, making irregular or contemplative workers look like malfunctioning equipment'
+  - '[source] people require fuel inputs and maintenance intervals, mapping thermodynamic constraints onto the experience of exhaustion and recovery'
+limits:
+  - '[source] breaks because machines do not choose their inputs or resist their programming, while people exercise agency over what they consume and how they respond'
+  - '[source] misleads because machine output is consistent given consistent inputs, while human performance varies with meaning, motivation, and social context in ways that have no mechanical analogue'
 ---
 
 ## Transfers

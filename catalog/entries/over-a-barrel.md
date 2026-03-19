@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] the person''s posture is imposed rather than chosen, mapping physical helplessness onto the inability to negotiate or resist'
+  - '[source] bodily exposure over the barrel creates vulnerability to punishment, mapping undefended position onto strategic disadvantage'
+  - '[source] the barrel is a fixed structure that immobilizes, mapping physical constraint onto situational lock-in where alternatives are eliminated'
+limits:
+  - '[source] breaks because the original nautical punishment was temporary and survivable, while being over a barrel in business can mean permanent ruin'
+  - '[source] misleads because the physical scenario has a clear oppressor applying force, while modern leverage situations often involve structural or market forces with no single identifiable agent'
 ---
 
 ## Transfers

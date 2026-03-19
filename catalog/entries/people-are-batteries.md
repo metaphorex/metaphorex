@@ -17,6 +17,13 @@ related:
 slug: people-are-batteries
 source_frame: electricity
 updated: '2026-03-13'
+transfers:
+  - '[source] charge level provides a scalar quantity for human energy, making the subjective feeling of vitality seem measurable on a continuum from empty to full'
+  - '[source] recharging requires connection to an external source and elapsed time, mapping rest as purposive resource restoration'
+  - '[source] certain activities and people drain current from the battery, making social interaction feel like a power draw with measurable cost'
+limits:
+  - '[source] breaks because batteries have a single charge reservoir, while human energy is domain-specific and someone depleted at work may have abundant energy for hobbies'
+  - '[source] misleads because battery capacity degrades monotonically with charge cycles, while human resilience can increase through repeated exertion and recovery'
 ---
 
 ## Transfers

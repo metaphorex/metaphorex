@@ -16,6 +16,13 @@ related: []
 slug: problems-are-puzzles
 source_frame: puzzles-and-games
 updated: '2026-03-14'
+transfers:
+  - '[source] the solution exists within the problem''s own structure and can be found by rearranging existing pieces rather than importing new resources'
+  - '[source] the puzzle has exactly one correct configuration, mapping the definiteness of jigsaw completion onto the assumption that problems have unique solutions'
+  - '[source] solving requires patience and systematic trial rather than force or authority, mapping cognitive persistence onto problem-solving virtue'
+limits:
+  - '[source] breaks because puzzles are designed to be solvable, while many real problems are wicked problems with no definitive solution'
+  - '[source] misleads because puzzle difficulty is calibrated by the designer to be fair, while real-world problem difficulty is arbitrary and often exceeds available cognitive resources'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: properties-are-contents
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] an entity''s properties are substances contained inside it, mapping the container-content relationship onto the bearer-attribute relationship'
+  - '[source] discovering properties is opening the container and examining what is inside, mapping physical inspection onto attribute inquiry'
+  - '[source] changing properties is adding or removing contents, mapping physical manipulation of container contents onto attribute modification'
+limits:
+  - '[source] breaks because container contents are independent of the container, while properties are constitutive of the entity that bears them'
+  - '[source] misleads because contents can be exhaustively enumerated by inspection, while an entity''s properties are potentially infinite and context-dependent'
 ---
 
 ## Transfers

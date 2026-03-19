@@ -21,6 +21,13 @@ related:
 slug: psychological-forces-are-physical-forces
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] psychological motivations act as directional vectors that push, pull, or constrain the self along specific trajectories of action'
+  - '[source] competing motivations combine through vector addition, mapping force dynamics onto the resolution of conflicting desires'
+  - '[source] the self can generate counterforce against psychological pressure, mapping physical resistance onto willpower and self-control'
+limits:
+  - '[source] breaks because physical forces are measurable and predictable, while psychological forces vary with context, interpretation, and the subject''s narrative about their own experience'
+  - '[source] misleads because physical force dynamics involve passive objects, while the psychological self actively reinterprets the forces acting on it, sometimes converting an attraction into a repulsion through reframing'
 ---
 
 ## Transfers

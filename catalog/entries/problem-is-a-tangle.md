@@ -18,6 +18,13 @@ related:
 slug: problem-is-a-tangle
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] interlocking strands create a structure where pulling on any one element tightens constraints on others'
+  - '[source] untangling requires patient tracing of individual strands rather than brute force, mapping careful analysis onto problem decomposition'
+  - '[source] the tangle conceals the structure within it, making the first step diagnosis rather than action'
+limits:
+  - '[source] breaks because tangles are resolved by restoring an original untangled state, while many problems have no prior state of simplicity to return to'
+  - '[source] misleads because a tangle involves a finite number of strands with deterministic interactions, while real problems often involve uncertain causal relationships and feedback loops'
 ---
 
 ## Transfers

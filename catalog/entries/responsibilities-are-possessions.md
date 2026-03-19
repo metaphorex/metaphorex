@@ -19,6 +19,13 @@ related:
 slug: responsibilities-are-possessions
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] responsibilities are held, carried, and transferred like objects, mapping physical portability onto the assignability of duties'
+  - '[source] accumulating responsibilities is acquiring a growing inventory, mapping the weight of many possessions onto the burden of many obligations'
+  - '[source] delegating responsibility is handing an object to another person, mapping physical transfer onto institutional assignment with clear before-and-after ownership'
+limits:
+  - '[source] breaks because possessions can be dropped without consequence to the object, while responsibilities abandoned cause harm to those who depend on their fulfillment'
+  - '[source] misleads because the possession frame implies clean transfer of responsibility from one holder to another, while real delegation often leaves residual accountability with the original holder'
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: race-condition
 source_frame: competition
 updated: '2026-03-14'
+transfers:
+  - '[source] the outcome depends on which competitor finishes first, mapping the contingency of a physical race onto the non-determinism of unsynchronized concurrent operations'
+  - '[source] the race is invisible to participants who each believe they are running alone, mapping the ignorance of racers about parallel competitors onto threads unaware of each other''s timing'
+  - '[source] a photo-finish margin separates correct from incorrect behavior, mapping the razor-thin difference between winning and losing onto the timing sensitivity of concurrent bugs'
+limits:
+  - '[source] breaks because races have defined start and finish lines with a clear winner, while race conditions produce corrupted state rather than ranked outcomes'
+  - '[source] misleads because a race implies intentional competition, while race conditions arise from accidental temporal overlap between operations never designed to compete'
 ---
 
 ## Transfers

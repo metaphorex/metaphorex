@@ -19,6 +19,13 @@ related:
 slug: perception-is-reception
 source_frame: physical-objects
 updated: '2026-03-13'
+transfers:
+  - '[source] the perceiver passively receives signals that arrive from external sources, mapping sensory experience onto the act of catching or collecting incoming objects'
+  - '[source] the quality of perception depends on the strength and clarity of the incoming signal, not on the perceiver''s interpretive activity'
+  - '[source] reception requires an appropriately tuned receiver, mapping sensory organs onto antenna-like devices calibrated to specific frequencies'
+limits:
+  - '[source] breaks because perception is actively constructed by the brain through prediction and inference, not passively received like a radio signal'
+  - '[source] misleads because the reception frame implies a faithful transmission from world to mind, obscuring the extensive filtering, distortion, and interpretation that occurs before conscious awareness'
 ---
 
 ## Transfers

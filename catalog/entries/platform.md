@@ -17,6 +17,13 @@ related:
 slug: platform
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - '[source] a raised flat surface elevates whoever stands on it, mapping physical elevation onto the amplification of reach, visibility, and influence'
+  - '[source] the platform is stable infrastructure that others build upon, mapping architectural foundation onto the base layer that third parties depend on'
+  - '[source] access to the platform is controlled by its owner, who determines who may stand on it and what they may do there'
+limits:
+  - '[source] breaks because physical platforms are passive and inert, while digital platforms actively shape behavior through algorithms, defaults, and incentive structures'
+  - '[source] misleads because a physical platform supports all weight equally, while digital platforms preferentially amplify content and users that serve the platform''s commercial interests'
 ---
 
 ## Transfers

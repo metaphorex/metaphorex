@@ -18,6 +18,13 @@ related:
 slug: properties-are-physical-properties
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] abstract qualities are experienced as tangible attributes like weight, texture, temperature, and color that can be directly sensed'
+  - '[source] comparing abstract properties uses the same scalar logic as comparing physical measurements along a single dimension'
+  - '[source] abstract properties resist change the way physical materials resist deformation, mapping material inertia onto conceptual stability'
+limits:
+  - '[source] breaks because physical properties are observer-independent and measurable, while abstract properties like goodness or importance are perspective-dependent and contested'
+  - '[source] misleads because physical properties exist on fixed scales, while abstract qualities often resist ranking and comparison due to incommensurability'
 ---
 
 ## Transfers

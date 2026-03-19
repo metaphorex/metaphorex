@@ -18,6 +18,13 @@ related:
 slug: problem-is-a-target
 source_frame: target-practice
 updated: '2026-03-13'
+transfers:
+  - '[source] the problem is compressed into a single localized point that effort can be directed toward, mapping spatial focus onto cognitive attention'
+  - '[source] success is a binary hit/miss outcome, mapping marksmanship accuracy onto solution effectiveness'
+  - '[source] repeated misses allow recalibration of aim, mapping iterative adjustment of shooting stance onto iterative refinement of approach'
+limits:
+  - '[source] breaks because targets are stationary and well-defined, while many real problems are diffuse, systemic, and shift in response to intervention'
+  - '[source] misleads because the marksman frame treats the solver as a lone agent taking individual shots, while most significant problems require coordinated collective action'
 ---
 
 ## Transfers

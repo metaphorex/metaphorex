@@ -14,6 +14,13 @@ related:
 slug: program-failure-is-bodily-failure
 source_frame: embodied-experience
 updated: '2026-03-09'
+transfers:
+  - '[source] a crashing program dies, mapping biological death onto process termination with the same finality and irreversibility'
+  - '[source] a sick program exhibits symptoms that can be diagnosed, mapping medical examination onto debugging and log analysis'
+  - '[source] programs can be revived, healed, or put on life support, mapping medical intervention onto recovery procedures like restart and failover'
+limits:
+  - '[source] breaks because bodily failure involves subjective suffering, while program failure involves no experience at all'
+  - '[source] misleads because biological organisms heal themselves through immune response, while programs lack self-repair mechanisms and require external intervention to recover'
 ---
 
 ## Transfers
