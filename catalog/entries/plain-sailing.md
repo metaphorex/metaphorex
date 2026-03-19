@@ -19,14 +19,6 @@ updated: '2026-03-14'
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 The original term was "plane sailing" -- a navigation method that treats
 the Earth's surface as a flat plane rather than a sphere. Over short
 distances, this simplification introduces negligible error and makes
@@ -57,7 +49,8 @@ Key structural parallels:
   distinction has been completely lost in modern usage, where "plain
   sailing" implies favorable external conditions rather than a
   deliberately simplified approach.
-## Where It Breaks
+
+## Limits
 
 - **The folk etymology erased the actual insight** -- by replacing
   "plane" with "plain," English speakers lost the original meaning
@@ -86,6 +79,7 @@ Key structural parallels:
   not simplify spherical trigonometry. The metaphor merges environmental
   favorability with methodological simplicity, which are independent
   dimensions.
+
 ## Expressions
 
 - "It should be plain sailing from here" -- predicting ease for the
@@ -98,6 +92,7 @@ Key structural parallels:
   metaphor explicit, further burying the navigational origin
 - "Clear sailing" -- variant emphasizing absence of obstacles rather
   than computational simplicity
+
 ## Origin Story
 
 Plane sailing as a navigation technique dates to the 16th century, when
@@ -116,4 +111,3 @@ semantic shift -- from "using the simplified navigation method" to
 "experiencing no difficulty" -- followed the spelling change, as
 speakers who did not know the navigational term reinterpreted "plain"
 in its everyday sense of "simple" or "unobstructed."
-

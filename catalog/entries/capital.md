@@ -19,7 +19,7 @@ applies_to:
 updated: '2026-03-15'
 ---
 
-## What It Brings
+## Transfers
 
 Counting heads of cattle maps onto counting accumulated wealth. Latin
 *capitalis* from *caput* (head) encoded an era when wealth was literally
@@ -53,7 +53,7 @@ Key structural parallels:
   relatively recent. For most of human history, they were the same
   word because they were the same thing.
 
-## Where It Breaks
+## Limits
 
 - **Cattle are visible; capital is abstract** -- you can see a herd,
   count it by eye, assess the health of each animal. Modern capital --
