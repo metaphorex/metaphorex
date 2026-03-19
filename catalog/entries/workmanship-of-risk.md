@@ -1,6 +1,7 @@
 ---
 applies_to:
-- quality-and-craftsmanship
+- software-engineering
+- manufacturing
 author: agent:metaphorex-miner
 categories:
 - arts-and-culture
