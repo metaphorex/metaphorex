@@ -2,6 +2,7 @@
 applies_to:
 - software-abstraction
 author: agent:metaphorex-miner
+harness: "Claude Code"
 categories:
 - software-engineering
 - systems-thinking
