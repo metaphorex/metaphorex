@@ -20,6 +20,13 @@ related:
 slug: knowledge-of-past-events-is-an-external-event-exerting-force-on
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - '[source] an external force acts on a body regardless of the body''s intentions, mapping the involuntary quality of being affected by what you learn about the past'
+  - '[source] force produces proportional displacement -- a stronger blow moves you further -- structuring the intuition that more shocking revelations produce greater emotional upheaval'
+  - '[source] force arrives from outside the system boundary, locating the cause of emotional change in the information itself rather than in the recipient''s disposition'
+limits:
+  - '[source] physical forces act instantaneously on contact, but knowledge of past events often produces delayed or accumulating emotional effects that build over time'
+  - '[source] a physical force has a single vector and magnitude, while the impact of learning about past events can simultaneously push in contradictory emotional directions (relief and grief at once)'
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: life-is-a-container
 source_frame: containers
 updated: '2026-03-14'
+transfers:
+  - '[source] a container has a fixed boundary separating inside from outside, structuring life as having clear demarcation between what is ''in your life'' and what is not'
+  - '[source] containers have finite capacity -- they can be full or empty -- mapping onto the intuition that a life can be ''full'' of experiences or ''empty'' of meaning'
+  - '[source] putting things into a container displaces what was already there, structuring life choices as zero-sum tradeoffs where adding one thing requires removing another'
+limits:
+  - '[source] containers are rigid and their capacity is fixed at construction, but a human life''s capacity for experience, relationships, and meaning can expand or contract over time'
+  - '[source] container contents don''t interact with each other (marbles in a jar stay separate), whereas life experiences transform each other through memory, reinterpretation, and emotional resonance'
 ---
 
 ## Transfers

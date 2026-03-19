@@ -19,6 +19,13 @@ related:
 slug: loved-one-is-a-possession
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] possessions are owned exclusively -- my possession is not yours -- mapping the exclusivity norm of romantic relationships through property logic'
+  - '[source] possessions can be lost, stolen, or given away, structuring jealousy as fear of theft and breakup as loss of property'
+  - '[source] owners have rights over their possessions including the right to control their use, mapping the possessive dimension of romantic attachment'
+limits:
+  - '[source] possessions have no agency or preferences about who owns them, but loved ones are autonomous agents who choose to be in the relationship'
+  - '[source] possession is a legal status with clear transfer mechanisms (sale, gift, inheritance), but love relationships cannot be transacted or transferred to a third party'
 ---
 
 ## Transfers

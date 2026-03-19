@@ -18,6 +18,13 @@ related:
 slug: light-is-a-line
 source_frame: geometry
 updated: '2026-03-12'
+transfers:
+  - '[source] a line connects two points with zero width, mapping the directional, ray-like quality of light traveling from source to target'
+  - '[source] lines can be blocked by interposing an object, creating a shadow region that is geometrically predictable from the line''s path'
+  - '[source] lines can be reflected at angles from surfaces, structuring the understanding of mirrors and reflective materials through geometric optics'
+limits:
+  - '[source] lines have no thickness and extend infinitely, but real light beams diverge, scatter, and attenuate with distance'
+  - '[source] lines cannot bend around obstacles, but light diffracts around edges and refracts through media, behaviors that require wave models rather than ray geometry'
 ---
 
 ## Transfers

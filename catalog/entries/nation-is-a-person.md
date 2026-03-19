@@ -19,6 +19,13 @@ related:
 slug: nation-is-a-person
 source_frame: social-roles
 updated: '2026-03-13'
+transfers:
+  - '[source] a person has a unified will, coherent interests, and a continuous identity over time, mapping the attribution of singular agency to a collective of millions with divergent interests'
+  - '[source] persons have emotional states (angry, proud, humiliated), structuring diplomatic discourse as interpersonal emotion management rather than institutional negotiation'
+  - '[source] a person can be injured, grow, mature, and die, mapping the biological lifecycle onto geopolitical narratives of national rise, decline, and fall'
+limits:
+  - '[source] a person has a single nervous system producing coherent action, but a nation''s ''decisions'' emerge from competing institutions, factions, and bureaucracies that often work at cross-purposes'
+  - '[source] persons are morally responsible for their actions because they have unified consciousness, but national ''responsibility'' distributes unevenly across millions of citizens, most of whom had no role in the action attributed to the nation'
 ---
 
 ## Transfers

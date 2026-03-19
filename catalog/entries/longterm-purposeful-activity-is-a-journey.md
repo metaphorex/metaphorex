@@ -23,6 +23,13 @@ related:
 slug: longterm-purposeful-activity-is-a-journey
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - '[source] a journey has a starting point, a destination, and a route connecting them, structuring purposeful activity as having an origin state, goal state, and a sequence of intermediate steps'
+  - '[source] travelers encounter obstacles, detours, and crossroads requiring navigation decisions, mapping the experience of setbacks and strategic choices during extended projects'
+  - '[source] progress on a journey is measurable by distance covered relative to distance remaining, providing a spatial metric for tracking completion of long-term work'
+limits:
+  - '[source] a journey''s destination is fixed before departure and the traveler knows when they have arrived, but many long-term activities have goals that shift as understanding deepens'
+  - '[source] a journey has a single path (or small set of routes) between origin and destination, while complex activities often require parallel workstreams with no clear sequential ordering'
 ---
 
 ## Transfers
