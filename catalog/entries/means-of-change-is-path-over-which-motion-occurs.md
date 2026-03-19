@@ -20,6 +20,13 @@ related:
 slug: means-of-change-is-path-over-which-motion-occurs
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - '[source] a path constrains movement to a specific route, mapping the idea that the means of change determines the trajectory of transformation, not just the endpoint'
+  - '[source] different paths to the same destination traverse different terrain with different obstacles, structuring the intuition that how you change matters as much as what you change into'
+  - '[source] a path must be traversed sequentially -- you cannot skip intermediate points -- mapping the idea that change requires passing through transitional states'
+limits:
+  - '[source] paths pre-exist the traveler and can be surveyed before the journey begins, but the means of change often creates itself as the change unfolds, with no pre-existing route to inspect'
+  - '[source] a path is used by multiple travelers who all traverse the same terrain, but means of change are often unique to the changing entity and non-replicable'
 ---
 
 ## Transfers

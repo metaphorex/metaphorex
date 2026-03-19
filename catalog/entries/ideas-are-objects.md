@@ -20,6 +20,13 @@ related:
 slug: ideas-are-objects
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] maps physical manipulation (grasping, holding, turning over, taking apart) onto intellectual comprehension, so understanding is getting your hands on something and failure is letting it slip away'
+  - '[source] gives ideas spatial existence with shape and weight -- sharp remarks, weighty arguments, solid theories -- importing geometric and physical properties onto abstract cognitive contents'
+  - '[source] makes ideas transferable as bounded entities that can be given, received, and possessed, undergirding the entire conduit metaphor system for communication'
+limits:
+  - '[source] misleads by implying ideas are pre-formed entities waiting to be found, when many ideas are constituted through the act of articulation and have no existence prior to being expressed'
+  - '[source] breaks because objects persist unchanged when transferred between persons, while ideas are inevitably transformed by each new mind that receives them, making the "same idea" an illusion of the object frame'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: logic-is-gravity
 source_frame: physics
 updated: '2026-03-12'
+transfers:
+  - '[source] gravity pulls objects inexorably downward regardless of their preferences, mapping the experience of logical conclusions as forced rather than chosen'
+  - '[source] gravity acts uniformly on all objects in a field, structuring the intuition that valid logic compels assent from any rational agent, not just the one making the argument'
+  - '[source] objects in free fall follow a predictable trajectory determined entirely by initial conditions, mapping the sense that once premises are granted, the conclusion follows with mechanical necessity'
+limits:
+  - '[source] gravity is a physical force with no exceptions in everyday experience, but logical compulsion can be resisted through denial, reframing premises, or questioning the formal system itself'
+  - '[source] gravity operates on passive objects that have no capacity to reinterpret the force acting on them, whereas logical agents can challenge definitions, reveal hidden assumptions, or change the rules of inference'
 ---
 
 ## Transfers

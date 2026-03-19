@@ -18,6 +18,13 @@ related:
 slug: magic-number
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] magic operates through hidden rules known only to initiates, mapping the obscurity of unexplained numeric literals in code whose meaning is opaque to anyone who did not write them'
+  - '[source] magical artifacts derive power from their specific form rather than their function, structuring the intuition that changing a magic number''s value breaks the spell even though the code''s intent is unclear'
+  - '[source] magic requires incantation of exact formulas -- any deviation breaks the spell -- mapping the brittleness of hardcoded values where changing 86400 to 86401 causes silent failure'
+limits:
+  - '[source] magic numbers in code can always be replaced by named constants that dispel the mystery, but true magic in the source domain is inherently irreducible to rational explanation'
+  - '[source] magical formulas are intentionally secret to preserve the magician''s power, whereas magic numbers in code are accidentally obscure due to poor documentation rather than deliberate concealment'
 ---
 
 ## Transfers

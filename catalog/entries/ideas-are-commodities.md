@@ -21,6 +21,13 @@ related:
 slug: ideas-are-commodities
 source_frame: economics
 updated: '2026-03-14'
+transfers:
+  - '[source] maps marketplace exchange dynamics onto intellectual life, so ideas have prices, can be packaged for different audiences, and compete for buyer attention in a crowded market'
+  - '[source] imports the fungibility property of commodities -- one unit is substitutable for another -- encoding the reductive but powerful intuition that ideas in the same category are interchangeable'
+  - '[source] gives ideas a supply-demand structure where scarcity raises value and oversupply causes a crash, mapping market economics onto the lifecycle of intellectual trends'
+limits:
+  - '[source] misleads by imposing the commodity assumption of standardized units, obscuring the qualitative differences between ideas in the same domain that make them irreducible to exchange value'
+  - '[source] breaks because commodities are consumed or used up in exchange, while ideas can be given away without the giver losing them, violating the fundamental scarcity constraint of commodity markets'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: inflation-is-an-entity
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] reifies an abstract statistical aggregate (general price-level increase) into a bounded agent with appetite, movement, and physical presence that can be fought, fed, or starved'
+  - '[source] imports the personification structure where inflation "attacks" purchasing power, "devours" savings, and "runs rampant," making macroeconomic policy feel like combat with a living adversary'
+  - '[source] gives inflation agency and intentionality, so it can be blamed and punished as though it were making choices, importing moral reasoning into what is otherwise a systemic phenomenon'
+limits:
+  - '[source] misleads by concentrating diffuse causation into a single agent, hiding the distributed decisions (monetary policy, wage bargaining, supply shocks) that actually produce price-level changes'
+  - '[source] breaks when entity-language suggests inflation can be permanently "killed" or "defeated," importing a combat narrative that obscures the ongoing structural conditions that generate inflationary pressure'
 ---
 
 ## Transfers

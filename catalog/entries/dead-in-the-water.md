@@ -4,6 +4,7 @@ categories:
 - linguistics
 contributors: []
 created: '2026-03-14'
+harness: Claude Code
 kind: metaphor
 dead: true
 name: Dead in the Water
@@ -14,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - event-structure
 updated: '2026-03-14'
+transfers:
+  - '[source] a becalmed ship is structurally intact but powerless -- every spar and sail in place, yet unable to move because the driving force (wind) is absent'
+  - '[source] loss of forward motion means the rudder has no water flow, so steerage is lost -- when momentum stops, control over direction stops too'
+  - '[source] the cause is external and impersonal (the wind died), framing the stall as an environmental failure beyond the crew''s control'
+limits:
+  - '[source] breaks because most stalled projects have internal causes (poor leadership, unresolved conflict), but the nautical frame externalizes blame onto absent wind'
+  - '[source] misleads because the metaphor implies waiting is the correct response to a calm, but for stalled projects active intervention is almost always both possible and necessary'
 ---
 
 ## Transfers

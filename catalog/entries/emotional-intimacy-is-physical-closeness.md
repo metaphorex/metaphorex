@@ -19,6 +19,13 @@ related:
 slug: emotional-intimacy-is-physical-closeness
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] the degree of emotional bond maps onto spatial distance between bodies, translating an abstract continuous variable (intimacy) into a measurable spatial one (proximity), grounded in the infant experience that caregivers who are physically nearest are emotionally closest'
+  - '[source] relationship development is approach (getting closer) and relationship decline is retreat (drifting apart), giving relationship change a directionality and velocity that makes it trackable'
+  - '[source] emotional barriers map onto physical barriers (walls, doors, guards), extending the spatial logic into an architecture of defensiveness where vulnerability requires allowing someone to occupy the space normally reserved for the self'
+limits:
+  - '[source] breaks because physical closeness without emotional connection is common (commuters on a train), and the metaphor has no vocabulary for the structural mismatch when an estranged spouse shares a bed'
+  - '[source] misleads by coding all increase in emotional distance as negative (growing apart, drifting away), when some forms of separation are healthy: differentiation from parents, professional boundaries, productive solitude'
 ---
 
 ## Transfers

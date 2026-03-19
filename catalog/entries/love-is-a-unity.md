@@ -18,6 +18,13 @@ related:
 slug: love-is-a-unity
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] two things becoming one creates a new entity with properties neither component had alone, mapping the experience of a relationship as more than the sum of its parts'
+  - '[source] unity implies that separating the merged components damages both, structuring breakup as a tearing apart rather than a simple uncoupling'
+  - '[source] unified entities act as a single agent with shared boundaries, mapping the way couples develop shared identity, finances, and social presentation'
+limits:
+  - '[source] physical unity (welding, chemical bonding) produces a homogeneous result where the original components lose their distinct identity, but healthy relationships require partners to maintain individual selfhood'
+  - '[source] the unity metaphor implies symmetry -- both halves contribute equally to the whole -- obscuring power imbalances and asymmetric emotional investment that characterize real relationships'
 ---
 
 ## Transfers

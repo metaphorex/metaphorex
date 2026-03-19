@@ -20,6 +20,13 @@ related:
 slug: causes-and-effects-are-linked-objects
 source_frame: containers
 updated: '2026-03-17'
+transfers:
+  - '[source] linked objects are physically connected so that moving one necessarily moves the other, framing causal necessity as a physical coupling where the cause cannot occur without dragging the effect along'
+  - '[source] the link has a determinate length and rigidity, importing the structure where the causal connection has specific parameters -- how much force transmits, how quickly, with how much delay'
+  - '[source] links can be direct (one chain) or mediated by intermediate links, framing causal chains as sequences of connected segments where each transmits force to the next'
+limits:
+  - '[source] breaks because linked objects move in fixed geometric relation, while many causal relationships are probabilistic rather than deterministic -- the cause increases the likelihood of the effect without guaranteeing it'
+  - '[source] misleads by implying a visible, traceable connection between cause and effect, when many causal relationships operate through hidden mechanisms or emergent properties'
 ---
 
 ## Transfers

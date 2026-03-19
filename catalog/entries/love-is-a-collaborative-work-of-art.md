@@ -18,6 +18,13 @@ related:
 slug: love-is-a-collaborative-work-of-art
 source_frame: creative-process
 updated: '2026-03-14'
+transfers:
+  - '[source] a collaborative artwork requires both partners to contribute creatively while subordinating individual vision to a shared aesthetic, mapping mutual compromise in relationships'
+  - '[source] the work of art has no predetermined form -- it emerges from the process of making it -- structuring love as improvisational rather than goal-directed'
+  - '[source] collaborative art requires ongoing negotiation about style, medium, and direction, mapping the continuous communication that sustains a relationship'
+limits:
+  - '[source] artworks can be abandoned and started over with a blank canvas, but relationships accumulate shared history, children, and entanglements that cannot be erased and restarted'
+  - '[source] collaborative art produces a separable artifact that exists independently of its creators, but a love relationship has no product apart from the ongoing experience of the participants'
 ---
 
 ## Transfers

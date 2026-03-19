@@ -16,6 +16,13 @@ source_frame: food-and-cooking
 applies_to:
 - social-behavior
 updated: '2026-03-15'
+transfers:
+  - '[source] breaking bread requires physical co-presence and sustained shared time, encoding proximity and duration as preconditions of the bond'
+  - '[source] bread is subsistence food, not feast food, so the metaphor maps survival-level mutual dependence rather than celebratory socializing'
+  - '[source] sharing from the same loaf encodes reciprocity as structural to the relationship, distinguishing companionship from servitude'
+limits:
+  - '[source] breaks because the bread etymology is wheat-centric and Mediterranean, invisible to cultures whose staple is rice, maize, or millet'
+  - '[source] misleads because "company" has drifted from bread-sharing fellowship to a legal entity maximizing shareholder value, the warmth fully bleached out'
 ---
 
 ## Transfers

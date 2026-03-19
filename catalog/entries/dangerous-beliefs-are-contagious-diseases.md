@@ -19,6 +19,13 @@ related:
 slug: dangerous-beliefs-are-contagious-diseases
 source_frame: contagion
 updated: '2026-03-12'
+transfers:
+  - '[source] pathogens transmit from host to host through contact without the host''s awareness or consent, mapping belief adoption as involuntary infection'
+  - '[source] prior exposure to weakened pathogens builds immunity, providing the structural basis for inoculation theory in persuasion research'
+  - '[source] epidemic spread triggers collective containment measures (quarantine, contact tracing), licensing community-level intervention against belief propagation'
+limits:
+  - '[source] breaks because belief adoption involves agency and reasons, while catching a disease does not -- the metaphor strips believers of rational motivation'
+  - '[source] misleads because "which beliefs are dangerous" is a contested political question, but the disease frame disguises evaluation as neutral medical diagnosis'
 ---
 
 ## Transfers

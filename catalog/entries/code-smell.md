@@ -17,6 +17,13 @@ related:
 slug: code-smell
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] olfactory detection operates below conscious attention, triggering a reaction before the source can be identified or articulated'
+  - '[source] smell indicates something is wrong without diagnosing the specific cause, separating detection from diagnosis'
+  - '[source] noses adapt to persistent odors over time, losing sensitivity to smells in environments they inhabit continuously'
+limits:
+  - '[source] breaks because smell implies contamination and rot, moralizing code quality as dirtiness rather than enabling neutral discussion'
+  - '[source] misleads because olfactory judgment is inherently qualitative, implicitly devaluing automated measurement and formal analysis'
 ---
 
 ## Transfers

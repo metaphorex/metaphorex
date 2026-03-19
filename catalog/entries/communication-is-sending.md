@@ -18,6 +18,13 @@ related:
 slug: communication-is-sending
 source_frame: containers
 updated: '2026-03-14'
+transfers:
+  - '[source] a sender packages an object and ships it to a receiver, making communication fundamentally unidirectional from source to destination'
+  - '[source] the message is a discrete physical object that can be damaged, lost, or intercepted in transit between endpoints'
+  - '[source] successful delivery is confirmed by the receiver possessing the intact object, providing a clean success criterion for understanding'
+limits:
+  - '[source] breaks because meaning is constructed by the receiver, not unpacked from a pre-formed package -- two recipients build different meanings from identical cues'
+  - '[source] misleads because the sending model is one-directional, making dialogue and collaborative meaning-making look like alternating shipments rather than a joint activity'
 ---
 
 ## Transfers

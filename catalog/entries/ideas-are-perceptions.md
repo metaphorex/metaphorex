@@ -19,6 +19,13 @@ related:
 slug: ideas-are-perceptions
 source_frame: embodied-experience
 updated: '2026-03-12'
+transfers:
+  - '[source] maps sensory detection onto intellectual activity, so having an idea is noticing something and losing an idea is failing to perceive it before it fades from the perceptual field'
+  - '[source] imports the involuntary quality of perception -- you cannot choose what you see -- encoding the experience of ideas arriving unbidden, as insights that strike rather than constructions you build'
+  - '[source] gives ideas a figure-ground structure where attention foregrounds some ideas and backgrounds others, mapping the selective nature of perception onto the selective nature of thought'
+limits:
+  - '[source] misleads by making thinking feel passive and receptive when much intellectual work is active construction, not detection of pre-existing patterns'
+  - '[source] breaks for ideas that require sustained deliberate effort (mathematical proofs, engineering designs) rather than perceptual detection, since the metaphor has no vocabulary for the effortful building of ideas'
 ---
 
 ## Transfers

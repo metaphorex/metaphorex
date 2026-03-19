@@ -19,6 +19,13 @@ related:
 slug: logical-relations-are-causal-relations
 source_frame: causal-reasoning
 updated: '2026-03-12'
+transfers:
+  - '[source] causes temporally precede and necessitate their effects, mapping onto the experience of premises ''producing'' conclusions in a temporal sequence of reasoning'
+  - '[source] removing a cause prevents the effect, structuring the intuition that if a premise is withdrawn, the conclusion it supported collapses'
+  - '[source] causal chains transmit force through intermediaries, mapping multi-step deductions where each inference ''leads to'' the next'
+limits:
+  - '[source] causal relations are asymmetric and temporal (cause before effect), but logical entailment is timeless and symmetric in many formal systems (P entails Q does not require P to exist ''before'' Q)'
+  - '[source] causes can be probabilistic and admit exceptions, but logical entailment in deductive systems is all-or-nothing with no partial causation'
 ---
 
 ## Transfers

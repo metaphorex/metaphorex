@@ -18,6 +18,13 @@ related:
 slug: linear-scales-are-paths
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - '[source] a path has ordered positions -- you pass through earlier points to reach later ones -- mapping measurement scales onto spatial sequences where higher values are further along'
+  - '[source] movement along a path is continuous and directional, structuring the intuition that scale values change by traversing intermediate points rather than jumping'
+  - '[source] paths have landmarks at intervals, mapping onto the way scale markings serve as reference points for locating a value''s position'
+limits:
+  - '[source] paths can fork, loop back, or dead-end, but linear scales by definition have no branches or reversals, making the path metaphor over-rich for the target'
+  - '[source] travel along a path takes effort proportional to distance, but moving along an abstract scale involves no physical cost -- going from 1 to 100 is no harder than going from 1 to 2'
 ---
 
 ## Transfers

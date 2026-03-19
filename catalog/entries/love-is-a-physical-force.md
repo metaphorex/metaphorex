@@ -21,6 +21,13 @@ related:
 slug: love-is-a-physical-force
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] physical forces act on bodies without requiring consent or deliberation, mapping the involuntary quality of romantic attraction as something that happens to you rather than something you choose'
+  - '[source] forces have magnitude and direction -- they pull you toward someone with measurable intensity -- structuring love as quantifiable (''strongly attracted'') and directional'
+  - '[source] two bodies under mutual gravitational attraction orbit each other rather than one simply capturing the other, mapping the reciprocal quality of romantic attachment'
+limits:
+  - '[source] physical forces operate identically on identical masses regardless of history, but romantic attraction is shaped by personal history, memory, and narrative in ways that make each instance unique'
+  - '[source] forces diminish predictably with distance (inverse square law), but romantic attachment can intensify with absence and distance rather than weakening'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: emotions-are-entities-within-a-person
 source_frame: containers
 updated: '2026-03-14'
+transfers:
+  - '[source] the person is a container and emotions are independent entities inside it -- feelings rise up, well up, bubble to the surface, or lurk in the depths -- giving emotions spatial location and autonomous motion within the body'
+  - '[source] emotional regulation maps onto containment: suppressing emotions is holding them down, losing control is having them burst out, and catharsis is releasing accumulated pressure from the container'
+  - '[source] different emotions can coexist as separate entities within the same container, enabling the experience of mixed feelings as multiple agents occupying the same space with competing agendas'
+limits:
+  - '[source] breaks because the container metaphor implies emotions have fixed boundaries and discrete identities inside the person, when emotional states are continuous, overlapping, and often impossible to individuate as separate ''things'''
+  - '[source] misleads by treating emotional expression as releasing entities that were already formed inside, when many emotions take shape only in the act of expression and do not pre-exist as contained objects waiting to escape'
 ---
 
 ## Transfers

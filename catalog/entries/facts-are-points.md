@@ -21,6 +21,13 @@ related:
 slug: facts-are-points
 source_frame: geometry
 updated: '2026-03-12'
+transfers:
+  - '[source] facts occupy positions relative to each other in a conceptual space -- closely related facts are nearby, distant connections are far apart -- importing the topology of geometric points where proximity and clustering carry information'
+  - '[source] connecting facts is drawing lines between points (connecting the dots, linking observations), giving inferential reasoning the structure of constructing a geometric figure from its vertices'
+  - '[source] facts form patterns when viewed collectively (the big picture, a constellation of evidence), importing the gestalt property of point-sets where the arrangement carries meaning that individual points do not'
+limits:
+  - '[source] breaks because geometric points are dimensionless and interchangeable, while facts have internal structure, weight, reliability, and interpretive context that points in a plane do not'
+  - '[source] misleads by implying that the pattern is inherent in the arrangement of facts (as a constellation is inherent in star positions), when the pattern is often imposed by the observer''s interpretive framework rather than discovered in the data'
 ---
 
 ## Transfers

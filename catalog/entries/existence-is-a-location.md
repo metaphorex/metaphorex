@@ -19,6 +19,13 @@ related:
 slug: existence-is-a-location
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - '[source] to exist is to be located somewhere -- things come into being by appearing in a place, and cease to exist by disappearing from it -- mapping ontological status onto spatial presence or absence'
+  - '[source] the transition between existence and non-existence maps onto arrival and departure: things come into existence (arrive), are in existence (occupy a place), and go out of existence (depart), giving ontological change the structure of movement'
+  - '[source] degrees of existence map onto spatial proximity -- something that barely exists is ''hardly there,'' something robustly real is ''very much present'' -- importing a gradient where the source domain (location) naturally has one'
+limits:
+  - '[source] breaks because locations persist independently of their occupants, but existence has no empty container waiting to be filled -- the metaphor implies that the ''place'' of existence precedes the existent, which is an ontological claim the source domain cannot support'
+  - '[source] misleads by making non-existence feel like an empty location (being nowhere), when non-existence is not a place you can fail to find something but a category error about spatial search'
 ---
 
 ## Transfers

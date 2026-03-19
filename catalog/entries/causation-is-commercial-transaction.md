@@ -19,6 +19,13 @@ related:
 slug: causation-is-commercial-transaction
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - '[source] in a commercial transaction, one party gives something and the other receives, framing cause-effect relationships as exchanges where the cause transfers something to the effect'
+  - '[source] transactions have a defined price that balances the exchange, framing causal sufficiency as the "cost" required to produce the effect -- insufficient cause is underpayment that yields no result'
+  - '[source] transactions can be reversed through returns or refunds, importing the structure where effects can sometimes be undone by reversing the causal exchange'
+limits:
+  - '[source] breaks because commercial transactions require willing parties on both sides, while causal relationships are asymmetric -- the effect does not consent to being caused'
+  - '[source] misleads by implying cause and effect exchange equivalent value, when causal relationships are often radically disproportionate (a spark causing an explosion)'
 ---
 
 ## Transfers

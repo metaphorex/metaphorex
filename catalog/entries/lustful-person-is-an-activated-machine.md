@@ -19,6 +19,13 @@ related:
 slug: lustful-person-is-an-activated-machine
 source_frame: manufacturing
 updated: '2026-03-13'
+transfers:
+  - '[source] a machine must be activated by an external trigger (switch, fuel, signal) before it operates, mapping the experience of lust as something switched on by a specific stimulus rather than self-generated'
+  - '[source] an activated machine runs until its fuel is exhausted or it is shut down, structuring lust as a process that persists mechanically until a termination condition is met'
+  - '[source] machines operate according to their design purpose with no discretion, mapping the reduction of the lustful person to a single function that overrides their other capacities'
+limits:
+  - '[source] machines can be turned off instantly with a switch, but human arousal does not have a binary off-switch and involves complex physiological and psychological deactivation'
+  - '[source] machines are designed for a purpose and operate correctly when activated, but framing lust as machine activation implies it is the person''s intended function, eliding moral agency'
 ---
 
 ## Transfers

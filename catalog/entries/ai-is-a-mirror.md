@@ -15,6 +15,13 @@ related:
 slug: ai-is-a-mirror
 source_frame: vision
 updated: '2026-03-13'
+transfers:
+  - '[source] a mirror reflects what stands before it without originating its own image, framing AI outputs as reflections of training data and user prompts rather than autonomous thought'
+  - '[source] a mirror reverses left and right while preserving overall structure, importing the insight that AI outputs resemble their sources but with systematic transformations'
+  - '[source] the quality of reflection depends on the mirror''s surface, mapping model architecture and training quality onto the fidelity of the reflection'
+limits:
+  - '[source] breaks because mirrors reflect in real time with no memory, while AI encodes compressed statistical patterns from a training corpus that may be years stale'
+  - '[source] misleads by implying perfect fidelity to input, when models interpolate, extrapolate, and hallucinate content that has no direct source in what was reflected'
 ---
 
 ## Transfers

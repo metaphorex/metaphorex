@@ -15,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - mental-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] maps the Intertropical Convergence Zone -- a belt of ocean where winds die and sailing ships stall for days or weeks -- onto a state of listless inactivity caused by external conditions rather than personal failing'
+  - '[source] imports the specific helplessness of a wind-powered vessel in calm air, where the technology itself requires the absent resource and no amount of crew effort can substitute for wind'
+  - '[source] carries the geographic specificity of a known hazard zone that sailors entered knowingly but could not avoid on certain routes, mapping predictable but unavoidable stagnation onto life circumstances'
+limits:
+  - '[source] misleads because the nautical doldrums are temporary and geographically bounded -- ships eventually drift through -- while the idiomatic usage often describes indefinite psychological stagnation with no guaranteed exit'
+  - '[source] breaks when the person in the doldrums could take action to change their situation, since the nautical source specifically encodes a situation where action is impossible because the enabling medium (wind) is absent'
 ---
 
 ## Transfers

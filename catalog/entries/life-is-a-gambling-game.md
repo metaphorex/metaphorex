@@ -19,6 +19,13 @@ related:
 slug: life-is-a-gambling-game
 source_frame: gambling
 updated: '2026-03-14'
+transfers:
+  - '[source] gambling involves calculated risk under irreducible uncertainty where the odds can be estimated but individual outcomes cannot be predicted'
+  - '[source] a gambler must commit resources (stake something) before the outcome is known, mapping onto the structure of life decisions that require irreversible investment under uncertainty'
+  - '[source] gambling games have rules that constrain but do not determine outcomes, structuring life as operating within constraints where luck and skill both matter'
+limits:
+  - '[source] gambling games have explicit odds that can be calculated, while most life decisions involve Knightian uncertainty where the probability distribution itself is unknown'
+  - '[source] a gambling loss is cleanly quantified (you lose your stake), whereas life setbacks often have cascading, qualitative consequences that resist measurement'
 ---
 
 ## Transfers

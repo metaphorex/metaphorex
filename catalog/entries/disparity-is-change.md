@@ -18,6 +18,13 @@ related:
 slug: disparity-is-change
 source_frame: event-structure
 updated: '2026-03-12'
+transfers:
+  - '[source] two things that differ are described as having diverged from a prior state of sameness, imposing a temporal narrative onto a static comparison'
+  - '[source] degree of difference maps onto distance traveled, making greater disparity feel like more motion has occurred between the compared states'
+  - '[source] reducing disparity is convergence -- two things moving toward each other -- providing an intuitive model for closing gaps'
+limits:
+  - '[source] breaks because two things can be different without ever having been the same, yet the change metaphor always implies a common origin'
+  - '[source] misleads because the change frame assigns direction asymmetrically -- one thing is the reference point and the other has "deviated," making us the standard and them the deviant'
 ---
 
 ## Transfers

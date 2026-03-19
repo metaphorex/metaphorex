@@ -19,6 +19,13 @@ related:
 slug: intimacy-gradient
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - '[source] maps Alexander''s architectural continuum from public to private spaces onto software and organizational design, where interfaces are arranged from most-exposed to most-protected along a single gradient'
+  - '[source] imports the principle that spaces should transition gradually rather than jumping from fully public to fully private, encoding the design heuristic that abrupt access-level changes disorient users'
+  - '[source] gives the gradient a directional structure where deeper means more intimate, so the depth of access correlates with the trust level required, mapping physical depth onto permission levels'
+limits:
+  - '[source] misleads because architectural gradients are spatial and continuous, while software access boundaries are typically discrete permission levels with sharp cutoffs rather than smooth transitions'
+  - '[source] breaks when the system requires lateral movement between private spaces at the same depth level, since the gradient assumes a single axis from public to private and provides no vocabulary for peer-to-peer access among equally intimate zones'
 ---
 
 ## Transfers

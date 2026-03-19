@@ -22,6 +22,13 @@ related:
 slug: good-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] positive evaluation maps onto elevated spatial position -- things look up when improving, hit high points at their best, and are at the pinnacle at their peak -- generalizing the vertical axis used by HAPPY IS UP, HEALTHY IS UP, and CONSCIOUS IS UP into a unified evaluative orientation'
+  - '[source] moral quality maps onto height: virtuous behavior is elevated (high standards, upstanding citizen) and immoral behavior is debased (low blow, fallen from grace), connecting spatial orientation to ethical judgment'
+  - '[source] improvement maps onto ascent and deterioration maps onto descent, giving evaluative change a directional geometry where ''up'' is always the direction of betterment regardless of the specific domain being evaluated'
+limits:
+  - '[source] breaks because competing vertical metaphors assign opposite values to the same direction -- ''down to earth'' is a compliment, ''high and mighty'' is an insult -- revealing contradictions that speakers navigate by context but that expose the metaphor''s constructed nature'
+  - '[source] misleads by naturalizing hierarchies: if good is literally above, then social stratification (with ''better'' people on top) feels like a spatial fact rather than a social construction, providing cognitive scaffolding for inequality'
 ---
 
 ## Transfers

@@ -7,6 +7,7 @@ categories:
 - philosophy
 - software-engineering
 contributors: []
+harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: AI Is an Agent
@@ -18,6 +19,13 @@ related:
 slug: ai-is-an-agent
 source_frame: governance
 updated: '2026-03-13'
+transfers:
+  - '[source] an agent acts on behalf of a principal under delegated authority, importing a fiduciary structure where the AI''s actions should serve the user''s interests and the user bears responsibility for outcomes'
+  - '[source] agents exercise discretion within bounded authority -- a real estate agent negotiates but cannot change the listing price without permission -- framing AI autonomy as operating within human-defined constraints'
+  - '[source] the principal-agent relationship creates information asymmetry where the agent knows things the principal does not, importing the structural problem of monitoring AI decisions the user cannot fully observe'
+limits:
+  - '[source] breaks because human agents have independent interests that can conflict with the principal''s (moral hazard), while AI has no interests at all -- the alignment problem is structural, not motivational'
+  - '[source] misleads by implying the AI understands its delegated role and the principal''s intent, when it follows optimization targets that may diverge from the user''s actual goals'
 ---
 
 ## Transfers

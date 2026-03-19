@@ -20,6 +20,13 @@ related:
 slug: necessary-prerequisite-for-change-is-source-of-moving-entity
 source_frame: journeys
 updated: '2026-03-13'
+transfers:
+  - '[source] a moving entity must start from a specific location (its source), and the source determines the initial trajectory of motion, mapping prerequisites as not just necessary but directionally constraining'
+  - '[source] you cannot begin a journey without being at the starting point first, structuring prerequisites as spatial requirements -- you must ''be in the right place'' before change can begin'
+  - '[source] the source is left behind once motion begins, mapping the idea that prerequisites are consumed or superseded by the change they enable rather than persisting alongside it'
+limits:
+  - '[source] a spatial source is a single unique point, but real prerequisites for change can be multiple, distributed, and partially substitutable rather than singular'
+  - '[source] the source of motion is external to the mover (a place on a map), but prerequisites for personal change are often internal capacities that must be developed rather than locations that must be visited'
 ---
 
 ## Transfers

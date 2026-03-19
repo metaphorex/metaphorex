@@ -16,6 +16,13 @@ related:
 slug: compliance-is-following
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - '[source] following requires a leader ahead on the path who sets direction, making compliance a spatial consequence of being behind rather than a chosen act'
+  - '[source] deviation from the path is spatial wandering -- going astray, erring -- conflating error with aimless displacement'
+  - '[source] degree of compliance maps onto distance from the leader or path, with strict compliance as close following and loose compliance as following at a distance'
+limits:
+  - '[source] breaks because following implies a single correct path, but regulatory environments often involve competing rules and multiple valid interpretations'
+  - '[source] misleads because following is passive retracing of steps, hiding the active interpretation, judgment, and creativity that real compliance demands'
 ---
 
 ## Transfers

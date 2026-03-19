@@ -22,6 +22,13 @@ related:
 slug: ideas-are-plants
 source_frame: horticulture
 updated: '2026-03-14'
+transfers:
+  - '[source] maps the horticultural cycle (planting, rooting, growth, branching, fruiting, withering) onto intellectual development, encoding the temporal patience required for ideas to mature'
+  - '[source] imports the dependency on environmental conditions -- fertile soil, adequate light, proper season -- so ideas thrive only in the right institutional and cultural conditions, not by willpower alone'
+  - '[source] gives ideas a branching structure where a single root idea produces diverse offshoots, mapping the arboreal form onto the divergent elaboration of intellectual traditions'
+limits:
+  - '[source] misleads by making intellectual development seem organic and automatic -- "just add water" -- when ideas require deliberate human cultivation, argument, and defense that have no plant analogue'
+  - '[source] breaks because plants are rooted and cannot relocate, while ideas travel freely across contexts, cultures, and centuries, violating the place-bound nature of the botanical source'
 ---
 
 ## Transfers

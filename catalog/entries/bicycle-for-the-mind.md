@@ -16,6 +16,13 @@ related:
 slug: bicycle-for-the-mind
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] a bicycle converts human pedaling into locomotion more efficiently than any other mechanism, framing the computer as achieving maximum cognitive output per unit of human mental effort'
+  - '[source] the rider provides all energy and directional control while the bicycle provides only mechanical advantage, importing a strict division where the human originates and the machine amplifies'
+  - '[source] a bicycle requires learned skill (balance, coordination) before it becomes useful, framing computer literacy as a physical-like proficiency rather than mere access to a passive tool'
+limits:
+  - '[source] breaks because a bicycle amplifies a single physical capability (locomotion), while computers amplify categorically different cognitive functions (memory, calculation, communication) that do not reduce to one dimension'
+  - '[source] misleads by implying the rider always knows where they are going, when many computer users explore, experiment, and discover destinations they did not set out for'
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: light-is-a-fluid
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+transfers:
+  - '[source] fluid fills available volume and finds its own level, mapping onto how light fills a room uniformly once admitted through an opening'
+  - '[source] fluid flows through apertures and can be dammed or channeled by barriers, structuring illumination as something directed and controlled by architectural features'
+  - '[source] fluid can pool in low areas and be drained away, mapping the way light accumulates in reflective spaces and dissipates when sources are removed'
+limits:
+  - '[source] fluid is subject to gravity and always flows downward, whereas light propagates in straight lines regardless of gravitational direction under everyday conditions'
+  - '[source] fluid mixes when two streams converge (changing both), but light beams cross without interacting, preserving their independent properties'
 ---
 
 ## Transfers
