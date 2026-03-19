@@ -17,6 +17,13 @@ related:
 slug: augean-stables
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] the stables housed three thousand cattle and had not been cleaned in thirty years, framing the target problem as accumulated neglect so extreme that normal incremental effort is futile'
+  - '[source] Heracles cleaned the stables by diverting two rivers through them, importing the structural solution of using an overwhelming external force rather than working within the contaminated system'
+  - '[source] the task was assigned as one of twelve labors deemed impossible, framing the cleanup as a test of ingenuity rather than endurance'
+limits:
+  - '[source] breaks because river diversion is a one-time mechanical solution, while most accumulated institutional debt requires sustained cultural change that cannot be flushed away in a single intervention'
+  - '[source] misleads by implying the mess was purely physical accumulation, when organizational debt involves entangled dependencies, political agreements, and institutional memory that resist brute-force cleanup'
 ---
 
 ## Transfers

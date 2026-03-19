@@ -22,6 +22,13 @@ related:
 slug: causation-is-control-over-an-object-relative-to-a-possessor
 source_frame: economics
 updated: '2026-03-17'
+transfers:
+  - '[source] causing someone to have something is structured as transferring an object from one possessor to another, framing causation as a change in possession relations'
+  - '[source] the cause-agent controls the transfer, deciding what is given, to whom, and when, importing intentional agency into the causal structure'
+  - '[source] possession is binary -- you either have the object or you do not -- framing the effect as a discrete state change rather than a gradient'
+limits:
+  - '[source] breaks because many causal effects are not about acquiring or losing discrete objects but about continuous changes in state, degree, or quality'
+  - '[source] misleads by requiring an identifiable possessor on both ends, when many causal chains have no discrete agent who gives or receives'
 ---
 
 ## Transfers

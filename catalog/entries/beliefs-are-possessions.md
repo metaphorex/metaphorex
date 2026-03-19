@@ -22,6 +22,13 @@ related:
 slug: beliefs-are-possessions
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] possessions are acquired, held, defended, and can be lost or stolen, framing beliefs as objects over which a person exercises ownership and control'
+  - '[source] possessions can be given to others without the giver necessarily losing them, importing the structure of belief-sharing where teaching does not diminish the teacher''s conviction'
+  - '[source] the value of a possession depends on how tightly the owner holds it, framing strength of conviction as a grip that can be loosened or tightened'
+limits:
+  - '[source] breaks because possessions are external to the self and can be separated without altering identity, while beliefs are constitutive of identity and their loss can transform the holder'
+  - '[source] misleads by implying beliefs are discrete objects with clear boundaries, when beliefs form interconnected webs where modifying one changes the meaning of others'
 ---
 
 ## Transfers

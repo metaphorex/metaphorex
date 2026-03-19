@@ -17,6 +17,13 @@ related:
 slug: cerberus
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] Cerberus guards the boundary of the underworld, permitting entry but preventing exit, framing access control as asymmetric -- it is easier to get into the system than to leave it'
+  - '[source] the three heads watch simultaneously in multiple directions, importing the structure of multi-channel monitoring where a single guardian covers all approach vectors'
+  - '[source] Cerberus is bribed with honey cakes and drugged by Orpheus''s music, framing even formidable gatekeepers as having exploitable weaknesses that bypass rather than overcome their defenses'
+limits:
+  - '[source] breaks because Cerberus is a single entity whose defeat grants unrestricted access, while real security systems are layered so that bypassing one checkpoint does not disable all subsequent ones'
+  - '[source] misleads by personifying access control as a conscious guardian with judgment, when most real access control is automated rules-based processing without discretion'
 ---
 
 ## Transfers

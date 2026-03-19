@@ -16,6 +16,13 @@ related:
 slug: ai-is-a-spell-checker
 source_frame: tool-use
 updated: '2026-03-13'
+transfers:
+  - '[source] a spell checker applies deterministic rules against a known-correct dictionary, framing AI as a constraint-checker that flags deviations from established norms'
+  - '[source] spell checkers process surface form without understanding meaning, importing the structural limitation that corrections may be formally valid but contextually wrong'
+  - '[source] the user retains override authority and can add words to the dictionary, framing the human as the final authority who trains the tool rather than being trained by it'
+limits:
+  - '[source] breaks because spell checkers operate on a closed set of rules with predictable behavior, while LLMs generate probabilistic outputs that cannot be fully anticipated from their inputs'
+  - '[source] misleads by framing AI errors as mere typo-level mistakes easily caught by inspection, when AI failures can be semantically plausible but factually catastrophic'
 ---
 
 ## Transfers

@@ -17,6 +17,13 @@ source_frame: animal-husbandry
 applies_to:
 - economics
 updated: '2026-03-15'
+transfers:
+  - '[source] branding livestock with a hot iron permanently marks ownership and origin on the animal''s hide, framing commercial branding as burning an identity marker into the product that cannot be removed'
+  - '[source] the brand mark is deliberately painful to apply and leaves a scar, importing the insight that establishing brand identity requires significant upfront investment that permanently alters the product'
+  - '[source] the brand allows ranchers to identify their cattle in a mixed herd, framing the commercial function as distinguishing one provider''s goods from competitors in a crowded market'
+limits:
+  - '[source] breaks because a cattle brand is applied once and is permanent, while commercial brands are continuously maintained and can be deliberately changed through rebranding'
+  - '[source] misleads by implying the brand is imposed on a passive object, when modern brand identity is co-created through customer perception, cultural associations, and social media discourse'
 ---
 
 ## Transfers

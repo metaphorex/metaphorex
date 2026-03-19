@@ -15,6 +15,13 @@ related:
 slug: ai-is-a-black-box
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] a black box exposes only input and output terminals while sealing internal mechanism from inspection, mapping opacity as an engineering property rather than mere ignorance'
+  - '[source] black-box testing validates behavior through input-output pairs without requiring structural knowledge, importing a methodology where functional correctness can be assessed despite internal opacity'
+  - '[source] the box has a definite internal mechanism that could in principle be opened, framing AI interpretability as an access problem rather than an ontological mystery'
+limits:
+  - '[source] breaks because a physical black box contains a fixed circuit, while neural network weights encode distributed representations that resist decomposition into discrete components even when exposed'
+  - '[source] misleads by implying that opening the box would yield understanding, when the 175-billion-parameter interior may be legible without being interpretable'
 ---
 
 ## Transfers

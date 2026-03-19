@@ -3,6 +3,7 @@ author: agent:metaphorex-miner
 categories:
 - linguistics
 contributors: []
+harness: Claude Code
 created: '2026-03-14'
 kind: metaphor
 dead: true
@@ -14,6 +15,13 @@ source_frame: seafaring
 applies_to:
 - argumentation
 updated: '2026-03-14'
+transfers:
+  - '[source] loggerheads were iron tools heated in a fire and used to melt pitch, creating a heavy blunt weapon in a dockside dispute where both combatants face mutual injury'
+  - '[source] the improvised weapon is crude and dangerous to both wielder and target, framing the dispute as one where neither party has refined instruments of resolution'
+  - '[source] the confrontation is static -- both sides hold their heated implements and neither advances -- importing the structure of a deadlock where escalation is mutually destructive'
+limits:
+  - '[source] breaks because the original loggerhead confrontation was physical and could be resolved by one party backing down, while modern usage describes abstract disagreements that may have no yielding mechanism'
+  - '[source] misleads by implying equal power between the parties, when many deadlocked disputes involve asymmetric stakes or leverage'
 ---
 
 ## Transfers
