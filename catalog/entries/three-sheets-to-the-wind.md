@@ -20,14 +20,6 @@ updated: '2026-03-14'
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 A "sheet" in sailing is not a sail -- it is a rope (or chain) that
 controls the angle of a sail relative to the wind. Each sail has one
 or two sheets. If a sheet comes loose, its sail flaps uncontrolled and
@@ -67,7 +59,8 @@ person.
   metaphor imports the distinction between capacity and control.
   A drunk person still has legs that work; they just cannot coordinate
   them. The impairment is in the governance, not the machinery.
-## Where It Breaks
+
+## Limits
 
 - **Most people think "sheets" means "sails"** -- this is the most
   common misunderstanding of the expression. If sheets were sails,
@@ -100,6 +93,7 @@ person.
   way to say "drunk"; they use it when they want to sound
   picturesque. This is a stage beyond dead metaphor -- it is a
   fossilized metaphor that has been revived as ornament.
+
 ## Expressions
 
 - "Three sheets to the wind" -- very drunk, with the nautical origin
@@ -111,6 +105,7 @@ person.
   (the ship is listing so far it takes on water), which provides
   evidence that sailors had a whole vocabulary of ship-as-drunk-body
   mappings
+
 ## Origin Story
 
 The expression appears in print by the early 19th century. Richard

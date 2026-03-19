@@ -18,14 +18,6 @@ updated: '2026-03-14'
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 The offing is the part of the open sea visible from shore, beyond the
 anchorage but before the horizon. A ship "in the offing" has been
 sighted -- it is visible, identifiable, clearly approaching -- but it
@@ -62,7 +54,8 @@ Key structural parallels:
   one arriving. This maps onto the experiential structure of
   anticipation: you perceive the approaching event but do not control
   its timing or trajectory.
-## Where It Breaks
+
+## Limits
 
 - **The offing implies a single direction of approach** -- ships arrive
   from the sea toward shore along a roughly predictable path. But many
@@ -90,6 +83,7 @@ Key structural parallels:
   gave the expression its original precision. The loss of the source
   domain collapses what was a carefully calibrated spatial-temporal
   mapping into a generic temporal marker.
+
 ## Expressions
 
 - "A deal is in the offing" -- an anticipated agreement as a ship
@@ -102,6 +96,7 @@ Key structural parallels:
   system visible on the horizon
 - "Relief is in the offing" -- expected improvement as approaching
   vessel carrying needed supplies
+
 ## Origin Story
 
 The word offing has been in English maritime vocabulary since at least
@@ -120,4 +115,3 @@ slightly dramatic, slightly anticipatory. But the word "offing" itself
 has no meaning for most speakers outside this single fixed phrase,
 making it a lexical fossil -- a word preserved only inside the
 expression it helped create.
-
