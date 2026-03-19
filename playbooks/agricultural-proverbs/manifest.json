@@ -1,0 +1,385 @@
+{
+  "project": "agricultural-proverbs",
+  "project_issue": 1358,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://glossophilia.org/2021/01/on-and-off-the-farm-some-phrases-straight-out-of-the-barnyard/",
+    "https://permacultureprinciples.com/permaculture-principles/",
+    "https://proverbicals.com/farming",
+    "https://worldpermacultureassociation.com/holmgren-principles/",
+    "https://worldpermacultureassociation.com/mollison-principles/"
+  ],
+  "excluded_existing": [
+    "creation-is-cultivation",
+    "creative-process-is-gardening",
+    "ideas-are-plants",
+    "people-are-plants",
+    "prosperity-is-plant-growth",
+    "beauty-is-a-flower",
+    "cornucopia",
+    "harm-is-a-thorn",
+    "silo"
+  ],
+  "candidates": [
+    {
+      "slug": "you-reap-what-you-sow",
+      "name": "You Reap What You Sow",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "moral-accounting",
+      "categories": ["folk-wisdom", "cognitive-linguistics"],
+      "source": "archive",
+      "description": "Biblical agricultural metaphor (Galatians 6:7) mapping harvest consequences to moral consequences. One of the most deeply embedded causal metaphors in English -- actions are seeds, outcomes are crops, and the harvest is inevitable."
+    },
+    {
+      "slug": "make-hay-while-the-sun-shines",
+      "name": "Make Hay While the Sun Shines",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "time-and-temporality",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Tudor-era proverb (John Heywood, 1546) mapping the urgency of hay-drying weather to opportunity windows. Holmgren adopted it for permaculture principle #2 (Catch and Store Energy). The agricultural constraint is literal -- wet hay rots and can spontaneously combust."
+    },
+    {
+      "slug": "separate-wheat-from-chaff",
+      "name": "Separate the Wheat from the Chaff",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "evaluation-and-judgment",
+      "categories": ["folk-wisdom", "cognitive-linguistics"],
+      "source": "archive",
+      "description": "Winnowing metaphor mapping grain processing to judgment and discrimination. Biblical origin (Matthew 3:12). The physical process -- tossing grain in wind so lighter chaff blows away -- maps to any evaluative process that separates value from noise."
+    },
+    {
+      "slug": "dont-count-your-chickens-before-they-hatch",
+      "name": "Don't Count Your Chickens Before They Hatch",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "causal-reasoning",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Poultry-farming metaphor against premature certainty. Eggs are potential, chicks are realized value -- the gap between them is where overconfidence lives. Maps to project planning, financial forecasting, and any domain where expected value differs from realized value."
+    },
+    {
+      "slug": "dont-put-all-your-eggs-in-one-basket",
+      "name": "Don't Put All Your Eggs in One Basket",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "risk-and-uncertainty",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Egg-gathering diversification metaphor. Maps fragile agricultural output to portfolio theory -- concentration risk is universally bad when individual outcomes are uncertain. Holmgren uses it for permaculture principle #10 (Use and Value Diversity)."
+    },
+    {
+      "slug": "sow-wild-oats",
+      "name": "Sow Wild Oats",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "human-development",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Wild oats are a weed species that reduces crop yield. 'Sowing wild oats' maps unproductive planting to youthful recklessness -- the expenditure of energy on things that will not produce useful harvest. Implies a season for wildness before settling into productive cultivation."
+    },
+    {
+      "slug": "a-hard-row-to-hoe",
+      "name": "A Hard Row to Hoe",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "difficulty-and-effort",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Hand-cultivation metaphor mapping the physical labor of hoeing rocky or weedy ground to any difficult sustained task. The row is the unit of work; its hardness comes from the soil, not the worker -- a structural difficulty, not a personal failing."
+    },
+    {
+      "slug": "put-out-to-pasture",
+      "name": "Put Out to Pasture",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "organizational-behavior",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Livestock retirement metaphor. Working horses and cattle are put to pasture when no longer productive. Maps to forced retirement, sidelining, or the transition from active use to comfortable irrelevance. Carries the uncomfortable implication that the subject's productive years are over."
+    },
+    {
+      "slug": "fallow-period",
+      "name": "Fallow Period",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "creative-process",
+      "categories": ["folk-wisdom", "cognitive-linguistics"],
+      "source": "llm",
+      "description": "Deliberately leaving a field unplanted to restore soil fertility. Maps to creative rest, sabbaticals, and the counterintuitive productivity of not-doing. The agricultural insight is that continuous extraction depletes; rest is not idleness but investment in future capacity."
+    },
+    {
+      "slug": "the-masters-eye-is-the-best-fertilizer",
+      "name": "The Master's Eye Is the Best Fertilizer",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "organizational-behavior",
+      "categories": ["folk-wisdom"],
+      "source": "llm",
+      "description": "Attributed to Pliny the Elder. The farmer who inspects their fields daily gets better yields than the one who delegates and disappears. Maps attention itself as a nutrient -- management by presence rather than by policy. Directly cited in the import project issue."
+    },
+    {
+      "slug": "you-cant-plow-a-field-by-turning-it-over-in-your-mind",
+      "name": "You Can't Plow a Field by Turning It Over in Your Mind",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "action-and-agency",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Irish proverb mapping the physical act of plowing to mental deliberation. 'Turning over' puns on both soil preparation and rumination. An anti-overthinking proverb: planning is not doing, and the field does not care about your intentions."
+    },
+    {
+      "slug": "feed-the-soil-not-the-plant",
+      "name": "Feed the Soil, Not the Plant",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["folk-wisdom", "systems-thinking"],
+      "source": "llm",
+      "description": "Regenerative agriculture principle: chemical fertilizer feeds the plant directly but degrades the soil microbiome; compost feeds the soil ecosystem which then feeds the plant. Maps to infrastructure investment vs. output optimization -- build the platform, not the feature."
+    },
+    {
+      "slug": "the-problem-is-the-solution",
+      "name": "The Problem Is the Solution",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Mollison's permaculture principle #2. 'You don't have a snail problem, you have a duck deficiency.' Every pest is a resource viewed from the wrong angle. Maps to reframing -- the constraint is data about what the system needs, not an obstacle to remove."
+    },
+    {
+      "slug": "stacking-functions",
+      "name": "Stacking Functions",
+      "kind": "pattern",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Permaculture design principle: every element should serve multiple functions (a pond provides irrigation, fire protection, aquaculture, and microclimate moderation). Maps to platform engineering, API design, and any context where single-purpose components waste systemic potential."
+    },
+    {
+      "slug": "use-edges-and-value-the-marginal",
+      "name": "Use Edges and Value the Marginal",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Holmgren's permaculture principle #11. Ecological edges (forest-meadow, land-water) are the most productive zones. Maps to innovation at disciplinary boundaries, the value of marginal voices, and the productivity of liminal spaces between established categories."
+    },
+    {
+      "slug": "use-small-and-slow-solutions",
+      "name": "Use Small and Slow Solutions",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Holmgren's permaculture principle #9. Small systems are easier to maintain, make better use of local resources, and produce more sustainable outcomes. Maps to iterative development, minimum viable products, and the diseconomies of scale in complex systems."
+    },
+    {
+      "slug": "observe-and-interact",
+      "name": "Observe and Interact",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Holmgren's permaculture principle #1. Spend a full year observing the land before designing. Maps to genchi genbutsu (go and see), ethnographic research, and the discipline of understanding a system before intervening in it."
+    },
+    {
+      "slug": "catch-and-store-energy",
+      "name": "Catch and Store Energy",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Holmgren's permaculture principle #2. Capture resources when abundant for use in lean times -- water harvesting, food preservation, seed saving. Maps to knowledge management, technical debt reduction during slack periods, and any invest-now-for-later strategy."
+    },
+    {
+      "slug": "obtain-a-yield",
+      "name": "Obtain a Yield",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Holmgren's permaculture principle #3. Idealism that produces no tangible output is unsustainable. Maps to the pragmatic constraint on any utopian project: if it doesn't feed someone today, it won't exist tomorrow. 'You can't work on an empty stomach.'"
+    },
+    {
+      "slug": "produce-no-waste",
+      "name": "Produce No Waste",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Holmgren's permaculture principle #6. In natural ecosystems, every output is an input to another process. Maps to circular economy, zero-waste manufacturing, and the software principle that unused code and data are liabilities, not assets."
+    },
+    {
+      "slug": "integrate-rather-than-segregate",
+      "name": "Integrate Rather Than Segregate",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Holmgren's permaculture principle #8. Polyculture outperforms monoculture because species relationships create emergent benefits. Maps to cross-functional teams, interdisciplinary research, and the danger of organizational silos."
+    },
+    {
+      "slug": "design-from-patterns-to-details",
+      "name": "Design from Patterns to Details",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "systems-thinking",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Holmgren's permaculture principle #7. Observe large-scale patterns (water flow, sun angles, wind) before placing individual elements. Maps to architecture-first software design, strategic planning before tactical execution, and Alexander's pattern language."
+    },
+    {
+      "slug": "deep-roots-are-not-reached-by-frost",
+      "name": "Deep Roots Are Not Reached by Frost",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "resilience",
+      "categories": ["folk-wisdom"],
+      "source": "llm",
+      "description": "Proverb mapping root depth to resilience. Surface-level establishment is vulnerable to environmental shocks; deep investment in fundamentals (deep roots) provides protection. Tolkien popularized a version: 'Not all those who wander are lost ... deep roots are not reached by the frost.'"
+    },
+    {
+      "slug": "dont-let-the-fox-guard-the-henhouse",
+      "name": "Don't Let the Fox Guard the Henhouse",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "authority-and-delegation",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Farmyard security metaphor mapping predator-prey relationships to conflicts of interest. The fox has both the access and the incentive to destroy what it guards. Maps to regulatory capture, insider threats, and any governance failure where the overseer has misaligned incentives."
+    },
+    {
+      "slug": "you-can-lead-a-horse-to-water",
+      "name": "You Can Lead a Horse to Water But You Can't Make It Drink",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "authority-and-delegation",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Animal husbandry metaphor mapping the limits of external compulsion to the limits of authority. You can provide opportunity, resources, and access -- but you cannot force intrinsic motivation. Maps to education, management, and any helping relationship where the helped must choose to act."
+    },
+    {
+      "slug": "dont-cast-pearls-before-swine",
+      "name": "Don't Cast Pearls Before Swine",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "evaluation-and-judgment",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Biblical farmyard metaphor (Matthew 7:6) mapping livestock feeding to audience selection. Pigs cannot appreciate pearls and will trample them. Maps to the waste of offering sophisticated ideas to unreceptive audiences, mismatched communication, and the importance of knowing your audience."
+    },
+    {
+      "slug": "black-sheep",
+      "name": "Black Sheep of the Family",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "social-identity",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Sheep breeding metaphor. Black wool was commercially less valuable than white (couldn't be dyed). The black sheep is the aberrant member whose difference reduces the group's perceived value. Maps to organizational misfits, family dynamics, and the social cost of nonconformity."
+    },
+    {
+      "slug": "till-the-cows-come-home",
+      "name": "Till the Cows Come Home",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "time-and-temporality",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Pastoral time metaphor. Cows return from pasture at their own pace, unhurried and unresponsive to urgency. Maps duration to the slowest natural process available -- indefinitely long, with no external force that can accelerate it."
+    },
+    {
+      "slug": "needle-in-a-haystack",
+      "name": "Needle in a Haystack",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "search-and-discovery",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Hay storage metaphor mapping the impossibility of finding a small metal object in a large volume of similar-looking organic material to any search problem with an unfavorable signal-to-noise ratio. The haystack is big, the needle is small, and there is no shortcut."
+    },
+    {
+      "slug": "manure-is-the-farmers-gold",
+      "name": "Manure Is the Farmer's Gold",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "evaluation-and-judgment",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Estonian proverb inverting aesthetic judgment. What appears disgusting (manure) is the most valuable agricultural input (soil fertility). Maps to the revaluation of waste products, unglamorous work, and the insight that the most important inputs are often the least attractive ones."
+    },
+    {
+      "slug": "praise-the-ripe-field-not-the-green-corn",
+      "name": "Praise the Ripe Field, Not the Green Corn",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "evaluation-and-judgment",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "Irish harvest proverb mapping crop maturity to the timing of evaluation. Judge by results, not by promising beginnings. Green corn looks vigorous but may fail before harvest. Maps to premature product launches, early-stage hype cycles, and the gap between potential and delivery."
+    },
+    {
+      "slug": "terroir",
+      "name": "Terroir",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "creative-process",
+      "categories": ["folk-wisdom"],
+      "source": "llm",
+      "description": "Viticultural concept: wine expresses the specific combination of soil, climate, slope, and tradition of its origin. Maps to the claim that creative work is shaped by its environment -- the team, the tools, the constraints, the culture. You cannot separate the product from the place that produced it."
+    },
+    {
+      "slug": "monoculture-risk",
+      "name": "Monoculture Risk",
+      "kind": "mental-model",
+      "source_frame": "agriculture",
+      "target_frame": "risk-and-uncertainty",
+      "categories": ["systems-thinking"],
+      "source": "llm",
+      "description": "Agricultural monocultures are efficient but catastrophically fragile -- a single pest or disease can destroy the entire crop (cf. Irish Potato Famine). Maps to technology monocultures (everyone running the same OS), organizational groupthink, and any system where homogeneity trades resilience for efficiency."
+    },
+    {
+      "slug": "pruning-for-growth",
+      "name": "Pruning for Growth",
+      "kind": "metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "organizational-behavior",
+      "categories": ["folk-wisdom"],
+      "source": "llm",
+      "description": "Cutting back living branches to redirect energy toward more productive growth. Maps to layoffs, feature cuts, scope reduction, and any context where removing viable elements improves overall system health. The counterintuitive insight: less can produce more."
+    },
+    {
+      "slug": "grafting",
+      "name": "Grafting",
+      "kind": "metaphor",
+      "source_frame": "horticulture",
+      "target_frame": "organizational-behavior",
+      "categories": ["folk-wisdom"],
+      "source": "llm",
+      "description": "Attaching a branch from one tree onto the rootstock of another to combine the best traits of both. Maps to mergers, technology adoption, and the challenge of integrating foreign elements into an existing system. The graft must be compatible or the host rejects it."
+    },
+    {
+      "slug": "composting",
+      "name": "Composting",
+      "kind": "metaphor",
+      "source_frame": "agriculture",
+      "target_frame": "creative-process",
+      "categories": ["folk-wisdom"],
+      "source": "llm",
+      "description": "Decomposing organic waste into fertile soil amendment through microbial action over time. Maps to the creative process of letting old ideas, failed projects, and accumulated experience break down and recombine into something useful. The raw material is waste; the output is fertility."
+    }
+  ]
+}
