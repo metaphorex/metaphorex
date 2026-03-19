@@ -1,0 +1,296 @@
+{
+  "project": "mathematical-folklore",
+  "project_issue": 1356,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://en.wikipedia.org/wiki/Mathematical_folklore",
+    "https://en.wikipedia.org/wiki/List_of_paradoxes",
+    "https://mfleck.cs.illinois.edu/proof.html",
+    "https://users.cs.northwestern.edu/~riesbeck/proofs.html",
+    "https://en.wikipedia.org/wiki/Spherical_cow",
+    "https://en.wikipedia.org/wiki/Proof_by_intimidation",
+    "https://www.ams.org/notices/200501/fea-dundes.pdf"
+  ],
+  "candidates": [
+    {
+      "slug": "spherical-cow",
+      "name": "Consider a Spherical Cow",
+      "kind": "metaphor",
+      "source_frame": "mathematical-modeling",
+      "target_frame": "problem-solving",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "archive",
+      "description": "Radical simplification as methodology and warning. Physicists joke about assuming a cow is a sphere to make the math tractable. The metaphor encodes the tension between tractability and fidelity -- every model is a spherical cow to some degree."
+    },
+    {
+      "slug": "proof-by-intimidation",
+      "name": "Proof by Intimidation",
+      "kind": "metaphor",
+      "source_frame": "mathematical-proof",
+      "target_frame": "argumentation",
+      "categories": ["mathematics-and-logic", "social-dynamics"],
+      "source": "archive",
+      "description": "Social pressure substituting for rigor. Coined by Mark Kac about William Feller's lectures. Declaring something 'trivial' or 'obvious' to discourage scrutiny. Transfers powerfully to boardrooms, code reviews, and any domain where authority can substitute for evidence."
+    },
+    {
+      "slug": "proof-by-handwaving",
+      "name": "Proof by Handwaving",
+      "kind": "metaphor",
+      "source_frame": "mathematical-proof",
+      "target_frame": "argumentation",
+      "categories": ["mathematics-and-logic", "social-dynamics"],
+      "source": "archive",
+      "description": "Substituting gesture and enthusiasm for logical steps. The physical act of waving hands becomes a metaphor for skipping crucial reasoning. Used in engineering, business strategy, and policy to describe arguments that sound plausible but lack structural support."
+    },
+    {
+      "slug": "proof-by-exhaustion",
+      "name": "Proof by Exhaustion",
+      "kind": "metaphor",
+      "source_frame": "mathematical-proof",
+      "target_frame": "problem-solving",
+      "categories": ["mathematics-and-logic"],
+      "source": "archive",
+      "description": "Checking every case because no elegant general argument exists. The four-color theorem's 1,936-case proof is the canonical example. Transfers to testing, compliance, and any domain where brute-force completeness substitutes for structural insight. The humorous variant: wearing down the audience until they accept the result."
+    },
+    {
+      "slug": "proof-by-contradiction",
+      "name": "Reductio ad Absurdum",
+      "kind": "paradigm",
+      "source_frame": "mathematical-proof",
+      "target_frame": "argumentation",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "archive",
+      "description": "Assume the opposite, derive an absurdity, conclude the original must be true. One of the oldest reasoning strategies in Western thought (Euclid, Aristotle). Used in law, debate, policy analysis, and everyday argument. The structural insight: sometimes the fastest path to truth runs through impossibility."
+    },
+    {
+      "slug": "hilberts-hotel",
+      "name": "Hilbert's Hotel",
+      "kind": "paradigm",
+      "source_frame": "set-theory",
+      "target_frame": "reasoning-about-infinity",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "archive",
+      "description": "A hotel with infinitely many rooms is full, yet can always accommodate more guests by shifting everyone down one room. David Hilbert's thought experiment makes the counterintuitive properties of infinity concrete and narratable. Used to teach why infinity is not 'a very big number' but a qualitatively different concept."
+    },
+    {
+      "slug": "banach-tarski-paradox",
+      "name": "Banach-Tarski Paradox",
+      "kind": "paradigm",
+      "source_frame": "set-theory",
+      "target_frame": "reasoning-about-infinity",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "archive",
+      "description": "A solid ball can be decomposed into finitely many pieces and reassembled into two balls identical to the original. The paradox reveals that our geometric intuitions break down when applied to non-measurable sets. Used as a metaphor for situations where valid local reasoning produces impossible global conclusions."
+    },
+    {
+      "slug": "zenos-paradox",
+      "name": "Zeno's Paradox",
+      "kind": "paradigm",
+      "source_frame": "mathematical-reasoning",
+      "target_frame": "philosophy",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "archive",
+      "description": "To reach a destination you must first traverse half the distance, then half the remainder, ad infinitum -- so motion is impossible. The oldest mathematical paradox (5th century BCE). Used metaphorically for any situation where infinite subdivision creates apparent impossibility: analysis paralysis, perfectionism, regulatory regress."
+    },
+    {
+      "slug": "russells-paradox",
+      "name": "Russell's Paradox",
+      "kind": "paradigm",
+      "source_frame": "set-theory",
+      "target_frame": "self-reference",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "archive",
+      "description": "The set of all sets that don't contain themselves -- does it contain itself? If yes, it shouldn't; if no, it should. Destroyed naive set theory and forced the axiomatization of mathematics. The canonical example of self-referential contradiction, applied to databases, governance, and any system that tries to classify itself."
+    },
+    {
+      "slug": "birthday-paradox",
+      "name": "Birthday Paradox",
+      "kind": "mental-model",
+      "source_frame": "probability",
+      "target_frame": "reasoning-about-coincidence",
+      "categories": ["mathematics-and-logic"],
+      "source": "archive",
+      "description": "In a group of just 23 people, there is a >50% chance two share a birthday. Not a true paradox but a dramatic failure of intuition about combinatorial probability. Used in cryptography (birthday attacks), project management (collision estimation), and as a general warning that coincidences are far more likely than we think."
+    },
+    {
+      "slug": "gamblers-fallacy",
+      "name": "Gambler's Fallacy",
+      "kind": "mental-model",
+      "source_frame": "probability",
+      "target_frame": "decision-making",
+      "categories": ["mathematics-and-logic", "psychology"],
+      "source": "archive",
+      "description": "The belief that past random outcomes affect future ones: 'it's due for a heads.' Also called the Monte Carlo fallacy after the 1913 roulette incident where black came up 26 times. Transfers to investing, hiring, sports, and any domain where pattern-seeking minds impose narrative on independence."
+    },
+    {
+      "slug": "monty-hall-problem",
+      "name": "Monty Hall Problem",
+      "kind": "paradigm",
+      "source_frame": "probability",
+      "target_frame": "decision-making",
+      "categories": ["mathematics-and-logic", "psychology"],
+      "source": "archive",
+      "description": "Behind three doors: one car, two goats. After you pick, the host reveals a goat behind another door. Should you switch? Yes -- switching wins 2/3 of the time. The problem is famous because even mathematicians get it wrong. A paradigm case for how new information should update decisions, and how our intuitions about conditional probability fail."
+    },
+    {
+      "slug": "simpsons-paradox",
+      "name": "Simpson's Paradox",
+      "kind": "paradigm",
+      "source_frame": "statistics",
+      "target_frame": "causal-reasoning",
+      "categories": ["mathematics-and-logic"],
+      "source": "archive",
+      "description": "A trend that appears in several groups reverses when the groups are combined. UC Berkeley's 1973 gender bias case is the canonical example: overall admission rates looked biased against women, but department-by-department rates showed the opposite. The paradox warns that aggregation can invert causation."
+    },
+    {
+      "slug": "prisoners-dilemma",
+      "name": "Prisoner's Dilemma",
+      "kind": "paradigm",
+      "source_frame": "game-theory",
+      "target_frame": "cooperation-and-trust",
+      "categories": ["mathematics-and-logic", "social-dynamics", "economics-and-finance"],
+      "source": "archive",
+      "description": "Two rational agents acting in self-interest produce a worse outcome for both than cooperation would. The foundational problem of game theory. Applied to arms races, climate negotiations, open-source contribution, pricing wars, and any multi-agent situation where individual rationality and collective rationality diverge."
+    },
+    {
+      "slug": "shut-up-and-calculate",
+      "name": "Shut Up and Calculate",
+      "kind": "paradigm",
+      "source_frame": "mathematical-practice",
+      "target_frame": "epistemology",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "archive",
+      "description": "David Mermin's gloss on the Copenhagen interpretation: stop asking what quantum mechanics means and just use the formalism. Encodes an entire epistemological stance -- instrumentalism over realism. Transfers to engineering ('ship it'), empiricism ('the data speaks'), and any domain where practitioners resist philosophical questioning of their tools."
+    },
+    {
+      "slug": "mathematician-is-a-machine-for-turning-coffee-into-theorems",
+      "name": "A Mathematician Is a Machine for Turning Coffee into Theorems",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "mathematical-practice",
+      "categories": ["mathematics-and-logic"],
+      "source": "archive",
+      "description": "Alfred Renyi's aphorism (often misattributed to Erdos). Maps the mathematician onto an industrial machine with coffee as raw material and theorems as output. A self-deprecating folk definition that reveals how mathematicians see their own labor: mechanical, caffeine-fueled, and measured by output. The corollary attributed to Erdos: 'a comathematician is a machine for turning theorems into coffee.'"
+    },
+    {
+      "slug": "proof-by-construction",
+      "name": "Proof by Construction",
+      "kind": "paradigm",
+      "source_frame": "mathematical-proof",
+      "target_frame": "problem-solving",
+      "categories": ["mathematics-and-logic"],
+      "source": "archive",
+      "description": "Proving something exists by building an explicit example rather than arguing abstractly. The constructivist stance: existence claims require witnesses. Transfers to engineering (prototype over specification), design (show don't tell), and entrepreneurship (build the thing rather than arguing about whether it's possible)."
+    },
+    {
+      "slug": "no-free-lunch-theorem",
+      "name": "No Free Lunch Theorem",
+      "kind": "paradigm",
+      "source_frame": "mathematical-optimization",
+      "target_frame": "decision-making",
+      "categories": ["mathematics-and-logic", "systems-thinking"],
+      "source": "llm",
+      "description": "Averaged over all possible problems, no optimization algorithm outperforms random search. Wolpert and Macready's 1997 result. The metaphor: there is no universally best strategy. Every advantage in one context is paid for by a disadvantage elsewhere. Applied to machine learning algorithm selection, management strategy, and policy design."
+    },
+    {
+      "slug": "incompleteness",
+      "name": "Goedel's Incompleteness Theorems",
+      "kind": "paradigm",
+      "source_frame": "mathematical-logic",
+      "target_frame": "epistemology",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "llm",
+      "description": "Any consistent formal system powerful enough to express arithmetic contains true statements it cannot prove. Goedel's 1931 result ended Hilbert's program and established fundamental limits on formal reasoning. Widely (and often loosely) applied as a metaphor for inherent limits of systems: no rulebook can be both complete and consistent."
+    },
+    {
+      "slug": "fermis-paradox",
+      "name": "Fermi's Paradox",
+      "kind": "paradigm",
+      "source_frame": "probability",
+      "target_frame": "epistemology",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "llm",
+      "description": "If the universe is vast and old enough for intelligent life to be common, where is everybody? Fermi's lunchtime question (1950) is a paradigm for the tension between strong prior expectations and absent evidence. Applied to technology adoption, market opportunities, and any situation where 'if this were true, we should see X, but we don't.'"
+    },
+    {
+      "slug": "map-territory-problem",
+      "name": "Borges's Map",
+      "kind": "metaphor",
+      "source_frame": "cartography",
+      "target_frame": "mathematical-modeling",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "llm",
+      "description": "Borges's one-paragraph story of a map so detailed it covers the territory exactly. The mathematical insight: a 1:1 model is useless because it reproduces the complexity it was meant to reduce. Related to 'the map is not the territory' (already in catalog) but distinct: this is about model fidelity as a continuum with diminishing returns. Miner should link to existing entry and differentiate."
+    },
+    {
+      "slug": "butterfly-effect",
+      "name": "Butterfly Effect",
+      "kind": "metaphor",
+      "source_frame": "dynamical-systems",
+      "target_frame": "causation",
+      "categories": ["mathematics-and-logic", "systems-thinking"],
+      "source": "llm",
+      "description": "A butterfly flapping its wings in Brazil can cause a tornado in Texas. Lorenz's 1972 metaphor for sensitive dependence on initial conditions in chaotic systems. One of the most widely recognized mathematical metaphors in popular culture. Transfers to history, economics, and any domain where small causes can have disproportionate effects."
+    },
+    {
+      "slug": "tragedy-of-the-commons",
+      "name": "Tragedy of the Commons",
+      "kind": "paradigm",
+      "source_frame": "game-theory",
+      "target_frame": "resource-management",
+      "categories": ["mathematics-and-logic", "economics-and-finance", "social-dynamics"],
+      "source": "llm",
+      "description": "Individuals acting rationally in their own interest deplete a shared resource that would be sustained by collective restraint. Hardin's 1968 formalization of a game-theoretic structure. Related to the prisoner's dilemma but specifically about shared resources. Already exists as 'the-commons' frame -- Miner should check for overlap and link appropriately."
+    },
+    {
+      "slug": "infinite-monkey-theorem",
+      "name": "Infinite Monkey Theorem",
+      "kind": "metaphor",
+      "source_frame": "probability",
+      "target_frame": "reasoning-about-infinity",
+      "categories": ["mathematics-and-logic", "philosophy"],
+      "source": "llm",
+      "description": "A monkey hitting keys at random on a typewriter for infinite time will almost surely produce the complete works of Shakespeare. Formally a statement about probability measure on infinite sequences. Used as a metaphor for the difference between mathematical possibility and practical expectation, and for the unintuitive implications of infinite time."
+    },
+    {
+      "slug": "the-drunkards-walk",
+      "name": "The Drunkard's Walk",
+      "kind": "metaphor",
+      "source_frame": "probability",
+      "target_frame": "decision-making",
+      "categories": ["mathematics-and-logic", "psychology"],
+      "source": "llm",
+      "description": "A random walk visualized as a drunk person stumbling left or right with equal probability at each step. The mathematical insight: random processes can produce patterns that look intentional (streaks, clusters, trends). Used to explain why stock prices, career paths, and historical events look more ordered in retrospect than they are."
+    },
+    {
+      "slug": "arrows-impossibility-theorem",
+      "name": "Arrow's Impossibility Theorem",
+      "kind": "paradigm",
+      "source_frame": "mathematical-logic",
+      "target_frame": "social-choice",
+      "categories": ["mathematics-and-logic", "social-dynamics"],
+      "source": "llm",
+      "description": "No ranked voting system can satisfy a small set of reasonable fairness criteria simultaneously. Arrow's 1951 result proved that perfect democracy (in the ranked-choice sense) is mathematically impossible. Used as a paradigm for inherent tradeoffs in system design: sometimes the constraints are genuinely incompatible, not just hard to satisfy."
+    },
+    {
+      "slug": "halting-problem",
+      "name": "The Halting Problem",
+      "kind": "paradigm",
+      "source_frame": "computability-theory",
+      "target_frame": "epistemology",
+      "categories": ["mathematics-and-logic", "computer-science"],
+      "source": "llm",
+      "description": "No general algorithm can determine whether an arbitrary program will eventually halt or run forever. Turing's 1936 result established fundamental limits on computation. Applied metaphorically to project estimation ('will this ever finish?'), organizational processes, and any undecidable prediction problem."
+    },
+    {
+      "slug": "ninetynine-percent-done",
+      "name": "Ninety-Ninety Rule",
+      "kind": "mental-model",
+      "source_frame": "mathematical-estimation",
+      "target_frame": "software-development",
+      "categories": ["mathematics-and-logic", "software-engineering"],
+      "source": "llm",
+      "description": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% accounts for the other 90%. Tom Cargill's joke encodes a deep insight about nonlinear effort distribution and the systematic underestimation of tail work. Applied to construction, writing, research, and any project with a long tail of polish and edge cases."
+    }
+  ]
+}
