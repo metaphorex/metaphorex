@@ -15,7 +15,6 @@ related:
 - siren
 slug: pied-piper
 source_frame: mythology
-target_frame: social-behavior
 transfers:
 - '[source] the piper attracts followers through a medium that bypasses rational evaluation, mapping musical enchantment onto charismatic influence that operates below conscious assessment'
 - '[source] the first audience (rats) validates the piper''s capability, which then grants access to the second audience (children), encoding how early wins build credibility for unendorsed purposes'
@@ -24,7 +23,7 @@ transfers:
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 In the legend of Hamelin (first attested in the 13th century), a
 colorfully dressed piper is hired to rid the town of rats. He plays
@@ -67,7 +66,7 @@ double structure that makes it unusually rich as a source domain.
   not because each individual has decided to, but because the group
   is moving and individual resistance feels impossible.
 
-## Where It Breaks
+## Limits
 
 - **Real influence is not magical** -- the piper's music works through
   literal enchantment. No human leader has a supernatural instrument

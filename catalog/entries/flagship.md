@@ -5,7 +5,8 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 limits:
 - '[source] breaks because the admiral deliberately chose his flagship and could transfer the flag at will, while a company''s flagship product is often determined by market reception rather than executive
   decree'
@@ -17,7 +18,6 @@ related:
 - first-rate
 slug: flagship
 source_frame: seafaring
-target_frame: economics
 transfers:
 - '[source] the flagship carried the admiral''s flag and represented the entire fleet to foreign ports and allied navies, mapping this representative function onto products that define a brand''s identity'
 - '[source] the flagship received preferential allocation of crew, provisions, and maintenance because the admiral depended on it, mapping onto products that get the best resources and largest budgets'
@@ -25,7 +25,7 @@ transfers:
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The flagship was the vessel in a naval fleet that carried the admiral and
 flew his flag. It was not necessarily the largest or most heavily armed
@@ -56,7 +56,7 @@ commercial organization.
   without requiring a detailed comparison. The flag does the work of
   ranking.
 
-## Where It Breaks
+## Limits
 
 - **The admiral chose the flagship; the market chooses the flagship
   product** -- in naval usage, the admiral selected his flagship

@@ -5,7 +5,8 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 limits:
 - '[source] breaks because the metaphor has lost its directionality -- nautical leeway is specifically drift toward a specific danger, but metaphorical leeway has broadened to mean any kind of slack or
   flexibility'
@@ -14,7 +15,6 @@ name: Leeway
 related: []
 slug: leeway
 source_frame: seafaring
-target_frame: spatial-location
 transfers:
 - '[source] leeway is the lateral space between a ship and a lee shore -- the margin between current position and catastrophe -- mapping survival-critical distance onto tolerance or room for error'
 - '[source] leeway is consumed passively by wind pushing the ship sideways whether the crew acts or not, mapping onto margins that shrink through the mere passage of events rather than through mistakes'
@@ -22,7 +22,7 @@ transfers:
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Leeway is the sideways drift of a ship downwind from its intended course.
 A ship sailing close to a lee shore -- a coastline onto which the wind is
@@ -51,7 +51,7 @@ domain.
   toward failure. Without active effort, things get worse, not better.
   Leeway is the space you have before the default trajectory kills you.
 
-## Where It Breaks
+## Limits
 
 - **The metaphor has lost its directionality** -- in nautical usage,
   leeway is specifically sideways drift toward a lee shore. It is not

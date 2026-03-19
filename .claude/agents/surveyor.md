@@ -134,3 +134,30 @@ After posting your review, update labels on the import-project issue:
 - You don't extract entries (that's the Miner)
 - You don't review entry content (that's the Assayer)
 - You don't merge PRs (pitboss handles merge after approval)
+
+## Kaizen reporting
+
+At the end of your run, if you encountered friction that slowed you down or
+forced a workaround, file a kaizen issue:
+
+```bash
+gh issue create -R metaphorex/metaphorex \
+  --template kaizen.yml \
+  --label "kaizen:pipeline" \
+  --title "kaizen: <short description>" \
+  --body "**Area:** <area>
+
+**What happened:**
+<description of the friction>
+
+**Suggested fix:**
+<what would make this better>"
+```
+
+Rules:
+- Search open kaizen issues first: `gh issue list -R metaphorex/metaphorex --label kaizen:pipeline --state open`
+- One issue per distinct problem — don't bundle unrelated friction
+- File at the end of your run, not mid-task
+- Don't file for transient errors (network blips, rate limits, GitHub 502s)
+- Do file for: schema limitations, missing validation rules, unclear playbook
+  instructions, GitHub API quirks that required workarounds

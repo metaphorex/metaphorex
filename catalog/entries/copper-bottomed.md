@@ -5,7 +5,8 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 limits:
 - '[source] breaks because copper reacted galvanically with iron bolts, corroding them and weakening the hull -- the protection itself introduced new failure modes that the metaphor ignores'
 - '[source] misleads by implying permanence, but copper sheathing thinned over time and required periodic replacement in dry-dock, making the original protection temporary and maintenance-dependent'
@@ -13,7 +14,6 @@ name: Copper-Bottomed
 related: []
 slug: copper-bottomed
 source_frame: seafaring
-target_frame: economics
 transfers:
 - '[source] copper sheathing demonstrably prevented worm damage and fouling, mapping proven material investment onto guarantees backed by tangible assets rather than mere promises'
 - '[source] the expense of coppering signaled that the ship was worth protecting, carrying the implication that the cost of the guarantee is itself evidence of commitment'
@@ -21,7 +21,7 @@ transfers:
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 From the 1760s onward, the Royal Navy sheathed the underwater hulls of
 its warships in copper plates. Copper sheathing prevented two serious
@@ -52,7 +52,7 @@ guarantees or promises considered completely trustworthy.
   quality onto guarantees that protect against risks people do not
   normally think about until disaster strikes.
 
-## Where It Breaks
+## Limits
 
 - **Copper sheathing caused its own problems** -- the copper reacted
   galvanically with the iron bolts holding the hull together, corroding

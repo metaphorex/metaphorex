@@ -261,6 +261,7 @@ forced a workaround, file a kaizen issue:
 ```bash
 gh issue create -R metaphorex/metaphorex \
   --template kaizen.yml \
+  --label "kaizen:pipeline" \
   --title "kaizen: <short description>" \
   --body "**Area:** <area>
 

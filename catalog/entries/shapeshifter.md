@@ -13,7 +13,6 @@ name: Shapeshifter
 related: []
 slug: shapeshifter
 source_frame: mythology
-target_frame: social-roles
 transfers:
 - '[source] the shapeshifter survives by becoming what the situation requires, treating identity as a strategic tool rather than a fixed fact'
 - '[source] changing form exploits the assumption that appearance reflects reality, mapping deception through adopted personas onto social engineering and impersonation'
@@ -22,7 +21,7 @@ transfers:
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 Nearly every mythological tradition includes figures who can change
 their form: Proteus in Greek myth, Loki in Norse, the kitsune in
@@ -66,7 +65,7 @@ Key structural parallels:
   The archetype implies that identity is real even when form is
   fluid.
 
-## Where It Breaks
+## Limits
 
 - **Not all adaptation is deception** -- the shapeshifter archetype
   carries a moral charge: changing form is associated with trickery,

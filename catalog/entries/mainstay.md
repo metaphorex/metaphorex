@@ -5,7 +5,8 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 limits:
 - '[source] breaks because ships carried spare cordage and a broken mainstay could be replaced at sea with skill, while the metaphorical usage implies irreplaceability that the nautical reality did not
   support'
@@ -15,7 +16,6 @@ related:
 - flagship
 slug: mainstay
 source_frame: seafaring
-target_frame: physical-objects
 transfers:
 - '[source] the mainstay was the single most critical piece of standing rigging -- without it the mainmast would fall backward and bring down the entire rig -- mapping irreplaceable structural support onto
   indispensable people or institutions'
@@ -25,7 +25,7 @@ transfers:
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The mainstay was the heavy rope or cable running from the top of the
 mainmast forward to the bow of a ship. It was the single most critical
@@ -53,7 +53,7 @@ many; it was the one that prevented catastrophic structural failure.
   correct relationship. The metaphor preserves this bridging function:
   a mainstay connects what would otherwise drift apart.
 
-## Where It Breaks
+## Limits
 
 - **The original mainstay was replaceable; the metaphorical one is not**
   -- ships carried spare cordage, and a broken mainstay could be replaced
