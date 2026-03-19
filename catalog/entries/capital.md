@@ -26,7 +26,7 @@ limits:
   - '[source] misleads by implying capital is tangible and countable in discrete units, when modern capital includes intangible assets (intellectual property, brand equity, social capital) that resist the head-counting metaphor'
 ---
 
-## What It Brings
+## Transfers
 
 Counting heads of cattle maps onto counting accumulated wealth. Latin
 *capitalis* from *caput* (head) encoded an era when wealth was literally
@@ -60,7 +60,7 @@ Key structural parallels:
   relatively recent. For most of human history, they were the same
   word because they were the same thing.
 
-## Where It Breaks
+## Limits
 
 - **Cattle are visible; capital is abstract** -- you can see a herd,
   count it by eye, assess the health of each animal. Modern capital --

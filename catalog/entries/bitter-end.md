@@ -26,14 +26,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 The bitts are heavy posts bolted to a ship's deck, used to secure the
 anchor cable. The bitter end is the final length of chain or rope fastened
 to the bitts -- the absolute last section. When a ship pays out anchor
@@ -67,7 +59,8 @@ This maps onto perseverance through the worst phase of any ordeal:
   This maps onto the experience of discovering the true limits of a
   system only when those limits are reached: you did not know you were
   running out until you ran out.
-## Where It Breaks
+
+## Limits
 
 - **The folk etymology dominates** -- most speakers assume "bitter end"
   refers to bitterness, the taste of suffering. This folk etymology is
@@ -96,6 +89,7 @@ This maps onto perseverance through the worst phase of any ordeal:
   cliff-edge structure onto experiences that are actually slopes,
   which can mislead people about when they have truly exhausted their
   options.
+
 ## Expressions
 
 - "To the bitter end" -- persevering through the worst, most painful
@@ -108,6 +102,7 @@ This maps onto perseverance through the worst phase of any ordeal:
   phase where both parties have nearly exhausted their positions
 - "See it through to the bitter end" -- a commitment to finish what
   was started regardless of cost
+
 ## Origin Story
 
 The nautical origin is well attested but frequently contested by those

@@ -9,6 +9,7 @@ categories:
 contributors:
 - fshot
 created: '2026-03-10'
+harness: Claude Code
 kind: metaphor
 name: Theories Are Buildings
 related:
@@ -16,6 +17,13 @@ related:
 slug: theories-are-buildings
 source_frame: architecture-and-building
 updated: '2026-03-14'
+transfers:
+  - '[source] axioms and premises are load-bearing foundations -- ''that claim has no foundation'' maps the absence of supporting assumptions onto structural impossibility, making lower-level elements feel essential to everything above'
+  - '[source] intellectual work is cumulative and sequential construction -- you cannot put up walls before the foundation is poured, making theory-building feel like assembly with ordering constraints'
+  - '[source] structural failure is sudden and catastrophic -- ''the theory collapsed under scrutiny'' maps intellectual refutation onto building collapse, making failure feel total rather than incremental'
+limits:
+  - '[source] breaks because buildings are static while theories evolve -- a theory ''under construction'' sounds incomplete rather than dynamic, biasing against intellectual provisionality and making scholars reluctant to share half-formed ideas'
+  - '[source] misleads because collapse is too binary -- theories rarely fall entirely but get revised, qualified, or absorbed into successors (Newtonian mechanics became a special case), and the building metaphor has no vocabulary for graceful degradation'
 ---
 
 ## Transfers

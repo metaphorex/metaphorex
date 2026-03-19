@@ -26,7 +26,7 @@ limits:
   - '[source] misleads by implying the brand is imposed on a passive object, when modern brand identity is co-created through customer perception, cultural associations, and social media discourse'
 ---
 
-## What It Brings
+## Transfers
 
 Burning flesh maps onto commercial identity. Old Norse *brandr* (a piece
 of burning wood, a torch) gave rise to the practice of pressing a hot
@@ -60,7 +60,7 @@ Key structural parallels:
   shapes both: simple, bold, distinctive marks that survive degraded
   viewing conditions.
 
-## Where It Breaks
+## Limits
 
 - **The violence is invisible** -- modern branding discourse is relentlessly
   positive: brand love, brand affinity, brand ambassador. The original act

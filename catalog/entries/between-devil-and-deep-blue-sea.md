@@ -25,14 +25,6 @@ limits:
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 The "devil" on a wooden ship was the longest seam on the hull, typically
 the garboard seam where the hull planking meets the keel, near or below the
 waterline. Caulking this seam -- "paying the devil" with hot pitch --
@@ -71,7 +63,8 @@ dilemma where all options are bad.
   This distinguishes it from weaker dilemma metaphors like "between a rock
   and a hard place," which has no specificity about the nature of the
   dangers.
-## Where It Breaks
+
+## Limits
 
 - **The theological misreading has consumed the nautical original** -- most
   English speakers assume the "devil" in the expression is Satan. This
@@ -102,6 +95,7 @@ dilemma where all options are bad.
   more bad options, none of which map neatly onto the spatial metaphor of
   being squeezed between exactly two dangers. The expression oversimplifies
   by geometrizing the problem.
+
 ## Expressions
 
 - "Between the devil and the deep blue sea" -- the full form, now used to
@@ -117,6 +111,7 @@ dilemma where all options are bad.
 - "The devil to pay and no pitch hot" -- the full nautical expression
   meaning an urgent problem with no resources to fix it, virtually extinct
   in modern usage
+
 ## Origin Story
 
 The earliest recorded uses of "between the devil and the deep sea" date to
