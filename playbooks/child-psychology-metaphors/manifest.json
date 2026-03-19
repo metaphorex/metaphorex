@@ -1,0 +1,338 @@
+{
+  "project": "child-psychology-metaphors",
+  "project_issue": 1357,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://en.wikipedia.org/wiki/Attachment_theory",
+    "http://mythosandlogos.com/Winnicott.html",
+    "https://www.simplypsychology.org/bowlby.html",
+    "https://www.simplypsychology.org/piaget.html",
+    "https://en.wikipedia.org/wiki/Zone_of_proximal_development",
+    "https://journals.sagepub.com/doi/10.1177/002221949803100404",
+    "https://www.eyemindspirit.com/blogs/spirituality-science/what-are-winnicotts-theories",
+    "https://psyprofi.si/donald-winnicott/eng",
+    "https://en.wikipedia.org/wiki/Erikson's_stages_of_psychosocial_development"
+  ],
+  "candidates": [
+    {
+      "slug": "scaffolding",
+      "name": "Learning Is Building on Scaffolding",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "education",
+      "categories": ["psychology", "education-and-learning"],
+      "source": "archive",
+      "description": "Bruner/Wood/Ross 1976. Temporary support structure removed as competence grows. The most explicitly debated metaphor in developmental psychology -- Stone 1998 asked whether we should salvage it. Imports assumptions about adult-initiated, one-directional support that conflict with the child's active role."
+    },
+    {
+      "slug": "zone-of-proximal-development",
+      "name": "Zone of Proximal Development",
+      "kind": "mental-model",
+      "source_frame": "spatial-location",
+      "target_frame": "education",
+      "categories": ["psychology", "education-and-learning"],
+      "source": "archive",
+      "description": "Vygotsky. Ability as a spatial zone with boundaries set by social context. Redefines competence from a point to a range, and makes the range socially contingent. The 'zone' metaphor imports geography: there is a territory between what you can do alone and what you cannot do at all."
+    },
+    {
+      "slug": "good-enough-mother",
+      "name": "The Good Enough Mother",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Winnicott 1953. Reframes imperfection as developmentally necessary. The 'good enough' framing borrows from engineering tolerance -- not perfect, but within acceptable bounds. Radical because it makes maternal failure a feature, not a bug."
+    },
+    {
+      "slug": "holding-environment",
+      "name": "The Holding Environment",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Winnicott. Physical holding as metaphor for psychic containment. The caregiver modulates the child's experience by absorbing environmental impingement. Migrated to organizational theory (Kahn 1990) and therapy."
+    },
+    {
+      "slug": "transitional-object",
+      "name": "The Transitional Object",
+      "kind": "mental-model",
+      "source_frame": "nurturing-and-creation",
+      "target_frame": "mental-experience",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Winnicott. The teddy bear or blanket that is neither purely internal fantasy nor purely external reality -- it occupies an intermediate zone. A bridge concept between subjective and objective experience. Later generalized to art, religion, and culture as 'transitional phenomena.'"
+    },
+    {
+      "slug": "potential-space",
+      "name": "Potential Space",
+      "kind": "metaphor",
+      "source_frame": "spatial-location",
+      "target_frame": "mental-experience",
+      "categories": ["psychology", "arts-and-culture"],
+      "source": "archive",
+      "description": "Winnicott. The intermediate area between inner psychic reality and outer shared reality. Where play, creativity, and culture happen. Not a physical space but a metaphorical zone of freedom between self and world."
+    },
+    {
+      "slug": "true-self-false-self",
+      "name": "True Self and False Self",
+      "kind": "metaphor",
+      "source_frame": "performance",
+      "target_frame": "mental-experience",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Winnicott. The true self is spontaneous and creative; the false self is a compliant shell built to protect the true self from environmental failure. The spatial metaphor of inner/outer, core/surface is load-bearing."
+    },
+    {
+      "slug": "mirror-role-of-mother",
+      "name": "The Mirror Role of the Mother",
+      "kind": "metaphor",
+      "source_frame": "vision",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Winnicott. The mother's face as the infant's first mirror -- what the baby sees is themselves reflected back. Identity forms through being accurately reflected. Connects to Lacan's mirror stage but with a relational rather than structural emphasis."
+    },
+    {
+      "slug": "primary-maternal-preoccupation",
+      "name": "Primary Maternal Preoccupation",
+      "kind": "mental-model",
+      "source_frame": "medicine",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Winnicott. A near-illness state of heightened sensitivity in the mother after birth. Framing maternal absorption as a necessary altered state rather than a pathology. Radical reframing of what looks like dysfunction as adaptive function."
+    },
+    {
+      "slug": "environmental-impingement",
+      "name": "Environmental Impingement",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Winnicott. External demands that interrupt the infant's 'going on being.' The physics metaphor of impingement (force applied to a surface) captures how the environment can disrupt continuity of self."
+    },
+    {
+      "slug": "going-on-being",
+      "name": "Going On Being",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "mental-experience",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Winnicott. Continuity of existence as a flow that can be interrupted. Not a state but a process -- the infant needs unbroken experience of existing. Environmental failure causes 'threat of annihilation' -- a break in the flow."
+    },
+    {
+      "slug": "secure-base",
+      "name": "The Secure Base",
+      "kind": "metaphor",
+      "source_frame": "exploration",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Bowlby/Ainsworth. The caregiver as a base camp from which the child explores and to which they return under threat. Military/exploration metaphor that encodes the paradox: security enables risk-taking. Widely adopted in leadership and organizational theory."
+    },
+    {
+      "slug": "safe-haven",
+      "name": "The Safe Haven",
+      "kind": "metaphor",
+      "source_frame": "seafaring",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Bowlby. The caregiver as a harbor the child returns to in distress. Paired with secure base: the base is for exploration, the haven is for refuge. Nautical metaphor -- the child is a vessel navigating threatening waters."
+    },
+    {
+      "slug": "internal-working-model",
+      "name": "Internal Working Models",
+      "kind": "metaphor",
+      "source_frame": "manufacturing",
+      "target_frame": "mental-experience",
+      "categories": ["psychology", "cognitive-science"],
+      "source": "archive",
+      "description": "Bowlby. Mental representations of self-and-other as 'working models' -- like engineering models that can be tested and revised. The 'working' qualifier is load-bearing: these are not static snapshots but dynamic, functional models used for prediction."
+    },
+    {
+      "slug": "attachment-styles",
+      "name": "Attachment Styles",
+      "kind": "mental-model",
+      "source_frame": "folk-taxonomy",
+      "target_frame": "mental-experience",
+      "categories": ["psychology", "social-dynamics"],
+      "source": "archive",
+      "description": "Ainsworth/Main. Secure, anxious-ambivalent, avoidant, disorganized. A typological system that became pop-psychology currency. The 'style' metaphor imports fashion/aesthetics -- stable patterns of relating treated as personality categories."
+    },
+    {
+      "slug": "separation-anxiety",
+      "name": "Separation Anxiety",
+      "kind": "mental-model",
+      "source_frame": "natural-selection",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Bowlby. Distress at caregiver absence understood through an evolutionary threat-detection lens. The anxiety is not irrational but adaptive -- it encodes the infant's correct assessment that separation from the attachment figure is dangerous."
+    },
+    {
+      "slug": "object-permanence",
+      "name": "Object Permanence",
+      "kind": "mental-model",
+      "source_frame": "physics",
+      "target_frame": "mental-experience",
+      "categories": ["psychology", "cognitive-science"],
+      "source": "archive",
+      "description": "Piaget. The understanding that objects continue to exist when not perceived. 'Permanence' borrows from physics (conservation laws). Foundational concept that has migrated to UX design (do users understand that data persists when they navigate away?)."
+    },
+    {
+      "slug": "assimilation-and-accommodation",
+      "name": "Assimilation and Accommodation",
+      "kind": "metaphor",
+      "source_frame": "biology",
+      "target_frame": "mental-experience",
+      "categories": ["psychology", "cognitive-science"],
+      "source": "archive",
+      "description": "Piaget. Biological metaphors for cognitive processes: assimilation (incorporating new info into existing schemas, like digestion) and accommodation (modifying schemas to fit new info, like the eye adjusting focus). The biology-to-cognition transfer is Piaget's signature move."
+    },
+    {
+      "slug": "schema",
+      "name": "Schema",
+      "kind": "metaphor",
+      "source_frame": "architecture-and-building",
+      "target_frame": "mental-experience",
+      "categories": ["psychology", "cognitive-science"],
+      "source": "archive",
+      "description": "Piaget (from Kant). Mental frameworks as architectural plans -- blueprints the mind uses to organize experience. The building metaphor implies schemas are constructed, structured, and revisable. Migrated to database design, AI, and UX."
+    },
+    {
+      "slug": "equilibration",
+      "name": "Equilibration",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "mental-experience",
+      "categories": ["psychology", "cognitive-science"],
+      "source": "archive",
+      "description": "Piaget. Cognitive development as a balancing act between assimilation and accommodation. Borrows from thermodynamics/chemistry -- systems seek equilibrium. The child encounters disequilibrium (cognitive conflict) and resolves it through schema modification."
+    },
+    {
+      "slug": "stages-of-development",
+      "name": "Stages of Development",
+      "kind": "metaphor",
+      "source_frame": "journeys",
+      "target_frame": "education",
+      "categories": ["psychology", "education-and-learning"],
+      "source": "archive",
+      "description": "Piaget. Development as a staircase of discrete stages (sensorimotor, preoperational, concrete operational, formal operational). The 'stage' metaphor imports theater -- each stage is a distinct performance with different props and scripts. Contested: neo-Piagetians argue development is more continuous."
+    },
+    {
+      "slug": "more-knowledgeable-other",
+      "name": "The More Knowledgeable Other",
+      "kind": "mental-model",
+      "source_frame": "social-roles",
+      "target_frame": "education",
+      "categories": ["psychology", "education-and-learning"],
+      "source": "archive",
+      "description": "Vygotsky. Anyone with greater understanding relative to the learner -- teacher, peer, parent, even a computer. The concept decenters expertise from institutional roles: a 5-year-old can be the MKO for a 3-year-old."
+    },
+    {
+      "slug": "identity-crisis",
+      "name": "Identity Crisis",
+      "kind": "metaphor",
+      "source_frame": "medicine",
+      "target_frame": "mental-experience",
+      "categories": ["psychology", "social-dynamics"],
+      "source": "archive",
+      "description": "Erikson. Normal adolescent development reframed as a crisis -- a decisive turning point. The 'crisis' metaphor imports urgency and high stakes into what could be described neutrally as 'identity formation.' One of the most successful metaphor exports from psychology to everyday language."
+    },
+    {
+      "slug": "trust-vs-mistrust",
+      "name": "Basic Trust vs. Basic Mistrust",
+      "kind": "mental-model",
+      "source_frame": "conflict-escalation",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Erikson. First psychosocial stage. Whether the world is trustworthy is decided in infancy through caregiver reliability. The 'vs.' framing treats development as a contest between opposing forces, with a virtuous outcome (hope) if trust wins."
+    },
+    {
+      "slug": "generativity",
+      "name": "Generativity vs. Stagnation",
+      "kind": "metaphor",
+      "source_frame": "biology",
+      "target_frame": "social-roles",
+      "categories": ["psychology", "social-dynamics"],
+      "source": "archive",
+      "description": "Erikson. Midlife developmental task of generating -- producing, creating, nurturing the next generation. The biological metaphor (generation = reproduction) extended to mentorship, creativity, and legacy. Stagnation is the failure mode: sterility of purpose."
+    },
+    {
+      "slug": "facilitating-environment",
+      "name": "The Facilitating Environment",
+      "kind": "metaphor",
+      "source_frame": "organism",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Winnicott. The relational surround that enables development -- not just the mother but the total environmental provision. 'Facilitating' rather than 'causing' -- the environment does not build the child but enables the child's own maturational processes."
+    },
+    {
+      "slug": "attachment-as-bond",
+      "name": "Attachment Is a Bond",
+      "kind": "metaphor",
+      "source_frame": "materials",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology", "social-dynamics"],
+      "source": "archive",
+      "description": "Bowlby. The central metaphor of attachment theory: emotional connection as a physical bond -- something that ties, can be stretched, strained, broken, or repaired. The material metaphor makes relationships tangible and subject to engineering analysis."
+    },
+    {
+      "slug": "proximity-maintenance",
+      "name": "Proximity Maintenance",
+      "kind": "mental-model",
+      "source_frame": "spatial-location",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Bowlby. The attachment system's goal is maintaining spatial closeness to the caregiver. A spatial/geometric model of emotional regulation -- distress increases with distance, comfort with proximity. Simple but powerful: it makes the invisible (emotion) visible (distance)."
+    },
+    {
+      "slug": "monotropy",
+      "name": "Monotropy",
+      "kind": "mental-model",
+      "source_frame": "biology",
+      "target_frame": "nurturing-and-creation",
+      "categories": ["psychology"],
+      "source": "archive",
+      "description": "Bowlby. The claim that infants form one primary attachment that is qualitatively different from all others. Borrowed from ethology (imprinting). Contested: most attachment researchers now accept a hierarchy of multiple attachments rather than strict monotropy."
+    },
+    {
+      "slug": "guided-participation",
+      "name": "Guided Participation",
+      "kind": "mental-model",
+      "source_frame": "education",
+      "target_frame": "education",
+      "categories": ["psychology", "education-and-learning"],
+      "source": "archive",
+      "description": "Rogoff 1990. Alternative to scaffolding that emphasizes mutual participation in cultural activity rather than unilateral adult support. The 'participation' framing shifts agency: the child is not built upon but participates in a shared practice."
+    },
+    {
+      "slug": "apprenticeship-in-thinking",
+      "name": "Apprenticeship in Thinking",
+      "kind": "metaphor",
+      "source_frame": "education",
+      "target_frame": "education",
+      "categories": ["psychology", "education-and-learning"],
+      "source": "archive",
+      "description": "Rogoff 1990. Cognitive development as apprenticeship -- learning by doing alongside experts. Imports medieval guild structure: master/journeyman/apprentice, legitimate peripheral participation, gradual assumption of full practice."
+    },
+    {
+      "slug": "internalization",
+      "name": "Internalization",
+      "kind": "metaphor",
+      "source_frame": "containers",
+      "target_frame": "mental-experience",
+      "categories": ["psychology", "cognitive-science"],
+      "source": "archive",
+      "description": "Vygotsky. External social processes become internal cognitive ones. The spatial metaphor (outside to inside) is the load-bearing structure: knowledge moves from the interpersonal plane to the intrapersonal plane. Critiqued by Rogoff as overly individualistic."
+    }
+  ]
+}
