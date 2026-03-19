@@ -1,0 +1,294 @@
+{
+  "project": "carpentry-woodworking",
+  "project_issue": 1359,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://en.wikipedia.org/wiki/Glossary_of_woodworking",
+    "https://review.firstround.com/shims-jigs-and-other-woodworking-concepts-to-conquer-technical-debt/",
+    "https://www.quotegarden.com/woodworking.html",
+    "https://www.japanesetools.com.au/blogs/the-jta-blog/the-soul-of-the-tool-an-invitation-to-japanese-craftsmanship",
+    "https://eslvault.com/wood-idioms/"
+  ],
+  "candidates": [
+    {
+      "slug": "measure-twice-cut-once",
+      "name": "Measure Twice, Cut Once",
+      "kind": "mental-model",
+      "source_frame": "carpentry",
+      "target_frame": "planning-and-preparation",
+      "categories": ["folk-wisdom", "software-engineering"],
+      "source": "archive",
+      "description": "The canonical carpentry proverb: verification before irreversible action. Maps onto requirements gathering, code review before deploy, and any domain where the cost of correction exceeds the cost of validation. Encodes asymmetric reversibility -- cutting is cheap, un-cutting is impossible."
+    },
+    {
+      "slug": "workmanship-of-risk",
+      "name": "Workmanship of Risk",
+      "kind": "paradigm",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["philosophy", "arts-and-culture"],
+      "source": "archive",
+      "description": "David Pye's 1968 distinction: work where the outcome depends on the maker's judgment, dexterity, and care at the moment of execution. Contrasts with workmanship of certainty. Maps onto hand-coding vs. code generation, artisanal vs. industrial production, live performance vs. recording."
+    },
+    {
+      "slug": "workmanship-of-certainty",
+      "name": "Workmanship of Certainty",
+      "kind": "paradigm",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["philosophy", "arts-and-culture"],
+      "source": "archive",
+      "description": "The complement to workmanship of risk: work where the result is predetermined before production begins. Jigs, templates, CNC machines. Maps onto CI/CD pipelines, automated testing, assembly-line production. Pye's insight: the distinction is not hand vs. machine but whether the outcome is at risk during execution."
+    },
+    {
+      "slug": "read-the-grain",
+      "name": "Read the Grain",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "materials",
+      "categories": ["folk-wisdom", "organizational-behavior"],
+      "source": "llm",
+      "description": "Skilled woodworkers read grain direction before cutting or planing to avoid tearout. Metaphorically: understand the intrinsic nature of your material (people, organizations, codebases) before trying to shape it. Work with the grain, not against it. Encodes respect for existing structure."
+    },
+    {
+      "slug": "against-the-grain",
+      "name": "Against the Grain",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "social-dynamics",
+      "categories": ["cognitive-linguistics", "social-dynamics"],
+      "source": "archive",
+      "description": "Cutting or planing wood against its grain direction causes tearout and rough surfaces. Figuratively: acting contrary to convention, norms, or the natural disposition of a situation. Shakespeare used it in Coriolanus (1607). Encodes the idea that resistance has a direction."
+    },
+    {
+      "slug": "rough-around-the-edges",
+      "name": "Rough Around the Edges",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["cognitive-linguistics"],
+      "source": "archive",
+      "description": "Unfinished wood has rough, splintery edges before sanding and finishing. Metaphorically: a person or product that lacks polish but may have underlying quality. Encodes the distinction between surface refinement and structural soundness."
+    },
+    {
+      "slug": "dovetail",
+      "name": "Dovetail",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "abstract-organization",
+      "categories": ["cognitive-linguistics"],
+      "source": "archive",
+      "description": "A joint where fan-shaped tenons interlock, noted for resistance to being pulled apart. Figuratively: 'the plans dovetail nicely' means they fit together with structural integrity. Dead metaphor since the 1650s. Interesting because the joint's strength comes from geometry, not adhesive."
+    },
+    {
+      "slug": "mortise-and-tenon",
+      "name": "Mortise and Tenon",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "abstract-organization",
+      "categories": ["cognitive-linguistics", "arts-and-culture"],
+      "source": "archive",
+      "description": "A projection (tenon) fits into a cavity (mortise) -- the oldest known joint, found in 7000-year-old structures. Metaphorically: complementary components designed to fit together. Less commonly used figuratively than dovetail, but richer structurally."
+    },
+    {
+      "slug": "shim",
+      "name": "Shim",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "A thin wedge that fills small gaps between objects. In software: a compatibility layer that bridges mismatched interfaces (polyfills, API adapters, legacy wrappers). Encodes the principle that imperfect fits are normal and small corrective layers are cheaper than redesigning either side."
+    },
+    {
+      "slug": "jig",
+      "name": "Jig",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "A custom tool built to facilitate repeatable cuts -- it guides the work but is not part of the final product. In software: test harnesses, build scripts, scaffolding code. First Round Review emphasizes that jigs require as much craftsmanship as the product itself."
+    },
+    {
+      "slug": "scaffolding",
+      "name": "Scaffolding",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "education-and-learning",
+      "categories": ["cognitive-science", "software-engineering"],
+      "source": "archive",
+      "description": "Temporary support structure removed when the building can stand alone. In education (Bruner, 1976): expert support withdrawn as the learner gains competence. In software: generated starter code (Rails scaffolding). Encodes the principle that temporary support is a necessary phase, not a crutch."
+    },
+    {
+      "slug": "cant-put-it-back-on",
+      "name": "You Can Always Take More Off",
+      "kind": "mental-model",
+      "source_frame": "carpentry",
+      "target_frame": "planning-and-preparation",
+      "categories": ["folk-wisdom"],
+      "source": "llm",
+      "description": "Woodworking proverb encoding asymmetric reversibility: material removal is easy and irreversible, so start conservative. Maps onto iterative refinement, MVP strategy, and any domain where subtraction is easier than addition. The complement of 'measure twice, cut once.'"
+    },
+    {
+      "slug": "let-the-tool-do-the-work",
+      "name": "Let the Tool Do the Work",
+      "kind": "mental-model",
+      "source_frame": "carpentry",
+      "target_frame": "tool-use",
+      "categories": ["folk-wisdom", "software-engineering"],
+      "source": "archive",
+      "description": "If you are forcing a sharp tool, the problem is your technique or setup, not the tool's power. Maps onto software: if you are fighting your framework, you are probably misusing it. Encodes the insight that struggle is diagnostic -- effort should go into preparation and alignment, not brute force."
+    },
+    {
+      "slug": "best-carpenters-fewest-chips",
+      "name": "The Best Carpenters Make the Fewest Chips",
+      "kind": "mental-model",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["folk-wisdom"],
+      "source": "archive",
+      "description": "English proverb c.1500s: mastery is visible in economy of action, not volume of effort. Expert work produces less waste because cuts are precise and planned. Maps onto clean code, lean manufacturing, and surgical technique."
+    },
+    {
+      "slug": "tongue-and-groove",
+      "name": "Tongue and Groove",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "abstract-organization",
+      "categories": ["cognitive-linguistics"],
+      "source": "archive",
+      "description": "A joint where a protruding ridge (tongue) fits into a matching channel (groove), used for flooring and paneling. Encodes alignment along an entire edge rather than at discrete points. Maps onto standardized interfaces and protocol compatibility."
+    },
+    {
+      "slug": "knock-down-joint",
+      "name": "Knock-Down Joint",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "software-programs",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Joints designed for fast disassembly and reassembly -- IKEA furniture logic. In software: modular architectures designed for easy component swapping. Encodes the principle that planned disassembly is a design feature, not a weakness."
+    },
+    {
+      "slug": "seasoning",
+      "name": "Seasoning",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["cognitive-linguistics"],
+      "source": "archive",
+      "description": "Wood must be dried (seasoned) before use -- green wood warps, cracks, and is unreliable. Figuratively: a 'seasoned' professional has been through the drying process of experience, shedding instability. Encodes the idea that time and exposure transform raw material into workable substance."
+    },
+    {
+      "slug": "veneer",
+      "name": "Veneer",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "social-dynamics",
+      "categories": ["cognitive-linguistics", "social-dynamics"],
+      "source": "archive",
+      "description": "A thin decorative layer of fine wood glued over cheaper substrate. Figuratively: a superficial appearance of quality covering something inferior. 'A veneer of civility.' Deeply negative in figurative use, though veneer is a legitimate and skilled craft technique."
+    },
+    {
+      "slug": "polished",
+      "name": "Polished",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["cognitive-linguistics"],
+      "source": "archive",
+      "description": "The final finishing step: sanding and applying finish to make wood smooth and lustrous. Figuratively: refined, sophisticated, complete. 'A polished presentation.' Encodes the idea that quality is achieved through progressive refinement -- each grit removes the scratches of the previous one."
+    },
+    {
+      "slug": "plane-it-smooth",
+      "name": "Plane It Smooth",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["folk-wisdom"],
+      "source": "llm",
+      "description": "Using a hand plane to remove thin shavings and produce a flat, smooth surface. Metaphorically: removing irregularities through careful, controlled reduction. The plane embodies precision subtraction -- each pass removes the minimum necessary to approach the target surface."
+    },
+    {
+      "slug": "framework",
+      "name": "Framework (Carpentry Origin)",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "abstract-organization",
+      "categories": ["cognitive-linguistics", "software-engineering"],
+      "source": "llm",
+      "description": "The structural skeleton of a building -- studs, joists, rafters -- before walls and finish. In software: a framework provides structure that you fill in with your specific logic. Dead metaphor in most usage. Encodes the distinction between load-bearing structure and decorative surface."
+    },
+    {
+      "slug": "nail-it",
+      "name": "Nail It",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["cognitive-linguistics"],
+      "source": "llm",
+      "description": "Driving a nail home with precision. Figuratively: to execute perfectly. 'She nailed the presentation.' Dead metaphor -- the carpentry origin is invisible. Interesting contrast: in woodworking, nails are considered crude fasteners compared to proper joinery."
+    },
+    {
+      "slug": "shokunin",
+      "name": "Shokunin",
+      "kind": "paradigm",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["philosophy", "arts-and-culture"],
+      "source": "archive",
+      "description": "Japanese concept of the artisan who has a social obligation to work their best for the welfare of the people. Not just skill but lifelong dedication to a single practice. The shokunin is a perpetual student. Maps onto software craftsmanship, the concept of mastery in any discipline."
+    },
+    {
+      "slug": "wabi-sabi-in-woodwork",
+      "name": "Wabi-Sabi in Woodwork",
+      "kind": "paradigm",
+      "source_frame": "carpentry",
+      "target_frame": "aesthetics",
+      "categories": ["philosophy", "arts-and-culture"],
+      "source": "archive",
+      "description": "Japanese aesthetic of beauty in imperfection and transience, deeply connected to woodworking -- wood changes character over time, and this aging is celebrated rather than resisted. Maps onto graceful degradation in software, acceptance of entropy rather than fighting it."
+    },
+    {
+      "slug": "knotty-problem",
+      "name": "A Knotty Problem",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "causal-reasoning",
+      "categories": ["cognitive-linguistics"],
+      "source": "archive",
+      "description": "Knots in wood are hard, irregular, and disrupt the grain -- they resist cutting, blunt tools, and make surfaces unpredictable. Figuratively: a problem that is tangled, resistant to straightforward solution. English proverb c.1670: 'A knotty piece of timber must have smooth wedges.'"
+    },
+    {
+      "slug": "green-wood",
+      "name": "Green (Unseasoned)",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "quality-and-craftsmanship",
+      "categories": ["cognitive-linguistics"],
+      "source": "archive",
+      "description": "Freshly cut wood that has not been dried. Green wood is pliable but unstable -- it warps and cracks as it dries. Figuratively: a 'green' person is inexperienced and malleable but unreliable. Sa'di (1258): 'Wood, while 'tis green, thou mayst at pleasure bend; when dry, thou canst not change it save by fire.'"
+    },
+    {
+      "slug": "heartwood-and-sapwood",
+      "name": "Heartwood and Sapwood",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "materials",
+      "categories": ["cognitive-linguistics"],
+      "source": "llm",
+      "description": "Heartwood is the dense, dead inner core that gives a tree structural strength. Sapwood is the living outer layer that transports nutrients but is softer and more vulnerable. Metaphorically: the distinction between core competency (stable, load-bearing) and peripheral activity (dynamic, growing, vulnerable)."
+    },
+    {
+      "slug": "tooling-up",
+      "name": "Tooling Up",
+      "kind": "metaphor",
+      "source_frame": "carpentry",
+      "target_frame": "planning-and-preparation",
+      "categories": ["folk-wisdom", "software-engineering"],
+      "source": "llm",
+      "description": "The preparation phase before woodworking begins: sharpening blades, setting up jigs, organizing the workspace. Figuratively: investing in infrastructure before productive work starts. Encodes the principle that preparation time is not wasted time -- dull tools make bad work."
+    }
+  ]
+}
