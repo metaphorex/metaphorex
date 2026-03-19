@@ -1,6 +1,7 @@
 ---
 applies_to:
 - economics
+- software-engineering
 author: agent:metaphorex-miner
 categories:
 - biology-and-ecology
@@ -14,10 +15,10 @@ limits:
 - '[source] misleads because biological ecosystems have no designer or central coordinator, while technology "ecosystems" are typically architected and governed by a platform owner (Apple, Google, AWS) whose profit motive shapes the system in ways that have no ecological parallel'
 - '[source] imports the connotation that ecosystems are self-regulating and tend toward equilibrium, obscuring that real markets require active regulation and that platform ecosystems are deliberately structured to benefit the platform owner at the expense of peripheral participants'
 - '[source] breaks because ecological niches emerge from evolutionary pressure over millennia, while business "niches" are often created overnight by platform policy changes, API deprecations, or acquisitions -- the timescale mismatch makes evolutionary reasoning about market dynamics unreliable'
-name: Ecosystem as Metaphor
+name: Business Ecosystem
 related:
 - natural-selection
-slug: ecosystem-as-metaphor
+slug: business-ecosystem
 source_frame: ecology
 transfers:
 - '[source] maps the ecological web of interdependent organisms onto networks of businesses, developers, and users, importing the insight that no participant is self-sufficient and that removing one species can cascade unpredictably through the whole system'
@@ -141,9 +142,11 @@ the competitive landscape was better understood as an ecosystem where
 companies co-evolve than as a battlefield where they fight for territory.
 The technology industry adopted the term with extraordinary enthusiasm
 during the 2000s and 2010s, making "ecosystem" perhaps the single most
-common metaphor in Silicon Valley strategic discourse. By the 2020s,
-the term had become so pervasive that its ecological origins were largely
-invisible -- a dead metaphor walking.
+common metaphor in Silicon Valley strategic discourse. Despite its
+ubiquity, the metaphor continues to do active structural work --
+co-evolution, keystone species, niche differentiation -- shaping how
+strategists reason about platform dynamics in ways that alternative
+framings like "supply chain" or "marketplace" cannot.
 
 ## References
 
