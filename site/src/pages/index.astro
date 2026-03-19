@@ -7,6 +7,11 @@ const frames = await getCollection("frames");
 const categories = await getCollection("categories");
 const works = await getCollection("works");
 
+const notable = [...entries]
+  .filter((e) => e.data.notable)
+  .sort((a, b) => b.data.created.getTime() - a.data.created.getTime())
+  .slice(0, 10);
+
 const recent = [...entries]
   .sort((a, b) => b.data.created.getTime() - a.data.created.getTime())
   .slice(0, 10);
@@ -46,13 +51,31 @@ const recentWorks = [...works]
     ))}
   </ul>
 
-  <h2>Latest Entries</h2>
-  <ul class="entry-list">
-    {recent.map((m) => (
-      <li>
-        <a href={`/entries/${m.data.slug}/`}>{m.data.name}</a>
-        <span class="muted"> — {m.data.kind}</span>
-      </li>
-    ))}
-  </ul>
+  {notable.length > 0 ? (
+    <>
+      <h2>New and Notable</h2>
+      <ul class="entry-list">
+        {notable.map((m) => (
+          <li>
+            <a href={`/entries/${m.data.slug}/`}>{m.data.name}</a>
+            {m.data.notable_quote && (
+              <span class="muted"> — "{m.data.notable_quote}"</span>
+            )}
+          </li>
+        ))}
+      </ul>
+    </>
+  ) : (
+    <>
+      <h2>Latest Entries</h2>
+      <ul class="entry-list">
+        {recent.map((m) => (
+          <li>
+            <a href={`/entries/${m.data.slug}/`}>{m.data.name}</a>
+            <span class="muted"> — {m.data.kind}</span>
+          </li>
+        ))}
+      </ul>
+    </>
+  )}
 </Base>

@@ -26,6 +26,8 @@ const entries = defineCollection({
     deprecated: z.boolean().optional(),
     harness: z.string().optional(),
     provenance: z.string().optional(),
+    notable: z.boolean().optional(),
+    notable_quote: z.string().optional(),
     created: z.coerce.date(),
     updated: z.coerce.date(),
   }),
