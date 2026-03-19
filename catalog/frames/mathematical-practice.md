@@ -2,25 +2,27 @@
 created: '2026-03-19'
 name: Mathematical Practice
 related:
-- mathematical-logic
-- epistemology
-- scientific-method
+- intellectual-inquiry
+- mathematical-modeling
 roles:
-- formalism
-- interpretation
+- mathematician
 - proof
+- theorem
 - conjecture
+- formalism
+- intuition
 - computation
 - abstraction
 slug: mathematical-practice
 updated: '2026-03-19'
 ---
 
-The social and cognitive practices of working mathematicians: proving,
-conjecturing, computing, and arguing about what results mean. Distinct from
-mathematics-as-object, mathematical practice foregrounds the human choices
-embedded in formal work -- which questions to ask, which formalisms to adopt,
-and when to stop asking "why" and start computing. Structurally productive
-because it encodes the tension between understanding and utility, between
-the realist claim that mathematics describes something and the instrumentalist
-claim that it merely calculates.
+The social and cognitive activity of doing mathematics -- proving theorems,
+formulating conjectures, computing, and communicating results. Distinct from
+mathematical objects themselves (numbers, sets, spaces), this frame covers
+the human practice: the labor of proof, the culture of departments, the
+folklore of problem-solving, and the self-image of practitioners. As a source
+domain, it provides metaphors for any knowledge work that is solitary, abstract,
+and cumulative. As a target domain, it borrows heavily from manufacturing
+(producing theorems), exploration (discovering truths), and combat (attacking
+problems).

@@ -2,25 +2,25 @@
 created: '2026-03-19'
 name: Epistemology
 related:
-- scientific-method
-- reasoning-about-infinity
-- decision-making
+- intellectual-inquiry
+- cognitive-science
 roles:
 - knower
 - knowledge
 - justification
 - belief
 - evidence
+- theory
+- interpretation
 - truth
-- method
 slug: epistemology
 updated: '2026-03-19'
 ---
 
-The study of knowledge: what counts as knowing, how beliefs are justified,
-and where the boundaries of the knowable lie. As a source domain, epistemology
-foregrounds the distinction between having a correct result and understanding
-why it is correct, between instrumental success and explanatory depth.
-Structurally productive because it encodes the tensions between empiricism and
-rationalism, between realism and instrumentalism, and between the map and the
-territory.
+The study of what counts as knowledge, how it is justified, and what its
+limits are. As a target domain, epistemological stances are frequently
+structured by spatial metaphors (foundations, frameworks, horizons) and visual
+metaphors (seeing, clarity, illumination). As a frame, it foregrounds the
+distinction between knowing that something works and understanding why it
+works -- a tension that generates productive metaphors in science, engineering,
+and philosophy.
