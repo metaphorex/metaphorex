@@ -1,0 +1,164 @@
+{
+  "project": "comedy-writers-glossary",
+  "project_issue": 1234,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://misterandyriley.com/2019/10/25/how-to-talk-comedy-writer-updated-25th-october-2019/",
+    "https://misterandyriley.com/2017/03/31/how-to-talk-comedy-writer-updated-2/",
+    "https://misterandyriley.com/2014/12/16/how-to-talk-comedy-writer/",
+    "https://stand-upcomedy.com/glossary/",
+    "https://othernetwork.com/free-comedy-writers-glossary/"
+  ],
+  "candidates": [
+    {
+      "slug": "lightning-rod-joke",
+      "name": "Lightning Rod (Sacrificial Decoy)",
+      "kind": "cross-field-mapping",
+      "source_frame": "comedy-craft",
+      "target_frame": "negotiation-and-persuasion",
+      "categories": ["arts-and-culture"],
+      "source": "archive",
+      "description": "A deliberately provocative element inserted to absorb executive/stakeholder scrutiny, protecting the element you actually want to keep. Riley's glossary documents at least four independent coinages for this tactic (lightning rod, queen mum, purple goat, clay pigeon), suggesting it encodes a deep negotiation pattern. Transfers directly to product design (sacrificial feature), negotiation (ambit claim), and any approval process with gatekeepers."
+    },
+    {
+      "slug": "yes-and",
+      "name": "Yes, And...",
+      "kind": "conceptual-metaphor",
+      "source_frame": "comedy-craft",
+      "target_frame": "collaborative-work",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "The foundational improv principle of accepting and building on a partner's contribution rather than blocking it. Has become one of the most successful cross-domain metaphors in modern organizational thinking -- used in business collaboration, therapy (acceptance and commitment), education (constructivist pedagogy), and design thinking. Documented in Halpern/Close 'Truth in Comedy' and Del Close's work, now a standalone metaphor for generative collaboration."
+    },
+    {
+      "slug": "shit-sandwich",
+      "name": "Shit Sandwich (Feedback Structure)",
+      "kind": "cross-field-mapping",
+      "source_frame": "comedy-craft",
+      "target_frame": "communication",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "A note-giving technique: positive feedback, then constructive criticism, then encouraging close. From Riley's glossary. Has become a ubiquitous management and education metaphor for structuring difficult feedback. The comedy writers' room origin reveals its limits -- experienced practitioners see through the structure, and the bread dilutes the message."
+    },
+    {
+      "slug": "killing-kittens",
+      "name": "Killing Kittens (Killing Your Darlings)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "comedy-craft",
+      "target_frame": "creative-process",
+      "categories": ["arts-and-culture"],
+      "source": "archive",
+      "description": "Removing beloved material that obstructs the story (Chris Addison, via Riley). A comedy-specific intensification of Faulkner/Quiller-Couch's 'kill your darlings.' Joel Morris's variant 'stripping the car' adds the metaphor of salvaging parts. Transfers to any creative or engineering discipline where attachment to components blocks system-level quality."
+    },
+    {
+      "slug": "rubber-duck-solution",
+      "name": "Rubber Duck Solution",
+      "kind": "cross-field-mapping",
+      "source_frame": "comedy-craft",
+      "target_frame": "problem-solving",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "From Riley's glossary (via Sarah Morgan): explaining a problem to an uninformed listener to gain fresh insights. Independent coinage from comedy writers' rooms that parallels the software engineering 'rubber duck debugging' pattern. The convergence suggests a deep cognitive mechanism: articulation forces the explainer to restructure their understanding."
+    },
+    {
+      "slug": "laying-pipe",
+      "name": "Laying Pipe (Exposition as Infrastructure)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "plumbing",
+      "target_frame": "narrative-and-storytelling",
+      "categories": ["arts-and-culture"],
+      "source": "archive",
+      "description": "Planting the exposition necessary for audience understanding. From both Riley's glossary and standard screenwriting usage. The plumbing metaphor frames exposition as invisible infrastructure: essential, unglamorous, and ideally unnoticed by the user. Transfers to any communication context where groundwork must be laid before the payload -- onboarding, teaching, sales pitches."
+    },
+    {
+      "slug": "oxbow-lake",
+      "name": "Oxbow Lake (Vestigial Script Element)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "geology",
+      "target_frame": "creative-process",
+      "categories": ["arts-and-culture"],
+      "source": "archive",
+      "description": "A once-purposeful script element that became redundant through rewrites but remains in the script (Sam Bain/Jesse Armstrong via Riley). Like a geological oxbow lake cut off from the river's current flow. Transfers powerfully to software engineering (dead code), organizational design (vestigial processes), and any system that evolves through incremental revision."
+    },
+    {
+      "slug": "load-bearing-pun",
+      "name": "Load-Bearing Pun",
+      "kind": "cross-field-mapping",
+      "source_frame": "architecture-and-building",
+      "target_frame": "comedy-craft",
+      "categories": ["arts-and-culture"],
+      "source": "archive",
+      "description": "A single word carrying an entire misunderstanding (Al Murray via Riley). The structural engineering metaphor -- a load-bearing wall cannot be removed without collapse -- maps precisely onto comedy construction where one ambiguous word supports the entire joke. Transfers to any domain where a single element bears disproportionate structural weight: a key assumption in an argument, a critical dependency in software."
+    },
+    {
+      "slug": "clapter",
+      "name": "Clapter",
+      "kind": "conceptual-metaphor",
+      "source_frame": "comedy-craft",
+      "target_frame": "communication",
+      "categories": ["social-dynamics"],
+      "source": "archive",
+      "description": "Audience applause accompanying political agreement rather than genuine laughter. A portmanteau (clap + laughter) from both Riley's glossary and stand-up comedy tradition. The term encodes a precise diagnostic: the response signals tribal affiliation rather than the cognitive surprise that produces real laughter. Transfers to any domain where performative agreement masquerades as genuine engagement -- meeting dynamics, social media engagement, political rhetoric."
+    },
+    {
+      "slug": "hat-on-a-hat",
+      "name": "Hat on a Hat",
+      "kind": "conceptual-metaphor",
+      "source_frame": "clothing",
+      "target_frame": "creative-process",
+      "categories": ["arts-and-culture"],
+      "source": "archive",
+      "description": "Two simultaneous comic conceits distracting from each other. From writers' room usage documented in Riley and other glossaries. The clothing metaphor is precise: one hat is a statement, two hats is a mess. Transfers to design (feature bloat), communication (mixed metaphors), and any domain where competing focal points dilute impact. The principle of single comic premise maps onto the design principle of single responsibility."
+    },
+    {
+      "slug": "lampshading",
+      "name": "Lampshading",
+      "kind": "cross-field-mapping",
+      "source_frame": "comedy-craft",
+      "target_frame": "narrative-and-storytelling",
+      "categories": ["arts-and-culture"],
+      "source": "archive",
+      "description": "A character explicitly pointing out a flaw or implausibility in the narrative, preempting audience objection. From Riley's glossary and TV Tropes. The metaphor of placing a lampshade over something ugly -- drawing attention to it while domesticating it -- transfers to rhetoric (acknowledging a weak point before your opponent does), software documentation (known issues lists), and crisis communication (getting ahead of the story)."
+    },
+    {
+      "slug": "comedy-is-truth-and-pain",
+      "name": "Comedy Is Truth and Pain",
+      "kind": "conceptual-metaphor",
+      "source_frame": "comedy-craft",
+      "target_frame": "creative-process",
+      "categories": ["arts-and-culture"],
+      "source": "llm",
+      "description": "John Vorhaus's core formula from 'The Comic Toolbox': comedy arises from the intersection of a universal truth and a universal pain. This frames comedy not as entertainment but as a cognitive mechanism for processing difficult truths. Transfers to any domain where reframing painful realities enables productive engagement -- therapy, change management, difficult conversations."
+    },
+    {
+      "slug": "callback",
+      "name": "Callback (Comedy Structure)",
+      "kind": "cross-field-mapping",
+      "source_frame": "comedy-craft",
+      "target_frame": "communication",
+      "categories": ["arts-and-culture"],
+      "source": "archive",
+      "description": "Repeating an earlier joke's punchline later in a new context, gaining amplified laughter through pattern recognition. A fundamental comedy structure documented in Greg Dean's glossary. The term itself is a telephony metaphor (calling back). Transfers to rhetoric (anaphora, refrain), software design (callbacks as architectural pattern), music (reprise), and teaching (spaced repetition). The mechanism -- deferred payoff through pattern completion -- is universal."
+    },
+    {
+      "slug": "vomit-draft",
+      "name": "Vomit Draft",
+      "kind": "conceptual-metaphor",
+      "source_frame": "biology",
+      "target_frame": "creative-process",
+      "categories": ["arts-and-culture"],
+      "source": "archive",
+      "description": "An extremely rough initial script lacking polish, written to get ideas out without self-censorship. From Riley's glossary (also: puke draft, draft zero). The biological disgust metaphor is deliberate: it gives the writer permission to produce something ugly. Transfers to any creative or engineering process: rapid prototyping, brainstorming, first-pass architecture. The metaphor encodes the insight that quality control at the generative stage kills output."
+    },
+    {
+      "slug": "raptor-pit",
+      "name": "Raptor Pit (Hostile Creative Environment)",
+      "kind": "conceptual-metaphor",
+      "source_frame": "animal-behavior",
+      "target_frame": "collaborative-work",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "An aggressive, hostile writers' room environment where ideas are attacked rather than developed. From Riley's glossary. The predator-enclosure metaphor encodes the insight that creative collaboration requires psychological safety -- a raptor pit selects for defensive posturing rather than generative contribution. Transfers directly to any team environment: engineering stand-ups, design critiques, academic seminars."
+    }
+  ]
+}
