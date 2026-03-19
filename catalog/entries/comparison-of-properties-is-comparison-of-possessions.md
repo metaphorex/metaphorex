@@ -17,6 +17,13 @@ related:
 slug: comparison-of-properties-is-comparison-of-possessions
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] possessions can be counted and ranked, making abstract qualities feel quantifiable as inventory ("she has more patience")'
+  - '[source] having more of a desirable possession makes one richer, mapping advantage in a quality onto economic advantage'
+  - '[source] equal shares from a common stock structures parity as fair distribution, not as qualitative similarity'
+limits:
+  - '[source] breaks because possessions are zero-sum (if I give you mine, I have less) while qualities like courage are not diminished when others also possess them'
+  - '[source] misleads because possessions are uniform and countable, but one person''s patience may be a practiced discipline while another''s is temperamental indifference'
 ---
 
 ## Transfers

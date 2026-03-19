@@ -16,6 +16,13 @@ related:
 slug: kernel
 source_frame: horticulture
 updated: '2026-03-13'
+transfers:
+  - '[source] the kernel is encased in protective layers (shell, husk) that can be removed without destroying the generative core'
+  - '[source] the kernel contains the genetic program from which the entire organism develops, concentrating reproductive capacity in the smallest component'
+  - '[source] removing the kernel kills the organism while removing any outer layer does not, establishing a strict hierarchy of dispensability'
+limits:
+  - '[source] a botanical kernel germinates once and becomes something entirely different (a plant), whereas an OS kernel persists unchanged as a running service rather than transforming into its progeny'
+  - '[source] botanical kernels are passive until conditions trigger germination, but an OS kernel is continuously active and responsive, never dormant in the way a seed is'
 ---
 
 ## Transfers

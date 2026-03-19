@@ -18,6 +18,13 @@ related:
 slug: life-is-a-story
 source_frame: narrative
 updated: '2026-03-13'
+transfers:
+  - '[source] a story has narrative arc -- beginning, rising action, climax, resolution -- imposing temporal structure and meaning on a sequence of events that might otherwise seem random'
+  - '[source] stories have protagonists with intentions and character development, mapping the intuition that a life should have coherent identity and growth'
+  - '[source] a story can be told from different perspectives, each producing a different meaning from the same events, structuring the idea that life''s meaning depends on framing'
+limits:
+  - '[source] stories are composed after the fact with the ending known, imposing retrospective coherence that was not available to the protagonist living forward in time'
+  - '[source] stories require a narrator who selects what to include, but life as lived has no editor -- every moment is equally present and unedited until memory and retelling impose selection'
 ---
 
 ## Transfers

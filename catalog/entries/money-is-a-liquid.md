@@ -17,6 +17,13 @@ related:
 slug: money-is-a-liquid
 source_frame: fluid-dynamics
 updated: '2026-03-13'
+transfers:
+  - '[source] liquid flows from high to low along the path of least resistance, mapping the movement of capital toward the highest returns with lowest friction'
+  - '[source] liquid flow can be dammed, channeled, or diverted through infrastructure, structuring financial regulation as plumbing that directs monetary flows through approved channels'
+  - '[source] liquidity is the ease with which a substance flows -- viscous fluids move slowly -- mapping the financial concept of liquidity as the ease of converting assets to cash'
+limits:
+  - '[source] liquid is conserved in a closed system (it doesn''t appear or disappear), but money can be created through lending and destroyed through default, violating conservation'
+  - '[source] liquid always flows downhill under gravity with no choice in the matter, but money flows are directed by human decisions, regulations, and institutional structures that can push capital ''uphill'''
 ---
 
 ## Transfers

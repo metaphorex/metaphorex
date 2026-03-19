@@ -7,6 +7,7 @@ categories:
 - arts-and-culture
 contributors: []
 created: '2026-03-07'
+harness: Claude Code
 kind: metaphor
 name: Creative Process Is Construction
 provenance: eno-composers-as-gardeners
@@ -16,6 +17,13 @@ related:
 slug: creative-process-is-construction
 source_frame: architecture-and-building
 updated: '2026-03-12'
+transfers:
+  - '[source] construction proceeds through sequential phases (foundation, framing, finishing), providing natural milestones and a legible sense of progress'
+  - '[source] some structural elements are load-bearing and cannot be removed without collapse, mapping internal dependencies in any complex artifact'
+  - '[source] blueprints precede construction, treating planning as a prerequisite phase that fully specifies the outcome before work begins'
+limits:
+  - '[source] breaks because construction assumes you know what you are building before you build it, while creative work often must discover its goal through the process of making'
+  - '[source] misleads because buildings are static once constructed -- they do not grow, adapt, or reproduce -- making ongoing evolution feel like renovation rather than natural change'
 ---
 
 ## Transfers

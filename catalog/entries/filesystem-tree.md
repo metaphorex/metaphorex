@@ -17,6 +17,13 @@ related:
 slug: filesystem-tree
 source_frame: horticulture
 updated: '2026-03-14'
+transfers:
+  - '[source] hierarchical file organization maps onto a botanical tree with a single root at the base, branches splitting into sub-branches, and leaves at the terminal points -- imposing a strict parent-child inheritance structure where every node except the root has exactly one parent'
+  - '[source] navigation through the filesystem maps onto climbing or traversing the tree: you go ''up'' toward the root and ''down'' into sub-branches, importing a vertical orientation where the root paradoxically sits at the top of directory listings'
+  - '[source] the tree''s growth pattern (branching from a single trunk) maps onto the organizational principle that all data in a filesystem descends from a single origin point, enforcing a unified namespace where every file has a unique absolute path'
+limits:
+  - '[source] breaks because real trees grow upward from root to canopy, but filesystem trees are conventionally drawn and navigated root-at-top, inverting the botanical orientation so thoroughly that the spatial intuitions from the source domain conflict with the actual interface'
+  - '[source] misleads by imposing strict hierarchy (every file in exactly one directory), when real information often belongs in multiple categories simultaneously -- the tree structure forces a single canonical location where a graph would be more natural'
 ---
 
 ## Transfers

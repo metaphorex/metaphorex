@@ -19,6 +19,13 @@ related:
 slug: difficult-subjects-are-adversaries
 source_frame: war
 updated: '2026-03-12'
+transfers:
+  - '[source] the subject matter is an opponent that actively resists, evades, and counterattacks the learner''s efforts at comprehension'
+  - '[source] understanding is victory over the adversary -- the learner masters, conquers, or overcomes the material in a decisive triumph'
+  - '[source] different study methods are different tactical approaches, and changing strategy is changing one''s angle of attack on the opponent'
+limits:
+  - '[source] breaks because subjects have no intentions -- quantum mechanics does not try to be confusing -- but the adversary frame imports purposeful opposition'
+  - '[source] misleads because the war frame makes surrender (accepting you were wrong) feel like defeat, discouraging the receptivity and assumption-revision that genuine understanding requires'
 ---
 
 ## Transfers

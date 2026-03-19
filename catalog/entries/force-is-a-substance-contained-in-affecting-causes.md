@@ -20,6 +20,13 @@ related:
 slug: force-is-a-substance-contained-in-affecting-causes
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+transfers:
+  - '[source] causal force maps onto a fluid substance contained within the cause itself -- power flows from a source, energy is stored in a battery, authority resides in the office -- making causation feel like the release of a pre-existing substance'
+  - '[source] the magnitude of an effect depends on the quantity of force-substance the cause contains, importing a conservation-like logic where causes with more stored force produce larger effects'
+  - '[source] causes can be depleted: a person runs out of energy, a battery drains, authority erodes -- importing the finite-reservoir structure where the force-substance is consumed in the act of causing'
+limits:
+  - '[source] breaks because real causal force is not a conserved substance -- a leader''s authority can increase through use rather than deplete, and a catalyst enables reactions without being consumed, which the contained-substance model cannot represent'
+  - '[source] misleads by localizing force entirely inside the cause, obscuring how contextual factors (medium, distance, resistance) modulate the transmission of causal influence between the cause and its effect'
 ---
 
 ## Transfers

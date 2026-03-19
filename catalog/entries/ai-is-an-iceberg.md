@@ -16,6 +16,13 @@ related:
 slug: ai-is-an-iceberg
 source_frame: natural-phenomena
 updated: '2026-03-13'
+transfers:
+  - '[source] roughly 90% of an iceberg''s mass is submerged and invisible from the surface, importing a specific ratio claim that the visible AI interface represents a small fraction of the total system'
+  - '[source] the submerged mass determines the iceberg''s drift, stability, and danger to shipping, framing hidden infrastructure (training data, compute, human labor) as the causal driver of AI behavior'
+  - '[source] icebergs calve from glaciers and carry the geological history of their formation, importing the insight that an AI system carries the embedded decisions of its training process into every interaction'
+limits:
+  - '[source] breaks because an iceberg''s submerged portion is made of the same material as the tip, while AI infrastructure (GPU clusters, human labelers, legal agreements) is categorically different from the chat interface'
+  - '[source] misleads by implying the hidden mass is stable, when AI infrastructure changes continuously through retraining, fine-tuning, and policy updates invisible to users'
 ---
 
 ## Transfers

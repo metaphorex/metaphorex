@@ -20,6 +20,13 @@ related:
 slug: morality-is-accounting
 source_frame: economics
 updated: '2026-03-13'
+transfers:
+  - '[source] double-entry bookkeeping requires every debit to have a corresponding credit, mapping the moral intuition that every wrong must be ''balanced'' by proportionate punishment or restitution'
+  - '[source] an account in deficit triggers obligations to repay, structuring guilt as a felt debt that demands settlement through apology, penance, or reciprocation'
+  - '[source] accounts can be audited by third parties against an objective standard, mapping the idea of moral judgment as an impartial review of a person''s behavioral ledger'
+limits:
+  - '[source] accounting treats all transactions within a category as fungible (one dollar is identical to another), but moral actions are context-dependent -- a kindness from a stranger and from a spouse are not interchangeable credits'
+  - '[source] accounting allows indefinite deferral of payment through credit instruments, but moral debts are felt as urgent and time-sensitive -- delayed justice is widely perceived as diminished justice'
 ---
 
 ## Transfers

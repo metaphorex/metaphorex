@@ -18,6 +18,13 @@ related:
 slug: beliefs-are-beings-with-a-life-cycle
 source_frame: life-course
 updated: '2026-03-12'
+transfers:
+  - '[source] beings are born, grow, reproduce, and die through a determinate life cycle, framing beliefs as entities that emerge, develop, spread to new hosts, and eventually expire'
+  - '[source] beings reproduce by transmitting their essential pattern to offspring, importing the structure where beliefs propagate by being communicated and adopted by new minds'
+  - '[source] organisms can be healthy or diseased, and disease impairs their function, framing some belief states as pathological (delusion, fanaticism) using a biological diagnostic framework'
+limits:
+  - '[source] breaks because organisms have a genetically determined lifespan, while beliefs can persist indefinitely if cultural transmission is maintained or revive after centuries of dormancy'
+  - '[source] misleads by implying beliefs have a natural death, when many beliefs are actively killed through argument, evidence, or institutional suppression rather than expiring on their own'
 ---
 
 ## Transfers

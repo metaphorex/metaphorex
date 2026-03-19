@@ -17,6 +17,13 @@ related:
 slug: love-is-a-journey
 source_frame: journeys
 updated: '2026-03-14'
+transfers:
+  - '[source] two travelers share a vehicle and must agree on a destination, mapping the requirement for shared goals in a relationship'
+  - '[source] journeys pass through varied terrain -- smooth roads, rough patches, dead ends -- structuring relationship difficulties as external obstacles encountered along a route rather than internal failings'
+  - '[source] a journey can reach a crossroads where travelers must choose a direction together or part ways, mapping decision points in relationships as binary spatial choices'
+limits:
+  - '[source] a journey has a destination that exists before the travelers set out, but relationships often have no predetermined endpoint and the ''destination'' is constructed retrospectively'
+  - '[source] journey progress is monotonic in space (you are always somewhere along the route), but relationship progress can genuinely reverse, regress, or cycle without spatial analogue'
 ---
 
 ## Transfers

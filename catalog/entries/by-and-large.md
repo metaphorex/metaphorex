@@ -14,6 +14,13 @@ source_frame: seafaring
 applies_to:
 - language
 updated: '2026-03-14'
+transfers:
+  - '[source] "by" means sailing close to the wind (precise maneuvering) and "large" means sailing with the wind broadly behind (easy running), framing a general assessment as averaging performance across both difficult and favorable conditions'
+  - '[source] a ship that sails well both by and large is competent in all wind conditions, importing the structure of a comprehensive evaluation that accounts for varied circumstances'
+  - '[source] the two sailing modes demand opposite skills (close-hauled precision vs. downwind power), framing the overall judgment as spanning the full range of relevant conditions rather than cherry-picking'
+limits:
+  - '[source] breaks because the original nautical meaning describes a continuous spectrum of wind angles, while the modern idiom collapses this into a simple "on the whole" that loses the structural insight about performance across varied conditions'
+  - '[source] misleads by implying that general assessments naturally account for both favorable and adverse conditions, when most "by and large" statements actually default to the most salient or available evidence'
 ---
 
 ## Transfers

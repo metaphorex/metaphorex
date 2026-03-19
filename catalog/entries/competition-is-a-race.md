@@ -19,6 +19,13 @@ related:
 slug: competition-is-a-race
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - '[source] all runners traverse the same defined course, making competitive advantage purely a matter of speed and relative position'
+  - '[source] starting positions may be equal or unequal, making initial conditions visible and debatable (head start, level playing field)'
+  - '[source] a single finish line defines a clear winner, giving competition a narrative arc with an unambiguous resolution'
+limits:
+  - '[source] breaks because the track constrains motion to one dimension, making lateral moves, niche positioning, and market creation illegible'
+  - '[source] misleads because "first" maps to "best," but first-mover advantage is empirically unreliable -- many winners are fast followers, not first movers'
 ---
 
 ## Transfers

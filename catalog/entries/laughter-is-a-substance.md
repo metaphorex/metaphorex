@@ -18,6 +18,13 @@ related:
 slug: laughter-is-a-substance
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+transfers:
+  - '[source] a substance can accumulate, overflow, and be released in bursts, mapping onto the experience of laughter building up and erupting'
+  - '[source] substances can be contained or spill out uncontrollably, structuring laughter as something that resists voluntary suppression once pressure builds'
+  - '[source] a substance can be infectious through contact -- one spill triggers another -- mapping the social contagion of laughter spreading through a group'
+limits:
+  - '[source] a physical substance persists after release and must be cleaned up, while laughter dissipates immediately and leaves no residue to manage'
+  - '[source] substances have consistent properties regardless of context, but laughter''s quality (joyful, nervous, cruel) depends entirely on social and emotional circumstances'
 ---
 
 ## Transfers

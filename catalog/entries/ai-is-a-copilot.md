@@ -6,6 +6,7 @@ categories:
 - ai-discourse
 - software-engineering
 contributors: []
+harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: AI Is a Copilot
@@ -16,6 +17,13 @@ related:
 slug: ai-is-a-copilot
 source_frame: aviation
 updated: '2026-03-13'
+transfers:
+  - '[source] a copilot shares the cockpit but the pilot-in-command retains final authority and legal responsibility, importing a specific liability structure where the human remains accountable'
+  - '[source] copilot duties include monitoring instruments, cross-checking the pilot, and taking over during incapacitation, framing AI as a redundancy layer rather than an autonomous agent'
+  - '[source] the copilot and pilot follow standardized checklists and callout protocols, importing the expectation that human-AI interaction should be proceduralized rather than ad hoc'
+limits:
+  - '[source] breaks because a human copilot can refuse an unsafe command and invoke authority gradients, while an AI copilot has no independent judgment to override the user'
+  - '[source] misleads by implying shared situational awareness, when the AI has no persistent model of the evolving task context between interactions'
 ---
 
 ## Transfers

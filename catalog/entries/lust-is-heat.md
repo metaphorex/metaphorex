@@ -20,6 +20,13 @@ related:
 slug: lust-is-heat
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] heat builds incrementally from an energy source and can reach ignition point where combustion becomes self-sustaining, mapping the escalation of desire from warmth to consuming intensity'
+  - '[source] heat radiates outward and is perceptible to nearby observers, structuring lust as something visible to others through ''heated'' behavior even when the person tries to conceal it'
+  - '[source] heat can be quenched by removing the fuel source or applying a coolant, mapping the strategies for managing desire through avoidance or counter-stimulation'
+limits:
+  - '[source] heat is a scalar quantity with no direction -- it simply intensifies or diminishes -- but lust is directed at a specific object, and redirecting it is not like redirecting thermal energy'
+  - '[source] heat transfer follows thermodynamic laws and always flows from hot to cold, but sexual desire does not reliably transfer from a desiring person to the object of desire'
 ---
 
 ## Transfers

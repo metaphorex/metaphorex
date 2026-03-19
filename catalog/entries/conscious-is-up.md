@@ -20,6 +20,13 @@ related:
 slug: conscious-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] upright posture correlates with waking and horizontal posture with sleeping, grounding the vertical axis in direct physiological experience'
+  - '[source] falling asleep is literally falling -- a loss of control and surrender to gravity, framing unconsciousness as a failure to maintain verticality'
+  - '[source] depth below a surface provides a continuous scale for degree of unconsciousness, from light sleep near the surface to coma at the deepest point'
+limits:
+  - '[source] breaks because sleep architecture involves cycles (light, deep, REM) that do not map onto a single depth axis -- REM is neurologically active yet metaphorically "deep"'
+  - '[source] misleads because altered states like meditation, flow, and hypnosis involve changes in consciousness that are neither up nor down on the vertical axis'
 ---
 
 ## Transfers

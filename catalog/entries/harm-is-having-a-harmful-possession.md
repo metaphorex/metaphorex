@@ -20,6 +20,13 @@ related:
 slug: harm-is-having-a-harmful-possession
 source_frame: economics
 updated: '2026-03-12'
+transfers:
+  - '[source] maps harm onto an unwanted object the person carries, making suffering personal and portable -- it goes wherever you go because you are the one holding it'
+  - '[source] gives harm a transactional onset structure where becoming harmed is receiving something bad, implying a giver and a receiver in an economic exchange'
+  - '[source] encodes severity as weight or size of the possessed object, importing the physics of carrying -- heavier burdens slow you down and eventually make movement impossible'
+limits:
+  - '[source] misleads because the possession frame implies voluntary control, so "just let it go" becomes the prescription for recovery and can shade into victim-blaming'
+  - '[source] breaks for systemic and diffuse harms (structural racism, environmental degradation) that cannot be packaged as discrete objects held by individual persons'
 ---
 
 ## Transfers

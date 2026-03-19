@@ -21,6 +21,13 @@ related:
 slug: existence-is-visibility
 source_frame: vision
 updated: '2026-03-12'
+transfers:
+  - '[source] to exist is to be visible and to cease existing is to disappear -- things appear when they come into being and vanish when they stop -- mapping ontological status onto perceptual accessibility'
+  - '[source] degrees of existence map onto degrees of visibility: something that barely exists is faint or dim, something robustly real is vivid and clear, importing the visual gradient from invisible to conspicuous'
+  - '[source] bringing something into existence is making it visible (bringing to light, revealing, uncovering), and destroying it is making it invisible (hiding, obscuring, erasing), giving creation and destruction the structure of illumination and darkening'
+limits:
+  - '[source] breaks because many existing things are invisible (gravity, social norms, unconscious beliefs), and the metaphor systematically equates what can be seen with what is real, marginalizing anything that cannot be directly perceived'
+  - '[source] misleads by treating invisibility as non-existence rather than as a failure of the observer''s instruments, which can cause people to deny the reality of phenomena they cannot personally see'
 ---
 
 ## Transfers

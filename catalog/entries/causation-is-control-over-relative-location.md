@@ -21,6 +21,13 @@ related:
 slug: causation-is-control-over-relative-location
 source_frame: governance
 updated: '2026-03-17'
+transfers:
+  - '[source] the cause controls where the effect-entity is positioned relative to a landmark, framing causation as spatial arrangement between two reference points'
+  - '[source] the controller can bring entities together or push them apart, importing the spatial primitives of approach and separation as basic causal operations'
+  - '[source] relative location is defined by the distance and direction between two entities, framing the effect as a change in spatial relationship rather than an intrinsic property change'
+limits:
+  - '[source] breaks because relative spatial positioning is reversible (objects can be returned to original positions), while many causal effects are irreversible transformations'
+  - '[source] misleads by reducing causation to geometric configuration, when most consequential causal processes involve transformation of substance, not merely rearrangement of position'
 ---
 
 ## Transfers

@@ -19,6 +19,13 @@ related:
 slug: causes-are-forces
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] forces act on bodies to change their state of motion, framing causes as external pressures that alter the trajectory of entities that would otherwise remain at rest or in uniform motion'
+  - '[source] forces have magnitude and direction, importing the structure where causes have varying strength and push effects in specific directions rather than generically "making things happen"'
+  - '[source] forces can be opposed by equal and opposite forces resulting in equilibrium, framing causal stasis as a balance of competing causes rather than an absence of causation'
+limits:
+  - '[source] breaks because forces act on passive bodies that do not choose their response, while many causal targets (people, organizations, ecosystems) actively interpret and respond to causes in context-dependent ways'
+  - '[source] misleads by implying causes operate through direct contact or field effects, when many causal mechanisms operate through information, meaning, or social convention rather than physical force'
 ---
 
 ## Transfers

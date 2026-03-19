@@ -16,6 +16,13 @@ related:
 slug: c-casting
 source_frame: manufacturing
 updated: '2026-03-14'
+transfers:
+  - '[source] casting in metalwork pours molten material into a mold to reshape it, framing type casting as forcibly reshaping data from one form into another through a template that determines the result'
+  - '[source] the mold determines the output shape regardless of the input material''s original form, importing the structure where the target type dictates interpretation regardless of the source value''s nature'
+  - '[source] casting can produce a flawed object if the material is incompatible with the mold, framing undefined behavior from invalid type casts as a structural analog to defective castings from wrong alloys'
+limits:
+  - '[source] breaks because physical casting transforms material irreversibly (you cannot un-cast a bronze statue), while type casting in C reinterprets the same underlying bits without altering them'
+  - '[source] misleads by implying the cast produces a new object, when C casting changes the compiler''s interpretation of existing memory rather than creating a transformed copy'
 ---
 
 ## Transfers

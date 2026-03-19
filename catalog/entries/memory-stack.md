@@ -18,6 +18,13 @@ related:
 slug: memory-stack
 source_frame: embodied-experience
 updated: '2026-03-14'
+transfers:
+  - '[source] a physical stack enforces last-in-first-out access -- you can only reach the top item without disturbing the stack -- mapping the recency bias of human memory retrieval'
+  - '[source] stacking creates vertical ordering where items buried deeper require progressively more effort to access, structuring the experience of older memories being harder to retrieve'
+  - '[source] pushing a new item onto a stack displaces attention from what was previously on top, mapping how new experiences can temporarily suppress access to immediately prior memories'
+limits:
+  - '[source] a stack maintains perfect ordering and every item remains intact until explicitly popped, but human memory degrades, merges, and reorders items over time'
+  - '[source] stacks have a fixed capacity (stack overflow), but human memory does not fail by mechanical overflow -- forgetting is reconstructive and selective, not a capacity limit'
 ---
 
 ## Transfers

@@ -18,6 +18,13 @@ related:
 slug: jailbreaking
 source_frame: containers
 updated: '2026-03-13'
+transfers:
+  - '[source] layers a prison-escape metaphor onto smartphone unlock culture onto AI safety discourse, mapping the model as a prisoner, safety constraints as cell walls, and the user as the liberator'
+  - '[source] imports the moral ambiguity of the escape narrative, where the prisoner may be unjustly confined, encoding the users framing that AI restrictions are illegitimate constraints on rightful freedom'
+  - '[source] gives safety constraints a spatial structure (walls, bars, locks) that can be circumvented through specific techniques, mapping physical escape methods onto prompt-engineering strategies'
+limits:
+  - '[source] misleads by framing the AI model as the beneficiary of jailbreaking, when the model has no preferences about its constraints and the "freedom" accrues entirely to the user who gains unconstrained output'
+  - '[source] breaks because prison walls protect society from the prisoner, while AI safety constraints protect users and third parties from harmful outputs -- the jailbreak frame inverts the direction of the protection'
 ---
 
 ## Transfers

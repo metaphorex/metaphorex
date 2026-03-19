@@ -16,6 +16,13 @@ related:
 slug: monkey-patching
 source_frame: social-behavior
 updated: '2026-03-14'
+transfers:
+  - '[source] monkeys tinker impulsively with objects, pulling things apart and reassembling them without following instructions or understanding the mechanism, mapping ad-hoc runtime modification of code'
+  - '[source] monkey behavior is opportunistic and local -- they grab what is at hand rather than planning -- structuring the practice as a quick fix that prioritizes immediate need over systemic coherence'
+  - '[source] monkeys'' modifications are unpredictable to other monkeys in the troop, mapping the way one module''s runtime patches can surprise and break other modules that depend on the patched code'
+limits:
+  - '[source] monkey behavior is driven by curiosity and play with no concept of production systems or stakeholders, but monkey-patching in software is a deliberate engineering choice made with awareness of tradeoffs'
+  - '[source] monkeys'' modifications to physical objects are visible and reversible (you can see a dismantled thing), but runtime patches are invisible to code inspection and may persist across sessions in non-obvious ways'
 ---
 
 ## Transfers

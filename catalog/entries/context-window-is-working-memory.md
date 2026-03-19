@@ -18,6 +18,13 @@ related:
 slug: context-window-is-working-memory
 source_frame: mental-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] working memory holds a finite number of items simultaneously, and exceeding the limit means something must be dropped'
+  - '[source] recent items are recalled more easily than older ones (the recency effect), mapping onto attention-weight decay over token distance'
+  - '[source] chunking groups individual items into meaningful units to extend effective capacity, mapping onto summarization and compression strategies'
+limits:
+  - '[source] breaks because working memory actively manipulates and integrates information, while a context window is passive input where all tokens sit with equal ontological status until processed'
+  - '[source] misleads because human forgetting is selective (emotionally significant items persist) while context truncation is mechanical FIFO that drops tokens regardless of importance'
 ---
 
 ## Transfers

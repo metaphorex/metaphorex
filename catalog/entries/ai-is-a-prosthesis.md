@@ -16,6 +16,13 @@ related:
 slug: ai-is-a-prosthesis
 source_frame: medicine
 updated: '2026-03-13'
+transfers:
+  - '[source] a prosthesis replaces a specific lost function rather than augmenting an intact one, framing AI as compensating for human cognitive limitations like memory, calculation speed, or language translation'
+  - '[source] a well-fitted prosthesis becomes transparent to its user -- the amputee reaches for a cup, not for the prosthetic hand -- importing the ideal of seamless integration where the tool disappears into the task'
+  - '[source] prostheses require calibration to the individual body, framing AI personalization as a fitting process rather than one-size-fits-all deployment'
+limits:
+  - '[source] breaks because prostheses restore function to a baseline that previously existed, while AI often provides capabilities the user never had, making it augmentation rather than restoration'
+  - '[source] misleads by implying dependence arises only after loss, when AI prosthesis can create new dependencies in users who had no prior deficit'
 ---
 
 ## Transfers

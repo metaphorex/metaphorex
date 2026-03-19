@@ -18,6 +18,13 @@ related:
 slug: bad-is-stinky
 source_frame: embodied-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] stench triggers involuntary disgust and physical recoil before conscious evaluation, framing moral judgment as a visceral pre-cognitive response rather than a deliberated conclusion'
+  - '[source] smell operates at a distance and permeates a space, importing the structure where moral contamination spreads beyond the immediate source and affects bystanders'
+  - '[source] the nose adapts to persistent odors and stops detecting them, framing moral desensitization as a structural parallel to olfactory habituation'
+limits:
+  - '[source] breaks because smell is an objective chemical signal detectable by any functioning nose, while moral badness is culturally constructed and contested across communities'
+  - '[source] misleads by implying that moral detection is automatic and universal, when moral judgments require learned frameworks that vary across cultures and individuals'
 ---
 
 ## Transfers

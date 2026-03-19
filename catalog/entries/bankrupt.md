@@ -14,6 +14,13 @@ related: []
 slug: bankrupt
 source_frame: architecture-and-building
 updated: '2026-03-13'
+transfers:
+  - '[source] a broken bench (banca rotta) publicly signals that the money-changer can no longer transact, framing failure as a visible and irreversible loss of operational capacity'
+  - '[source] bankruptcy in commerce triggers a legal process that freezes obligations and redistributes assets, importing a structured unwinding procedure rather than chaotic collapse'
+  - '[source] the broken bench excludes the merchant from the marketplace, framing failure as loss of standing in a community of practice rather than mere financial loss'
+limits:
+  - '[source] breaks because financial bankruptcy has formal legal protections (Chapter 11 allows restructuring), while metaphorical bankruptcy (moral, intellectual, creative) implies total exhaustion with no recovery mechanism'
+  - '[source] misleads by implying a single catastrophic break, when most financial failures involve gradual insolvency that the bench-breaking metaphor collapses into a dramatic moment'
 ---
 
 ## Transfers

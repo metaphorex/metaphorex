@@ -19,6 +19,13 @@ related:
 slug: ideas-are-children
 source_frame: life-course
 updated: '2026-03-12'
+transfers:
+  - '[source] maps the developmental trajectory of childhood onto intellectual products, making ideas fragile at birth and requiring sustained nurture before they can stand on their own'
+  - '[source] imports the parental-attachment structure so that the thinker has a possessive, protective relationship with their idea that resists external criticism the way a parent shields a child'
+  - '[source] gives ideas a maturation timeline where premature exposure to harsh conditions (public scrutiny, market pressure) can kill them, encoding the intuition that new ideas need incubation'
+limits:
+  - '[source] misleads by making the thinker''s attachment seem natural and healthy, when over-identification with one''s ideas (treating criticism as an attack on one''s child) is a well-known cognitive bias'
+  - '[source] breaks because children grow into autonomous agents who surpass their parents, but ideas do not develop agency -- they require indefinite human stewardship to remain viable'
 ---
 
 ## Transfers
