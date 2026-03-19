@@ -1,0 +1,190 @@
+{
+  "project": "eval-novel-metaphors-2026-03-16",
+  "project_issue": 1547,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://github.com/metaphorex/metaphorex/issues/1547"
+  ],
+  "candidates": [
+    {
+      "slug": "services-are-autonomous-workers",
+      "name": "SERVICES ARE AUTONOMOUS WORKERS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "social-roles",
+      "target_frame": "software-engineering",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps service boundaries and contracts to employment relationships, negotiations, and workplace autonomy. From microservices-design eval scenario."
+    },
+    {
+      "slug": "messages-are-physical-mail",
+      "name": "MESSAGES ARE PHYSICAL MAIL",
+      "kind": "conceptual-metaphor",
+      "source_frame": "logistics",
+      "target_frame": "network-communication",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Maps message passing to physical mail delivery with weight, packaging, transit time, and delivery guarantees. From microservices-design eval scenario."
+    },
+    {
+      "slug": "databases-are-warehouses",
+      "name": "DATABASES ARE WAREHOUSES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "logistics",
+      "target_frame": "data-processing",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps data storage to physical inventory management with spatial boundaries, access patterns, and capacity limits. From microservices-design eval scenario."
+    },
+    {
+      "slug": "microservices-are-biological-cells",
+      "name": "MICROSERVICES ARE BIOLOGICAL CELLS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "biology",
+      "target_frame": "software-engineering",
+      "categories": ["software-engineering", "biology-and-ecology"],
+      "source": "archive",
+      "description": "Maps service lifecycles and boundaries to cellular biology with membranes, metabolism, and specialized functions. From microservices-design eval scenario."
+    },
+    {
+      "slug": "failure-isolation-is-quarantine",
+      "name": "FAILURE ISOLATION IS QUARANTINE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "contagion",
+      "target_frame": "software-engineering",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Maps failure containment patterns to disease quarantine with contagion, infection, and isolation protocols. From microservices-design eval scenario."
+    },
+    {
+      "slug": "microservices-are-city-districts",
+      "name": "MICROSERVICES ARE CITY DISTRICTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "governance",
+      "target_frame": "software-engineering",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Maps service organization to city neighborhoods with local governance, infrastructure, and inter-district communication. From microservices-design eval scenario."
+    },
+    {
+      "slug": "influence-is-physical-force",
+      "name": "INFLUENCE IS PHYSICAL FORCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physics",
+      "target_frame": "social-dynamics",
+      "categories": ["organizational-behavior", "cognitive-science"],
+      "source": "archive",
+      "description": "Maps organizational influence to measurable force with vectors and resistance. From fast-growing-team and permissions-system eval scenarios."
+    },
+    {
+      "slug": "technical-decisions-are-territory",
+      "name": "TECHNICAL DECISIONS ARE TERRITORY",
+      "kind": "conceptual-metaphor",
+      "source_frame": "cartography",
+      "target_frame": "decision-making",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Maps decision-making authority to territorial control with boundaries, jurisdiction, and sovereignty. From fast-growing-team eval scenario."
+    },
+    {
+      "slug": "scaling-is-dilution",
+      "name": "SCALING IS DILUTION",
+      "kind": "conceptual-metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "systems-thinking"],
+      "source": "archive",
+      "description": "Maps organizational growth to weakening concentration where original essence becomes progressively diluted. From fast-growing-team eval scenario."
+    },
+    {
+      "slug": "technical-decisions-are-judicial-rulings",
+      "name": "TECHNICAL DECISIONS ARE JUDICIAL RULINGS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "governance",
+      "target_frame": "decision-making",
+      "categories": ["software-engineering", "law-and-governance"],
+      "source": "archive",
+      "description": "Maps engineering choices to legal precedents requiring authority and formal process to overturn. Should reference BDFL concept (Guido van Rossum, Linus Torvalds). From fast-growing-team eval scenario."
+    },
+    {
+      "slug": "organizational-memory-is-archaeological-layers",
+      "name": "ORGANIZATIONAL MEMORY IS ARCHAEOLOGICAL LAYERS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "exploration",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "cognitive-science"],
+      "source": "archive",
+      "description": "Maps knowledge history to stratified layers where older information is buried deeper and harder to access. From fast-growing-team eval scenario."
+    },
+    {
+      "slug": "roles-are-theatrical-costumes",
+      "name": "ROLES ARE THEATRICAL COSTUMES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "performance",
+      "target_frame": "access-control",
+      "categories": ["security", "software-engineering"],
+      "source": "archive",
+      "description": "Maps role assignment to costume changes, suggesting temporary external identities that can be put on or taken off. From permissions-system eval scenario."
+    },
+    {
+      "slug": "audit-trails-are-forensic-footprints",
+      "name": "AUDIT TRAILS ARE FORENSIC FOOTPRINTS",
+      "kind": "conceptual-metaphor",
+      "source_frame": "surveillance",
+      "target_frame": "security-analysis",
+      "categories": ["security", "software-engineering"],
+      "source": "archive",
+      "description": "Maps system logs to physical traces that investigators use to reconstruct past events and identify actors. From permissions-system eval scenario."
+    },
+    {
+      "slug": "system-administration-is-feudal-lordship",
+      "name": "SYSTEM ADMINISTRATION IS FEUDAL LORDSHIP",
+      "kind": "conceptual-metaphor",
+      "source_frame": "governance",
+      "target_frame": "access-control",
+      "categories": ["security", "software-engineering"],
+      "source": "archive",
+      "description": "Maps admin privileges to sovereign rule with arbitrary power to grant or revoke access at will. From permissions-system eval scenario."
+    },
+    {
+      "slug": "permission-delegation-is-genetic-inheritance",
+      "name": "PERMISSION DELEGATION IS GENETIC INHERITANCE",
+      "kind": "conceptual-metaphor",
+      "source_frame": "reproduction",
+      "target_frame": "access-control",
+      "categories": ["security", "software-engineering"],
+      "source": "archive",
+      "description": "Maps permission passing to DNA transmission through hierarchical lineages with inherited traits. From permissions-system eval scenario."
+    },
+    {
+      "slug": "security-violations-are-trespassing",
+      "name": "SECURITY VIOLATIONS ARE TRESPASSING",
+      "kind": "conceptual-metaphor",
+      "source_frame": "physical-security",
+      "target_frame": "network-security",
+      "categories": ["security"],
+      "source": "archive",
+      "description": "Maps unauthorized access to illegal entry into physical spaces with boundaries and penalties. From permissions-system eval scenario."
+    },
+    {
+      "slug": "model-outputs-are-prophecies",
+      "name": "MODEL OUTPUTS ARE PROPHECIES",
+      "kind": "conceptual-metaphor",
+      "source_frame": "religion",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse", "cognitive-science"],
+      "source": "archive",
+      "description": "Maps predictive outputs to divine revelations about predetermined futures requiring interpretation. From ml-model-opacity eval scenario."
+    },
+    {
+      "slug": "production-data-is-food",
+      "name": "PRODUCTION DATA IS FOOD",
+      "kind": "conceptual-metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "data-processing",
+      "categories": ["ai-discourse", "software-engineering"],
+      "source": "archive",
+      "description": "Maps data ingestion to biological consumption where data feeds and nourishes the model's growth. From ml-model-opacity eval scenario."
+    }
+  ]
+}
