@@ -21,13 +21,15 @@ Quotations for the Surgeon* (tfm Publishing, 2003; ~1,500 items across
 - The Mayo Brothers (William J. and Charles H. Mayo) aphorism tradition
 - Traditional surgical folklore (unattributed sayings passed down in
   residency training)
+- Merrell & McGreevy, "Surgical Aphorisms" (West J Med, 1991)
+- Campbell, "Surgical aphorisms" (BJS, 2013)
 
 The combined source pool is ~2,100+ items. However, the vast majority
 are domain-specific clinical advice. The issue's selectivity guidance is
 clear: import only aphorisms that encode reasoning patterns that transfer
 beyond medicine.
 
-**Estimated yield: 20-25 entries.**
+**Estimated yield: 22 entries.**
 
 ### What Makes This Source Distinctive
 
@@ -45,54 +47,75 @@ Medical aphorisms are unusual in the metaphor landscape because:
 
 ## Access Method
 
-### Primary Archive: Internet Archive -- Osler Aphorisms (full text)
+### Primary Archive: House of God Laws (Wanderings.net)
 
-**URL:** https://archive.org/stream/in.ernet.dli.2015.63933/2015.63933.Osler-Aphorisms-From-His-Bedside-Teachings-And-Writings_djvu.txt
+**URL:** https://www.wanderings.net/notebook/Main/HouseOfGodLaws
 
-Full OCR text of Bean's 1950 edition of Osler's aphorisms, organized
-into sections: The Medical Student, The Ethos, The Patient, The Great
-Republic of Medicine, Epitomes. Free access, no authentication required.
+All 13 Laws from Shem's novel. Scraping script verifies against this
+page. 4 of 13 laws qualify for cross-domain extraction.
+
+**Script:** `scripts/scrape_house_of_god.py` -- fetches page, verifies
+law texts present, outputs qualifying laws as JSON.
 
 ### Secondary Archive: LITFL Oslerisms
 
 **URL:** https://litfl.com/eponymictionary/oslerisms/
 
 Curated selection of Osler quotations maintained by the Life in the Fast
-Lane medical education site. 27+ aphorisms with context.
+Lane medical education site. Key quote verified: "We miss more by not
+seeing than we do by not knowing."
 
 ### Tertiary Archive: Mayo Clinic Library Aphorisms Guide
 
 **URL:** https://libraryguides.mayo.edu/historicalunit/aphorisms
 
 Extensive collection of William J. Mayo and Charles H. Mayo quotations
-(190+ items), organized by speaker.
+(190+ items). 1 qualifying candidate extracted.
 
-### House of God Laws
+**Script:** `scripts/scrape_mayo_aphorisms.py` -- fetches page, verifies
+Mayo content present, outputs qualifying aphorisms as JSON.
 
-**URL:** https://litfl.com/house-of-god/
+### PMC Archives (Academic Sources)
 
-The 13 Laws from Shem's novel, widely known in medical culture.
+**URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC2760177/
+
+"Facts and ideas from anywhere" -- extensive collection of surgical
+quotations with attributions. Source for multiple candidates including
+James Gregory's "Young men kill their patients; old men let them die"
+and Theodor Kocher's "A good surgeon knows when not to operate."
+
+**URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC1422679/
+
+Book review of Schein's collection confirming 1,500+ items across 94
+chapters. Quotes specific aphorisms including Judah Folkman's "We may
+be wrong, but we are never in doubt."
+
+### Wikipedia (Zebra Medicine)
+
+**URL:** https://en.wikipedia.org/wiki/Zebra_(medicine)
+
+Documents Theodore Woodward's "hoofbeats" aphorism with attribution
+and historical context.
 
 ### No Structured Digital Archive Exists for Schein
 
 Schein's book is copyrighted and not digitized in any open archive. The
-PMC book review (https://pmc.ncbi.nlm.nih.gov/articles/PMC1422679/)
-confirms 1,500+ items across 94 alphabetically-ordered chapters but
-quotes only a handful. No table of contents or chapter listing is
-publicly available online.
+PMC book review confirms 1,500+ items across 94 alphabetically-ordered
+chapters but quotes only a handful. No table of contents or chapter
+listing is publicly available online.
 
 **Consequence:** Candidates sourced from Schein are tagged `"llm"` in the
 manifest because they cannot be verified against a scraping script. The
-Osler, Mayo, and House of God candidates are tagged `"archive"` where
-the exact text was found in the archive sources above.
+archive-sourced candidates are tagged `"archive"` where the exact text
+or attribution was found in the archive sources above.
 
 ### Surgical Folklore (Unattributed)
 
 Many of the most potent surgical aphorisms circulate without clear
 attribution. The BJS article by Campbell (2013) and the West J Med
 article by Merrell & McGreevy (1991) document these as oral tradition.
-Candidates from this tradition are tagged `"llm"` but are well-attested
-in multiple independent sources.
+Candidates from this tradition are tagged `"archive"` when attested in
+at least one published academic source, `"llm"` otherwise.
 
 ## Extraction Strategy
 
@@ -115,6 +138,18 @@ An aphorism qualifies for the manifest ONLY if it meets ALL of:
    in at least one non-medical domain. Historical curiosities that
    never left medicine are excluded.
 
+### Source Attribution in Manifest
+
+Each candidate has a `source` field:
+
+- `"archive"` -- the aphorism text or attribution was verified in at least
+  one of the archive URLs listed above. The `archive_ref` field specifies
+  where.
+- `"llm"` -- the aphorism is well-known but could not be verified against
+  a scraping-accessible archive. These need extra scrutiny from the Surveyor.
+
+**Breakdown:** 14 archive-sourced, 8 LLM-sourced.
+
 ### For Miners
 
 Each candidate in the manifest has:
@@ -124,7 +159,6 @@ Each candidate in the manifest has:
 - `source_frame`: the medical/surgical domain
 - `target_frame`: the domain where the metaphor has migrated
 - `categories`: primary categorization
-- `aphorism_text`: the canonical form of the saying (where applicable)
 - `source`: `"archive"` or `"llm"`
 - `description`: what makes this interesting as a cross-domain mapping
 
@@ -152,15 +186,17 @@ Process in thematic clusters:
 - **Batch 1 -- Decision heuristics (6):** triage, differential-diagnosis,
   hoofbeats-think-horses, first-do-no-harm, second-opinion,
   treat-the-patient-not-the-test
-- **Batch 2 -- Temporal wisdom (4):** all-bleeding-stops, the-tincture-
-  of-time, never-let-the-sun-set-on-undrained-pus, a-chance-to-cut-is-a-
-  chance-to-cure
-- **Batch 3 -- Composure and judgment (5):** take-your-own-pulse,
-  the-enemy-of-good-is-better, the-retrospectoscope,
-  experience-is-the-great-teacher, we-may-be-wrong-but-never-in-doubt
-- **Batch 4 -- Systemic/organizational (5):** side-effects,
-  vital-signs, prognosis-as-forecast, surgical-precision,
-  see-one-do-one-teach-one
+- **Batch 2 -- Temporal wisdom (4):** all-bleeding-stops, tincture-of-time,
+  never-let-the-sun-set-on-undrained-pus, a-chance-to-cut-is-a-chance-to-cure
+- **Batch 3 -- Composure and judgment (6):** take-your-own-pulse,
+  the-retrospectoscope, the-patient-is-the-one-with-the-disease,
+  do-as-much-nothing-as-possible, young-doctors-kill-old-doctors-let-die,
+  knowing-when-not-to-operate
+- **Batch 4 -- Dead metaphors (4):** side-effects, vital-signs,
+  prognosis-as-forecast, surgical-precision
+- **Batch 5 -- Learning and expertise (2):** see-one-do-one-teach-one,
+  if-you-dont-look-you-wont-find
+- **Standalone:** the-cure-is-worse-than-the-disease
 
 ## Schema Mapping
 
@@ -170,25 +206,23 @@ Process in thematic clusters:
 |---------|------|----------|
 | Active aphorism with clear source-target structure | `conceptual-metaphor` | Clear structural mapping between medicine and another domain |
 | Medical term so embedded it is no longer felt as metaphorical | `dead-metaphor` | "Triage," "diagnosis," "side effects" in business |
-| Systematic framework | `paradigm` | Triage as a complete decision system |
+| Systematic framework | `paradigm` | None in this batch |
 
-Most entries will be `conceptual-metaphor`. A few high-frequency dead
-metaphors (triage, diagnosis, vital signs) are `dead-metaphor`.
+Most entries are `conceptual-metaphor` (16). Six are `dead-metaphor`
+(triage, differential-diagnosis, second-opinion, side-effects,
+vital-signs, prognosis-as-forecast, surgical-precision).
 
 ### Frame Inventory
 
 **Existing reusable frames:**
-- `medicine` -- source frame for most entries
-- `decision-making` -- target for diagnostic/triage metaphors
-- `social-behavior` -- target for organizational metaphors
-- `time-and-temporality` -- target for temporal aphorisms
-- `ethics-and-morality` -- target for "first do no harm"
-- `education` -- target for "see one, do one, teach one"
+- `medicine` -- source frame for all entries
+- `decision-making` -- target for most entries
+- `ethics-and-morality` -- target for first-do-no-harm
+- `education` -- target for see-one-do-one-teach-one
 
 **New frames potentially needed:**
 - `surgery` -- more specific than `medicine` for operative aphorisms
-- `organizational-management` -- target for management metaphors
-- `epistemology` -- target for reasoning-under-uncertainty metaphors
+  (a-chance-to-cut, surgical-precision, knowing-when-not-to-operate)
 
 ### Categories
 
@@ -198,7 +232,8 @@ Additional categories by cluster:
 - Decision heuristics: `cognitive-science`
 - Temporal wisdom: `philosophy`
 - Composure/judgment: `psychology`
-- Systemic: `organizational-behavior`
+- Dead metaphors: `systems-thinking` or `organizational-behavior`
+- Learning: `education-and-learning`
 
 ## Gotchas
 
@@ -217,10 +252,9 @@ Additional categories by cluster:
 
 3. **Dead metaphors require extra work.** For entries like "triage" and
    "diagnosis," the metaphorical transfer happened so long ago that
-   people do not experience these as metaphors. The "What It Brings"
-   section needs to defamiliarize the concept: explain why the medical
-   origin matters and what structural baggage it carries into the
-   target domain.
+   people do not experience these as metaphors. The Transfers section
+   needs to defamiliarize the concept: explain why the medical origin
+   matters and what structural baggage it carries into the target domain.
 
 4. **"First do no harm" is misattributed.** Commonly attributed to
    Hippocrates, it does not appear in the Hippocratic corpus in that
@@ -228,15 +262,21 @@ Additional categories by cluster:
    Miners should address this in the Origin Story.
 
 5. **Overlapping entries.** Some candidates overlap conceptually (e.g.,
-   "triage" and "differential diagnosis" both involve prioritization).
-   Use `related:` links to connect them rather than merging.
+   "triage" and "differential diagnosis" both involve prioritization;
+   "tincture of time" and "do as much nothing as possible" both encode
+   restraint). Use `related:` links to connect them rather than merging.
 
 6. **The House of God is satire.** Shem's Laws are satirical and often
-   dark. The ones included here (Law III: "take your own pulse"; Law
-   XIII: "do as much nothing as possible") have transcended their
-   satirical origin to become genuine wisdom. Miners should acknowledge
-   the satirical source while treating the cross-domain insight
-   seriously.
+   dark. The ones included here (Law III, IV, X, XIII) have transcended
+   their satirical origin to become genuine wisdom. Miners should
+   acknowledge the satirical source while treating the cross-domain
+   insight seriously.
 
 7. **Candidate count is under 100.** No sub-issue cap concerns for
-   this project.
+   this project (22 candidates).
+
+8. **LLM-sourced entries need Surveyor scrutiny.** 8 of 22 candidates
+   are tagged `"llm"` because they could not be verified against a
+   publicly accessible structured archive. These are all well-known
+   medical terms or aphorisms, but the Surveyor should verify their
+   cross-domain transfer claims.
