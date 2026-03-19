@@ -17,6 +17,13 @@ related:
 slug: spaghetti-code
 source_frame: food-and-cooking
 updated: '2026-03-14'
+transfers:
+  - '[source] individual strands are indistinguishable and intertwined so that pulling one drags the rest -- you cannot extract a single thread of execution without encountering every other thread'
+  - '[source] the mass resists decomposition -- separating one strand from the tangle requires untangling the entire plate, mapping resistance to refactoring onto resistance to physical separation'
+  - '[source] the metaphor carries visceral disgust that does real social work -- ''spaghetti code'' signals aesthetic offense and motivates refactoring through emotional loading, not just technical critique'
+limits:
+  - '[source] breaks because spaghetti is homogeneous (every strand is the same), while real tangled code has heterogeneous components -- database queries interleaved with UI logic, business rules embedded in infrastructure -- and the metaphor suggests uniform messiness where the mess is specifically structured'
+  - '[source] misleads because the metaphor blames the code rather than the conditions -- spaghetti code is often produced by reasonable people under deadline pressure, but calling it spaghetti implies carelessness when it may be the rational output of an irrational process'
 ---
 
 ## Transfers

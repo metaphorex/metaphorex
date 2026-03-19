@@ -18,14 +18,6 @@ updated: '2026-03-14'
 
 ## Transfers
 
-## What It Brings
-
-## Limits
-
-The metaphorical origin is fully lexicalized — the source domain no longer actively constrains or misleads contemporary usage. This is a dead metaphor whose structure is recoverable but dormant.
-
-## Expressions
-
 A sailing vessel with no wind is "dead in the water" -- motionless, without
 steerage way, unable to maneuver. The ship is not damaged, not sinking,
 not under attack. It is structurally intact but powerless. Without wind
@@ -58,7 +50,8 @@ any project, negotiation, or initiative that has lost all forward momentum.
   goes dead in the water because funding dried up, because the market
   shifted, because political support evaporated -- forces beyond the
   team's control.
-## Where It Breaks
+
+## Limits
 
 - **Most stalled projects have internal causes** -- the metaphor frames
   the loss of momentum as an external event (the wind died). But most
@@ -91,6 +84,7 @@ any project, negotiation, or initiative that has lost all forward momentum.
   prematurely or to deny slowdown by insisting it is "still moving."
   The nautical source has no concept of a ship moving very slowly;
   "dead in the water" is an on-off state.
+
 ## Expressions
 
 - "Dead in the water" -- the standard diagnostic form, declaring that
@@ -102,6 +96,7 @@ any project, negotiation, or initiative that has lost all forward momentum.
   hire) without which progress is impossible
 - "Left dead in the water" -- the abandonment form, implying that
   external actors withdrew support and left the initiative stranded
+
 ## Origin Story
 
 The nautical phrase describes the condition of a becalmed vessel and

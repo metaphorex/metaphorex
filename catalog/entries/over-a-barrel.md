@@ -87,6 +87,7 @@ Key structural parallels:
   a barrel" might mean "they are punishing us" or "they are the only
   ones who can save us" -- quite different framings of the same
   powerlessness.
+
 ## Expressions
 
 - "They've got us over a barrel" -- being in a position of no leverage
@@ -97,6 +98,7 @@ Key structural parallels:
   immobility and exposure
 - "Don't put yourself over a barrel" -- warning against entering a
   position of total vulnerability
+
 ## Origin Story
 
 The exact origin is disputed. The punishment theory points to naval
@@ -113,4 +115,3 @@ and by the mid-twentieth century the nautical context was largely
 forgotten. Most contemporary users understand "over a barrel" as pure
 idiom, with no image of a barrel, a ship, or a sailor's exposed back.
 The source domain has gone fully dark.
-

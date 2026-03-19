@@ -8,7 +8,7 @@ on:
 permissions:
   contents: write
   issues: read
-  pull-requests: read
+  pull-requests: write
 
 jobs:
   ops:
@@ -23,11 +23,22 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: uv run scripts/digest.py ops
 
-      - name: Commit and push
+      - name: Open PR and auto-merge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          BRANCH="ops/${TODAY}"
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/ops/
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "chore: daily ops report $(date -u +%Y-%m-%d)"
-          git push
+
+          git checkout -b "$BRANCH"
+          git commit -m "chore: daily ops report ${TODAY}"
+          git push -u origin "$BRANCH"
+          gh pr create --title "chore: ops report ${TODAY}" \
+            --body "Automated daily ops report." \
+            --head "$BRANCH" --base main
+          gh pr merge "$BRANCH" --auto --squash

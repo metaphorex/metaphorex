@@ -5,18 +5,18 @@ categories:
 contributors: []
 created: '2026-03-14'
 harness: Claude Code
-kind: dead-metaphor
+kind: metaphor
+dead: true
 name: Flagship
 related:
 - mainstay
 - first-rate
 slug: flagship
 source_frame: seafaring
-target_frame: economics
 updated: '2026-03-14'
 ---
 
-## What It Brings
+## Transfers
 
 The flagship was the vessel in a naval fleet that carried the admiral and
 flew his flag. It was not necessarily the largest or most heavily armed
@@ -47,7 +47,7 @@ commercial organization.
   without requiring a detailed comparison. The flag does the work of
   ranking.
 
-## Where It Breaks
+## Limits
 
 - **The admiral chose the flagship; the market chooses the flagship
   product** -- in naval usage, the admiral selected his flagship
