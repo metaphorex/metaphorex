@@ -1,0 +1,163 @@
+{
+  "project": "hauser-reich-directing",
+  "project_issue": 1232,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://archive.org/details/notesondirecting0000haus",
+    "https://www.goodreads.com/book/show/254808.Notes_on_Directing",
+    "https://jamesclear.com/book-summaries/impro",
+    "https://www.studiobinder.com/blog/walter-murch-rule-of-six/"
+  ],
+  "candidates": [
+    {
+      "slug": "every-scene-is-a-chase-scene",
+      "name": "Every Scene Is a Chase Scene",
+      "kind": "conceptual-metaphor",
+      "source_frame": "theatrical-directing",
+      "target_frame": "communication",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "Hauser's principle that every scene is a chase -- Character A wants something from Character B who does not want to give it. Reframes all human interaction as want-driven negotiation. Transfers to meetings, sales conversations, and management: every interaction has a pursuer and an evader, and identifying who wants what clarifies dynamics that politeness obscures."
+    },
+    {
+      "slug": "give-actions-not-emotions",
+      "name": "Give Actions, Not Emotions",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "feedback-and-coaching",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "Hauser's rule: never express direction in terms of feelings. Do not tell the actor what to feel; give them an action to play ('crowd him,' 'make her laugh,' 'get out of the room'). The actor's emotions will follow from the action. Transfers to management feedback: prescribing behavior ('send the status update by Tuesday') is actionable; prescribing emotion ('be more enthusiastic') is not."
+    },
+    {
+      "slug": "talk-to-the-character-not-the-actor",
+      "name": "Talk to the Character, Not the Actor",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "feedback-and-coaching",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "Directing technique of addressing feedback to the role rather than the person. 'Your character would not sit down here' preserves the actor's ego while redirecting their work. Transfers to management: addressing the role ('the tech lead should have flagged this') rather than the person ('you should have flagged this') separates identity from function and reduces defensiveness."
+    },
+    {
+      "slug": "you-cannot-create-results-only-conditions",
+      "name": "You Cannot Create Results, Only Conditions",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "authority-and-delegation",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "The director's fundamental constraint: you cannot go on stage and perform. You can only create conditions (blocking, tempo, context, trust) in which actors discover the right behavior themselves. Transfers to management of creative knowledge workers, teaching, parenting, and system design -- anywhere the leader cannot do the work directly and must instead design environments that produce emergent outcomes."
+    },
+    {
+      "slug": "every-object-tells",
+      "name": "Every Object Tells",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "communication",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "Hauser's staging principle: in a properly created stage world, nothing is extra and nothing is missing. Every prop, set piece, and costume communicates. Transfers to presentation design, workspace design, and organizational communication: every artifact in a system is a signal, and unintentional signals (the empty whiteboard, the unused Slack channel) communicate as loudly as intentional ones."
+    },
+    {
+      "slug": "just-tell-the-story",
+      "name": "Just Tell the Story",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "creative-process",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "Hauser's directive: just tell the story as believably and excitingly as possible. Whatever does not tell the story should be subject to a very fishy examination. A ruthless editing principle that transfers to product design, presentations, and writing: if a feature, slide, or paragraph does not serve the core narrative, it is clutter regardless of how clever it is."
+    },
+    {
+      "slug": "casting-is-ninety-percent",
+      "name": "Casting Is Ninety Percent",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "authority-and-delegation",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "The directing maxim that casting the right actor is 90% of the director's job. Once you cast wrong, no amount of directing fixes it. Transfers to hiring and team composition: the selection decision dominates all subsequent management decisions. A well-cast team needs minimal direction; a miscast team cannot be directed into good performance."
+    },
+    {
+      "slug": "rehearsal-is-not-performance",
+      "name": "Rehearsal Is Not Performance",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "creative-process",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "The structural distinction between rehearsal (safe space for experimentation, failure, and discovery) and performance (committed execution under real stakes). The director's job is to protect rehearsal from performance pressure. Transfers to organizational psychology: teams need clearly demarcated spaces where failure is cheap (prototyping, brainstorming, retrospectives) separate from spaces where execution matters (production, client delivery)."
+    },
+    {
+      "slug": "status-transactions",
+      "name": "Status Transactions",
+      "kind": "conceptual-metaphor",
+      "source_frame": "improvisation",
+      "target_frame": "social-dynamics",
+      "categories": ["arts-and-culture", "psychology", "social-dynamics"],
+      "source": "llm",
+      "description": "Johnstone's insight that every human interaction involves continuous status negotiation through body language, voice, and spatial positioning. Status is not fixed identity but something you do -- a verb, not a noun. Transfers to management, negotiation, and organizational behavior: understanding that every meeting, email, and hallway conversation involves micro-adjustments of relative status explains dynamics that role-based org charts cannot."
+    },
+    {
+      "slug": "offers-and-blocks",
+      "name": "Offers and Blocks",
+      "kind": "conceptual-metaphor",
+      "source_frame": "improvisation",
+      "target_frame": "collaborative-work",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "Johnstone's framework: every utterance in improvisation is either an offer (adding something to the shared reality) or a block (refusing or negating what was offered). Blocking kills scenes; accepting offers builds them. Transfers to brainstorming, product development, and organizational culture: teams that habitually block offers ('that will never work,' 'we tried that') stall creatively, while teams that accept and build generate momentum."
+    },
+    {
+      "slug": "yes-and",
+      "name": "Yes, And",
+      "kind": "cross-field-mapping",
+      "source_frame": "improvisation",
+      "target_frame": "collaborative-work",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "The foundational improv rule: accept what your partner offers (yes) and add something to it (and). The opposite of 'yes, but,' which accepts nominally while negating. Has migrated heavily into business culture, sometimes losing its original rigor. The theatrical version is more demanding than the corporate version -- it requires genuine commitment to building on another's idea, not just polite acknowledgment before redirecting."
+    },
+    {
+      "slug": "the-magic-if",
+      "name": "The Magic If",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "decision-making",
+      "categories": ["arts-and-culture", "psychology"],
+      "source": "llm",
+      "description": "Stanislavski's technique: instead of asking actors to 'be' the character, ask 'what would you do IF you were in these circumstances?' The 'if' transforms impossible identification into actionable imagination. Transfers to empathy exercises, scenario planning, user research, and design thinking: 'what would you do if you were the customer' is more productive than 'think like the customer' because it preserves the reasoner's agency while shifting their frame."
+    },
+    {
+      "slug": "the-rule-of-six",
+      "name": "The Rule of Six",
+      "kind": "mental-model",
+      "source_frame": "film-editing",
+      "target_frame": "decision-making",
+      "categories": ["arts-and-culture", "cognitive-science"],
+      "source": "llm",
+      "description": "Murch's priority stack for editing decisions: (1) emotion, (2) story, (3) rhythm, (4) eye-trace, (5) two-dimensional plane of screen, (6) three-dimensional space. Higher priorities override lower ones -- a cut that serves emotion but violates spatial continuity is correct. Transfers to any multi-criteria decision: the framework argues that priorities must be explicitly ranked, and that violating a lower priority to serve a higher one is not a compromise but a correct decision."
+    },
+    {
+      "slug": "the-ensemble",
+      "name": "The Ensemble",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "collaborative-work",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "The theatrical ensemble: a group of performers who work together with no star system, where the emphasis is on collective excellence rather than individual virtuosity. The director builds the ensemble in rehearsal; it must then function autonomously in performance. Transfers to team design in organizations: the ensemble model argues that team coherence is more valuable than individual talent, and that the leader's job is to build a unit that can perform without the leader present."
+    },
+    {
+      "slug": "the-duty-is-to-the-text",
+      "name": "The Duty Is to the Text",
+      "kind": "cross-field-mapping",
+      "source_frame": "theatrical-directing",
+      "target_frame": "authority-and-delegation",
+      "categories": ["arts-and-culture", "organizational-behavior"],
+      "source": "llm",
+      "description": "Hauser's principle: your first, second, and third duty is to the author. The director serves the play, not their own vision. Transfers to product management, engineering, and consulting: the practitioner's duty is to the problem (the 'text'), not to their preferred solution. A clever implementation that does not serve the user's need is directorial vanity -- technically impressive but fundamentally misaligned."
+    }
+  ]
+}
