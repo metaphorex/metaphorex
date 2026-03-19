@@ -15,7 +15,7 @@ name: Spherical Cow
 provenance: mathematical-folklore
 related:
 - accidental-complexity
-- map-is-not-the-territory
+- the-map-is-not-the-territory
 slug: spherical-cow
 source_frame: mathematical-modeling
 updated: '2026-03-19'
