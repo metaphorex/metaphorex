@@ -19,6 +19,13 @@ related:
 slug: creating-is-birthing
 source_frame: reproduction
 updated: '2026-03-12'
+transfers:
+  - '[source] gestation is a prolonged internal development period invisible to the outside world, licensing patience because the process has its own timeline'
+  - '[source] labor is painful, effortful, and dangerous, mapping the final phase of bringing a creation into the world as a bodily ordeal'
+  - '[source] the offspring carries the parent''s identity but also develops its own, mapping the creator''s attachment to a creation that becomes independent'
+limits:
+  - '[source] breaks because birthing centers on a single mother-child relationship, making collaborative creation by hundreds of people structurally invisible'
+  - '[source] misleads because gestation implies passive organic development, licensing procrastination disguised as biological inevitability ("I''m incubating the idea")'
 ---
 
 ## Transfers

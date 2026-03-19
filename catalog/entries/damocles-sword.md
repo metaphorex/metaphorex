@@ -16,6 +16,13 @@ related:
 slug: damocles-sword
 source_frame: mythology
 updated: '2026-03-14'
+transfers:
+  - '[source] the sword is a permanent structural feature of the position, not an event -- it hangs rather than strikes, mapping threat-as-ongoing-condition rather than threat-as-attack'
+  - '[source] awareness of the horsehair transforms the subjective experience of privilege, making it impossible to enjoy the feast once the risk is seen'
+  - '[source] the horsehair is disproportionately thin relative to the weight it holds, mapping single points of failure that support entire systems'
+limits:
+  - '[source] breaks because Damocles chose the seat voluntarily, but most modern applications describe involuntary exposure to structural threat'
+  - '[source] misleads because the sword never falls in the original story -- the power of the image depends on permanent suspension, but users extend it to describe actual catastrophe'
 ---
 
 ## Transfers

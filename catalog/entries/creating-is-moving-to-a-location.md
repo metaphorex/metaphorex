@@ -20,6 +20,13 @@ related:
 slug: creating-is-moving-to-a-location
 source_frame: journeys
 updated: '2026-03-12'
+transfers:
+  - '[source] the created thing arrives from elsewhere, treating creation as summoning or transportation rather than fabrication'
+  - '[source] non-existence maps to being at a distant or unknown origin, giving every creation a spatial backstory ("where did that idea come from?")'
+  - '[source] failed creation is non-arrival -- the thing never materialized, never got here, never completed its journey from elsewhere'
+limits:
+  - '[source] breaks because there is no actual location where uncreated ideas reside, yet the spatial frame invites Platonic mysticism about a realm of forms'
+  - '[source] misleads because arrival implies completeness (a package arrives whole), but creative work typically arrives in fragments requiring extensive shaping on site'
 ---
 
 ## Transfers

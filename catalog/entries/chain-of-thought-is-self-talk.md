@@ -18,6 +18,15 @@ related:
 slug: chain-of-thought-is-self-talk
 source_frame: mental-experience
 updated: '2026-03-13'
+transfers:
+  - '[source] externalizing inner speech into audible steps improves task performance in the speaker'
+  - '[source] the speech itself structures the thinking rather than merely narrating pre-existing thoughts'
+  - '[source] developmental internalization proceeds from overt speech to whispered speech to silent inner speech'
+  - '[source] a scratchpad or written-out steps offloads working memory, freeing capacity for the next operation'
+limits:
+  - '[source] breaks because inner speech is phenomenologically rich with intention and metacognition, while token generation has no experiential interior'
+  - '[source] misleads because human self-talk serves emotional regulation alongside cognition, a dimension entirely absent from chain-of-thought prompting'
+  - '[source] obscures that the intermediate "reasoning" tokens may be post-hoc confabulation unrelated to the model''s actual computational path'
 ---
 
 ## Transfers
