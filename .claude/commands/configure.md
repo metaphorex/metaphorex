@@ -28,29 +28,47 @@ Ask the user:
 If no: say "No crew config needed. Agents will use your default gh auth
 and git identity. You're all set." and stop.
 
-## Step 3: Configure each role
+## Step 3: Configure miner role
 
-For each of the three roles, ask (with defaults pre-filled):
+Ask the user (use AskUserQuestion). Accept empty/enter as "use defaults":
 
-### Miner role (Miner, Smelter agents)
+> **Miner role** (Miner, Smelter agents)
+>
+> Token env var: M4X_MINER_TOKEN
+> Git name: m4x-miner
+> Git email: miner@metaphorex.org
+>
+> Enter custom values as `token_var, git_name, git_email` or press enter to accept defaults.
 
-> Token env var name? **[M4X_MINER_TOKEN]**
-> Git username? **[m4x-miner]**
-> Git email? **[miner@metaphorex.org]**
+Store the values (defaults if empty).
 
-### Reviewer role (Assayer, Surveyor agents)
+## Step 4: Configure reviewer role
 
-> Token env var name? **[M4X_REVIEWER_TOKEN]**
-> Git username? **[m4x-reviewer]**
-> Git email? **[reviewer@metaphorex.org]**
+Ask the user (use AskUserQuestion). Do NOT skip this step.
 
-### Ops role (Prospector, Fixer agents)
+> **Reviewer role** (Assayer, Surveyor agents)
+>
+> Token env var: M4X_REVIEWER_TOKEN
+> Git name: m4x-reviewer
+> Git email: reviewer@metaphorex.org
+>
+> Enter custom values as `token_var, git_name, git_email` or press enter to accept defaults.
 
-> Token env var name? **[M4X_OPS_TOKEN]**
-> Git username? **[m4x-ops]**
-> Git email? **[ops@metaphorex.org]**
+Store the values (defaults if empty).
 
-## Step 4: Write config file
+## Step 5: Configure ops role
+
+Ask the user (use AskUserQuestion). Do NOT skip this step.
+
+> **Ops role** (Prospector, Fixer agents)
+>
+> Token env var: M4X_OPS_TOKEN
+> Git name: m4x-ops
+> Git email: ops@metaphorex.org
+>
+> Enter custom values as `token_var, git_name, git_email` or press enter to accept defaults.
+
+## Step 6: Write config file
 
 Write `.claude/metaphorex-agents.local.md` with the collected values:
 
@@ -82,7 +100,7 @@ Operator-level identity config for Metaphorex agents.
 Run `/configure` to regenerate.
 ```
 
-## Step 5: Verify tokens are available
+## Step 7: Verify tokens are available
 
 For each role, check if the token env var is set:
 
@@ -96,7 +114,7 @@ tokens, remind the operator:
 > Token `M4X_MINER_TOKEN` is not set. Run `gh-pat-rotate m4x-miner`
 > and `source ~/.secrets/gh-pats.sh` to load it.
 
-## Step 6: Done
+## Step 8: Done
 
 > Crew config saved to `.claude/metaphorex-agents.local.md`.
 > Restart Claude Code for agents to pick it up.
