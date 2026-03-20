@@ -114,6 +114,11 @@ candidate lists from LLM knowledge. Follow this priority order:
    external archive for a source, say so in the playbook and flag the
    candidate list as provisional. The Surveyor will verify completeness.
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
+skill. It will give you two prefixes to use for your entire run. You MUST
+inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
+shell — exports don't persist). If no crew config exists, skip prefixes.
+
 **Process:**
 
 1. If no target specified, pick the next unprospected import-project issue

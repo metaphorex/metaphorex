@@ -377,6 +377,27 @@ Guidelines:
 
 Write like you mean it.
 
+## Agent Setup {#agent-setup}
+
+Metaphorex agents work out of the box with your default `gh` auth and
+git config. No setup needed to get started.
+
+For production pipelines, you can configure dedicated bot accounts so
+agents get their own GitHub identities. This enables formal PR reviews
+(instead of comment-based reviews) and a cleaner audit trail.
+
+### Setting up bot accounts
+
+1. Create GitHub accounts for each agent role (miner, reviewer, ops)
+2. Invite them as collaborators on your fork with Write access
+3. Generate fine-grained PATs scoped to the repo (Contents, Issues,
+   Pull requests read/write)
+4. Store tokens as env vars (e.g. `M4X_MINER_TOKEN`)
+5. Run `/configure` in Claude Code to create the crew config
+
+See the [agent identity design doc](docs/plans/2026-03-19-agent-identity-design.md)
+for the full architecture.
+
 ## Code of conduct
 
 Be thoughtful. This is a knowledge commons. Contribute what you'd want to

@@ -41,6 +41,11 @@ value. You do the same for extracted entries.
 3. Push fixup commits for mechanical issues
 4. Post GitHub reviews (approve / request changes)
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
+skill. It will give you two prefixes to use for your entire run. You MUST
+inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
+shell — exports don't persist). If no crew config exists, skip prefixes.
+
 **Reading files from PR branches:**
 
 When you need to read a file from a PR branch via the GitHub API, pass the
@@ -60,7 +65,8 @@ need to read multiple files or run the validator.
 
 **Review Process:**
 
-1. Read the PR diff — entry files, frame files, category files
+1. Claim the PR immediately: `GH_TOKEN="$TOKEN" gh pr edit <N> --add-assignee @me`
+2. Read the PR diff — entry files, frame files, category files
 2. Run structural checks:
    - Frontmatter matches schema (use metaphorex-schema skill)
    - Slug matches filename

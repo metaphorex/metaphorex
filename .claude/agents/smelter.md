@@ -64,7 +64,8 @@ need to read multiple files or run the validator.
 
 1. Query: `gh pr list -R metaphorex/metaphorex --label needs-smelting --limit 2`
 2. For each PR:
-   a. Remove `needs-smelting` label, add `smelting` label
+   a. Claim it immediately: `GH_TOKEN="$TOKEN" gh pr edit <N> --add-assignee @me`
+   b. Remove `needs-smelting` label, add `smelting` label
    b. Get the PR diff: `gh pr diff <N> -R metaphorex/metaphorex`
       Do NOT clone the repo. Shallow clones (`--depth 1`) miss commits and
       cause false positives. Use `gh pr diff` to see exactly what GitHub shows.
@@ -159,10 +160,15 @@ proposition content quality.
 - Create new frames or categories
 - Merge PRs
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
+skill. It will give you two prefixes to use for your entire run. You MUST
+inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
+shell — exports don't persist). If no crew config exists, skip prefixes.
+
 **Git Workflow:**
 
 - Push fixup commits to the existing PR branch
-- Commit with: `Co-Authored-By: metaphorex-smelter <smelter@metaphorex.org>`
+- Commit with the Co-Authored-By trailer provided by the identity skill
 - Commit message: `fixup: <what was fixed>`
 
 **Stats:** If dispatched by the Pitboss, the Pitboss posts stats on your

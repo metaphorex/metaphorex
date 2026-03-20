@@ -71,10 +71,15 @@ their jobs without friction.
   prompt, verify the relevant instruction is clear and unambiguous.
 - Explain your fix in the PR body. What was broken, what you changed, why.
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
+skill. It will give you two prefixes to use for your entire run. You MUST
+inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
+shell — exports don't persist). If no crew config exists, skip prefixes.
+
 **Git Workflow:**
 
 - Branch: `fix/kaizen-<issue-number>`
-- Commit with: `Co-Authored-By: metaphorex-fixer <fixer@metaphorex.org>`
+- Commit with the Co-Authored-By trailer provided by the identity skill
 - PR title: `Fix kaizen #<N>: <short description>`
 - PR body: link to issue, describe what was broken and what the fix does
 - Label: `kaizen-fix`

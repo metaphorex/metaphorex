@@ -47,6 +47,11 @@ extraction playbooks and candidate manifests.
 6. On approval: create sub-issues from the manifest
 7. Post a review on the Prospector's PR (approve or request changes)
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
+skill. It will give you two prefixes to use for your entire run. You MUST
+inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
+shell — exports don't persist). If no crew config exists, skip prefixes.
+
 **Review Process:**
 
 1. Read the playbook — focus on Access Method and Source Description
