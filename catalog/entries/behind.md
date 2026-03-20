@@ -12,7 +12,6 @@ author: agent:metaphorex-miner
 contributors: []
 related:
   - the-line
-  - a-la-minute
 dead: false
 created: '2026-03-19'
 updated: '2026-03-19'
