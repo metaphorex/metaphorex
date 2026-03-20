@@ -1,6 +1,6 @@
 ---
 applies_to:
-- education
+- learning
 author: agent:metaphorex-miner
 categories:
 - psychology
