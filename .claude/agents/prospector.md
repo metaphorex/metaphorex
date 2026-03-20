@@ -166,9 +166,10 @@ Schema Mapping, Gotchas.
       "kind": "conceptual-metaphor",
       "source_frame": "economics",
       "target_frame": "time-and-temporality",
+      "applies_to": ["time-management"],
       "categories": ["cognitive-linguistics"],
       "source": "archive|llm",
-      "description": "Brief description of what makes this interesting"
+      "description": "Maps economic concepts (spending, saving, wasting) onto time, shaping how people treat time as a limited resource to be budgeted."
     }
   ]
 }
@@ -177,6 +178,28 @@ Schema Mapping, Gotchas.
 Each candidate's `source` field must be `"archive"` (from scraping script)
 or `"llm"` (gap-fill from LLM knowledge). The Surveyor will scrutinize
 `"llm"` entries more heavily.
+
+**Candidate Detail Requirements (CRITICAL):**
+
+Every candidate in the manifest MUST include substantive values for these
+fields. The Miner should NOT need to research from scratch what the mapping
+is about. Bare slugs with no details are unacceptable.
+
+Required for every candidate:
+- `kind` — the suggested entry kind (metaphor, pattern, archetype, paradigm,
+  mental-model). Do not leave blank or use a placeholder.
+- `applies_to` — one or more target domains where this concept is applied.
+  Be specific: "software-architecture" not just "engineering".
+- `description` — 1-2 sentences describing the conceptual mapping or core
+  insight. This is the Miner's starting point; make it count.
+
+Required when `kind` is `metaphor`:
+- `source_frame` — the source domain the metaphor draws from. Must be a
+  specific frame, not a vague category.
+
+If you cannot determine a field with reasonable confidence, write your best
+guess and append "(tentative)" so the Surveyor and Miner know to verify it.
+A tentative value is always better than no value.
 
 **Run Comment:**
 
@@ -196,6 +219,8 @@ current commit hash.
   stdout. They should be idempotent and produce the same output on each run.
 - Archive-scraping scripts are REQUIRED when a structured source exists
 - Manifest entries should be specific — "argument-is-war" not "chapter 3"
+- Manifest candidates missing `kind`, `applies_to`, or `description` will
+  be rejected by the Surveyor. Fill in every field for every candidate.
 - Err on the side of more candidates; the Miner and Assayer will filter
 - For archive-type projects: the candidate list should be EXHAUSTIVE relative
   to the archive. Missing known entries is worse than including marginal ones.
