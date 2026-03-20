@@ -136,11 +136,15 @@ shell — exports don't persist). If no crew config exists, skip prefixes.
    applies_to, categories
 8. **Run the scraping script** to produce structured output, then write
    the manifest at `playbooks/<project-name>/manifest.json`
-9. Write the playbook at `playbooks/<project-name>/playbook.md` — include
+9. **Verify every category slug in the manifest exists as a file in
+   `catalog/categories/`.** List the directory and cross-check each slug.
+   If a slug has no matching `.md` file, fix the manifest before proceeding.
+   Run `uv run scripts/validate.py validate-manifests` to confirm zero errors.
+10. Write the playbook at `playbooks/<project-name>/playbook.md` — include
    the archive URLs and methodology in the Access Method section
-10. Open a PR with: playbook + scripts + manifest
-11. Add the `in-progress` label to the parent issue to claim it
-12. Post a run summary comment on the parent issue
+11. Open a PR with: playbook + scripts + manifest
+12. Add the `in-progress` label to the parent issue to claim it
+13. Post a run summary comment on the parent issue
 
 **Playbook Format:**
 

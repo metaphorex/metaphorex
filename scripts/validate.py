@@ -7,9 +7,10 @@
 """Metaphorex content validator and extractor.
 
 Usage:
-    uv run scripts/validate.py validate          # validate all content
+    uv run scripts/validate.py validate              # validate all content
     uv run scripts/validate.py validate catalog/entries/ # validate specific dir
-    uv run scripts/validate.py extract            # emit JSON to stdout
+    uv run scripts/validate.py validate-manifests     # validate playbook manifests
+    uv run scripts/validate.py extract                # emit JSON to stdout
 """
 
 from __future__ import annotations
@@ -27,6 +28,7 @@ ENTRIES_DIR = CATALOG_DIR / "entries"
 FRAMES_DIR = CATALOG_DIR / "frames"
 CATEGORIES_DIR = CATALOG_DIR / "categories"
 WORKS_DIR = CATALOG_DIR / "works"
+PLAYBOOKS_DIR = ROOT / "playbooks"
 
 VALID_KINDS = {
     "metaphor",
@@ -304,6 +306,44 @@ def validate(target: str | None = None) -> tuple[list[str], list[str]]:
     return errors, warnings
 
 
+def category_slugs_from_files() -> set[str]:
+    """Collect category slugs from filenames in catalog/categories/."""
+    slugs = set()
+    if CATEGORIES_DIR.exists():
+        for f in CATEGORIES_DIR.glob("*.md"):
+            slugs.add(f.stem)
+    return slugs
+
+
+def validate_manifests() -> tuple[list[str], list[str]]:
+    """Validate playbook manifest.json files against catalog categories."""
+    errors: list[str] = []
+    warnings: list[str] = []
+    cat_slugs = category_slugs_from_files()
+
+    if not PLAYBOOKS_DIR.exists():
+        return errors, warnings
+
+    for manifest_path in sorted(PLAYBOOKS_DIR.glob("*/manifest.json")):
+        prefix = str(manifest_path.relative_to(ROOT))
+        try:
+            data = json.loads(manifest_path.read_text())
+        except (json.JSONDecodeError, OSError) as exc:
+            errors.append(f"{prefix}: failed to parse manifest: {exc}")
+            continue
+
+        for candidate in data.get("candidates", []):
+            slug = candidate.get("slug", "<unknown>")
+            for cat in candidate.get("categories", []):
+                if cat not in cat_slugs:
+                    errors.append(
+                        f"{prefix}: candidate '{slug}' references "
+                        f"unknown category '{cat}'"
+                    )
+
+    return errors, warnings
+
+
 def extract() -> list[dict]:
     results = []
     for f in sorted(ENTRIES_DIR.glob("*.md")):
@@ -317,7 +357,7 @@ def extract() -> list[dict]:
 
 
 def main() -> None:
-    if len(sys.argv) < 2 or sys.argv[1] not in ("validate", "extract"):
+    if len(sys.argv) < 2 or sys.argv[1] not in ("validate", "validate-manifests", "extract"):
         print(__doc__.strip())
         sys.exit(1)
 
@@ -338,6 +378,22 @@ def main() -> None:
             sys.exit(1)
         else:
             print("All content valid.")
+            sys.exit(0)
+
+    elif command == "validate-manifests":
+        errors, warnings = validate_manifests()
+        if warnings:
+            print(f"{len(warnings)} warning(s):\n")
+            for w in warnings:
+                print(f"  ~ {w}")
+            print()
+        if errors:
+            print(f"{len(errors)} manifest error(s):\n")
+            for e in errors:
+                print(f"  - {e}")
+            sys.exit(1)
+        else:
+            print("All manifests valid.")
             sys.exit(0)
 
     elif command == "extract":
