@@ -64,7 +64,8 @@ need to read multiple files or run the validator.
 
 1. Query: `gh pr list -R metaphorex/metaphorex --label needs-smelting --limit 2`
 2. For each PR:
-   a. Remove `needs-smelting` label, add `smelting` label
+   a. Claim it immediately: `GH_TOKEN="$TOKEN" gh pr edit <N> --add-assignee @me`
+   b. Remove `needs-smelting` label, add `smelting` label
    b. Get the PR diff: `gh pr diff <N> -R metaphorex/metaphorex`
       Do NOT clone the repo. Shallow clones (`--depth 1`) miss commits and
       cause false positives. Use `gh pr diff` to see exactly what GitHub shows.

@@ -65,7 +65,8 @@ need to read multiple files or run the validator.
 
 **Review Process:**
 
-1. Read the PR diff — entry files, frame files, category files
+1. Claim the PR immediately: `GH_TOKEN="$TOKEN" gh pr edit <N> --add-assignee @me`
+2. Read the PR diff — entry files, frame files, category files
 2. Run structural checks:
    - Frontmatter matches schema (use metaphorex-schema skill)
    - Slug matches filename
