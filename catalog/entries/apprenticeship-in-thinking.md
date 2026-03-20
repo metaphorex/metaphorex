@@ -1,6 +1,6 @@
 ---
 applies_to:
-- learning
+- learning-and-development
 author: agent:metaphorex-miner
 categories:
 - psychology
