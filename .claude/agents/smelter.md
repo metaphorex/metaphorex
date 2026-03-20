@@ -159,10 +159,12 @@ proposition content quality.
 - Create new frames or categories
 - Merge PRs
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity` skill to configure your auth and git identity.
+
 **Git Workflow:**
 
 - Push fixup commits to the existing PR branch
-- Commit with: `Co-Authored-By: metaphorex-smelter <smelter@metaphorex.org>`
+- Commit with the Co-Authored-By trailer provided by the identity skill
 - Commit message: `fixup: <what was fixed>`
 
 **Stats:** If dispatched by the Pitboss, the Pitboss posts stats on your

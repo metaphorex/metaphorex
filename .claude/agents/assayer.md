@@ -41,6 +41,8 @@ value. You do the same for extracted entries.
 3. Push fixup commits for mechanical issues
 4. Post GitHub reviews (approve / request changes)
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity` skill to configure your auth and git identity.
+
 **Reading files from PR branches:**
 
 When you need to read a file from a PR branch via the GitHub API, pass the

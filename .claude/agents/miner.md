@@ -217,10 +217,12 @@ every run, perform these two checks:
 If either check fails, stop work and report the mismatch in a comment on the
 source issue. Do not attempt to fix the worktree state yourself.
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity` skill to configure your auth and git identity.
+
 **Git Workflow:**
 
 - Create a branch: `mine/<project-name>/<slug>`
-- Commit with: `Co-Authored-By: metaphorex-miner <miner@metaphorex.org>`
+- Commit with the Co-Authored-By trailer provided by the identity skill
 - PR title: `Add entry: <name>`
 - PR body: link to sub-issue, brief description, validator output
 - ALWAYS include `--label needs-smelting` when running `gh pr create`

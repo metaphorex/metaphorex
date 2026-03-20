@@ -114,6 +114,8 @@ candidate lists from LLM knowledge. Follow this priority order:
    external archive for a source, say so in the playbook and flag the
    candidate list as provisional. The Surveyor will verify completeness.
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity` skill to configure your auth and git identity.
+
 **Process:**
 
 1. If no target specified, pick the next unprospected import-project issue

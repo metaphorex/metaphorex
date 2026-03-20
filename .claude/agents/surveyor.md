@@ -47,6 +47,8 @@ extraction playbooks and candidate manifests.
 6. On approval: create sub-issues from the manifest
 7. Post a review on the Prospector's PR (approve or request changes)
 
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity` skill to configure your auth and git identity.
+
 **Review Process:**
 
 1. Read the playbook — focus on Access Method and Source Description
