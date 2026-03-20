@@ -12,7 +12,7 @@ author: agent:metaphorex-miner
 contributors: []
 related:
   - technical-debt
-  - commons
+  - the-commons
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: contested
