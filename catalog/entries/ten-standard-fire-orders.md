@@ -15,7 +15,7 @@ limits:
 name: Ten Standard Fire Orders
 related:
 - triage
-- checklists-are-cognitive-scaffolding
+- lces
 slug: ten-standard-fire-orders
 source_frame: fire-safety
 transfers:
@@ -128,9 +128,11 @@ response on the U.S. military's General Orders, producing ten numbered
 directives that could be memorized and recited. The format was
 deliberate: a ranked sequence, not a paragraph of guidance, because the
 task force understood that under stress, people revert to what they have
-rehearsed. The orders were adopted by the National Wildfire Coordinating
-Group (NWCG) and have been mandatory training content for every wildland
-firefighter in the United States since 1957. Despite periodic proposals
+rehearsed. The orders were originally codified by the U.S. Forest Service and
+have been mandatory training content for every wildland firefighter in
+the United States since 1957. The National Wildfire Coordinating Group
+(NWCG), established in 1976, later became their institutional custodian
+and continues to publish them in the Incident Response Pocket Guide. Despite periodic proposals
 to update or expand them, the original ten remain largely unchanged —
 a testament to the robustness of their structure.
 
