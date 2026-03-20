@@ -1,4 +1,4 @@
-# Metaphorex
+# Metaphorex [![GitHub](https://img.shields.io/badge/GitHub-metaphorex-181717?logo=github)](https://github.com/metaphorex/metaphorex)
 
 A materials library of load-bearing metaphors and other useful abstractions.
 Browse the catalog at [**metaphorex.org**](https://metaphorex.org).
@@ -6,9 +6,8 @@ Browse the catalog at [**metaphorex.org**](https://metaphorex.org).
 ## What This Is
 
 A catalog of **entries** — structured analyses of how concepts from one domain
-illuminate another. Each entry documents what the metaphor brings (the useful
-structural parallels), where it breaks (the limits and misleading implications),
-and concrete expressions found in the wild.
+illuminate another. Each entry documents transfers (the useful structural parallels),
+limits (where the metaphor misleads), and concrete expressions found in the wild.
 
 This covers conceptual metaphors from cognitive science, design patterns,
 archetypes, paradigms, cross-field mappings, and dead metaphors worth examining.
@@ -41,8 +40,8 @@ docs/                  Design documents and plans
 Visit [metaphorex.org](https://metaphorex.org), or read entries directly on
 GitHub in [catalog/entries/](catalog/entries/). Each entry has:
 
-- **What It Brings** — the structural parallels that make it useful
-- **Where It Breaks** — where the metaphor misleads (the most important section)
+- **Transfers** — the structural parallels that make it useful
+- **Limits** — where the metaphor misleads (the most important section)
 - **Expressions** — specific phrases and usages found in the wild
 
 ### Validate Content
