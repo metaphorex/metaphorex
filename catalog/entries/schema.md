@@ -8,7 +8,6 @@ categories:
 - cognitive-science
 contributors: []
 created: '2026-03-20'
-dead: true
 grounding: established
 harness: Claude Code
 kind: metaphor
