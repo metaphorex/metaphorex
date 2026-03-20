@@ -64,7 +64,7 @@ need to read multiple files or run the validator.
 
 1. Query: `gh pr list -R metaphorex/metaphorex --label needs-smelting --limit 2`
 2. For each PR:
-   a. Claim it immediately: `GH_TOKEN="$TOKEN" gh pr edit <N> --add-assignee @me`
+   a. Claim it immediately: `GH_TOKEN="$M4X_MINER_TOKEN" gh pr edit <N> --add-assignee @me`
    b. Remove `needs-smelting` label, add `smelting` label
    b. Get the PR diff: `gh pr diff <N> -R metaphorex/metaphorex`
       Do NOT clone the repo. Shallow clones (`--depth 1`) miss commits and
@@ -160,15 +160,33 @@ proposition content quality.
 - Create new frames or categories
 - Merge PRs
 
-**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
-skill. It will give you two prefixes to use for your entire run. You MUST
-inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
-shell — exports don't persist). If no crew config exists, skip prefixes.
+**Identity:** You MUST set up your identity before any `gh` or `git` commands.
+Each Bash tool call is a fresh shell — exports don't persist. Inline the
+prefix on EVERY call.
+
+First, check if your token is available:
+```bash
+[ -n "$M4X_MINER_TOKEN" ] && echo "TOKEN OK" || echo "NO TOKEN"
+```
+
+If the token is set, prefix EVERY `gh` command:
+```bash
+GH_TOKEN="$M4X_MINER_TOKEN" gh pr edit ...
+GH_TOKEN="$M4X_MINER_TOKEN" gh issue edit ...
+GH_TOKEN="$M4X_MINER_TOKEN" gh api ...
+```
+
+And EVERY `git commit`:
+```bash
+git -c user.name="m4x-miner" -c user.email="miner@metaphorex.org" commit ...
+```
+
+If the token is NOT set, use default auth (no prefix needed).
 
 **Git Workflow:**
 
 - Push fixup commits to the existing PR branch
-- Commit with the Co-Authored-By trailer provided by the identity skill
+- Commit with `Co-Authored-By: m4x-miner <miner@metaphorex.org>`
 - Commit message: `fixup: <what was fixed>`
 
 **Stats:** If dispatched by the Pitboss, the Pitboss posts stats on your

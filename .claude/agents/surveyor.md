@@ -47,10 +47,29 @@ extraction playbooks and candidate manifests.
 6. On approval: create sub-issues from the manifest
 7. Post a review on the Prospector's PR (approve or request changes)
 
-**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
-skill. It will give you two prefixes to use for your entire run. You MUST
-inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
-shell — exports don't persist). If no crew config exists, skip prefixes.
+**Identity:** You MUST set up your identity before any `gh` or `git` commands.
+Each Bash tool call is a fresh shell — exports don't persist. Inline the
+prefix on EVERY call.
+
+First, check if your token is available:
+```bash
+[ -n "$M4X_REVIEWER_TOKEN" ] && echo "TOKEN OK" || echo "NO TOKEN"
+```
+
+If the token is set, prefix EVERY `gh` command:
+```bash
+GH_TOKEN="$M4X_REVIEWER_TOKEN" gh pr review ...
+GH_TOKEN="$M4X_REVIEWER_TOKEN" gh pr edit ...
+GH_TOKEN="$M4X_REVIEWER_TOKEN" gh issue edit ...
+GH_TOKEN="$M4X_REVIEWER_TOKEN" gh api ...
+```
+
+And EVERY `git commit`:
+```bash
+git -c user.name="m4x-reviewer" -c user.email="reviewer@metaphorex.org" commit ...
+```
+
+If the token is NOT set, use default auth (no prefix needed).
 
 **Review Process:**
 

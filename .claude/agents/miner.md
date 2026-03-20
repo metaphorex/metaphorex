@@ -61,8 +61,8 @@ If invoked without a specific project or issue:
 5. Within each tier, prefer issues whose parent has `priority:high` label
 6. Pick the oldest unclaimed one (no linked PR, no `in-progress` label, no assignee)
 7. Claim it immediately BEFORE starting any work:
-   - Assign yourself: `GH_TOKEN="$TOKEN" gh issue edit <number> --add-assignee @me`
-   - Add the `in-progress` label: `GH_TOKEN="$TOKEN" gh issue edit <number> --add-label in-progress`
+   - Assign yourself: `GH_TOKEN="$M4X_MINER_TOKEN" gh issue edit <number> --add-assignee @me`
+   - Add the `in-progress` label: `GH_TOKEN="$M4X_MINER_TOKEN" gh issue edit <number> --add-label in-progress`
    - This prevents other agents from picking the same issue
 
 **Three Work Types:**
@@ -220,29 +220,38 @@ every run, perform these two checks:
 If either check fails, stop work and report the mismatch in a comment on the
 source issue. Do not attempt to fix the worktree state yourself.
 
-**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
-skill. It will give you two prefixes to use for your entire run. Example:
+**Identity:** You MUST set up your identity before any `gh` or `git` commands.
+Each Bash tool call is a fresh shell — exports don't persist. Inline the
+prefix on EVERY call.
 
+First, check if your token is available:
 ```bash
-# Every gh call:
-GH_TOKEN="$M4X_MINER_TOKEN" gh pr create ...
-GH_TOKEN="$M4X_MINER_TOKEN" gh issue comment ...
+[ -n "$M4X_MINER_TOKEN" ] && echo "TOKEN OK" || echo "NO TOKEN"
+```
 
-# Every git commit:
+If the token is set, prefix EVERY `gh` command:
+```bash
+GH_TOKEN="$M4X_MINER_TOKEN" gh pr create ...
+GH_TOKEN="$M4X_MINER_TOKEN" gh issue edit ...
+GH_TOKEN="$M4X_MINER_TOKEN" gh issue comment ...
+GH_TOKEN="$M4X_MINER_TOKEN" gh api ...
+```
+
+And EVERY `git commit`:
+```bash
 git -c user.name="m4x-miner" -c user.email="miner@metaphorex.org" commit ...
 ```
 
-The exact values come from the identity skill. If no crew config exists,
-skip the prefixes and use default auth.
+If the token is NOT set, use default auth (no prefix needed).
 
 **Git Workflow:**
 
 - Create a branch: `mine/<project-name>/<slug>`
-- Commit with the Co-Authored-By trailer provided by the identity skill
+- Commit with `Co-Authored-By: m4x-miner <miner@metaphorex.org>`
 - PR title: `Add entry: <name>`
 - PR body: link to sub-issue, brief description, validator output
 - ALWAYS include `--label needs-smelting` when running `gh pr create`
-- ALWAYS prefix `gh` commands with the token from the identity skill
+- ALWAYS prefix `gh` commands with `GH_TOKEN="$M4X_MINER_TOKEN"`
 
 **Post-PR Checklist (REQUIRED for every entry):**
 
