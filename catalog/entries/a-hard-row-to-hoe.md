@@ -25,6 +25,8 @@ transfers:
 limits:
   - '[source] breaks because a literal hard row has a visible endpoint -- the farmer can see where the row ends -- while most metaphorical "hard rows" (long careers, chronic conditions, systemic poverty) have no visible terminus, making the agricultural promise of eventual completion misleading'
   - '[source] misleads by importing the assumption that difficulty is natural and fixed (rocky soil simply is rocky), when most metaphorical hard rows are the product of human systems that could, in principle, be redesigned'
+  - '[source] breaks because the farmer''s only option is to keep hoeing, importing stoic persistence as the sole appropriate response and leaving no structural place for alternative strategies: changing fields, choosing a different crop, or deciding the row is not worth hoeing'
+  - '[source] imports a solo frame -- one farmer, one hoe, one row -- that erases collective action, mutual aid, and institutional support, loading a specifically American frontier mythology of self-reliance onto situations where community and policy are the actual levers'
 ---
 
 ## Transfers

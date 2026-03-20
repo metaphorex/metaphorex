@@ -27,6 +27,8 @@ transfers:
 limits:
   - '[source] breaks because medical differentials draw on a finite and well-cataloged disease taxonomy, while most metaphorical targets (debugging, business diagnosis, root cause analysis) face an open-ended hypothesis space with no authoritative catalog of possible causes'
   - '[source] misleads by importing the assumption that the presenting symptoms are caused by exactly one condition, while complex system failures typically have multiple interacting causes with no single root diagnosis'
+  - '[source] requires deep domain expertise to generate a non-trivial differential -- a good differential depends on knowing what conditions produce similar symptoms -- and invoking the protocol without that expertise produces superficial lists rather than discriminating rankings'
+  - '[source] imports medical authority and epistemic weight that the source domain earns through clinical training and malpractice liability, lending unearned gravitas to business and organizational diagnoses that carry none of those guarantees'
 ---
 
 ## Transfers
