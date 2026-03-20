@@ -30,8 +30,9 @@ limits:
 ## Transfers
 
 Donald Winnicott introduced the "good enough mother" (*ordinarily devoted
-mother* in his earlier phrasing) in a 1953 paper and developed the concept
-across his BBC radio talks and clinical writing through the 1960s. The
+mother* in his earlier phrasing) across his BBC radio talks of the 1940s
+and 1950s and developed the concept systematically in his clinical writing
+through the 1960s. The
 phrase does not mean "mediocre mother." It means a mother whose
 imperfections are not merely tolerable but developmentally necessary.
 Winnicott's structural claim is that a mother who adapts perfectly to her
@@ -133,7 +134,7 @@ Key structural parallels:
   term in developmental psychology and psychoanalysis
 
 - "The good-enough mother" -- the nominal form, referring to the
-  caregiver who provides adequate but imperfect care (Winnicott 1953)
+  caregiver who provides adequate but imperfect care (Winnicott 1960)
 
 - "Good enough is good enough" -- the generalized principle applied to
   software, management, and self-help (common usage since 1990s)
@@ -156,10 +157,12 @@ Winnicott was a pediatrician and psychoanalyst who saw thousands of
 mother-infant pairs over a career spanning the 1920s through the 1960s.
 He delivered a series of BBC radio talks in the early 1940s and 1950s
 aimed at ordinary mothers, not clinicians. His language was deliberately
-non-technical and reassuring. The "good enough mother" concept appeared
-in his 1953 paper "Transitional Objects and Transitional Phenomena" and
-was developed in *The Maturational Processes and the Facilitating
-Environment* (1965) and *Playing and Reality* (1971).
+non-technical and reassuring. The "good enough mother" concept was developed
+through his BBC radio talks (collected in *The Child and the Family*,
+1957) and received its fullest theoretical treatment in his 1960 paper
+"The Theory of the Parent-Infant Relationship" and in *The Maturational
+Processes and the Facilitating Environment* (1965) and *Playing and
+Reality* (1971).
 
 The concept emerged from Winnicott's observation that infants develop
 best not with perfect mothers but with mothers who gradually,
@@ -177,9 +180,11 @@ harming your child; they are helping your child become a person.
 
 ## References
 
-- Winnicott, D.W. "Transitional Objects and Transitional Phenomena,"
-  *International Journal of Psycho-Analysis* 34 (1953): 89-97 --
-  introduces the good-enough mother concept
+- Winnicott, D.W. "The Theory of the Parent-Infant Relationship,"
+  *International Journal of Psycho-Analysis* 41 (1960): 585-595 --
+  the most explicit theoretical account of the good-enough mother
+- Winnicott, D.W. *The Child and the Family*. Tavistock, 1957 --
+  collected BBC radio talks, the accessible public register of the concept
 - Winnicott, D.W. *The Maturational Processes and the Facilitating
   Environment*. International Universities Press, 1965 -- the fuller
   theoretical development
