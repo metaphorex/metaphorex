@@ -112,9 +112,10 @@ Key structural parallels:
   *Fifth Discipline*), losing its attachment-specific meaning
 - "Running the model" -- computational metaphor layered on top of the
   manufacturing one, treating the working model as a simulation engine
-- "Prototype" -- used in cognitive psychology for a related but distinct
-  concept (best-example category representation), sometimes confused
-  with Bowlby's working model
+- "Schema" -- the Piagetian and cognitive-therapy term for the same
+  concept, often used interchangeably with "working model" in clinical
+  practice, though schema theory and attachment theory have distinct
+  theoretical lineages
 
 ## Origin Story
 

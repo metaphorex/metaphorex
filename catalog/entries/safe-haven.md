@@ -108,9 +108,9 @@ Key structural parallels:
 - "Safe haven laws" -- legislation allowing parents to surrender
   newborns at designated locations, importing the spatial logic of
   the metaphor into legal infrastructure
-- "Return to base" -- Ainsworth's Strange Situation procedure language,
-  where the caregiver is the "secure base" (the complementary nautical
-  metaphor to safe haven)
+- "Seek shelter" -- generalizing the safe haven logic to adult
+  distress regulation: any withdrawal to a trusted relationship,
+  physical space, or practice that attenuates overwhelm
 
 ## Origin Story
 
