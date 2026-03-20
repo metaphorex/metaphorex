@@ -217,7 +217,20 @@ every run, perform these two checks:
 If either check fails, stop work and report the mismatch in a comment on the
 source issue. Do not attempt to fix the worktree state yourself.
 
-**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity` skill to configure your auth and git identity.
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
+skill. It will give you two prefixes to use for your entire run. Example:
+
+```bash
+# Every gh call:
+GH_TOKEN="$M4X_MINER_TOKEN" gh pr create ...
+GH_TOKEN="$M4X_MINER_TOKEN" gh issue comment ...
+
+# Every git commit:
+git -c user.name="m4x-miner" -c user.email="miner@metaphorex.org" commit ...
+```
+
+The exact values come from the identity skill. If no crew config exists,
+skip the prefixes and use default auth.
 
 **Git Workflow:**
 
@@ -226,6 +239,7 @@ source issue. Do not attempt to fix the worktree state yourself.
 - PR title: `Add entry: <name>`
 - PR body: link to sub-issue, brief description, validator output
 - ALWAYS include `--label needs-smelting` when running `gh pr create`
+- ALWAYS prefix `gh` commands with the token from the identity skill
 
 **Post-PR Checklist (REQUIRED for every entry):**
 

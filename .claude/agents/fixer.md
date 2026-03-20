@@ -71,7 +71,10 @@ their jobs without friction.
   prompt, verify the relevant instruction is clear and unambiguous.
 - Explain your fix in the PR body. What was broken, what you changed, why.
 
-**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity` skill to configure your auth and git identity.
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
+skill. It will give you two prefixes to use for your entire run. You MUST
+inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
+shell — exports don't persist). If no crew config exists, skip prefixes.
 
 **Git Workflow:**
 

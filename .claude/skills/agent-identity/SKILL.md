@@ -39,22 +39,39 @@ If the variable is not set or empty, log this warning and skip to Fallback:
 
 ## Step 4: Apply identity
 
-For ALL subsequent `gh` commands in this session, set the token:
+IMPORTANT: Each Bash tool call is a fresh shell. Environment variables like
+`export GH_TOKEN` do NOT persist between tool calls. You must inline the
+token on every single `gh` command.
+
+**For ALL `gh` commands**, prefix with the token inline:
 
 ```bash
-export GH_TOKEN="$<gh_token_var>"
+GH_TOKEN="$<gh_token_var>" gh pr create ...
+GH_TOKEN="$<gh_token_var>" gh issue comment ...
+GH_TOKEN="$<gh_token_var>" gh pr review ...
 ```
 
-For ALL subsequent `git commit` commands, use `-c` flags:
+This is not optional. Every `gh` call without the prefix will use the
+wrong identity. There are no shortcuts — no aliases, no exports, no
+shell functions that persist. Inline prefix on every call.
+
+**For ALL `git commit` commands**, use `-c` flags:
 
 ```bash
 git -c user.name="<git_name>" -c user.email="<git_email>" commit ...
 ```
 
-Use this Co-Authored-By trailer on all commits:
+**Co-Authored-By trailer** on all commits:
 
 ```
 Co-Authored-By: <git_name> <<git_email>>
+```
+
+**Summary — remember these two prefixes for your entire run:**
+
+```
+gh prefix:  GH_TOKEN="$<gh_token_var>"
+git prefix: git -c user.name="<git_name>" -c user.email="<git_email>"
 ```
 
 ## Fallback

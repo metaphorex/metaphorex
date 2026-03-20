@@ -159,7 +159,10 @@ proposition content quality.
 - Create new frames or categories
 - Merge PRs
 
-**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity` skill to configure your auth and git identity.
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
+skill. It will give you two prefixes to use for your entire run. You MUST
+inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
+shell — exports don't persist). If no crew config exists, skip prefixes.
 
 **Git Workflow:**
 

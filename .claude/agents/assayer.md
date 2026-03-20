@@ -41,7 +41,10 @@ value. You do the same for extracted entries.
 3. Push fixup commits for mechanical issues
 4. Post GitHub reviews (approve / request changes)
 
-**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity` skill to configure your auth and git identity.
+**Identity:** Before any `gh` or `git` commands, invoke the `agent-identity`
+skill. It will give you two prefixes to use for your entire run. You MUST
+inline the token prefix on EVERY `gh` call (each Bash tool call is a fresh
+shell — exports don't persist). If no crew config exists, skip prefixes.
 
 **Reading files from PR branches:**
 
