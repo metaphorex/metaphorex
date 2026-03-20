@@ -226,6 +226,21 @@ sections: Work, Highlights, and Kaizen.
 - When resolving kaizen, always describe what the operator can expect
   to see differently in future runs
 
+### Identity spot-check (occasional)
+
+If a crew config exists at `.claude/metaphorex-agents.local.md`, once per
+round pick one completed PR or review from this round and verify the author:
+
+1. Run `gh pr view <pr-number> --json author --jq '.author.login'`
+2. Compare against the expected bot account for the agent that created it
+   (miner/smelter → m4x-miner, assayer/surveyor → m4x-reviewer,
+   prospector/fixer → m4x-ops, based on the crew config)
+3. If mismatch, add a warning line to the round summary:
+   `⚠ Identity mismatch: PR #<n> authored by <actual>, expected <expected>`
+
+This is a spot-check, not every-PR enforcement. If no crew config exists,
+skip this check entirely.
+
 Then loop back to **Phase A** (sync + survey). The sync step pulls any PRs
 that merged during this round, so the next round works from fresh main.
 If `total_actionable` is 0 after survey, print a final summary and stop.
