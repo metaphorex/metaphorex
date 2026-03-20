@@ -1,8 +1,10 @@
 ---
 slug: feed-the-soil-not-the-plant
 name: Feed the Soil, Not the Plant
-kind: mental-model
+kind: metaphor
 source_frame: agriculture
+applies_to:
+- organizational-behavior
 categories:
 - philosophy
 - organizational-behavior
@@ -18,13 +20,13 @@ updated: '2026-03-20'
 grounding: folk
 harness: Claude Code
 transfers:
-  - '[model] Investing in the medium that supports growth (soil) rather than directly supplementing individual outputs (plants) produces more resilient and self-sustaining results, because the medium continues to generate value after the investment stops'
-  - '[model] A plant fed directly with synthetic fertilizer becomes dependent on continued supplementation and its root system atrophies, while a plant in rich soil develops deep roots -- mapping the distinction between dependency-creating interventions and capacity-building ones'
-  - '[model] Soil health is invisible and slow-moving while plant growth is visible and immediate, mapping the cognitive bias toward optimizing observable outputs at the expense of the unobservable infrastructure that produces them'
+  - '[source] Investing in the medium that supports growth (soil) rather than directly supplementing individual outputs (plants) produces more resilient and self-sustaining results, because the medium continues to generate value after the investment stops'
+  - '[source] A plant fed directly with synthetic fertilizer becomes dependent on continued supplementation and its root system atrophies, while a plant in rich soil develops deep roots -- mapping the distinction between dependency-creating interventions and capacity-building ones'
+  - '[source] Soil health is invisible and slow-moving while plant growth is visible and immediate, mapping the cognitive bias toward optimizing observable outputs at the expense of the unobservable infrastructure that produces them'
 limits:
-  - '[model] The soil metaphor assumes the medium is improvable -- that investing in infrastructure will eventually yield returns -- but some institutional substrates are so degraded or misaligned that no amount of enrichment will produce the desired outputs, and direct intervention on the "plant" is the only viable path'
-  - '[model] The model privileges patience and long-term investment in a way that can rationalize indefinite delay; a startup that only "feeds the soil" (builds culture, refines processes) without ever shipping product will die before the soil yields anything'
-  - '[model] Soil improvement benefits all plants indiscriminately, including weeds; the metaphor has no mechanism for directing infrastructure investment toward desired outcomes rather than parasitic ones, which is the core challenge in policy, platform design, and organizational culture'
+  - '[source] The soil metaphor assumes the medium is improvable -- that investing in infrastructure will eventually yield returns -- but some institutional substrates are so degraded or misaligned that no amount of enrichment will produce the desired outputs, and direct intervention on the "plant" is the only viable path'
+  - '[source] The model privileges patience and long-term investment in a way that can rationalize indefinite delay; a startup that only "feeds the soil" (builds culture, refines processes) without ever shipping product will die before the soil yields anything'
+  - '[source] Soil improvement benefits all plants indiscriminately, including weeds; the metaphor has no mechanism for directing infrastructure investment toward desired outcomes rather than parasitic ones, which is the core challenge in policy, platform design, and organizational culture'
 ---
 
 ## Transfers
@@ -131,9 +133,6 @@ Key structural parallels:
   used to critique direct intervention strategies
 - "Invest in the ecosystem, not the individual" -- technology sector
   translation, applied to platform strategy and developer relations
-- "Culture eats strategy for breakfast" -- adjacent expression
-  (attributed to Drucker) that encodes a similar structural insight
-  about substrate vs. output
 
 ## Origin Story
 
