@@ -12,7 +12,7 @@
       "kind": "metaphor",
       "source_frame": "organizational-structure",
       "target_frame": "software-engineering",
-      "categories": ["software-engineering-culture"],
+      "categories": ["software-engineering"],
       "source": "archive",
       "description": "Maps service boundaries and contracts to employment relationships, negotiations, and workplace autonomy. Each microservice is an independent worker with a job description (API contract) and the right to refuse unreasonable requests."
     },
@@ -22,7 +22,7 @@
       "kind": "metaphor",
       "source_frame": "logistics",
       "target_frame": "network-communication",
-      "categories": ["software-engineering-culture"],
+      "categories": ["software-engineering"],
       "source": "archive",
       "description": "Maps message passing to physical mail delivery with weight, packaging, transit time, and delivery guarantees. Messages have size, require envelopes (serialization), travel through sorting centers (message brokers), and can be lost in transit."
     },
@@ -32,7 +32,7 @@
       "kind": "metaphor",
       "source_frame": "logistics",
       "target_frame": "data-processing",
-      "categories": ["software-engineering-culture"],
+      "categories": ["software-engineering"],
       "source": "archive",
       "description": "Maps data storage to physical inventory management with spatial boundaries, access patterns, and capacity limits. Already embedded in the term 'data warehouse' but extends to shelving (indexing), forklifts (queries), and loading docks (ETL)."
     },
@@ -42,7 +42,7 @@
       "kind": "metaphor",
       "source_frame": "biology",
       "target_frame": "software-engineering",
-      "categories": ["software-engineering-culture", "systems-thinking"],
+      "categories": ["software-engineering", "systems-thinking"],
       "source": "archive",
       "description": "Maps service lifecycles and boundaries to cellular biology with membranes (API boundaries), metabolism (resource consumption), mitosis (scaling), and specialized cell types (service roles)."
     },
@@ -52,7 +52,7 @@
       "kind": "metaphor",
       "source_frame": "contagion",
       "target_frame": "software-engineering",
-      "categories": ["software-engineering-culture", "systems-thinking"],
+      "categories": ["software-engineering", "systems-thinking"],
       "source": "archive",
       "description": "Maps failure containment patterns to disease quarantine with contagion (cascading failures), infection (corrupted state), and isolation protocols (circuit breakers, bulkheads)."
     },
@@ -62,7 +62,7 @@
       "kind": "metaphor",
       "source_frame": "governance",
       "target_frame": "software-engineering",
-      "categories": ["software-engineering-culture", "systems-thinking"],
+      "categories": ["software-engineering", "systems-thinking"],
       "source": "archive",
       "description": "Maps service organization to city neighborhoods with local governance (team ownership), infrastructure (shared platforms), zoning (service boundaries), and inter-district transit (API gateways)."
     },
@@ -72,7 +72,7 @@
       "kind": "metaphor",
       "source_frame": "physics",
       "target_frame": "organizational-behavior",
-      "categories": ["organizational-metaphors"],
+      "categories": ["organizational-behavior"],
       "source": "archive",
       "description": "Maps organizational influence to measurable force with vectors (direction of push), magnitude (strength of persuasion), resistance (institutional inertia), and equilibrium (political stalemate)."
     },
@@ -80,9 +80,9 @@
       "slug": "technical-decisions-are-territory",
       "name": "Technical Decisions Are Territory",
       "kind": "metaphor",
-      "source_frame": "cartography",
+      "source_frame": "governance",
       "target_frame": "decision-making",
-      "categories": ["software-engineering-culture", "organizational-metaphors"],
+      "categories": ["software-engineering", "organizational-behavior"],
       "source": "archive",
       "description": "Maps decision-making authority to territorial control with boundaries (team scope), jurisdiction (ownership), sovereignty (veto power), and border disputes (cross-team conflicts)."
     },
@@ -92,7 +92,7 @@
       "kind": "metaphor",
       "source_frame": "fluid-dynamics",
       "target_frame": "organizational-behavior",
-      "categories": ["organizational-metaphors"],
+      "categories": ["organizational-behavior"],
       "source": "archive",
       "description": "Maps organizational growth to weakening concentration where original culture, values, or expertise become progressively diluted as headcount increases. Each new hire adds volume without adding the original solute."
     },
@@ -102,7 +102,7 @@
       "kind": "metaphor",
       "source_frame": "governance",
       "target_frame": "decision-making",
-      "categories": ["software-engineering-culture", "organizational-metaphors"],
+      "categories": ["software-engineering", "organizational-behavior"],
       "source": "archive",
       "description": "Maps engineering choices to legal precedents requiring authority and formal process to overturn. Past decisions become binding precedent. Should reference the BDFL concept (Guido van Rossum, Linus Torvalds)."
     },
@@ -112,7 +112,7 @@
       "kind": "metaphor",
       "source_frame": "geology",
       "target_frame": "organizational-behavior",
-      "categories": ["organizational-metaphors"],
+      "categories": ["organizational-behavior"],
       "source": "archive",
       "description": "Maps knowledge history to stratified layers where older information is buried deeper and harder to access. Recent decisions sit on the surface; founding principles and original rationale require excavation."
     },
@@ -122,7 +122,7 @@
       "kind": "metaphor",
       "source_frame": "performance",
       "target_frame": "access-control",
-      "categories": ["software-engineering-culture"],
+      "categories": ["software-engineering"],
       "source": "archive",
       "description": "Maps role assignment to costume changes -- temporary, external identities that can be put on or taken off. A user 'wears' the admin role rather than 'being' an admin, emphasizing the separability of identity and privilege."
     },
@@ -132,7 +132,7 @@
       "kind": "metaphor",
       "source_frame": "surveillance",
       "target_frame": "network-security",
-      "categories": ["software-engineering-culture"],
+      "categories": ["software-engineering"],
       "source": "archive",
       "description": "Maps system logs to physical traces that investigators use to reconstruct past events and identify actors. Every action leaves an indelible mark; the investigator works backward from evidence to reconstruct the crime."
     },
@@ -142,7 +142,7 @@
       "kind": "metaphor",
       "source_frame": "governance",
       "target_frame": "access-control",
-      "categories": ["software-engineering-culture"],
+      "categories": ["software-engineering"],
       "source": "archive",
       "description": "Maps admin privileges to sovereign rule with arbitrary power to grant or revoke access at will. The root user is the feudal lord; delegated admins are vassals; regular users are serfs bound to the land (their authorized resources)."
     },
@@ -152,7 +152,7 @@
       "kind": "metaphor",
       "source_frame": "reproduction",
       "target_frame": "access-control",
-      "categories": ["software-engineering-culture"],
+      "categories": ["software-engineering"],
       "source": "archive",
       "description": "Maps permission passing to DNA transmission through hierarchical lineages with inherited traits. Child processes inherit parent permissions; some traits (privileges) are dominant, others recessive (disabled by default)."
     },
@@ -162,7 +162,7 @@
       "kind": "metaphor",
       "source_frame": "physical-security",
       "target_frame": "network-security",
-      "categories": ["software-engineering-culture"],
+      "categories": ["software-engineering"],
       "source": "archive",
       "description": "Maps unauthorized access to illegal entry into physical spaces with boundaries and penalties. Already deeply embedded in security language: firewalls, perimeter defense, intrusion detection, breach."
     },
