@@ -15,6 +15,7 @@ related: []
 created: '2026-03-20'
 updated: '2026-03-20'
 grounding: folk
+harness: Claude Code
 transfers:
   - '[source] a worthless seed object (the stone) reframes collective contribution as enhancement rather than charity, lowering the psychological cost of participation'
   - '[source] each contributor adds only what they already have in surplus, so no individual bears significant cost while the aggregate result exceeds what any could produce alone'
