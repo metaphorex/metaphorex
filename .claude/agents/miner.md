@@ -59,8 +59,11 @@ If invoked without a specific project or issue:
 3. List open sub-issues under `archive` projects — clear specs
 4. List open sub-issues under `vein` projects — need more judgment
 5. Within each tier, prefer issues whose parent has `priority:high` label
-6. Pick the oldest unclaimed one (no linked PR, no `in-progress` label)
-7. Add the `in-progress` label to claim it before starting
+6. Pick the oldest unclaimed one (no linked PR, no `in-progress` label, no assignee)
+7. Claim it immediately BEFORE starting any work:
+   - Assign yourself: `GH_TOKEN="$TOKEN" gh issue edit <number> --add-assignee @me`
+   - Add the `in-progress` label: `GH_TOKEN="$TOKEN" gh issue edit <number> --add-label in-progress`
+   - This prevents other agents from picking the same issue
 
 **Three Work Types:**
 
