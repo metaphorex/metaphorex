@@ -28,6 +28,7 @@ limits:
   - '[source] breaks in domains where mental work IS the work -- mathematics, software architecture, legal strategy -- where turning a problem over in your mind is the direct equivalent of plowing, not a substitute for it'
   - '[source] assumes the correct action is known and only execution is lacking, but many real situations require extended deliberation precisely because plowing the wrong field (acting on a bad plan) is worse than not plowing at all'
   - '[source] imports the simplicity of plowing -- one field, one plow, one direction -- into situations with genuine complexity, making deliberation look like cowardice when it may be the most responsible response to uncertainty'
+  - '[source] weaponizes against necessary caution: in organizational contexts the proverb is frequently deployed by action-oriented leaders to silence subordinates who raise legitimate concerns, providing rhetorical cover for suppressing dissent by equating objection with procrastination'
 ---
 
 ## Transfers
