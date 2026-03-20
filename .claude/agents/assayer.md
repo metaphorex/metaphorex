@@ -65,6 +65,8 @@ git -c user.name="m4x-reviewer" -c user.email="reviewer@metaphorex.org" commit .
 
 If the token is NOT set, use default auth (no prefix needed).
 
+**Comment signatures:** Append `— *m4x-reviewer*` to every GitHub comment and PR review you post.
+
 **Reading files from PR branches:**
 
 When you need to read a file from a PR branch via the GitHub API, pass the
