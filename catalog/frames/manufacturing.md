@@ -13,6 +13,8 @@ roles:
 - worker
 - quality-control
 - inventory
+- prototype
+- model
 slug: manufacturing
 updated: '2026-03-10'
 ---

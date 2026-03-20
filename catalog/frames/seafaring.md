@@ -13,6 +13,7 @@ roles:
 - anchor
 - cargo
 - port
+- harbor
 - captain
 - compass
 - lee
