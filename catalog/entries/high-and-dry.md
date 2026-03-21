@@ -32,6 +32,15 @@ transfers:
 limits:
   - '[source] misleads because a beached ship can refloat when the tide returns, but the idiomatic usage implies a more permanent abandonment with no cyclical rescue coming'
   - '[source] breaks when the person left "high and dry" actively contributed to their situation, since the nautical source frames the ship as entirely passive and the tide as the sole causal agent'
+embodied_patterns:
+  - blockage
+  - force
+  - near-far
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

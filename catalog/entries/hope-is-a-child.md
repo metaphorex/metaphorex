@@ -34,6 +34,15 @@ transfers:
 limits:
   - '[source] misleads by making hope seem fragile by default, when in practice hope can be remarkably stubborn and resistant to contrary evidence'
   - '[source] breaks because children grow into autonomous agents who eventually separate from their parents, but hope that becomes independent of the hoper is no longer hope -- it has become expectation or confidence'
+embodied_patterns:
+  - path
+  - accretion
+  - container
+relation_types:
+  - enable
+  - cause
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

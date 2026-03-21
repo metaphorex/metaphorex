@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because fluid is homogeneous and every drop is interchangeable, while work items differ in complexity, skill requirements, and failure modes -- forcing heterogeneous work into a single-piece stream can create more turbulence than batching would"
   - "[source] misleads because fluid flow is passive (gravity or pressure does the work), while continuous flow in knowledge work requires active coordination, constant communication, and deliberate handoff protocols that the metaphor makes invisible"
+embodied_patterns:
+  - flow
+  - blockage
+  - path
+relation_types:
+  - coordinate
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

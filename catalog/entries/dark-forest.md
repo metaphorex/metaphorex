@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because the dark forest assumes all unknown agents are potential predators, but real environments contain a distribution of cooperative, neutral, and hostile actors, and treating all unknowns as threats produces self-fulfilling hostility"
   - "[source] misleads because forests are ecosystems with symbiotic relationships, not arenas of pure predation -- the metaphor selects for the forest's danger while ignoring its ecological interdependence"
+embodied_patterns:
+  - container
+  - surface-depth
+  - boundary
+relation_types:
+  - prevent
+  - compete
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

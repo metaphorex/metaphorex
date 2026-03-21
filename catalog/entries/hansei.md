@@ -32,6 +32,15 @@ limits:
   - "[model] breaks in cultures where public admission of personal responsibility triggers punishment rather than learning, making the practice indistinguishable from forced confession"
   - "[model] assumes a stable relationship between the reflector and the organization; in high-turnover environments, the person who caused the problem may be gone before the reflection cycle completes"
 updated: '2026-03-18'
+embodied_patterns:
+  - iteration
+  - surface-depth
+  - matching
+relation_types:
+  - transform
+  - restore
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

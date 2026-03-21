@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because sleep architecture involves cycles (light, deep, REM) that do not map onto a single depth axis -- REM is neurologically active yet metaphorically "deep"'
   - '[source] misleads because altered states like meditation, flow, and hypnosis involve changes in consciousness that are neither up nor down on the vertical axis'
+embodied_patterns:
+  - scale
+  - surface-depth
+  - force
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

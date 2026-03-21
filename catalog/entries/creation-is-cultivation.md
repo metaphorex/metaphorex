@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because a seed contains the oak teleologically, but a poem does not exist in potential before the poet writes it, importing false inevitability'
   - '[source] misleads because "organic growth" carries positive valence, making it hard to criticize growth that may be cancerous or to recognize ideologies that "take root" as invasive species'
+embodied_patterns:
+  - path
+  - accretion
+  - self-organization
+relation_types:
+  - enable
+  - transform
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -25,6 +25,16 @@ transfers:
 limits:
   - '[source] breaks because physical transitions between zones are experienced sequentially (you must pass through the foyer to reach the hallway), while digital access controls can be bypassed entirely if a single credential grants access to the innermost zone'
   - '[source] misleads by implying that the gradient is spatial and continuous, when digital access is typically discrete (you either have the API key or you do not) with no meaningful intermediate states'
+embodied_patterns:
+  - boundary
+  - container
+  - center-periphery
+relation_types:
+  - contain
+  - prevent
+  - select
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

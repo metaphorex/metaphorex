@@ -25,6 +25,15 @@ limits:
   - "[source] misleads because the horn requires no management or stewardship -- it simply gives -- while real sources of abundance require maintenance, investment, and careful allocation"
   - "[source] obscures because the myth frames abundance as a gift (from a goat, from a god), importing passivity into situations that actually require active creation and distribution"
 updated: '2026-03-16'
+embodied_patterns:
+  - container
+  - flow
+  - scale
+relation_types:
+  - cause
+  - enable
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

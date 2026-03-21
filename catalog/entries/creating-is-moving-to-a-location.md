@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because there is no actual location where uncreated ideas reside, yet the spatial frame invites Platonic mysticism about a realm of forms'
   - '[source] misleads because arrival implies completeness (a package arrives whole), but creative work typically arrives in fragments requiring extensive shaping on site'
+embodied_patterns:
+  - path
+  - near-far
+  - container
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

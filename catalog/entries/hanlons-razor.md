@@ -30,6 +30,15 @@ transfers:
 limits:
   - "[law] breaks because malice does exist, and over-applying the razor in contexts with known adversarial dynamics (negotiation, litigation, authoritarian governance) produces dangerous naivete"
   - "[law] misleads because when the same 'mistake' benefits the same party repeatedly, the incompetence explanation becomes less credible -- the razor should have an expiration date where pattern warrants investigation beyond stupidity"
+embodied_patterns:
+  - removal
+  - matching
+  - surface-depth
+relation_types:
+  - select
+  - cause
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

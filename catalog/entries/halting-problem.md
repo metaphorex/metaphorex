@@ -35,6 +35,15 @@ transfers:
 limits:
   - '[paradigm] breaks when applied to specific, bounded instances -- most real programs can be analyzed for termination; the impossibility applies only to the general case over all possible inputs'
   - '[paradigm] misleads by suggesting that prediction difficulty means prediction impossibility -- most estimation problems are hard but not undecidable in the formal sense'
+embodied_patterns:
+  - boundary
+  - iteration
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

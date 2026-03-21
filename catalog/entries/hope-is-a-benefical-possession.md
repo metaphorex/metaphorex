@@ -36,6 +36,15 @@ transfers:
 limits:
   - '[source] misleads by treating hope as inert inventory that you either have or lack, missing the active, effortful quality of hoping -- hope in practice requires continuous regeneration, not just storage'
   - '[source] breaks because possession implies scarcity and rivalry (if I give you my hope, I have less), while hope can be shared without diminishing the original supply'
+embodied_patterns:
+  - container
+  - link
+  - force
+relation_types:
+  - enable
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

@@ -34,6 +34,15 @@ transfers:
 limits:
   - "[source] breaks because the Hydra's multiplication rule is perfectly predictable (cut one, get two), while real-world problem proliferation follows irregular, context-dependent dynamics where intervention sometimes works and sometimes backfires"
   - "[source] misleads because the metaphor frames the problem as a single organism with a unified will, obscuring situations where the 'heads' are independent actors with different motivations who happen to share a structural niche"
+embodied_patterns:
+  - splitting
+  - force
+  - accretion
+relation_types:
+  - cause
+  - prevent
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

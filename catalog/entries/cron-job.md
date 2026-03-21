@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because employment involves ongoing negotiation, compensation, and worker agency, whereas the mapped entity executes a fixed script with no capacity to refuse or renegotiate"
   - "[source] misleads because the 'job' framing implies a human-scale task with meaningful duration, when the mapped entity may execute in milliseconds"
+embodied_patterns:
+  - iteration
+  - path
+  - force
+relation_types:
+  - coordinate
+  - cause
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

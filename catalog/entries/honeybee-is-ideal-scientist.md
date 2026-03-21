@@ -34,6 +34,15 @@ structure:
   - pipeline
 abstraction_level: generic
 updated: '2026-03-17'
+embodied_patterns:
+  - part-whole
+  - path
+  - matching
+relation_types:
+  - select
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

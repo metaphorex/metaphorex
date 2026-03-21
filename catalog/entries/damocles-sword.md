@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because Damocles chose the seat voluntarily, but most modern applications describe involuntary exposure to structural threat'
   - '[source] misleads because the sword never falls in the original story -- the power of the image depends on permanent suspension, but users extend it to describe actual catastrophe'
+embodied_patterns:
+  - force
+  - balance
+  - near-far
+relation_types:
+  - prevent
+  - cause
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

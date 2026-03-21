@@ -37,6 +37,15 @@ transfers:
   - "[paradigm] the 'catchball' mechanism -- iterative negotiation between layers -- encodes the principle that alignment requires bidirectional communication, not top-down cascading"
   - "[paradigm] regular review cycles create feedback loops between execution and strategy, preventing the common failure where strategic plans become disconnected from operational reality"
 updated: '2026-03-18'
+embodied_patterns:
+  - path
+  - link
+  - part-whole
+relation_types:
+  - coordinate
+  - decompose
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

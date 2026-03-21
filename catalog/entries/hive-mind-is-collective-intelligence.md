@@ -35,6 +35,15 @@ structure:
   - emergence
 abstraction_level: generic
 updated: '2026-03-16'
+embodied_patterns:
+  - merging
+  - link
+  - self-organization
+relation_types:
+  - coordinate
+  - transform
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

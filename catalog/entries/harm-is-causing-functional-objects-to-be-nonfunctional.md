@@ -35,6 +35,15 @@ transfers:
 limits:
   - '[source] misleads by assuming a factory-specification state of proper function, pathologizing any deviation as damage rather than variation'
   - '[source] breaks because broken objects do not suffer or feel their breakage, stripping the experiential dimension from harm and reducing it to a mechanical problem'
+embodied_patterns:
+  - force
+  - removal
+  - part-whole
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

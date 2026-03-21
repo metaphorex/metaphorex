@@ -36,6 +36,15 @@ transfers:
 limits:
   - '[source] misleads by framing the helped person as a passive load rather than an active agent, importing the structural assumption that loads do not support themselves'
   - '[source] breaks for help that operates through challenge, opposition, or destabilization -- tough love, constructive criticism, and adversarial training all help by pushing down rather than holding up'
+embodied_patterns:
+  - force
+  - scale
+  - balance
+relation_types:
+  - enable
+  - prevent
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

@@ -37,6 +37,15 @@ transfers:
 limits:
   - '[source] misleads because chronic illness often involves horizontal fluctuation rather than vertical descent, and patients who will never "rise" are implicitly coded as permanently low'
   - '[source] breaks when health metrics going up is pathological (high blood pressure, elevated temperature, rising tumor markers), directly contradicting the UP IS GOOD default'
+embodied_patterns:
+  - scale
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

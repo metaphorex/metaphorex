@@ -38,6 +38,15 @@ transfers:
 limits:
   - '[source] misleads by reducing intellectual change to arbitrary social cycling, obscuring the genuine epistemic progress that sometimes drives the adoption and abandonment of ideas'
   - '[source] breaks because fashion explicitly values novelty over quality, while intellectual traditions often demonstrate the opposite -- enduring ideas gain authority precisely because they resist the trend cycle'
+embodied_patterns:
+  - flow
+  - iteration
+  - scale
+relation_types:
+  - select
+  - accumulate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

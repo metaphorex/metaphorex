@@ -18,6 +18,15 @@ transfers:
 limits:
   - "[model] breaks because nuclear critical mass is a precise physical constant while social 'critical mass' is fuzzy, context-dependent, and usually identifiable only in retrospect, importing false precision into social phenomena"
   - "[model] misleads because the binary framing (critical or sub-critical) devalues sustainable linear growth by implicitly comparing everything to exponential growth -- a niche product with loyal users is not a failure just because it has not tipped"
+embodied_patterns:
+  - scale
+  - boundary
+  - force
+relation_types:
+  - cause
+  - enable
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

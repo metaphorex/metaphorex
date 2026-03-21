@@ -36,6 +36,15 @@ transfers:
 - '[source] imports the architectural insight that the boundary between public and private need not be a wall or nothing; partial barriers (half-walls, glass, alcoves) create graduated privacy that binary access controls cannot'
 - '[source] encodes the observation that the half-private space signals availability through its physical form -- an open door, a visible desk, a turned back -- mapping onto systems that communicate their access state through design rather than documentation'
 updated: '2026-03-21'
+embodied_patterns:
+  - boundary
+  - container
+  - center-periphery
+relation_types:
+  - contain
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

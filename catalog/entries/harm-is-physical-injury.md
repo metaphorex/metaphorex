@@ -37,6 +37,15 @@ transfers:
 limits:
   - '[source] misleads by expecting a punctual injuring event, making cumulative and gradual harms (systemic discrimination, institutional neglect) harder to name because there is no single wound to point to'
   - '[source] breaks because the healing arc implies restoration to a prior state, creating false optimism about harms that produce permanent irreversible changes where no ''healing'' is possible'
+embodied_patterns:
+  - force
+  - path
+  - removal
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

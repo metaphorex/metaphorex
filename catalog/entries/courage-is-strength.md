@@ -26,6 +26,15 @@ transfers:
 - "[source] strength is built through repeated exertion against resistance"
 - "[source] a strong structure holds firm under pressure while a weak one buckles and breaks"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - balance
+  - scale
+relation_types:
+  - enable
+  - prevent
+structure: competition
+abstraction_level: primitive
 ---
 
 ## Transfers

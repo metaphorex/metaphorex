@@ -28,6 +28,15 @@ limits:
   - "[source] breaks because paths are continuous and incremental, but many real decisions are discrete and irreversible jumps"
   - "[source] misleads because forks typically offer two or three branches, collapsing the often-unlimited option space of real decisions"
   - "[source] obscures that paths pre-exist the traveler, while decision options are frequently created by the decider"
+embodied_patterns:
+  - path
+  - splitting
+  - near-far
+relation_types:
+  - select
+  - cause
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

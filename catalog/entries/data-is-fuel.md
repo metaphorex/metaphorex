@@ -24,6 +24,16 @@ transfers:
 limits:
   - '[source] breaks because data is not consumed -- it persists after use, can be copied infinitely at near-zero cost, and does not deplete with training'
   - '[source] misleads because data is produced by human creative labor, not formed by geological processes, but the "natural resource" frame obscures the workers who generate it'
+embodied_patterns:
+  - flow
+  - part-whole
+  - container
+relation_types:
+  - cause
+  - transform
+  - enable
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

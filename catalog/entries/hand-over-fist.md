@@ -32,6 +32,15 @@ transfers:
 limits:
   - '[source] misleads because rope-hauling moves a finite length of existing rope, while the economic usage implies unbounded generation of new wealth from nothing'
   - '[source] breaks when the phrase borrows the legitimacy of strenuous physical labor to describe accumulation that may involve no effort at all, obscuring the distinction between earned and unearned income'
+embodied_patterns:
+  - iteration
+  - path
+  - scale
+relation_types:
+  - accumulate
+  - cause
+structure: growth
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because manufacturing requires knowing the product in advance (the mold precedes the casting), while important creative work discovers its form during the process'
   - '[source] misleads because the material in manufacturing is inert, hiding the reciprocal dialogue between creator and medium where language pushes back against the poet'
+embodied_patterns:
+  - force
+  - part-whole
+  - matching
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

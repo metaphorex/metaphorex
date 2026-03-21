@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because hunger has a biological endpoint (fullness) but many desires like status and wealth have no satiation mechanism -- fulfillment generates new desire'
   - '[source] misleads because hunger is universal and involuntary while most desires beyond basic needs are culturally constructed, but the metaphor naturalizes socially shaped wants as biological drives'
+embodied_patterns:
+  - force
+  - container
+  - scale
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: primitive
 ---
 
 ## Transfers

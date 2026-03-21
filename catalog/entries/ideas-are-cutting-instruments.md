@@ -37,6 +37,15 @@ transfers:
 limits:
   - '[source] misleads by valorizing separation and division as the primary intellectual virtue, obscuring synthetic and integrative thinking that brings things together rather than cutting them apart'
   - '[source] breaks when ideas need to be approximate, exploratory, or deliberately ambiguous, since cutting instruments reward precision and the metaphor has no vocabulary for productive vagueness'
+embodied_patterns:
+  - force
+  - splitting
+  - matching
+relation_types:
+  - transform
+  - decompose
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

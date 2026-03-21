@@ -24,6 +24,16 @@ limits:
   - "[paradigm] breaks because not all destruction is creative -- asset-stripping destroys without producing successors, but the paradigm blesses both with the same vocabulary"
   - "[paradigm] misleads because the biological analogy implies a natural process, but market destruction is driven by people with interests, power, and political connections"
   - "[paradigm] obscures that ecological succession happens over decades allowing adaptation, but market disruption can happen in months, faster than communities can adjust"
+embodied_patterns:
+  - splitting
+  - removal
+  - force
+relation_types:
+  - transform
+  - select
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

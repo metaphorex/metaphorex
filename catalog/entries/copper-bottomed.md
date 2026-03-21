@@ -19,6 +19,15 @@ transfers:
 - '[source] the expense of coppering signaled that the ship was worth protecting, carrying the implication that the cost of the guarantee is itself evidence of commitment'
 - '[source] the copper was below the waterline and invisible during normal operation, mapping hidden-but-essential protection onto guarantees that guard against risks people forget until disaster strikes'
 updated: '2026-03-14'
+embodied_patterns:
+  - surface-depth
+  - boundary
+  - force
+relation_types:
+  - prevent
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

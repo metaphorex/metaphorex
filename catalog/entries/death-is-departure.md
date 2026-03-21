@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because there is no traveler -- death is cessation, not relocation, but the departure metaphor preserves the person as an entity that has merely changed address'
   - '[source] misleads because if death is departure then reunion is possible ("I''ll see you on the other side"), generating false hope that is a structural entailment of the journey frame'
+embodied_patterns:
+  - path
+  - near-far
+  - splitting
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

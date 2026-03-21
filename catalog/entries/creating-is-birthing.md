@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because birthing centers on a single mother-child relationship, making collaborative creation by hundreds of people structurally invisible'
   - '[source] misleads because gestation implies passive organic development, licensing procrastination disguised as biological inevitability ("I''m incubating the idea")'
+embodied_patterns:
+  - container
+  - path
+  - splitting
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers
