@@ -15,6 +15,16 @@ related:
 slug: argument-is-dance
 source_frame: dance
 updated: '2026-03-09'
+embodied_patterns:
+  - matching
+  - balance
+  - flow
+relation_types:
+  - coordinate
+  - transform
+  - enable
+structure: equilibrium
+abstraction_level: generic
 transfers:
   - '[source] dance requires partners to coordinate their movements in real time, framing argument as mutual responsiveness rather than unilateral attack'
   - '[source] the quality of a dance depends on both participants and cannot be achieved solo, importing the insight that argument quality is a joint production, not an individual achievement'

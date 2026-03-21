@@ -18,6 +18,15 @@ related:
 slug: bad-is-stinky
 source_frame: embodied-experience
 updated: '2026-03-13'
+embodied_patterns:
+  - near-far
+  - boundary
+  - container
+relation_types:
+  - cause
+  - prevent
+structure: boundary
+abstraction_level: primitive
 transfers:
   - '[source] stench triggers involuntary disgust and physical recoil before conscious evaluation, framing moral judgment as a visceral pre-cognitive response rather than a deliberated conclusion'
   - '[source] smell operates at a distance and permeates a space, importing the structure where moral contamination spreads beyond the immediate source and affects bystanders'

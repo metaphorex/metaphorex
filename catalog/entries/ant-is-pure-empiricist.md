@@ -13,6 +13,16 @@ related: []
 slug: ant-is-pure-empiricist
 source_frame: animal-behavior
 updated: '2026-03-13'
+embodied_patterns:
+  - accretion
+  - iteration
+  - part-whole
+relation_types:
+  - accumulate
+  - decompose
+  - select
+structure: growth
+abstraction_level: generic
 transfers:
   - "[source] the ant collects indiscriminately, carrying back everything encountered without a framework to distinguish signal from noise"
   - "[source] individual ants follow chemical trails and simple rules, producing collective output without any individual comprehending the whole"

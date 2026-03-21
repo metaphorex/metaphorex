@@ -6,6 +6,16 @@ categories:
 contributors: []
 created: '2026-03-21'
 grounding: folk
+embodied_patterns:
+  - removal
+  - iteration
+  - scale
+relation_types:
+  - transform
+  - select
+  - cause
+structure: pipeline
+abstraction_level: generic
 harness: Claude Code
 kind: mental-model
 limits:

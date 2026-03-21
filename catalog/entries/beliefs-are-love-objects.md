@@ -20,6 +20,16 @@ related:
 slug: beliefs-are-love-objects
 source_frame: love-and-relationships
 updated: '2026-03-17'
+embodied_patterns:
+  - attraction
+  - link
+  - force
+relation_types:
+  - cause
+  - contain
+  - prevent
+structure: network
+abstraction_level: generic
 transfers:
   - "[source] love objects inspire devotion that resists rational cost-benefit analysis"
   - "[source] the beloved is idealized, with flaws minimized or rendered invisible"

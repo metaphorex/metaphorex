@@ -14,6 +14,16 @@ related:
 slug: bayesian-updating
 source_frame: probability
 updated: '2026-03-13'
+embodied_patterns:
+  - balance
+  - scale
+  - iteration
+relation_types:
+  - transform
+  - accumulate
+  - select
+structure: cycle
+abstraction_level: generic
 transfers:
   - "[model] revises probability estimates proportionally to the strength of new evidence rather than replacing them wholesale"
   - "[model] forces consideration of base rates before evaluating the significance of specific observations"

@@ -9,6 +9,15 @@ categories:
 contributors: []
 created: '2026-03-16'
 grounding: established
+embodied_patterns:
+  - scale
+  - path
+  - surface-depth
+relation_types:
+  - transform
+  - cause
+structure: cycle
+abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Beauty Is a Flower

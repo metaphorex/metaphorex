@@ -16,6 +16,15 @@ related:
 slug: big-ball-of-mud
 source_frame: embodied-experience
 updated: '2026-03-14'
+embodied_patterns:
+  - accretion
+  - merging
+  - container
+relation_types:
+  - accumulate
+  - cause
+structure: growth
+abstraction_level: generic
 transfers:
   - '[source] mud is structureless, undifferentiated, and takes whatever shape its container imposes, framing the codebase as lacking internal boundaries or organizing principles'
   - '[source] a ball of mud accumulates incrementally as material sticks to its surface, importing the growth pattern where expedient additions accrete without deliberate architecture'

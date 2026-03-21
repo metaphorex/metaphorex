@@ -10,6 +10,16 @@ contributors: []
 created: '2026-03-17'
 dead: true
 grounding: folk
+embodied_patterns:
+  - near-far
+  - link
+  - flow
+relation_types:
+  - translate
+  - coordinate
+  - enable
+structure: network
+abstraction_level: specific
 harness: Claude Code
 kind: metaphor
 limits:

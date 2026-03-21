@@ -18,6 +18,16 @@ provenance: bannard-aphorisms
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
+embodied_patterns:
+  - force
+  - iteration
+  - removal
+relation_types:
+  - transform
+  - compete
+  - cause
+structure: transformation
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - '[source] a battle is decided by sustained engagement under conditions of uncertainty, not by a single decisive stroke, importing the structure where creative work requires prolonged confrontation with resistant material rather than a flash of inspiration'

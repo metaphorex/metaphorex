@@ -7,6 +7,16 @@ categories:
 contributors: []
 created: '2026-03-13'
 dead: true
+embodied_patterns:
+  - removal
+  - boundary
+  - container
+relation_types:
+  - cause
+  - prevent
+  - transform
+structure: boundary
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Bankrupt

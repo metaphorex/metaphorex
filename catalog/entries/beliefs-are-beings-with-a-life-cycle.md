@@ -18,6 +18,16 @@ related:
 slug: beliefs-are-beings-with-a-life-cycle
 source_frame: life-course
 updated: '2026-03-12'
+embodied_patterns:
+  - path
+  - scale
+  - self-organization
+relation_types:
+  - transform
+  - cause
+  - accumulate
+structure: cycle
+abstraction_level: generic
 transfers:
   - '[source] beings are born, grow, reproduce, and die through a determinate life cycle, framing beliefs as entities that emerge, develop, spread to new hosts, and eventually expire'
   - '[source] beings reproduce by transmitting their essential pattern to offspring, importing the structure where beliefs propagate by being communicated and adopted by new minds'

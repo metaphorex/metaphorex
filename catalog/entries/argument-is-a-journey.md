@@ -20,6 +20,16 @@ related:
 slug: argument-is-a-journey
 source_frame: journeys
 updated: '2026-03-14'
+embodied_patterns:
+  - path
+  - near-far
+  - link
+relation_types:
+  - enable
+  - coordinate
+  - transform
+structure: pipeline
+abstraction_level: generic
 transfers:
   - '[source] a journey proceeds step by step from a starting point toward a destination, framing argument as a sequential process where each step follows from and depends on the previous one'
   - '[source] travelers can take wrong turns, reach dead ends, and retrace their steps, importing the structure where arguments can go astray and require backtracking to recover'

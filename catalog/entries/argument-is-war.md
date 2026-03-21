@@ -14,6 +14,16 @@ related:
 slug: argument-is-war
 source_frame: war
 updated: '2026-03-09'
+embodied_patterns:
+  - force
+  - boundary
+  - near-far
+relation_types:
+  - compete
+  - prevent
+  - cause
+structure: competition
+abstraction_level: generic
 transfers:
   - "[source] the objective is to destroy the adversary's capacity to continue, not merely to prevail in the current engagement"
   - "[source] participants occupy and defend territorial positions"

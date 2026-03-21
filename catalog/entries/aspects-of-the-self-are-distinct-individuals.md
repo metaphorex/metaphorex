@@ -10,6 +10,16 @@ contributors:
 - fshot
 created: '2026-03-17'
 grounding: established
+embodied_patterns:
+  - splitting
+  - part-whole
+  - force
+relation_types:
+  - compete
+  - contain
+  - coordinate
+structure: competition
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Aspects Of The Self Are Distinct Individuals

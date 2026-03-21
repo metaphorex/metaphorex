@@ -15,6 +15,16 @@ related:
 slug: baklava-code
 source_frame: food-and-cooking
 updated: '2026-03-14'
+embodied_patterns:
+  - superimposition
+  - part-whole
+  - surface-depth
+relation_types:
+  - decompose
+  - contain
+  - prevent
+structure: hierarchy
+abstraction_level: specific
 transfers:
   - '[source] baklava consists of many thin layers of phyllo dough stacked atop one another, framing over-layered software as having excessive thin abstraction levels that each add minimal value'
   - '[source] each phyllo layer is fragile and transparent individually but the stack becomes rigid and difficult to modify, importing the paradox where individually reasonable abstractions collectively create brittleness'

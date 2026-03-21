@@ -17,6 +17,16 @@ related:
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
+embodied_patterns:
+  - iteration
+  - path
+  - self-organization
+relation_types:
+  - transform
+  - select
+  - cause
+structure: emergence
+abstraction_level: generic
 harness: Claude Code
 provenance: bannard-aphorisms
 transfers:

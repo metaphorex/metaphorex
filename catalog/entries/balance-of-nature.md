@@ -15,6 +15,16 @@ limits:
   - '[paradigm] most ecosystems are non-equilibrium systems driven by disturbance, succession, and stochastic events, making the "balance" framing empirically wrong as a description of how nature actually works'
   - '[paradigm] the paradigm implies that human intervention is inherently destabilizing, which can paradoxically prevent beneficial management actions like controlled burns that ecosystems require because natural fire regimes have been suppressed'
   - '[paradigm] frames ecological change as pathological deviation from a norm, making it unable to account for the fact that ecosystems are always in flux and that no historical baseline represents a "correct" state'
+embodied_patterns:
+  - balance
+  - self-organization
+  - part-whole
+relation_types:
+  - restore
+  - contain
+  - coordinate
+structure: equilibrium
+abstraction_level: generic
 name: Balance of Nature
 related:
 - adaptive-cycle

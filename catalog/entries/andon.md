@@ -17,6 +17,16 @@ related:
 created: '2026-03-18'
 updated: '2026-03-18'
 grounding: established
+embodied_patterns:
+  - blockage
+  - flow
+  - link
+relation_types:
+  - prevent
+  - enable
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - "[paradigm] distributes quality authority to the lowest-level operator, making the person closest to the defect the one empowered to stop the entire line rather than routing the signal through management hierarchy"

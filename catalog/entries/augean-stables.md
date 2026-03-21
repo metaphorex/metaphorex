@@ -8,6 +8,16 @@ categories:
 contributors: []
 created: '2026-03-14'
 dead: true
+embodied_patterns:
+  - accretion
+  - container
+  - flow
+relation_types:
+  - accumulate
+  - restore
+  - transform
+structure: transformation
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Augean Stables

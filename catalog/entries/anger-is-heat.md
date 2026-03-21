@@ -10,6 +10,16 @@ contributors:
 - fshot
 created: '2026-03-17'
 grounding: proven
+embodied_patterns:
+  - container
+  - force
+  - scale
+relation_types:
+  - cause
+  - transform
+  - contain
+structure: boundary
+abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Anger Is Heat

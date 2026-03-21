@@ -21,6 +21,16 @@ related:
 slug: beliefs-are-locations
 source_frame: journeys
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - near-far
+  - path
+relation_types:
+  - contain
+  - transform
+  - enable
+structure: network
+abstraction_level: primitive
 transfers:
   - "[source] a location is a fixed point in space that can be occupied, departed from, or returned to"
   - "[source] two travelers at the same location share a vantage point and see the same landscape"

@@ -17,6 +17,16 @@ provenance: firefighting-maxims
 created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
+embodied_patterns:
+  - boundary
+  - link
+  - force
+relation_types:
+  - enable
+  - prevent
+  - restore
+structure: boundary
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[source] the anchor point is a barrier -- a road, a river, a rock face -- from which fireline construction begins, guaranteeing the fire cannot outflank the crew from that direction'

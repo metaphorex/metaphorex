@@ -9,6 +9,16 @@ categories:
 contributors: []
 created: '2026-03-20'
 grounding: established
+embodied_patterns:
+  - container
+  - matching
+  - balance
+relation_types:
+  - transform
+  - contain
+  - accumulate
+structure: equilibrium
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Assimilation and Accommodation

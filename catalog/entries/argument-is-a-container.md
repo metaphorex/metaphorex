@@ -20,6 +20,15 @@ related:
 slug: argument-is-a-container
 source_frame: containers
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - boundary
+  - part-whole
+relation_types:
+  - contain
+  - decompose
+structure: boundary
+abstraction_level: primitive
 transfers:
   - '[source] a container has an inside and an outside with a boundary between them, framing arguments as having content that is either included in or excluded from the argument''s scope'
   - '[source] containers can be full, empty, or partially filled, importing the assessment that arguments have varying amounts of substance or content'
