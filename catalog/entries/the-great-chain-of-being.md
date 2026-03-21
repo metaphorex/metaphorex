@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because evolution replaced the static hierarchy with a branching tree where species are differently adapted rather than ranked, yet the folk model persists because its cognitive usefulness is independent of its truth"
   - "[source] misleads because the chain has no room for emergence or hybridity -- artificial intelligence, language-using apes, and genetically modified organisms resist categorical placement on a linear scale"
+embodied_patterns:
+  - scale
+  - center-periphery
+  - link
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

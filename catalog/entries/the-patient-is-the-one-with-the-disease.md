@@ -26,6 +26,15 @@ limits:
   - '[source] The clear physician-patient boundary the aphorism assumes is a product of Western clinical medicine''s specific institutional structure -- in contexts where the helper is embedded in the same community as the helped (village healers, peer counselors, community organizers), the boundary is neither achievable nor necessarily desirable'
   - '[source] The aphorism frames emotional distance as the default failure mode to correct, but in many professional helping contexts the opposite failure is more common and more harmful: excessive detachment that treats the person as a case, not a human, and produces technically competent but emotionally negligent care'
 updated: '2026-03-20'
+embodied_patterns:
+  - boundary
+  - matching
+  - balance
+relation_types:
+  - prevent
+  - select
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

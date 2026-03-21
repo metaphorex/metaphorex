@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because physical composites obey gravity and material strength -- you cannot put a skyscraper inside a shed -- while software composites permit structurally absurd configurations including circular references"
   - "[source] misleads because the uniform interface promise hides that a leaf node has no meaningful add/remove method, and forcing leaves and composites into the same interface violates substitutability in ways that architecture does not"
+embodied_patterns:
+  - part-whole
+  - matching
+  - scale
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

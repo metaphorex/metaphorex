@@ -26,6 +26,15 @@ transfers:
   - "[source] imports the film's central mechanism where the simulated world exists to extract value from its inhabitants (humans as batteries) onto critiques of systems that generate engagement, compliance, or labor by maintaining an appealing illusion"
   - "[source] carries the Platonic structure of a hidden true reality accessible only to those who choose to see it, mapping onto whistleblower narratives, paradigm shifts, and counter-hegemonic critique where the claim is that consensus reality is constructed"
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - surface-depth
+  - boundary
+relation_types:
+  - contain
+  - transform
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

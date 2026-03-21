@@ -26,6 +26,15 @@ limits:
   - '[model] conflates two distinct effects -- surveillance (workers perform better when watched) and expertise (owners notice what others miss) -- which have different ethical implications and different failure modes'
   - '[model] assumes the master''s judgment is uniformly beneficial, like fertilizer, but a master with poor judgment or misaligned incentives can do more damage through close attention than through neglect, and the model has no resources for toxic fertilizer'
   - '[model] romanticizes the owner-operator structure by treating absentee ownership as the primary failure mode, when the historical agricultural revolutions that most increased yields were driven by professional management of large estates, not by yeoman farmers walking their own fields'
+embodied_patterns:
+  - near-far
+  - force
+  - matching
+relation_types:
+  - enable
+  - cause
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

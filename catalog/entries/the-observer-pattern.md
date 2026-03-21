@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because in surveillance the target is typically unaware, while the software subject actively maintains an observer list and calls their update methods -- the 'watched' controls the process"
   - "[source] misleads because observers in the real world watch continuously, while software observers are dormant until a notification arrives -- the pattern is event-driven passivity, not constant vigilance"
+embodied_patterns:
+  - link
+  - matching
+  - flow
+relation_types:
+  - coordinate
+  - translate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

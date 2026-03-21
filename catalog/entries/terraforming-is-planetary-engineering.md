@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because fictional terraforming achieves stable self-sustaining ecosystems, while real large-scale environmental engineering (dams, irrigation, geoengineering) consistently produces unintended cascading effects that require permanent maintenance"
   - "[source] misleads because terraforming frames environmental transformation as a blank-slate engineering problem, obscuring that real environments are occupied systems with existing dynamics that resist wholesale replacement"
+embodied_patterns:
+  - container
+  - force
+  - accretion
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

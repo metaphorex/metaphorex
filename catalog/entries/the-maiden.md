@@ -25,6 +25,15 @@ transfers:
   - "[source] imports the Persephone narrative structure where first contact with a hostile domain is irreversible and identity-transforming, not merely informative"
   - "[source] carries the structural pairing with the Mother as complementary poles, framing innocence and experience as aspects of a single developmental system rather than separate character types"
 updated: '2026-03-17'
+embodied_patterns:
+  - path
+  - boundary
+  - container
+relation_types:
+  - transform
+  - enable
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ limits:
   - '[model] breaks because viticultural terroir is grounded in measurable physical variables (soil composition, microclimate, drainage, altitude) whose effects on grape chemistry are increasingly well understood, while most "terroir" claims in creative or organizational domains invoke unmeasurable atmospheric qualities ("the culture," "the energy," "the scene") that resist falsification'
   - '[model] misleads by importing geographic determinism -- the assumption that place determines output -- which underweights the role of individual skill, deliberate technique, and portable knowledge, all of which travel across contexts and often dominate the environmental signal'
   - '[model] can function as a status-preserving mystification that makes incumbent advantage appear natural and unchallengeable ("you can''t replicate what we have here"), when in practice most "terroir effects" in non-agricultural domains are the result of network effects, institutional investment, and path dependence that are contingent rather than necessary'
+embodied_patterns:
+  - container
+  - accretion
+  - matching
+relation_types:
+  - cause
+  - enable
+structure: emergence
+abstraction_level: specific
 ---
 
 ## Transfers

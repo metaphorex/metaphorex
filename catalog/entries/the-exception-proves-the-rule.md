@@ -28,6 +28,15 @@ limits:
   - "[source] misleads because the folk version is a thought-terminating cliche that treats every counterexample as confirmation, making the generalization unfalsifiable and immunizing it against evidence"
   - "[source] fails because the legal sense requires a formally stated exception from an authority, while the folk sense applies the maxim to informal generalizations where no authority has granted an exception"
   - "[source] cannot handle statistical claims -- the maxim's logic of stated exceptions implying unstated rules works for categorical rules but not probabilistic ones, where outliers are expected rather than exceptional"
+embodied_patterns:
+  - boundary
+  - matching
+  - container
+relation_types:
+  - enable
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because architectural decoration is cosmetic while software decoration changes what the object does -- adding validation, encryption, or caching is not ornamentation but functional transformation"
   - "[source] misleads because decorator order does not matter in interior design (curtains before or after painting), but software decorator order is often critical to behavior"
+embodied_patterns:
+  - superimposition
+  - container
+  - matching
+relation_types:
+  - transform
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

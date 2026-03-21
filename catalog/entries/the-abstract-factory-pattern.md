@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because every real factory has a physical address and a loading dock -- 'abstract' has no manufacturing analogue, grafting a programming concept onto an industrial metaphor"
   - "[source] misleads because conglomerates acquire subsidiaries and enter new product categories organically over time, while the Abstract Factory interface is frozen at compile time and requires coordinated all-at-once change"
+embodied_patterns:
+  - container
+  - matching
+  - splitting
+relation_types:
+  - coordinate
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

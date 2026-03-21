@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because the archetype is explicitly gendered, importing assumptions about nurturing authority being female, when the structural insight (nurturing creates dependency) does not require a gendered frame"
   - "[source] misleads because calling a constraining platform 'the Great Mother' dignifies vendor lock-in with mythological weight, making what is a business strategy feel natural or sacred rather than designed"
+embodied_patterns:
+  - container
+  - accretion
+  - balance
+relation_types:
+  - enable
+  - transform
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

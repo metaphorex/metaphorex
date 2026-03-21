@@ -25,6 +25,15 @@ transfers:
 - '[source] the work-in-progress functions as a second interlocutor whose "proposals" are the emergent properties of accumulated decisions, structuring the creative process as a dialogue between the maker''s plan and the object''s emergent logic'
 - '[source] carries the temporal structure of progressive displacement: the artist''s original idea governs early marks but loses authority as the painting''s own visual logic becomes more articulated, so that late-stage decisions are dictated more by what is already on the canvas than by what was originally intended'
 updated: '2026-03-21'
+embodied_patterns:
+  - force
+  - matching
+  - container
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

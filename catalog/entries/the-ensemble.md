@@ -21,6 +21,15 @@ transfers:
 - '[model] distinguishes between a group of skilled individuals and a cohesive ensemble, identifying the gap as relational -- the ensemble''s value is in the connections between members, not in the members themselves'
 - '[model] imports the theatrical principle that the ensemble creates possibilities no individual could produce alone (timing, counterpoint, surprise), framing collective creativity as categorically different from parallel individual work'
 updated: '2026-03-19'
+embodied_patterns:
+  - link
+  - balance
+  - part-whole
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -19,6 +19,15 @@ transfers:
 limits:
   - "[model] what counts as trivial depends on who is defining it — the powerful dismiss harms they do not experience"
   - "[model] small violations that individually fall below threshold can accumulate into systemic harm that no single instance triggers a response to"
+embodied_patterns:
+  - scale
+  - boundary
+  - removal
+relation_types:
+  - select
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

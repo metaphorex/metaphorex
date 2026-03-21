@@ -27,6 +27,15 @@ limits:
   - "[source] breaks because the model assumes complements come in binary pairs, but real systems have multiple undeveloped capacities simultaneously"
   - "[source] misleads because it romanticizes the unconscious complement as richer than the developed capacity, when undeveloped skills are frequently just poor"
   - "[source] imports gender essentialism as a load-bearing assumption, making the structural insight inseparable from its gendered framing"
+embodied_patterns:
+  - splitting
+  - balance
+  - merging
+relation_types:
+  - transform
+  - coordinate
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

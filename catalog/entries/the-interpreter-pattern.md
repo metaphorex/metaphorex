@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because the pattern typically evaluates expressions in a single DSL rather than translating between two languages -- it computes '3 + 4 * 5 = 23' rather than bridging French to English"
   - "[source] misleads because human interpreters handle ambiguity through judgment and world knowledge, while the pattern requires a fully specified unambiguous grammar and produces parse errors on novel inputs"
+embodied_patterns:
+  - matching
+  - path
+  - part-whole
+relation_types:
+  - translate
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

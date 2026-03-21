@@ -26,6 +26,15 @@ transfers:
 limits:
   - "[source] breaks because the mask metaphor implies deception and a 'real' self hidden behind it, while in software the API is the contract and there is nothing more real behind it that the consumer should access"
   - "[source] misleads because Jung's binary (persona vs. inner self) collapses multiple interfaces into one mask, while real systems present different faces to different audiences as competent context-switching, not pathology"
+embodied_patterns:
+  - boundary
+  - surface-depth
+  - matching
+relation_types:
+  - contain
+  - translate
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ limits:
 - "[source] breaks because the hero narrative centers a single protagonist, but most real achievements are collective -- the myth structurally erases the team, the infrastructure, and the inherited advantages that make individual action possible"
 - "[source] misleads because the hero always returns, but real threshold-crossings frequently end in failure without narrative redemption -- the myth's survivorship bias makes risk look more manageable than it is"
 updated: '2026-03-17'
+embodied_patterns:
+  - path
+  - force
+  - boundary
+relation_types:
+  - transform
+  - compete
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

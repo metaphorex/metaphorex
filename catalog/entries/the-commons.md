@@ -22,6 +22,15 @@ limits:
   - "[source] breaks because grazing depletes the pasture, but information commons are non-rivalrous -- reading an article does not degrade it"
   - "[source] misleads because Ostrom's governance principles require members who know each other and can impose social sanctions, which fails at global scale with anonymous participants"
   - "[source] obscures that framing something as a commons preselects collective governance as the solution before analysis begins"
+embodied_patterns:
+  - container
+  - balance
+  - flow
+relation_types:
+  - compete
+  - accumulate
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

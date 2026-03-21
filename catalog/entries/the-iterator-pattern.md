@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because travelers are embodied agents with fatigue and needs, while iterators are abstract position variables with a next() method -- the journey metaphor imports physicality that does not exist'
   - '[source] misleads because travelers have agency and decide when to move, while iterators are controlled externally by client code -- the metaphor anthropomorphizes a passive data structure'
+embodied_patterns:
+  - path
+  - iteration
+  - container
+relation_types:
+  - coordinate
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

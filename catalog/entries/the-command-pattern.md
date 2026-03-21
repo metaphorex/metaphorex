@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because military commands target thinking agents who interpret, improvise, and report back, while a software Command invokes a method that does exactly what it is told"
   - "[source] misleads because disobeying a military order has real ramifications (court martial, death), importing gravitas into what is often a simple method invocation with no consequence model"
+embodied_patterns:
+  - container
+  - link
+  - matching
+relation_types:
+  - coordinate
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

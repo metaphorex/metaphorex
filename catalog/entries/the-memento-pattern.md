@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because real mementos do not actually restore the past (looking at a wedding photo does not make you newly married), while software mementos genuinely restore previous state -- the metaphor undersells the pattern's power"
   - "[source] misleads because keepsakes suggest lightness and portability (a drawer of trinkets), while software mementos of complex objects can contain megabytes of serialized state with serious memory costs"
+embodied_patterns:
+  - container
+  - matching
+  - iteration
+relation_types:
+  - restore
+  - contain
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

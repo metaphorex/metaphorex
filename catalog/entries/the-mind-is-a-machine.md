@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because machines are deterministic (same inputs, same outputs), but minds are not -- the metaphor diagnoses inconsistency as malfunction rather than creativity, adaptation, or growth'
   - '[source] misleads because if the mind is a machine it has a factory specification, making neurodiversity look like manufacturing defects rather than natural variation -- deviation from the spec is always breakdown, never difference'
+embodied_patterns:
+  - part-whole
+  - force
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers
