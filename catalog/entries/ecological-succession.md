@@ -1,7 +1,6 @@
 ---
 applies_to:
 - organizational-behavior
-- software-engineering
 author: agent:metaphorex-miner
 categories:
 - biology-and-ecology
