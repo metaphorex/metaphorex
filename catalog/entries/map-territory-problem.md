@@ -25,6 +25,15 @@ transfers:
 - '[source] imports the spatial intuition that a map must be smaller than its territory to be portable, framing compression as a feature rather than a defect -- every useful model must discard information, and the question is which information'
 - '[source] carries the image of cartographers laboring to extend the map until it obscures the empire it was meant to serve, mapping onto the organizational pattern where documentation, metrics, or process frameworks grow until they consume the capacity they were meant to measure'
 updated: '2026-03-19'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

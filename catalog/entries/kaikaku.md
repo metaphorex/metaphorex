@@ -22,6 +22,15 @@ limits:
   - "[model] breaks because it provides no reliable signal for when to switch from kaizen to kaikaku -- the boundary between 'needs more refinement' and 'needs radical redesign' is indeterminate, and both camps can always produce arguments for their position"
   - "[model] romanticizes discontinuous change by giving it a name, potentially encouraging premature abandonment of incremental improvement by leaders who prefer dramatic action to patient compounding"
 updated: '2026-03-18'
+embodied_patterns:
+  - flow
+  - matching
+  - iteration
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

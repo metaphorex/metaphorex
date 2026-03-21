@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] magic spells can be broken by a counter-spell or specific action (kiss, true name), but real romantic attachment has no reliable method of deliberate dissolution'
   - '[source] magic implies a single moment of enchantment that causes the entire effect, obscuring that love develops through accumulated interaction rather than a discrete casting event'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

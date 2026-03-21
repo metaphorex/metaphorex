@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] stories are composed after the fact with the ending known, imposing retrospective coherence that was not available to the protagonist living forward in time'
   - '[source] stories require a narrator who selects what to include, but life as lived has no editor -- every moment is equally present and unedited until memory and retelling impose selection'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - accumulate
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[model] breaks when the signal is invoked too frequently or for non-critical situations, because the unconditional-response guarantee depends on rarity -- a system where mayday is called weekly trains responders to triage rather than drop everything, destroying the signal''s special status'
   - '[model] assumes a single authority that can redirect all resources, but in distributed systems (open-source projects, federated organizations, multi-team incidents) there is no single dispatcher who can enforce unconditional priority, so the signal degrades into one competing claim among many'
+embodied_patterns:
+  - matching
+  - path
+  - boundary
+relation_types:
+  - cause
+  - compete
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

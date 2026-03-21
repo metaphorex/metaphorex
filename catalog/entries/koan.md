@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because a Zen koan operates within a structured teacher-student relationship with years of practice, while calling a business problem 'a koan' strips away the contemplative discipline that makes the paradox productive"
   - "[source] misleads because koans have recognized responses validated by a lineage of masters, while the metaphorical use implies that any sufficiently puzzling question is a koan, erasing the distinction between genuine paradox and mere confusion"
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - prevent
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

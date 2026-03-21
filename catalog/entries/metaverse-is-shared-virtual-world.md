@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because the fictional metaverse operates on a single unified platform with universal access, while real virtual worlds are fragmented across incompatible proprietary systems with no shared protocol"
   - "[source] misleads because the metaverse assumes spatial metaphors are the natural interface for all digital interaction, when most valuable online activity (search, messaging, transactions) works better without spatial constraints"
+embodied_patterns:
+  - container
+  - boundary
+  - force
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

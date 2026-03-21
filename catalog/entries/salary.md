@@ -24,6 +24,16 @@ transfers:
 limits:
   - '[source] breaks because salt was communally distributed, while salary is a private individual transaction, compressing the shift from shared provisioning to atomized compensation into a dead word'
   - '[source] misleads because the subsistence framing naturalizes low pay by etymologically encoding bare necessity, making it harder to argue that compensation should reflect value created rather than survival costs'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - prevent
+  - transform
+  - decompose
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

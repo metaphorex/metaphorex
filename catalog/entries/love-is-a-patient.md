@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] a patient is a single organism with objective vital signs that indicate health, but a relationship involves two subjects whose assessments of the relationship''s health may contradict'
   - '[source] medical treatment follows established protocols with known efficacy rates, but relationship repair has no equivalent evidence base or standardized procedures'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

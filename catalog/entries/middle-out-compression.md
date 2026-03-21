@@ -25,6 +25,15 @@ limits:
   - "[source] misleads because the source domain's social charge is contagious in a way most source domains are not -- invoking 'middle-out' inescapably invokes the scene, making the metaphor unusable in contexts where the source domain cannot be acknowledged"
   - "[source] obscures that the scene's comedy depends on engineers not noticing the source domain, but real-world citation always notices it -- the metaphor cannot actually achieve the unselfconsciousness it dramatizes"
 updated: '2026-03-16'
+embodied_patterns:
+  - center-periphery
+  - scale
+  - matching
+relation_types:
+  - transform
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

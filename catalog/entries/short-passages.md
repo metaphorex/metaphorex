@@ -25,6 +25,15 @@ transfers:
   - '[source] imports the principle that the path between intention and destination should contain only necessary transitions, making each intermediate step justify its existence'
   - '[source] treats long corridors as symptoms of a floor plan organized for the builder''s convenience rather than the inhabitant''s movement, paralleling code structured for the abstraction''s elegance rather than the reader''s comprehension'
 updated: '2026-03-19'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

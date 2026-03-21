@@ -21,6 +21,15 @@ transfers:
 - '[model] reframes learning as structural engineering where individual models are useless alone but woven together become load-bearing, with the connections between models doing the real explanatory work'
 - '[model] predicts that a well-organized set of models makes ignorance legible -- gaps in coverage are visible, unlike a disorganized collection that hides its blind spots'
 updated: '2026-03-13'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

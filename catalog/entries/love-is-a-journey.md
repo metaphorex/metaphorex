@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] a journey has a destination that exists before the travelers set out, but relationships often have no predetermined endpoint and the ''destination'' is constructed retrospectively'
   - '[source] journey progress is monotonic in space (you are always somewhere along the route), but relationship progress can genuinely reverse, regress, or cycle without spatial analogue'
+embodied_patterns:
+  - path
+  - near-far
+  - force
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

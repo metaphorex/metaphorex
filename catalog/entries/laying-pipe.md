@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because plumbing is a closed system with predictable flow, while audience cognition is open and unpredictable -- viewers may not retain the exposition, may misinterpret it, or may arrive with prior knowledge that makes the pipe redundant'
   - '[source] misleads by framing exposition as infrastructure that should be invisible, encouraging writers to hide necessary information so thoroughly that audiences miss it entirely, producing confusion rather than the intended seamless experience'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

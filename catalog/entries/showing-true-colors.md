@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because a flag is a binary symbol (this nation or that one), while human identity is layered and contextual -- the metaphor cannot capture the multiplicity of self-presentation'
   - '[source] misleads because the expression has acquired a built-in negativity bias -- ''showing true colors'' almost always means revealing something negative, though the naval context was morally neutral about the deception itself'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

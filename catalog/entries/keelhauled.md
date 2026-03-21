@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] misleads because keelhauling was frequently fatal or permanently disfiguring, while the idiomatic usage describes harsh verbal criticism that leaves no lasting damage, trivializing the violence of the source'
   - '[source] breaks when the person "keelhauled" in modern usage deserved the criticism, since the nautical punishment was notorious for being disproportionate and cruel, and the metaphor carries a sympathy-for-the-victim framing that may not apply'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

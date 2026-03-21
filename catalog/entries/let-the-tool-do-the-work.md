@@ -22,6 +22,15 @@ transfers:
 - '[model] the diagnostic is embodied: muscular strain in the operator is the error signal, not the outcome, allowing real-time detection of misuse before the work is ruined, a feedback structure that transfers to software (fighting the framework), writing (forcing a sentence), and management (micromanaging a capable team)'
 - '[model] carries the prediction that increasing operator force will degrade rather than improve results -- a forced plane chatters and tears grain, a forced framework produces brittle workarounds -- because the tool''s design encodes constraints that force violates'
 updated: '2026-03-21'
+embodied_patterns:
+  - part-whole
+  - matching
+  - force
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

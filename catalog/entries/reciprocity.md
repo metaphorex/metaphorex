@@ -20,6 +20,15 @@ transfers:
 - '[model] predicts that receiving an unsolicited favor creates an obligation felt as almost physical discomfort until discharged, operating as a behavioral program beneath conscious awareness'
 - '[model] identifies bilateral symmetry: positive reciprocity (return favors) and negative reciprocity (return hostility) use the same underlying mechanism, with both debts and credits demanding settlement'
 updated: '2026-03-13'
+embodied_patterns:
+  - balance
+  - flow
+  - scale
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

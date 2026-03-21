@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] paths pre-exist the traveler and can be surveyed before the journey begins, but the means of change often creates itself as the change unfolds, with no pre-existing route to inspect'
   - '[source] a path is used by multiple travelers who all traverse the same terrain, but means of change are often unique to the changing entity and non-replicable'
+embodied_patterns:
+  - path
+  - near-far
+  - force
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

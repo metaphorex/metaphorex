@@ -23,6 +23,15 @@ transfers:
   - "[paradigm] imports the subtraction principle from fire suppression -- remove any one side and the triangle collapses -- giving practitioners a clear mitigation strategy: find the easiest condition to eliminate"
   - "[paradigm] makes combinatorial risk visually legible by mapping abstract preconditions onto geometric shapes, enabling pedagogy and rapid communication of risk structure"
 updated: '2026-03-18'
+embodied_patterns:
+  - matching
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

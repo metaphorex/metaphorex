@@ -25,6 +25,16 @@ transfers:
 limits:
   - '[source] architectural cross-lighting works because light is additive (two sources always produce more light), but in information design, two perspectives can produce confusion rather than clarity if they contradict'
   - '[source] the pattern assumes both light sources are desirable, but in architecture unwanted glare from a second source can be worse than controlled single-sided illumination'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - prevent
+  - compete
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

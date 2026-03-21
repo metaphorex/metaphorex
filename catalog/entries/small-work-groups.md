@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the architectural insight that a group''s territory must have clear boundaries that distinguish inside from outside, mapping onto team ownership of services, codebases, or domains'
 - '[source] encodes the observation that large undifferentiated spaces produce anonymity and diffused responsibility, while small defined territories produce ownership and accountability'
 updated: '2026-03-21'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

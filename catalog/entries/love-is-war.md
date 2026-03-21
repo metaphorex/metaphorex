@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] war is inherently adversarial with each side''s gain being the other''s loss, but love at its best is cooperative with both parties benefiting simultaneously'
   - '[source] war ends with victory, surrender, or annihilation, providing no model for the ongoing mutual maintenance that sustains long-term love'
+embodied_patterns:
+  - force
+  - boundary
+  - balance
+relation_types:
+  - compete
+  - cause
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

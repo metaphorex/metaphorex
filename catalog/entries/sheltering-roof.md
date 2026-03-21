@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the principle that the sheltering element must be the first thing designed because everything else depends on its scope, shape, and coverage'
 - '[source] encodes the insight that a roof creates a protected interior where conditions can be controlled, mapping onto the platform guarantee that services running beneath it inherit a stable, managed environment'
 updated: '2026-03-21'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

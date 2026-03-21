@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[paradigm] assumes the menu is known before service begins, and breaks down in domains where requirements emerge during execution and cannot be fully anticipated'
   - '[paradigm] embeds the assumption of a fixed workstation, and transfers poorly to knowledge work where the "ingredients" are information scattered across tools, inboxes, and other people''s heads'
+embodied_patterns:
+  - matching
+  - path
+  - container
+relation_types:
+  - coordinate
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

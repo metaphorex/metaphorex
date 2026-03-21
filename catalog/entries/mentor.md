@@ -24,6 +24,15 @@ limits:
   - "[source] misleads because the mythological mentorship is temporary and crisis-driven (Odysseus is away at war), while modern mentorship is often framed as an ongoing developmental relationship"
   - "[source] obscures because the actual Mentor (the human, not Athena in disguise) is ineffective -- the suitors overrun the household on his watch -- meaning the word derives from the divine impersonation, not from the human's competence"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

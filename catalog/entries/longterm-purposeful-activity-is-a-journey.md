@@ -30,6 +30,15 @@ transfers:
 limits:
   - '[source] a journey''s destination is fixed before departure and the traveler knows when they have arrived, but many long-term activities have goals that shift as understanding deepens'
   - '[source] a journey has a single path (or small set of routes) between origin and destination, while complex activities often require parallel workstreams with no clear sequential ordering'
+embodied_patterns:
+  - path
+  - near-far
+  - force
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

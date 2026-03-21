@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because machines do not choose which raw materials to process, but mathematicians choose which problems to work on -- the selection is the hardest part'
   - '[source] misleads by implying a single input (coffee) maps to a single output (theorems), hiding the years of failed attempts, dead ends, and discarded approaches that produce nothing'
+embodied_patterns:
+  - flow
+  - matching
+  - iteration
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

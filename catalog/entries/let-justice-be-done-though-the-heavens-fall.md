@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[paradigm] breaks because the maxim presupposes agreement on what justice requires, when in practice the content of justice is the primary dispute -- the heavens-falling framing short-circuits the deliberation that justice demands"
   - "[paradigm] misleads because it presents deontological commitment as costless to the speaker while the consequences fall on others, creating a structural asymmetry where the person invoking the principle bears none of the burden of the falling heavens"
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

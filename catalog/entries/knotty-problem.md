@@ -26,6 +26,16 @@ limits:
   - '[source] breaks because a knot has a fixed location visible on the wood''s surface -- the carpenter can see it before cutting -- while most metaphorical "knotty problems" cannot be surveyed in advance, and the tangle is discovered only by engaging with the material'
   - '[source] misleads by importing the assumption that the knot is a localized defect in otherwise clean grain, when many metaphorical knotty problems are knotty all the way through -- there is no surrounding straight grain to return to once you get past the hard part'
   - '[source] breaks because the carpenter''s response to a knot is avoidance where possible (cut around it, discard the board, place it where it won''t bear load), but the metaphor is typically invoked for problems that cannot be avoided and must be solved directly'
+embodied_patterns:
+  - part-whole
+  - matching
+  - force
+relation_types:
+  - cause
+  - prevent
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

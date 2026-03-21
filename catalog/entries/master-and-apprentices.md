@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] assumes the master''s practice is worth replicating, but in rapidly changing fields (software, biotech) the master''s methods may be obsolete before the apprenticeship completes, making proximity to current practice more valuable than proximity to an experienced practitioner'
   - '[source] imports a hierarchical model of knowledge (master knows, apprentice does not) that breaks in domains where innovation comes from newcomers who have not yet internalized the master''s assumptions and constraints'
+embodied_patterns:
+  - link
+  - path
+  - center-periphery
+relation_types:
+  - enable
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

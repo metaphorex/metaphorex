@@ -25,6 +25,16 @@ limits:
   - "[paradigm] breaks when the system requires architectural redesign rather than incremental refinement -- no amount of small adjustments to a fundamentally flawed structure will fix it, which is precisely the gap that kaikaku addresses"
   - "[paradigm] assumes a stable-enough environment for incremental changes to accumulate before conditions shift; in rapidly disrupted markets, the increments may be invalidated faster than they can compound"
 updated: '2026-03-18'
+embodied_patterns:
+  - flow
+  - matching
+  - iteration
+relation_types:
+  - cause
+  - transform
+  - coordinate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

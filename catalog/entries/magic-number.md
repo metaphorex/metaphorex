@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] magic numbers in code can always be replaced by named constants that dispel the mystery, but true magic in the source domain is inherently irreducible to rational explanation'
   - '[source] magical formulas are intentionally secret to preserve the magician''s power, whereas magic numbers in code are accidentally obscure due to poor documentation rather than deliberate concealment'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

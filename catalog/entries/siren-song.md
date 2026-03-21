@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because the Sirens offer a single, uniform temptation (their song) to all sailors, while real dangerous attractions are personalized -- what tempts one person leaves another indifferent"
   - "[source] misleads because the metaphor frames all strong attraction as lethal, collapsing the distinction between desires that are genuinely destructive and desires that are merely risky or socially disapproved"
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - contain
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

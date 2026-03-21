@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] vision is passive and instantaneous (you see or you don''t), obscuring forms of knowing that require active construction, effort, and time'
   - '[source] seeing implies a single correct perspective from a fixed viewpoint, hiding that understanding often requires integrating multiple contradictory frameworks'
+embodied_patterns:
+  - near-far
+  - surface-depth
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

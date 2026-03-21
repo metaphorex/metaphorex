@@ -30,6 +30,15 @@ transfers:
 limits:
   - '[source] a journey''s endpoint exists independently of the traveler and can be visited before committing to the trip, but the endpoint of purposeful change often does not exist until the change process creates it'
   - '[source] reversing a journey means retracing the same path, but reversing a change process rarely restores the original state because the act of changing alters the substrate'
+embodied_patterns:
+  - path
+  - near-far
+  - force
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

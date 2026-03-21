@@ -26,6 +26,15 @@ transfers:
 limits:
   - "[paradigm] breaks when demand is genuinely unpredictable and cannot be smoothed -- pull signals assume a downstream station that knows what it needs next, but in creative, research, or emergency domains the next task is unknowable until the current one completes"
   - "[paradigm] assumes that work items are roughly interchangeable and flow through a repeatable sequence of stations, but knowledge work varies enormously in size, complexity, and routing, making the factory-floor token system a poor fit without significant adaptation"
+embodied_patterns:
+  - flow
+  - matching
+  - iteration
+relation_types:
+  - cause
+  - contain
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

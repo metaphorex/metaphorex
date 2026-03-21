@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because real human cognition excels at pattern recognition, narrative, and approximate reasoning but is reliably poor at the exact numerical computation and data retrieval that defines the Mentat's role"
   - "[source] misleads because the Mentat's computational ability is presented as a trained skill any human could acquire, while cognitive science shows that working memory and processing speed have hard biological limits that training cannot overcome"
+embodied_patterns:
+  - container
+  - boundary
+  - force
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

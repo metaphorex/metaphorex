@@ -26,6 +26,15 @@ transfers:
 - "[source] diagnosis identifies the specific malfunction so that targeted treatment can restore normal function"
 - "[source] symptoms are observable indicators of an underlying condition that may not be directly visible"
 updated: '2026-03-16'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

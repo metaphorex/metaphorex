@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because Ralph's failures are random and surreal, while LLM failures tend to be systematic -- retrying the same prompt with the same context produces the same class of error"
   - "[source] misleads because convergence is guaranteed in fiction (writers engineer outcomes) but not in retry loops, which can diverge, oscillate, or waste unbounded compute"
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - prevent
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

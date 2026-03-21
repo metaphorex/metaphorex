@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because social warnings lack the unambiguity of cannon fire -- what the sender intends as a calibrated threat, the recipient may perceive as routine correspondence'
   - '[source] misleads because the metaphor assumes a recognized escalation protocol (hail, warning shot, engagement), but social situations rarely have such orderly escalation ladders'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - prevent
+  - transform
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

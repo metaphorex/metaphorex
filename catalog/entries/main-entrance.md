@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] a building''s main entrance is spatially fixed and cannot be moved without major renovation, but a software entry point can be refactored, redirected, or multiplied at low cost'
   - '[source] physical entrances are visible to anyone approaching the building, but software entry points may be documented or undocumented, discoverable or hidden, with no spatial analogue to architectural visibility'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

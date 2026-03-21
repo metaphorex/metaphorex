@@ -24,6 +24,15 @@ transfers:
   - "[source] imports the specific torment that the goal is visible and apparently reachable -- Sisyphus nearly reaches the summit each time -- making the metaphor about tantalizingly close but permanently deferred completion"
   - "[source] carries the existential weight of punishment without end, framing repetitive futile work as not merely inefficient but as a kind of suffering that demands philosophical response"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

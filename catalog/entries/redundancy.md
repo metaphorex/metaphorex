@@ -22,6 +22,15 @@ transfers:
 - '[model] maps engineering backup systems onto organizational resilience, where deliberately preserved slack, spare capacity, and duplication protect against the catastrophic failures that over-optimization
   invites'
 updated: '2026-03-13'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

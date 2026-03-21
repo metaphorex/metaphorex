@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] monkey behavior is driven by curiosity and play with no concept of production systems or stakeholders, but monkey-patching in software is a deliberate engineering choice made with awareness of tradeoffs'
   - '[source] monkeys'' modifications to physical objects are visible and reversible (you can see a dismantled thing), but runtime patches are invisible to code inspection and may persist across sessions in non-obvious ways'
+embodied_patterns:
+  - superimposition
+  - matching
+  - force
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

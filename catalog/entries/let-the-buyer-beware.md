@@ -20,6 +20,15 @@ limits:
   - "[model] assumes buyers have the capacity and access to evaluate what they're acquiring, which fails for complex or opaque goods"
   - "[model] treats all transactions as arm's-length exchanges between equals, ignoring power asymmetries"
   - "[model] provides moral cover for fraud by shifting blame from the deceiver to the deceived"
+embodied_patterns:
+  - balance
+  - flow
+  - scale
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

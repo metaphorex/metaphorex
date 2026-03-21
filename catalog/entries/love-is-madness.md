@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] madness is classified as pathological and requiring treatment, but framing love as illness pathologizes a normal human experience and implies it should be cured'
   - '[source] madness in clinical terms involves deteriorating function over time, whereas love typically enhances well-being and social functioning even when it disrupts routine'
+embodied_patterns:
+  - force
+  - container
+  - boundary
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

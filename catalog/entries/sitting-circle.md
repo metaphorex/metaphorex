@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because physical seating encodes presence unambiguously (an empty chair is visible to all), while digital meeting arrangements can simulate circular equality while hiding asymmetries -- a participant on mute with camera off occupies a "seat" but contributes no presence'
   - '[source] misleads by implying that geometric equality produces social equality, when power differentials (rank, expertise, social capital) persist regardless of seating -- the CEO in a circle of direct reports is still the CEO, and the circle may actually increase discomfort by removing the spatial buffer that hierarchy provides'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

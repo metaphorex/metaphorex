@@ -27,6 +27,15 @@ limits:
   - '[source] misleads by implying schemas are static blueprints consulted during construction, when Piaget''s schemas are dynamic, self-modifying processes that change through use -- closer to a living organism than a drawing'
   - '[source] obscures the circularity problem: in architecture, the plan precedes the building, but in cognition, schemas are both the product of experience and the organizer of experience, a bootstrapping the blueprint metaphor cannot represent'
 updated: '2026-03-20'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

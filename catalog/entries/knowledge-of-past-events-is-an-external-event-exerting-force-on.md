@@ -27,6 +27,16 @@ transfers:
 limits:
   - '[source] physical forces act instantaneously on contact, but knowledge of past events often produces delayed or accumulating emotional effects that build over time'
   - '[source] a physical force has a single vector and magnitude, while the impact of learning about past events can simultaneously push in contradictory emotional directions (relief and grief at once)'
+embodied_patterns:
+  - force
+  - scale
+  - balance
+relation_types:
+  - cause
+  - transform
+  - contain
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

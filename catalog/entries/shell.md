@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because the direction of protection is inverted -- a nut shell protects the kernel from the outside world, but a computing shell protects the user from the kernel''s complexity'
   - '[source] misleads because physical shells are passive casings, while computing shells are full interpreters with conditionals, loops, and functions -- calling them ''shells'' radically undersells their capabilities'
+embodied_patterns:
+  - accretion
+  - path
+  - container
+relation_types:
+  - cause
+  - contain
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

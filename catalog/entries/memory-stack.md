@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] a stack maintains perfect ordering and every item remains intact until explicitly popped, but human memory degrades, merges, and reorders items over time'
   - '[source] stacks have a fixed capacity (stack overflow), but human memory does not fail by mechanical overflow -- forgetting is reconstructive and selective, not a capacity limit'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

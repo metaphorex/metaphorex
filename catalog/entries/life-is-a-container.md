@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] containers are rigid and their capacity is fixed at construction, but a human life''s capacity for experience, relationships, and meaning can expand or contract over time'
   - '[source] container contents don''t interact with each other (marbles in a jar stay separate), whereas life experiences transform each other through memory, reinterpretation, and emotional resonance'
+embodied_patterns:
+  - container
+  - boundary
+  - flow
+relation_types:
+  - cause
+  - transform
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

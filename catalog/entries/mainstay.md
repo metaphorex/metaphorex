@@ -23,6 +23,15 @@ transfers:
   removal'
 - '[source] the mainstay ran from masthead to bow as a tension member holding two parts in correct relationship, mapping the bridging function onto elements that connect what would otherwise drift apart'
 updated: '2026-03-14'
+embodied_patterns:
+  - center-periphery
+  - force
+  - part-whole
+relation_types:
+  - enable
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

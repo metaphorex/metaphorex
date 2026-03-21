@@ -23,6 +23,15 @@ transfers:
 - '[model] identifies asymmetric reversibility as the key variable: when undoing is impossible or orders of magnitude more expensive than doing, frontloading verification dominates all other strategies'
 - '[model] encodes the counterintuitive insight that slowing down at the verification stage produces faster overall throughput, because rework from errors consumes more time than the verification would have'
 updated: '2026-03-21'
+embodied_patterns:
+  - part-whole
+  - matching
+  - force
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

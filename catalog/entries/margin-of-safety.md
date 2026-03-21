@@ -21,6 +21,15 @@ transfers:
 - '[model] maps structural over-engineering (bridges designed for several times expected load) onto epistemic humility -- the gap between what you think you know and what you are willing to bet on'
 - '[model] applies specifically to situations where failure is catastrophic and irreversible, making it an engineering response to tail risk rather than a general-purpose heuristic'
 updated: '2026-03-13'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

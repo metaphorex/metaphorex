@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] heat is a scalar quantity with no direction -- it simply intensifies or diminishes -- but lust is directed at a specific object, and redirecting it is not like redirecting thermal energy'
   - '[source] heat transfer follows thermodynamic laws and always flows from hot to cold, but sexual desire does not reliably transfer from a desiring person to the object of desire'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

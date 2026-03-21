@@ -24,6 +24,15 @@ transfers:
   - "[paradigm] imports the subtraction principle -- eliminate any one of the three elements and the agent cannot be exploited for data exfiltration -- giving security engineers a concrete design checklist"
   - "[paradigm] carries the fire triangle's insight that each condition is individually safe, reframing the security conversation from 'is this agent dangerous?' to 'which combination of capabilities does it have?'"
 updated: '2026-03-18'
+embodied_patterns:
+  - matching
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

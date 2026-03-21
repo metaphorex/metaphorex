@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because physical scaffolding is inert and passive, while educational scaffolding requires moment-by-moment responsiveness to the learner''s state -- the metaphor hides the active, improvisational skill involved'
   - '[source] misleads by implying the building (learner) has a fixed blueprint, when developmental trajectories are emergent and the "structure" being built is partly shaped by the scaffold itself'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

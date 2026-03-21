@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because the strait is a one-time passage, while real dilemmas recur chronically -- the same trade-off reappears without a defined endpoint'
   - '[source] misleads because the myth moves on without accountability for the six dead sailors, sanitizing the human cost of ''acceptable losses'' in a way that organizational decisions cannot'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - contain
+  - select
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

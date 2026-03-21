@@ -25,6 +25,16 @@ limits:
   - '[source] breaks because manure genuinely is valuable in agriculture (it contains nitrogen, phosphorus, and potassium), whereas many metaphorical applications use "hidden gold" rhetoric to romanticize suffering or dysfunction that has no actual redemptive content'
   - '[source] misleads by implying that all unpleasant things conceal value if you look hard enough, which is a form of toxic positivity -- some waste is genuinely waste, and the proverb provides no test for distinguishing productive unpleasantness from pure cost'
   - '[source] imports the assumption that the farmer who recognizes the value is the same person who produced the waste, when most metaphorical applications involve one party bearing the unpleasantness and another party extracting the value'
+embodied_patterns:
+  - accretion
+  - path
+  - balance
+relation_types:
+  - cause
+  - transform
+  - accumulate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

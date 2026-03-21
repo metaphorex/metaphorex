@@ -27,6 +27,16 @@ transfers:
 limits:
   - '[source] resources do not improve through being used (coal does not become better coal by burning), whereas labor skill typically increases with practice, inverting the depletion assumption'
   - '[source] resources are passive and have no preferences about their allocation, obscuring that workers have agency, morale, and context-dependent productivity'
+embodied_patterns:
+  - balance
+  - flow
+  - scale
+relation_types:
+  - cause
+  - transform
+  - compete
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -20,6 +20,15 @@ transfers:
 limits:
   - '[model] requires that the confounding variable be known and measurable, but in many real-world situations the lurking variable that would reveal the reversal is unobserved or unrecognized'
   - '[model] is sometimes invoked as a blanket skepticism toward all aggregate statistics, when in fact most aggregations do not reverse and the paradox applies only under specific distributional conditions'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

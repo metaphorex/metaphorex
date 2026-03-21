@@ -27,6 +27,15 @@ transfers:
   - '[source] The decoy works because reviewers operate under a cognitive budget -- having found and excised one objectionable element, they feel their job is done and scrutinize the remainder less carefully'
   - '[source] The sacrificial element must be plausibly intended (not obviously fake) so the reviewer experiences genuine discovery rather than suspecting manipulation'
 updated: '2026-03-21'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers
