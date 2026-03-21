@@ -16,7 +16,7 @@ related:
   - keystone-species
   - carrying-capacity
   - adaptive-cycle
-dead: false
+dead: true
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
