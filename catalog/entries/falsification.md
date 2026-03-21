@@ -13,6 +13,7 @@ related:
 - the-map-is-not-the-territory
 slug: falsification
 updated: '2026-03-13'
+harness: Claude Code
 embodied_patterns:
   - removal
   - boundary

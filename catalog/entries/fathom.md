@@ -14,6 +14,7 @@ source_frame: seafaring
 applies_to:
 - intellectual-inquiry
 updated: '2026-03-14'
+harness: Claude Code
 embodied_patterns:
   - surface-depth
   - scale

@@ -12,6 +12,7 @@ related: []
 slug: excalibur
 source_frame: mythology
 updated: '2026-03-14'
+harness: Claude Code
 embodied_patterns:
   - matching
   - force

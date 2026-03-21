@@ -13,6 +13,7 @@ related:
 slug: feedback-loops
 source_frame: physics
 updated: '2026-03-13'
+harness: Claude Code
 embodied_patterns:
   - iteration
   - flow

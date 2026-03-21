@@ -1,7 +1,7 @@
 ---
 applies_to:
 - network-security
-author: fshot
+author: agent:metaphorex-miner
 categories:
 - software-engineering
 - security
@@ -14,6 +14,7 @@ related: []
 slug: firewall
 source_frame: architecture-and-building
 updated: '2026-03-10'
+harness: Claude Code
 embodied_patterns:
   - boundary
   - container
