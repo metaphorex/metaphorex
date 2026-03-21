@@ -30,9 +30,9 @@ limits:
 embodied_patterns:
   - scale
   - surface-depth
-  - force
+  - path
 relation_types:
-  - cause
+  - contain
   - transform
 structure: hierarchy
 abstraction_level: primitive
