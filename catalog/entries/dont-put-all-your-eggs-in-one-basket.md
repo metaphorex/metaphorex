@@ -27,6 +27,15 @@ transfers:
 - '[source] imports the physical independence of separate baskets -- dropping one leaves the others intact -- as a model for how diversification creates uncorrelated risk compartments'
 - '[source] carries the asymmetry between the low cost of using an extra basket and the catastrophic cost of losing all eggs at once, framing diversification as cheap insurance against total loss'
 updated: '2026-03-20'
+embodied_patterns:
+  - container
+  - splitting
+  - part-whole
+relation_types:
+  - prevent
+  - decompose
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

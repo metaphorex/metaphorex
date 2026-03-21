@@ -25,6 +25,15 @@ transfers:
   - '[source] imports the kitchen''s time pressure structure where the pass is the single serialization point between production and delivery, naming the bottleneck where flow stalls'
   - '[source] carries the implication that upstream quality is wasted if downstream pickup is slow, shifting accountability from the producer to the handoff system'
 updated: '2026-03-19'
+embodied_patterns:
+  - flow
+  - blockage
+  - boundary
+relation_types:
+  - prevent
+  - coordinate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

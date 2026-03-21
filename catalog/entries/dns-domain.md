@@ -1,7 +1,7 @@
 ---
 applies_to:
 - computing
-author: agent:fshot
+author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors: []
@@ -13,7 +13,16 @@ name: DNS Domain
 related: []
 slug: dns-domain
 source_frame: governance
-updated: '2026-03-17'
+updated: '2026-03-21'
+embodied_patterns:
+  - boundary
+  - center-periphery
+  - part-whole
+relation_types:
+  - contain
+  - decompose
+structure: hierarchy
+abstraction_level: specific
 transfers:
   - '[source] feudal governance delegates authority hierarchically from sovereign to vassal, mapping the DNS tree where root delegates to TLDs, TLDs to registrants, registrants to subdomains'
   - '[source] the authoritative source for land records is the sovereign''s registry, mapping the authoritative name server as the one with the right to define truth about its zone'

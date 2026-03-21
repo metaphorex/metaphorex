@@ -21,6 +21,19 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - flow
+  - link
+  - part-whole
+  - self-organization
+relation_types:
+  - coordinate
+  - compete
+  - enable
+structure:
+  - network
+  - emergence
+abstraction_level: generic
 provenance: ecological-metaphors
 transfers:
   - '[source] an ecosystem is defined by energy flows and nutrient cycles between organisms rather than by the properties of any individual species, importing the structure where relationships are more fundamental than entities'

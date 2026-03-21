@@ -24,6 +24,15 @@ limits:
   - "[source] breaks because physical weight is objective and measurable, but difficulty is perceiver-relative -- the same task is heavy for a novice and light for an expert"
   - "[source] misleads because weight is permanent (a stone does not become lighter), but difficulty often decreases with practice or reframing"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - balance
+  - accretion
+relation_types:
+  - prevent
+  - accumulate
+structure: equilibrium
+abstraction_level: primitive
 ---
 
 ## Transfers

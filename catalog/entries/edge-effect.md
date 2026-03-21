@@ -25,6 +25,15 @@ transfers:
   - '[source] imports the ecological observation that ecotones support species found in neither adjacent ecosystem, framing interdisciplinary spaces as generative of ideas that belong to no single field'
   - '[source] carries the structural insight that the boundary zone has its own distinct character rather than being a mere blend of its neighbors, reframing organizational margins as productive habitats rather than no-man''s-lands'
 updated: '2026-03-19'
+embodied_patterns:
+  - boundary
+  - center-periphery
+  - merging
+relation_types:
+  - enable
+  - transform
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

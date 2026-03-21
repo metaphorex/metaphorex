@@ -19,6 +19,15 @@ related:
 slug: emotion-is-motion
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - path
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] the transition from emotional neutrality to emotional engagement maps onto the transition from physical stillness to physical movement, with an external mover setting the person in motion'
   - '[source] emotional intensity maps onto speed and force of motion -- mild emotions are gentle stirrings while extreme emotions are being hurled, thrown, or swept away -- preserving the proportional structure of magnitude'

@@ -18,6 +18,15 @@ related:
 slug: difficulty-is-moving
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - path
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] physical exertion against gravitational or frictional resistance maps the felt strain of difficult action as muscular effort to move'
   - '[source] speed of motion is inversely proportional to difficulty, making temporal progress and physical velocity interchangeable measures'

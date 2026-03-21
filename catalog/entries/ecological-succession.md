@@ -25,6 +25,18 @@ transfers:
 - '[source] each stage creates the conditions for its own replacement: pioneer species stabilize soil and add organic matter, enabling shade-tolerant species that eventually overtop and kill the pioneers, transferring the principle that successful early entrants build infrastructure that advantages their successors'
 - '[source] the Clements vs. Gleason debate -- deterministic superorganism vs. individualistic contingency -- maps directly onto strategy debates about whether industry evolution follows predictable laws or is path-dependent and contingent on specific actors and accidents'
 updated: '2026-03-21'
+embodied_patterns:
+  - path
+  - accretion
+  - self-organization
+relation_types:
+  - transform
+  - enable
+  - compete
+structure:
+  - growth
+  - cycle
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -27,6 +27,15 @@ transfers:
 - '[source] imports the farmyard knowledge that the fox''s motive is hardwired and unmodifiable -- it will always eat chickens -- to assert that structural conflicts of interest cannot be overcome by good intentions, promises, or character'
 - '[source] carries the spatial structure of guardianship: the guard controls the gate, so a compromised guard does not merely fail to protect but actively enables the very harm they were positioned to prevent'
 updated: '2026-03-20'
+embodied_patterns:
+  - boundary
+  - center-periphery
+  - force
+relation_types:
+  - prevent
+  - compete
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

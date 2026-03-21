@@ -20,6 +20,15 @@ related:
 slug: difficulties-are-burdens
 source_frame: embodied-experience
 updated: '2026-03-13'
+embodied_patterns:
+  - force
+  - accretion
+  - balance
+relation_types:
+  - prevent
+  - accumulate
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] a heavy physical load produces muscular strain, impeded movement, and progressive fatigue, mapping the felt experience of sustained difficulty'
   - '[source] multiple heavy objects accumulate weight until the total exceeds load-bearing capacity, mapping the overwhelming effect of simultaneous problems'

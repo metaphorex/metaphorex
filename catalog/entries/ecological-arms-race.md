@@ -25,6 +25,17 @@ transfers:
 - '[source] imports the Red Queen insight that running faster is necessary just to stay in place, transferring the principle that investment in competitive capability may yield no net advantage if the opponent matches every gain'
 - '[source] carries the structural observation that arms races produce increasingly elaborate and costly adaptations on both sides, framing escalation as a resource drain even when neither competitor gains relative advantage'
 updated: '2026-03-19'
+embodied_patterns:
+  - force
+  - iteration
+  - scale
+relation_types:
+  - compete
+  - cause
+structure:
+  - competition
+  - cycle
+abstraction_level: generic
 ---
 
 ## Transfers

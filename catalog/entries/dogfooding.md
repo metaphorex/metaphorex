@@ -16,6 +16,15 @@ related: []
 slug: dogfooding
 source_frame: animal-husbandry
 updated: '2026-03-14'
+embodied_patterns:
+  - iteration
+  - link
+  - matching
+relation_types:
+  - enable
+  - coordinate
+structure: cycle
+abstraction_level: specific
 transfers:
   - '[source] the manufacturer''s willingness to consume their own product functions as a credibility signal precisely because the product is undesirable to eat, importing the logic that costly self-imposed tests are more convincing than costless claims'
   - '[source] feedback loops tighten when the producer and consumer share a nervous system, because defects become personal irritants rather than reported abstractions'

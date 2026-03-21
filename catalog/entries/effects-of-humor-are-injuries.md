@@ -18,6 +18,15 @@ related:
 slug: effects-of-humor-are-injuries
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - surface-depth
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] the involuntary, overwhelming quality of intense laughter maps onto the involuntary, overwhelming quality of physical injury, preserving the structure of loss of bodily control while inverting the valence from negative to positive'
   - '[source] the temporal structure of a joke (setup then punchline) maps onto the temporal structure of a blow (windup then impact), with the punchline as the moment force connects'

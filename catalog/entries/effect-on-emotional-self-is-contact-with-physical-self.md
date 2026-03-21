@@ -19,6 +19,15 @@ related:
 slug: effect-on-emotional-self-is-contact-with-physical-self
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - surface-depth
+  - near-far
+relation_types:
+  - cause
+  - transform
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] the intensity of emotional effect maps onto the force of physical contact, so that a light touch produces tenderness while a hard blow produces devastation, preserving the proportional structure of impact'
   - '[source] emotional damage inherits the locatability and specificity of physical wounds (a cut, a bruise, a scar), giving abstract psychological harm a spatial concreteness that makes it communicable'

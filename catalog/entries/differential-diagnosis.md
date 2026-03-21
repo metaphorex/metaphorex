@@ -19,6 +19,15 @@ provenance: scheins-surgical-aphorisms
 created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
+embodied_patterns:
+  - removal
+  - matching
+  - path
+relation_types:
+  - select
+  - decompose
+structure: pipeline
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - '[source] the clinician generates a ranked list of candidate diseases that could explain the presenting symptoms, importing the structure where diagnosis begins with multiple competing hypotheses rather than a single initial guess'

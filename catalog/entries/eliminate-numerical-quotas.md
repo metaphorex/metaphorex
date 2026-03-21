@@ -17,6 +17,17 @@ related:
 slug: eliminate-numerical-quotas
 source_frame: measurement
 updated: '2026-03-18'
+embodied_patterns:
+  - blockage
+  - iteration
+  - flow
+relation_types:
+  - prevent
+  - cause
+structure:
+  - cycle
+  - hierarchy
+abstraction_level: generic
 transfers:
   - "[model] reveals that numerical quotas set on outputs substitute measurement for understanding, guaranteeing mediocrity by treating the system's current capability as a fixed ceiling to aim at rather than a baseline to improve"
   - "[model] predicts that management by numerical objectives will produce gaming, data falsification, or quality sacrifice, because hitting the number becomes the goal rather than improving the process that generates the number"

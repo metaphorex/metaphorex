@@ -16,6 +16,15 @@ related:
 - pride-of-workmanship
 slug: eliminate-slogans
 updated: '2026-03-18'
+embodied_patterns:
+  - blockage
+  - flow
+  - force
+relation_types:
+  - prevent
+  - cause
+structure: hierarchy
+abstraction_level: generic
 transfers:
   - "[model] reveals that exhortations addressed to workers presuppose individual control over outcomes, while the bulk of quality variation originates in system design that only management can change"
   - "[model] predicts that slogans demanding zero defects will generate resentment rather than improvement, because the demand highlights the gap between aspiration and capacity without closing it"

@@ -27,6 +27,15 @@ transfers:
   - "[source] imports the narrative structure of a world that could have been prevented -- the dystopia always contains the implication that someone should have acted sooner -- lending urgency and moral weight to present-day policy arguments"
   - "[source] carries the mechanism of defamiliarization: by displacing current trends into an exaggerated fictional setting, the metaphor makes the familiar strange and forces reassessment of what audiences have normalized"
 updated: '2026-03-17'
+embodied_patterns:
+  - path
+  - boundary
+  - scale
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

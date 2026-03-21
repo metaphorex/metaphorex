@@ -17,6 +17,15 @@ related:
 slug: elysium
 source_frame: mythology
 updated: '2026-03-14'
+embodied_patterns:
+  - container
+  - boundary
+  - center-periphery
+relation_types:
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: specific
 transfers:
   - '[source] the ideal state is defined primarily by the absence of suffering (no labor, no pain, no death) rather than the presence of specific goods, importing a negative-definition structure onto utopian aspirations'
   - '[source] perfection depends on exclusion: Elysium is reserved for a select few chosen by the gods, so the metaphor imports the structure that an ideal community''s quality is maintained by restricting who enters'

@@ -26,6 +26,15 @@ transfers:
 - '[source] carries the insight that variety in seating supports variety in activity -- a hard chair for focused work, a soft chair for reading, a bench for conversation -- mapping onto the observation that different interface modes support different cognitive tasks'
 - '[source] establishes that the variety must be co-present and visible, not hidden behind a configuration screen, importing the principle that multiple modes should be discoverable through the environment itself rather than through documentation'
 updated: '2026-03-21'
+embodied_patterns:
+  - matching
+  - part-whole
+  - container
+relation_types:
+  - select
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

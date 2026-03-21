@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the concept of regime shift -- a threshold beyond which the system reorganizes into a qualitatively different state -- reframing organizational failure not as gradual decline but as sudden phase transition'
 - '[source] carries the structural insight that resilience is not the absence of disturbance but the capacity to incorporate disturbance without losing identity, challenging organizational cultures that equate stability with health'
 updated: '2026-03-21'
+embodied_patterns:
+  - balance
+  - self-organization
+  - boundary
+relation_types:
+  - restore
+  - transform
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

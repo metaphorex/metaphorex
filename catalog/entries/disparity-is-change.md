@@ -18,6 +18,15 @@ related:
 slug: disparity-is-change
 source_frame: event-structure
 updated: '2026-03-12'
+embodied_patterns:
+  - path
+  - near-far
+  - splitting
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: primitive
 transfers:
   - '[source] two things that differ are described as having diverged from a prior state of sameness, imposing a temporal narrative onto a static comparison'
   - '[source] degree of difference maps onto distance traveled, making greater disparity feel like more motion has occurred between the compared states'

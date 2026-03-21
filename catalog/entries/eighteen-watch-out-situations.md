@@ -15,6 +15,15 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - matching
+  - iteration
+  - boundary
+relation_types:
+  - prevent
+  - select
+structure: pipeline
+abstraction_level: specific
 transfers:
   - '[model] converts post-hoc accident analysis into a pre-mortem checklist by cataloging the specific conditions that preceded firefighter fatalities, so that recognizing any single condition triggers reassessment rather than requiring the operator to independently reconstruct the causal chain'
   - '[model] uses enumeration as a cognitive forcing function -- the fixed list of 18 items externalizes pattern recognition into a protocol, reducing dependence on experience and intuition that degrade under stress, fatigue, and tunnel vision'
