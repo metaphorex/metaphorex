@@ -3,7 +3,6 @@ slug: scorched-earth
 name: Scorched Earth
 kind: metaphor
 source_frame: military-history
-dead: false
 applies_to:
   - competition
 categories:

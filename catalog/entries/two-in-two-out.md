@@ -1,7 +1,7 @@
 ---
 slug: two-in-two-out
 name: Two-In, Two-Out
-kind: mental-model
+kind: pattern
 source_frame: fire-safety
 categories:
   - organizational-behavior
@@ -13,15 +13,15 @@ related:
 provenance: firefighting-maxims
 created: '2026-03-21'
 updated: '2026-03-21'
-grounding: proven
+grounding: established
 harness: Claude Code
 transfers:
-  - '[model] mandates that anyone entering a high-risk environment must have a partner inside and a dedicated rescue capability standing by outside, treating solo operation in dangerous conditions as a structural failure rather than a personal risk choice'
-  - '[model] separates the role of "worker in the hazard zone" from "rescuer of the worker" and requires both to be staffed before any work begins, so that rescue capacity is pre-positioned rather than improvised after something goes wrong'
-  - '[model] creates a hard gate that delays the start of work until minimum staffing is met, accepting slower initial response in exchange for the guarantee that a failure during work will not cascade into a second casualty'
+  - '[source] mandates that anyone entering a high-risk environment must have a partner inside and a dedicated rescue capability standing by outside, treating solo operation in dangerous conditions as a structural failure rather than a personal risk choice'
+  - '[source] separates the role of "worker in the hazard zone" from "rescuer of the worker" and requires both to be staffed before any work begins, so that rescue capacity is pre-positioned rather than improvised after something goes wrong'
+  - '[source] creates a hard gate that delays the start of work until minimum staffing is met, accepting slower initial response in exchange for the guarantee that a failure during work will not cascade into a second casualty'
 limits:
-  - '[model] the rule assumes a binary inside/outside boundary with a defined entry point, which breaks for distributed hazards (cloud infrastructure, pandemic fieldwork) where there is no clear threshold between safe and dangerous zones'
-  - '[model] the fixed 2+2 ratio optimizes for the scenario where one interior team needs rescue, but does not scale to multiple teams operating simultaneously -- four people outside cannot rescue three independent interior teams'
+  - '[source] the rule assumes a binary inside/outside boundary with a defined entry point, which breaks for distributed hazards (cloud infrastructure, pandemic fieldwork) where there is no clear threshold between safe and dangerous zones'
+  - '[source] the fixed 2+2 ratio optimizes for the scenario where one interior team needs rescue, but does not scale to multiple teams operating simultaneously -- four people outside cannot rescue three independent interior teams'
 ---
 
 ## Transfers

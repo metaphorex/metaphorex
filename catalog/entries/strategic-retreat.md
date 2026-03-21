@@ -3,7 +3,6 @@ slug: strategic-retreat
 name: Strategic Retreat
 kind: metaphor
 source_frame: military-history
-dead: true
 applies_to:
   - competition
 categories:
