@@ -16,6 +16,7 @@ related:
 - intimacy-gradient
 - building-complex
 - family-of-entrances
+grounding: established
 slug: circulation-realms
 source_frame: architecture-and-building
 updated: '2026-03-21'

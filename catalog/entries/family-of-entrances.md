@@ -17,6 +17,7 @@ related:
 - circulation-realms
 - intimacy-gradient
 - main-entrance
+grounding: established
 slug: family-of-entrances
 source_frame: architecture-and-building
 updated: '2026-03-21'

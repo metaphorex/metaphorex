@@ -16,6 +16,7 @@ related:
 - building-complex
 - light-on-two-sides
 - connected-buildings
+grounding: established
 slug: positive-outdoor-space
 source_frame: architecture-and-building
 updated: '2026-03-21'

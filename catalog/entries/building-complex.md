@@ -16,6 +16,7 @@ related:
 - connected-buildings
 - intimacy-gradient
 - the-facade-pattern
+grounding: established
 slug: building-complex
 source_frame: architecture-and-building
 updated: '2026-03-21'
@@ -137,7 +138,7 @@ Key structural parallels:
   to draw good boundaries
 - "Blast radius" -- the failure domain of a single service, framed
   as the area damaged when one building in the complex collapses
-- "Cell-based architecture" -- AWS's term for deploposing infrastructure
+- "Cell-based architecture" -- AWS's term for decomposing infrastructure
   into independent units, each a building in the complex
 
 ## Origin Story

@@ -16,6 +16,7 @@ related:
 - building-complex
 - circulation-realms
 - family-of-entrances
+grounding: established
 slug: connected-buildings
 source_frame: architecture-and-building
 updated: '2026-03-21'
