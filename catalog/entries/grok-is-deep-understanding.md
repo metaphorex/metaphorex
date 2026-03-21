@@ -11,6 +11,16 @@ contributors:
 - fshot
 created: '2026-03-16'
 dead: true
+embodied_patterns:
+  - merging
+  - surface-depth
+  - container
+relation_types:
+  - transform
+  - accumulate
+structure:
+  - transformation
+abstraction_level: specific
 harness: Claude Code
 kind: metaphor
 limits:

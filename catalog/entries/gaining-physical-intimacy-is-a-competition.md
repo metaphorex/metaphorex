@@ -19,6 +19,16 @@ related:
 slug: gaining-physical-intimacy-is-a-competition
 source_frame: competition
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - compete
+  - prevent
+structure:
+  - competition
+abstraction_level: specific
 transfers:
   - '[source] one partner''s pursuit of physical intimacy against the other''s resistance is structured as a competitive contest with an attacker advancing and a defender resisting -- importing winners, losers, strategies, and the adversarial logic of opposition'
   - '[source] sexual ''scoring'' maps athletic achievement onto physical intimacy, so that intimacy milestones are points won, the pursuing partner is the player, and success is defined by the pursuer''s progress against resistance'

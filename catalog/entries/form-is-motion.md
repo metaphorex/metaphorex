@@ -18,6 +18,16 @@ related:
 slug: form-is-motion
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - path
+  - flow
+  - near-far
+relation_types:
+  - translate
+  - transform
+structure:
+  - network
+abstraction_level: primitive
 transfers:
   - '[source] static spatial form is described as the trajectory of an imagined moving entity -- a road goes from Paris to Lyon, a fence runs along the boundary, a mountain range extends north to south -- mapping the shape of objects onto the paths a traveler would trace along them'
   - '[source] the particular form of a static thing is expressed as the manner of the imagined motion -- a river winds, a path zigzags, a coastline curves -- importing the vocabulary of how bodies move to describe how shapes look'

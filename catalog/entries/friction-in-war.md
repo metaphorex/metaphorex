@@ -20,6 +20,17 @@ created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - blockage
+  - force
+  - flow
+relation_types:
+  - prevent
+  - cause
+structure:
+  - network
+  - equilibrium
+abstraction_level: generic
 transfers:
   - '[source] Friction between surfaces converts directed motion into heat and waste, importing the structure where purposeful effort degrades into overhead and delay at every interface between components'
   - '[source] Friction is proportional to the number of contact surfaces and the load being carried, importing the structure where organizational drag increases with both scale and ambition -- larger plans with more dependencies encounter more friction'

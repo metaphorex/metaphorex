@@ -13,6 +13,16 @@ created: '2026-03-18'
 updated: '2026-03-18'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - near-far
+  - surface-depth
+  - path
+relation_types:
+  - cause
+  - enable
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - "[model] asserts that the place where work happens contains information that cannot be transmitted through reports, metrics, or secondhand accounts -- the signal degrades in transit"
   - "[model] reframes management failure as a location problem rather than an intelligence problem: bad decisions result from being in the wrong place, not from thinking the wrong thoughts"

@@ -20,6 +20,16 @@ related:
 slug: force-is-a-substance-contained-in-affecting-causes
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+embodied_patterns:
+  - container
+  - force
+  - flow
+relation_types:
+  - cause
+  - contain
+structure:
+  - boundary
+abstraction_level: primitive
 transfers:
   - '[source] causal force maps onto a fluid substance contained within the cause itself -- power flows from a source, energy is stored in a battery, authority resides in the office -- making causation feel like the release of a pre-existing substance'
   - '[source] the magnitude of an effect depends on the quantity of force-substance the cause contains, importing a conservation-like logic where causes with more stored force produce larger effects'

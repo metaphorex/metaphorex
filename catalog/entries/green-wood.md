@@ -18,6 +18,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - flow
+  - surface-depth
+  - balance
+relation_types:
+  - transform
+  - cause
+structure:
+  - transformation
+abstraction_level: specific
 transfers:
   - '[source] Green wood is pliable and easy to shape but will warp, crack, and shrink as it dries, importing the structure where initial ease of shaping is paid for by later instability'
   - '[source] Seasoning wood requires time under controlled conditions that cannot be accelerated without damage (kiln-drying risks case-hardening), importing the structure where maturation has an irreducible duration that shortcuts compromise'

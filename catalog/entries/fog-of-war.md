@@ -20,6 +20,16 @@ created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - blockage
+  - near-far
+  - surface-depth
+relation_types:
+  - prevent
+  - cause
+structure:
+  - boundary
+abstraction_level: generic
 transfers:
   - '[source] atmospheric fog reduces visibility progressively with distance, importing the structure where information degrades as a function of remoteness from the point of action -- commanders further from the front know less, and the degradation is continuous rather than binary'
   - '[source] fog is an environmental condition that affects all parties simultaneously and cannot be dispelled by individual effort, importing the structure where uncertainty is systemic rather than a deficiency of any particular actor'

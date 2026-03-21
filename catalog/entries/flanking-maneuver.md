@@ -20,6 +20,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - center-periphery
+  - path
+  - force
+relation_types:
+  - compete
+  - transform
+structure:
+  - competition
+abstraction_level: generic
 transfers:
   - '[source] the flanking force attacks the side or rear where defenses are thinnest, exploiting the structural asymmetry between a fortified front and an unprotected periphery'
   - '[source] the maneuver requires the attacker to move undetected or faster than the defender can reorient, making speed and surprise load-bearing rather than raw force'

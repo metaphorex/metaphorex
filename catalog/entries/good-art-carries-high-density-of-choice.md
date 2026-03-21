@@ -7,6 +7,16 @@ contributors: []
 created: '2026-03-21'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - scale
+  - surface-depth
+  - accretion
+relation_types:
+  - accumulate
+  - select
+structure:
+  - emergence
+abstraction_level: generic
 kind: mental-model
 limits:
 - '[model] conflates deliberateness with quality -- outsider art and folk art can be powerful precisely because they are not saturated with self-conscious choices, yet the model predicts they should register as low quality, revealing a bias toward trained-artist aesthetics'

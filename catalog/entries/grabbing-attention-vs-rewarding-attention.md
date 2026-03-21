@@ -17,6 +17,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - force
+  - surface-depth
+  - attraction
+relation_types:
+  - compete
+  - select
+structure:
+  - competition
+abstraction_level: generic
 transfers:
   - '[source] in visual art, a loud color or sharp contrast grabs the eye by exploiting low-level perceptual reflexes (pop-out effects), while a painting that rewards sustained looking does so through relational complexity -- tonal subtlety, compositional tension, layered meaning -- that unfolds over time'
   - '[source] the distinction maps onto two different temporal structures of attention: grabbing is a spike (high initial salience, rapid habituation), while rewarding is a plateau (modest initial salience, sustained or increasing engagement as the viewer discovers more)'

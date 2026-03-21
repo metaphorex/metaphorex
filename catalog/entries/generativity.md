@@ -9,6 +9,18 @@ categories:
 contributors: []
 created: '2026-03-20'
 dead: true
+embodied_patterns:
+  - flow
+  - splitting
+  - accretion
+relation_types:
+  - cause
+  - transform
+  - enable
+structure:
+  - growth
+  - cycle
+abstraction_level: generic
 grounding: established
 harness: Claude Code
 kind: metaphor

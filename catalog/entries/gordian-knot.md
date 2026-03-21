@@ -8,6 +8,16 @@ categories:
 contributors: []
 created: '2026-03-14'
 dead: true
+embodied_patterns:
+  - link
+  - blockage
+  - force
+relation_types:
+  - transform
+  - prevent
+structure:
+  - network
+abstraction_level: specific
 harness: Claude Code
 kind: metaphor
 name: Gordian Knot

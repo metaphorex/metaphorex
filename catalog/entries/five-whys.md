@@ -22,6 +22,17 @@ transfers:
   - "[model] fixing the problem at a deeper level in the causal chain prevents recurrence, while fixing at a shallow level only suppresses the current instance"
   - "[model] the method terminates at a point where the answer is within the organization's power to change -- a 'practical root' rather than an infinite regress"
 updated: '2026-03-18'
+embodied_patterns:
+  - surface-depth
+  - path
+  - iteration
+relation_types:
+  - cause
+  - decompose
+structure:
+  - hierarchy
+  - pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

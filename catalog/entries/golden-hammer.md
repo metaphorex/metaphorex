@@ -16,6 +16,16 @@ related:
 slug: golden-hammer
 source_frame: tool-use
 updated: '2026-03-14'
+embodied_patterns:
+  - matching
+  - force
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure:
+  - competition
+abstraction_level: generic
 transfers:
   - '[source] the tool is not merely familiar but prized -- golden, beautiful, invested with personal identity -- importing the structure that attachment to a tool is emotional rather than rational, and that the hammer''s beauty makes the wielder unwilling to set it aside'
   - '[source] the nail illusion maps onto confirmation bias: the hammer-holder sees nails everywhere because the hammer is the only instrument available, importing the perceptual distortion where the tool you hold determines the problems you perceive'

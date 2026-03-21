@@ -9,6 +9,16 @@ contributors: []
 created: '2026-03-20'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - balance
+  - boundary
+  - container
+relation_types:
+  - enable
+  - contain
+structure:
+  - equilibrium
+abstraction_level: generic
 kind: metaphor
 name: Good Enough Mother
 provenance: child-psychology-metaphors

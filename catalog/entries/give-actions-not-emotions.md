@@ -10,6 +10,16 @@ contributors: []
 related:
   - show-dont-tell
 dead: false
+embodied_patterns:
+  - force
+  - path
+  - surface-depth
+relation_types:
+  - cause
+  - transform
+structure:
+  - pipeline
+abstraction_level: generic
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established

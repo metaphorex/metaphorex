@@ -17,6 +17,17 @@ related:
 slug: gas-town
 source_frame: governance
 updated: '2026-03-13'
+embodied_patterns:
+  - center-periphery
+  - flow
+  - part-whole
+relation_types:
+  - coordinate
+  - decompose
+structure:
+  - hierarchy
+  - network
+abstraction_level: specific
 transfers:
   - "[source] the Mayor coordinates citizens without performing the work itself, making orchestration authority legible through civic hierarchy"
   - "[source] Rigs transport tasks between specialist agents as armored cargo, making the message-passing layer concrete and protectable"

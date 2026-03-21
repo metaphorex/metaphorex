@@ -22,6 +22,17 @@ transfers:
   - '[model] reframes "due for a win" reasoning as a confusion between the long-run frequency of outcomes and the conditional probability of the next outcome, which remains unchanged by history'
   - '[model] exposes the narrative instinct that imposes balancing structure on sequences that have no memory, revealing why the error is so persistent despite being intellectually simple to correct'
 updated: '2026-03-19'
+embodied_patterns:
+  - iteration
+  - balance
+  - path
+relation_types:
+  - cause
+  - restore
+structure:
+  - cycle
+  - equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

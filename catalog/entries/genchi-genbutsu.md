@@ -13,6 +13,16 @@ created: '2026-03-18'
 updated: '2026-03-18'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - near-far
+  - surface-depth
+  - path
+relation_types:
+  - cause
+  - enable
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - "[model] treats direct sensory contact with the problem as a prerequisite for valid judgment, not merely a supplement to data -- you do not understand a situation until you have physically encountered it"
   - "[model] locates the failure mode of hierarchical decision-making in abstraction layers: each reporting level between the decision-maker and reality introduces lossy compression that degrades the signal"

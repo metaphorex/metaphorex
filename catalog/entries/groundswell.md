@@ -7,6 +7,16 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 dead: true
+embodied_patterns:
+  - force
+  - surface-depth
+  - flow
+relation_types:
+  - cause
+  - accumulate
+structure:
+  - emergence
+abstraction_level: specific
 name: Groundswell
 related: []
 slug: groundswell

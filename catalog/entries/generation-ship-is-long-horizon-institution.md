@@ -13,6 +13,18 @@ contributors: []
 related:
   - terraforming-is-planetary-engineering
 dead: false
+embodied_patterns:
+  - container
+  - path
+  - boundary
+relation_types:
+  - contain
+  - coordinate
+  - accumulate
+structure:
+  - boundary
+  - cycle
+abstraction_level: specific
 created: '2026-03-17'
 updated: '2026-03-17'
 harness: Claude Code

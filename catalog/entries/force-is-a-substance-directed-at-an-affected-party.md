@@ -19,6 +19,16 @@ related:
 slug: force-is-a-substance-directed-at-an-affected-party
 source_frame: fluid-dynamics
 updated: '2026-03-12'
+embodied_patterns:
+  - flow
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure:
+  - pipeline
+abstraction_level: primitive
 transfers:
   - '[source] causal force maps onto a fluid substance projected from agent to patient -- pressure is applied, force is directed, influence flows toward a target -- giving causation the structure of a stream with a source, direction, and endpoint'
   - '[source] the affected party receives the force-substance the way a surface receives a jet of fluid -- the more substance directed, the greater the impact -- importing proportionality between the quantity of directed force and the magnitude of the effect'

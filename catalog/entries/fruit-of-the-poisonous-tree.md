@@ -23,6 +23,17 @@ transfers:
 limits:
   - "[source] breaks because botanical contamination follows predictable chemical pathways with measurable thresholds, while evidentiary taint is a legal judgment call -- reasonable people disagree about how far 'contamination' propagates through an investigative chain"
   - "[source] misleads because a poisonous tree produces only poisonous fruit, but illegally obtained evidence can point to independently verifiable facts that would have been discovered anyway, creating the 'inevitable discovery' exception that has no botanical analogue"
+embodied_patterns:
+  - path
+  - flow
+  - surface-depth
+relation_types:
+  - cause
+  - prevent
+structure:
+  - pipeline
+  - hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

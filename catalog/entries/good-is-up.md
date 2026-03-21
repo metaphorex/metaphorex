@@ -22,6 +22,16 @@ related:
 slug: good-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+embodied_patterns:
+  - scale
+  - path
+  - balance
+relation_types:
+  - cause
+  - transform
+structure:
+  - hierarchy
+abstraction_level: primitive
 transfers:
   - '[source] positive evaluation maps onto elevated spatial position -- things look up when improving, hit high points at their best, and are at the pinnacle at their peak -- generalizing the vertical axis used by HAPPY IS UP, HEALTHY IS UP, and CONSCIOUS IS UP into a unified evaluative orientation'
   - '[source] moral quality maps onto height: virtuous behavior is elevated (high standards, upstanding citizen) and immoral behavior is debased (low blow, fallen from grace), connecting spatial orientation to ethical judgment'

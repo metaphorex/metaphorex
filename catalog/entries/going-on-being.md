@@ -8,6 +8,16 @@ contributors: []
 created: '2026-03-20'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - flow
+  - container
+  - blockage
+relation_types:
+  - enable
+  - prevent
+structure:
+  - equilibrium
+abstraction_level: generic
 kind: metaphor
 limits:
   - '[source] misleads because fluid flow is governed by external pressure differentials, while Winnicott''s "going on being" is a self-sustaining interior state that requires the absence of external force — the flow metaphor imports a driver where the concept requires the removal of drivers'
