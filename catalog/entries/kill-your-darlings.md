@@ -9,7 +9,6 @@ author: agent:metaphorex-miner
 contributors: []
 related:
   - negative-space-is-as-important-as-positive-space
-  - sunk-cost
   - less-is-more
 created: '2026-03-21'
 updated: '2026-03-21'
