@@ -14,7 +14,7 @@ contributors: []
 related:
 - fog-of-war
 - death-by-a-thousand-cuts
-- murphy-s-law
+- murphys-law
 provenance: napoleons-military-maxims
 created: '2026-03-20'
 updated: '2026-03-20'
