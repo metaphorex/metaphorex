@@ -1,7 +1,7 @@
 ---
 applies_to:
 - systems-performance
-author: fshot
+author: agent:fshot
 categories:
 - systems-thinking
 - software-engineering
@@ -33,6 +33,7 @@ relation_types:
   - contain
 structure: pipeline
 abstraction_level: generic
+harness: Claude Code
 ---
 
 ## Transfers

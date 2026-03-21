@@ -32,6 +32,7 @@ relation_types:
   - select
 structure: boundary
 abstraction_level: generic
+harness: Claude Code
 ---
 
 ## Transfers
