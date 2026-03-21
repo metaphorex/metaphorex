@@ -16,6 +16,16 @@ related:
 - argument-is-war
 slug: having-control-is-up
 source_frame: embodied-experience
+embodied_patterns:
+  - scale
+  - force
+  - balance
+relation_types:
+  - cause
+  - contain
+structure:
+  - hierarchy
+abstraction_level: primitive
 updated: '2026-03-14'
 transfers:
   - '[source] maps dominance onto the vertical axis grounded in physical combat, where the winner ends up on top and the loser on the bottom, making authority feel like a spatial arrangement'

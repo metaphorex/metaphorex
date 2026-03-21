@@ -17,6 +17,16 @@ related:
 - states-are-locations
 slug: harm-is-causing-functional-objects-to-be-nonfunctional
 source_frame: manufacturing
+embodied_patterns:
+  - force
+  - part-whole
+  - blockage
+relation_types:
+  - cause
+  - transform
+structure:
+  - transformation
+abstraction_level: primitive
 updated: '2026-03-12'
 transfers:
   - '[source] maps harm onto the transition from working to broken, importing the manufacturing assumption that entities have a defined functional state and departure from it constitutes damage'

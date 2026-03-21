@@ -13,6 +13,16 @@ contributors: []
 related:
   - tantalus
 dead: true
+embodied_patterns:
+  - path
+  - near-far
+  - force
+relation_types:
+  - cause
+  - transform
+structure:
+  - pipeline
+abstraction_level: specific
 created: '2026-03-16'
 updated: '2026-03-16'
 harness: Claude Code

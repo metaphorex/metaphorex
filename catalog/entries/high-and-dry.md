@@ -7,6 +7,16 @@ contributors: []
 created: '2026-03-14'
 kind: metaphor
 dead: true
+embodied_patterns:
+  - container
+  - removal
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure:
+  - transformation
+abstraction_level: specific
 name: High and Dry
 related:
 - plain-sailing

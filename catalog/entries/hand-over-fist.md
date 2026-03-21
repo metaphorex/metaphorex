@@ -7,6 +7,17 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 dead: true
+embodied_patterns:
+  - iteration
+  - force
+  - path
+relation_types:
+  - accumulate
+  - cause
+structure:
+  - cycle
+  - growth
+abstraction_level: specific
 name: Hand Over Fist
 related: []
 slug: hand-over-fist

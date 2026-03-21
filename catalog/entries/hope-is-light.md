@@ -17,6 +17,16 @@ related:
 - ideas-are-light-sources
 slug: hope-is-light
 source_frame: vision
+embodied_patterns:
+  - near-far
+  - surface-depth
+  - scale
+relation_types:
+  - enable
+  - cause
+structure:
+  - boundary
+abstraction_level: primitive
 updated: '2026-03-12'
 transfers:
   - '[source] maps visibility and orientation in darkness onto the psychological function of hope, so hope allows you to see a path forward when circumstances are otherwise opaque'

@@ -13,6 +13,16 @@ limits:
 - '[source] breaks because architectural half-privacy uses physical surfaces that provide continuous, analog gradations of visibility and sound attenuation, while software access controls are typically binary (public/private, read/write) with no physical gradient'
 - '[source] misleads by suggesting that partial openness is always the right balance, when some work requires full enclosure (security-sensitive code review, personnel discussions) and some benefits from full openness (public documentation, open-source contribution)'
 - '[source] obscures the discoverability asymmetry: a half-open physical office is visible to passersby who can see whether to approach, while a partially public digital space (a semi-private Slack channel, a restricted wiki) gives no such ambient signal about its accessibility'
+embodied_patterns:
+  - boundary
+  - container
+  - center-periphery
+relation_types:
+  - contain
+  - coordinate
+structure:
+  - boundary
+abstraction_level: specific
 name: Half-Private Office
 provenance: alexander-pattern-language
 related:

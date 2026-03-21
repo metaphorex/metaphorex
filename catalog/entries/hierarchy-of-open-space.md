@@ -17,6 +17,17 @@ related:
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established
+embodied_patterns:
+  - container
+  - center-periphery
+  - scale
+  - boundary
+relation_types:
+  - contain
+  - decompose
+structure:
+  - hierarchy
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - '[source] open spaces must form a nested hierarchy from large public areas down to small private ones, because a flat collection of same-sized spaces fails to support the full range of human activities that differ in intimacy, group size, and noise tolerance'

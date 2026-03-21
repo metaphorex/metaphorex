@@ -18,6 +18,16 @@ related:
 - emotional-stability-is-balance
 slug: help-is-support
 source_frame: embodied-experience
+embodied_patterns:
+  - force
+  - balance
+  - scale
+relation_types:
+  - enable
+  - restore
+structure:
+  - hierarchy
+abstraction_level: primitive
 updated: '2026-03-13'
 transfers:
   - '[source] maps assistance onto holding something up against gravity, so the helper bears weight that would otherwise cause the helped person to fall or collapse'

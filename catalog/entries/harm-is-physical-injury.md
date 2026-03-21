@@ -19,6 +19,16 @@ related:
 - effects-of-humor-are-injuries
 slug: harm-is-physical-injury
 source_frame: embodied-experience
+embodied_patterns:
+  - force
+  - surface-depth
+  - scale
+relation_types:
+  - cause
+  - transform
+structure:
+  - transformation
+abstraction_level: primitive
 updated: '2026-03-12'
 transfers:
   - '[source] maps abstract harm onto bodily wounding, giving invisible harms (emotional, financial, reputational) a visible signature that can be pointed to and assessed'

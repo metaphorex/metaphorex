@@ -17,6 +17,17 @@ related:
 created: '2026-03-18'
 updated: '2026-03-18'
 grounding: established
+embodied_patterns:
+  - flow
+  - balance
+  - iteration
+relation_types:
+  - coordinate
+  - transform
+structure:
+  - cycle
+  - equilibrium
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - "[paradigm] treats variability in demand as a controllable design parameter rather than an external given, smoothing volume and mix fluctuations at the scheduling level so that downstream processes experience steady, predictable load"

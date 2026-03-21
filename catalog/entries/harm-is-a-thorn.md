@@ -23,6 +23,16 @@ transfers:
 limits:
   - "[source] breaks because thorns are defensive structures evolved to protect the plant, but the metaphor treats them as purely aggressive"
   - "[source] misleads because horticultural harm (weeds, thorns, barrenness) is seasonal and cyclical, but the metaphor is applied to harms that are permanent and irreversible"
+embodied_patterns:
+  - force
+  - surface-depth
+  - accretion
+relation_types:
+  - cause
+  - accumulate
+structure:
+  - growth
+abstraction_level: specific
 updated: '2026-03-16'
 ---
 

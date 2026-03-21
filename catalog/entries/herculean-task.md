@@ -15,6 +15,16 @@ related:
 created: '2026-03-16'
 updated: '2026-03-16'
 dead: true
+embodied_patterns:
+  - force
+  - path
+  - iteration
+relation_types:
+  - cause
+  - transform
+structure:
+  - pipeline
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - "[source] the labors are imposed by an authority figure as penance, making the difficulty externally assigned rather than freely chosen, and framing endurance as obligation"

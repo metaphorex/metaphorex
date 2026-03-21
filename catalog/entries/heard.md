@@ -14,6 +14,16 @@ related:
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established
+embodied_patterns:
+  - link
+  - iteration
+  - matching
+relation_types:
+  - coordinate
+  - enable
+structure:
+  - cycle
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[source] a verbal command issued into a noisy, high-tempo environment requires an explicit acknowledgment before the sender can trust it was received, making silence structurally equivalent to failure'

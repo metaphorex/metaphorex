@@ -19,6 +19,17 @@ related:
 - the-conduit-metaphor
 slug: ideas-are-fashions
 source_frame: social-behavior
+embodied_patterns:
+  - flow
+  - iteration
+  - scale
+relation_types:
+  - compete
+  - select
+structure:
+  - cycle
+  - competition
+abstraction_level: generic
 updated: '2026-03-14'
 transfers:
   - '[source] maps the trend cycle (novelty, adoption, peak, decline, revival) onto intellectual history, making ideas subject to social contagion dynamics rather than purely rational evaluation'

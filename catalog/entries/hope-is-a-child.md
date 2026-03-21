@@ -16,6 +16,16 @@ related:
 - hope-is-light
 slug: hope-is-a-child
 source_frame: life-course
+embodied_patterns:
+  - scale
+  - part-whole
+  - accretion
+relation_types:
+  - enable
+  - transform
+structure:
+  - growth
+abstraction_level: specific
 updated: '2026-03-12'
 transfers:
   - '[source] maps the developmental trajectory of childhood -- fragility, growth, dependence, open future -- onto hope, making it something alive that demands care from the person who harbors it'

@@ -6,6 +6,16 @@ categories:
 contributors: []
 created: '2026-03-19'
 grounding: proven
+embodied_patterns:
+  - container
+  - iteration
+  - scale
+relation_types:
+  - transform
+  - coordinate
+structure:
+  - hierarchy
+abstraction_level: generic
 harness: Claude Code
 kind: mental-model
 limits:

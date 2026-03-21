@@ -19,6 +19,16 @@ related:
 - harm-is-preventing-forward-motion-toward-a-goal
 slug: harming-is-lowering
 source_frame: embodied-experience
+embodied_patterns:
+  - scale
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure:
+  - hierarchy
+abstraction_level: primitive
 updated: '2026-03-12'
 transfers:
   - '[source] maps harm onto downward displacement, aligning it with gravity so that harming feels like a force pushing in the direction things naturally fall'

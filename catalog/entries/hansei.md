@@ -6,6 +6,15 @@ categories:
 contributors: []
 created: '2026-03-18'
 grounding: established
+embodied_patterns:
+  - iteration
+  - surface-depth
+relation_types:
+  - transform
+  - restore
+structure:
+  - cycle
+abstraction_level: generic
 harness: Claude Code
 kind: mental-model
 name: Hansei

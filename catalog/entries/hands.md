@@ -16,6 +16,16 @@ related:
 - bus-factor
 slug: hands
 source_frame: food-and-cooking
+embodied_patterns:
+  - force
+  - balance
+  - flow
+relation_types:
+  - coordinate
+  - restore
+structure:
+  - network
+abstraction_level: specific
 updated: '2026-03-19'
 transfers:
   - '[source] the call is a broadcast interrupt that reprioritizes the nearest available workers, overriding whatever task they are currently performing'

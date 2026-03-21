@@ -19,6 +19,16 @@ related:
 - ideas-are-people
 slug: ideas-are-cutting-instruments
 source_frame: manufacturing
+embodied_patterns:
+  - force
+  - splitting
+  - surface-depth
+relation_types:
+  - decompose
+  - transform
+structure:
+  - hierarchy
+abstraction_level: generic
 updated: '2026-03-14'
 transfers:
   - '[source] maps the sharpness of blades onto intellectual precision, so a keen argument divides a problem into parts the way a scalpel separates tissue along clean lines'

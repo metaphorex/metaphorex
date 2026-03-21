@@ -16,6 +16,17 @@ related:
 - software-rot
 slug: hydra-code
 source_frame: mythology
+embodied_patterns:
+  - splitting
+  - force
+  - link
+relation_types:
+  - cause
+  - accumulate
+structure:
+  - growth
+  - network
+abstraction_level: specific
 updated: '2026-03-14'
 transfers:
   - '[source] maps the Hydra''s head-regeneration property onto codebases where fixing one bug introduces two new ones, capturing the specific pathology of repair that worsens the system'

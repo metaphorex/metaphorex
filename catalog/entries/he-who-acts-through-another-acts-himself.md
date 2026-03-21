@@ -23,6 +23,18 @@ transfers:
   - "[paradigm] collapses the principal-agent distinction by treating delegation as extension rather than separation -- the agent's hands are legally and morally the principal's hands, making delegation an expansion of the self rather than a transfer of responsibility"
   - "[paradigm] generates the entire vocabulary of vicarious liability, command responsibility, and organizational accountability by establishing that authority cannot be exercised without accepting consequences for how it is exercised"
   - "[paradigm] structures modern debates about AI accountability by insisting that deploying an autonomous agent does not create a responsibility vacuum -- someone authorized the deployment and inherits its consequences"
+embodied_patterns:
+  - link
+  - part-whole
+  - force
+relation_types:
+  - cause
+  - enable
+  - contain
+structure:
+  - hierarchy
+  - network
+abstraction_level: generic
 updated: '2026-03-16'
 ---
 

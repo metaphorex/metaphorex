@@ -15,6 +15,16 @@ related:
 - understanding-is-seeing
 slug: ideas-are-food
 source_frame: food-and-cooking
+embodied_patterns:
+  - container
+  - flow
+  - part-whole
+relation_types:
+  - transform
+  - select
+structure:
+  - pipeline
+abstraction_level: generic
 updated: '2026-03-14'
 transfers:
   - "[source] raw ingredients require preparation through heat and technique before they become consumable"

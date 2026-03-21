@@ -19,6 +19,16 @@ related:
 - more-is-up
 slug: health-is-up
 source_frame: embodied-experience
+embodied_patterns:
+  - scale
+  - force
+  - balance
+relation_types:
+  - cause
+  - transform
+structure:
+  - hierarchy
+abstraction_level: primitive
 updated: '2026-03-14'
 transfers:
   - '[source] grounds health in the direct bodily correlation between upright posture and physical well-being, making the vertical metaphor feel less figurative than almost any other orientational mapping'

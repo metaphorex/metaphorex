@@ -7,6 +7,18 @@ categories:
 contributors: []
 created: '2026-03-21'
 grounding: folk
+embodied_patterns:
+  - center-periphery
+  - boundary
+  - part-whole
+relation_types:
+  - contain
+  - enable
+  - decompose
+structure:
+  - boundary
+  - growth
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 limits:

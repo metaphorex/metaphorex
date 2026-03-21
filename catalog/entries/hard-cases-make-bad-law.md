@@ -13,6 +13,16 @@ related:
 provenance: brooms-legal-maxims
 created: '2026-03-16'
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - boundary
+  - scale
+relation_types:
+  - cause
+  - transform
+structure:
+  - boundary
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - "[law] predicts that rules designed around emotionally compelling edge cases will systematically produce worse outcomes for the typical case than rules designed around the baseline"

@@ -6,6 +6,16 @@ categories:
 contributors: []
 created: '2026-03-19'
 grounding: established
+embodied_patterns:
+  - iteration
+  - scale
+  - self-organization
+relation_types:
+  - cause
+  - accumulate
+structure:
+  - cycle
+abstraction_level: generic
 harness: Claude Code
 kind: mental-model
 name: "Hofstadter's Law"
