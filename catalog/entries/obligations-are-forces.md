@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because physical forces act on passive objects, while obligated persons are agents who can reinterpret or reject the obligation entirely'
   - '[source] misleads because physical force produces predictable displacement, while moral pressure produces unpredictable responses including resentment, defiance, and creative compliance'
+embodied_patterns:
+  - force
+  - path
+  - blockage
+relation_types:
+  - cause
+  - prevent
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

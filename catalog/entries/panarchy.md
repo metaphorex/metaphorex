@@ -27,6 +27,17 @@ transfers:
   - '[paradigm] cross-scale interactions occur in two directions: "revolt" (a fast, small collapse cascades upward to destabilize a larger, slower system) and "remember" (a large, slow system provides the context and resources for reorganization at smaller scales)'
   - '[paradigm] resilience is a property of the cross-scale structure, not of any single level, so analyzing a system at only one scale systematically misestimates its vulnerability'
 updated: '2026-03-21'
+embodied_patterns:
+  - scale
+  - iteration
+  - self-organization
+relation_types:
+  - coordinate
+  - transform
+structure:
+  - cycle
+  - hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

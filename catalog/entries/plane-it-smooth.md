@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because planing only removes material and cannot add it back -- once a surface is planed below the target line, the board is ruined -- but the metaphor is used as if smoothing over problems is a low-risk, reversible activity'
   - '[source] misleads by implying that all irregularities should be removed, when some "rough spots" in a process or argument may be load-bearing features that serve a structural purpose the smoother does not perceive'
+embodied_patterns:
+  - removal
+  - iteration
+  - matching
+relation_types:
+  - transform
+  - accumulate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

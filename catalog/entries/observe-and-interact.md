@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[model] breaks in domains where the system changes faster than the observation cycle -- a startup market may shift completely in the year you spend observing it -- because the principle assumes the system is periodic and stable enough that a full observation cycle reveals its essential patterns'
   - '[model] misleads when used to justify indefinite analysis paralysis, because the original agricultural context specifies a bounded observation period (one year) tied to the seasonal cycle, not open-ended study'
+embodied_patterns:
+  - matching
+  - iteration
+  - path
+relation_types:
+  - enable
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

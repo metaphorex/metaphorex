@@ -24,6 +24,15 @@ limits:
   - '[source] breaks because improv scenes have no stakes -- a blocked offer means a dead scene, not a lost contract or a failed product -- so the metaphor understates the legitimate reasons to say no in high-consequence contexts'
   - '[source] misleads by framing all rejection as "blocking," which can suppress necessary critical evaluation and turn brainstorming into a politeness trap where bad ideas survive because nobody will block them'
   - '[source] obscures power dynamics because improv assumes rough parity between players, but workplace collaboration involves hierarchy, resource constraints, and accountability structures that make "yes, and" naive'
+embodied_patterns:
+  - link
+  - flow
+  - blockage
+relation_types:
+  - enable
+  - prevent
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks because kitchen on-the-fly orders are always small, scoped, and completable in minutes, while organizational "on the fly" work often has unbounded scope and uncertain completion time -- the metaphor imports a false confidence that reactive work is quick work'
   - '[source] misleads by framing reactive work as a kitchen emergency (rare, caused by error), when in many organizations unplanned work is the dominant mode rather than the exception, and calling it "on the fly" preserves the fiction that planned work is the norm'
+embodied_patterns:
+  - flow
+  - force
+  - blockage
+relation_types:
+  - restore
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

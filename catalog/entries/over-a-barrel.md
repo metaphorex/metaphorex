@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] breaks because the original nautical punishment was temporary and survivable, while being over a barrel in business can mean permanent ruin'
   - '[source] misleads because the physical scenario has a clear oppressor applying force, while modern leverage situations often involve structural or market forces with no single identifiable agent'
+embodied_patterns:
+  - force
+  - blockage
+  - container
+relation_types:
+  - prevent
+  - cause
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

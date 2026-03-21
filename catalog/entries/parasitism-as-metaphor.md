@@ -27,6 +27,15 @@ transfers:
   - '[metaphor] the parasite depends on the host for survival and cannot exist independently, importing the structural insight that extractive actors are bound to and limited by the systems they exploit'
   - '[metaphor] parasites often evade the host''s immune defenses through camouflage or suppression, mapping onto how extractive actors avoid detection by mimicking legitimate participants or suppressing accountability mechanisms'
 updated: '2026-03-21'
+embodied_patterns:
+  - flow
+  - link
+  - force
+relation_types:
+  - compete
+  - cause
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

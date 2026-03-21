@@ -28,6 +28,15 @@ transfers:
   - '[source] imports the succession dynamic: pioneer species are eventually displaced by slower-growing, more competitive species that could not have established without the pioneers'' soil preparation, transferring the pattern where early entrants build infrastructure that later competitors exploit'
   - '[source] carries the disturbance-dependence principle -- pioneers thrive only after disruption clears the existing ecosystem, mapping onto the observation that first-movers need market disruption (technological shift, regulatory change, economic crisis) to create the barren ground they colonize'
 updated: '2026-03-21'
+embodied_patterns:
+  - path
+  - accretion
+  - boundary
+relation_types:
+  - enable
+  - transform
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

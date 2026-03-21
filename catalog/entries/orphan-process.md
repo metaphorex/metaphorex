@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because human orphanhood carries lasting emotional trauma, while an orphan process is functionally unaware of its parent''s death'
   - '[source] misleads because adoption in human societies is complex and contested, while init adoption is automatic, unconditional, and instantaneous'
+embodied_patterns:
+  - splitting
+  - link
+  - container
+relation_types:
+  - cause
+  - prevent
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

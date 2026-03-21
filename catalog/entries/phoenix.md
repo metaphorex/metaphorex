@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because the phoenix's rebirth is guaranteed by its nature, while organizational or personal comebacks depend on contingent effort, resources, and luck"
   - "[source] misleads because the phoenix emerges unchanged, but real recoveries from destruction typically produce something substantially different from what existed before"
+embodied_patterns:
+  - splitting
+  - path
+  - force
+relation_types:
+  - transform
+  - restore
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

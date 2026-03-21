@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because physical keys cannot be revoked once copied -- you must change the lock -- while digital permissions can be revoked instantly without altering the protected resource"
   - "[source] misleads because physical keys grant all-or-nothing access (the door opens or it does not), while digital permissions support fine-grained scoping (read but not write, access during business hours, limited to specific records)"
+embodied_patterns:
+  - matching
+  - boundary
+  - container
+relation_types:
+  - enable
+  - prevent
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

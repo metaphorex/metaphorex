@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because physical platforms are passive and inert, while digital platforms actively shape behavior through algorithms, defaults, and incentive structures'
   - '[source] misleads because a physical platform supports all weight equally, while digital platforms preferentially amplify content and users that serve the platform''s commercial interests'
+embodied_patterns:
+  - superimposition
+  - scale
+  - container
+relation_types:
+  - enable
+  - contain
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

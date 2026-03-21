@@ -26,6 +26,15 @@ transfers:
   - "[source] imports the narrative that some knowledge or capability, once released, cannot be put back -- the box cannot be closed again -- teaching that certain thresholds are genuinely one-way"
   - "[source] carries the residual presence of hope at the bottom of the box, embedding the idea that even catastrophic releases contain some redemptive element"
 updated: '2026-03-16'
+embodied_patterns:
+  - container
+  - boundary
+  - flow
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

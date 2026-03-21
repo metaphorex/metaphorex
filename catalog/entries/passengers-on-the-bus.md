@@ -26,6 +26,15 @@ limits:
   - '[source] breaks because a real bus driver can stop the bus, eject passengers, or call for help -- the metaphor requires a driver who has no authority over passenger behavior, which is not how buses actually work'
   - '[source] misleads by implying passengers are merely noisy nuisances, when some psychological experiences (trauma responses, panic attacks) are more like passengers who physically assault the driver -- the metaphor underrepresents the intensity of certain mental states'
   - '[source] obscures the possibility that some "passengers" carry useful information: anxiety before a dangerous situation is not just noise but signal, and treating all unwanted internal experiences as rowdy passengers risks ignoring adaptive emotions'
+embodied_patterns:
+  - container
+  - path
+  - force
+relation_types:
+  - contain
+  - coordinate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because physical paths offer continuous sensory feedback (the goal gets closer with each step), while digital navigation provides only discrete state changes (page 1, page 2, done)'
   - '[source] misleads by assuming a single visible goal per path, when digital interfaces often serve users with divergent intentions who need the same path to suggest different destinations'
+embodied_patterns:
+  - path
+  - near-far
+  - matching
+relation_types:
+  - enable
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

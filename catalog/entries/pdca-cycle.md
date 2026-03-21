@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[paradigm] breaks when the cycle is applied ritualistically without genuine uncertainty -- if you already know what will happen, running a full PDCA cycle is overhead theater, not learning"
   - "[paradigm] misleads by implying that all four phases deserve equal time and effort, when in practice the bottleneck is almost always Check (organizations skip measurement) or Act (organizations fail to institutionalize lessons)"
+embodied_patterns:
+  - iteration
+  - path
+  - matching
+relation_types:
+  - transform
+  - coordinate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

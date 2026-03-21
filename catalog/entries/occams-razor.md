@@ -21,6 +21,15 @@ transfers:
 - '[model] operates as a selection criterion among competing hypotheses: unnecessary complexity is a cost because every additional assumption is another place where the theory can be wrong'
 - '[model] applies comparatively, not absolutely -- it prefers the simpler of two explanations that account for the same evidence equally well, not simple explanations over accurate ones'
 updated: '2026-03-13'
+embodied_patterns:
+  - removal
+  - matching
+  - scale
+relation_types:
+  - select
+  - prevent
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

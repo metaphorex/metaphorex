@@ -23,6 +23,15 @@ transfers:
   - '[model] generates the diagnostic A-not-B error as a signature of incomplete permanence representation: the infant searches where the object was last found rather than where it was last seen, revealing that early spatial memory is tied to successful action rather than observed location'
   - '[model] provides UX design with the principle that interface elements should behave as if they persist when off-screen — a hidden menu, a background process, a minimized window — because users transfer their expectation of physical persistence to digital objects'
 updated: '2026-03-20'
+embodied_patterns:
+  - container
+  - surface-depth
+  - matching
+relation_types:
+  - enable
+  - transform
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

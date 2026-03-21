@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because the palantir connects exactly two points, while real surveillance systems aggregate data from millions of sources with no reciprocal channel"
   - "[source] misleads because Sauron's ability to manipulate the palantir depends on personal will, but real disinformation operates through structural and algorithmic mechanisms that have no single controlling intelligence"
+embodied_patterns:
+  - near-far
+  - surface-depth
+  - container
+relation_types:
+  - enable
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

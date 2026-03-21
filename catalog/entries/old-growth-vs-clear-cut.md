@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because forests do not have intentions or purposes -- their complexity is an emergent property of undirected ecological processes -- whereas organizations are designed systems with goals, making the analogy between "accumulated complexity" and "institutional memory" structurally imprecise'
   - '[source] misleads because clear-cutting in forestry is sometimes ecologically appropriate (certain fire-adapted ecosystems depend on periodic total clearing), but the metaphor always codes clear-cutting as destructive, importing a normative judgment that does not universally hold even in the source domain'
+embodied_patterns:
+  - accretion
+  - self-organization
+  - part-whole
+relation_types:
+  - accumulate
+  - transform
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because machines do not choose their inputs or resist their programming, while people exercise agency over what they consume and how they respond'
   - '[source] misleads because machine output is consistent given consistent inputs, while human performance varies with meaning, motivation, and social context in ways that have no mechanical analogue'
+embodied_patterns:
+  - part-whole
+  - matching
+  - force
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because Tolkien's ring is a metaphysical artifact with inherent will and agency, while real centralizing technologies are inert tools whose corrupting effects depend on institutional and psychological context rather than magical compulsion"
   - "[source] misleads because the ring's solution is total destruction, but real centralizing systems (nuclear weapons, surveillance infrastructure, platform monopolies) cannot simply be thrown into a volcano -- dismantlement is a political and engineering problem, not a heroic quest"
+embodied_patterns:
+  - center-periphery
+  - force
+  - container
+relation_types:
+  - contain
+  - coordinate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

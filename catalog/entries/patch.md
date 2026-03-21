@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because textile patches restore original function without changing behavior, while software patches often alter functionality and introduce new behavior'
   - '[source] misleads because a cloth patch is a permanent physical addition, while a software patch can be rolled back, versioned, and superseded cleanly'
+embodied_patterns:
+  - superimposition
+  - matching
+  - part-whole
+relation_types:
+  - restore
+  - transform
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

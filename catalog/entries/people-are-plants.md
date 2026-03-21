@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because plants cannot relocate themselves, while people uproot and transplant by choice, making the metaphor overstate the cost of mobility'
   - '[source] misleads because plant growth is deterministic given conditions, while human development involves deliberate choice, self-direction, and the capacity to grow against environmental pressures'
+embodied_patterns:
+  - accretion
+  - path
+  - container
+relation_types:
+  - enable
+  - transform
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers
