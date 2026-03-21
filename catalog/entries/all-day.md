@@ -15,6 +15,16 @@ related:
   - a-la-minute
   - in-the-weeds
 dead: false
+embodied_patterns:
+  - part-whole
+  - scale
+  - flow
+relation_types:
+  - accumulate
+  - coordinate
+  - select
+structure: pipeline
+abstraction_level: specific
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: folk

@@ -19,6 +19,16 @@ provenance: scheins-surgical-aphorisms
 created: '2026-03-20'
 updated: '2026-03-20'
 grounding: folk
+embodied_patterns:
+  - flow
+  - force
+  - boundary
+relation_types:
+  - cause
+  - prevent
+  - restore
+structure: equilibrium
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[source] All hemorrhage terminates -- either because the surgeon controls it or because the patient exsanguinates -- importing the structure where every crisis has a guaranteed endpoint but the outcome depends entirely on the quality of intervention before that endpoint arrives'

@@ -9,6 +9,16 @@ contributors: []
 created: '2026-03-17'
 dead: true
 grounding: established
+embodied_patterns:
+  - part-whole
+  - splitting
+  - removal
+relation_types:
+  - decompose
+  - cause
+  - select
+structure: hierarchy
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Accidental Complexity

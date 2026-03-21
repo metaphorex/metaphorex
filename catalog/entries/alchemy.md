@@ -15,6 +15,16 @@ related:
 created: '2026-03-16'
 updated: '2026-03-16'
 harness: Claude Code
+embodied_patterns:
+  - container
+  - superimposition
+  - scale
+relation_types:
+  - transform
+  - cause
+  - enable
+structure: transformation
+abstraction_level: generic
 transfers:
   - "[source] alchemy requires a base material to be destroyed and reconstituted rather than merely improved, making transformation a process of fundamental change in kind rather than degree"
   - "[source] the philosopher's stone is a catalyst -- it enables transmutation without being consumed itself, separating the agent of transformation from the material being transformed"

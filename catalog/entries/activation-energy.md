@@ -17,6 +17,16 @@ updated: '2026-03-13'
 transfers:
   - "[model] distinguishes the threshold barrier to starting a process from the energy required to sustain it, explaining why good intentions fail at initiation despite adequate ongoing capacity"
   - "[model] reframes the intervention question from 'how do I generate more motivation?' to 'how do I lower the barrier?' by introducing catalysts that reduce the threshold without being consumed"
+embodied_patterns:
+  - force
+  - blockage
+  - scale
+relation_types:
+  - enable
+  - cause
+  - prevent
+structure: transformation
+abstraction_level: generic
 limits:
   - "[model] breaks because chemical reactions have one precisely measurable activation energy, while behavior change involves multiple sequential barriers (initial decision, first attempt, first failure, recovery) that the single-threshold model collapses"
   - "[model] misleads because the metaphor encourages brute-force approaches (apply more energy), while in human systems more pressure often produces resistance, burnout, or resentment rather than the desired reaction"

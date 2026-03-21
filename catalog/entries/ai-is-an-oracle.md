@@ -16,6 +16,16 @@ related:
 slug: ai-is-an-oracle
 source_frame: religion
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - surface-depth
+  - boundary
+relation_types:
+  - translate
+  - enable
+  - cause
+structure: hierarchy
+abstraction_level: generic
 transfers:
   - '[source] an oracle delivers answers from a source of knowledge inaccessible to the questioner, framing AI as possessing compressed knowledge that the user cannot directly inspect or verify'
   - '[source] oracular pronouncements are ambiguous and require interpretation by the recipient, importing the structural problem that AI outputs need contextual judgment to apply correctly'

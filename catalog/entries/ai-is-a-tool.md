@@ -18,6 +18,16 @@ related:
 slug: ai-is-a-tool
 source_frame: tool-use
 updated: '2026-03-13'
+embodied_patterns:
+  - force
+  - link
+  - part-whole
+relation_types:
+  - enable
+  - transform
+  - cause
+structure: hierarchy
+abstraction_level: generic
 transfers:
   - '[source] a tool extends human capability in a specific direction chosen by the user, importing the structure where the human provides intentionality and the tool provides mechanical advantage'
   - '[source] tools require skill to use effectively -- a saw in untrained hands produces rough cuts -- framing AI proficiency as a learned craft rather than plug-and-play automation'

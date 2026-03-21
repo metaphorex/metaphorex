@@ -16,6 +16,16 @@ related:
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
+embodied_patterns:
+  - link
+  - center-periphery
+  - flow
+relation_types:
+  - coordinate
+  - enable
+  - accumulate
+structure: network
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[source] activity concentrates at points where multiple circulation paths cross, because the intersection of routes guarantees a minimum flow of people regardless of any single route''s traffic'

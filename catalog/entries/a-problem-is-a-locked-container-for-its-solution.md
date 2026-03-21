@@ -27,6 +27,16 @@ transfers:
 - '[source] frames difficulty as the strength of the lock (''tough nut to crack'', ''intractable''), providing a natural scale where hard problems have stronger locks and failed attempts are failed entries'
 - '[source] treats expertise as possession of keys rather than capacity to build, mapping the problem-solver''s skill onto a repertoire of unlocking tools'
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - blockage
+  - boundary
+relation_types:
+  - contain
+  - prevent
+  - transform
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

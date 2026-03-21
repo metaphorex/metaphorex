@@ -25,6 +25,16 @@ transfers:
 - '[source] makes the intensity of action correspond to force of transfer -- gentle giving is gentle action, violent throwing is violent action -- scaling impact through the physics of the transferred object'
 - '[source] maps mutual action onto exchange (''they traded insults'', ''she gave as good as she got''), importing commercial or gift-exchange logic into reciprocal social interaction'
 updated: '2026-03-13'
+embodied_patterns:
+  - path
+  - force
+  - link
+relation_types:
+  - cause
+  - transform
+  - translate
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

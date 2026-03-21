@@ -25,6 +25,16 @@ limits:
   - "[source] misleads because the aegis protects through divine terror (the Gorgon's head mounted on it), while modern aegis-protection is bureaucratic and procedural, not fearsome"
   - "[source] obscures because the myth grants aegis-protection only to gods, implying that institutional protection is divine right rather than a contingent political arrangement that can be revoked"
 updated: '2026-03-16'
+embodied_patterns:
+  - boundary
+  - force
+  - container
+relation_types:
+  - prevent
+  - enable
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -15,6 +15,16 @@ related:
 slug: ai-is-a-mirror
 source_frame: vision
 updated: '2026-03-13'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - scale
+relation_types:
+  - translate
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 transfers:
   - '[source] a mirror reflects what stands before it without originating its own image, framing AI outputs as reflections of training data and user prompts rather than autonomous thought'
   - '[source] a mirror reverses left and right while preserving overall structure, importing the insight that AI outputs resemble their sources but with systematic transformations'

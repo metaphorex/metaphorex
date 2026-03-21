@@ -15,6 +15,16 @@ related:
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established
+embodied_patterns:
+  - balance
+  - scale
+  - self-organization
+relation_types:
+  - transform
+  - accumulate
+  - restore
+structure: cycle
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - '[model] divides system dynamics into four qualitatively different phases (rapid growth, conservation, release, reorganization) that recur in sequence, providing names for stages that linear growth narratives collapse into "up" and "down"'

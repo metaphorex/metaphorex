@@ -27,6 +27,16 @@ transfers:
 - '[source] gives action crisp temporal boundaries defined by motion onset and cessation (''let''s get this moving'', ''put the brakes on''), framing starting and stopping as physical transitions'
 - '[source] serves as the grounding metaphor on which LIFE IS A JOURNEY, PURPOSES ARE DESTINATIONS, and the entire journey family of metaphors depend'
 updated: '2026-03-14'
+embodied_patterns:
+  - path
+  - force
+  - blockage
+relation_types:
+  - cause
+  - enable
+  - prevent
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

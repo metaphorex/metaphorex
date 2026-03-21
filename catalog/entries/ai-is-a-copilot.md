@@ -17,6 +17,16 @@ related:
 slug: ai-is-a-copilot
 source_frame: aviation
 updated: '2026-03-13'
+embodied_patterns:
+  - link
+  - part-whole
+  - balance
+relation_types:
+  - coordinate
+  - enable
+  - select
+structure: hierarchy
+abstraction_level: specific
 transfers:
   - '[source] a copilot shares the cockpit but the pilot-in-command retains final authority and legal responsibility, importing a specific liability structure where the human remains accountable'
   - '[source] copilot duties include monitoring instruments, cross-checking the pilot, and taking over during incapacitation, framing AI as a redundancy layer rather than an autonomous agent'

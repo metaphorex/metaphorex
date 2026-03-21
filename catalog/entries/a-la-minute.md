@@ -15,6 +15,16 @@ related:
   - dying-on-the-pass
   - prep
 dead: false
+embodied_patterns:
+  - flow
+  - container
+  - iteration
+relation_types:
+  - transform
+  - enable
+  - select
+structure: pipeline
+abstraction_level: specific
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: folk

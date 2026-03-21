@@ -16,6 +16,16 @@ related:
 slug: alignment-is-physical-alignment
 source_frame: physics
 updated: '2026-03-13'
+embodied_patterns:
+  - matching
+  - force
+  - balance
+relation_types:
+  - coordinate
+  - prevent
+  - cause
+structure: equilibrium
+abstraction_level: generic
 transfers:
   - '[source] physical alignment requires bringing two objects into a shared axis or orientation, framing value alignment as achieving correspondence between AI objectives and human values along measurable dimensions'
   - '[source] misalignment in machinery causes friction, wear, and eventual failure, importing the prediction that even small divergences between AI objectives and human values will compound into significant harm over time'

@@ -24,6 +24,16 @@ transfers:
 - '[source] demands that waiting spaces communicate status -- queue position, estimated time, progress indication -- importing the architectural principle that the wait should not be opaque'
 - '[source] treats the waiting place as a liminal transition zone between two states (outside/inside, requesting/receiving), framing buffer states as architectural thresholds rather than defects'
 updated: '2026-03-14'
+embodied_patterns:
+  - container
+  - boundary
+  - path
+relation_types:
+  - contain
+  - enable
+  - translate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

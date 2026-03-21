@@ -27,6 +27,16 @@ transfers:
 - '[source] frames missed deadlines as objects that passed through the observer''s location without being caught, registering temporal failure as spatial failure to intercept'
 - '[source] gives schedules inertia -- once a project is ''on track'' it resists being stopped or redirected -- importing physics of moving objects into the experienced difficulty of changing plans'
 updated: '2026-03-17'
+embodied_patterns:
+  - path
+  - force
+  - near-far
+relation_types:
+  - cause
+  - prevent
+  - translate
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

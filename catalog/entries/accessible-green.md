@@ -26,6 +26,16 @@ transfers:
 - '[source] imports the structural insight that green spaces must be distributed throughout the built environment rather than concentrated in a single large park, because a distant resource -- no matter how grand -- is not accessible in daily practice'
 - '[source] carries the principle that the green space belongs to no single household or institution but to the surrounding community collectively, framing shared ownership as a design requirement rather than an ideological preference'
 updated: '2026-03-21'
+embodied_patterns:
+  - center-periphery
+  - near-far
+  - part-whole
+relation_types:
+  - enable
+  - coordinate
+  - accumulate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

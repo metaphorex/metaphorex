@@ -31,6 +31,16 @@ transfers:
 - '[source] gives forces a temporal arrival structure -- a force was not here, then approached, then made impact -- making abstract causation tractable through the narrative of collision'
 - '[source] allows agents to propel forces (''she hurled accusations'', ''they launched an attack''), extending the metaphor into causation where exerting force is throwing something at a target'
 updated: '2026-03-14'
+embodied_patterns:
+  - force
+  - path
+  - blockage
+relation_types:
+  - cause
+  - transform
+  - translate
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

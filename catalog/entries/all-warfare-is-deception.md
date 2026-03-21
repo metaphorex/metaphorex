@@ -16,6 +16,16 @@ provenance: napoleons-military-maxims
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
+embodied_patterns:
+  - surface-depth
+  - boundary
+  - matching
+relation_types:
+  - compete
+  - prevent
+  - cause
+structure: competition
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - '[model] reframes competition as an information problem rather than a force problem, making the decisive advantage not how much power you have but how much your opponent misreads about your power, intentions, and position'

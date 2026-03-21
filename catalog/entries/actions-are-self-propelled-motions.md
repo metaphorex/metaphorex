@@ -30,6 +30,16 @@ transfers:
 - '[source] makes procrastination literally a failure to start moving, and persistence a refusal to stop, giving both initiation and perseverance a visceral physical character'
 - '[source] gives purposeful action a direction that maps onto purposiveness: aimless action is wandering, focused action is marching, and correct action is being on track'
 updated: '2026-03-13'
+embodied_patterns:
+  - path
+  - force
+  - blockage
+relation_types:
+  - cause
+  - enable
+  - prevent
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

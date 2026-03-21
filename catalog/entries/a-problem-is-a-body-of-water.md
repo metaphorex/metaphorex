@@ -27,6 +27,16 @@ transfers:
 - '[source] divides problems into visible surface and hidden depths (''these issues run deep'', ''tip of the iceberg''), importing the structure where what you can see is only part of the difficulty'
 - '[source] maps currents, tides, and eddies onto forces beyond the problem-solver''s control, giving the problem its own agency that carries you along independent of your will'
 updated: '2026-03-14'
+embodied_patterns:
+  - container
+  - surface-depth
+  - flow
+relation_types:
+  - contain
+  - cause
+  - prevent
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers
