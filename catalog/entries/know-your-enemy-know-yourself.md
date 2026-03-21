@@ -10,7 +10,7 @@ contributors: []
 related:
   - fog-of-war
   - size-up
-provenance: napoleons-military-maxims
+provenance: sun-tzu-art-of-war
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
