@@ -5,13 +5,14 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Compounding
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest
 slug: compounding
-updated: '2026-03-13'
+updated: '2026-03-21'
 transfers:
   - "[model] returns generate their own returns over time, making small consistent inputs produce disproportionate long-term outputs through exponential rather than linear accumulation"
   - "[model] interruption destroys value non-linearly because you lose the base that future returns would have compounded on, making the cost of stopping exponential rather than proportional"

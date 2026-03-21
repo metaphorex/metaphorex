@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Comparative Advantage
 provenance: munger-poor-charlies-almanack
@@ -12,7 +13,7 @@ related:
 - survival-of-the-fittest
 - the-map-is-not-the-territory
 slug: comparative-advantage
-updated: '2026-03-13'
+updated: '2026-03-21'
 transfers:
   - "[model] reframes 'I can do this better than anyone' from a reason to do it into a reason to delegate, by measuring opportunity cost rather than absolute capability"
   - "[model] provides a rational basis for letting someone less skilled handle a task, since the question is not 'can they do it as well?' but 'does my doing it cost more in foregone alternatives?'"
