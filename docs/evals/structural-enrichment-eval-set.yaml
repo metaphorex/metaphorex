@@ -1,0 +1,1143 @@
+# Structural Enrichment Eval Set
+# 100 entries tagged with embodied_patterns, relation_types, structure, abstraction_level
+# Purpose: validate that structural tags improve non-obvious metaphor retrieval
+# See: docs/plans/2026-03-20-structural-enrichment-vocabulary.md
+# Batch 1: 50 entries (2026-03-20)
+# Batch 2: 50 entries (2026-03-21) — diverse source frames, more specific entries
+
+entries:
+
+  # === METAPHORS (25) ===
+
+  - slug: argument-is-war
+    kind: metaphor
+    source_frame: war
+    embodied_patterns: [force, boundary, near-far]
+    relation_types: [compete, prevent, cause]
+    structure: [competition]
+    abstraction_level: generic
+
+  - slug: technical-debt
+    kind: metaphor
+    source_frame: economics
+    embodied_patterns: [accretion, blockage, scale]
+    relation_types: [accumulate, cause, prevent]
+    structure: [growth]
+    abstraction_level: generic
+
+  - slug: bottleneck
+    kind: metaphor
+    source_frame: containers
+    embodied_patterns: [container, blockage, flow]
+    relation_types: [prevent, cause, contain]
+    structure: [pipeline]
+    abstraction_level: generic
+
+  - slug: code-smell
+    kind: metaphor
+    source_frame: embodied-experience
+    embodied_patterns: [surface-depth, near-far, boundary]
+    relation_types: [cause, select, translate]
+    structure: [boundary]
+    abstraction_level: specific
+
+  - slug: data-flow-is-fluid-flow
+    kind: paradigm
+    source_frame: fluid-dynamics
+    embodied_patterns: [flow, container, blockage, path]
+    relation_types: [transform, cause, coordinate]
+    structure: [pipeline]
+    abstraction_level: generic
+
+  - slug: everything-is-a-file
+    kind: paradigm
+    source_frame: library-and-archive
+    embodied_patterns: [container, matching, boundary, path]
+    relation_types: [translate, contain, coordinate]
+    structure: [hierarchy]
+    abstraction_level: specific
+
+  - slug: the-map-is-not-the-territory
+    kind: mental-model
+    source_frame: cartography
+    embodied_patterns: [scale, surface-depth, boundary]
+    relation_types: [translate, select]
+    structure: [boundary]
+    abstraction_level: generic
+
+  - slug: stone-soup
+    kind: metaphor
+    source_frame: folklore
+    embodied_patterns: [accretion, part-whole, center-periphery]
+    relation_types: [enable, accumulate, coordinate]
+    structure: [growth, emergence]
+    abstraction_level: generic
+
+  - slug: trojan-war
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [force, scale, link]
+    relation_types: [cause, transform, compete]
+    structure: [competition]
+    abstraction_level: generic
+
+  - slug: world-tree
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [center-periphery, path, part-whole, link]
+    relation_types: [contain, coordinate, decompose]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+  - slug: ouroboros
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [flow, container, iteration, self-organization]
+    relation_types: [transform, cause, restore]
+    structure: [cycle]
+    abstraction_level: generic
+
+  - slug: prometheus
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [boundary, force, path]
+    relation_types: [transform, enable, cause]
+    structure: [transformation]
+    abstraction_level: generic
+
+  - slug: the-commons
+    kind: archetype
+    source_frame: animal-husbandry
+    embodied_patterns: [container, boundary, part-whole]
+    relation_types: [compete, accumulate, coordinate]
+    structure: [competition, boundary]
+    abstraction_level: generic
+
+  - slug: andon
+    kind: paradigm
+    source_frame: manufacturing
+    embodied_patterns: [blockage, flow, force, link]
+    relation_types: [prevent, cause, restore]
+    structure: [pipeline]
+    abstraction_level: specific
+
+  - slug: kanban
+    kind: paradigm
+    source_frame: manufacturing
+    embodied_patterns: [flow, container, blockage, boundary]
+    relation_types: [prevent, coordinate, select]
+    structure: [pipeline, boundary]
+    abstraction_level: specific
+
+  - slug: kaizen
+    kind: paradigm
+    source_frame: manufacturing
+    embodied_patterns: [accretion, iteration, scale]
+    relation_types: [accumulate, transform, enable]
+    structure: [growth, cycle]
+    abstraction_level: generic
+
+  - slug: creative-destruction
+    kind: paradigm
+    source_frame: destruction
+    embodied_patterns: [removal, force, iteration]
+    relation_types: [transform, compete, decompose]
+    structure: [cycle, competition]
+    abstraction_level: generic
+
+  - slug: mise-en-place
+    kind: paradigm
+    source_frame: food-and-cooking
+    embodied_patterns: [container, matching, boundary]
+    relation_types: [enable, coordinate, prevent]
+    structure: [boundary]
+    abstraction_level: generic
+
+  - slug: pied-piper
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [attraction, path, force, link]
+    relation_types: [cause, enable, transform]
+    structure: [network]
+    abstraction_level: generic
+
+  - slug: brigade-system
+    kind: paradigm
+    source_frame: food-and-cooking
+    embodied_patterns: [part-whole, boundary, path, center-periphery]
+    relation_types: [decompose, coordinate, contain]
+    structure: [hierarchy, pipeline]
+    abstraction_level: specific
+
+  - slug: incident-command-system
+    kind: paradigm
+    source_frame: fire-safety
+    embodied_patterns: [part-whole, boundary, scale, center-periphery]
+    relation_types: [coordinate, decompose, contain]
+    structure: [hierarchy]
+    abstraction_level: specific
+
+  - slug: garden-growing-wild
+    kind: pattern
+    source_frame: architecture-and-building
+    embodied_patterns: [self-organization, boundary, surface-depth]
+    relation_types: [enable, transform, restore]
+    structure: [emergence, growth]
+    abstraction_level: generic
+
+  - slug: the-great-chain-of-being
+    kind: archetype
+    source_frame: ontological-hierarchy
+    embodied_patterns: [scale, center-periphery, path, boundary]
+    relation_types: [contain, decompose, cause]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+  - slug: the-flow-through-rooms
+    kind: pattern
+    source_frame: architecture-and-building
+    embodied_patterns: [flow, path, link, removal]
+    relation_types: [coordinate, transform, enable]
+    structure: [pipeline]
+    abstraction_level: generic
+
+  - slug: red-queen-effect
+    kind: mental-model
+    source_frame: natural-selection
+    embodied_patterns: [force, iteration, near-far]
+    relation_types: [compete, cause, prevent]
+    structure: [competition, cycle]
+    abstraction_level: generic
+
+  # === PATTERNS (8) ===
+
+  - slug: yes-and
+    kind: pattern
+    source_frame: improvisation
+    embodied_patterns: [accretion, link, merging]
+    relation_types: [enable, accumulate, coordinate]
+    structure: [emergence, growth]
+    abstraction_level: generic
+
+  - slug: master-and-apprentices
+    kind: pattern
+    source_frame: architecture-and-building
+    embodied_patterns: [near-far, link, center-periphery]
+    relation_types: [enable, translate, coordinate]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+  - slug: cleaning-as-you-go
+    kind: pattern
+    source_frame: food-and-cooking
+    embodied_patterns: [removal, flow, iteration]
+    relation_types: [prevent, restore, enable]
+    structure: [cycle]
+    abstraction_level: generic
+
+  - slug: call-and-callback
+    kind: pattern
+    source_frame: food-and-cooking
+    embodied_patterns: [link, matching, flow]
+    relation_types: [coordinate, translate, cause]
+    structure: [pipeline]
+    abstraction_level: generic
+
+  - slug: paths-and-goals
+    kind: pattern
+    source_frame: architecture-and-building
+    embodied_patterns: [path, near-far, attraction]
+    relation_types: [enable, cause, coordinate]
+    structure: [pipeline]
+    abstraction_level: generic
+
+  - slug: entrance-transition
+    kind: pattern
+    source_frame: architecture-and-building
+    embodied_patterns: [boundary, path, surface-depth]
+    relation_types: [transform, enable, translate]
+    structure: [boundary, transformation]
+    abstraction_level: generic
+
+  - slug: structure-follows-social-spaces
+    kind: pattern
+    source_frame: architecture-and-building
+    embodied_patterns: [boundary, part-whole, matching]
+    relation_types: [coordinate, contain, decompose]
+    structure: [boundary, network]
+    abstraction_level: specific
+
+  - slug: mosaic-of-subcultures
+    kind: pattern
+    source_frame: architecture-and-building
+    embodied_patterns: [boundary, part-whole, self-organization]
+    relation_types: [contain, coordinate, decompose]
+    structure: [boundary, network]
+    abstraction_level: generic
+
+  # === ARCHETYPES (8) ===
+
+  - slug: the-hero
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [path, boundary, force]
+    relation_types: [transform, cause, enable]
+    structure: [transformation]
+    abstraction_level: generic
+
+  - slug: the-trickster
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [boundary, force, removal]
+    relation_types: [transform, cause, decompose]
+    structure: [transformation]
+    abstraction_level: generic
+
+  - slug: the-shadow
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [surface-depth, container, boundary]
+    relation_types: [cause, prevent, transform]
+    structure: [boundary]
+    abstraction_level: generic
+
+  - slug: the-self
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [center-periphery, part-whole, merging, balance]
+    relation_types: [coordinate, contain, restore]
+    structure: [equilibrium, emergence]
+    abstraction_level: generic
+
+  - slug: the-wise-old-man
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [center-periphery, link, near-far]
+    relation_types: [enable, translate, cause]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+  - slug: the-great-mother
+    kind: archetype
+    source_frame: mythology
+    embodied_patterns: [container, boundary, part-whole]
+    relation_types: [enable, contain, prevent]
+    structure: [boundary, growth]
+    abstraction_level: generic
+
+  - slug: the-mediator-pattern
+    kind: archetype
+    source_frame: mediation
+    embodied_patterns: [center-periphery, link, boundary]
+    relation_types: [coordinate, translate, contain]
+    structure: [network]
+    abstraction_level: specific
+
+  - slug: the-observer-pattern
+    kind: archetype
+    source_frame: surveillance
+    embodied_patterns: [link, near-far, flow]
+    relation_types: [coordinate, cause, enable]
+    structure: [network]
+    abstraction_level: specific
+
+  # === PARADIGMS (5) ===
+
+  - slug: survival-of-the-fittest
+    kind: paradigm
+    source_frame: natural-selection
+    embodied_patterns: [force, iteration, matching, scale]
+    relation_types: [compete, select, transform]
+    structure: [competition, cycle]
+    abstraction_level: generic
+
+  - slug: worse-is-better
+    kind: paradigm
+    source_frame: natural-selection
+    embodied_patterns: [scale, iteration, matching]
+    relation_types: [select, compete, accumulate]
+    structure: [competition, growth]
+    abstraction_level: specific
+
+  - slug: jidoka
+    kind: paradigm
+    source_frame: manufacturing
+    embodied_patterns: [blockage, flow, boundary, self-organization]
+    relation_types: [prevent, cause, restore]
+    structure: [pipeline]
+    abstraction_level: specific
+
+  - slug: just-in-time
+    kind: paradigm
+    source_frame: manufacturing
+    embodied_patterns: [flow, removal, blockage, container]
+    relation_types: [prevent, enable, coordinate]
+    structure: [pipeline, equilibrium]
+    abstraction_level: specific
+
+  - slug: pdca-cycle
+    kind: paradigm
+    source_frame: manufacturing
+    embodied_patterns: [iteration, flow, path]
+    relation_types: [transform, cause, restore]
+    structure: [cycle]
+    abstraction_level: generic
+
+  # === MENTAL MODELS (5) ===
+
+  - slug: inversion
+    kind: mental-model
+    source_frame: geometry
+    embodied_patterns: [boundary, surface-depth, matching]
+    relation_types: [transform, prevent, select]
+    structure: [transformation]
+    abstraction_level: generic
+
+  - slug: second-order-thinking
+    kind: mental-model
+    source_frame: physics
+    embodied_patterns: [path, scale, iteration]
+    relation_types: [cause, transform, enable]
+    structure: [cycle, hierarchy]
+    abstraction_level: generic
+
+  - slug: feedback-loops
+    kind: mental-model
+    source_frame: physics
+    embodied_patterns: [flow, iteration, balance, force]
+    relation_types: [cause, transform, restore]
+    structure: [cycle, equilibrium]
+    abstraction_level: generic
+
+  - slug: first-principles-thinking
+    kind: mental-model
+    source_frame: physics
+    embodied_patterns: [removal, surface-depth, part-whole]
+    relation_types: [decompose, transform, select]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+  # ==========================================================
+  # BATCH 2 — diverse source frames, more specific entries
+  # ==========================================================
+
+  # === SEAFARING (5) ===
+
+  - slug: between-devil-and-deep-blue-sea
+    kind: metaphor
+    source_frame: seafaring
+    embodied_patterns: [container, boundary, near-far]
+    relation_types: [contain, prevent]
+    structure: [boundary]
+    abstraction_level: specific
+
+  - slug: loose-cannon
+    kind: metaphor
+    source_frame: seafaring
+    embodied_patterns: [force, container, blockage, boundary]
+    relation_types: [cause, prevent, contain]
+    structure: [boundary, competition]
+    abstraction_level: specific
+
+  - slug: flagship
+    kind: metaphor
+    source_frame: seafaring
+    embodied_patterns: [center-periphery, scale, part-whole]
+    relation_types: [coordinate, select]
+    structure: [hierarchy]
+    abstraction_level: specific
+
+  - slug: batten-down-the-hatches
+    kind: metaphor
+    source_frame: seafaring
+    embodied_patterns: [container, boundary, blockage, force]
+    relation_types: [prevent, contain, restore]
+    structure: [boundary]
+    abstraction_level: generic
+
+  - slug: copper-bottomed
+    kind: metaphor
+    source_frame: seafaring
+    embodied_patterns: [surface-depth, container, boundary, accretion]
+    relation_types: [prevent, transform, accumulate]
+    structure: [boundary]
+    abstraction_level: generic
+
+  # === MEDICINE (5) ===
+
+  - slug: triage
+    kind: metaphor
+    source_frame: medicine
+    embodied_patterns: [boundary, scale, removal]
+    relation_types: [select, decompose, cause]
+    structure: [pipeline]
+    abstraction_level: generic
+
+  - slug: virus
+    kind: metaphor
+    source_frame: medicine
+    embodied_patterns: [boundary, flow, iteration, link]
+    relation_types: [cause, transform, accumulate]
+    structure: [network, growth]
+    abstraction_level: generic
+
+  - slug: prompt-injection
+    kind: metaphor
+    source_frame: medicine
+    embodied_patterns: [boundary, surface-depth, container]
+    relation_types: [cause, transform, translate]
+    structure: [boundary]
+    abstraction_level: specific
+
+  - slug: ai-hallucination-is-perception-disorder
+    kind: metaphor
+    source_frame: medicine
+    embodied_patterns: [surface-depth, matching, container]
+    relation_types: [cause, translate]
+    structure: [transformation]
+    abstraction_level: specific
+
+  - slug: ai-is-a-prosthesis
+    kind: metaphor
+    source_frame: medicine
+    embodied_patterns: [link, merging, part-whole, matching]
+    relation_types: [enable, transform, restore]
+    structure: [transformation]
+    abstraction_level: generic
+
+  # === ECOLOGY (5) ===
+
+  - slug: keystone-species
+    kind: metaphor
+    source_frame: ecology
+    embodied_patterns: [center-periphery, part-whole, balance, removal]
+    relation_types: [prevent, contain, decompose]
+    structure: [hierarchy, equilibrium]
+    abstraction_level: specific
+
+  - slug: trophic-cascade
+    kind: metaphor
+    source_frame: ecology
+    embodied_patterns: [flow, force, scale, link]
+    relation_types: [cause, transform, coordinate]
+    structure: [hierarchy, pipeline]
+    abstraction_level: specific
+
+  - slug: edge-effect
+    kind: metaphor
+    source_frame: ecology
+    embodied_patterns: [boundary, surface-depth, merging, near-far]
+    relation_types: [enable, transform, accumulate]
+    structure: [boundary, emergence]
+    abstraction_level: specific
+
+  - slug: invasive-species-as-metaphor
+    kind: metaphor
+    source_frame: ecology
+    embodied_patterns: [boundary, flow, force, iteration]
+    relation_types: [compete, transform, accumulate]
+    structure: [competition, growth]
+    abstraction_level: specific
+
+  - slug: regime-shift
+    kind: metaphor
+    source_frame: ecology
+    embodied_patterns: [force, balance, surface-depth, boundary]
+    relation_types: [transform, cause, prevent]
+    structure: [equilibrium, transformation]
+    abstraction_level: generic
+
+  # === HORTICULTURE (3) ===
+
+  - slug: creation-is-cultivation
+    kind: metaphor
+    source_frame: horticulture
+    embodied_patterns: [accretion, flow, iteration, surface-depth]
+    relation_types: [enable, transform, accumulate]
+    structure: [cycle, growth]
+    abstraction_level: primitive
+
+  - slug: fruit-of-the-poisonous-tree
+    kind: metaphor
+    source_frame: horticulture
+    embodied_patterns: [flow, link, surface-depth, part-whole]
+    relation_types: [cause, contain, prevent]
+    structure: [pipeline]
+    abstraction_level: specific
+
+  - slug: filesystem-tree
+    kind: metaphor
+    source_frame: horticulture
+    embodied_patterns: [part-whole, center-periphery, splitting, container]
+    relation_types: [contain, decompose, coordinate]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+  # === ANIMAL BEHAVIOR (3) ===
+
+  - slug: agent-swarm
+    kind: metaphor
+    source_frame: animal-behavior
+    embodied_patterns: [self-organization, iteration, scale, link]
+    relation_types: [coordinate, accumulate, enable]
+    structure: [emergence, network]
+    abstraction_level: generic
+
+  - slug: web
+    kind: metaphor
+    source_frame: animal-behavior
+    embodied_patterns: [link, iteration, center-periphery, accretion]
+    relation_types: [coordinate, enable, accumulate]
+    structure: [network]
+    abstraction_level: generic
+
+  - slug: raptor-pit
+    kind: metaphor
+    source_frame: animal-behavior
+    embodied_patterns: [container, force, boundary]
+    relation_types: [cause, contain, prevent]
+    structure: [boundary, competition]
+    abstraction_level: specific
+
+  # === SCIENCE FICTION (4) ===
+
+  - slug: frankenstein-is-technology-risk
+    kind: metaphor
+    source_frame: science-fiction
+    embodied_patterns: [merging, force, link, part-whole]
+    relation_types: [cause, transform, enable]
+    structure: [transformation]
+    abstraction_level: generic
+
+  - slug: generation-ship-is-long-horizon-institution
+    kind: metaphor
+    source_frame: science-fiction
+    embodied_patterns: [container, path, boundary, iteration]
+    relation_types: [contain, coordinate, prevent]
+    structure: [pipeline, boundary]
+    abstraction_level: specific
+
+  - slug: paperclip-maximizer-is-alignment-failure
+    kind: mental-model
+    source_frame: science-fiction
+    embodied_patterns: [force, iteration, scale, removal]
+    relation_types: [transform, cause, accumulate]
+    structure: [growth]
+    abstraction_level: generic
+
+  - slug: big-brother-is-surveillance
+    kind: metaphor
+    source_frame: science-fiction
+    embodied_patterns: [container, center-periphery, force, superimposition]
+    relation_types: [contain, prevent, coordinate, transform]
+    structure: [hierarchy, boundary]
+    abstraction_level: generic
+
+  # === GOVERNANCE / LEGAL (4) ===
+
+  - slug: hard-cases-make-bad-law
+    kind: mental-model
+    source_frame: governance
+    embodied_patterns: [center-periphery, scale, force]
+    relation_types: [cause, transform, prevent]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+  - slug: no-one-should-judge-their-own-case
+    kind: mental-model
+    source_frame: governance
+    embodied_patterns: [boundary, splitting, balance]
+    relation_types: [prevent, select, decompose]
+    structure: [boundary, equilibrium]
+    abstraction_level: primitive
+
+  - slug: hear-the-other-side
+    kind: mental-model
+    source_frame: governance
+    embodied_patterns: [balance, boundary, matching]
+    relation_types: [enable, prevent, select]
+    structure: [equilibrium]
+    abstraction_level: primitive
+
+  - slug: false-in-one-thing-false-in-all
+    kind: paradigm
+    source_frame: governance
+    embodied_patterns: [container, part-whole, link]
+    relation_types: [cause, select, transform]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+  # === THEATRICAL DIRECTING (3) ===
+
+  - slug: casting-is-ninety-percent
+    kind: mental-model
+    source_frame: theatrical-directing
+    embodied_patterns: [matching, part-whole, force]
+    relation_types: [select, enable, cause]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+  - slug: the-ensemble
+    kind: mental-model
+    source_frame: theatrical-directing
+    embodied_patterns: [link, self-organization, matching, balance]
+    relation_types: [coordinate, enable, transform]
+    structure: [emergence, network]
+    abstraction_level: generic
+
+  - slug: talk-to-the-character-not-the-actor
+    kind: mental-model
+    source_frame: theatrical-directing
+    embodied_patterns: [boundary, splitting, surface-depth]
+    relation_types: [translate, enable, prevent]
+    structure: [boundary]
+    abstraction_level: generic
+
+  # === WAR (3) ===
+
+  - slug: blast-radius
+    kind: metaphor
+    source_frame: war
+    embodied_patterns: [center-periphery, force, boundary, near-far]
+    relation_types: [cause, contain, prevent]
+    structure: [boundary]
+    abstraction_level: specific
+
+  - slug: defense-in-depth
+    kind: metaphor
+    source_frame: war
+    embodied_patterns: [boundary, surface-depth, container, blockage]
+    relation_types: [prevent, contain, cause]
+    structure: [pipeline, boundary]
+    abstraction_level: generic
+
+  - slug: attack-surface
+    kind: metaphor
+    source_frame: war
+    embodied_patterns: [boundary, surface-depth, near-far, removal]
+    relation_types: [prevent, cause, select]
+    structure: [boundary]
+    abstraction_level: specific
+
+  # === EMBODIED EXPERIENCE (5) ===
+
+  - slug: bicycle-for-the-mind
+    kind: metaphor
+    source_frame: embodied-experience
+    embodied_patterns: [force, link, scale, path]
+    relation_types: [enable, transform]
+    structure: [pipeline]
+    abstraction_level: generic
+
+  - slug: big-ball-of-mud
+    kind: metaphor
+    source_frame: embodied-experience
+    embodied_patterns: [accretion, merging, part-whole]
+    relation_types: [accumulate, contain, prevent]
+    structure: [growth]
+    abstraction_level: generic
+
+  - slug: bus-factor
+    kind: metaphor
+    source_frame: embodied-experience
+    embodied_patterns: [removal, container, part-whole, link]
+    relation_types: [cause, prevent, decompose]
+    structure: [network]
+    abstraction_level: specific
+
+  - slug: rubber-duck-debugging
+    kind: metaphor
+    source_frame: communication
+    embodied_patterns: [surface-depth, link, matching]
+    relation_types: [translate, enable]
+    structure: [pipeline]
+    abstraction_level: specific
+
+  - slug: spaghetti-code
+    kind: metaphor
+    source_frame: food-and-cooking
+    embodied_patterns: [link, merging, part-whole]
+    relation_types: [contain, prevent, cause]
+    structure: [network]
+    abstraction_level: generic
+
+  # === CONTAINERS (3) ===
+
+  - slug: ai-is-a-black-box
+    kind: metaphor
+    source_frame: containers
+    embodied_patterns: [container, boundary, surface-depth]
+    relation_types: [contain, prevent, translate]
+    structure: [boundary]
+    abstraction_level: generic
+
+  - slug: ai-safety-is-containment
+    kind: metaphor
+    source_frame: containers
+    embodied_patterns: [container, boundary, force, surface-depth]
+    relation_types: [contain, prevent, cause]
+    structure: [boundary]
+    abstraction_level: generic
+
+  - slug: a-problem-is-a-locked-container-for-its-solution
+    kind: metaphor
+    source_frame: containers
+    embodied_patterns: [container, boundary, blockage, surface-depth]
+    relation_types: [contain, prevent, enable]
+    structure: [boundary]
+    abstraction_level: primitive
+
+  # === JOURNEYS (3) ===
+
+  - slug: argument-is-a-journey
+    kind: metaphor
+    source_frame: journeys
+    embodied_patterns: [path, near-far, link]
+    relation_types: [coordinate, enable, cause]
+    structure: [pipeline]
+    abstraction_level: primitive
+
+  - slug: competition-is-a-race
+    kind: metaphor
+    source_frame: journeys
+    embodied_patterns: [path, near-far, scale, force]
+    relation_types: [compete, select, cause]
+    structure: [competition, pipeline]
+    abstraction_level: primitive
+
+  - slug: a-problem-is-a-region-in-a-landscape
+    kind: metaphor
+    source_frame: journeys
+    embodied_patterns: [path, surface-depth, center-periphery, boundary]
+    relation_types: [contain, prevent, enable]
+    structure: [boundary]
+    abstraction_level: primitive
+
+  # === ECONOMICS (2) ===
+
+  - slug: economic-moats
+    kind: mental-model
+    source_frame: war
+    embodied_patterns: [boundary, container, blockage, near-far]
+    relation_types: [prevent, contain, compete]
+    structure: [boundary, competition]
+    abstraction_level: generic
+
+  - slug: principal-agent-problem
+    kind: mental-model
+    source_frame: economics
+    embodied_patterns: [link, surface-depth, boundary]
+    relation_types: [cause, prevent, enable]
+    structure: [hierarchy, network]
+    abstraction_level: generic
+
+  # === OTHER (2) ===
+
+  - slug: adaptive-cycle
+    kind: mental-model
+    source_frame: ecology
+    embodied_patterns: [iteration, accretion, force, balance]
+    relation_types: [transform, accumulate, cause, restore]
+    structure: [cycle, transformation]
+    abstraction_level: generic
+
+  - slug: more-knowledgeable-other
+    kind: mental-model
+    source_frame: social-roles
+    embodied_patterns: [link, near-far, scale]
+    relation_types: [enable, translate, transform]
+    structure: [hierarchy]
+    abstraction_level: generic
+
+
+# === ANALOGY TRIPLES ===
+# Format: A (query) -> B (structural match, different domain) -> C (topical trap, same domain)
+# Success criterion: enriched retrieval ranks B above C
+
+analogy_triples:
+
+  # --- From existing eval set entries ---
+
+  - id: t01
+    description: "Force + competition across domains"
+    A: argument-is-war
+    B: survival-of-the-fittest
+    C: trojan-war
+    structural_bridge: "force + iteration + competition structure"
+
+  - id: t02
+    description: "Accumulation causing systemic problems"
+    A: technical-debt
+    B: the-commons
+    C: code-smell
+    structural_bridge: "accretion/accumulate + prevent — deposits degrade the system"
+
+  - id: t03
+    description: "Flow constrained at narrowest point"
+    A: bottleneck
+    B: kanban
+    C: data-flow-is-fluid-flow
+    structural_bridge: "flow + blockage + pipeline structure — WIP limits are deliberate bottlenecks"
+
+  - id: t04
+    description: "Surface signal indicating hidden depth problem"
+    A: code-smell
+    B: the-shadow
+    C: technical-debt
+    structural_bridge: "surface-depth + boundary — visible symptom of denied/hidden structural issue"
+
+  - id: t05
+    description: "Emergent order from additive contributions"
+    A: stone-soup
+    B: yes-and
+    C: the-commons
+    structural_bridge: "accretion + enable + emergence — marginal additions produce emergent collective"
+
+  - id: t06
+    description: "Self-halting flow to prevent defect propagation"
+    A: andon
+    B: jidoka
+    C: kanban
+    structural_bridge: "blockage + flow + prevent + restore — stop the line at point of detection"
+    note: "Topical trap is same domain but different structure (WIP limits vs defect detection)"
+
+  - id: t07
+    description: "Compounding small improvements over time"
+    A: kaizen
+    B: yes-and
+    C: pdca-cycle
+    structural_bridge: "accretion + iteration + accumulate — small deposits accreting into transformation"
+
+  - id: t08
+    description: "Boundary-crossing transformation"
+    A: the-trickster
+    B: creative-destruction
+    C: the-hero
+    structural_bridge: "boundary + removal + transform + decompose — destruction as diagnostic/generative"
+
+  - id: t09
+    description: "Translating between two systems"
+    A: the-wise-old-man
+    B: entrance-transition
+    C: the-great-mother
+    structural_bridge: "translate + enable + center-periphery/boundary — mediating between domains"
+
+  - id: t10
+    description: "Coordinating many-to-one through a hub"
+    A: the-mediator-pattern
+    B: incident-command-system
+    C: the-observer-pattern
+    structural_bridge: "center-periphery + coordinate + contain — central coordinator controlling interactions"
+
+  - id: t11
+    description: "Cycle + balance + restore = homeostatic systems"
+    A: feedback-loops
+    B: ouroboros
+    C: second-order-thinking
+    structural_bridge: "iteration + restore + cycle structure — output becomes input, system self-corrects"
+
+  - id: t12
+    description: "Decomposing to fundamentals"
+    A: first-principles-thinking
+    B: the-trickster
+    C: inversion
+    structural_bridge: "removal + part-whole/decompose — stripping away to find what's structural"
+
+  - id: t13
+    description: "Boundary as enabling constraint"
+    A: the-great-mother
+    B: mise-en-place
+    C: the-great-chain-of-being
+    structural_bridge: "container + boundary + enable + prevent — containment simultaneously nurtures and constrains"
+
+  - id: t14
+    description: "Self-organization producing emergent structure"
+    A: garden-growing-wild
+    B: mosaic-of-subcultures
+    C: the-flow-through-rooms
+    structural_bridge: "self-organization + boundary + emergence — organic order under light governance"
+
+  - id: t15
+    description: "Attraction pulling along a path"
+    A: pied-piper
+    B: paths-and-goals
+    C: prometheus
+    structural_bridge: "attraction + path + enable — visible/felt pull that draws followers forward"
+
+  - id: t16
+    description: "Integrating opposites into wholeness"
+    A: the-self
+    B: stone-soup
+    C: the-shadow
+    structural_bridge: "merging + part-whole + coordinate — diverse parts integrated into emergent whole"
+
+  - id: t17
+    description: "Pull-based flow with deliberate constraint removal"
+    A: just-in-time
+    B: cleaning-as-you-go
+    C: kanban
+    structural_bridge: "flow + removal + prevent — removing buffers/waste to expose and fix hidden problems"
+
+  - id: t18
+    description: "Competitive iteration producing adaptation"
+    A: red-queen-effect
+    B: creative-destruction
+    C: survival-of-the-fittest
+    structural_bridge: "force + iteration + compete — running to stay in place vs selected-for fitness"
+
+  - id: t19
+    description: "Hierarchy connecting distinct levels"
+    A: world-tree
+    B: brigade-system
+    C: the-great-chain-of-being
+    structural_bridge: "center-periphery + path + part-whole + hierarchy — vertical infrastructure connecting layers"
+
+  - id: t20
+    description: "Structure matching social boundaries (Conway's law family)"
+    A: structure-follows-social-spaces
+    B: call-and-callback
+    C: mosaic-of-subcultures
+    structural_bridge: "matching + coordinate + boundary — structural alignment with communication patterns"
+
+  # --- Batch 2: cross-domain, cross-batch triples ---
+
+  - id: t21
+    description: "Triage as decomposition under constraint — kitchen meets ER"
+    A: triage
+    B: brigade-system
+    C: virus
+    structural_bridge: "select + decompose + pipeline — routing work to specialized stations under resource pressure"
+
+  - id: t22
+    description: "Contagion through network links — biology meets technology"
+    A: virus
+    B: pied-piper
+    C: ai-hallucination-is-perception-disorder
+    structural_bridge: "flow + iteration + link + cause — something propagates through a network by exploiting connections, bypassing rational assessment"
+
+  - id: t23
+    description: "Boundary violation where untrusted crosses into trusted"
+    A: prompt-injection
+    B: invasive-species-as-metaphor
+    C: ai-hallucination-is-perception-disorder
+    structural_bridge: "boundary + transform + cause — an outside entity crosses a trust boundary and transforms the host system's behavior"
+
+  - id: t24
+    description: "Removal of one part collapses the whole"
+    A: keystone-species
+    B: bus-factor
+    C: trophic-cascade
+    structural_bridge: "center-periphery + removal + part-whole + decompose — system integrity depends on a single element whose absence is catastrophic"
+
+  - id: t25
+    description: "Boundary zones as generative spaces"
+    A: edge-effect
+    B: entrance-transition
+    C: regime-shift
+    structural_bridge: "boundary + merging/surface-depth + enable + transform — liminal zones between domains produce novelty unavailable in either domain alone"
+
+  - id: t26
+    description: "Escalating competitive displacement"
+    A: invasive-species-as-metaphor
+    B: red-queen-effect
+    C: keystone-species
+    structural_bridge: "force + iteration + compete + accumulate — newcomer exploits absence of evolved constraints, compounding advantage through each cycle"
+
+  - id: t27
+    description: "System flips between stable states when threshold crossed"
+    A: regime-shift
+    B: creative-destruction
+    C: adaptive-cycle
+    structural_bridge: "force + balance + transform — accumulated pressure causes sudden qualitative change, with hysteresis preventing simple reversal"
+
+  - id: t28
+    description: "Causal contamination flowing from root to fruit"
+    A: fruit-of-the-poisonous-tree
+    B: false-in-one-thing-false-in-all
+    C: filesystem-tree
+    structural_bridge: "flow + link + part-whole + cause — taint propagates through causal chain; one bad origin contaminates all downstream"
+
+  - id: t29
+    description: "Emergent coordination from local rules, no central command"
+    A: agent-swarm
+    B: the-ensemble
+    C: web
+    structural_bridge: "self-organization + link + coordinate + emergence — quality emerges from mutual attunement between autonomous agents following simple local rules"
+
+  - id: t30
+    description: "Confinement converts potential collaboration into competition"
+    A: raptor-pit
+    B: the-commons
+    C: loose-cannon
+    structural_bridge: "container + force + boundary + competition — bounded space with insufficient resources transforms cooperative agents into competitors"
+
+  - id: t31
+    description: "Creation that escapes creator control"
+    A: frankenstein-is-technology-risk
+    B: paperclip-maximizer-is-alignment-failure
+    C: ai-hallucination-is-perception-disorder
+    structural_bridge: "force + merging/part-whole + transform + cause — assembled artifact develops autonomous force that transforms beyond original intent"
+
+  - id: t32
+    description: "Sealed container on a multi-generational path"
+    A: generation-ship-is-long-horizon-institution
+    B: the-great-mother
+    C: big-brother-is-surveillance
+    structural_bridge: "container + boundary + contain + prevent — enclosed environment that simultaneously enables survival and constrains freedom across time"
+
+  - id: t33
+    description: "Splitting evaluator from interested party"
+    A: no-one-should-judge-their-own-case
+    B: talk-to-the-character-not-the-actor
+    C: hear-the-other-side
+    structural_bridge: "splitting + boundary + prevent — create structural separation between the judging function and the identity being judged"
+
+  - id: t34
+    description: "Selection quality dominates system performance"
+    A: casting-is-ninety-percent
+    B: triage
+    C: the-ensemble
+    structural_bridge: "select + matching + cause + hierarchy — the initial sorting/matching decision propagates through the entire system; get it wrong and nothing downstream can compensate"
+
+  - id: t35
+    description: "Layered boundaries that slow penetration"
+    A: defense-in-depth
+    B: copper-bottomed
+    C: attack-surface
+    structural_bridge: "boundary + surface-depth + container + prevent — multiple protective layers where each absorbs some damage, the deeper ones never tested if the outer holds"
+
+  - id: t36
+    description: "Articulating forces you to see mismatches"
+    A: rubber-duck-debugging
+    B: the-map-is-not-the-territory
+    C: spaghetti-code
+    structural_bridge: "surface-depth + translate + matching — externalizing internal state (speaking/mapping) reveals discrepancies between representation and reality"
+
+  - id: t37
+    description: "Tool-body merger that amplifies capability"
+    A: ai-is-a-prosthesis
+    B: bicycle-for-the-mind
+    C: ai-is-a-black-box
+    structural_bridge: "link + merging + enable + transform — human and tool fuse into a part-whole that transforms capability beyond either alone"
+
+  - id: t38
+    description: "Structureless mass where everything entangles"
+    A: big-ball-of-mud
+    B: spaghetti-code
+    C: technical-debt
+    structural_bridge: "accretion/merging + part-whole + prevent — undifferentiated growth where boundaries dissolve and decomposition becomes impossible"
+    note: "Both B and A are structurally near-identical but different source frames (embodied vs food). Text embeddings may also rank B high. The real test is whether C (technical-debt) falls below B despite sharing the software domain."
+
+  - id: t39
+    description: "Knowledge gap bridged by a more capable translator"
+    A: more-knowledgeable-other
+    B: master-and-apprentices
+    C: principal-agent-problem
+    structural_bridge: "link + near-far + translate + enable — expertise flows across a knowledge gap through a relational link; the bridge enables learning, not just delegation"
+
+  - id: t40
+    description: "Four-phase cycle of accumulation, release, and renewal"
+    A: adaptive-cycle
+    B: ouroboros
+    C: regime-shift
+    structural_bridge: "iteration + accretion + restore + cycle — system accumulates structure, collapses, and reorganizes in a repeating pattern where ending feeds beginning"

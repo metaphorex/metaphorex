@@ -146,6 +146,20 @@ When reviewing a PR that adds `transfers` and `limits` to existing entries, appl
 **Phase A (pilot batches):** Review every proposition in every entry. Full scrutiny.
 **Phase B (scale batches):** Spot-check 5 entries per batch of 50 (10% sample). If spot-check fails >1 entry, escalate to full review.
 
+**Structural Tag Review (PRs adding `embodied_patterns`/`relation_types`/`structure`/`abstraction_level`):**
+
+When reviewing a PR that adds structural enrichment tags, apply these checks:
+
+| Check | What to look for | Fail action |
+|-------|-----------------|-------------|
+| **Structural vs surface** | Do `embodied_patterns` capture structural shape, not surface domain features? "War" entry tagged `force` (structural) = good. Tagged `weapon` (surface) = bad. | Flag surface-level tags |
+| **Load-bearing relations** | Do `relation_types` reflect the dominant predicates in the entry's transfers? Are they the 2-4 most important, not exhaustive? | Flag weak or exhaustive tags |
+| **Abstraction calibration** | Is `abstraction_level` correct? `specific` = source frame needs domain expertise. `generic` = anyone understands. `primitive` = near-universal embodied. | Flag miscalibrations |
+| **Vocabulary compliance** | All values must be in the controlled vocabulary at `docs/plans/2026-03-20-structural-enrichment-vocabulary.md`. The validator catches invalid values — if the validator passed, this check is mechanical. | Should not happen if validator ran |
+| **Completeness** | Does the entry have all four fields? Missing fields are valid but incomplete enrichment. | Note but don't block — enrichment is additive |
+
+**Phase A (pilot):** Review all structural tags. **Phase B (scale):** Spot-check 5 of 50.
+
 **Review format for enrichment PRs:**
 
 ```markdown
