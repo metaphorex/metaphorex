@@ -15,7 +15,6 @@ contributors: []
 related:
 - triage
 - differential-diagnosis
-- vital-signs
 provenance: scheins-surgical-aphorisms
 created: '2026-03-20'
 updated: '2026-03-20'
