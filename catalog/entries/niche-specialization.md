@@ -21,6 +21,15 @@ transfers:
 - '[model] predicts that two species competing for the same niche cannot stably coexist (competitive exclusion), mapping onto businesses offering identical products to the same customers at the same price'
 - '[model] identifies that specialization implies tradeoffs -- deep adaptation to one niche means poor fitness in others, making the specialist vulnerable if the niche disappears'
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - boundary
+  - matching
+relation_types:
+  - select
+  - compete
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

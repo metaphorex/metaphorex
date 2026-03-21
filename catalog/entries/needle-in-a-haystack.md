@@ -27,6 +27,15 @@ limits:
   - '[source] breaks because most modern search problems involve adversarial concealment (fraud detection, intelligence analysis) where someone deliberately hid the "needle," while the haystack frame assumes accidental loss and therefore underestimates the difficulty of targets that adapt to avoid detection'
   - '[source] assumes a single needle in a single haystack, while real search problems typically involve unknown numbers of targets in unbounded or growing search spaces, making the metaphor misleadingly finite'
   - '[source] imports the assumption that the searcher knows what a needle looks like and will recognize it on contact, which fails in domains like anomaly detection where the target''s defining features are unknown in advance'
+embodied_patterns:
+  - matching
+  - container
+  - surface-depth
+relation_types:
+  - select
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

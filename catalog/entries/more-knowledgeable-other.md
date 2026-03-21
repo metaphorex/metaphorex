@@ -24,6 +24,15 @@ limits:
   - '[model] breaks when applied to domains where "more knowledge" is not a linear quantity -- in creative, ethical, or political domains, the concept of "more knowledgeable" imposes a false hierarchy on what may be a difference of perspective rather than a difference of level'
   - '[model] misleads by defining the role purely in terms of knowledge differential, ignoring the pedagogical skill required to make knowledge accessible -- a domain expert who cannot communicate is not a functional MKO despite meeting the definitional criteria'
 updated: '2026-03-20'
+embodied_patterns:
+  - near-far
+  - link
+  - scale
+relation_types:
+  - enable
+  - translate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

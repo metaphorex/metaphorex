@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] families are small enough for every member to know every other personally, but nations comprise millions of strangers, making the intimacy and trust of family bonds a fiction at national scale'
   - '[source] family authority (parenting) is temporary and aims to produce autonomous adults who leave, but state authority over citizens is permanent and does not aim to make citizens independent of the state'
+embodied_patterns:
+  - container
+  - center-periphery
+  - link
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

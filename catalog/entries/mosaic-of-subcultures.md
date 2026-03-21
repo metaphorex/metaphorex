@@ -27,6 +27,15 @@ limits:
   - '[source] breaks because architectural subcultures are spatially fixed (a neighborhood stays in place), while organizational and digital subcultures are fluid, overlapping, and non-spatial -- a person can belong to five Slack channels simultaneously in a way they cannot belong to five neighborhoods'
   - '[source] misleads by implying that subculture boundaries are natural and self-organizing, when in organizations they are usually the product of deliberate management decisions (team structure, reporting lines, access controls) that can be imposed or dissolved by authority'
   - '[source] assumes each tile is internally coherent and voluntarily constituted, which fails for organizational units where people are assigned rather than self-selected and internal alignment may be low'
+embodied_patterns:
+  - boundary
+  - part-whole
+  - container
+relation_types:
+  - contain
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

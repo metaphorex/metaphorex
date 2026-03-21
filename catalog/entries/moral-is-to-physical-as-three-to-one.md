@@ -25,6 +25,15 @@ limits:
   - '[source] breaks because the 3:1 ratio is not an empirical measurement but a rhetorical device, and treating it as a quantitative law imports false precision into domains where morale''s contribution is real but unmeasurable'
   - '[source] misleads by implying that morale can compensate for any material deficit, when military history equally shows that sufficient material superiority overwhelms morale (the Western Front 1918, where German morale remained high but materiel exhaustion forced collapse)'
   - '[source] imports a wartime frame where morale must be sustained under existential threat, which maps poorly to organizational contexts where the "threat" is a quarterly target and the emotional register of battlefield resolve is disproportionate to the actual stakes'
+embodied_patterns:
+  - scale
+  - force
+  - balance
+relation_types:
+  - cause
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

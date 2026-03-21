@@ -27,6 +27,15 @@ transfers:
   - '[metaphor] mutualistic relationships often involve exchange of qualitatively different resources (e.g., pollination for nectar), importing the idea that partners contribute different kinds of value rather than equal amounts of the same thing'
   - '[metaphor] mutualism can shade into parasitism when environmental conditions shift, mapping onto the structural instability of partnerships where one side''s contribution becomes less valuable'
 updated: '2026-03-21'
+embodied_patterns:
+  - link
+  - balance
+  - flow
+relation_types:
+  - enable
+  - coordinate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

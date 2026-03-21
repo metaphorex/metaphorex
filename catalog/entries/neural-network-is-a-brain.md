@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because biological neurons have complex internal state, temporal dynamics, and thousands of dendritic connections, while artificial neurons compute a single dot product'
   - '[source] misleads because brains do not have a loss function or gradient signal propagated backward through layers; biological learning is local and Hebbian, not global and error-driven'
+embodied_patterns:
+  - link
+  - self-organization
+  - flow
+relation_types:
+  - transform
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

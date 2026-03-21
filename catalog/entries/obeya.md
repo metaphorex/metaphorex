@@ -22,6 +22,15 @@ limits:
   - "[model] breaks when applied to distributed teams because the mechanism depends on physical copresence and peripheral vision -- a virtual obeya recreates the artifacts but not the ambient awareness that makes them work"
   - "[model] assumes that making all project information visible to all participants is beneficial, but in politically contested organizations, radical transparency can trigger defensive behavior rather than collaboration"
 updated: '2026-03-18'
+embodied_patterns:
+  - container
+  - link
+  - matching
+relation_types:
+  - coordinate
+  - translate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

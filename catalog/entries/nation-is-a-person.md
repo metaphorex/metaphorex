@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] a person has a single nervous system producing coherent action, but a nation''s ''decisions'' emerge from competing institutions, factions, and bureaucracies that often work at cross-purposes'
   - '[source] persons are morally responsible for their actions because they have unified consciousness, but national ''responsibility'' distributes unevenly across millions of citizens, most of whom had no role in the action attributed to the nation'
+embodied_patterns:
+  - merging
+  - container
+  - force
+relation_types:
+  - coordinate
+  - cause
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

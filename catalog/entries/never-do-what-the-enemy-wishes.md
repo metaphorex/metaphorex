@@ -24,6 +24,15 @@ limits:
   - '[law] fails when the adversary''s interests are partially aligned with yours -- in non-zero-sum games (trade negotiations, partnerships), what the other party wants may also be good for you, and reflexive contrariness destroys cooperative surplus'
   - '[law] breaks under information asymmetry reversal: if you know more than the adversary, their expressed preferences may reflect genuine miscalculation rather than strategic manipulation, making inversion counterproductive'
   - '[law] collapses into infinite regress in games between equally sophisticated players -- "they want me to do X, so I should do not-X, but they anticipated that, so they actually want not-X..." -- the maxim offers no stopping rule for this recursion'
+embodied_patterns:
+  - force
+  - matching
+  - path
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

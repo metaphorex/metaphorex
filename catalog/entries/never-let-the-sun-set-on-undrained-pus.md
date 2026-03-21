@@ -28,6 +28,15 @@ limits:
   - '[source] The surgical metaphor assumes the abscess is localized and accessible -- a single pocket of infection that can be found and opened -- while most organizational, interpersonal, and political "infections" are diffuse, distributed across multiple sites, and have no single point where the knife can go'
   - '[source] The sunset deadline imports false urgency into domains where the timeline of festering is measured in months or years rather than hours; applying surgical urgency to interpersonal conflicts or organizational dysfunction can produce premature, clumsy interventions that worsen the situation'
   - '[source] Drainage is painful but mechanically simple; the metaphor implies that addressing festering problems is primarily a matter of will (just open it) rather than skill, obscuring the fact that many metaphorical abscesses require careful diagnostic work to locate and specialized technique to drain without causing further damage'
+embodied_patterns:
+  - container
+  - blockage
+  - force
+relation_types:
+  - restore
+  - prevent
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

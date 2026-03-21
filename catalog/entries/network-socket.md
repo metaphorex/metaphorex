@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because physical sockets wear out from repeated insertion, but network sockets degrade from resource exhaustion, not mechanical fatigue'
   - '[source] misleads because a wall socket serves one plug at a time, while a server socket multiplexes thousands of concurrent connections through accept()'
+embodied_patterns:
+  - matching
+  - link
+  - boundary
+relation_types:
+  - enable
+  - translate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

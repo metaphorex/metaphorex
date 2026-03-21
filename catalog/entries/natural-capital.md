@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[paradigm] the capital framing implies that natural systems are substitutable -- that one form of natural capital can be exchanged for another, or that manufactured capital can replace natural capital -- but many ecosystem functions (pollination networks, soil microbiomes) are non-substitutable and collapse rather than depreciate'
   - '[paradigm] monetization creates a floor, not a ceiling: once an ecosystem is priced, the price becomes the amount at which it can be legitimately destroyed, converting an ethical prohibition ("you must not destroy this wetland") into a financial transaction ("you may destroy this wetland for $X")'
+embodied_patterns:
+  - container
+  - flow
+  - scale
+relation_types:
+  - accumulate
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

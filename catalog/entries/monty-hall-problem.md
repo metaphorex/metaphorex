@@ -21,6 +21,15 @@ transfers:
 - '[model] initial intuition treats all remaining options as equally likely after a reveal, but the asymmetry between the chooser''s ignorant pick and the host''s informed reveal makes the remaining unchosen door twice as likely to hold the prize'
 - '[model] the structure exposes the general cognitive error of failing to update beliefs when new evidence arrives, treating the posterior as identical to the prior'
 updated: '2026-03-19'
+embodied_patterns:
+  - splitting
+  - matching
+  - removal
+relation_types:
+  - select
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

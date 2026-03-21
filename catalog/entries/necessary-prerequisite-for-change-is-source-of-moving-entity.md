@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] a spatial source is a single unique point, but real prerequisites for change can be multiple, distributed, and partially substitutable rather than singular'
   - '[source] the source of motion is external to the mover (a place on a map), but prerequisites for personal change are often internal capacities that must be developed rather than locations that must be visited'
+embodied_patterns:
+  - path
+  - force
+  - container
+relation_types:
+  - enable
+  - cause
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

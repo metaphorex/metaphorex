@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] chemical purity is measurable to arbitrary precision (99.99%), but moral purity has no quantitative scale and typically operates as a binary judgment (pure or fallen)'
   - '[source] the purity metaphor treats moral goodness as a default state that can only be degraded, ignoring that moral character can be actively built, improved, and strengthened through engagement with difficulty'
+embodied_patterns:
+  - container
+  - boundary
+  - removal
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

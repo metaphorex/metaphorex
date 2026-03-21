@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] accounting treats all transactions within a category as fungible (one dollar is identical to another), but moral actions are context-dependent -- a kindness from a stranger and from a spouse are not interchangeable credits'
   - '[source] accounting allows indefinite deferral of payment through credit instruments, but moral debts are felt as urgent and time-sensitive -- delayed justice is widely perceived as diminished justice'
+embodied_patterns:
+  - balance
+  - scale
+  - container
+relation_types:
+  - accumulate
+  - restore
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

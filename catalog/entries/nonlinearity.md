@@ -22,6 +22,15 @@ transfers:
 - '[model] predicts that near a threshold, the relationship between cause and effect changes character -- a small input can trigger a qualitative phase change rather than a proportional response'
 - '[model] identifies positive feedback loops as the mechanism: outputs feed back as inputs, amplifying small perturbations until they explode (bank runs) or collapse suddenly (viral content saturation)'
 updated: '2026-03-13'
+embodied_patterns:
+  - scale
+  - boundary
+  - force
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

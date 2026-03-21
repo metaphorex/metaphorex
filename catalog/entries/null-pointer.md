@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because real pointing at nothing is harmless, while dereferencing a null pointer crashes the program'
   - '[source] misleads because embodied absence is context-dependent and recoverable, while null propagates through type systems as a universal inhabitor of every reference type'
+embodied_patterns:
+  - container
+  - removal
+  - matching
+relation_types:
+  - cause
+  - prevent
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because Nemesis enforces a cosmic moral order that guarantees justice, while real-world rivals and consequences follow no such guarantee of proportionality or inevitability"
   - "[source] misleads because Nemesis is external and disinterested -- a cosmic enforcer -- while modern 'nemeses' are typically personal rivals with their own agendas and vulnerabilities"
+embodied_patterns:
+  - force
+  - link
+  - balance
+relation_types:
+  - cause
+  - restore
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

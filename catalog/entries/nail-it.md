@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because nailing is the lowest-skill fastening method in carpentry -- any apprentice can nail, while dovetails and mortise-and-tenon require years of practice -- yet the metaphor implies peak mastery, inverting the source domain''s own status hierarchy'
   - '[source] misleads by treating the nail as the achievement, when in carpentry the nail is a means to an end (joining two pieces) and the quality of the joint is what matters; the metaphor collapses process into a single moment of impact and loses the surrounding craft'
+embodied_patterns:
+  - force
+  - matching
+  - path
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers
