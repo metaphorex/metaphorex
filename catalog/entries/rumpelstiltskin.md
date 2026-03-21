@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because naming Rumpelstiltskin destroys him completely, while naming a real phenomenon (a bias, a manipulation tactic, a disease) merely begins the work of addressing it rather than ending it"
   - "[source] misleads because the name is a proper noun -- an arbitrary label discovered by luck -- while the metaphorical use implies that naming means understanding the underlying structure, conflating labeling with comprehension"
+embodied_patterns:
+  - matching
+  - force
+  - boundary
+relation_types:
+  - transform
+  - prevent
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ limits:
   - '[source] firefighter rehab has objective physiological indicators (heart rate, core temperature, blood pressure) that signal when rest is sufficient, but cognitive and emotional fatigue lack equivalent measurable thresholds, making it unclear when "rehab" is complete'
   - '[source] the pattern depends on a paramilitary command culture where ordered rotation is legitimate, which breaks in professional knowledge-work contexts that value autonomy and experience commanded rest as paternalistic micromanagement'
   - '[source] a firefighter rehab has defined minimum duration and clear physiological endpoints, but organizational rest interventions (sabbaticals, mental health days) lack equivalent duration criteria and return-to-duty thresholds, making them easy to cut short or extend indefinitely'
+embodied_patterns:
+  - iteration
+  - boundary
+  - balance
+relation_types:
+  - restore
+  - coordinate
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

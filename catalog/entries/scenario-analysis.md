@@ -23,6 +23,15 @@ transfers:
 - '[model] prescribes asymmetric preparation: allocate most heavily for the scenario with worst consequences even if it is not most likely, importing the military principle of preparing for capabilities
   rather than intentions'
 updated: '2026-03-13'
+embodied_patterns:
+  - splitting
+  - path
+  - matching
+relation_types:
+  - select
+  - enable
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

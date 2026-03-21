@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because possessions can be dropped without consequence to the object, while responsibilities abandoned cause harm to those who depend on their fulfillment'
   - '[source] misleads because the possession frame implies clean transfer of responsibility from one holder to another, while real delegation often leaves residual accountability with the original holder'
+embodied_patterns:
+  - container
+  - link
+  - force
+relation_types:
+  - contain
+  - cause
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

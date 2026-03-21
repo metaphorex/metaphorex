@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because medical second opinions involve a second expert examining the same patient and the same evidence with comparable training, while most metaphorical "second opinions" involve asking someone with different expertise, different information, or different stakes, producing agreement or disagreement that has no diagnostic validity'
   - '[source] misleads by importing the assumption that more opinions converge on truth -- in medicine, diagnostic concordance between two independent physicians is a meaningful signal, but in domains without objective ground truth (strategy, design, hiring), a second opinion may simply introduce a second set of biases'
+embodied_patterns:
+  - splitting
+  - matching
+  - balance
+relation_types:
+  - select
+  - enable
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

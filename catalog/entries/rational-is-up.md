@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because physical elevation is a continuous dimension, while the distinction between rational and irrational thinking is not a smooth gradient but a contested and context-dependent judgment'
   - '[source] misleads because the upward direction imports positive valence automatically, encoding the assumption that rational thinking is always superior rather than situationally appropriate'
+embodied_patterns:
+  - scale
+  - force
+  - center-periphery
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

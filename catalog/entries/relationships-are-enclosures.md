@@ -29,6 +29,15 @@ transfers:
 limits:
   - '[source] breaks because enclosures have rigid walls, while relationship boundaries are negotiated, porous, and continuously redefined'
   - '[source] misleads because the enclosure frame implies that two people share identical bounded space, while partners in a relationship often experience different degrees of containment and freedom'
+embodied_patterns:
+  - container
+  - boundary
+  - link
+relation_types:
+  - contain
+  - coordinate
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

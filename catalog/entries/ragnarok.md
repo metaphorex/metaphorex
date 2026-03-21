@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because ragnarok is a singular, cosmically scheduled event rather than a recurring cycle, so applying it to iterative failures (market corrections, product pivots) imports a finality the source does not support for repetition"
   - "[source] misleads because the Norse gods know ragnarok is coming and cannot prevent it, but most real system collapses are neither foreknown nor inevitable -- the fatalism flatters inaction as tragic dignity"
+embodied_patterns:
+  - force
+  - removal
+  - splitting
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

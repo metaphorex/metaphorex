@@ -25,6 +25,15 @@ transfers:
   - '[source] imports the navigator''s decision logic — seek port when conditions exceed the vessel''s capacity — to explain why distressed children turn toward the caregiver rather than away, framing proximity-seeking as rational threat response rather than weakness'
   - '[source] carries the harbor''s defining structural feature, a bounded area where external forces are dampened, onto the regulatory function of the caregiver''s presence: the child''s arousal decreases not because the threat disappears but because the caregiver''s proximity attenuates its felt impact'
 updated: '2026-03-20'
+embodied_patterns:
+  - container
+  - boundary
+  - near-far
+relation_types:
+  - contain
+  - restore
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

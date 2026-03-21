@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because the duck cannot ask generative questions, and real debugging conversations are most productive when the listener probes with why and what-if'
   - '[source] misleads because it assumes the bug is in the programmer''s organization of known information, failing when the bug stems from unknown API behavior or system-level interactions'
+embodied_patterns:
+  - link
+  - matching
+  - surface-depth
+relation_types:
+  - translate
+  - cause
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

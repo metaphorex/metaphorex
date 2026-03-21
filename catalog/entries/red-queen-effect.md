@@ -19,6 +19,15 @@ transfers:
 - '[law] predicts that in co-evolutionary competition, adaptation is maintenance rather than advancement -- improving by 10% while competitors improve by 10% means standing still, not gaining ground'
 - '[law] predicts that standing still is falling behind, because competitors who continue evolving make your unchanged position relatively worse even though nothing about you has changed'
 updated: '2026-03-13'
+embodied_patterns:
+  - iteration
+  - force
+  - balance
+relation_types:
+  - compete
+  - accumulate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

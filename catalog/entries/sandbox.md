@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because a children's sandbox has no active enforcement -- the walls are a social convention, and a child can simply step out -- while a software sandbox uses hard isolation mechanisms"
   - "[source] misleads because playground sandboxes are safe by default with dangers kept out, while software sandboxes assume the contents are dangerous and keep them in"
+embodied_patterns:
+  - container
+  - boundary
+  - matching
+relation_types:
+  - contain
+  - enable
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

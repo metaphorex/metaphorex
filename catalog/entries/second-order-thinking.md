@@ -21,6 +21,15 @@ transfers:
 - '[model] maps higher-order derivatives from calculus onto consequence analysis, where first-order effects are immediate visible consequences and second-order effects are the consequences of those consequences'
 - '[model] reveals that most decision-makers analyze only immediate effects as a cognitive default, and names the layers to make the analytical gap visible and correctable'
 updated: '2026-03-13'
+embodied_patterns:
+  - path
+  - iteration
+  - scale
+relation_types:
+  - cause
+  - enable
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ limits:
   - '[model] breaks because a physical safety zone is spatially fixed and its properties (fuel clearance, terrain, distance from fire edge) are directly observable, while organizational "safety zones" (financial reserves, rollback procedures, legal protections) are abstract, their adequacy is uncertain, and they can be silently degraded by the same processes that create the need for them'
   - '[model] misleads by implying that retreat to a pre-identified safe state is always available, when many organizational and technical situations involve irreversible commitments -- a product launched, a statement made public, a chemical reaction initiated -- where no safety zone exists because the process cannot be un-done'
   - '[model] imports a binary model (you are either in the safety zone or you are not) that does not accommodate the gradient of partial safety common in most domains, where positions are safer or less safe rather than categorically safe or categorically exposed'
+embodied_patterns:
+  - container
+  - boundary
+  - path
+relation_types:
+  - prevent
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

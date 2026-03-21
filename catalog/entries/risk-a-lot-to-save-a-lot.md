@@ -20,6 +20,15 @@ transfers:
 limits:
   - '[model] requires accurate real-time assessment of what is saveable, which is precisely the judgment that degrades under stress, time pressure, and incomplete information'
   - '[model] assumes a single decision-maker or unified command, and breaks down in organizations where risk acceptance is distributed across multiple actors with different risk tolerances'
+embodied_patterns:
+  - balance
+  - scale
+  - force
+relation_types:
+  - select
+  - cause
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

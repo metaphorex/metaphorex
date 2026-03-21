@@ -24,6 +24,15 @@ transfers:
   - "[source] imports the binary choice architecture (two pills, two outcomes, no middle ground) onto complex epistemic situations, framing knowledge as an all-or-nothing commitment rather than a graduated process"
   - "[source] carries the connotation that the truth is painful and alienating (Morpheus warns 'I can only show you the door') while the illusion is pleasant, mapping onto any situation where the speaker claims that their discomforting view is the real one"
 updated: '2026-03-17'
+embodied_patterns:
+  - boundary
+  - path
+  - surface-depth
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

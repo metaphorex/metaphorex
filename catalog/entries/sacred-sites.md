@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because physical sacred sites derive their power from geographic specificity -- this hill, this grove, this spring -- while organizational "sacred" systems derive theirs from habit and risk aversion, which are psychologically rather than geographically anchored'
   - '[source] misleads by implying that preservation is always the right response, when some things declared "sacred" in organizations are simply protected by incumbents who benefit from the status quo'
+embodied_patterns:
+  - accretion
+  - container
+  - center-periphery
+relation_types:
+  - accumulate
+  - contain
+structure: growth
+abstraction_level: specific
 ---
 
 ## Transfers

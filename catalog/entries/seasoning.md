@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks because wood seasons passively -- it merely sits in the air and time does the work -- while professional maturation requires active engagement, deliberate practice, and reflective learning, not simply the passage of time in proximity to work'
   - '[source] misleads by implying that seasoning is a one-time process with a clear endpoint (the wood reaches equilibrium moisture content and is "done"), when professional development is ongoing and a practitioner who stops learning will regress, unlike wood that stays seasoned once dried'
+embodied_patterns:
+  - accretion
+  - path
+  - force
+relation_types:
+  - transform
+  - accumulate
+structure: growth
+abstraction_level: specific
 ---
 
 ## Transfers

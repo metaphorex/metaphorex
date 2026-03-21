@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because Pyrrhus fought on foreign soil far from reinforcement, while many costly victories occur in contexts where recovery is possible given sufficient time'
   - '[source] misleads because the historical Pyrrhus recognized his predicament and chose to withdraw, while the metaphor is typically applied to actors who do not recognize the unsustainability of their approach'
+embodied_patterns:
+  - force
+  - balance
+  - path
+relation_types:
+  - compete
+  - cause
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

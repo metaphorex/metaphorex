@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] breaks because the original scuttlebutt enforced spatial convergence in a confined space, while modern gossip networks are distributed and asynchronous with no physical focal point'
   - '[source] misleads because the barrel was egalitarian (any sailor could drink and talk), but real gossip networks are stratified with hub-and-spoke topology that the metaphor''s implied democracy obscures'
+embodied_patterns:
+  - flow
+  - link
+  - container
+relation_types:
+  - translate
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

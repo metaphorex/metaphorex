@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because races have defined start and finish lines with a clear winner, while race conditions produce corrupted state rather than ranked outcomes'
   - '[source] misleads because a race implies intentional competition, while race conditions arise from accidental temporal overlap between operations never designed to compete'
+embodied_patterns:
+  - path
+  - force
+  - splitting
+relation_types:
+  - compete
+  - cause
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

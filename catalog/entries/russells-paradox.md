@@ -23,6 +23,15 @@ transfers:
   - '[paradigm] introduces the principle that naive comprehension -- "for any property, there exists a set of all things with that property" -- fails precisely when the property involves membership in the set being defined, showing that not all well-formed questions have coherent answers'
   - '[paradigm] provides the structural template for detecting regulatory paradoxes: whenever a rule-maker is subject to its own rules, and the rules include exclusion criteria, the same self-referential trap applies'
 updated: '2026-03-19'
+embodied_patterns:
+  - container
+  - boundary
+  - iteration
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

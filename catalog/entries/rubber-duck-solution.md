@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks when the problem is not one of confused reasoning but of missing information -- explaining a bug to a duck cannot generate data the explainer does not possess, and the pattern falsely implies that all stuck states are failures of articulation'
   - '[source] misleads by implying the listener is interchangeable (duck, teddy bear, cardboard cutout), obscuring the fact that a live human listener changes the social stakes of the explanation in ways that alter the explainer''s cognitive behavior -- shame, desire to appear competent, and social accountability are active ingredients, not noise'
+embodied_patterns:
+  - link
+  - matching
+  - surface-depth
+relation_types:
+  - translate
+  - enable
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

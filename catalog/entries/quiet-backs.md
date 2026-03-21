@@ -28,6 +28,15 @@ transfers:
 - '[source] imports the spatial principle that the quiet zone must be physically adjacent to the busy zone rather than distant from it, so that the transition from activity to recovery is low-cost and frequent rather than requiring a major expedition'
 - '[source] carries the insight that the quiet back must be deliberately protected from encroachment by the busy front, because unprotected quiet spaces are colonized by overflow activity until they are indistinguishable from the main space'
 updated: '2026-03-21'
+embodied_patterns:
+  - boundary
+  - container
+  - balance
+relation_types:
+  - contain
+  - restore
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

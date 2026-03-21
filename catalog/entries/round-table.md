@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because geometric equality does not dissolve power differentials from resources, information, or institutional authority that participants bring to the table'
   - '[source] misleads because Arthur''s Round Table ended in civil war, and the source narrative is about the failure of egalitarian governance, not its success'
+embodied_patterns:
+  - balance
+  - container
+  - link
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

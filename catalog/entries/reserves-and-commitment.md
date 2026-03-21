@@ -22,6 +22,15 @@ transfers:
 - '[model] identifies the asymmetry between the cost of over-commitment (catastrophic but bounded) and the cost of under-commitment (survivable but chronic), reframing caution as its own form of risk rather than the absence of risk'
 - '[model] distinguishes strategic reserves (held for a future decisive moment) from timidity reserves (held because the commander fears committing), naming a failure mode where the language of prudence masks indecision'
 updated: '2026-03-21'
+embodied_patterns:
+  - container
+  - force
+  - balance
+relation_types:
+  - select
+  - cause
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

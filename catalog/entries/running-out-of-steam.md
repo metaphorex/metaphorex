@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] breaks because a steam engine has a single depletable reservoir, while human energy is influenced by motivation, context, and emotion in ways that allow selective depletion and spontaneous recovery'
   - '[source] misleads because the metaphor frames all non-productive states as depletion, obscuring the value of contemplation, incubation, and daydreaming that may precede creative breakthroughs'
+embodied_patterns:
+  - flow
+  - scale
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

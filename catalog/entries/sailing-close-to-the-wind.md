@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] breaks because the wind is a neutral physical force, while ethical boundaries exist because of real harms to real people, and the metaphor aestheticizes rule-skirting as skillful navigation'
   - '[source] misleads because the sailor bears the consequences of misjudgment personally, while ethical boundary-riding typically imposes costs on others who had no say in the risk'
+embodied_patterns:
+  - boundary
+  - path
+  - force
+relation_types:
+  - compete
+  - cause
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers
