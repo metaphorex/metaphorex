@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because kitchen prep has a fixed, knowable scope determined by the menu and the expected cover count, while most organizational prep work (infrastructure setup, sprint planning, onboarding) faces an open-ended scope where "how much prep is enough" has no objectively correct answer'
   - '[source] misleads by importing the kitchen''s sharp temporal boundary between prep and service into domains where the two overlap -- software teams cannot "finish all the prep" before beginning execution because requirements, tools, and environments change continuously during the work'
+embodied_patterns:
+  - path
+  - part-whole
+  - matching
+relation_types:
+  - enable
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

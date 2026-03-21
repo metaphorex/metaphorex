@@ -26,6 +26,15 @@ transfers:
 limits:
   - "[source] breaks because biological killing destroys the entity permanently, whereas the mapped target can be restarted immediately with no loss of template"
   - "[source] misleads because the moral weight of killing imports unjustified alarm into a routine administrative action"
+embodied_patterns:
+  - force
+  - removal
+  - boundary
+relation_types:
+  - cause
+  - prevent
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

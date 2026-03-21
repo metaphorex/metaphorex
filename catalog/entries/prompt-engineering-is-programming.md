@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because programming produces deterministic output for identical inputs, while the same prompt can yield different outputs across runs due to sampling and model updates'
   - '[source] misleads because programs execute instructions literally, while language models interpret prompts through statistical patterns and may creatively deviate from stated intent'
+embodied_patterns:
+  - matching
+  - path
+  - container
+relation_types:
+  - translate
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

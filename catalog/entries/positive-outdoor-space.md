@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] architectural outdoor space is experienced bodily through enclosure, sunlight, and shelter, but the "space between" software components has no sensory dimension and must be made visible through tooling rather than felt through presence'
   - '[source] the pattern assumes that shaping the gaps is always desirable, but in software, deliberately unstructured interfaces (duck typing, convention over configuration) can enable flexibility that rigid boundary design would prevent'
+embodied_patterns:
+  - container
+  - boundary
+  - part-whole
+relation_types:
+  - contain
+  - coordinate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

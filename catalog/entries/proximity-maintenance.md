@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] breaks because spatial closeness is continuous and measurable, but the infant''s subjective sense of security is not linearly related to physical distance -- a caregiver can be spatially close but emotionally unavailable, and the model has no variable for that'
   - '[model] misleads by implying the system has a single goal (proximity), when attachment behavior simultaneously serves exploration, affect regulation, and social learning -- collapsing these into one spatial metric oversimplifies the behavioral repertoire'
+embodied_patterns:
+  - near-far
+  - link
+  - force
+relation_types:
+  - coordinate
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

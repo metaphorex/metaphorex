@@ -23,6 +23,15 @@ transfers:
 - '[model] waste signals a design gap rather than an operational inevitability: if something leaves the system unused, the system boundary is drawn too narrowly or a connection is missing'
 - '[model] the model reframes efficiency from "minimize inputs" to "maximize the number of useful transformations per unit of material," shifting attention from cost reduction to circulation design'
 updated: '2026-03-20'
+embodied_patterns:
+  - flow
+  - link
+  - removal
+relation_types:
+  - transform
+  - coordinate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

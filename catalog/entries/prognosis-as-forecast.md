@@ -28,6 +28,15 @@ limits:
   - '[source] breaks because medical prognosis assumes a single patient with a knowable disease trajectory, while organizational or economic "prognoses" involve complex adaptive systems where the act of announcing the forecast changes the outcome (reflexivity), a dynamic absent from clinical medicine'
   - '[source] misleads by importing the physician''s moral authority -- the doctor who delivers a prognosis has examined the patient -- onto commentators who pronounce organizational prognoses without comparable diagnostic access, lending unearned clinical credibility to punditry'
   - '[source] obscures that medical prognosis is explicitly probabilistic and physicians are trained to communicate uncertainty, while metaphorical prognosis ("the prognosis for this company is poor") typically drops the probability framing entirely, converting calibrated uncertainty into false certainty'
+embodied_patterns:
+  - path
+  - near-far
+  - matching
+relation_types:
+  - cause
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

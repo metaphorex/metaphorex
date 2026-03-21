@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because Procrustes acted on individuals one at a time, while procrustean systems typically operate on populations through standardized bureaucratic processes'
   - '[source] misleads because the myth involves deliberate malice, while most procrustean standardization arises from institutional convenience rather than intent to harm'
+embodied_patterns:
+  - force
+  - matching
+  - container
+relation_types:
+  - transform
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

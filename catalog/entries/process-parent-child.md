@@ -26,6 +26,15 @@ transfers:
 limits:
   - "[source] breaks because human families involve bidirectional emotional bonds, whereas the mapped relationship is a one-way supervisory channel"
   - "[source] misleads because biological inheritance blends traits from two parents, whereas the mapped mechanism copies one parent's state wholesale"
+embodied_patterns:
+  - splitting
+  - link
+  - container
+relation_types:
+  - cause
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

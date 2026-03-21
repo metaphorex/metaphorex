@@ -23,6 +23,15 @@ transfers:
 - '[source] imports the physical image of hands moving through the air to create an illusion of connection between two points, framing the arguer''s body language as a substitute for the structural work their words fail to do'
 - '[source] carries the mathematical community''s social norm that handwaving is shameful -- a failure of rigor that peers will call out -- into non-mathematical contexts where the same gaps might otherwise go unchallenged'
 updated: '2026-03-19'
+embodied_patterns:
+  - removal
+  - surface-depth
+  - path
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

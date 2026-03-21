@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks because physical forces are measurable and predictable, while psychological forces vary with context, interpretation, and the subject''s narrative about their own experience'
   - '[source] misleads because physical force dynamics involve passive objects, while the psychological self actively reinterprets the forces acting on it, sometimes converting an attraction into a repulsion through reframing'
+embodied_patterns:
+  - force
+  - path
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: competition
+abstraction_level: primitive
 ---
 
 ## Transfers

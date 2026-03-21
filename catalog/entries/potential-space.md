@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] physical space is inert and persists whether or not anyone uses it, but Winnicott''s potential space is actively maintained by the holding environment and collapses into either fantasy or compliance the moment trust breaks down'
   - '[source] spatial metaphors imply measurable extension and clear location, but potential space has no definite size or position -- it is not a place in the brain or between two bodies, and treating it as literally spatial leads to confused attempts to "create" or "open" it through environmental design alone'
+embodied_patterns:
+  - container
+  - boundary
+  - matching
+relation_types:
+  - enable
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

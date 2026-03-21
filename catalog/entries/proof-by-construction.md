@@ -25,6 +25,15 @@ transfers:
 - '[paradigm] introduces the concept of a "witness" -- a specific object whose existence settles the question -- transferring the mathematical requirement for tangible evidence into engineering and design contexts'
 - '[paradigm] distinguishes constructive knowledge (knowing how to build the thing) from non-constructive knowledge (knowing the thing exists), privileging actionable understanding over abstract assurance'
 updated: '2026-03-19'
+embodied_patterns:
+  - part-whole
+  - path
+  - matching
+relation_types:
+  - cause
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

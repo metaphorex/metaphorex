@@ -27,6 +27,15 @@ transfers:
 limits:
   - "[source] breaks because medical injection requires a physical instrument (needle) that leaves evidence of penetration, while prompt injection leaves no trace of the boundary violation in the output"
   - "[source] misleads because the medical metaphor implies a passive patient, but prompt injection targets an active reasoning system whose own cognitive process becomes the attack vector"
+embodied_patterns:
+  - boundary
+  - container
+  - force
+relation_types:
+  - compete
+  - transform
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks when the case space is infinite or combinatorially explosive, since the method requires literal enumeration of every possibility -- real testing and compliance domains routinely face spaces too large to exhaust'
   - '[source] misleads by implying that exhaustive checking and genuine understanding are substitutes, when in mathematics exhaustion is a last resort that forecloses the deeper insight a general proof would provide'
+embodied_patterns:
+  - iteration
+  - part-whole
+  - matching
+relation_types:
+  - select
+  - cause
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because possessions are external to the owner and can be transferred, while properties are intrinsic to the bearer and often cannot be given away'
   - '[source] misleads because the possession frame implies that all properties are equally detachable, while some attributes are constitutive of identity and cannot be alienated'
+embodied_patterns:
+  - container
+  - link
+  - force
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

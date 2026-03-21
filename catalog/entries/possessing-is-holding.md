@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because physical holding requires continuous exertion, while legal possession persists without ongoing effort through institutional recognition'
   - '[source] misleads because you can only hold a few physical objects at once, while a person or entity can possess unlimited abstract properties simultaneously'
+embodied_patterns:
+  - container
+  - force
+  - link
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] breaks because bodily failure involves subjective suffering, while program failure involves no experience at all'
   - '[source] misleads because biological organisms heal themselves through immune response, while programs lack self-repair mechanisms and require external intervention to recover'
+embodied_patterns:
+  - force
+  - removal
+  - container
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

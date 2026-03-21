@@ -26,6 +26,15 @@ transfers:
 - '[paradigm] establishes that the problem of cooperation is not ignorance or malice but incentive structure, shifting analysis from character to architecture'
 - '[paradigm] predicts that iteration (repeated play) transforms the strategic landscape, making cooperation sustainable through reciprocity and punishment in ways impossible in one-shot encounters'
 updated: '2026-03-19'
+embodied_patterns:
+  - splitting
+  - balance
+  - force
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

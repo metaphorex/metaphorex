@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[model] fails to distinguish between genuine pedagogical shorthand ("this follows by a standard argument the audience knows") and actual intimidation -- experienced mathematicians routinely skip steps their audience can fill in, and labeling all such omissions as intimidation collapses a real distinction'
   - '[model] implies the audience is passive, but in functional mathematical culture the audience interrupts and asks for clarification; the model predicts intimidation will succeed more than it actually does in communities with strong norms of skeptical inquiry'
+embodied_patterns:
+  - force
+  - scale
+  - boundary
+relation_types:
+  - prevent
+  - cause
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

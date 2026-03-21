@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because livestock put to pasture genuinely cannot perform their former work due to physical decline, while humans "put out to pasture" may retain full capability and are often sidelined for political or age-discriminatory reasons unrelated to actual performance'
   - '[source] misleads by framing forced retirement as pastoral kindness -- green fields, gentle grazing -- when the actual experience for the person is often loss of identity, social isolation, and involuntary irrelevance'
+embodied_patterns:
+  - path
+  - removal
+  - container
+relation_types:
+  - transform
+  - prevent
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

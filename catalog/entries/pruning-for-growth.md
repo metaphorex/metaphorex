@@ -25,6 +25,15 @@ limits:
   - '[source] breaks because a pruned branch does not suffer or resist; it has no interests, no alternative plan, and no social network that is disrupted by its removal -- making the metaphor structurally unable to represent the human cost of organizational cuts'
   - '[source] the gardener can see the entire plant and predict where energy will flow after a cut, but organizational leaders cannot see the full network of dependencies, so cuts intended to redirect energy often redirect it in unpredictable directions or dissipate it entirely'
   - '[source] pruning assumes the root system and trunk are healthy and that the constraint on growth is branch proliferation, but many organizational problems originate in the root system (culture, incentives, leadership) where pruning branches has no therapeutic effect'
+embodied_patterns:
+  - removal
+  - accretion
+  - path
+relation_types:
+  - transform
+  - enable
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

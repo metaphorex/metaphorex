@@ -23,6 +23,15 @@ transfers:
   - '[model] introduces a temporal arc — onset, peak intensity, gradual recovery — that distinguishes adaptive immersion from chronic enmeshment by making duration the diagnostic variable'
   - '[model] identifies that the capacity for this state must already exist latently and be "switched on" by circumstance, structuring the claim that deep responsiveness is a dormant capability activated by dependency, not a skill acquired through training'
 updated: '2026-03-20'
+embodied_patterns:
+  - container
+  - merging
+  - balance
+relation_types:
+  - enable
+  - transform
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers
