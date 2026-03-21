@@ -32,7 +32,7 @@ embodied_patterns:
 relation_types:
   - transform
   - prevent
-structure: pipeline
+structure: transformation
 abstraction_level: specific
 ---
 

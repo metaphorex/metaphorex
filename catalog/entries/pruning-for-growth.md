@@ -27,7 +27,7 @@ limits:
   - '[source] pruning assumes the root system and trunk are healthy and that the constraint on growth is branch proliferation, but many organizational problems originate in the root system (culture, incentives, leadership) where pruning branches has no therapeutic effect'
 embodied_patterns:
   - removal
-  - accretion
+  - part-whole
   - path
 relation_types:
   - transform
