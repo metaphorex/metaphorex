@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because publishing templates are filled in by users at runtime, while Template Method blanks are filled in by programmers at compile time through subclassing -- the metaphor conflates runtime personalization with compile-time specialization"
   - "[source] misleads because real templates can be ignored (leave fields blank, write outside the margins), while abstract methods must be implemented -- the pattern enforces mandatory participation where the metaphor implies optional compliance"
+embodied_patterns:
+  - path
+  - matching
+  - part-whole
+relation_types:
+  - coordinate
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

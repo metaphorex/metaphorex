@@ -27,6 +27,15 @@ limits:
   - "[source] breaks because looking for the shadow creates a new shadow (things you refuse to see about your shadow-hunting), making the concept unfalsifiable"
   - "[source] misleads because calling something shadow implies it was unjustly repressed, when some repressions are legitimate triage"
   - "[source] obscures that organizational denial operates through incentive structures and power dynamics, not psychic repression"
+embodied_patterns:
+  - surface-depth
+  - splitting
+  - container
+relation_types:
+  - prevent
+  - transform
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -21,6 +21,15 @@ limits:
   - '[model] does not distinguish between problems that genuinely encode useful information (a snail population indicating moist, fertile conditions) and problems that are purely destructive (a toxin in the water supply) -- the heuristic has no built-in filter for when reframing is appropriate versus dangerous'
   - '[model] can rationalize inaction by relabeling genuine problems as "unrecognized resources," providing intellectual cover for failing to address harmful conditions that require elimination rather than integration'
 updated: '2026-03-20'
+embodied_patterns:
+  - matching
+  - balance
+  - path
+relation_types:
+  - transform
+  - enable
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

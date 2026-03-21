@@ -26,6 +26,15 @@ limits:
   - '[source] Covers are passive surfaces, hiding that theories actively predict new phenomena rather than merely draping over existing ones'
   - '[source] A cover is a single flat layer with no internal structure, obscuring the hierarchical depth of axioms, principles, and derived predictions'
   - '[source] All uncovered areas appear as failures, making no distinction between genuine explanatory gaps and facts outside the theory''s intended scope'
+embodied_patterns:
+  - container
+  - superimposition
+  - matching
+relation_types:
+  - contain
+  - transform
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ limits:
   - '[source] breaks because physical walls have a natural maximum thickness set by structural and spatial constraints, while software boundary layers (middleware, APIs, adapters) can grow without physical limit until the "wall" becomes larger and more complex than the "rooms" it separates'
   - '[source] assumes that the activities embedded in the wall are stable and predictable (a window seat will always be a window seat), but software interfaces must adapt to changing requirements, and thick boundaries resist change because they contain too much embedded behavior'
   - '[source] implies that thicker is always better, but in many software contexts the thinnest possible boundary (a function signature, a wire protocol) is the most maintainable because it minimizes the coupling surface between components'
+embodied_patterns:
+  - boundary
+  - surface-depth
+  - container
+relation_types:
+  - contain
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

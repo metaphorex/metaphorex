@@ -24,6 +24,15 @@ limits:
   - "[source] breaks because money is fungible across transactions, but an hour of grief is not interchangeable with an hour of play"
   - "[source] misleads because savings can be withdrawn from a bank, but time once passed cannot be retrieved regardless of how efficiently it was used"
   - "[source] obscures that rest in a monetary frame registers as waste, punishing non-productive activity as irrational"
+embodied_patterns:
+  - container
+  - scale
+  - flow
+relation_types:
+  - accumulate
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

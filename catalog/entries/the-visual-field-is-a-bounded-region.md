@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because bounded regions are static, while the visual field moves with every saccade, head turn, and body rotation -- the metaphor captures shape at a frozen moment but not dynamism'
   - '[source] misleads because even ''bounded region'' overstates the crispness of the visual periphery -- vision does not end at a boundary but fades gradually, and the metaphor imposes an edge where biology provides a gradient'
+embodied_patterns:
+  - container
+  - boundary
+  - near-far
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

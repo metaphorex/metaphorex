@@ -30,6 +30,15 @@ transfers:
 - '[source] the agent''s effects accumulate incrementally but are narrated as deliberate
   acts'
 updated: '2026-03-13'
+embodied_patterns:
+  - force
+  - path
+  - scale
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

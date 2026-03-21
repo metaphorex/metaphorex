@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because political states are contested with ambiguous transitions involving negotiation and conflict, while software state transitions are mechanical and deterministic -- the metaphor imports drama where the pattern delivers predictability'
   - '[source] misleads because governance implies permanence (states endure for decades), while a software object might transition through dozens of states per second -- the metaphor''s gravitas is disproportionate to typical use'
+embodied_patterns:
+  - container
+  - matching
+  - path
+relation_types:
+  - transform
+  - coordinate
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

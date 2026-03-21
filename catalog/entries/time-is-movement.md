@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because a mover can stop, reverse, or choose a branching path, while temporal passage permits none of these -- time does not pause, rewind, or fork"
   - "[source] misleads because movement implies a destination the mover intends to reach, but time has no inherent endpoint or purpose, making temporal experience feel goal-directed when it is not"
+embodied_patterns:
+  - path
+  - force
+  - near-far
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

@@ -31,6 +31,15 @@ transfers:
   at upcoming terrain'
 - '[source] duration maps onto distance, so longer spans feel like longer journeys'
 updated: '2026-03-14'
+embodied_patterns:
+  - path
+  - container
+  - near-far
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

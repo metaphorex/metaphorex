@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because calling a calcified process 'the Senex' gives it mythological weight it may not deserve -- some legacy systems are just poorly maintained software, not Saturn holding the prima materia"
   - "[source] misleads because the archetype does not distinguish between wisdom and mere stubbornness, and organizations that identify with the Senex may use the label to avoid necessary transformation"
+embodied_patterns:
+  - force
+  - container
+  - boundary
+relation_types:
+  - contain
+  - prevent
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

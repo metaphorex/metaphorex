@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because software lacks the sensory dimension that grounds Alexander''s concept -- the warmth of sunlight, the proportions of a room, the texture of materials have no equivalent in text on a screen, stripping the concept of its embodied foundation'
   - '[source] misleads because Gabriel himself could not complete the mapping -- the person making the transfer acknowledged he could not identify what the quality meant for software, suggesting the concept may be structurally unable to cross the domain boundary'
+embodied_patterns:
+  - self-organization
+  - matching
+  - accretion
+relation_types:
+  - enable
+  - transform
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

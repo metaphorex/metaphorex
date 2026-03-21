@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because military strategies involve uncertainty, adaptation, and an adversary who actively counters your plan, while software algorithms operate on passive data that is not fighting back"
   - "[source] misleads because 'strategy' implies high-stakes consequence (casualties, territorial loss), making mundane algorithm selection feel more consequential than picking between bubble sort and quicksort"
+embodied_patterns:
+  - matching
+  - splitting
+  - container
+relation_types:
+  - select
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

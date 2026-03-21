@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because each generation of a physical mold loses fidelity, while software cloning produces bit-perfect copies every time -- the metaphor suggests degradation that never materializes"
   - "[source] misleads because shallow vs. deep copy has no physical analog -- you cannot mold the outside of a part while leaving the inside shared with the original, yet software clones routinely share internal state through reference copying"
+embodied_patterns:
+  - matching
+  - splitting
+  - part-whole
+relation_types:
+  - transform
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

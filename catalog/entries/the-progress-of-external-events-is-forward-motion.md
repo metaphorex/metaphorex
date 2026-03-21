@@ -29,6 +29,15 @@ limits:
   - "[source] misleads because forward motion implies a single direction, hiding that events can develop productively in multiple directions simultaneously"
   - "[source] obscures that some events are better understood as transformations in place rather than as movements from one point to another"
 updated: '2026-03-17'
+embodied_patterns:
+  - path
+  - force
+  - near-far
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

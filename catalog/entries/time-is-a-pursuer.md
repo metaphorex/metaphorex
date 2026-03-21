@@ -31,6 +31,15 @@ transfers:
 - '[source] the pursuer''s approach generates escalating anxiety proportional to the
   shrinking distance'
 updated: '2026-03-13'
+embodied_patterns:
+  - path
+  - force
+  - near-far
+relation_types:
+  - cause
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

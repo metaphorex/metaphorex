@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because manufacturing work is irreversible once raw steel is stamped into a fender, while the pattern's key feature is rollback -- undoing everything if something fails"
   - "[source] misleads because 'unit' suggests standardized, interchangeable portions, but each Unit of Work instance can contain wildly different operations of different complexity with no natural measure"
+embodied_patterns:
+  - container
+  - iteration
+  - matching
+relation_types:
+  - coordinate
+  - restore
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

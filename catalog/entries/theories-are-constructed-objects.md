@@ -26,6 +26,15 @@ limits:
   - '[source] physical materials pre-exist construction, but in theory-making what counts as data is partly determined by the theory itself'
   - '[source] constructed objects are intentional artifacts, obscuring the role of serendipity and accidental discovery in theoretical insight'
   - '[source] disassembly returns original components, but deconstructing a theory transforms the elements being analyzed rather than recovering pre-theoretical observations'
+embodied_patterns:
+  - part-whole
+  - matching
+  - force
+relation_types:
+  - transform
+  - coordinate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

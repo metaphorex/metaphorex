@@ -24,6 +24,15 @@ transfers:
 - '[source] carries the constraint that the rail has finite length, framing work-in-progress limits as a physical property of the queue rather than an arbitrary management policy'
 - '[source] imports the kitchen norm that placing a ticket on the rail is a public commitment visible to the whole brigade, mapping onto transparency requirements where task acceptance must be announced rather than silently absorbed'
 updated: '2026-03-19'
+embodied_patterns:
+  - path
+  - flow
+  - matching
+relation_types:
+  - coordinate
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

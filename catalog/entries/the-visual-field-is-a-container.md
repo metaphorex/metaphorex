@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because vision has no sharp boundary -- the visual field fades gradually at the periphery rather than ending at a wall, and the container metaphor imposes a crisp threshold that does not match perceptual experience'
   - '[source] misleads because you can look at something without seeing it (inattentional blindness) and see something without looking at it (peripheral awareness), conflating physical presence in the visual field with perceptual registration'
+embodied_patterns:
+  - container
+  - boundary
+  - flow
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

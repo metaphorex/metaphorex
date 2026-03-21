@@ -26,6 +26,15 @@ limits:
   - '[source] cloth has no hierarchy among threads, hiding the distinction between foundational axioms and derived claims'
   - '[source] fabric is inert once woven, obscuring that theories actively predict and generate new inquiry'
   - '[source] weaving implies a single artisan at a loom, misrepresenting the distributed authorship of most theoretical work'
+embodied_patterns:
+  - link
+  - part-whole
+  - matching
+relation_types:
+  - coordinate
+  - transform
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

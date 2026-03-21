@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because government registries are backed by law and legal enforcement, while software registry entries are backed by whatever object was registered, which may be null, misconfigured, or no longer running"
   - "[source] misleads because changing a birth certificate requires court orders, while overwriting a software registry entry requires one line of code -- the governance metaphor suggests deliberation where the pattern offers casual mutability"
+embodied_patterns:
+  - container
+  - matching
+  - link
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

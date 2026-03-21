@@ -26,6 +26,15 @@ transfers:
 limits:
   - "[source] breaks because wholeness is asymptotic, never achievable -- applied to organizations, this produces endless alignment initiatives that pursue a unity complex systems cannot and should not achieve"
   - "[source] misleads because an organizing center that claims to encompass everything can justify suppressing dissent, and the archetype has no built-in distinction between genuine integration and enforced conformity"
+embodied_patterns:
+  - center-periphery
+  - container
+  - balance
+relation_types:
+  - coordinate
+  - transform
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers
