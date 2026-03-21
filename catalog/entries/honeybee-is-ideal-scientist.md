@@ -22,6 +22,17 @@ transfers:
 limits:
   - "[source] breaks because the bee's transformation is a single digestive process (nectar to honey), while scientific method involves multiple distinct operations (hypothesis, experiment, analysis, peer review) that the single-step digestion model collapses"
   - "[source] misleads because bees follow instinct without variation or error -- no bee experiments with a new flower-processing technique -- while the ideal scientist must deviate from established method, make productive mistakes, and revise procedures"
+embodied_patterns:
+  - part-whole
+  - flow
+  - matching
+relation_types:
+  - transform
+  - select
+  - coordinate
+structure:
+  - pipeline
+abstraction_level: generic
 updated: '2026-03-17'
 ---
 

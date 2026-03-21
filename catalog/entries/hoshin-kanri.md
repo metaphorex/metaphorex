@@ -8,6 +8,18 @@ categories:
 contributors: []
 created: '2026-03-18'
 grounding: established
+embodied_patterns:
+  - path
+  - iteration
+  - link
+relation_types:
+  - coordinate
+  - decompose
+  - enable
+structure:
+  - hierarchy
+  - cycle
+abstraction_level: generic
 harness: Claude Code
 kind: paradigm
 limits:

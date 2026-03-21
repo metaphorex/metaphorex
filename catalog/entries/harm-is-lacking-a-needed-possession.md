@@ -19,6 +19,16 @@ related:
 - action-is-control-over-possessions
 slug: harm-is-lacking-a-needed-possession
 source_frame: economics
+embodied_patterns:
+  - removal
+  - container
+  - balance
+relation_types:
+  - cause
+  - prevent
+structure:
+  - transformation
+abstraction_level: primitive
 updated: '2026-03-12'
 transfers:
   - '[source] maps harm onto absence rather than presence, making suffering a deficit -- an empty slot in the self where a vital resource should be'

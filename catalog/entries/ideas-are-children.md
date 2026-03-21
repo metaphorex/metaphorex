@@ -18,6 +18,16 @@ related:
 - ideas-are-light-sources
 slug: ideas-are-children
 source_frame: life-course
+embodied_patterns:
+  - scale
+  - accretion
+  - part-whole
+relation_types:
+  - enable
+  - transform
+structure:
+  - growth
+abstraction_level: generic
 updated: '2026-03-12'
 transfers:
   - '[source] maps the developmental trajectory of childhood onto intellectual products, making ideas fragile at birth and requiring sustained nurture before they can stand on their own'

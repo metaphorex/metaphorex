@@ -14,6 +14,16 @@ related:
 - program-failure-is-bodily-failure
 slug: heisenbug
 source_frame: physics
+embodied_patterns:
+  - force
+  - boundary
+  - surface-depth
+relation_types:
+  - cause
+  - prevent
+structure:
+  - boundary
+abstraction_level: specific
 updated: '2026-03-14'
 transfers:
   - '[source] maps the observer effect from quantum mechanics onto debugging, where adding instrumentation (print statements, debuggers, logging) changes timing, memory layout, or optimization enough to alter the bug'

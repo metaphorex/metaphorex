@@ -15,6 +15,16 @@ provenance: scheins-surgical-aphorisms
 created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
+embodied_patterns:
+  - scale
+  - matching
+  - removal
+relation_types:
+  - select
+  - prevent
+structure:
+  - hierarchy
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - '[model] directs the diagnostician to rank hypotheses by base rate before considering exotic explanations, because the prior probability of common conditions vastly exceeds that of rare ones and most presentations are caused by common conditions'

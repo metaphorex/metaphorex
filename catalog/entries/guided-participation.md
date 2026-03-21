@@ -6,6 +6,17 @@ categories:
 contributors: []
 created: '2026-03-20'
 grounding: established
+embodied_patterns:
+  - container
+  - link
+  - part-whole
+relation_types:
+  - enable
+  - coordinate
+  - transform
+structure:
+  - network
+abstraction_level: generic
 harness: Claude Code
 kind: mental-model
 name: Guided Participation

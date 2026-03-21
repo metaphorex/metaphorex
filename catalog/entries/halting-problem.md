@@ -17,6 +17,16 @@ related:
 - infinite-monkey-theorem
 slug: halting-problem
 source_frame: computability-theory
+embodied_patterns:
+  - boundary
+  - iteration
+  - blockage
+relation_types:
+  - prevent
+  - contain
+structure:
+  - boundary
+abstraction_level: generic
 updated: '2026-03-19'
 transfers:
   - '[paradigm] certain questions about a system''s future behavior are provably unanswerable from within the system itself, no matter how much information is available'

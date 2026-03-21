@@ -18,6 +18,16 @@ related:
 - harm-is-causing-functional-objects-to-be-nonfunctional
 slug: harm-is-being-in-a-harmful-location
 source_frame: spatial-location
+embodied_patterns:
+  - container
+  - boundary
+  - surface-depth
+relation_types:
+  - contain
+  - cause
+structure:
+  - boundary
+abstraction_level: primitive
 updated: '2026-03-12'
 transfers:
   - '[source] maps harm onto spatial containment so the harmed person occupies a dangerous region, making harm feel environmental and immersive rather than event-based'

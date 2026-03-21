@@ -12,6 +12,16 @@ related:
 - no-one-should-judge-their-own-case
 slug: hear-the-other-side
 source_frame: governance
+embodied_patterns:
+  - balance
+  - boundary
+  - part-whole
+relation_types:
+  - coordinate
+  - enable
+structure:
+  - equilibrium
+abstraction_level: generic
 updated: '2026-03-16'
 transfers:
   - "[model] decisions made after hearing only one perspective are systematically biased toward that perspective"

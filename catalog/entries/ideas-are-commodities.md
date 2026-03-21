@@ -20,6 +20,17 @@ related:
 - the-conduit-metaphor
 slug: ideas-are-commodities
 source_frame: economics
+embodied_patterns:
+  - container
+  - link
+  - flow
+relation_types:
+  - compete
+  - transform
+structure:
+  - network
+  - competition
+abstraction_level: generic
 updated: '2026-03-14'
 transfers:
   - '[source] maps marketplace exchange dynamics onto intellectual life, so ideas have prices, can be packaged for different audiences, and compete for buyer attention in a crowded market'

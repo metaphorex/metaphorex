@@ -16,6 +16,16 @@ related:
 - understanding-is-seeing
 slug: happy-is-up
 source_frame: embodied-experience
+embodied_patterns:
+  - scale
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure:
+  - hierarchy
+abstraction_level: primitive
 updated: '2026-03-14'
 transfers:
   - '[source] upright posture correlates with positive affect from infancy onward, grounding the vertical axis in a bodily experience that precedes language'

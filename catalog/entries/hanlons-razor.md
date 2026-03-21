@@ -14,6 +14,15 @@ related:
 - the-map-is-not-the-territory
 slug: hanlons-razor
 source_frame: tool-use
+embodied_patterns:
+  - removal
+  - scale
+relation_types:
+  - select
+  - transform
+structure:
+  - hierarchy
+abstraction_level: generic
 updated: '2026-03-13'
 transfers:
   - "[law] predicts that incompetence explains harmful outcomes more often than malice because coordinating a conspiracy requires intelligence and sustained effort while bungling requires nothing at all"

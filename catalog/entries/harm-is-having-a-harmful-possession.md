@@ -19,6 +19,16 @@ related:
 - action-is-control-over-possessions
 slug: harm-is-having-a-harmful-possession
 source_frame: economics
+embodied_patterns:
+  - container
+  - force
+  - link
+relation_types:
+  - cause
+  - accumulate
+structure:
+  - network
+abstraction_level: primitive
 updated: '2026-03-12'
 transfers:
   - '[source] maps harm onto an unwanted object the person carries, making suffering personal and portable -- it goes wherever you go because you are the one holding it'

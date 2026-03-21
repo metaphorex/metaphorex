@@ -18,6 +18,16 @@ related:
 - properties-are-possessions
 slug: hope-is-a-benefical-possession
 source_frame: economics
+embodied_patterns:
+  - container
+  - force
+  - link
+relation_types:
+  - cause
+  - enable
+structure:
+  - network
+abstraction_level: primitive
 updated: '2026-03-12'
 transfers:
   - '[source] maps hope onto an object you can hold, cling to, lose, or give away, making an intangible psychological orientation into a discrete thing subject to economics of possession'

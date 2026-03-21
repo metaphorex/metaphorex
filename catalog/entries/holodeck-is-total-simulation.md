@@ -18,6 +18,16 @@ limits:
   \ external data dependencies or network effects"
 - "[source] Holodeck users can exit at any time by voice command -- the\
   \ boundary between simulation and reality is always under user control"
+embodied_patterns:
+  - container
+  - boundary
+  - matching
+relation_types:
+  - transform
+  - contain
+structure:
+  - boundary
+abstraction_level: specific
 name: Holodeck Is Total Simulation
 related: []
 slug: holodeck-is-total-simulation

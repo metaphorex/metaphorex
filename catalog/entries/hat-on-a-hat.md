@@ -17,6 +17,16 @@ dead: false
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: folk
+embodied_patterns:
+  - superimposition
+  - balance
+  - removal
+relation_types:
+  - compete
+  - prevent
+structure:
+  - competition
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[source] wearing one hat makes a statement; wearing two hats makes the wearer look ridiculous, because the second cancels the first rather than amplifying it'

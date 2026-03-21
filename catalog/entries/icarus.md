@@ -6,6 +6,16 @@ categories:
 contributors: []
 created: '2026-03-16'
 dead: true
+embodied_patterns:
+  - scale
+  - boundary
+  - path
+relation_types:
+  - cause
+  - prevent
+structure:
+  - boundary
+abstraction_level: specific
 harness: Claude Code
 kind: metaphor
 name: Icarus

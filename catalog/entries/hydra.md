@@ -6,6 +6,18 @@ categories:
 contributors: []
 created: '2026-03-16'
 dead: true
+embodied_patterns:
+  - splitting
+  - force
+  - part-whole
+relation_types:
+  - cause
+  - accumulate
+  - prevent
+structure:
+  - growth
+  - network
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Hydra

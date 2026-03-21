@@ -19,6 +19,16 @@ related:
 - harm-is-causing-functional-objects-to-be-nonfunctional
 slug: harm-is-preventing-forward-motion-toward-a-goal
 source_frame: embodied-experience
+embodied_patterns:
+  - blockage
+  - path
+  - force
+relation_types:
+  - prevent
+  - cause
+structure:
+  - pipeline
+abstraction_level: primitive
 updated: '2026-03-12'
 transfers:
   - '[source] makes harm relative to a destination, so the damage is measured as the gap between where someone is and where they would have been without obstruction'

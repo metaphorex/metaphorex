@@ -17,6 +17,16 @@ related:
 created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
+embodied_patterns:
+  - container
+  - boundary
+  - balance
+relation_types:
+  - contain
+  - enable
+structure:
+  - boundary
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - '[source] a container regulates what passes through its boundary, mapping the caregiver''s role of filtering and modulating environmental stimuli so the infant encounters manageable doses rather than raw overwhelm'
