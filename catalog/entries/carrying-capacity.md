@@ -18,6 +18,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - container
+  - balance
+  - boundary
+relation_types:
+  - contain
+  - prevent
+  - cause
+structure: equilibrium
+abstraction_level: generic
 transfers:
   - '[source] An ecosystem''s carrying capacity is set by the scarcest essential resource (Liebig''s law of the minimum), importing the structure where a system''s limit is determined by its tightest constraint, not by the average availability of inputs'
   - '[source] A population that overshoots carrying capacity degrades the resource base, lowering the future carrying capacity below what it was before the overshoot, importing the structure where exceeding a limit does not merely cause a correction but permanently reduces the system''s capacity'

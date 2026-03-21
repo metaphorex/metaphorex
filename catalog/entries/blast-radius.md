@@ -26,6 +26,16 @@ transfers:
 - "[source] imports the military practice of estimating damage zones before engagement, structuring security and operations thinking around pre-incident impact assessment and failure-domain sizing"
 - "[source] carries the principle that containment (blast walls, distance, hardening) reduces the zone of destruction, mapping onto architectural practices like microservices, network segmentation, and least-privilege access that limit how far a failure can propagate"
 updated: '2026-03-18'
+embodied_patterns:
+  - center-periphery
+  - boundary
+  - scale
+relation_types:
+  - cause
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -25,6 +25,16 @@ transfers:
 limits:
   - '[source] breaks because many real categories have graded membership (a penguin is a less prototypical bird than a robin), while containers enforce binary in-or-out that cannot represent typicality gradients'
   - '[source] misleads by implying category boundaries are sharp and observer-independent, when category membership is often context-dependent, culturally variable, and contested at the margins'
+embodied_patterns:
+  - container
+  - boundary
+  - part-whole
+relation_types:
+  - contain
+  - select
+  - decompose
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

@@ -22,6 +22,16 @@ transfers:
 limits:
   - "[model] breaks because human 'catalysts' are rarely regenerated unchanged -- reformers burn out, get fired, or are politically destroyed, and calling them catalysts minimizes the real cost they pay"
   - "[model] misleads because chemical catalysts accelerate both forward and reverse reactions equally, while the popular usage implies one-directional permanent change -- the same mechanisms can catalyze reversal when conditions shift"
+embodied_patterns:
+  - force
+  - path
+  - blockage
+relation_types:
+  - enable
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

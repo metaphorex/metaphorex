@@ -26,6 +26,16 @@ transfers:
 limits:
   - '[source] breaks because forces act on passive bodies that do not choose their response, while many causal targets (people, organizations, ecosystems) actively interpret and respond to causes in context-dependent ways'
   - '[source] misleads by implying causes operate through direct contact or field effects, when many causal mechanisms operate through information, meaning, or social convention rather than physical force'
+embodied_patterns:
+  - force
+  - path
+  - blockage
+relation_types:
+  - cause
+  - enable
+  - prevent
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

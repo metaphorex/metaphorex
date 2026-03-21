@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because ocean-boiling is physically impossible, while most "boil-the-ocean" projects are merely impractical and could theoretically succeed with sufficient resources and time'
   - '[source] misleads by dismissing ambitious scope categorically, when some historically successful projects (interstate highway system, moon landing) would have sounded like boiling the ocean at proposal stage'
+embodied_patterns:
+  - scale
+  - container
+  - flow
+relation_types:
+  - prevent
+  - decompose
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

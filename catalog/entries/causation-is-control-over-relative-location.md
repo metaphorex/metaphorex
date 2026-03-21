@@ -28,6 +28,16 @@ transfers:
 limits:
   - '[source] breaks because relative spatial positioning is reversible (objects can be returned to original positions), while many causal effects are irreversible transformations'
   - '[source] misleads by reducing causation to geometric configuration, when most consequential causal processes involve transformation of substance, not merely rearrangement of position'
+embodied_patterns:
+  - near-far
+  - force
+  - path
+relation_types:
+  - cause
+  - coordinate
+  - prevent
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

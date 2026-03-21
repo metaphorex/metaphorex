@@ -22,6 +22,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - balance
+  - scale
+  - path
+relation_types:
+  - cause
+  - select
+  - enable
+structure: equilibrium
+abstraction_level: generic
 transfers:
   - '[source] the general enumerates obstacles and available means before committing forces, importing the structure where risk is a quantity that can be inventoried and weighed against resources'
   - '[source] military calculation accepts that some losses are inevitable and budgets for them in advance, importing the structure where acceptable loss is a design parameter rather than a failure'

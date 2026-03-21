@@ -26,6 +26,16 @@ transfers:
 limits:
   - '[source] breaks because physical buffers (reservoirs, holding tanks) overflow by spilling outward harmlessly, while memory buffer overflow corrupts adjacent internal state -- the damage direction is inverted'
   - '[source] misleads by suggesting the fix is simply a bigger buffer, when the actual remedy is bounds checking that prevents overflow regardless of buffer size'
+embodied_patterns:
+  - container
+  - boundary
+  - flow
+relation_types:
+  - cause
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

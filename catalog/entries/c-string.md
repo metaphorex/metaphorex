@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because a physical string cannot extend beyond its thread''s length, while a C string can overwrite past its allocated buffer, exploiting the gap between the metaphor''s bounded intuition and memory''s unbounded addressability'
   - '[source] misleads by implying strings are self-contained objects, when C strings are conventions imposed on raw memory with no runtime enforcement of their boundaries'
+embodied_patterns:
+  - link
+  - path
+  - boundary
+relation_types:
+  - contain
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

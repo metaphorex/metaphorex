@@ -9,6 +9,15 @@ contributors: []
 created: '2026-03-19'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: emergence
+abstraction_level: generic
 kind: metaphor
 limits:
 - '[source] misleads because the butterfly''s wings suggest a specific causal chain (flap leads to breeze leads to storm), while the actual mathematical property is about divergence of trajectories in phase space -- there is no traceable chain from perturbation to outcome'

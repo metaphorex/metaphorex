@@ -24,6 +24,16 @@ transfers:
 limits:
   - "[source] breaks because the reactor-vs-shed binary assumes trivial decisions are actually trivial, but naming and formatting choices have real downstream consequences"
   - "[source] misleads because it attributes silence on complex topics to cognitive limitation, when it may reflect social dynamics where junior participants lack standing to challenge architecture"
+embodied_patterns:
+  - scale
+  - center-periphery
+  - blockage
+relation_types:
+  - compete
+  - prevent
+  - select
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

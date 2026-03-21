@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because linked objects move in fixed geometric relation, while many causal relationships are probabilistic rather than deterministic -- the cause increases the likelihood of the effect without guaranteeing it'
   - '[source] misleads by implying a visible, traceable connection between cause and effect, when many causal relationships operate through hidden mechanisms or emergent properties'
+embodied_patterns:
+  - link
+  - force
+  - path
+relation_types:
+  - cause
+  - enable
+structure: network
+abstraction_level: primitive
 ---
 
 ## Transfers

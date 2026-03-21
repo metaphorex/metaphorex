@@ -18,6 +18,17 @@ dead: true
 created: '2026-03-18'
 updated: '2026-03-18'
 grounding: folk
+embodied_patterns:
+  - boundary
+  - container
+  - flow
+  - removal
+relation_types:
+  - prevent
+  - enable
+  - coordinate
+structure: boundary
+abstraction_level: generic
 transfers:
   - "[source] barriers are physical structures that block movement through space, and once removed the previously separated areas become a single continuous space -- encoding the insight that departmental separation is not just inconvenient but topologically different from integration"
   - "[source] barriers must be actively constructed and maintained, implying that organizational silos are not natural formations but built structures that someone chose to erect and someone continues to maintain"

@@ -8,6 +8,15 @@ contributors: []
 created: '2026-03-17'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - path
+  - link
+  - iteration
+relation_types:
+  - enable
+  - translate
+structure: pipeline
+abstraction_level: generic
 kind: metaphor
 name: Breadcrumb Trail
 related: []

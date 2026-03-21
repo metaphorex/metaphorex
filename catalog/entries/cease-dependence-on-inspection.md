@@ -15,6 +15,16 @@ related:
 created: '2026-03-18'
 updated: '2026-03-18'
 grounding: established
+embodied_patterns:
+  - flow
+  - boundary
+  - iteration
+relation_types:
+  - prevent
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: generic
 transfers:
   - "[model] reframes quality from a property that can be verified after production to a property that must be built into the process itself, because inspection detects defects but cannot prevent them -- the defect already exists by the time you find it"
   - "[model] distinguishes detection (finding problems after they occur) from prevention (designing processes that cannot produce the problem), and argues that investment in prevention has structurally better returns because it eliminates defects rather than sorting them"

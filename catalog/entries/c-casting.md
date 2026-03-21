@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because physical casting transforms material irreversibly (you cannot un-cast a bronze statue), while type casting in C reinterprets the same underlying bits without altering them'
   - '[source] misleads by implying the cast produces a new object, when C casting changes the compiler''s interpretation of existing memory rather than creating a transformed copy'
+embodied_patterns:
+  - container
+  - matching
+  - superimposition
+relation_types:
+  - transform
+  - translate
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

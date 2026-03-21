@@ -23,6 +23,15 @@ transfers:
 - '[model] diagnoses a systematic failure of human probability intuition: people estimate collision likelihood by comparing the number of items to the space size (23 vs. 365) rather than counting the number of pairwise comparisons (253), which is the actual driver'
 - '[model] reframes collision risk as a function of pairwise interactions rather than individual events, making it applicable wherever the relevant question is "do any two items match?" rather than "does this specific item match that specific item?"'
 updated: '2026-03-19'
+embodied_patterns:
+  - matching
+  - scale
+  - link
+relation_types:
+  - accumulate
+  - cause
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -26,6 +26,16 @@ transfers:
 limits:
   - '[source] breaks because commercial transactions require willing parties on both sides, while causal relationships are asymmetric -- the effect does not consent to being caused'
   - '[source] misleads by implying cause and effect exchange equivalent value, when causal relationships are often radically disproportionate (a spark causing an explosion)'
+embodied_patterns:
+  - balance
+  - link
+  - flow
+relation_types:
+  - cause
+  - transform
+  - accumulate
+structure: equilibrium
+abstraction_level: primitive
 ---
 
 ## Transfers

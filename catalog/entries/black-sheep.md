@@ -17,6 +17,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - container
+  - center-periphery
+  - matching
+relation_types:
+  - select
+  - compete
+  - prevent
+structure: boundary
+abstraction_level: generic
 transfers:
   - '[source] black wool could not be dyed to match the flock''s commercially valuable white wool, making the black sheep''s deviance a permanent material property rather than a behavioral choice, which imports the framing that the misfit''s difference is inherent and ineradicable'
   - '[source] a single black sheep in a white flock was visible at a glance from any distance, importing the structural insight that deviance in a homogeneous group is disproportionately salient -- one nonconforming member draws more attention than dozens of conforming ones'
