@@ -1,7 +1,7 @@
 ---
 applies_to:
 - computing
-author: agent:fshot
+author: agent:metaphorex-miner
 categories:
 - computer-science
 contributors: []
@@ -13,7 +13,7 @@ name: DNS Domain
 related: []
 slug: dns-domain
 source_frame: governance
-updated: '2026-03-17'
+updated: '2026-03-21'
 embodied_patterns:
   - boundary
   - center-periphery
