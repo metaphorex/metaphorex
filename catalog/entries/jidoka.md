@@ -27,10 +27,10 @@ limits:
 embodied_patterns:
   - blockage
   - matching
-  - self-organization
+  - iteration
 relation_types:
   - prevent
-  - restore
+  - enable
 structure: equilibrium
 abstraction_level: specific
 ---

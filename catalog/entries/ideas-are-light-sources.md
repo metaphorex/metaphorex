@@ -31,11 +31,11 @@ limits:
 embodied_patterns:
   - near-far
   - scale
-  - flow
+  - surface-depth
 relation_types:
   - enable
   - cause
-structure: boundary
+structure: transformation
 abstraction_level: generic
 ---
 
