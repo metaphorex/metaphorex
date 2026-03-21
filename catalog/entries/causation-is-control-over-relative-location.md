@@ -36,7 +36,7 @@ relation_types:
   - cause
   - coordinate
   - prevent
-structure: network
+structure: pipeline
 abstraction_level: primitive
 ---
 

@@ -28,7 +28,7 @@ embodied_patterns:
 relation_types:
   - cause
   - enable
-structure: network
+structure: hierarchy
 abstraction_level: generic
 ---
 
