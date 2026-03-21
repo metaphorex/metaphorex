@@ -14,7 +14,6 @@ related:
   - dying-on-the-pass
   - on-the-fly
   - mise-en-place
-dead: false
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
