@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] assumes the writer and the debugger are the same person with the same cognitive ceiling, but in practice debugging is often done by different people, by teams, or by the same person with better tools (debuggers, logging, tests) -- the law overpredicts difficulty when the debugging context is richer than the writing context'
   - '[model] treats cleverness as a single dimension, but code can be clever in ways that are easy to debug (a clever algorithm with clear invariants) or simple in ways that are hard to debug (straightforward code with subtle state interactions) -- the law conflates syntactic complexity with diagnostic difficulty'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

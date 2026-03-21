@@ -26,6 +26,15 @@ limits:
   - '[source] breaks because physical scattering requires that each location be self-sufficient in infrastructure (power, plumbing, transit access), and the cost of duplicating infrastructure across many small sites can exceed the cost of one large campus'
   - '[source] assumes that all work can be performed in small, distributed units, but some activities (heavy manufacturing, large-scale research facilities, hospital complexes) have minimum viable scales that prevent meaningful distribution'
   - '[source] romanticizes the pre-industrial mixed-use neighborhood without accounting for the zoning and environmental reasons work was separated from residence -- noise, pollution, truck traffic -- which remain valid for many industries'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

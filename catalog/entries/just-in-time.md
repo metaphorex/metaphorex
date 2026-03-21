@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[paradigm] assumes a stable, predictable demand signal that allows production to be synchronized, which breaks in environments with high demand variability, unpredictable disruptions, or long lead times"
   - "[paradigm] the deliberate removal of buffers that exposes problems also removes the resilience that buffers provide, making the system fragile to disruptions it has not yet learned to prevent"
+embodied_patterns:
+  - flow
+  - matching
+  - iteration
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

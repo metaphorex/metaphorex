@@ -25,6 +25,16 @@ limits:
   - '[source] breaks because the principle provides no criterion for what to remove versus what to keep: "less" of what? Mies kept steel and glass and removed ornament, but that choice reflects his aesthetic values, not a universal rule derivable from the principle itself'
   - '[source] misleads by implying that complexity is always a defect, when many domains require irreducible complexity -- a tax code cannot be minimalist without becoming unjust, and a programming language cannot be minimal without becoming inexpressive'
   - '[source] hides the survivorship bias in its own evidence: we see the successful minimalist designs (iPhone, Mies''s Farnsworth House) and not the many stripped-down designs that failed because they removed something essential, so the principle appears more reliable than it is'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+  - compete
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

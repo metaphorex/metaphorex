@@ -20,6 +20,15 @@ transfers:
 - '[source] leeway is consumed passively by wind pushing the ship sideways whether the crew acts or not, mapping onto margins that shrink through the mere passage of events rather than through mistakes'
 - '[source] drift is always in one direction -- toward the hazard -- mapping onto situations where the default trajectory leads toward failure without active corrective effort'
 updated: '2026-03-14'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

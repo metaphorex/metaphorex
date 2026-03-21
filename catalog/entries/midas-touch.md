@@ -23,6 +23,15 @@ transfers:
   - "[source] imports the myth's deeper warning that optimizing everything for a single metric (gold) destroys the things that cannot survive that optimization (food, human contact, love)"
   - "[source] carries a dual structure -- admiration for the power and warning about its consequences -- that makes it uniquely useful for discussing the costs of single-minded optimization"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

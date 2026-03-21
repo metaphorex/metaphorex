@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[model] assumes that concurrent tasks are roughly equal in cognitive load, but in practice one complex task can consume more capacity than five simple ones, so a single number overfits the heterogeneity of real workloads'
   - '[model] the meeze point is presented as a personal constant, but it varies with fatigue, stress, domain expertise, and environmental factors -- treating it as fixed risks either underloading on good days or excusing poor performance by citing a number'
+embodied_patterns:
+  - flow
+  - matching
+  - path
+relation_types:
+  - transform
+  - contain
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

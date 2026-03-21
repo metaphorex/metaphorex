@@ -26,6 +26,15 @@ limits:
   - '[source] a mirror reflects instantly and without interpretation, but human mirroring necessarily involves delay, selection, and the caregiver''s own subjective processing -- the metaphor''s implication of transparent passivity obscures the active interpretive work that good mirroring requires'
   - '[source] a mirror produces a laterally inverted image, which has no psychological parallel and can mislead if taken literally -- the caregiver does not return the infant''s experience backwards but transforms and contains it'
   - '[source] mirrors reflect surfaces only, but Winnicott''s mirroring claims to reflect the infant''s internal state, which requires empathic inference rather than optical passivity -- the metaphor''s perceptual simplicity conceals the cognitive complexity of what it describes'
+embodied_patterns:
+  - matching
+  - link
+  - container
+relation_types:
+  - translate
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

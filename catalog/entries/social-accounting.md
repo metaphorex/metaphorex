@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because social goods resist fungibility -- a year of faithful friendship cannot be weighed against a single betrayal on any meaningful ledger, yet the metaphor demands commensurability'
   - '[source] misleads because the accounting frame turns all giving into investing and all receiving into borrowing, eliminating the possibility of genuine generosity that expects no return'
+embodied_patterns:
+  - balance
+  - flow
+  - scale
+relation_types:
+  - accumulate
+  - restore
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

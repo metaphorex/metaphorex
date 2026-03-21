@@ -21,6 +21,15 @@ transfers:
   ratio'
 - '[model] predicts that amplification is symmetric -- leverage magnifies both gains and losses -- making it the critical structural feature that distinguishes leverage from a free lunch'
 updated: '2026-03-13'
+embodied_patterns:
+  - force
+  - scale
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

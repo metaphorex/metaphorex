@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because a physical heap has no bookkeeping -- items are simply piled -- whereas the mapped system requires elaborate metadata structures (free lists, size headers) that have no analog in a pile of objects"
   - "[source] misleads because a physical heap implies negligible cost to toss something on top, but the mapped operation involves searching for a suitable gap, which can be expensive and unpredictable"
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - accumulate
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

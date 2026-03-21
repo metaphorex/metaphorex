@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[paradigm] breaks because legal consent requires capacity, information, and freedom from coercion -- conditions that silence alone cannot demonstrate, making the maxim a rebuttable presumption rather than a logical entailment"
   - "[paradigm] misleads because the maxim was developed for contexts with formal standing and defined procedures for objection, but when applied to informal social situations it can be used to manufacture consent from people who lacked the power, knowledge, or standing to object"
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

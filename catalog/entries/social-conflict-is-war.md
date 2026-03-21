@@ -29,6 +29,15 @@ limits:
   - "[source] misleads because war treats the opponent as an enemy to be defeated, obscuring that social disputants share communities, workplaces, and families"
   - "[source] obscures that social conflict can be generative -- producing new norms, institutions, and understandings -- while war produces mainly destruction and redistribution"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - boundary
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

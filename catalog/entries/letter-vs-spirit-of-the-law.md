@@ -23,6 +23,16 @@ transfers:
 limits:
   - "[source] breaks because natural language ambiguity is a feature of communication (enabling nuance, politeness, flexibility), while legal ambiguity is a defect that creates exploitable gaps -- the metaphor treats a linguistic property as though it maps cleanly onto an institutional problem"
   - "[source] misleads because in language the 'spirit' is anchored to a specific speaker's intention, while in law the 'spirit' is often a post-hoc reconstruction by interpreters who may disagree about what the legislators intended or whether original intent even matters"
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - compete
+  - translate
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

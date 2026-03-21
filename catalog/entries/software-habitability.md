@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because buildings communicate their structure through visible physical features (doors, hallways, load-bearing walls), while source code has no equivalent spatial legibility -- you cannot ''walk through'' a codebase and feel where the structure is'
   - '[source] misleads because the farmhouse romance obscures that organic growth without standards produces the software equivalent of inadequate wiring and lead paint -- accumulated technical debt wearing a warm aesthetic'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

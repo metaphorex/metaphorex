@@ -24,6 +24,15 @@ transfers:
   - '[source] imports the construction principle that some elements are decorative and some are structural, teaching comedy analysis to distinguish puns that ornament a scene from puns that hold it up'
   - '[source] carries the diagnostic implication that you cannot identify a load-bearing element by looking at it -- you must trace the forces flowing through it, just as you must trace the plot logic flowing through the pun'
 updated: '2026-03-19'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

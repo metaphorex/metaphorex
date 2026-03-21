@@ -25,6 +25,15 @@ transfers:
 - '[source] imports the architectural insight that a gateway is a transition zone, not a line -- a physical threshold with depth (a porch, a courtyard, a vestibule) that gives the arriving person time to shift context from outside to inside'
 - '[source] carries the principle that the gateway''s design communicates the character of what lies beyond, so that arrivals can calibrate their expectations before committing to enter'
 updated: '2026-03-21'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

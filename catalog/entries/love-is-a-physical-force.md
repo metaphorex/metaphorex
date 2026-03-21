@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] physical forces operate identically on identical masses regardless of history, but romantic attraction is shaped by personal history, memory, and narrative in ways that make each instance unique'
   - '[source] forces diminish predictably with distance (inverse square law), but romantic attachment can intensify with absence and distance rather than weakening'
+embodied_patterns:
+  - force
+  - near-far
+  - attraction
+relation_types:
+  - cause
+  - transform
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

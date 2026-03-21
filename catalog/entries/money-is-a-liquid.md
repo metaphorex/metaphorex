@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] liquid is conserved in a closed system (it doesn''t appear or disappear), but money can be created through lending and destroyed through default, violating conservation'
   - '[source] liquid always flows downhill under gravity with no choice in the matter, but money flows are directed by human decisions, regulations, and institutional structures that can push capital ''uphill'''
+embodied_patterns:
+  - flow
+  - container
+  - scale
+relation_types:
+  - cause
+  - accumulate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

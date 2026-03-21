@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because kinship is involuntary and permanent, while most metaphorical relationships can be dissolved by choice'
   - '[source] misleads because kinship implies shared genetic interest, while relationships framed as kinship may involve fundamentally misaligned incentives that the family vocabulary obscures'
+embodied_patterns:
+  - link
+  - center-periphery
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

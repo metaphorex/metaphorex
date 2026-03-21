@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] physical unity (welding, chemical bonding) produces a homogeneous result where the original components lose their distinct identity, but healthy relationships require partners to maintain individual selfhood'
   - '[source] the unity metaphor implies symmetry -- both halves contribute equally to the whole -- obscuring power imbalances and asymmetric emotional investment that characterize real relationships'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - transform
+  - contain
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

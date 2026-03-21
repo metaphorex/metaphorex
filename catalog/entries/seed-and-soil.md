@@ -24,6 +24,16 @@ transfers:
 limits:
   - '[source] breaks because seeds are genetically uniform within a species, carrying a fixed program, whereas the "seeds" in metaphorical use (cancer cells, ideas, innovations) mutate and adapt to their environment, changing their own developmental program in response to soil conditions'
   - '[source] misleads because in ecology, soil and seed are causally independent -- the soil does not attract or select specific seeds (wind and animals do) -- but in medicine and innovation, the "soil" often actively recruits or selects the "seed" (immune surveillance, market demand)'
+embodied_patterns:
+  - link
+  - balance
+  - flow
+relation_types:
+  - cause
+  - enable
+  - select
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

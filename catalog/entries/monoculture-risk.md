@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[model] breaks when applied to domains where the "organisms" are not identical -- a team of specialists using the same programming language is not a monoculture if they build diverse architectures, because the relevant unit of diversity is not always the most visible one'
   - '[model] misleads by importing the assumption that diversity is always net-positive, when in some domains standardization genuinely reduces risk (medical protocols, aviation checklists, building codes) because the failure mode is human error under variation, not systemic vulnerability to a single threat'
+embodied_patterns:
+  - container
+  - link
+  - balance
+relation_types:
+  - prevent
+  - cause
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

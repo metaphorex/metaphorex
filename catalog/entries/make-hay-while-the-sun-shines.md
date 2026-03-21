@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the asymmetry between preparation time and opportunity time: hay-making requires days of prior work (mowing, tedding) but the drying window may last only hours, teaching that the visible opportunity is the smallest part of the process'
 - '[source] carries the irreversibility of failure -- rained-on hay rots rather than drying later -- framing missed opportunities as permanently spoiled rather than merely delayed'
 updated: '2026-03-20'
+embodied_patterns:
+  - accretion
+  - path
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

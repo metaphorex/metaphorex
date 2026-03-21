@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because touch requires proximity while vision operates at arbitrary distance, collapsing the epistemic difference between close inspection and remote observation'
   - '[source] misleads because the metaphor makes the viewer active and the object passive, obscuring the role of light, contrast, and the object''s own visibility in perception'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

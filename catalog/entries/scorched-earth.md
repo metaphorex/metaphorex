@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] the tactic requires territory that can be abandoned and recovered later; a defender with no strategic depth (small market, single product line) has nothing to burn without destroying itself permanently'
   - '[source] the original military logic assumed the attacker needed local supply lines, which breaks when the attacker can sustain itself independently (well-capitalized competitor, vertically integrated supply chain)'
+embodied_patterns:
+  - force
+  - path
+  - center-periphery
+relation_types:
+  - transform
+  - select
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

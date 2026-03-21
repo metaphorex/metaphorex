@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because physical objects on a surface are passive, while topics on the mind actively generate associations, emotions, and further thoughts'
   - '[source] misleads because the surface metaphor implies a single layer of attention, while cognitive processing occurs at multiple levels of consciousness simultaneously'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

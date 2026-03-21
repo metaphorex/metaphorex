@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] artworks can be abandoned and started over with a blank canvas, but relationships accumulate shared history, children, and entanglements that cannot be erased and restarted'
   - '[source] collaborative art produces a separable artifact that exists independently of its creators, but a love relationship has no product apart from the ongoing experience of the participants'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

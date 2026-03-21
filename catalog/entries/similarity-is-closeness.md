@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because physical closeness is symmetric (if A is near B then B is near A), but similarity judgments are empirically asymmetric -- North Korea is judged similar to China more readily than China to North Korea'
   - '[source] misleads because the metaphor implies a fixed space with stable dimensions, but similarity is context-dependent -- a cow and a chicken are close in a farm-animal conversation and far apart in a conversation about flight'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

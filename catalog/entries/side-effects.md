@@ -28,6 +28,15 @@ limits:
   - '[source] breaks because pharmacological side effects are genuinely secondary to the drug''s mechanism of action -- aspirin reduces inflammation (primary) and thins blood (side) because COX inhibition has both consequences -- while in policy and software the "side effects" are often just effects the designer chose not to think about, not effects that are structurally peripheral'
   - '[source] misleads by importing a frame of inevitability: in medicine, side effects are accepted because the underlying mechanism cannot be made more selective with current technology, but in software and policy the "side effects" can often be eliminated by better design rather than tolerated as unavoidable'
   - '[source] obscures accountability by naturalizing the framing: calling something a "side effect" implies it was an unavoidable consequence of an otherwise good action, foreclosing the question of whether the actor should have anticipated and prevented it'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

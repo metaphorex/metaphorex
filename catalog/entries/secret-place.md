@@ -25,6 +25,15 @@ transfers:
   - '[source] imports the child-development observation that agency over a private space builds confidence and ownership, framing discoverable hidden features as mechanisms for building user investment in a system'
   - '[source] carries the structural distinction between spaces designed to be found by everyone and spaces designed to be found only by those who look, reframing information architecture as having both public and semi-private layers'
 updated: '2026-03-19'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

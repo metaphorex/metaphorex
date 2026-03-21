@@ -23,6 +23,15 @@ transfers:
 - '[law] reveals the illusion of effective intervention: actions taken at extreme moments (reprimands after poor performance, treatment at symptom peaks) appear to work because natural regression provides
   false confirmation'
 updated: '2026-03-13'
+embodied_patterns:
+  - balance
+  - scale
+  - iteration
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

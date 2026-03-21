@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks because a physical knock-down joint has a finite number of assembly cycles before the mating surfaces wear and tolerances loosen, while software interfaces can be connected and disconnected indefinitely without mechanical degradation'
   - '[source] misleads by implying that disassembly is as simple as undoing a single fastener, when real software component removal typically involves migration of state, data, and dependent consumers -- a complexity the joint does not encode'
+embodied_patterns:
+  - part-whole
+  - matching
+  - force
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

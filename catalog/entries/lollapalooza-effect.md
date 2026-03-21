@@ -22,6 +22,15 @@ transfers:
 - '[model] identifies threshold effects where individual biases accumulate quietly until their convergence crosses a critical point and produces extreme behavior (cults, financial manias, institutional
   corruption)'
 updated: '2026-03-13'
+embodied_patterns:
+  - merging
+  - scale
+  - force
+relation_types:
+  - cause
+  - accumulate
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

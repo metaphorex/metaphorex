@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] a loose cannon is an inanimate object with no intent or capacity to learn, while the people described as loose cannons have agency and can potentially be brought under discipline'
   - '[source] the solution on ship was to re-lash or jettison the cannon, but organizations cannot simply tie down or discard a person without ethical and legal constraints'
+embodied_patterns:
+  - force
+  - self-organization
+  - container
+relation_types:
+  - cause
+  - prevent
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

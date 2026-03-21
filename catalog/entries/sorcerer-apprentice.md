@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because the master returns and restores order with superior knowledge, implying that every runaway process has a more competent authority who can intervene -- a comforting fiction that does not hold for emergent global systems like climate change or financial contagion"
   - "[source] misleads because the apprentice's motive is laziness, reducing the cautionary tale to a morality play about shortcuts, when most real automation disasters stem from competent engineers facing genuinely complex systems"
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - prevent
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

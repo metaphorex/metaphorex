@@ -28,6 +28,15 @@ limits:
   - "[source] breaks because journeys have fixed destinations, but many lives lack a single overarching purpose"
   - "[source] misleads because backward travel is always regression on a journey, hiding the value of return and revisitation"
   - "[source] obscures depth by equating progress with distance covered, leaving no vocabulary for the value of staying put"
+embodied_patterns:
+  - path
+  - near-far
+  - force
+relation_types:
+  - prevent
+  - select
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

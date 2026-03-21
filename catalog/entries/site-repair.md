@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks when the worst part of the site is worst precisely because it is structurally unsuitable for building (a flood plain, a contaminated plot), and placing construction there will produce a new building that is also compromised -- the analogous risk in software is investing refactoring effort in code that is fundamentally misconceived rather than merely neglected'
   - '[source] assumes that "worst" is diagnosable and locally remediable, but in software systems the worst area is often the result of distributed entanglement (circular dependencies, shared mutable state) that cannot be repaired by working on one region alone'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

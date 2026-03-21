@@ -21,6 +21,15 @@ transfers:
 - '[model] maps physical scaling laws (volume increases faster than surface area) onto cost structure, where fixed costs spread across more units as production grows, driving unit cost down'
 - '[model] identifies learning curves as a temporal scaling effect: cumulative production volume drives cost reductions through experience, making doing more of something make you better at it'
 updated: '2026-03-13'
+embodied_patterns:
+  - force
+  - scale
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

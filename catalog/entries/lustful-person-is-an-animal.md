@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] animals'' behavior is species-typical and predictable within narrow ethological parameters, but human sexual behavior varies enormously across individuals and cultures in ways animal models cannot capture'
   - '[source] the metaphor positions animality as purely negative (loss of control), ignoring that animal behavior includes pair-bonding, courtship rituals, and mate selection -- forms of discriminating choice'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

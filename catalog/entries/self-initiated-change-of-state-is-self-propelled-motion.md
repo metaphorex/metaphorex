@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because many important changes of state (grief, aging, falling in love) are neither fully voluntary nor fully imposed, and the metaphor has no vocabulary for partial agency'
   - '[source] misleads because backward motion is framed as regression, when revisiting a previous state can be productive rather than a retreat'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

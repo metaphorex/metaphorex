@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because ecological keystones are species-level roles shaped by evolution over millennia, not individual actors who can be hired, fired, or reassigned'
   - '[source] misleads by implying a single removal event, when organizational dependency usually develops gradually through accumulated institutional knowledge that could have been distributed'
+embodied_patterns:
+  - link
+  - balance
+  - flow
+relation_types:
+  - cause
+  - compete
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

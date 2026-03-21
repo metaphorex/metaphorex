@@ -24,6 +24,15 @@ limits:
   - "[paradigm] breaks when the improvement challenge requires creative divergence rather than disciplined convergence -- the kata's fixed routine can suppress novel approaches that do not fit the prescribed pattern"
   - "[paradigm] imports the martial-arts assumption of a single sensei-student relationship, which maps poorly onto organizations where coaching responsibilities are diffuse, contested, or absent"
 updated: '2026-03-18'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

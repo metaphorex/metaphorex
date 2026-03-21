@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] fluid is subject to gravity and always flows downward, whereas light propagates in straight lines regardless of gravitational direction under everyday conditions'
   - '[source] fluid mixes when two streams converge (changing both), but light beams cross without interacting, preserving their independent properties'
+embodied_patterns:
+  - flow
+  - path
+  - blockage
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

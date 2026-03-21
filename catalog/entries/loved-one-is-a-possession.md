@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] possessions have no agency or preferences about who owns them, but loved ones are autonomous agents who choose to be in the relationship'
   - '[source] possession is a legal status with clear transfer mechanisms (sale, gift, inheritance), but love relationships cannot be transacted or transferred to a third party'
+embodied_patterns:
+  - balance
+  - flow
+  - scale
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

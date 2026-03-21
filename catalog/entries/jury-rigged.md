@@ -22,6 +22,15 @@ transfers:
 - '[source] the jury rig was explicitly temporary -- meant to last only until the ship reached port for proper repairs -- mapping onto solutions that should be replaced as soon as possible'
 - '[source] the standard for a jury rig was survival, not excellence -- it needed only enough sail area for steerage, mapping reduced adequacy standards onto solutions that work but barely'
 updated: '2026-03-14'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

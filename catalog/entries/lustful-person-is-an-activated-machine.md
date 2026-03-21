@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] machines can be turned off instantly with a switch, but human arousal does not have a binary off-switch and involves complex physiological and psychological deactivation'
   - '[source] machines are designed for a purpose and operate correctly when activated, but framing lust as machine activation implies it is the person''s intended function, eliding moral agency'
+embodied_patterns:
+  - flow
+  - matching
+  - iteration
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

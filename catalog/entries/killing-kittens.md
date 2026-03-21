@@ -26,6 +26,15 @@ transfers:
   - '[source] The act of killing requires overriding a strong instinctive aversion, mapping the emotional difficulty of cutting good-but-obstructive material onto the visceral revulsion of harming something cute and defenseless'
   - '[source] Kittens multiply quickly and unnoticeably -- a single indulged bit breeds similar indulgences until the work is overrun, mapping onto how one unjustified inclusion establishes a precedent that weakens editorial discipline throughout'
 updated: '2026-03-21'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

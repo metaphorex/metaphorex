@@ -21,6 +21,16 @@ transfers:
 limits:
   - '[model] breaks when the situation is adversarial rather than physical, because the four questions assume the threat has legible behavior governed by discoverable laws, while an adversary actively conceals state and changes trajectory in response to observation'
   - '[model] misleads by implying that a single size-up produces a stable picture, when in rapidly evolving situations the assessment is obsolete before the response plan derived from it can be executed'
+embodied_patterns:
+  - matching
+  - path
+  - boundary
+relation_types:
+  - prevent
+  - transform
+  - compete
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

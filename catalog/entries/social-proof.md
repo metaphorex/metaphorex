@@ -22,6 +22,15 @@ transfers:
 - '[model] identifies cascade dynamics: once enough individuals adopt a behavior, each new adopter adds to the signal, creating a self-reinforcing positive feedback loop identical to stampedes and market
   bubbles'
 updated: '2026-03-13'
+embodied_patterns:
+  - force
+  - matching
+  - iteration
+relation_types:
+  - cause
+  - transform
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

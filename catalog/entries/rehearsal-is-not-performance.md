@@ -25,6 +25,15 @@ transfers:
 - '[source] imports the theatrical principle that rehearsal requires a different psychology than performance -- permission to fail, to experiment, to try approaches that might not work -- transferring this as a structural requirement for learning environments'
 - '[source] carries the insight that rehearsal is not lower-quality performance but a fundamentally different activity with different goals, reframing prototyping, staging, and practice as modes with their own integrity rather than deficient versions of the real thing'
 updated: '2026-03-19'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

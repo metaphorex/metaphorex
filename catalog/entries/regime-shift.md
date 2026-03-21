@@ -26,6 +26,15 @@ transfers:
 - '[source] imports hysteresis -- the principle that reversing a regime shift requires far more effort than causing it, because the new state actively maintains itself through feedback loops that did not exist in the old state'
 - '[source] frames the pre-shift period as one of invisible slow-variable accumulation where the system appears stable but is actually approaching a threshold, importing the ecological distinction between the visible state variable and the hidden controlling variable'
 updated: '2026-03-19'
+embodied_patterns:
+  - link
+  - balance
+  - flow
+relation_types:
+  - cause
+  - transform
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

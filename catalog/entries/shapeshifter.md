@@ -19,6 +19,15 @@ transfers:
 - '[source] shapeshifters cross categories supposed to be fixed (human/animal, friend/enemy), making category boundaries visible by violating them'
 - '[source] most traditions preserve a true form beneath the transformations (Proteus can be pinned, Loki can be bound), implying that identity persists even when form is fluid'
 updated: '2026-03-14'
+embodied_patterns:
+  - force
+  - path
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

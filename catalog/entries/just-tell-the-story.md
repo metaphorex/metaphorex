@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[model] assumes the story is known before editing begins, but in exploratory work (research, prototyping, improvisation) the story emerges through the process and cannot serve as a filter until it has been discovered'
   - '[model] provides no guidance on which story to tell when multiple valid narratives compete, reducing a framing problem to an editing problem'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

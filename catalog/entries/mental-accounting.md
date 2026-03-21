@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] formal accounting is governed by consistent rules applied across all accounts (GAAP, double-entry), but mental accounting rules are inconsistent, context-dependent, and violate the fungibility principle that formal accounting enforces'
   - '[source] accounting ledgers are cumulative and never forget a transaction, but mental accounts are selectively maintained -- people abandon losing mental accounts to avoid confronting sunk costs'
+embodied_patterns:
+  - balance
+  - flow
+  - scale
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

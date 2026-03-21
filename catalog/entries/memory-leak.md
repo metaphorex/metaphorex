@@ -27,6 +27,15 @@ transfers:
 limits:
   - "[source] breaks because leaked fluid leaves the system entirely, whereas the mapped resource remains physically present but becomes unreachable -- nothing actually escapes the machine"
   - "[source] misleads because a physical leak can be found by following the trail of escaped fluid, but the mapped defect leaves no visible trace at the point of loss"
+embodied_patterns:
+  - flow
+  - path
+  - blockage
+relation_types:
+  - cause
+  - contain
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -23,6 +23,15 @@ limits:
 - "[source] Replicants are engineered products with specifications and expiration dates -- real persons are not designed to fulfill a purpose or optimized for a function"
 - "[source] The Voigt-Kampff test assumes empathy is the marker of genuine personhood, which is a culturally specific and philosophically contested criterion"
 updated: '2026-03-16'
+embodied_patterns:
+  - container
+  - boundary
+  - force
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because the original red tape served a practical purpose (organizing and preserving legal documents for retrieval), while the metaphor treats all procedure as purposeless obstruction -- the etymological irony is that red tape was a solution to disorder, not a cause of it"
   - "[source] misleads because ribbon can be untied quickly by anyone with hands, while bureaucratic procedures often require specialized knowledge, institutional authority, or elapsed time to navigate -- physical red tape was a trivial barrier while metaphorical red tape can be insurmountable"
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

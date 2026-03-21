@@ -25,6 +25,16 @@ transfers:
 limits:
   - '[source] a physical substance persists after release and must be cleaned up, while laughter dissipates immediately and leaves no residue to manage'
   - '[source] substances have consistent properties regardless of context, but laughter''s quality (joyful, nervous, cruel) depends entirely on social and emotional circumstances'
+embodied_patterns:
+  - flow
+  - path
+  - blockage
+relation_types:
+  - cause
+  - prevent
+  - contain
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

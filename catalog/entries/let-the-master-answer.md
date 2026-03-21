@@ -24,6 +24,16 @@ transfers:
   - "[paradigm] generates the institutional design principle that risk should be allocated to the party best positioned to prevent, insure against, or absorb it -- which is typically the party with hierarchical authority"
   - "[paradigm] provides the conceptual foundation for holding organizations rather than individuals accountable, enabling the entire vocabulary of corporate liability, command responsibility, and institutional negligence"
 updated: '2026-03-16'
+embodied_patterns:
+  - boundary
+  - force
+  - balance
+relation_types:
+  - cause
+  - prevent
+  - enable
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

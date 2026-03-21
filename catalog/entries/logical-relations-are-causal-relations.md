@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] causal relations are asymmetric and temporal (cause before effect), but logical entailment is timeless and symmetric in many formal systems (P entails Q does not require P to exist ''before'' Q)'
   - '[source] causes can be probabilistic and admit exceptions, but logical entailment in deductive systems is all-or-nothing with no partial causation'
+embodied_patterns:
+  - link
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because small things can be profoundly significant (a virus, a transistor, a mutation), and the metaphor systematically undervalues the tiny and subtle'
   - '[source] misleads because the metaphor encourages rhetorical inflation -- to signal that something matters, speakers must make it ''bigger'' than the last significant thing, producing an escalation ratchet'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

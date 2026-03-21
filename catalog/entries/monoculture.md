@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the ecological observation that genetic uniformity eliminates the variation needed for adaptive response, framing organizational homogeneity as a pre-condition for catastrophic rather than graceful failure'
 - '[source] carries the structural insight that monocultures are locally optimal (highest yield per acre under stable conditions) but globally fragile (total crop loss under pathogen pressure), reframing efficiency-fragility tradeoffs across domains'
 updated: '2026-03-21'
+embodied_patterns:
+  - container
+  - removal
+  - scale
+relation_types:
+  - prevent
+  - accumulate
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

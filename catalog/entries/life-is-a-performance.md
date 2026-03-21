@@ -27,6 +27,15 @@ limits:
   - "[source] breaks because performances end and the actor goes home, but in life there is no offstage self to return to"
   - "[source] misleads because theater has a script written in advance, implying life events are predetermined"
   - "[source] obscures genuine feeling by framing all emotional expression as performance for an audience"
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - enable
+  - translate
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

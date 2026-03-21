@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] a botanical kernel germinates once and becomes something entirely different (a plant), whereas an OS kernel persists unchanged as a running service rather than transforming into its progeny'
   - '[source] botanical kernels are passive until conditions trigger germination, but an OS kernel is continuously active and responsive, never dormant in the way a seed is'
+embodied_patterns:
+  - accretion
+  - path
+  - container
+relation_types:
+  - cause
+  - contain
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

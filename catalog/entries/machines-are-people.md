@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] people have genuine internal states that cause their behavior, but machines'' apparent ''moods'' are projections with no subjective experience behind them'
   - '[source] social strategies work on people because they respond to social cues, but machines respond only to physical inputs -- talking nicely to a jammed printer changes nothing mechanically'
+embodied_patterns:
+  - link
+  - center-periphery
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

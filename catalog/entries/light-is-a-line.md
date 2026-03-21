@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] lines have no thickness and extend infinitely, but real light beams diverge, scatter, and attenuate with distance'
   - '[source] lines cannot bend around obstacles, but light diffracts around edges and refracts through media, behaviors that require wave models rather than ray geometry'
+embodied_patterns:
+  - matching
+  - container
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

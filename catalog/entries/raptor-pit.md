@@ -23,6 +23,15 @@ transfers:
 - '[source] imports the enclosure structure: the pit is bounded, you cannot leave, and the predators are always present, transferring the trapped quality of a toxic team environment where exit is professionally costly'
 - '[source] carries the dehumanization of prey -- raptors do not evaluate what they attack, they simply attack -- framing indiscriminate hostility as the room''s defining behavior rather than an occasional lapse'
 updated: '2026-03-19'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

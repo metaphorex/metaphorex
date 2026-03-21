@@ -25,6 +25,15 @@ transfers:
   - '[source] imports the claim that exploration distance is a function of base reliability: the more certain the explorer is that the base will be intact on return, the farther they venture, structuring the prediction that secure attachment enables rather than constrains autonomy'
   - '[source] carries the implication that the base exists for the sake of the expedition, not the reverse — the purpose of security is to enable risk-taking, reframing dependence as a precondition for independence rather than its opposite'
 updated: '2026-03-20'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - enable
+  - compete
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

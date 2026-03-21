@@ -23,6 +23,16 @@ transfers:
 limits:
   - '[model] assumes a kitchen-like dependency structure where the critical path is known in advance, and breaks in exploratory work where you cannot identify which task will unblock others until you have started'
   - '[model] can justify premature commitment -- starting process work before requirements are clear -- which produces rework that costs more than the idle time it was meant to prevent'
+embodied_patterns:
+  - flow
+  - matching
+  - path
+relation_types:
+  - cause
+  - prevent
+  - accumulate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

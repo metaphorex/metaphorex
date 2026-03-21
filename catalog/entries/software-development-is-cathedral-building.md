@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because cathedrals serve a fixed purpose (worship) that does not shift mid-construction, while software requirements mutate constantly -- the metaphor makes requirement changes feel like heresy rather than normal feedback'
   - '[source] misleads because the revelation model hides defects -- if you do not show the building until it is done, you discover that the nave is too narrow only at consecration, systematically delaying feedback'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - container
+relation_types:
+  - cause
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

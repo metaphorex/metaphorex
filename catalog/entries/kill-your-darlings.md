@@ -23,6 +23,15 @@ limits:
   - '[model] the heuristic assumes a zero-sum relationship between parts and whole, but in some domains (research programs, ecosystems, product suites) a brilliant component can generate value that exceeds its cost to coherence -- killing it destroys genuine capability, not just ego investment'
   - '[model] "darling" is doing diagnostic work the heuristic does not explain -- it offers no method for distinguishing a darling (something loved because of attachment) from a jewel (something loved because it is genuinely the best part), and practitioners who apply it indiscriminately produce flat, cautious work stripped of vitality'
   - '[model] the heuristic is asymmetric: it provides no equivalent warning against the opposite error of killing too much, which produces safe mediocrity -- the editor who kills every distinctive element creates work that is coherent but lifeless'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - compete
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

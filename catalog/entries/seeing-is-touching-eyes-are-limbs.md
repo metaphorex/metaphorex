@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because eyes cannot manipulate what they see -- hands grasp, rotate, and reshape objects, but visual selection does not physically alter the scene'
   - '[source] misleads because the limb metaphor makes vision seem effortful and deliberate, when much of visual perception is automatic, passive, and requires no ''reaching'''
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

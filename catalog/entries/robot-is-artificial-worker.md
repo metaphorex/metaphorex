@@ -26,6 +26,15 @@ transfers:
   - "[source] imports the master-serf relationship structure onto human-machine interaction, positioning the human as lord and the machine as servant, which shapes expectations about autonomy, obedience, and the 'natural' hierarchy between creator and creation"
   - "[source] carries the implicit narrative arc from Capek's play where the artificial workers gain consciousness and revolt, embedding a rebellion trajectory into the concept of automation itself -- the word 'robot' arrives pre-loaded with the expectation that created servants will eventually refuse to serve"
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - boundary
+  - force
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers
