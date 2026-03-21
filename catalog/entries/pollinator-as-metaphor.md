@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because biological pollinators are unaware of the transfer they perform -- they do not select which pollen to carry or which flower to deliver it to -- whereas human "pollinators" are conscious agents who choose what ideas to carry and where to deposit them, introducing intentionality absent from the source'
   - '[source] misleads because ecological pollination is species-specific (a given pollinator services a narrow range of plants), but the metaphor is typically invoked to celebrate generalism -- the person who connects any domain to any other -- erasing the specialization that makes biological pollination effective'
+embodied_patterns:
+  - flow
+  - link
+  - path
+relation_types:
+  - enable
+  - translate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

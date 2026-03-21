@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because container contents are independent of the container, while properties are constitutive of the entity that bears them'
   - '[source] misleads because contents can be exhaustively enumerated by inspection, while an entity''s properties are potentially infinite and context-dependent'
+embodied_patterns:
+  - container
+  - part-whole
+  - matching
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

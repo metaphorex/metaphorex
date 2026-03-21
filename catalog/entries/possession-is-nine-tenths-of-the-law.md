@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because the legal systems the maxim describes have evolved sophisticated mechanisms for separating title from possession (registries, deeds, intellectual property law), making the 'nine-tenths' claim historically contingent rather than structurally necessary"
   - "[source] misleads because it frames possession as a near-guarantee of legal victory, when in practice courts regularly rule against possessors in favor of documented titleholders -- the maxim overstates the legal weight of physical control"
+embodied_patterns:
+  - container
+  - force
+  - balance
+relation_types:
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

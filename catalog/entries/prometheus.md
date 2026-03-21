@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because Prometheus acts alone as a single heroic figure, while real technology democratization is distributed across institutions, teams, and incremental contributions with no singular gift-giver"
   - "[source] misleads because the archetype frames the gods' punishment as unjust, biasing the narrative toward the innovator's perspective and making regulatory or cautionary responses seem like divine overreaction"
+embodied_patterns:
+  - path
+  - force
+  - boundary
+relation_types:
+  - transform
+  - enable
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

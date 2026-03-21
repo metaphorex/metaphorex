@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because physical properties are observer-independent and measurable, while abstract properties like goodness or importance are perspective-dependent and contested'
   - '[source] misleads because physical properties exist on fixed scales, while abstract qualities often resist ranking and comparison due to incommensurability'
+embodied_patterns:
+  - matching
+  - force
+  - scale
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

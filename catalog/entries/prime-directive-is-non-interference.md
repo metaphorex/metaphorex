@@ -38,6 +38,15 @@ transfers:
   \ individual judgment and compassion -- mapping the principle that\
   \ systemic restraint must override situational impulse"
 updated: '2026-03-16'
+embodied_patterns:
+  - boundary
+  - force
+  - container
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

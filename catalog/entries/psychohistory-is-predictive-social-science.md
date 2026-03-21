@@ -18,6 +18,15 @@ limits:
 - "[model] Psychohistory assumes human societies are closed systems without exogenous shocks from genuinely novel agents or events"
 - "[model] The mathematical laws governing gas molecules are time-reversible; social processes are not -- history has a direction that thermodynamics does not"
 updated: '2026-03-16'
+embodied_patterns:
+  - scale
+  - path
+  - matching
+relation_types:
+  - cause
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

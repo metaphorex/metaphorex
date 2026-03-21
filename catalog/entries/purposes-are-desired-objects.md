@@ -29,6 +29,15 @@ transfers:
 limits:
   - '[source] breaks because physical objects provide the same value regardless of how they were obtained, while purposes often derive their meaning from the process of pursuit rather than the outcome'
   - '[source] misleads because objects are finite and possessable by one party, while many purposes (knowledge, justice, understanding) are non-rivalrous and cannot be depleted by sharing'
+embodied_patterns:
+  - near-far
+  - force
+  - path
+relation_types:
+  - cause
+  - enable
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

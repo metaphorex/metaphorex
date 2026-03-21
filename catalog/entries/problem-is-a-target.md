@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because targets are stationary and well-defined, while many real problems are diffuse, systemic, and shift in response to intervention'
   - '[source] misleads because the marksman frame treats the solver as a lone agent taking individual shots, while most significant problems require coordinated collective action'
+embodied_patterns:
+  - center-periphery
+  - force
+  - matching
+relation_types:
+  - cause
+  - select
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

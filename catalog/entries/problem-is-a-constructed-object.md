@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because constructed objects have a builder with intent, while many problems emerge from systemic interactions with no designing agent'
   - '[source] misleads because physical constructions can be fully dismantled into known parts, while problems often have emergent properties that disappear when decomposed'
+embodied_patterns:
+  - part-whole
+  - matching
+  - container
+relation_types:
+  - decompose
+  - cause
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

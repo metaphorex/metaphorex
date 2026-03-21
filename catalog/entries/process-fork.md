@@ -25,6 +25,15 @@ limits:
   - "[source] breaks because at a physical fork a single traveler takes one path, whereas fork() produces two travelers (parent and child) who each take a different branch simultaneously"
   - "[source] misleads because the two paths at a road fork diverge in different directions, but after fork() the parent and child initially execute identical code and only diverge based on the return value"
 updated: '2026-03-17'
+embodied_patterns:
+  - splitting
+  - path
+  - part-whole
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

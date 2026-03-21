@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because biological sleep involves active processes like memory consolidation and dreaming, whereas the mapped state is total inactivity"
   - "[source] misleads because biological sleep depth varies continuously, while the mapped state is binary -- either scheduled or not"
+embodied_patterns:
+  - blockage
+  - container
+  - iteration
+relation_types:
+  - prevent
+  - restore
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

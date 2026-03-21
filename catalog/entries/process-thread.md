@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because textile threads do not compete for shared resources or deadlock against each other, while computational threads contend for locks, memory, and CPU time'
   - '[source] misleads because threads in cloth are physically parallel and non-interfering, while process threads share mutable state and require explicit synchronization to avoid corruption'
+embodied_patterns:
+  - flow
+  - link
+  - part-whole
+relation_types:
+  - coordinate
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

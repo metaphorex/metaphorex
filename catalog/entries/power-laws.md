@@ -22,6 +22,15 @@ transfers:
 - '[law] predicts that in power-law distributions, extreme events are rare but so large they dominate the total -- the largest earthquake releases more energy than all smaller ones combined'
 - '[law] connects the shape of the distribution to its generating mechanism: multiplicative processes (wealth grows proportionally, popularity breeds popularity) produce power-law outcomes'
 updated: '2026-03-13'
+embodied_patterns:
+  - scale
+  - part-whole
+  - balance
+relation_types:
+  - cause
+  - accumulate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

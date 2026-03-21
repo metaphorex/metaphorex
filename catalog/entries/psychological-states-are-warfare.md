@@ -30,6 +30,15 @@ limits:
   - "[source] misleads because war aims to destroy the opponent, but psychological integration requires reconciling conflicting parts rather than annihilating them"
   - "[source] obscures that psychological well-being often requires acceptance rather than combat -- the opposite of what the war frame prescribes"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - boundary
+  - balance
+relation_types:
+  - compete
+  - transform
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

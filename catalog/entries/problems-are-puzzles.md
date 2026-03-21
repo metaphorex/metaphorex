@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because puzzles are designed to be solvable, while many real problems are wicked problems with no definitive solution'
   - '[source] misleads because puzzle difficulty is calibrated by the designer to be fair, while real-world problem difficulty is arbitrary and often exceeds available cognitive resources'
+embodied_patterns:
+  - matching
+  - part-whole
+  - container
+relation_types:
+  - decompose
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

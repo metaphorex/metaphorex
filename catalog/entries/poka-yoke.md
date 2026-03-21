@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[paradigm] breaks in creative or exploratory domains where the 'error' is indistinguishable from experimentation -- mistake-proofing a brainstorming process or an artistic practice would eliminate the productive accidents the domain depends on"
   - "[paradigm] assumes errors are classifiable in advance, but in novel or complex systems the failure modes are emergent and cannot be enumerated before they occur, making the design-time constraint approach insufficient"
+embodied_patterns:
+  - matching
+  - boundary
+  - blockage
+relation_types:
+  - prevent
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

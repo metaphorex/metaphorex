@@ -21,6 +21,15 @@ transfers:
 - '[model] predicts that whenever work is delegated, information asymmetry creates structural opportunities for the agent to serve themselves at the principal''s expense'
 - '[model] reframes governance structures (boards, audits, regulations) not as bureaucratic overhead but as rational monitoring responses to the principal-agent gap'
 updated: '2026-03-13'
+embodied_patterns:
+  - link
+  - surface-depth
+  - balance
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

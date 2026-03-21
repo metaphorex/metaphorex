@@ -25,6 +25,15 @@ transfers:
 - "[source] imports the toxicological principle that small quantities of the right substance can produce disproportionately large effects, explaining how a few poisoned training examples or cache entries can compromise an entire system"
 - "[source] carries the concept of a contamination vector -- the specific pathway by which poison enters the organism -- onto the analysis of how malicious data enters systems through caches, training sets, memory stores, and configuration files"
 updated: '2026-03-18'
+embodied_patterns:
+  - container
+  - force
+  - boundary
+relation_types:
+  - prevent
+  - transform
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

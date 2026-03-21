@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks because destinations exist before the traveler arrives, while many purposes are constructed during the process of pursuing them'
   - '[source] misleads because arriving at a destination ends the journey, while achieving a purpose often reveals further purposes beyond it'
+embodied_patterns:
+  - path
+  - near-far
+  - force
+relation_types:
+  - cause
+  - enable
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

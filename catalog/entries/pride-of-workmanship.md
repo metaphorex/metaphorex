@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[model] romanticizes craft motivation as universal, but not all work is craft-like and not all workers derive identity from work quality -- some workers are instrumentally motivated and respond better to clear extrinsic incentives"
   - "[model] offers no framework for distinguishing barriers that management should remove from standards that management should enforce, risking a permissive interpretation where all performance expectations become 'barriers to pride'"
+embodied_patterns:
+  - force
+  - matching
+  - accretion
+relation_types:
+  - enable
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

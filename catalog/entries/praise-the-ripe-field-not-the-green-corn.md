@@ -27,6 +27,15 @@ limits:
   - '[source] breaks because agricultural ripeness is unambiguous and binary (the grain is either harvestable or it is not), while most real-world "ripeness" is a judgment call with no clear threshold, making the metaphor import a false precision about when evaluation becomes legitimate'
   - '[source] misleads by implying that early assessment has no value, when in agriculture itself farmers constantly evaluate green fields to decide irrigation, fertilization, and pest control -- the metaphor erases the entire discipline of formative evaluation by privileging only summative judgment'
   - '[source] imports a single-harvest model where the crop either succeeds or fails once, ignoring domains with continuous delivery, iterative releases, or rolling evaluation where waiting for "ripeness" means waiting forever'
+embodied_patterns:
+  - path
+  - near-far
+  - scale
+relation_types:
+  - select
+  - prevent
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

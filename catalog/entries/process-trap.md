@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because physical traps are hostile and harmful to the trapped entity, while process traps are a normal, designed part of system operation'
   - '[source] misleads because a physical trap immobilizes the captured animal, while a process trap transfers control temporarily and the trapped process typically resumes execution afterward'
+embodied_patterns:
+  - container
+  - force
+  - matching
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

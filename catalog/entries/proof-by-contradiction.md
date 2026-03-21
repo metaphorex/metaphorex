@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[paradigm] fails in domains that admit degrees or partial truth -- a policy can be "mostly effective," a design can be "partly correct," and showing that the negation leads to absurdity does not help when the proposition was never binary'
   - '[paradigm] produces conviction without construction -- you know the thing exists but cannot point to it, which is useless in engineering, design, and any domain where the answer must be built, not merely shown to be possible'
+embodied_patterns:
+  - boundary
+  - splitting
+  - force
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -27,6 +27,15 @@ limits:
   - "[source] misleads because plant growth is bounded by biological limits, while economic growth is theoretically unbounded -- making the metaphor both too optimistic (growth is natural) and too modest (growth has a ceiling)"
   - "[source] obscures that prosperity is distributed among people with competing interests, while a plant's growth benefits only the plant (and its cultivator)"
 updated: '2026-03-16'
+embodied_patterns:
+  - accretion
+  - path
+  - scale
+relation_types:
+  - cause
+  - accumulate
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

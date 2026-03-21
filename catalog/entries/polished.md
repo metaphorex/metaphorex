@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because polishing requires an already well-prepared substrate -- sanding scratches that were not removed by the previous grit will be amplified, not hidden, by polish -- but the metaphor is used as if polishing alone can rescue fundamentally flawed work'
   - '[source] misleads by framing quality as surface appearance, licensing a culture where a "polished presentation" is valued over the structural soundness of the underlying argument, and where effort spent on surface refinement substitutes for substantive improvement'
+embodied_patterns:
+  - removal
+  - iteration
+  - matching
+relation_types:
+  - transform
+  - accumulate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

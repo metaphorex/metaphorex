@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because tangles are resolved by restoring an original untangled state, while many problems have no prior state of simplicity to return to'
   - '[source] misleads because a tangle involves a finite number of strands with deterministic interactions, while real problems often involve uncertain causal relationships and feedback loops'
+embodied_patterns:
+  - link
+  - blockage
+  - force
+relation_types:
+  - prevent
+  - cause
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers
