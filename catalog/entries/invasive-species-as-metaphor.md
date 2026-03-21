@@ -28,6 +28,15 @@ limits:
   - '[source] breaks because biological invasion is an ecological process with measurable population dynamics and fitness differentials, while its metaphorical targets (immigration, market disruption, cultural change) involve agents with intentions, rights, and capacity for negotiation that organisms lack'
   - '[source] misleads by framing the pre-invasion state as a natural equilibrium that was disrupted, when ecological communities are themselves products of prior invasions, disturbances, and contingent assembly -- there is no pristine baseline to restore'
   - '[source] carries the military vocabulary of its own naming (invasion, colonization, alien) back into social contexts, smuggling xenophobic framing into what appears to be neutral scientific description'
+embodied_patterns:
+  - flow
+  - boundary
+  - accretion
+relation_types:
+  - compete
+  - accumulate
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] misleads by concentrating diffuse causation into a single agent, hiding the distributed decisions (monetary policy, wage bargaining, supply shocks) that actually produce price-level changes'
   - '[source] breaks when entity-language suggests inflation can be permanently "killed" or "defeated," importing a combat narrative that obscures the ongoing structural conditions that generate inflationary pressure'
+embodied_patterns:
+  - force
+  - scale
+  - flow
+relation_types:
+  - cause
+  - compete
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -22,6 +22,15 @@ limits:
   - "[model] misleads because calling cognitive tendencies 'idols' (false gods) implies they are wholly negative, when many species-wide heuristics (pattern recognition, loss aversion) are adaptive under the conditions that shaped them"
   - "[model] breaks because the religious metaphor implies idols can be smashed and replaced with true worship, while cognitive biases cannot be eliminated -- only recognized, mitigated, or designed around"
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - surface-depth
+  - matching
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

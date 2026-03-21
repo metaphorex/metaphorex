@@ -21,6 +21,15 @@ limits:
   - "[model] breaks because the marketplace metaphor implies language is merely instrumental (a medium of exchange), while language also constitutes thought -- Wittgenstein's 'the limits of my language mean the limits of my world' goes further than Bacon's corrective framing"
   - "[model] misleads because it implies that linguistic distortion can be fixed by choosing better words, when in practice the 'better' words carry their own distortions -- there is no non-metaphorical language to retreat to"
 updated: '2026-03-17'
+embodied_patterns:
+  - flow
+  - link
+  - matching
+relation_types:
+  - prevent
+  - translate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

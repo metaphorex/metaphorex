@@ -27,6 +27,15 @@ limits:
   - '[source] In medicine the search space is bounded by anatomy -- there are a finite number of organ systems to examine -- but in domains like software or organizations the search space is effectively unbounded, and "looking everywhere" is not a viable strategy'
   - '[source] The aphorism assumes that finding pathology is always better than not finding it, but in medicine screening programs routinely produce overdiagnosis -- finding conditions that would never have caused harm -- and in other domains the cost of knowing can exceed the cost of ignorance'
   - '[source] Medical examination has well-validated protocols for what to look for and how to interpret findings, but the metaphor is often invoked in domains where there is no equivalent diagnostic framework, turning "look harder" into unfocused anxiety rather than systematic search'
+embodied_patterns:
+  - surface-depth
+  - matching
+  - path
+relation_types:
+  - enable
+  - cause
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -29,6 +29,15 @@ transfers:
 limits:
   - '[source] misleads by making intellectual development seem organic and automatic -- "just add water" -- when ideas require deliberate human cultivation, argument, and defense that have no plant analogue'
   - '[source] breaks because plants are rooted and cannot relocate, while ideas travel freely across contexts, cultures, and centuries, violating the place-bound nature of the botanical source'
+embodied_patterns:
+  - accretion
+  - path
+  - container
+relation_types:
+  - enable
+  - transform
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

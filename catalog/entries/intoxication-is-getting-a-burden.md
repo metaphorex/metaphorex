@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] misleads by framing intoxication as purely impairing (burdens only slow you down), missing the pleasurable and disinhibiting phases that motivate people to drink in the first place'
   - '[source] breaks because burdens can be set down voluntarily at any time, while intoxication once acquired cannot be shed by choice -- you cannot simply put the drunkenness down and walk away sober'
+embodied_patterns:
+  - force
+  - scale
+  - container
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

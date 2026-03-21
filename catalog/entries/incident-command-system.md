@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[paradigm] assumes the incident has identifiable boundaries in space and time, which breaks for diffuse, ongoing crises (pandemic response, chronic cybersecurity campaigns) where there is no clear scene, no clear start, and no clear resolution'
   - '[paradigm] the unified command variant requires participating agencies to agree on objectives in real time, which works for wildfires and hazmat spills but degrades when agencies have genuinely conflicting mandates (law enforcement vs. public health, security vs. availability)'
+embodied_patterns:
+  - center-periphery
+  - part-whole
+  - scale
+relation_types:
+  - coordinate
+  - decompose
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

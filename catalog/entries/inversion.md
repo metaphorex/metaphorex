@@ -20,6 +20,15 @@ transfers:
 limits:
   - "[model] breaks because avoidance of failure does not constitute a strategy -- knowing what destroys marriages does not tell you how to build a good one"
   - "[model] misleads because it implies problems are invertible by default, but sometimes the causes of failure are as opaque as the recipe for success"
+embodied_patterns:
+  - scale
+  - path
+  - matching
+relation_types:
+  - transform
+  - select
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

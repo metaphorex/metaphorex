@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] misleads by tying ideas to their written expression, conflating the quality of the prose with the quality of the thought and privileging literate cultures over oral ones'
   - '[source] breaks because written texts are fixed once published, while ideas continue to evolve in the minds of those who encounter them, violating the inscription metaphor of permanent record'
+embodied_patterns:
+  - superimposition
+  - container
+  - path
+relation_types:
+  - transform
+  - accumulate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

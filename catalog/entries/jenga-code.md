@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] misleads because Jenga blocks are identical and interchangeable, while code components vary enormously in criticality, coupling, and replaceability, and the metaphor flattens this heterogeneity'
   - '[source] breaks because Jenga collapse is total and final, while codebase failures are usually partial, recoverable, and revertable -- real systems have version control, backups, and rollback mechanisms that Jenga towers lack'
+embodied_patterns:
+  - part-whole
+  - balance
+  - removal
+relation_types:
+  - cause
+  - prevent
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

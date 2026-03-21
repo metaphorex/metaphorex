@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] misleads by importing the zero-sum structure of money (spending depletes your supply), while sharing ideas can increase rather than decrease the total intellectual wealth'
   - '[source] breaks because money is a pure medium with no intrinsic content, while ideas have substantive content that determines their value independent of exchange dynamics'
+embodied_patterns:
+  - flow
+  - scale
+  - link
+relation_types:
+  - accumulate
+  - cause
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

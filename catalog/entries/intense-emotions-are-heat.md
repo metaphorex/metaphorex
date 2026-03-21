@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] misleads by applying equally to anger, desire, shame, and excitement without distinguishing between them, since all map onto "heat" and the metaphor provides no thermal vocabulary for qualitative emotional differences'
   - '[source] breaks for intense emotions that are phenomenologically cold -- dread, grief, clinical depression -- where the bodily experience is chilling rather than heating, and the heat frame cannot represent them'
+embodied_patterns:
+  - force
+  - scale
+  - container
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: primitive
 ---
 
 ## Transfers

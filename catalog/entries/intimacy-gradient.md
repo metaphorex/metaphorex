@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] misleads because architectural gradients are spatial and continuous, while software access boundaries are typically discrete permission levels with sharp cutoffs rather than smooth transitions'
   - '[source] breaks when the system requires lateral movement between private spaces at the same depth level, since the gradient assumes a single axis from public to private and provides no vocabulary for peer-to-peer access among equally intimate zones'
+embodied_patterns:
+  - boundary
+  - center-periphery
+  - path
+relation_types:
+  - contain
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

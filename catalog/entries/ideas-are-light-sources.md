@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] misleads by treating intellectual insight as passive emission rather than active construction -- light sources radiate automatically, but understanding requires effortful engagement from the perceiver'
   - '[source] breaks because light reveals what already exists, while ideas often create new conceptual objects that had no prior existence to be illuminated, conflating discovery with invention'
+embodied_patterns:
+  - near-far
+  - scale
+  - flow
+relation_types:
+  - enable
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

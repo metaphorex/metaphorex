@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] misleads by treating ideas as non-renewable, when ideas are the paradigmatic non-rivalrous good -- using an idea does not consume it, and sharing it creates more rather than less'
   - '[source] breaks because resource management assumes fungibility (one barrel of oil substitutes for another), while ideas are qualitatively distinct and cannot be meaningfully aggregated into a stockpile'
+embodied_patterns:
+  - container
+  - scale
+  - flow
+relation_types:
+  - accumulate
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

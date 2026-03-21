@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] misleads by treating intellectual activity as repeatable manufacturing where the same inputs reliably produce the same outputs, ignoring the irreducible creativity and contingency of original thought'
   - '[source] breaks because manufactured products are designed to be identical copies, while ideas gain value precisely from their uniqueness and originality, inverting the industrial premium on uniformity'
+embodied_patterns:
+  - part-whole
+  - path
+  - matching
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

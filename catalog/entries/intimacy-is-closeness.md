@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] misleads because physical closeness is symmetric (if I am near you, you are near me), while emotional intimacy is often asymmetric, and the spatial metaphor has no natural way to express one-sided closeness'
   - '[source] breaks for relationships that are intimate despite geographic distance (long-distance partnerships, epistolary friendships), since the metaphor equates proximity with connection and provides no vocabulary for intimate distance'
+embodied_patterns:
+  - near-far
+  - force
+  - link
+relation_types:
+  - cause
+  - enable
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

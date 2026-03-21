@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[paradigm] breaks when the rules are genuinely unknowable -- unpublished regulations, secret laws, or retroactive legislation violate the premise that the subject could have known"
   - "[paradigm] misleads when applied to systems of extreme complexity, because it treats a 74,000-page tax code the same as a prohibition on murder, conflating capacity to know with duty to know"
+embodied_patterns:
+  - boundary
+  - container
+  - force
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

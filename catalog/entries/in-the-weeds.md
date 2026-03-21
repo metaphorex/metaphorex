@@ -24,6 +24,15 @@ transfers:
 - '[source] imports the kitchen insight that recovery requires external intervention (help from another station, shedding tickets) rather than just working harder, distinguishing overwhelm from mere busyness'
 - '[source] transfers the temporal irreversibility of kitchen failure -- a ticket that dies on the pass cannot be un-died -- onto deadline-driven work where missed windows compound rather than queue'
 updated: '2026-03-19'
+embodied_patterns:
+  - blockage
+  - flow
+  - force
+relation_types:
+  - prevent
+  - accumulate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] misleads by making ideas feel fixed in space like cities on a map, when ideas are actually mutable and their relationships shift depending on the framework used to organize them'
   - '[source] breaks because locations have single occupancy (two things cannot be in the same place), but multiple ideas can occupy the same conceptual role, and the metaphor provides no way to express this overlap'
+embodied_patterns:
+  - container
+  - path
+  - near-far
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

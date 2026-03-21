@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] misleads by implying ideas are pre-formed entities waiting to be found, when many ideas are constituted through the act of articulation and have no existence prior to being expressed'
   - '[source] breaks because objects persist unchanged when transferred between persons, while ideas are inevitably transformed by each new mind that receives them, making the "same idea" an illusion of the object frame'
+embodied_patterns:
+  - container
+  - force
+  - matching
+relation_types:
+  - contain
+  - transform
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

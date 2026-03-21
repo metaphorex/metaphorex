@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because physical neighborhoods create identity through involuntary proximity (you cannot avoid your neighbors), while organizational and digital boundaries can be crossed or ignored at will, so belonging requires active maintenance that the architectural pattern takes for granted'
   - '[source] misleads by implying that drawing a boundary is sufficient to create identity, when organizational "neighborhoods" (teams, namespaces, bounded contexts) need shared work, not just shared labels'
+embodied_patterns:
+  - boundary
+  - container
+  - center-periphery
+relation_types:
+  - contain
+  - coordinate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers
