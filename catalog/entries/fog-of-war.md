@@ -35,7 +35,7 @@ embodied_patterns:
 relation_types:
   - prevent
   - cause
-structure: competition
+structure: boundary
 abstraction_level: generic
 ---
 
