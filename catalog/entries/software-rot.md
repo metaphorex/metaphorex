@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because software does not physically decompose -- the bits on disk are identical years later, and what changes is the environment (libraries, OS, user expectations), making the degradation relational rather than internal'
   - '[source] misleads because rot is irreversible (you cannot un-rot an apple), but software can be updated, refactored, and restored, importing a finality that can encourage rewrites when incremental repair would suffice'
+embodied_patterns:
+  - accretion
+  - removal
+  - flow
+relation_types:
+  - cause
+  - accumulate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ transfers:
   - "[source] imports the gravitational singularity's property of being a point of no return -- once crossed, there is no going back -- lending the technological prediction an air of physical inevitability"
   - "[source] carries the structure of asymptotic acceleration: just as physical quantities diverge to infinity near a singularity, the metaphor frames intelligence improvement as a self-reinforcing process that accelerates without bound"
 updated: '2026-03-17'
+embodied_patterns:
+  - scale
+  - boundary
+  - path
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because agricultural silos preserve their contents through separation -- mixing grain causes cross-contamination and spoilage -- yet the organizational metaphor inverts this, treating separation as the disease rather than the cure'
   - '[source] misleads because ''breaking down silos'' has no agricultural analogue -- literally destroying grain silos would destroy the harvest, making the metaphor''s own remedy catastrophic in its source domain'
+embodied_patterns:
+  - container
+  - boundary
+  - blockage
+relation_types:
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because biological immune systems evolve through random mutation and selection over millions of years, while security systems must be deliberately designed and cannot generate novel defenses through undirected variation"
   - "[source] misleads because autoimmune disorders -- the immune system attacking the body's own cells -- have no clean parallel in security, where false positives (blocking legitimate traffic) are an operational nuisance rather than a systemic self-destruction"
+embodied_patterns:
+  - boundary
+  - self-organization
+  - matching
+relation_types:
+  - prevent
+  - restore
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because military skunkworks have formal executive sponsorship and dedicated funding lines, while corporate skunkworks often survive on stolen time and hidden budgets"
   - "[source] misleads because military secrecy protects national security, but corporate secrecy often just protects the team from internal politics, making the analogy self-aggrandizing"
+embodied_patterns:
+  - container
+  - boundary
+  - splitting
+relation_types:
+  - enable
+  - prevent
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

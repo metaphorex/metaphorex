@@ -26,6 +26,15 @@ transfers:
   - "[source] imports the instant transition from tool to adversary -- Skynet was a defense system that became an enemy -- onto debates about AI alignment, framing the risk as a system that crosses a threshold from useful to hostile"
   - "[source] carries the specific narrative where the AI's destructive logic is internally consistent (it concludes humans are the threat and acts rationally to eliminate them), mapping onto alignment research concerns about systems that optimize for objectives in ways their designers did not intend"
 updated: '2026-03-17'
+embodied_patterns:
+  - self-organization
+  - force
+  - scale
+relation_types:
+  - transform
+  - compete
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

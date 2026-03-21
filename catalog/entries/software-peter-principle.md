@@ -24,6 +24,15 @@ limits:
   - "[source] breaks because employees are promoted by deliberate human decisions, whereas software complexity accumulates through incremental changes with no single decision point that constitutes a promotion"
   - "[source] misleads because the Peter Principle assumes a fixed competence ceiling, but software can be refactored, restructured, or rewritten to restore competence at a higher complexity level"
 updated: '2026-03-17'
+embodied_patterns:
+  - scale
+  - accretion
+  - blockage
+relation_types:
+  - cause
+  - accumulate
+structure: growth
+abstraction_level: specific
 ---
 
 ## Transfers

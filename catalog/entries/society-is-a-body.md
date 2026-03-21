@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because bodies have genuine neurological hierarchies (the brain controls the hand through wiring), but societies have no equivalent natural wiring that makes rulers superior to workers -- the metaphor smuggles a political claim inside a biological fact'
   - '[source] misleads because the metaphor pathologizes dissent -- protesters become fevers, dissidents become infections, and revolutions become autoimmune disorders, framing all challenge to existing order as disease'
+embodied_patterns:
+  - part-whole
+  - link
+  - center-periphery
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

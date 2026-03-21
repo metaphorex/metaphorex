@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because the weapon frame erases mutuality -- attraction is typically bilateral, but the metaphor forces it into an asymmetric aggressor/victim structure'
   - '[source] misleads because pleasure disappears from the mapping -- weapons cause pain, but sexual attraction typically causes delight, and the structure of harm is used to describe the structure of pleasure'
+embodied_patterns:
+  - force
+  - boundary
+  - path
+relation_types:
+  - compete
+  - cause
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

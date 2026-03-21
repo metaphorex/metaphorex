@@ -25,6 +25,15 @@ limits:
   - '[source] breaks because physical spaces have a single perceivable center while digital and organizational spaces often have no spatial intuition at all, making "the middle" a metaphor that must be constructed rather than discovered'
   - '[source] misleads by implying that a single anchor suffices for any scale of gathering, when large-enough spaces require multiple anchors (Alexander himself nests this pattern within hierarchy-of-open-space) and a single central object in a vast space becomes lost rather than focal'
   - '[source] assumes the anchor is shared -- everyone converges on the same thing -- but in organizations and software systems, different constituencies may need different anchors, and forcing a single one can privilege one group''s needs over another''s'
+embodied_patterns:
+  - center-periphery
+  - balance
+  - scale
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

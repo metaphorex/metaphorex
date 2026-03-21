@@ -27,6 +27,15 @@ transfers:
   - '[source] The pattern acknowledges that unmediated negative feedback triggers defensive responses that block absorption, so it uses positive framing as a delivery vehicle that keeps the recipient''s receptive channel open long enough for the criticism to land'
   - '[source] The three-layer structure imposes discipline on the feedback giver: they must identify genuine strengths (opening) and a constructive path forward (closing), preventing feedback from collapsing into pure complaint'
 updated: '2026-03-21'
+embodied_patterns:
+  - container
+  - superimposition
+  - matching
+relation_types:
+  - translate
+  - contain
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -23,6 +23,15 @@ transfers:
   - '[model] imports the signal-detection logic of evolutionary threat systems — better a false alarm than a missed predator — to explain why separation anxiety is easily triggered and difficult to extinguish, predicting the asymmetry between acquisition and extinction of the response'
   - '[model] generates the developmental prediction that separation anxiety should emerge precisely when locomotion begins (6-8 months), because mobile infants face predation risks that immobile neonates do not — a prediction confirmed cross-culturally'
 updated: '2026-03-20'
+embodied_patterns:
+  - near-far
+  - link
+  - force
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

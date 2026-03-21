@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because werewolves actually have a silver bullet (in the mythology), but Brooks's point is that software complexity has no equivalent -- the metaphor uses the existence of a solution in the source to argue for its nonexistence in the target"
   - "[source] misleads because the singular cure framing discourages incremental improvement, implying that if no single solution solves everything, nothing is worth trying"
+embodied_patterns:
+  - force
+  - matching
+  - path
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

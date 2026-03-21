@@ -25,6 +25,15 @@ transfers:
 - '[source] imports the role of an external force (wind) as the sorting mechanism, framing good evaluation as creating conditions where quality reveals itself rather than inspecting each item individually'
 - '[source] carries the structural insight that wheat and chaff are physically intertwined until actively separated, teaching that value and noise coexist in the same material and require deliberate effort to distinguish'
 updated: '2026-03-20'
+embodied_patterns:
+  - splitting
+  - matching
+  - removal
+relation_types:
+  - select
+  - decompose
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

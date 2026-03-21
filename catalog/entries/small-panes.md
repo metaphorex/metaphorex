@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the structural fact that when a small pane breaks, only that pane needs replacement, while a large sheet of glass requires replacing the entire surface -- mapping directly onto the maintenance advantage of modular software components'
 - '[source] structures Alexander''s observation that small panes create a visible grid that helps the eye parse scale and proportion, mapping onto the cognitive benefit of small code units that help developers parse system structure'
 updated: '2026-03-19'
+embodied_patterns:
+  - part-whole
+  - scale
+  - boundary
+relation_types:
+  - coordinate
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

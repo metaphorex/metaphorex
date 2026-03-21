@@ -25,6 +25,15 @@ limits:
   - '[source] breaks because in art, delayed naming is a temporary exercise within a controlled setting; in research or design, deferring categorization indefinitely produces paralysis, since at some point you must name things to communicate about them'
   - '[source] misleads by implying that naming always distorts perception, when skilled practitioners use names as perceptual sharpeners -- a geologist who names a rock formation sees more detail in it, not less, because the name activates a richer schema than the novice possesses'
   - '[source] hides the fact that "pure seeing" is itself theory-laden: what the artist calls unmediated perception is actually a different set of trained categories (value, hue, edge quality) replacing the default ones (chair, table, face)'
+embodied_patterns:
+  - matching
+  - path
+  - surface-depth
+relation_types:
+  - select
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[paradigm] breaks when predictive success is not the goal -- in foundational research, conceptual clarity drives the formulation of new theories, and refusing to interpret the formalism can prevent the insights that lead to the next paradigm'
   - '[paradigm] assumes the formalism is settled, but in domains where the mathematical framework is still being constructed (quantum gravity, consciousness studies), interpretation and formalism are entangled and cannot be separated'
+embodied_patterns:
+  - removal
+  - matching
+  - path
+relation_types:
+  - prevent
+  - enable
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

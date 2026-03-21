@@ -28,6 +28,15 @@ transfers:
 - '[source] imports the insight that bureaucratic overhead -- forms, approvals, referrals, eligibility checks -- accumulates not because the service requires it but because the organization has grown too large to trust its own workers, and the overhead functions as a substitute for the personal accountability that small scale provides naturally'
 - '[source] carries the structural principle that many small independent services are more resilient than one large centralized service, because the failure of any single small provider affects only its immediate users while the failure of the central provider affects everyone'
 updated: '2026-03-21'
+embodied_patterns:
+  - scale
+  - removal
+  - near-far
+relation_types:
+  - enable
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

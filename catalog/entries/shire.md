@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because the Shire's innocence is literally maintained by Rangers and wizards, while real pastoral communities face structural economic pressures that no external guardian can block"
   - "[source] misleads because hobbit culture is presented as naturally good rather than merely sheltered, conflating ignorance of evil with absence of evil"
+embodied_patterns:
+  - container
+  - boundary
+  - center-periphery
+relation_types:
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

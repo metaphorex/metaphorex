@@ -26,6 +26,15 @@ limits:
   - '[source] breaks because the original surgical context assumes that the procedure being learned is standardized and the patient''s anatomy is predictable enough that one observation suffices, while many skills involve high variance between cases and one example creates dangerous overconfidence in pattern recognition'
   - '[source] misleads by compressing the timeline -- surgical residents actually see dozens and do dozens before teaching -- meaning the "one" is aspirational compression, not literal instruction, and domains that take it literally may produce dangerously undertrained practitioners'
   - '[source] obscures that the pattern requires a safety net (the attending surgeon is present during "do one" to intervene if things go wrong), and domains that adopt the pattern without equivalent supervision expose learners and their subjects to unacceptable risk'
+embodied_patterns:
+  - path
+  - iteration
+  - matching
+relation_types:
+  - transform
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

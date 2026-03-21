@@ -28,6 +28,15 @@ limits:
   - "[source] misleads because bazaars have no shared product -- each vendor succeeds or fails independently -- hiding the coordination cost of many contributors working on one codebase"
   - "[source] obscures that bazaars require no trust between vendor and vendor, but open-source development requires deep mutual trust in shared commit access and code review"
 updated: '2026-03-17'
+embodied_patterns:
+  - self-organization
+  - link
+  - flow
+relation_types:
+  - coordinate
+  - enable
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

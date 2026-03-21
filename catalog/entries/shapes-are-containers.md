@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because open shapes (lines, rays, unclosed curves) have no interior, and the metaphor silently fails for half of geometry without signaling its inapplicability'
   - '[source] misleads because the geometric boundary has no barrier function -- a circle does not keep a point inside it the way a container wall prevents escape, importing containment force where there is only mathematical description'
+embodied_patterns:
+  - container
+  - boundary
+  - matching
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

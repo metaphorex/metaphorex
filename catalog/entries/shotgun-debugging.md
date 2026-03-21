@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because shotgun pellets that miss are inert, while code changes that do not fix the bug may introduce new bugs or create dependencies -- the metaphor underestimates collateral damage'
   - '[source] misleads because real shotguns are effective within their intended range, while shotgun debugging frequently fails entirely -- the metaphor imports a success rate the strategy does not possess'
+embodied_patterns:
+  - splitting
+  - force
+  - matching
+relation_types:
+  - cause
+  - select
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers
