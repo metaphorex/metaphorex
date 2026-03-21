@@ -3,7 +3,7 @@ created: '2026-03-21'
 name: Plumbing
 related:
 - architecture-and-building
-- infrastructure
+- civil-engineering
 - containers
 roles:
 - pipe
