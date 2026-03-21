@@ -25,6 +25,8 @@ transfers:
 limits:
   - '[source] Physical transfer depletes the source (if you move a box, it is no longer where it was), but emotional transference does not deplete the original pattern -- the client still reacts the same way outside therapy, so the metaphor''s zero-sum logic is wrong'
   - '[source] Spatial motion implies a clear origin and destination, but transference feelings often have no single identifiable source -- they are composites of multiple early relationships, not a parcel moved from one address to another'
+  - '[source] The transfer metaphor encourages a storage model of the unconscious where feelings are packed away in childhood and shipped out in adulthood, but emotional patterns are dynamically reconstructed processes, not stored objects retrieved from a warehouse'
+  - '[source] All human beings use past relational experience to predict current interactions, but the transfer metaphor frames this universal process as displacement (something gone wrong), pathologizing ordinary social inference when the metaphor''s structure encodes no threshold for when transfer becomes pathological'
 embodied_patterns:
   - force
   - path

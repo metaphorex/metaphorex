@@ -13,7 +13,7 @@ related:
   - transference
   - containment
   - holding-space
-dead: true
+dead: false
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established

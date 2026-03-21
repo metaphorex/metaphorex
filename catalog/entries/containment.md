@@ -14,7 +14,7 @@ related:
   - mirroring
   - titration
   - window-of-tolerance
-dead: true
+dead: false
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
