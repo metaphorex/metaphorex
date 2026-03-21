@@ -31,7 +31,7 @@ embodied_patterns:
 relation_types:
   - transform
   - cause
-structure: pipeline
+structure: transformation
 abstraction_level: generic
 ---
 
