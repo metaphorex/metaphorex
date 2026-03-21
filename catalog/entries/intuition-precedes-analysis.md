@@ -10,8 +10,7 @@ harness: Claude Code
 kind: mental-model
 name: Intuition Precedes Analysis
 provenance: bannard-aphorisms
-related:
-- negative-space
+related: []
 slug: intuition-precedes-analysis
 source_frame: visual-arts-practice
 updated: '2026-03-21'
