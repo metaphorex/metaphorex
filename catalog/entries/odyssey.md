@@ -30,7 +30,7 @@ embodied_patterns:
 relation_types:
   - transform
   - cause
-structure: pipeline
+structure: cycle
 abstraction_level: generic
 ---
 
