@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks when the discarded features dominate the phenomenon of interest -- a spherical cow cannot model locomotion, digestion, or reproduction, which are precisely the features that make a cow a cow'
   - '[source] misleads by normalizing simplification as always temporary, when many spherical-cow models become permanent infrastructure that outlives the context where their assumptions held'
+embodied_patterns:
+  - removal
+  - matching
+  - container
+relation_types:
+  - transform
+  - enable
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ limits:
   - '[source] breaks because economic transactions require mutual consent and awareness, while status shifts often operate below conscious awareness for both parties'
   - '[source] misleads by implying status is zero-sum like money, when collaborative interactions can raise the perceived status of all participants simultaneously'
   - '[source] obscures cultural variation -- what reads as high-status in one culture (direct eye contact, loud voice) reads as aggressive or rude in another, unlike currency which has a fixed exchange rate within its jurisdiction'
+embodied_patterns:
+  - balance
+  - flow
+  - link
+relation_types:
+  - compete
+  - accumulate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

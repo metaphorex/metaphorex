@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because pure mathematics is spider work by this taxonomy, yet Euclid, Godel, and Turing built structures that transformed the empirical sciences Bacon championed"
   - "[source] misleads because Bacon's own inductive method (the bee's 'digestion') was criticized by Hume and Popper as logically unjustifiable -- the spider's deductive method has clearer rules of inference"
+embodied_patterns:
+  - container
+  - matching
+  - iteration
+relation_types:
+  - transform
+  - cause
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

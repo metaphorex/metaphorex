@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because the original sketch is about overwhelming repetition and inescapable presence, but modern usage has broadened to include even a single unsolicited message -- losing the essential volume that made the metaphor work'
   - '[source] misleads because the comedic framing makes the classification sound obvious and binary (''mark as spam''), obscuring the genuine difficulty of distinguishing unwanted commercial email from wanted commercial email in a multi-billion-dollar contested zone'
+embodied_patterns:
+  - flow
+  - scale
+  - removal
+relation_types:
+  - accumulate
+  - prevent
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

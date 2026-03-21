@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because a physical window provides continuous, ambient awareness (peripheral vision, sound, light changes) that requires no deliberate action, while software dashboards require active attention and conscious interpretation -- the cognitive cost of monitoring a dashboard is categorically different from the perceptual cost of glancing out a window'
   - '[source] misleads by implying that observation is benign, when software monitoring often records and retains data in ways that physical observation through a window does not -- the window has no memory, but a logging system has permanent recall, changing the power dynamics of surveillance'
+embodied_patterns:
+  - boundary
+  - link
+  - near-far
+relation_types:
+  - enable
+  - coordinate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

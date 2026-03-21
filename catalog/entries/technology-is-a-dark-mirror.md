@@ -22,6 +22,15 @@ transfers:
 - "[source] mirrors require a viewer: the reflection is meaningless without someone to see themselves in it, making the act of looking an essential part of the encounter"
 - "[source] a dark mirror shows the viewer only when the light source (the screen) is off -- the reflection appears precisely when the device stops performing its intended function"
 updated: '2026-03-16'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - boundary
+relation_types:
+  - transform
+  - translate
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

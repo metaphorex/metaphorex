@@ -24,6 +24,15 @@ transfers:
   - "[paradigm] imports the insight that contamination propagates downstream, so security analysis must follow data forward from entry points rather than backward from vulnerabilities, inverting the typical debugging mindset"
   - "[paradigm] carries the fluid-dynamics principle that you control flow by controlling endpoints, not the medium -- secure the sources and sinks rather than trying to purify data in transit"
 updated: '2026-03-18'
+embodied_patterns:
+  - flow
+  - container
+  - balance
+relation_types:
+  - decompose
+  - coordinate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

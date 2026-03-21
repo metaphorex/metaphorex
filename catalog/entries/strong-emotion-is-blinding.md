@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because emotions also sharpen perception -- fear makes you hypervigilant, anger clarifies injustice, love reveals subtleties no one else notices -- and the blinding frame has no way to express what emotion lets you see that reason alone cannot'
   - '[source] misleads because the metaphor privileges reason over emotion as the natural state, providing cognitive scaffolding for dismissing emotional testimony (''you''re too upset to see clearly'') when emotional response may be the legitimate and accurate reaction'
+embodied_patterns:
+  - force
+  - blockage
+  - container
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

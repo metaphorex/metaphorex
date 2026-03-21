@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because arguments and enthusiasm are not zero-sum like wind -- deflating someone''s position does not necessarily strengthen yours, and the metaphor imports a zero-sum physics that does not apply to social dynamics'
   - '[source] misleads because the metaphor implies strategic intent and skill, but modern usage often describes accidental or thoughtless undermining -- a casual remark that deflates excitement, not a deliberate tactical maneuver'
+embodied_patterns:
+  - blockage
+  - force
+  - flow
+relation_types:
+  - prevent
+  - cause
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

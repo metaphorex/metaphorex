@@ -25,6 +25,15 @@ limits:
   - '[source] A fruit tree that serves six functions in a garden has evolved over millions of years to perform those functions simultaneously; a software module that serves six functions was designed by a team under deadline pressure and is far more likely to serve all six badly than to achieve the elegant multi-function integration the agricultural source implies'
   - '[source] The agricultural pattern assumes a mature, stable system where stacked functions have co-adapted over time; in fast-changing environments (startups, early-stage products, wartime logistics), single-purpose elements that can be swapped independently are often more valuable than tightly integrated multi-purpose ones'
 updated: '2026-03-20'
+embodied_patterns:
+  - superimposition
+  - link
+  - part-whole
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

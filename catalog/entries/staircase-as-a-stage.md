@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks when the vertical transition requires privacy or security -- fire stairs, hospital service stairs, and prison staircases are deliberately hidden because visibility would compromise their function'
   - '[source] misleads by implying all transitions should be visible, when some abstraction boundaries exist precisely to prevent the upper layer from seeing the lower one'
+embodied_patterns:
+  - path
+  - link
+  - boundary
+relation_types:
+  - enable
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

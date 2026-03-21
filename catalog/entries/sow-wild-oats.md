@@ -29,6 +29,15 @@ limits:
   - '[source] misleads by importing agriculture''s seasonal finality -- a wasted planting season means a lost year -- into human development, where time is not organized into discrete growing seasons and recovery from youthful recklessness has no fixed deadline'
   - '[source] breaks because wild oats have zero value, giving the metaphor no category for beneficial weeds -- exploration, unconventional paths, and risk-taking that produce indirect value (broader perspective, resilience, self-knowledge) are indistinguishable from genuine wasteful dissipation'
   - '[source] imports a gendered structure -- the male is the sower, the female is the field -- that is not incidental to the mapping but built into it, carrying a sexual double standard as if it were agricultural common sense'
+embodied_patterns:
+  - path
+  - splitting
+  - accretion
+relation_types:
+  - cause
+  - accumulate
+structure: growth
+abstraction_level: specific
 ---
 
 ## Transfers

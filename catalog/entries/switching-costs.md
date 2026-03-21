@@ -21,6 +21,15 @@ transfers:
 - '[model] maps physical friction and inertia onto customer behavior: the higher the cost of switching (money, time, data migration, retraining), the more durable the customer relationship'
 - '[model] distinguishes static friction (upfront switching cost) from kinetic friction (ongoing cost of the new system), predicting that most resistance is concentrated at the start of a transition'
 updated: '2026-03-13'
+embodied_patterns:
+  - boundary
+  - force
+  - path
+relation_types:
+  - prevent
+  - accumulate
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

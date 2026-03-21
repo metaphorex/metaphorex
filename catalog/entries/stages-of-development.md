@@ -28,6 +28,15 @@ limits:
   - '[source] misleads by implying stages are discrete places with clear boundaries, when empirical research consistently shows gradual transitions, regressions, and domain-specific variation that the stage metaphor erases'
   - '[source] naturalizes a single endpoint: journeys have destinations, and the stage metaphor positions formal operational thought as the final destination of cognitive development, which reflects Western academic values about abstract reasoning rather than a universal developmental fact'
 updated: '2026-03-20'
+embodied_patterns:
+  - path
+  - boundary
+  - scale
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

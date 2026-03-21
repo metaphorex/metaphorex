@@ -22,6 +22,15 @@ transfers:
 - '[model] imports the theatrical convention that an actor inhabits multiple characters across productions, normalizing the idea that poor execution in one role says nothing about the person''s fundamental worth'
 - '[model] reframes the feedback relationship from judge-and-defendant to director-and-performer, where notes are collaborative adjustments toward a shared goal rather than verdicts on competence'
 updated: '2026-03-19'
+embodied_patterns:
+  - boundary
+  - matching
+  - surface-depth
+relation_types:
+  - translate
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

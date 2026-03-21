@@ -20,6 +20,15 @@ transfers:
   soundness'
 - '[model] identifies that fragile systems concentrate critical function in one component while robust systems distribute it, making single-point-of-failure analysis the key diagnostic tool'
 updated: '2026-03-13'
+embodied_patterns:
+  - balance
+  - force
+  - part-whole
+relation_types:
+  - restore
+  - prevent
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

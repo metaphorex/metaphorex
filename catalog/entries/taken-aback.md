@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because the expression has been softened from life-threatening nautical emergency to mild social inconvenience -- a gap between the source domain''s severity and the target domain''s mildness that makes the mapping structurally dishonest'
   - '[source] misleads because the directional logic (''aback'' means backward, driven in reverse) has been lost -- modern speakers picture freezing in place rather than being pushed in the wrong direction, losing the metaphor''s most interesting structural feature'
+embodied_patterns:
+  - force
+  - blockage
+  - path
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

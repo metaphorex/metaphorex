@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because physical handshakes are hard to fake (you see who extends their hand), while TCP handshakes occur over a network where the source address can be forged -- the SYN flood attack exploits this gap between social trust and protocol vulnerability'
   - '[source] misleads because social handshakes convey identity (face, grip, expression), while TCP handshakes authenticate nothing -- the warmth implied by the social metaphor is absent, which is why TLS had to be layered on top'
+embodied_patterns:
+  - link
+  - iteration
+  - matching
+relation_types:
+  - coordinate
+  - enable
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

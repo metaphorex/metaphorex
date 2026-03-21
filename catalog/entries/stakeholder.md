@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because the gambling stakeholder is a single neutral party while business 'stakeholders' are the interested parties themselves -- the word has flipped from naming the disinterested mediator to naming the very people with skin in the game"
   - "[source] misleads because in a wager the stakes are defined and finite (a specific sum of money), while organizational 'stakes' are vague and unbounded -- employees, communities, regulators, and future generations are all called stakeholders without specifying what exactly they have wagered"
+embodied_patterns:
+  - container
+  - link
+  - force
+relation_types:
+  - compete
+  - coordinate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

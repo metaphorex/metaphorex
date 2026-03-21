@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because spaghetti is homogeneous (every strand is the same), while real tangled code has heterogeneous components -- database queries interleaved with UI logic, business rules embedded in infrastructure -- and the metaphor suggests uniform messiness where the mess is specifically structured'
   - '[source] misleads because the metaphor blames the code rather than the conditions -- spaghetti code is often produced by reasonable people under deadline pressure, but calling it spaghetti implies carelessness when it may be the rational output of an irrational process'
+embodied_patterns:
+  - link
+  - blockage
+  - part-whole
+relation_types:
+  - prevent
+  - accumulate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
   - '[source] Each villager adds only what they can spare -- a carrot, an onion -- and receives a share of the whole, mapping the structure of pooled marginal contributions producing a result no single contributor could achieve'
   - '[source] The traveler is an outsider who provides the coordination frame, not the substance, mapping onto the role of a facilitator or platform that contributes structure rather than content'
 updated: '2026-03-20'
+embodied_patterns:
+  - accretion
+  - link
+  - container
+relation_types:
+  - enable
+  - coordinate
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -21,6 +21,15 @@ transfers:
 - "[source] governance at a distance requires supply chains, communication infrastructure, and delegated authority structures"
 - "[source] the frontier colony eventually develops its own identity and interests that diverge from the founding power"
 updated: '2026-03-16'
+embodied_patterns:
+  - path
+  - boundary
+  - container
+relation_types:
+  - transform
+  - contain
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

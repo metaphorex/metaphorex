@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks because the metaphor equates a normal human experience (intense feeling) with a pathological state (mental illness), trivializing mental illness while pathologizing emotional intensity'
   - '[source] misleads because ''madness'' erases the intentional content of emotion -- grief is grief about something, anger is anger at something, but the madness frame treats all intense emotions as the same kind of directionless cognitive failure'
+embodied_patterns:
+  - force
+  - container
+  - boundary
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

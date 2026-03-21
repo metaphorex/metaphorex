@@ -23,6 +23,15 @@ limits:
   - "[paradigm] breaks because cooperation (symbiosis, mutualism, kin selection) is as fundamental as competition, but the paradigm foregrounds competition and hides cooperative dynamics"
   - "[paradigm] misleads because fittest means best-fitting the current environment, but the phrase smuggles in the assumption that winners are inherently superior"
   - "[paradigm] obscures that evolution has no direction toward better -- parasites are as evolved as their hosts"
+embodied_patterns:
+  - force
+  - matching
+  - iteration
+relation_types:
+  - select
+  - compete
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

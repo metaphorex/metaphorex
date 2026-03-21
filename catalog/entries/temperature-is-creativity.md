@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because randomness is not creativity -- creativity involves intention, judgment, and evaluation of novelty, while high temperature simply reduces regard for the model''s own probability estimates, conflating statistical unpredictability with cognitive originality'
   - '[source] misleads because the dial metaphor hides a phase transition -- there is a narrow useful range and then rapid descent into incoherence, not the smooth gradient from precise to creative that the physics metaphor suggests'
+embodied_patterns:
+  - scale
+  - force
+  - balance
+relation_types:
+  - transform
+  - cause
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

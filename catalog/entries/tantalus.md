@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because ''tantalizing'' has acquired a positive valence -- the word now names pleasurable anticipation (a tantalizing preview, a tantalizing trailer), endorsing the sensation it was originally coined to condemn as torture'
   - '[source] misleads because the myth is about divine punishment for specific crimes (serving his son to the gods), but the English word carries no moral freight -- the entire ethical structure has been shed, keeping only the phenomenology of frustrated desire'
+embodied_patterns:
+  - near-far
+  - force
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

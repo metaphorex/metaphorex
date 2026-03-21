@@ -28,6 +28,15 @@ limits:
   - '[source] breaks because actual surgery is far messier than the metaphor implies -- tissue planes are ambiguous, anatomy varies between patients, and unexpected findings force intraoperative improvisation -- meaning the metaphor sells an idealized version of precision that real surgeons would find misleading'
   - '[source] misleads when applied to military action ("surgical strike") by importing the surgeon''s moral framing -- cutting to heal -- onto destruction, suppressing the fact that the surgeon''s goal is the patient''s survival while the strike''s goal is the target''s destruction'
   - '[source] obscures that surgical precision is achieved through redundant safety systems (surgical checklists, anesthesia monitoring, second opinions) rather than through individual skill alone, while metaphorical uses typically attribute precision to a single decisive actor'
+embodied_patterns:
+  - center-periphery
+  - matching
+  - removal
+relation_types:
+  - select
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

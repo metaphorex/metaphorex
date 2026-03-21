@@ -27,6 +27,15 @@ transfers:
   - '[source] imports the three-mode taxonomy -- mutualism (both benefit), commensalism (one benefits, other unaffected), parasitism (one benefits at the other''s expense) -- providing a diagnostic vocabulary for classifying partnerships by their actual cost-benefit distribution rather than their stated intentions'
   - '[source] carries the co-evolution principle: symbiotic species evolve in response to each other over generations, transferring the insight that long partnerships reshape the internal structures of both organizations until neither resembles what it was before the relationship'
 updated: '2026-03-21'
+embodied_patterns:
+  - link
+  - balance
+  - flow
+relation_types:
+  - enable
+  - coordinate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers
