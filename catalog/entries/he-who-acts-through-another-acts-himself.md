@@ -24,6 +24,15 @@ transfers:
   - "[paradigm] generates the entire vocabulary of vicarious liability, command responsibility, and organizational accountability by establishing that authority cannot be exercised without accepting consequences for how it is exercised"
   - "[paradigm] structures modern debates about AI accountability by insisting that deploying an autonomous agent does not create a responsibility vacuum -- someone authorized the deployment and inherits its consequences"
 updated: '2026-03-16'
+embodied_patterns:
+  - link
+  - merging
+  - force
+relation_types:
+  - cause
+  - coordinate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

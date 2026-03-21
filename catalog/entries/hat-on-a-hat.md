@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because clothing accessories can actually be layered artfully (scarves over coats, bracelets stacked, rings on multiple fingers), while the metaphor asserts that layering is inherently destructive -- the domain it applies to (comedy writing) is more fragile than the source domain suggests'
   - '[source] misleads by implying that complexity is always a defect, when some of the greatest comedy (Arrested Development, Monty Python) succeeds precisely by stacking conceits in ways that should not work but do'
+embodied_patterns:
+  - superimposition
+  - matching
+  - part-whole
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

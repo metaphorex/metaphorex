@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because kitchen "hands" calls involve physically carrying objects a short distance, while ops swarming requires context-switching into an unfamiliar problem space, which has far higher cognitive overhead'
   - '[source] misleads by assuming all available workers are interchangeable for the task, which holds for carrying plates but fails when the interrupt requires specialized knowledge'
+embodied_patterns:
+  - flow
+  - link
+  - force
+relation_types:
+  - coordinate
+  - restore
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

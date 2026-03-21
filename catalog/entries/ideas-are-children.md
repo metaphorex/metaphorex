@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] misleads by making the thinker''s attachment seem natural and healthy, when over-identification with one''s ideas (treating criticism as an attack on one''s child) is a well-known cognitive bias'
   - '[source] breaks because children grow into autonomous agents who surpass their parents, but ideas do not develop agency -- they require indefinite human stewardship to remain viable'
+embodied_patterns:
+  - container
+  - accretion
+  - path
+relation_types:
+  - cause
+  - enable
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

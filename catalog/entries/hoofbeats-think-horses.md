@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] fails in populations where the base rates are shifted -- in a tropical disease clinic, the "horses" are malaria and dengue, not the common colds of a temperate general practice -- and users who apply the heuristic without recalibrating to their local base rates will systematically miss what is actually common in their context'
   - '[model] produces dangerous errors when the rare condition is time-critical and the common condition is not, because the heuristic delays investigation of the zebra precisely when early detection matters most'
+embodied_patterns:
+  - matching
+  - scale
+  - removal
+relation_types:
+  - select
+  - cause
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -20,6 +20,15 @@ transfers:
 limits:
   - "[law] breaks when the 'hard case' reveals a genuine structural flaw in existing rules rather than an emotional outlier -- some edge cases are not exceptions but evidence that the baseline rule was wrong all along"
   - "[law] misleads by implying that good law can be made without attending to hard cases at all, when in practice stress-testing rules against extreme scenarios is a standard and valuable part of policy design"
+embodied_patterns:
+  - boundary
+  - force
+  - matching
+relation_types:
+  - cause
+  - prevent
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

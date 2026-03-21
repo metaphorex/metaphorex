@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because Icarus is a youth who literally does not know better, while the metaphor is typically applied to experienced adults (CEOs, founders, politicians) whose overreach involves conscious risk-taking rather than naive ignorance"
   - "[source] misleads because it frames all ambitious failure as hubris, making it impossible to distinguish reckless overreach from reasonable risk that happened to fail -- the metaphor has no category for 'flew high and succeeded'"
+embodied_patterns:
+  - scale
+  - path
+  - boundary
+relation_types:
+  - cause
+  - prevent
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

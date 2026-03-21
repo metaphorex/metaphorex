@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] misleads by collapsing qualitatively different positive states (contentment, joy, elation, mania) onto a single vertical axis where they differ only in altitude'
   - '[source] breaks because the metaphor provides no vocabulary for pathological highs -- mania and euphoria are "up" and therefore coded as good, making it difficult to articulate that being too high is dangerous'
+embodied_patterns:
+  - scale
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

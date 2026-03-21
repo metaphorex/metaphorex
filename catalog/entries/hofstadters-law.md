@@ -21,6 +21,15 @@ limits:
   - '[model] breaks because true mathematical self-reference is formally undecidable, while planning errors are empirically measurable and partially correctable through techniques like reference-class forecasting, even if never fully eliminated'
   - '[model] misleads by suggesting infinite regress, which can induce learned helplessness about estimation; in practice, adding one or two meta-levels of buffer (padding the padded estimate) captures most of the bias, and the recursion converges rather than diverging'
 updated: '2026-03-19'
+embodied_patterns:
+  - iteration
+  - scale
+  - path
+relation_types:
+  - cause
+  - accumulate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

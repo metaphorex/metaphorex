@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] misleads by imposing the commodity assumption of standardized units, obscuring the qualitative differences between ideas in the same domain that make them irreducible to exchange value'
   - '[source] breaks because commodities are consumed or used up in exchange, while ideas can be given away without the giver losing them, violating the fundamental scarcity constraint of commodity markets'
+embodied_patterns:
+  - container
+  - link
+  - scale
+relation_types:
+  - cause
+  - accumulate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

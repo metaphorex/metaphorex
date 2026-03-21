@@ -26,6 +26,15 @@ limits:
   - '[source] breaks because physical open spaces have natural capacity limits enforced by area and sightlines, while digital and organizational spaces can be resized arbitrarily, removing the physical constraint that makes the hierarchy legible'
   - '[source] assumes a stable population with shared cultural norms about public and private behavior, but multi-tenant systems and global organizations contain users with conflicting expectations about what "public" and "private" mean at each level'
   - '[source] implies that the hierarchy should be designed top-down and remain fixed, but software scoping and organizational boundaries frequently need to be restructured as usage patterns change'
+embodied_patterns:
+  - scale
+  - container
+  - center-periphery
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

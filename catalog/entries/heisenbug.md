@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] misleads because quantum uncertainty is a fundamental physical limit, while heisenbugs are caused by contingent engineering factors (timing sensitivity, compiler optimizations) that can in principle be controlled'
   - '[source] breaks when the metaphor suggests debugging is impossible rather than merely indirect -- heisenbugs can be found through techniques that don''t disturb execution (static analysis, post-mortem traces), unlike true quantum phenomena'
+embodied_patterns:
+  - surface-depth
+  - matching
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -23,6 +23,15 @@ transfers:
 - '[source] sapwood is the living outer layer that actively transports nutrients and water, mapping onto peripheral activities (sales, partnerships, experimentation) that feed the organization but are individually replaceable'
 - '[source] a tree with all heartwood and no sapwood is dead; a tree with all sapwood and no heartwood collapses under its own weight -- transferring the structural requirement that organizations need both a stable core and active periphery in viable proportion'
 updated: '2026-03-21'
+embodied_patterns:
+  - center-periphery
+  - part-whole
+  - balance
+relation_types:
+  - enable
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

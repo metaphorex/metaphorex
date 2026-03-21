@@ -24,6 +24,15 @@ limits:
 - "[source] Insect colonies -- the biological referent -- have no shared consciousness; coordination emerges from simple individual rules and chemical signaling, not from merged minds"
 - "[source] The hive-mind metaphor frames collective intelligence as requiring the sacrifice of individual autonomy, when real collective intelligence systems (markets, democracies, wikis) often preserve it"
 updated: '2026-03-16'
+embodied_patterns:
+  - merging
+  - link
+  - self-organization
+relation_types:
+  - coordinate
+  - transform
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

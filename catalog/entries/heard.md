@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks in asynchronous environments where the sender and receiver are not co-present in time, because the closed-loop protocol assumes immediate verbal exchange and has no mechanism for delayed acknowledgment'
   - '[source] assumes commands are unambiguous and short enough to echo verbatim, which fails for complex instructions that require interpretation or judgment before meaningful acknowledgment is possible'
+embodied_patterns:
+  - link
+  - iteration
+  - matching
+relation_types:
+  - coordinate
+  - translate
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers
