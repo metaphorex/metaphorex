@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because physical links are bidirectional (A connects to B and B to A), while symlinks are purely one-directional -- the target does not know the link exists, making ''link'' misleading about mutual connection'
   - '[source] misleads because hard links are not connections between two things but two names for the same thing -- there is no ''link'' object to inspect, and calling this a link imports separation where there is actually identity'
+embodied_patterns:
+  - link
+  - matching
+  - path
+relation_types:
+  - translate
+  - enable
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

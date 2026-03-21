@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because states are not discrete locations -- a person can be simultaneously anxious and excited, but the location metaphor struggles with mixed states since you cannot be in two places at once'
   - '[source] misleads because the metaphor makes states feel external (you visit depression rather than being depression), which can be therapeutically useful but misrepresents states as places separate from the self'
+embodied_patterns:
+  - container
+  - path
+  - boundary
+relation_types:
+  - contain
+  - transform
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

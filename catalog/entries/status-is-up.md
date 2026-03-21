@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because not all social position is vertical -- caste systems and professional specializations create lateral distinctions that share no single up-down axis, and the metaphor cannot represent parallel hierarchies'
   - '[source] misleads because the mapping reinforces meritocracy by aligning high status with GOOD IS UP -- those at the top seem implicitly deserving, providing cognitive scaffolding for the just-world hypothesis while structural inequality becomes invisible'
+embodied_patterns:
+  - scale
+  - force
+  - center-periphery
+relation_types:
+  - cause
+  - compete
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

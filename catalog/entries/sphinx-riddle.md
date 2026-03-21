@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because the riddle is trivially easy in retrospect (the difficulty is reframing, not computation), making the metaphor better suited to insight problems than to genuinely hard problems that remain difficult even after you understand them'
   - '[source] misleads because the myth suppresses the sequel -- Oedipus''s reward for solving the riddle was the throne and marriage to his mother, meaning the intellectual triumph led directly to catastrophe, a detail the celebratory use of the metaphor always drops'
+embodied_patterns:
+  - matching
+  - boundary
+  - force
+relation_types:
+  - select
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

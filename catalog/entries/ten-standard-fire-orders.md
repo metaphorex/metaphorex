@@ -23,6 +23,15 @@ transfers:
   - '[model] encodes a withdrawal doctrine — orders 7-10 mandate escape routes, lookouts, and the authority to refuse engagement — establishing that disciplined retreat is a first-class decision, not a failure mode'
   - '[model] separates the decision to engage from the decision to persist by requiring continuous re-evaluation ("base all actions on current and expected fire behavior"), so that initial commitment does not become an escalation trap'
 updated: '2026-03-20'
+embodied_patterns:
+  - part-whole
+  - matching
+  - path
+relation_types:
+  - prevent
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

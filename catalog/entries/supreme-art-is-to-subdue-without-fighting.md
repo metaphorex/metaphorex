@@ -26,6 +26,15 @@ limits:
   - '[model] breaks when the opponent''s objectives are genuinely incompatible with yours and no amount of repositioning can create an acceptable equilibrium -- some conflicts are irreducibly zero-sum, and the maxim provides no guidance for cases where fighting is actually necessary'
   - '[model] misleads by implying that bloodless victory is always achievable given sufficient strategic skill, which can produce paralysis through endless positioning and preparation when decisive action would resolve the situation at lower total cost'
   - '[model] assumes rational opponents who respond to incentive structures and deterrence signals, failing in contexts where opponents are ideologically committed, internally fractured, or operating under decision-making pathologies that make them immune to the cost-benefit calculations the model requires'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - prevent
+  - transform
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

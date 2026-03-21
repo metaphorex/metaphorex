@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because the spice's properties are supernatural -- extending life, enabling prescience, folding space -- while real scarce resources have mundane, well-understood physical properties"
   - "[source] misleads because Dune's spice has no substitute at all, while real scarce resources (oil, rare earths, lithium) face competition from alternatives, efficiency gains, and substitution effects that the metaphor's absolute dependency obscures"
+embodied_patterns:
+  - flow
+  - scale
+  - container
+relation_types:
+  - enable
+  - compete
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ transfers:
 - '[source] frames the structural engineer as subordinate to the social architect, importing the principle that technical decisions should follow human-interaction decisions rather than the reverse'
 - '[source] predicts that when structural boundaries cut across social groups -- a wall bisecting a team''s natural gathering area -- dysfunction follows, because the structure forces communication through narrow channels that the social reality does not respect'
 updated: '2026-03-19'
+embodied_patterns:
+  - matching
+  - container
+  - part-whole
+relation_types:
+  - coordinate
+  - cause
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

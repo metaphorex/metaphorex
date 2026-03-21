@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because the metaphor privileges geometric regularity as a model of well-being, but many healthy states are irregular -- a healthy ecosystem is messy, a creative mind unpredictable -- importing an aesthetic preference and presenting it as universal criterion'
   - '[source] misleads because shaping implies passivity of the shaped -- ''she was shaped by her environment'' frames the person as clay rather than sculptor, minimizing agency in self-determined states'
+embodied_patterns:
+  - container
+  - matching
+  - boundary
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

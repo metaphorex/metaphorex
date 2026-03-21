@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because subjects do not have fixed borders -- the boundary between psychology and neuroscience is contested and shifting, and interdisciplinary work reveals that supposedly separate territories were always the same land'
   - '[source] misleads because the metaphor privileges vertical descent (depth equals expertise) and treats breadth as superficiality, providing no vocabulary for the value of synthesis at the intersection of fields'
+embodied_patterns:
+  - container
+  - boundary
+  - near-far
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

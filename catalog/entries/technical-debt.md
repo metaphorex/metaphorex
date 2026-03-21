@@ -25,6 +25,15 @@ limits:
   - "[source] breaks because financial debt has a quantifiable principal and interest rate, but code shortcuts have no measurable units that aggregate"
   - "[source] misleads because debt implies a creditor who demands repayment, but no external party forces teams to refactor"
   - "[source] obscures that paying off financial debt produces relief, but refactoring rarely delivers a comparable payoff moment"
+embodied_patterns:
+  - accretion
+  - balance
+  - scale
+relation_types:
+  - accumulate
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

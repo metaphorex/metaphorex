@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because food stretching has a clear sensory test -- the diner either tastes the original ingredient or doesn''t -- while in knowledge work, the equivalent of "can you still taste it?" is subjective and often contested'
   - '[source] misleads by framing constraint as a virtue, when in many domains stretching is a symptom of underinvestment rather than resourcefulness -- calling budget cuts "stretching" can disguise organizational failure as culinary craft'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

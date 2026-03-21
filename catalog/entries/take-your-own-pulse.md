@@ -28,6 +28,15 @@ limits:
   - '[source] In emergency medicine the pulse check takes two seconds and does not delay treatment, but the metaphorical pause the aphorism recommends can be genuinely costly in time-critical situations where speed of response determines outcomes -- the metaphor understates the real tradeoff between composure and urgency'
   - '[source] The aphorism assumes the physician has the self-awareness to interpret their own pulse correctly, but the conditions that elevate the pulse (adrenaline, fear, cognitive overload) are precisely the conditions that impair self-assessment -- the tool is least reliable when most needed'
 updated: '2026-03-20'
+embodied_patterns:
+  - matching
+  - iteration
+  - balance
+relation_types:
+  - enable
+  - restore
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

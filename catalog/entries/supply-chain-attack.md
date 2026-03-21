@@ -26,6 +26,15 @@ transfers:
 - "[source] imports the principle that contamination at any single link in the chain propagates to all downstream recipients, structuring how practitioners reason about transitive trust failure in package ecosystems"
 - "[source] carries the logistics concept of chain-of-custody -- the idea that provenance must be verifiable at every handoff -- onto software artifact signing, SBOMs, and reproducible builds"
 updated: '2026-03-18'
+embodied_patterns:
+  - flow
+  - link
+  - boundary
+relation_types:
+  - compete
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

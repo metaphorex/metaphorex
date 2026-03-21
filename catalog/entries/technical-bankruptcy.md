@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because financial bankruptcy has legal protections (automatic stay, discharge) that shield the debtor, but a codebase rewrite offers no protection from continued feature demands during the rebuild"
   - "[source] misleads because bankruptcy implies an external judgment (a court declares you bankrupt), but technical bankruptcy is self-diagnosed with no objective threshold"
+embodied_patterns:
+  - scale
+  - balance
+  - removal
+relation_types:
+  - accumulate
+  - transform
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

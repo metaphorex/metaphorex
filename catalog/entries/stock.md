@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because tally sticks recorded fixed debts owed by specific debtors, while modern stocks represent fractional ownership of an ongoing enterprise with no fixed repayment -- the wood recorded what was owed, but equity represents what is owned, a fundamentally different financial relationship"
   - "[source] misleads because the tally stick system required physical reunion of the two halves to settle a debt, while modern stock transactions are settled through abstract clearing systems with no physical pairing -- the tangible verification that made the original system trustworthy has been entirely replaced by institutional trust"
+embodied_patterns:
+  - accretion
+  - container
+  - flow
+relation_types:
+  - accumulate
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

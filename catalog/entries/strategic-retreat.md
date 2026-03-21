@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] the military logic assumes the retreating force retains cohesion and discipline during withdrawal, which breaks when retreat triggers panic -- in organizations, announcing a "strategic retreat" can collapse morale and accelerate the very disintegration it was meant to prevent'
   - '[source] the original requires a defined rally point where the retreating force will stop and reconstitute, but organizational uses often label any abandonment "strategic" retroactively without specifying where the retreat ends or what the next move is'
+embodied_patterns:
+  - path
+  - force
+  - near-far
+relation_types:
+  - prevent
+  - enable
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

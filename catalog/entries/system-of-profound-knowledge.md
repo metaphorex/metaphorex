@@ -27,6 +27,15 @@ transfers:
 limits:
   - "[paradigm] demands integration of four disciplines but provides no method for resolving conflicts between them -- when systems appreciation recommends one action and psychology recommends another, the framework offers no tiebreaker"
   - "[paradigm] sets an unrealistically high bar for management competence, requiring expertise in statistics, epistemology, psychology, and systems theory that few practicing managers can realistically achieve"
+embodied_patterns:
+  - part-whole
+  - link
+  - iteration
+relation_types:
+  - coordinate
+  - transform
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 - '[source] imports the principle that the deputy must be able to run any station personally, not merely manage it administratively -- competence is demonstrated by doing, not by delegating'
 - '[source] frames the sous chef as a communication bridge who absorbs the head chef''s vision and renders it into specific, actionable instructions for each station, importing the idea that translation between levels of abstraction is a distinct and valuable skill'
 updated: '2026-03-19'
+embodied_patterns:
+  - center-periphery
+  - link
+  - part-whole
+relation_types:
+  - coordinate
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

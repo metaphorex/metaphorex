@@ -20,6 +20,15 @@ transfers:
 limits:
   - "[model] breaks when demand is highly variable or unpredictable, because the single-ratio calculation assumes stable demand over the planning period -- recalculating takt daily defeats the purpose of establishing a steady rhythm"
   - "[model] misleads in knowledge work because it implies tasks are decomposable into uniform time increments, while creative and analytical work has inherently variable completion times that resist rhythmic pacing"
+embodied_patterns:
+  - iteration
+  - balance
+  - flow
+relation_types:
+  - coordinate
+  - prevent
+structure: equilibrium
+abstraction_level: specific
 ---
 
 ## Transfers

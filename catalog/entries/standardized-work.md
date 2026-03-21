@@ -22,6 +22,15 @@ transfers:
   - "[model] without a standard, observed variation cannot be classified as signal or noise, making systematic improvement impossible"
   - "[model] the standard is expected to change -- it is a snapshot of current best practice, not a permanent rule, and updating it is the purpose of the system"
 updated: '2026-03-18'
+embodied_patterns:
+  - matching
+  - iteration
+  - path
+relation_types:
+  - coordinate
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers
