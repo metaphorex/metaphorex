@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because applause in a comedy room is not always political agreement -- audiences also clap for virtuosic callbacks, surprising act-outs, and moments of emotional honesty, none of which involve ideological validation'
   - '[source] misleads by implying a clean binary between laughter and applause, when live comedy audiences routinely produce hybrid responses (laughing while clapping, groaning and then clapping) that the portmanteau cannot distinguish'
+embodied_patterns:
+  - matching
+  - splitting
+  - surface-depth
+relation_types:
+  - select
+  - compete
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

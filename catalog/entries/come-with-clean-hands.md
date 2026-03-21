@@ -26,6 +26,16 @@ limits:
   - "[source] asymmetric contamination logic means a single drop of wrongdoing can void an otherwise valid claim, importing purity's all-or-nothing threshold where proportionality is needed"
   - "[source] the washing metaphor trivializes moral rehabilitation -- handwashing is quick and complete, but genuine behavioral change is uncertain, partial, and unverifiable"
   - "[source] places the stain on individual hands while obscuring systemic or institutional conditions that shaped the conduct being judged"
+embodied_patterns:
+  - surface-depth
+  - container
+  - boundary
+relation_types:
+  - prevent
+  - select
+  - cause
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

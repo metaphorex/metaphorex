@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because the bread etymology is wheat-centric and Mediterranean, invisible to cultures whose staple is rice, maize, or millet'
   - '[source] misleads because "company" has drifted from bread-sharing fellowship to a legal entity maximizing shareholder value, the warmth fully bleached out'
+embodied_patterns:
+  - near-far
+  - link
+  - merging
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

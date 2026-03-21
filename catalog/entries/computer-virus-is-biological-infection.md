@@ -23,6 +23,18 @@ transfers:
 limits:
   - "[source] breaks because biological viruses evolve through undirected mutation and natural selection, while computer viruses are deliberately authored artifacts with intentional design"
   - "[source] misleads because biological infection implies the host is a passive victim, but computer infection typically requires the user to execute an action -- opening a file, clicking a link -- that activates the payload"
+embodied_patterns:
+  - flow
+  - iteration
+  - container
+relation_types:
+  - cause
+  - transform
+  - compete
+structure:
+  - network
+  - growth
+abstraction_level: specific
 ---
 
 ## Transfers

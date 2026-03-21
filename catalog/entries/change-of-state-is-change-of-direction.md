@@ -27,6 +27,15 @@ limits:
 - "[source] breaks because a traveler changing direction remains the same traveler on the same path, but many state changes transform the entity itself -- a company that pivots may become unrecognizable, not merely redirected"
 - "[source] misleads because direction implies a single axis of variation, while real state changes often involve simultaneous shifts across multiple independent dimensions that cannot be reduced to a turn on a plane"
 updated: '2026-03-17'
+embodied_patterns:
+  - path
+  - near-far
+  - blockage
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

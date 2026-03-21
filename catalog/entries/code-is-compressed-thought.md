@@ -20,6 +20,16 @@ transfers:
 limits:
   - "[source] breaks because literary compression is resolved by human interpretation using cultural knowledge, while code compression is resolved by a compiler using mechanical rules -- the failure modes are categorically different"
   - "[source] misleads because compressed literary text (poetry, aphorism) is valued for its ambiguity and multiple readings, but compressed code that admits multiple interpretations is a bug, not a virtue"
+embodied_patterns:
+  - surface-depth
+  - part-whole
+  - link
+relation_types:
+  - translate
+  - decompose
+  - accumulate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

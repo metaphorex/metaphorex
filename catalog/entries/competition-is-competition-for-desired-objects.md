@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because many competitive goods (knowledge, reputation, network effects) are not diminished by sharing, violating the scarcity assumption'
   - '[source] misleads because the object is assumed static, but real competitive prizes transform during the contest -- the market opportunity that existed at the start may be unrecognizable by the time someone "grasps" it'
+embodied_patterns:
+  - near-far
+  - force
+  - attraction
+relation_types:
+  - compete
+  - select
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

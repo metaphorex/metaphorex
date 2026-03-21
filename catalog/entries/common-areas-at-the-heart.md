@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks in buildings where the center is structurally constrained (load-bearing cores, elevator shafts), forcing common areas to the periphery regardless of the designer''s intent'
   - '[source] misleads by implying that physical centrality automatically produces social centrality -- a common room at the heart of a building can still be empty if it offers no reason to linger'
+embodied_patterns:
+  - center-periphery
+  - flow
+  - path
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

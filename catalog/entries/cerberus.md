@@ -24,6 +24,16 @@ transfers:
 limits:
   - '[source] breaks because Cerberus is a single entity whose defeat grants unrestricted access, while real security systems are layered so that bypassing one checkpoint does not disable all subsequent ones'
   - '[source] misleads by personifying access control as a conscious guardian with judgment, when most real access control is automated rules-based processing without discretion'
+embodied_patterns:
+  - boundary
+  - container
+  - force
+relation_types:
+  - prevent
+  - contain
+  - select
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -5,6 +5,7 @@ categories:
 - systems-thinking
 contributors: []
 created: '2026-03-13'
+harness: Claude Code
 kind: mental-model
 name: Comparative Advantage
 provenance: munger-poor-charlies-almanack
@@ -12,13 +13,23 @@ related:
 - survival-of-the-fittest
 - the-map-is-not-the-territory
 slug: comparative-advantage
-updated: '2026-03-13'
+updated: '2026-03-21'
 transfers:
   - "[model] reframes 'I can do this better than anyone' from a reason to do it into a reason to delegate, by measuring opportunity cost rather than absolute capability"
   - "[model] provides a rational basis for letting someone less skilled handle a task, since the question is not 'can they do it as well?' but 'does my doing it cost more in foregone alternatives?'"
 limits:
   - "[model] breaks because the model is static and assumes stable advantages, while in practice advantages shift rapidly -- specializing based on current comparative advantage can lock you into a position that becomes obsolete"
   - "[model] misleads because it reduces people to production functions, ignoring preferences, aspirations, and the need for variety and growth -- a CEO who loves coding and hates strategy will not perform well if forced into pure specialization"
+embodied_patterns:
+  - balance
+  - scale
+  - boundary
+relation_types:
+  - select
+  - coordinate
+  - enable
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

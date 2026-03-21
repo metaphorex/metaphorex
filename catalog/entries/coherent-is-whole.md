@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because coherence is not truth -- a perfectly whole object can be useless, and conspiracy theories cohere beautifully'
   - '[source] misleads because productive intellectual tensions like dialectics get treated as cracks that need repair rather than features that generate power'
+embodied_patterns:
+  - part-whole
+  - link
+  - matching
+relation_types:
+  - coordinate
+  - cause
+structure: equilibrium
+abstraction_level: primitive
 ---
 
 ## Transfers

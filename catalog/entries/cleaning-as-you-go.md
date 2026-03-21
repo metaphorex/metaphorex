@@ -24,6 +24,16 @@ limits:
   - '[source] breaks because kitchen mess is visible and physical (a dirty station is immediately obvious to anyone), while code mess is abstract and invisible until someone reads the code, making the feedback loop much weaker in software'
   - '[source] misleads because professional kitchens clean to a known standard (health code compliance, mise en place reset), while "clean code" is subjective and contested, so "clean as you go" in software lacks the objective stopping criterion that makes it workable in kitchens'
 updated: '2026-03-19'
+embodied_patterns:
+  - removal
+  - iteration
+  - flow
+relation_types:
+  - restore
+  - prevent
+  - coordinate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

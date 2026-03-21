@@ -24,6 +24,15 @@ limits:
   - "[source] breaks because real clouds have no owner, no operator, and no billing department, while cloud computing runs on privately owned infrastructure with specific physical locations"
   - "[source] misleads because clouds are weightless and immaterial, hiding the enormous energy consumption, water usage, and hardware footprint of data centers"
   - "[source] obscures that clouds in nature are local weather phenomena, while cloud computing spans continents with precisely routed traffic between specific facilities"
+embodied_patterns:
+  - container
+  - surface-depth
+  - scale
+relation_types:
+  - contain
+  - translate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

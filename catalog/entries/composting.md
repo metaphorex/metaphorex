@@ -27,6 +27,18 @@ limits:
   - '[source] breaks because composting transforms waste into a generic, undifferentiated product (humus), while creative recombination typically produces something specific and structured -- the metaphor suggests fertile ground but not the specific plant that grows from it'
   - '[source] misleads by implying that all old material eventually becomes useful if you wait long enough, when in practice much discarded intellectual material is genuinely worthless and no amount of decomposition yields insight'
   - '[source] the agricultural process is passive once conditions are set (the microbes do the work), but creative integration of old ideas typically requires active, deliberate effort -- the metaphor underestimates the labor of synthesis'
+embodied_patterns:
+  - self-organization
+  - accretion
+  - removal
+relation_types:
+  - transform
+  - accumulate
+  - restore
+structure:
+  - cycle
+  - transformation
+abstraction_level: generic
 ---
 
 ## Transfers

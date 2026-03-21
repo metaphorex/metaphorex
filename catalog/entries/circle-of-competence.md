@@ -22,6 +22,16 @@ transfers:
 limits:
   - "[model] breaks because real expertise has fractal boundaries with peninsulas and bays, not the smooth continuous edge the circle implies"
   - "[model] misleads because the model requires accurate self-assessment of the boundary, but the Dunning-Kruger effect means competence is least reliable precisely where it ends"
+embodied_patterns:
+  - boundary
+  - container
+  - center-periphery
+relation_types:
+  - contain
+  - prevent
+  - select
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

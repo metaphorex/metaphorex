@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because smell implies contamination and rot, moralizing code quality as dirtiness rather than enabling neutral discussion'
   - '[source] misleads because olfactory judgment is inherently qualitative, implicitly devaluing automated measurement and formal analysis'
+embodied_patterns:
+  - surface-depth
+  - matching
+  - scale
+relation_types:
+  - select
+  - cause
+structure: emergence
+abstraction_level: specific
 ---
 
 ## Transfers

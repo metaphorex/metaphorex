@@ -24,6 +24,18 @@ transfers:
   - "[paradigm] imports the insight that the deputy's own credentials are the weapon -- the attacker never needs to steal keys because the deputy willingly uses its own, reframing the vulnerability as inherent to delegation itself"
   - "[paradigm] carries the implication that the deputy acts in good faith, making the attack invisible to audit trails that only check whether the authorized entity performed the action"
 updated: '2026-03-18'
+embodied_patterns:
+  - boundary
+  - link
+  - force
+relation_types:
+  - enable
+  - cause
+  - contain
+structure:
+  - hierarchy
+  - boundary
+abstraction_level: specific
 ---
 
 ## Transfers

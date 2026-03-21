@@ -26,6 +26,15 @@ transfers:
 - '[source] imports Alexander''s diagnosis that elevated or disconnected buildings feel alienating, framing excessive abstraction layers as the software equivalent of a building on stilts that has lost touch with its terrain'
 - '[source] structures the insight that the connection must be direct and continuous, not symbolic -- a building with a glass floor over the earth is not grounded, just as a system that logs metrics but never surfaces them to operators is not truly observable'
 updated: '2026-03-19'
+embodied_patterns:
+  - surface-depth
+  - near-far
+  - link
+relation_types:
+  - enable
+  - cause
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

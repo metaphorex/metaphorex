@@ -27,6 +27,16 @@ transfers:
 limits:
   - '[source] physical connections between buildings are permanent and expensive to modify, whereas software integrations can be added, reconfigured, or severed at deployment time with no structural demolition'
   - '[source] connecting buildings creates shared load paths where structural failure can propagate across the connection, but the pattern presents connection as purely beneficial without addressing this coupling risk'
+embodied_patterns:
+  - link
+  - path
+  - boundary
+relation_types:
+  - coordinate
+  - enable
+  - contain
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

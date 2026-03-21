@@ -27,6 +27,15 @@ limits:
   - '[source] breaks because military collateral damage presupposes a defined target and a weapon with a blast radius, but most organizational "collateral damage" (layoffs, policy changes, platform deprecations) has no defined blast radius -- the harm propagates through networks in ways the decision-maker cannot predict or bound'
   - '[source] the military frame assumes damage is assessed after the strike by an external authority (JAG review, war-crimes tribunal), but organizational collateral damage is typically assessed by the same people who authorized the action, collapsing the distinction between actor and auditor'
   - '[source] misleads by importing the assumption that the primary target was legitimate and the harm was truly unintended, providing rhetorical cover for decisions where the harm to bystanders was foreseeable and accepted in advance rather than accidental'
+embodied_patterns:
+  - center-periphery
+  - force
+  - near-far
+relation_types:
+  - cause
+  - transform
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

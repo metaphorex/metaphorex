@@ -23,6 +23,16 @@ transfers:
 limits:
   - "[source] breaks because the archetype assumes a single irreplaceable individual, while real systemic challenges typically require distributed effort and institutional capacity rather than individual heroism"
   - "[source] misleads because the narrative erases the support structure -- the chosen one's companions, mentors, and institutional backing -- attributing collective achievement to singular destiny"
+embodied_patterns:
+  - center-periphery
+  - force
+  - scale
+relation_types:
+  - select
+  - cause
+  - enable
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

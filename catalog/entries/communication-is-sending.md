@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because meaning is constructed by the receiver, not unpacked from a pre-formed package -- two recipients build different meanings from identical cues'
   - '[source] misleads because the sending model is one-directional, making dialogue and collaborative meaning-making look like alternating shipments rather than a joint activity'
+embodied_patterns:
+  - container
+  - path
+  - flow
+relation_types:
+  - cause
+  - translate
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

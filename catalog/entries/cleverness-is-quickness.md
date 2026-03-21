@@ -25,6 +25,15 @@ transfers:
 - "[source] agility allows quick changes of direction in response to obstacles"
 - "[source] nimbleness involves light, precise movements rather than heavy, labored ones"
 updated: '2026-03-16'
+embodied_patterns:
+  - path
+  - flow
+  - scale
+relation_types:
+  - cause
+  - translate
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

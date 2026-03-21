@@ -26,6 +26,16 @@ transfers:
 limits:
   - '[source] breaks because war aims to destroy the enemy, but healthy markets need competitors and monopoly is often dysfunction, not victory'
   - '[source] misleads because the zero-sum logic of war obscures positive-sum competition where two rivals can expand a shared market'
+embodied_patterns:
+  - force
+  - boundary
+  - near-far
+relation_types:
+  - compete
+  - cause
+  - contain
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

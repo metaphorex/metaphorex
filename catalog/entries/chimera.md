@@ -25,6 +25,15 @@ limits:
   - "[source] misleads because the myth treats hybridity as monstrous and requiring destruction, while biological chimerism is a neutral or even beneficial phenomenon (bone marrow transplants, fetal microchimerism)"
   - "[source] obscures because the three-part animal structure implies a fixed, small number of incompatible components, while many modern uses refer to continuous blending or infinite recombination"
 updated: '2026-03-16'
+embodied_patterns:
+  - merging
+  - part-whole
+  - superimposition
+relation_types:
+  - transform
+  - compete
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers
