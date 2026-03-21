@@ -18,6 +18,15 @@ related:
 slug: disgust-is-nausea
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - container
+  - removal
+  - force
+relation_types:
+  - cause
+  - prevent
+structure: boundary
+abstraction_level: primitive
 transfers:
   - '[source] the emetic reflex operates involuntarily to expel toxic substances, mapping moral rejection as an urgent bodily imperative rather than a deliberate judgment'
   - '[source] contamination spreads through physical contact, importing contagion logic where proximity to the disgusting thing is itself a form of pollution'

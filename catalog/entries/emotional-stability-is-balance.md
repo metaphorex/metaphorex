@@ -20,6 +20,15 @@ related:
 slug: emotional-stability-is-balance
 source_frame: embodied-experience
 updated: '2026-03-14'
+embodied_patterns:
+  - balance
+  - force
+  - center-periphery
+relation_types:
+  - restore
+  - cause
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] the body''s vestibular experience of maintaining equilibrium against gravity maps onto psychological composure, so that emotional health is standing upright with a stable center of gravity and emotional crisis is tipping and toppling'
   - '[source] external events that cause emotional distress map onto forces that knock the body off balance (threw me, shook me, knocked me sideways), externalizing the cause of disturbance as a push from outside'

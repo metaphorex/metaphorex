@@ -15,6 +15,15 @@ dead: false
 created: '2026-03-17'
 updated: '2026-03-17'
 harness: Claude Code
+embodied_patterns:
+  - container
+  - scale
+  - accretion
+relation_types:
+  - contain
+  - accumulate
+structure: growth
+abstraction_level: specific
 transfers:
   - "[source] the Dyson sphere captures the entire energy output of a star, representing the logical endpoint of energy harvesting scaled to its maximum possible extent"
   - "[source] the structure requires disassembling existing planets for raw material, making construction itself an act of radical transformation of the existing environment"

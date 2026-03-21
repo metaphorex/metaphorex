@@ -26,6 +26,17 @@ transfers:
 - '[source] imports the distinction between fundamental niche (where an organism could survive) and realized niche (where it actually lives after competition), reframing the gap between a company''s theoretical addressable market and its actual competitive position'
 - '[source] carries competitive exclusion -- two species occupying identical niches cannot coexist indefinitely -- as a structural prediction about undifferentiated competitors'
 updated: '2026-03-21'
+embodied_patterns:
+  - container
+  - boundary
+  - matching
+relation_types:
+  - compete
+  - contain
+structure:
+  - boundary
+  - competition
+abstraction_level: generic
 ---
 
 ## Transfers

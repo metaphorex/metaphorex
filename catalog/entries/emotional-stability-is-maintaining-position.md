@@ -20,6 +20,15 @@ related:
 slug: emotional-stability-is-maintaining-position
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - balance
+  - near-far
+relation_types:
+  - restore
+  - prevent
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] emotional stability is spatial fixity -- holding your ground, staying in a good place -- so that the stable person resists forces that would relocate them while the unstable person is displaced against their will'
   - '[source] emotional disturbance is not a fall (as in the balance variant) but a relocation -- being carried away, swept up, beside oneself -- giving instability a destination rather than just a direction (down)'

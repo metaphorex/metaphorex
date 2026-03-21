@@ -18,6 +18,15 @@ provenance: scheins-surgical-aphorisms
 created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
+embodied_patterns:
+  - balance
+  - force
+  - self-organization
+relation_types:
+  - prevent
+  - restore
+structure: equilibrium
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - '[source] the physician actively monitors a patient while withholding intervention, importing the structure where restraint is a deliberate clinical skill requiring more judgment than action rather than a passive absence of effort'

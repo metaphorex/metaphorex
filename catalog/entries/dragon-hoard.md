@@ -16,6 +16,15 @@ related:
 created: '2026-03-16'
 updated: '2026-03-16'
 harness: Claude Code
+embodied_patterns:
+  - container
+  - accretion
+  - boundary
+relation_types:
+  - accumulate
+  - prevent
+structure: boundary
+abstraction_level: specific
 transfers:
   - "[source] the dragon accumulates treasure far beyond any capacity to use it, making the hoard's value consist entirely in possession rather than exchange or consumption"
   - "[source] the hoard is defended with lethal force disproportionate to any threat, so the cost of guarding exceeds any plausible return on the stored wealth"

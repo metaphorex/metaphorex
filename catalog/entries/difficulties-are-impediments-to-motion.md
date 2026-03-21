@@ -22,6 +22,15 @@ related:
 slug: difficulties-are-impediments-to-motion
 source_frame: embodied-experience
 updated: '2026-03-14'
+embodied_patterns:
+  - blockage
+  - path
+  - force
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: primitive
 transfers:
   - '[source] problems are solid objects positioned on a defined path, making them feel concrete, locatable, and addressable before forward motion can resume'
   - '[source] some impediments slow the traveler (burdens, rough terrain) rather than blocking completely, mapping chronic difficulties as degraded environmental conditions'

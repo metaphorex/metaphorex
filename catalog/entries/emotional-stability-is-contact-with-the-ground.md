@@ -19,6 +19,15 @@ related:
 slug: emotional-stability-is-contact-with-the-ground
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - balance
+  - surface-depth
+  - force
+relation_types:
+  - restore
+  - enable
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] emotional stability maps onto the body''s relationship to the surface beneath it -- feet planted on solid earth -- making stability a relational property (contact with something firm) rather than an internal property (center of gravity)'
   - '[source] emotional upheaval maps onto geological disruption (earth-shattering, foundations shaken, world crumbled), so that catastrophic life events are disasters that destroy the very surface a person stands on'

@@ -20,6 +20,15 @@ related:
 slug: emotions-are-forces
 source_frame: physics
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - balance
+  - path
+relation_types:
+  - cause
+  - compete
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] emotions act on a person the way physical forces act on bodies -- pushing, pulling, pressing, driving -- so that being in the grip of emotion is being subject to a vector quantity with magnitude and direction'
   - '[source] emotional overwhelm maps onto being overpowered by a force that exceeds one''s capacity to resist, importing the physics of force balance where composure holds only while the restraining force exceeds the emotional force'

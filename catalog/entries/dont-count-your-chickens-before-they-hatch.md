@@ -27,6 +27,15 @@ transfers:
 - '[source] imports the farmer''s experience that some eggs are infertile, some embryos die, and some chicks fail to pip, teaching that each step in a chain of dependent events has its own failure probability'
 - '[source] carries the social dimension of appearing foolish -- a farmer who boasts about a large flock before hatching is publicly humiliated by a poor hatch -- mapping agricultural prudence onto reputational risk in forecasting'
 updated: '2026-03-20'
+embodied_patterns:
+  - path
+  - iteration
+  - scale
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

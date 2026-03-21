@@ -29,6 +29,15 @@ transfers:
   - '[source] carries the property that the joint resists being pulled apart in the direction of the tails (perpendicular to the joint line) while remaining assemblable along the joint line, teaching that well-fitted plans have a directionality -- they hold under the stresses they were designed for'
   - '[source] imports the visible evidence of craftsmanship: a dovetail joint is exposed and decorative, signaling that the connection was made with skill, mapping onto the idea that elegant coordination between plans is itself a mark of quality work'
 updated: '2026-03-19'
+embodied_patterns:
+  - matching
+  - merging
+  - link
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

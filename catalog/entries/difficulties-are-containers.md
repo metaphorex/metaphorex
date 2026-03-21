@@ -19,6 +19,15 @@ related:
 slug: difficulties-are-containers
 source_frame: containers
 updated: '2026-03-12'
+embodied_patterns:
+  - container
+  - boundary
+  - surface-depth
+relation_types:
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: primitive
 transfers:
   - '[source] a container has an interior, walls, and depth, so being inside a difficulty means experiencing constraints from every direction, not just ahead on a path'
   - '[source] falling into a container is often involuntary, mapping the onset of trouble as a boundary-crossing accident rather than a chosen entry'

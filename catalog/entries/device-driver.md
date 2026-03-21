@@ -16,6 +16,15 @@ created: '2026-03-17'
 updated: '2026-03-17'
 harness: Claude Code
 grounding: established
+embodied_patterns:
+  - boundary
+  - link
+  - matching
+relation_types:
+  - translate
+  - enable
+structure: boundary
+abstraction_level: specific
 transfers:
   - "[source] a driver is an agent with specialized knowledge who operates a vehicle or machine on behalf of passengers who lack that expertise"
   - "[source] the driver translates the passenger's intent (go to this destination) into the specific operational steps the vehicle requires"

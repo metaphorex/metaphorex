@@ -17,6 +17,15 @@ related:
 slug: duck-typing
 source_frame: folk-taxonomy
 updated: '2026-03-14'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - boundary
+relation_types:
+  - select
+  - translate
+structure: boundary
+abstraction_level: generic
 transfers:
   - '[source] identity is constituted by observable behavior rather than declared lineage, so that an entity''s classification depends on what it does (walks, quacks, swims) not what it was born as'
   - '[source] the folk-taxonomic test groups entities by surface behavioral markers rather than by phylogenetic or formal hierarchies, making classification cheap and immediate but shallow'

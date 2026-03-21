@@ -20,6 +20,15 @@ related:
 slug: emotional-self-is-a-brittle-object
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - balance
+  - boundary
+relation_types:
+  - cause
+  - transform
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] the emotional self inherits the physics of brittle materials -- a breaking point, irreversible fracture, sudden catastrophic failure -- making emotional devastation feel like a structural event rather than a gradual process'
   - '[source] emotional vulnerability maps onto proximity to the breaking point, so that a fragile person requires minimized force (handle with care) and emotional recovery is the work of reassembling fragments (picking up the pieces)'

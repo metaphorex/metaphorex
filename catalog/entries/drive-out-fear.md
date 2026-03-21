@@ -15,6 +15,17 @@ related:
 created: '2026-03-18'
 updated: '2026-03-18'
 grounding: established
+embodied_patterns:
+  - blockage
+  - flow
+  - force
+relation_types:
+  - prevent
+  - enable
+structure:
+  - cycle
+  - hierarchy
+abstraction_level: generic
 transfers:
   - "[law] predicts that fear in an organization produces systematic information distortion -- problems are hidden, numbers are inflated, bad news is delayed -- because rational actors will not volunteer information that might be used against them"
   - "[law] predicts that quality initiatives, process improvements, and organizational learning will fail in fearful environments regardless of their technical merit, because the prerequisite for improvement is accurate information about current failures"

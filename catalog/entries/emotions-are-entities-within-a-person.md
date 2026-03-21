@@ -19,6 +19,15 @@ related:
 slug: emotions-are-entities-within-a-person
 source_frame: containers
 updated: '2026-03-14'
+embodied_patterns:
+  - container
+  - surface-depth
+  - force
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 transfers:
   - '[source] the person is a container and emotions are independent entities inside it -- feelings rise up, well up, bubble to the surface, or lurk in the depths -- giving emotions spatial location and autonomous motion within the body'
   - '[source] emotional regulation maps onto containment: suppressing emotions is holding them down, losing control is having them burst out, and catharsis is releasing accumulated pressure from the container'

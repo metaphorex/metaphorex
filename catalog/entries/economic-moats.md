@@ -13,6 +13,15 @@ related:
 slug: economic-moats
 source_frame: war
 updated: '2026-03-13'
+embodied_patterns:
+  - boundary
+  - center-periphery
+  - scale
+relation_types:
+  - prevent
+  - compete
+structure: boundary
+abstraction_level: generic
 transfers:
   - "[model] width determines durability -- a narrow moat can be crossed with a plank while a wide one requires siege engineering, making structural advantage a function of how much investment competitors must make just to reach the walls"
   - "[model] moats must be actively maintained because a real moat silts up without dredging, reframing competitive advantage as an ongoing investment rather than a static possession"

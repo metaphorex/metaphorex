@@ -15,6 +15,15 @@ related: []
 slug: drinking-the-kool-aid
 source_frame: social-behavior
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - merging
+  - force
+relation_types:
+  - cause
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 transfers:
   - "[source] consuming a shared substance signals membership in the group and submission to its leader's authority"
   - "[source] the act is irreversible -- once ingested, you cannot take it back, just as ideological commitment is hard to retract publicly"

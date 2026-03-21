@@ -21,6 +21,15 @@ related:
 slug: desires-are-forces-between-the-desired-and-the-desirer
 source_frame: physics
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - attraction
+  - near-far
+relation_types:
+  - cause
+  - compete
+structure: equilibrium
+abstraction_level: primitive
 transfers:
   - '[source] the desired object exerts gravitational or magnetic pull on the desirer, with force magnitude proportional to desire intensity'
   - '[source] self-control is a counterforce opposing the pull, mapping willpower as physical resistance in a force-dynamic agonist-antagonist structure'

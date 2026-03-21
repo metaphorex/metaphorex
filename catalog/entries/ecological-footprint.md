@@ -17,6 +17,15 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - scale
+  - accretion
+  - surface-depth
+relation_types:
+  - accumulate
+  - cause
+structure: growth
+abstraction_level: generic
 transfers:
   - '[source] an animal leaves tracks proportional to its body weight and gait, so a heavier animal pressing harder into the ground leaves deeper, wider impressions'
   - '[source] footprints accumulate -- a single pass across soft ground is faint, but repeated passes along the same path create a permanent trail that reshapes the terrain'

@@ -15,6 +15,15 @@ related:
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: folk
+embodied_patterns:
+  - flow
+  - force
+  - balance
+relation_types:
+  - enable
+  - prevent
+structure: equilibrium
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[source] the obstetrician is present at a birth for clinical reasons and did not conceive the child, separating the act of bringing-forth from the act of creation'

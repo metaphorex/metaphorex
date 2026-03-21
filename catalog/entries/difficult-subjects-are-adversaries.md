@@ -19,6 +19,14 @@ related:
 slug: difficult-subjects-are-adversaries
 source_frame: war
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - blockage
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: generic
 transfers:
   - '[source] the subject matter is an opponent that actively resists, evades, and counterattacks the learner''s efforts at comprehension'
   - '[source] understanding is victory over the adversary -- the learner masters, conquers, or overcomes the material in a decisive triumph'

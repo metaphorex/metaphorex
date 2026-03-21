@@ -19,6 +19,15 @@ related:
 slug: emotional-intimacy-is-physical-closeness
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - near-far
+  - boundary
+  - link
+relation_types:
+  - enable
+  - cause
+structure: network
+abstraction_level: primitive
 transfers:
   - '[source] the degree of emotional bond maps onto spatial distance between bodies, translating an abstract continuous variable (intimacy) into a measurable spatial one (proximity), grounded in the infant experience that caregivers who are physically nearest are emotionally closest'
   - '[source] relationship development is approach (getting closer) and relationship decline is retreat (drifting apart), giving relationship change a directionality and velocity that makes it trackable'

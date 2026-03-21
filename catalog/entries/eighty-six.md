@@ -24,6 +24,15 @@ transfers:
 - '[source] carries the kitchen''s broadcast communication pattern -- one person calls "eighty-six the halibut" and the entire line hears it simultaneously -- onto organizational announcements where a terse signal must propagate instantly across a team'
 - '[source] imports the kitchen norm that running out is not a failure but a normal operational event, reframing elimination as routine inventory management rather than crisis or blame'
 updated: '2026-03-19'
+embodied_patterns:
+  - removal
+  - flow
+  - boundary
+relation_types:
+  - prevent
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers
