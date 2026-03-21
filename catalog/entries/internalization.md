@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because containers receive contents passively, while Vygotsky''s actual account requires the child to actively reconstruct the social process -- internalization is not absorption but transformation, and the container metaphor hides the constructive work'
   - '[source] misleads by implying a clean inside/outside boundary, when cognition is distributed across tools, social partners, and environmental structures -- much "internal" thinking remains dependent on external scaffolds that the container metaphor renders invisible'
+embodied_patterns:
+  - container
+  - boundary
+  - path
+relation_types:
+  - transform
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

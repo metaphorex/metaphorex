@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] accounting is precise and quantitative -- a $50 debt is exactly offset by a $50 payment -- but moral debts have no agreed unit of measurement and parties routinely disagree on the balance'
   - '[source] accounting is symmetric (debits equal credits in double-entry), but moral perception is asymmetric -- the harm-doer and the harmed consistently estimate the moral debt differently'
+embodied_patterns:
+  - balance
+  - scale
+  - container
+relation_types:
+  - accumulate
+  - restore
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

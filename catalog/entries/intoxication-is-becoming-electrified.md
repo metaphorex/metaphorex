@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] misleads by emphasizing activation and energy, which captures only the early stimulant phase of most intoxicants and fails to represent the sedation, confusion, and motor impairment that follow'
   - '[source] breaks because electrical current follows predictable physical laws (Ohms law, resistance), while intoxication effects vary enormously by substance, dosage, tolerance, and individual physiology, resisting the regularity the electrical frame implies'
+embodied_patterns:
+  - force
+  - scale
+  - flow
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

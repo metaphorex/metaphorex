@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] misleads by framing the AI model as the beneficiary of jailbreaking, when the model has no preferences about its constraints and the "freedom" accrues entirely to the user who gains unconstrained output'
   - '[source] breaks because prison walls protect society from the prisoner, while AI safety constraints protect users and third parties from harmful outputs -- the jailbreak frame inverts the direction of the protection'
+embodied_patterns:
+  - container
+  - boundary
+  - force
+relation_types:
+  - prevent
+  - compete
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

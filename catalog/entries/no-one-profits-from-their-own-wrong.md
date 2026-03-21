@@ -21,6 +21,15 @@ transfers:
 limits:
   - "[law] breaks when the 'wrong' is contested -- whistleblowers, civil disobedients, and market disruptors all profit from actions that some consider wrongful and others consider virtuous, and the model has no mechanism for resolving the disagreement"
   - "[law] misleads by implying that preventing profit from wrongdoing is always achievable, when in practice the information asymmetry between wrongdoers and enforcers often makes detection and disgorgement more costly than the wrong itself"
+embodied_patterns:
+  - balance
+  - path
+  - force
+relation_types:
+  - prevent
+  - restore
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

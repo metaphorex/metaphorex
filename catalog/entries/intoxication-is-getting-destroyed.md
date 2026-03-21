@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] misleads because destroyed objects do not self-repair, while the intoxicated person recovers (with a hangover) by morning, and the metaphor carries an irreversibility that actual drunkenness lacks'
   - '[source] breaks when intoxication is voluntary and pleasurable, since the destruction frame encodes only suffering and damage, missing the social and hedonic dimensions that make people seek the state the metaphor calls "getting wrecked"'
+embodied_patterns:
+  - force
+  - removal
+  - splitting
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

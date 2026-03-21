@@ -22,6 +22,15 @@ limits:
   - "[model] breaks because a cave is a fixed structure the occupant did not build, while a person's cognitive enclosure is partly self-constructed through choices about what to read, study, and practice -- the model understates individual agency in shaping one's own biases"
   - "[model] misleads because the cave metaphor implies a single exit into daylight (objective truth), while in practice escaping one cave means entering another -- interdisciplinary work trades one set of blind spots for a different set"
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - boundary
+  - surface-depth
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
   - "[model] provides a diagnostic for fraudulent or invalid transfers by tracing the provenance chain backward: if any link in the chain lacked the right being transferred, all downstream transfers are defective"
   - "[model] structures due diligence as a provenance question -- before accepting any transfer of rights, authority, or credentials, verify that the transferor actually possesses what they claim to be giving"
 updated: '2026-03-16'
+embodied_patterns:
+  - container
+  - path
+  - link
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

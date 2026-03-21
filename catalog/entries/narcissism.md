@@ -25,6 +25,15 @@ limits:
   - "[source] misleads because Narcissus is beautiful and his reflection genuinely attractive, while clinical narcissism often involves grandiosity that others do not share -- the 'reflection' the narcissist admires may not match what others see"
   - "[source] obscures because the myth is about visual self-love (looking at a literal reflection), while the psychological concept encompasses self-aggrandizement, lack of empathy, and need for admiration that have no mirror analogue"
 updated: '2026-03-16'
+embodied_patterns:
+  - container
+  - matching
+  - boundary
+relation_types:
+  - contain
+  - prevent
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

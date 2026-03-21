@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] was derived from firefighter fatality investigations and may overweight command-and-control structures that map poorly to decentralized or creative organizations where rigid SOPs and centralized incident command would reduce effectiveness'
   - '[model] treats the five factors as independent, but in practice they interact -- poor communications causes accountability failures, which undermines incident command -- so remediating one factor in isolation may produce less improvement than the model predicts'
+embodied_patterns:
+  - part-whole
+  - link
+  - matching
+relation_types:
+  - prevent
+  - decompose
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

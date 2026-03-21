@@ -20,6 +20,15 @@ transfers:
 limits:
   - "[source] breaks because theatrical audiences know they are watching fiction, while Bacon's point is that followers of philosophical systems do not recognize the performance as a performance"
   - "[source] misleads because theatre is a collaborative art requiring actors, directors, and stagehands, but Bacon's idol implies a single authoritative system-builder whose dogma is consumed uncritically"
+embodied_patterns:
+  - container
+  - matching
+  - surface-depth
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

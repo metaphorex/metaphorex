@@ -21,6 +21,15 @@ transfers:
 - '[model] identifies signaling (warranties, credentials) and screening (due diligence, inspections) as corrective mechanisms that allow quality sellers to separate themselves from lemons'
 - '[model] reframes institutions like brands, certifications, and regulations as necessary bridges over information gaps that would otherwise destroy functional markets'
 updated: '2026-03-13'
+embodied_patterns:
+  - surface-depth
+  - boundary
+  - balance
+relation_types:
+  - prevent
+  - compete
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

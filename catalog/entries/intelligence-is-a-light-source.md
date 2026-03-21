@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] misleads by treating intelligence as a single undifferentiated emission, when cognitive ability is domain-specific and multidimensional -- a person can be brilliant in one area and dim in another simultaneously'
   - '[source] breaks because light sources illuminate passively and automatically, while intelligence requires deliberate application and effort, and a brilliant person choosing not to engage illuminates nothing'
+embodied_patterns:
+  - near-far
+  - scale
+  - flow
+relation_types:
+  - enable
+  - cause
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

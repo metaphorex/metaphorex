@@ -20,6 +20,15 @@ transfers:
 limits:
   - "[model] assumes an independent judge is available, which fails in small groups, startups, or any system with limited personnel"
   - "[model] treats all self-interest as disqualifying, ignoring that domain expertise often comes with stake in the outcome"
+embodied_patterns:
+  - boundary
+  - matching
+  - balance
+relation_types:
+  - prevent
+  - select
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

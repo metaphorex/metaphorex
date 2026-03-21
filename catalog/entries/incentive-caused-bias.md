@@ -21,6 +21,15 @@ transfers:
 - '[model] reframes biased professional judgment as structural rather than characterological -- when many individuals in the same incentive structure show the same bias, the explanation is the payoff matrix,
   not individual dishonesty'
 updated: '2026-03-13'
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -23,6 +23,15 @@ transfers:
   - "[model] identifies a structural tension in all governance: rules derive authority from consistency, but consistency without exception produces outcomes that undermine the rules' own legitimacy"
   - "[model] provides a diagnostic for system fragility -- if a system has no defined exception path, it will develop informal ones, and informal exceptions are harder to govern than formal ones"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - boundary
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

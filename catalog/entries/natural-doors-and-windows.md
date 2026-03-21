@@ -26,6 +26,15 @@ transfers:
 - '[source] carries the insight that a misplaced door forces occupants into unnatural circulation patterns that persist for the life of the building, mapping onto the observation that a poorly designed API forces workarounds that calcify into permanent usage patterns'
 - '[source] establishes that the number and placement of openings should match the room''s function -- a kitchen needs different openings than a bedroom -- importing the principle that interface surface area should be proportional to the diversity of legitimate use cases'
 updated: '2026-03-21'
+embodied_patterns:
+  - boundary
+  - path
+  - matching
+relation_types:
+  - enable
+  - coordinate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

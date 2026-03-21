@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] the vertical axis has a natural zero (ground level) and is bounded below, but many abstract quantities mapped onto it (temperature, debt, mood) can go negative with no spatial analogue'
   - '[source] physical height is absolute and observer-independent, but ''more'' is often relative to a contextual baseline -- what counts as ''high'' income depends on the reference group, not a fixed ground plane'
+embodied_patterns:
+  - scale
+  - accretion
+  - path
+relation_types:
+  - cause
+  - accumulate
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

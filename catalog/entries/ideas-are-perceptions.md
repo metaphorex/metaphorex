@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] misleads by making thinking feel passive and receptive when much intellectual work is active construction, not detection of pre-existing patterns'
   - '[source] breaks for ideas that require sustained deliberate effort (mathematical proofs, engineering designs) rather than perceptual detection, since the metaphor has no vocabulary for the effortful building of ideas'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - near-far
+relation_types:
+  - cause
+  - enable
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

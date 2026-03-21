@@ -23,6 +23,15 @@ transfers:
 - '[model] the heuristic encodes asymmetric reversibility -- in painting, scraping off and restarting costs more than integrating, so the cheapest recovery is forward-incorporation, a cost structure that recurs in jazz improvisation, startup pivots, and iterative software development'
 - '[model] carries the prediction that practitioners who treat errors as generative material will produce more original work than those who treat errors as pure loss, because error-as-material introduces variation that deliberate planning would not have produced'
 updated: '2026-03-21'
+embodied_patterns:
+  - path
+  - matching
+  - removal
+relation_types:
+  - transform
+  - enable
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 - '[model] the yields of a system come from the connections between elements, not from the elements alone; an isolated element is an underperforming element'
 - '[model] segregation is an anti-pattern that forces external inputs to replace the services that connected elements would provide to each other for free'
 updated: '2026-03-20'
+embodied_patterns:
+  - link
+  - merging
+  - part-whole
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

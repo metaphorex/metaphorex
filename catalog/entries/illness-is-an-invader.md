@@ -27,6 +27,15 @@ transfers:
 - "[source] the invaded territory sustains damage from both the invasion and the defensive response"
 - "[source] victory means expelling or destroying the invader completely"
 updated: '2026-03-16'
+embodied_patterns:
+  - boundary
+  - force
+  - container
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -31,6 +31,15 @@ limits:
   - "[source] misleads because war ends in victory or defeat, but moral development is an ongoing process with no final state"
   - "[source] obscures that moral progress often comes from dialogue and integration, not from defeating an adversary"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - boundary
+  - balance
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

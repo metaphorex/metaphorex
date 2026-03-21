@@ -22,6 +22,15 @@ transfers:
 - '[law] provides a formal foundation for the intuition that every advantage has a cost -- an algorithm that excels on one class of problems must pay for that excellence with worse performance on another class'
 - '[law] reframes method selection from "which tool is best?" to "what structure does my problem have?" -- shifting attention from the solver to the problem as the primary object of analysis'
 updated: '2026-03-19'
+embodied_patterns:
+  - balance
+  - matching
+  - boundary
+relation_types:
+  - prevent
+  - select
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

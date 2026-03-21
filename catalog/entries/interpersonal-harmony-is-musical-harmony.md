@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] misleads because musical harmony follows physics (integer frequency ratios) and is acoustically determined, while social harmony is culturally constructed and has no equivalent natural law governing what "sounds good" between people'
   - '[source] breaks when conflict is productive, since the metaphor codes all dissonance as a problem to resolve, but in social life persistent disagreement and creative tension often produce better outcomes than premature harmonization'
+embodied_patterns:
+  - balance
+  - matching
+  - merging
+relation_types:
+  - coordinate
+  - restore
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

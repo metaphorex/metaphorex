@@ -25,6 +25,15 @@ limits:
   - '[source] breaks because physical networks require maintained paths between nodes -- roads, sidewalks, transit lines -- while learning networks assume connectivity is free, hiding the real cost of maintaining communication channels between distributed sites'
   - '[source] misleads by implying that decentralization automatically produces diversity of offering, when distributed nodes often converge on the same popular curriculum to attract enrollment, producing uniformity at scale'
   - '[source] assumes nodes are interchangeable waypoints, but learning sites develop specialized cultures and reputations that make the network lumpy and hierarchical despite its flat topology'
+embodied_patterns:
+  - link
+  - path
+  - flow
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

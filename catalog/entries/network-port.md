@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] physical ports are geographically fixed and expensive to build, creating natural scarcity, but network ports are logical abstractions that can be created in unlimited numbers at zero marginal cost'
   - '[source] a physical port''s capacity is limited by dock space and handling speed (ships queue), but network ports multiplex thousands of simultaneous connections with no physical queuing constraint'
+embodied_patterns:
+  - boundary
+  - container
+  - matching
+relation_types:
+  - contain
+  - translate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

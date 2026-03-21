@@ -20,6 +20,15 @@ transfers:
 - '[law] predicts that the value of a network grows faster than the number of nodes because each new participant creates value for every existing participant, not just for themselves'
 - '[law] predicts that below a critical mass threshold the network struggles to attract participants, but above it growth becomes self-sustaining as the network becomes its own recruitment engine'
 updated: '2026-03-13'
+embodied_patterns:
+  - link
+  - scale
+  - accretion
+relation_types:
+  - cause
+  - accumulate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

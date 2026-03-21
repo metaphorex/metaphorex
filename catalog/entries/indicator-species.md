@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the structural insight that system health is not uniformly distributed -- some components are more sensitive to degradation and therefore more informative about early-stage decline'
 - '[source] carries the methodological principle that the indicator must be chosen for its known sensitivity to specific stressors, not for its visibility or convenience, constraining which signals count as genuine indicators'
 updated: '2026-03-21'
+embodied_patterns:
+  - matching
+  - link
+  - surface-depth
+relation_types:
+  - translate
+  - cause
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

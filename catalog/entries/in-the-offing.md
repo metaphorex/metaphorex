@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] misleads because a ship in the offing has a definite identity and destination, while the idiomatic usage often applies to vague or uncertain future events where neither identity nor outcome is clear'
   - '[source] breaks when the anticipated event never actually arrives, since the nautical offing implies near-certainty of arrival and the metaphor provides no vocabulary for the approaching thing turning away'
+embodied_patterns:
+  - near-far
+  - path
+  - boundary
+relation_types:
+  - cause
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

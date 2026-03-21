@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] physical cleanliness is binary and objective (surfaces are contaminated or sterile), but moral status is a matter of degree, context, and disputed judgment'
   - '[source] cleaning removes the actual contaminant and restores the original state, but moral ''cleansing'' does not undo the harm done -- it changes the moral agent''s status without reversing consequences'
+embodied_patterns:
+  - container
+  - boundary
+  - flow
+relation_types:
+  - prevent
+  - transform
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because a mortise-and-tenon joint is permanent once glued -- disassembly destroys it -- while most software and organizational interfaces are designed to be reconnectable, versioned, and swappable'
   - '[source] misleads by implying that the two sides of the interface are equal partners, when mortise-and-tenon joints have a clear structural asymmetry -- the tenon enters the mortise, not the reverse -- which the metaphor obscures when applied to "complementary" APIs or partnerships'
+embodied_patterns:
+  - matching
+  - part-whole
+  - merging
+relation_types:
+  - coordinate
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

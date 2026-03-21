@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[paradigm] assumes that defects are detectable at the point of creation, which holds for physical manufacturing tolerances but breaks in knowledge work where quality is often only assessable after integration or customer feedback"
   - "[paradigm] the willingness to stop the line depends on a culture that treats stops as learning opportunities rather than failures, which most organizations outside Toyota have struggled to replicate"
+embodied_patterns:
+  - blockage
+  - matching
+  - iteration
+relation_types:
+  - prevent
+  - enable
+structure: equilibrium
+abstraction_level: specific
 ---
 
 ## Transfers

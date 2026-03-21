@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because empirical linguistics shows that people coin new words, repurpose existing ones, and use circumlocution to express concepts their language lacks dedicated terms for -- the Sapir-Whorf hypothesis in its strong form (language determines thought) is not supported"
   - "[source] misleads because Newspeak assumes a single centralized authority controls language production, while real language change is radically distributed across millions of speakers and resists top-down engineering"
+embodied_patterns:
+  - container
+  - removal
+  - boundary
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

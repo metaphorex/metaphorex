@@ -27,6 +27,15 @@ transfers:
   - '[source] Crisis demands immediate attention and mobilization of resources, importing urgency onto a developmental transition that culture might otherwise neglect or dismiss'
   - '[source] The patient in crisis is in a qualitatively different state from their normal functioning, framing the adolescent''s confusion as a distinct phase with its own internal logic rather than mere misbehavior'
 updated: '2026-03-20'
+embodied_patterns:
+  - balance
+  - boundary
+  - path
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

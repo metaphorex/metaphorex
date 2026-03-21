@@ -20,6 +20,15 @@ transfers:
 limits:
   - '[model] breaks because avian imprinting is a one-shot, time-locked mechanism with a critical period, while human bonding is gradual, revisable, and extends across years -- the ethological source overstates the rigidity of human attachment formation'
   - '[model] misleads by implying that multiple simultaneous primary bonds are impossible, when cross-cultural research (Hrdy 2009, van IJzendoorn et al. 1992) shows infants in communal-care cultures form multiple secure attachments without a clear hierarchy'
+embodied_patterns:
+  - center-periphery
+  - link
+  - scale
+relation_types:
+  - select
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

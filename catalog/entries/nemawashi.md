@@ -25,6 +25,15 @@ transfers:
   - "[source] the preparation must happen below the surface and before the visible act of moving -- by the time the transplant occurs, the critical work is already done"
   - "[source] root preparation is proportional to the size of the tree: larger trees need more extensive groundwork, just as larger organizational changes need broader consensus-building"
 updated: '2026-03-18'
+embodied_patterns:
+  - path
+  - accretion
+  - link
+relation_types:
+  - enable
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ limits:
   - '[source] breaks when communication technology eliminates the coordination penalty for dispersed forces, because the advantage rests on the assumption that separated opponents cannot synchronize faster than the central force can redeploy'
   - '[source] assumes the interior force has comparable quality per unit; if the dispersed forces each individually outmatch the central force, sequential engagement produces sequential defeats rather than sequential victories'
   - '[source] imports a spatial metaphor that misleads in domains where "distance" between fronts is not geometric but institutional or cognitive, and where redeploying attention between domains carries switching costs that the military frame does not model'
+embodied_patterns:
+  - center-periphery
+  - path
+  - near-far
+relation_types:
+  - coordinate
+  - compete
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

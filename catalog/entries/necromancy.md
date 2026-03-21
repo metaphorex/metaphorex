@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because the undead in folklore are controlled by a single necromancer's will, while revived codebases are typically maintained by teams who inherit rather than command the system"
   - "[source] misleads because necromantic reanimation produces beings that are inherently degraded, but revived software projects sometimes genuinely improve when maintained by new developers with fresh perspective"
+embodied_patterns:
+  - boundary
+  - force
+  - container
+relation_types:
+  - transform
+  - prevent
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

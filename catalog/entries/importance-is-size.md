@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] misleads by privileging visible, conspicuous significance over subtle but consequential factors -- a tiny mutation, a single vote, a minor code change can be enormously important while remaining perceptually small'
   - '[source] breaks when importance is inversely related to size, as in precision instruments, critical code paths, or single points of failure where the smallest component carries the greatest consequence'
+embodied_patterns:
+  - scale
+  - force
+  - near-far
+relation_types:
+  - cause
+  - enable
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

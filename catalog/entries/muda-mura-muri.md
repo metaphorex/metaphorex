@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[model] breaks when applied to domains where unevenness is the source of value rather than a source of waste -- creative work, financial markets, and emergency response depend on variability, and smoothing it out would destroy the system's purpose"
   - "[model] misleads by implying that all three enemies are equally diagnosable, but mura and muri are often invisible at the task level and only emerge from system-level observation that most organizations lack the instrumentation to perform"
+embodied_patterns:
+  - flow
+  - balance
+  - blockage
+relation_types:
+  - decompose
+  - prevent
+structure: equilibrium
+abstraction_level: specific
 ---
 
 ## Transfers

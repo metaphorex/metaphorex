@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] breaks when applied to genuinely linear processes (manufacturing runs, rote data entry, physical construction with known materials) where proportional completion does track proportional effort'
   - '[model] can become a self-fulfilling prophecy: teams that internalize "the last 10% takes 90% of the effort" may stop investing in estimation improvement, treating nonlinear cost curves as inevitable rather than symptomatic of poor decomposition'
+embodied_patterns:
+  - path
+  - scale
+  - near-far
+relation_types:
+  - cause
+  - prevent
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] misleads because containers preserve their contents unchanged, while investments transform the money placed in them -- capital is deployed, lent, or converted to assets, not simply stored in a box'
   - '[source] breaks for investments that generate returns exceeding the original deposit, since containers cannot produce more than was placed inside them, and the metaphor has no natural way to express money multiplying within a vessel'
+embodied_patterns:
+  - container
+  - flow
+  - scale
+relation_types:
+  - contain
+  - accumulate
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because Mordor has a single controlling intelligence with a coherent will, while real dystopian systems emerge from distributed incentives with no mastermind"
   - "[source] misleads because Mordor's evil is total and unmixed -- there are no schools, hospitals, or ordinary lives inside its borders -- which obscures how real authoritarian systems function by providing genuine services alongside oppression"
+embodied_patterns:
+  - container
+  - force
+  - center-periphery
+relation_types:
+  - contain
+  - transform
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

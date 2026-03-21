@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] misleads by attributing intentions and strategies to ideas, obscuring the human agents who actually propagate, defend, and modify them'
   - '[source] breaks because people are mortal and unrepeatable, while ideas can be independently reinvented by multiple thinkers in different contexts, violating the biological assumption of unique individuality'
+embodied_patterns:
+  - path
+  - accretion
+  - splitting
+relation_types:
+  - cause
+  - transform
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

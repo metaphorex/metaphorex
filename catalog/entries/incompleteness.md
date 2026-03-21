@@ -26,6 +26,15 @@ transfers:
 - '[paradigm] introduces the structural insight that a system cannot fully validate itself -- consistency cannot be proved from within -- requiring external verification or acceptance of foundational uncertainty'
 - '[paradigm] reframes the discovery of unprovable truths not as a defect of a particular system but as an inherent property of formal power, shifting the question from "is this system complete?" to "what can this system not see about itself?"'
 updated: '2026-03-19'
+embodied_patterns:
+  - boundary
+  - container
+  - iteration
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

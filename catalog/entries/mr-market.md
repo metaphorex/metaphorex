@@ -22,6 +22,15 @@ transfers:
 - '[model] reframes market prices from information (the market knows something) to emotion (Mr. Market has moods), changing the investor''s relationship to price from student-to-teacher to observer-of-a-disturbed-individual'
 - '[model] makes optional participation vivid by personifying the market as a neighbor you can politely ignore, removing the felt obligation to respond to every price quote'
 updated: '2026-03-13'
+embodied_patterns:
+  - balance
+  - force
+  - iteration
+relation_types:
+  - select
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

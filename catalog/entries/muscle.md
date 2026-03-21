@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] muscle growth has biological limits determined by genetics and physiology, but organizational ''muscle'' has no inherent ceiling and can be augmented through tools, technology, and structural change'
   - '[source] muscle responds predictably to training stimuli (progressive overload produces hypertrophy), but organizational capability does not scale linearly with investment -- resistance can increase faster than capacity'
+embodied_patterns:
+  - force
+  - iteration
+  - accretion
+relation_types:
+  - enable
+  - accumulate
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

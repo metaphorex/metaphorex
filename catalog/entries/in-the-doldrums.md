@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] misleads because the nautical doldrums are temporary and geographically bounded -- ships eventually drift through -- while the idiomatic usage often describes indefinite psychological stagnation with no guaranteed exit'
   - '[source] breaks when the person in the doldrums could take action to change their situation, since the nautical source specifically encodes a situation where action is impossible because the enabling medium (wind) is absent'
+embodied_patterns:
+  - blockage
+  - flow
+  - force
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

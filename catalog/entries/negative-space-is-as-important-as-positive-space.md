@@ -28,6 +28,15 @@ limits:
   - '[source] breaks in domains where absence has no perceptual weight -- a missing data field in a database is not "negative space" shaping the surrounding fields; it is simply missing data, and calling it negative space romanticizes incompleteness'
   - '[source] misleads because visual negative space is immediately perceptible (the eye sees figure and ground simultaneously), but in time-based domains like music or conversation, the "negative space" of silence is experienced sequentially and requires memory to be appreciated as compositional rather than accidental'
   - '[source] the principle assumes a bounded canvas -- a painting has edges that give the empty space shape -- but many target domains (codebases, organizations, product roadmaps) have no fixed boundary, so negative space becomes unbounded emptiness rather than a compositionally active absence'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - matching
+relation_types:
+  - coordinate
+  - enable
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

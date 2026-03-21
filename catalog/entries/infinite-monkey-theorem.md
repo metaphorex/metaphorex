@@ -24,6 +24,15 @@ limits:
   - '[source] breaks because real random processes operate in finite time and finite state spaces, so the infinite-time guarantee is precisely the part that never applies'
   - '[source] misleads by implying that random generation and intentional creation differ only in efficiency, obscuring the role of selection, editing, and judgment in producing meaningful output'
   - '[source] the monkey framing anthropomorphizes randomness, inviting people to imagine a creature "trying" rather than a process with no agency at all'
+embodied_patterns:
+  - iteration
+  - scale
+  - matching
+relation_types:
+  - cause
+  - enable
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

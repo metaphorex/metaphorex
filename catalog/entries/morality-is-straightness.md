@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] straightness is a geometric property that admits no degrees -- a line is straight or it is not -- but moral behavior exists on a spectrum of judgment where minor deviations may be insignificant'
   - '[source] a straight path ignores terrain and obstacles, but moral navigation often requires bending around competing obligations, mapping inflexible rectitude onto situations that demand contextual judgment'
+embodied_patterns:
+  - path
+  - force
+  - matching
+relation_types:
+  - cause
+  - prevent
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

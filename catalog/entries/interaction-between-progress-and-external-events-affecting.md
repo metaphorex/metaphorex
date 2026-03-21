@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] misleads by suggesting a bilateral symmetry between agent and environment, when in practice external forces often overwhelm individual progress without the agent having any reciprocal effect'
   - '[source] breaks for situations where progress and external events are genuinely independent, since the metaphor assumes coupling and cannot represent contexts where the two variables are unrelated'
+embodied_patterns:
+  - force
+  - path
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: cycle
+abstraction_level: primitive
 ---
 
 ## Transfers

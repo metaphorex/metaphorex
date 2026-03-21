@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[paradigm] breaks because the boundary between difficult and impossible is rarely clear-cut, and the maxim provides no method for determining where difficulty ends and impossibility begins -- creating a contested zone where both sides can argue in good faith"
   - "[paradigm] misleads because invoking impossibility is itself a power move that can be used to avoid difficult-but-feasible obligations, and the maxim provides cover for strategic non-compliance dressed as principled refusal"
+embodied_patterns:
+  - boundary
+  - force
+  - blockage
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ transfers:
   - '[source] imports the "working" qualifier from manufacturing, where it means provisional, functional, and subject to revision based on new data, distinguishing these representations from fixed beliefs or static memories'
   - '[source] carries the model''s predictive function — factory models predict whether a process will work before resources are committed — onto attachment representations that predict whether a caregiver will respond before the child signals distress'
 updated: '2026-03-20'
+embodied_patterns:
+  - container
+  - matching
+  - iteration
+relation_types:
+  - transform
+  - enable
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers
