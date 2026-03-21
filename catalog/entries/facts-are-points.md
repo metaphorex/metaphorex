@@ -21,6 +21,16 @@ related:
 slug: facts-are-points
 source_frame: geometry
 updated: '2026-03-12'
+embodied_patterns:
+  - near-far
+  - link
+  - center-periphery
+relation_types:
+  - coordinate
+  - accumulate
+structure:
+  - network
+abstraction_level: primitive
 transfers:
   - '[source] facts occupy positions relative to each other in a conceptual space -- closely related facts are nearby, distant connections are far apart -- importing the topology of geometric points where proximity and clustering carry information'
   - '[source] connecting facts is drawing lines between points (connecting the dots, linking observations), giving inferential reasoning the structure of constructing a geometric figure from its vertices'

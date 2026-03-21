@@ -19,6 +19,16 @@ related:
 slug: finished-is-up
 source_frame: embodied-experience
 updated: '2026-03-14'
+embodied_patterns:
+  - scale
+  - path
+  - container
+relation_types:
+  - accumulate
+  - transform
+structure:
+  - hierarchy
+abstraction_level: primitive
 transfers:
   - '[source] completion maps onto upward spatial position -- things wrap up, time is up, the game is up -- grounded in the embodied experience that physical activities often end with an upward gesture (standing up from a task, raising hands when done)'
   - '[source] being nearly finished maps onto being near the top -- almost up, coming up to the deadline -- importing the vertical metaphor''s sense that completion is a summit approached from below'

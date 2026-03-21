@@ -19,6 +19,16 @@ related:
 slug: euphoric-states-are-up
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - scale
+  - balance
+  - near-far
+relation_types:
+  - cause
+  - transform
+structure:
+  - hierarchy
+abstraction_level: generic
 transfers:
   - '[source] euphoria, ecstasy, and elation map onto elevated spatial position -- being on a high, on top of the world, on cloud nine -- extending the general HAPPY IS UP orientation to its extreme by equating the most intense positive states with the highest altitudes'
   - '[source] the come-down from euphoria maps onto descent from height, importing the physics that what goes up must come down and that the higher the peak, the longer and more disorienting the fall'

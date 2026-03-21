@@ -20,6 +20,16 @@ related:
 slug: existence-is-an-object
 source_frame: physical-objects
 updated: '2026-03-12'
+embodied_patterns:
+  - container
+  - part-whole
+  - scale
+relation_types:
+  - transform
+  - contain
+structure:
+  - hierarchy
+abstraction_level: primitive
 transfers:
   - '[source] existence is something that can be possessed, given, taken away, or lost -- ''she has a life,'' ''fate took his existence,'' ''they were given a second chance at life'' -- mapping ontological status onto the having or lacking of a thing'
   - '[source] existence-as-object can be qualified by properties of objects: it can be fragile, precarious, fleeting, or robust, importing material characteristics onto an abstract ontological condition'

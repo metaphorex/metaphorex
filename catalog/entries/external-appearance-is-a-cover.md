@@ -18,6 +18,16 @@ related:
 slug: external-appearance-is-a-cover
 source_frame: containers
 updated: '2026-03-12'
+embodied_patterns:
+  - surface-depth
+  - container
+  - boundary
+relation_types:
+  - contain
+  - prevent
+structure:
+  - boundary
+abstraction_level: primitive
 transfers:
   - '[source] the visible surface of a person or thing functions as a removable covering over a hidden interior -- what you see is a cover for what lies beneath -- importing the two-layer ontology of containers where outside and inside can differ'
   - '[source] deception maps onto covering: to disguise is to cover, to reveal is to uncover, and truth is what lies beneath the surface, giving epistemology the structure of peeling layers off a container'

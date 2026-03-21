@@ -19,6 +19,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - container
+  - path
+  - scale
+relation_types:
+  - enable
+  - select
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - '[source] the baton is physically present in the soldier''s pack -- talent is not potential to be developed but an existing asset waiting to be recognized and deployed'
   - '[source] the marshal''s rank is the highest in the army, so the metaphor promises not incremental advancement but the possibility of reaching the absolute top regardless of starting position'

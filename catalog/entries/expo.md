@@ -25,6 +25,17 @@ transfers:
   - '[source] imports the structural position between producer and consumer -- the expo stands between kitchen and dining room, the release manager between dev team and production -- making the role''s value depend on its placement at the boundary, not on its technical skill'
   - '[source] carries the principle that the gate-keeper must have both the authority to send work back and the speed to avoid becoming a bottleneck, capturing the tension between thoroughness and flow that defines the role'
 updated: '2026-03-19'
+embodied_patterns:
+  - boundary
+  - flow
+  - blockage
+relation_types:
+  - select
+  - coordinate
+structure:
+  - pipeline
+  - boundary
+abstraction_level: specific
 ---
 
 ## Transfers

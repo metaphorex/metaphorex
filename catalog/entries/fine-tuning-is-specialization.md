@@ -17,6 +17,16 @@ related:
 slug: fine-tuning-is-specialization
 source_frame: music
 updated: '2026-03-13'
+embodied_patterns:
+  - scale
+  - matching
+  - iteration
+relation_types:
+  - transform
+  - select
+structure:
+  - transformation
+abstraction_level: specific
 transfers:
   - '[source] fine-tuning a musical instrument adjusts pitch by tiny increments to achieve precise harmonic relationships, mapping onto the ML process of making small parameter adjustments to optimize performance on a specific domain after broad pre-training'
   - '[source] the prerequisite of a well-built instrument maps onto the prerequisite of a well-trained base model: you can only fine-tune what is already roughly in tune, importing the structure that specialization presupposes a functional generalist foundation'

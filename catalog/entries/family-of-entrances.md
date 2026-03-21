@@ -18,6 +18,17 @@ related:
 - intimacy-gradient
 - main-entrance
 grounding: established
+embodied_patterns:
+  - boundary
+  - part-whole
+  - path
+relation_types:
+  - decompose
+  - coordinate
+structure:
+  - boundary
+  - network
+abstraction_level: specific
 slug: family-of-entrances
 source_frame: architecture-and-building
 updated: '2026-03-21'

@@ -27,6 +27,16 @@ transfers:
   - '[source] carries the separation of planning from execution: ingredients are prepped and staged (mise en place) long before "fire" is called, teaching that the trigger event presupposes completed preparation'
   - '[source] imports a synchronization protocol where one voice (the expeditor) controls timing across multiple parallel workers (the line cooks), each executing their portion only when sequenced by the command'
 updated: '2026-03-19'
+embodied_patterns:
+  - flow
+  - force
+  - iteration
+relation_types:
+  - coordinate
+  - enable
+structure:
+  - pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

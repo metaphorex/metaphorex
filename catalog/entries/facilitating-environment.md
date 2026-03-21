@@ -26,6 +26,17 @@ transfers:
   - '[source] The environment provides the medium in which the organism grows but does not determine the organism''s form, importing a structural distinction between enabling conditions and directive control'
   - '[source] Environmental failure at critical developmental windows produces irreversible malformation in the organism, mapping caregiver failure during sensitive periods as producing lasting developmental distortion rather than mere delay'
 updated: '2026-03-20'
+embodied_patterns:
+  - container
+  - boundary
+  - flow
+relation_types:
+  - enable
+  - contain
+structure:
+  - boundary
+  - growth
+abstraction_level: generic
 ---
 
 ## Transfers

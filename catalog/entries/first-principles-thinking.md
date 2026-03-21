@@ -15,6 +15,16 @@ related:
 slug: first-principles-thinking
 source_frame: physics
 updated: '2026-03-13'
+embodied_patterns:
+  - part-whole
+  - surface-depth
+  - removal
+relation_types:
+  - decompose
+  - transform
+structure:
+  - hierarchy
+abstraction_level: generic
 transfers:
   - "[model] derives conclusions from fundamental axioms rather than from analogy to previous results, refusing to accept 'that is how it is done' as a foundational statement"
   - "[model] decomposes a complex system into its simplest components to reveal hidden structure, bypassing market prices and conventions to reason from raw inputs"

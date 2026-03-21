@@ -24,6 +24,16 @@ transfers:
 - '[paradigm] introduces the concept that the most important signal may be the absence of a signal, structuring inquiry around what is missing rather than what is present'
 - '[paradigm] forces explicit enumeration of assumptions by demanding that each parameter in the prior be defended independently, turning vague intuitions about likelihood into a decomposed chain of conditional probabilities'
 updated: '2026-03-19'
+embodied_patterns:
+  - removal
+  - scale
+  - near-far
+relation_types:
+  - select
+  - decompose
+structure:
+  - pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

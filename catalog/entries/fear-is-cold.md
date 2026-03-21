@@ -20,6 +20,16 @@ related:
 slug: fear-is-cold
 source_frame: embodied-experience
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - scale
+  - blockage
+relation_types:
+  - cause
+  - prevent
+structure:
+  - transformation
+abstraction_level: primitive
 transfers:
   - '[source] the physiological experience of fear (vasoconstriction, shivering, pallor) maps onto the physical experience of cold, so that fear chills, freezes, makes the blood run cold, and leaves a person cold with dread'
   - '[source] paralysis from fear maps onto the immobilizing effect of extreme cold -- frozen with fear, frozen in place -- importing the physical mechanism where cold stiffens the body and prevents movement'

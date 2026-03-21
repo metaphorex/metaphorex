@@ -18,6 +18,16 @@ related:
 slug: existence-is-having-a-form
 source_frame: physical-objects
 updated: '2026-03-12'
+embodied_patterns:
+  - surface-depth
+  - part-whole
+  - container
+relation_types:
+  - transform
+  - decompose
+structure:
+  - transformation
+abstraction_level: primitive
 transfers:
   - '[source] to exist is to have a discernible shape -- things take form when they come into being, and lose form when they cease to exist -- mapping ontological status onto the presence or absence of physical contour'
   - '[source] the process of coming into existence maps onto the process of gaining shape: ideas form, plans take shape, a personality crystallizes, giving emergence the visual structure of an object becoming visible through its outline'

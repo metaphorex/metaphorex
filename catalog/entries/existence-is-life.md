@@ -20,6 +20,17 @@ related:
 slug: existence-is-life
 source_frame: life-course
 updated: '2026-03-12'
+embodied_patterns:
+  - path
+  - scale
+  - iteration
+relation_types:
+  - transform
+  - accumulate
+structure:
+  - cycle
+  - growth
+abstraction_level: primitive
 transfers:
   - '[source] non-living things are understood through the life cycle of organisms: ideas are born, traditions grow, institutions mature, and practices die -- mapping biological temporality onto abstract entities that have no metabolism'
   - '[source] the vitality of an existing thing maps onto biological health: a thriving business is alive and well, a failing one is dying, a defunct one is dead -- importing the organic distinction between healthy function and terminal decline'

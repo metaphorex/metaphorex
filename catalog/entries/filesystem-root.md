@@ -18,6 +18,16 @@ created: '2026-03-17'
 updated: '2026-03-17'
 harness: Claude Code
 grounding: folk
+embodied_patterns:
+  - center-periphery
+  - part-whole
+  - container
+relation_types:
+  - contain
+  - decompose
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - "[source] a root anchors the tree and is the origin point from which all branches grow outward"
   - "[source] the root is underground and invisible while the branches are visible, encoding a hidden-foundation architecture"

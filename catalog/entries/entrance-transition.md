@@ -17,6 +17,16 @@ created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - boundary
+  - path
+  - container
+relation_types:
+  - transform
+  - enable
+structure:
+  - boundary
+abstraction_level: specific
 transfers:
   - '[source] a physical threshold between outside and inside forces the body to slow down, adjust posture, and reorient senses before entering the interior space'
   - '[source] the transition zone is neither fully outside nor fully inside -- it is a third space whose purpose is to buffer the shock of context-switching'

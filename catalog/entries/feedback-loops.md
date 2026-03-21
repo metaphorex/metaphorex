@@ -13,6 +13,17 @@ related:
 slug: feedback-loops
 source_frame: physics
 updated: '2026-03-13'
+embodied_patterns:
+  - iteration
+  - flow
+  - force
+relation_types:
+  - cause
+  - restore
+structure:
+  - cycle
+  - equilibrium
+abstraction_level: generic
 transfers:
   - "[model] routes a system's output back as input, either amplifying (positive feedback) or dampening (negative feedback) the signal, making invisible causal cycles visible and shifting attention from events to structures"
   - "[model] delays in feedback cause oscillation and overshoot, explaining why well-intentioned corrections often make things worse because they correct for the past rather than the present"

@@ -24,6 +24,16 @@ limits:
   - '[source] breaks because agricultural fallowing has a known mechanism (soil nutrient cycles, nitrogen fixation) and a predictable timeline (one to three seasons), while creative and cognitive "fallowing" has no established mechanism and no reliable way to predict when the restoration will be complete'
   - '[source] misleads because a fallow field requires no decision-making about what to do during the fallow period -- it simply sits -- while human rest is an active challenge involving choices about what to do, how to avoid productive guilt, and when to resume'
 updated: '2026-03-19'
+embodied_patterns:
+  - iteration
+  - balance
+  - accretion
+relation_types:
+  - restore
+  - accumulate
+structure:
+  - cycle
+abstraction_level: specific
 ---
 
 ## Transfers

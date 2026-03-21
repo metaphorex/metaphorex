@@ -19,6 +19,17 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - path
+  - boundary
+  - container
+relation_types:
+  - enable
+  - prevent
+structure:
+  - boundary
+  - pipeline
+abstraction_level: specific
 transfers:
   - '[source] an escape route must be identified and communicated before operations begin, importing the structure where retreat is planned at the moment of advance, not improvised under duress'
   - '[source] the route must lead to a designated safety zone -- a pre-identified location of known security -- not merely "away from the fire," importing the structure where a viable fallback is a specific known-good state, not just the absence of the current problem'

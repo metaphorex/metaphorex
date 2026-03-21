@@ -17,6 +17,17 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - iteration
+  - flow
+  - removal
+relation_types:
+  - coordinate
+  - restore
+structure:
+  - pipeline
+  - cycle
+abstraction_level: specific
 provenance: culinary-mise-en-place
 transfers:
   - '[model] completing a task through its full lifecycle -- including cleanup, filing, and handoff -- before starting the next task eliminates the hidden overhead of resumption, because incomplete tasks accumulate cognitive and physical carrying costs that grow with each unfinished item'

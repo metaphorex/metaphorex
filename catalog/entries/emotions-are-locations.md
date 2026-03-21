@@ -21,6 +21,16 @@ related:
 slug: emotions-are-locations
 source_frame: journeys
 updated: '2026-03-12'
+embodied_patterns:
+  - container
+  - path
+  - boundary
+relation_types:
+  - contain
+  - transform
+structure:
+  - boundary
+abstraction_level: generic
 transfers:
   - '[source] each emotion is a bounded region that a person enters, occupies, and eventually leaves -- you are in love, in despair, in a rage -- imposing categorical boundaries on what is actually a continuous spectrum of feeling'
   - '[source] the onset of emotion is arrival at a place (fell into depression, stumbled into love) and recovery is departure (came out of grief, emerged from shock), giving emotional change the structure of a journey between places'

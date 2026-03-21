@@ -17,6 +17,16 @@ related:
 slug: filesystem-tree
 source_frame: horticulture
 updated: '2026-03-14'
+embodied_patterns:
+  - part-whole
+  - container
+  - path
+relation_types:
+  - contain
+  - decompose
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - '[source] hierarchical file organization maps onto a botanical tree with a single root at the base, branches splitting into sub-branches, and leaves at the terminal points -- imposing a strict parent-child inheritance structure where every node except the root has exactly one parent'
   - '[source] navigation through the filesystem maps onto climbing or traversing the tree: you go ''up'' toward the root and ''down'' into sub-branches, importing a vertical orientation where the root paradoxically sits at the top of directory listings'

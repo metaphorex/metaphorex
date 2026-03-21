@@ -28,6 +28,16 @@ limits:
   - '[source] misleads by implying equilibrium is always desirable, when productive learning often requires sustained disequilibrium -- the physics metaphor makes confusion look like a problem to resolve rather than a state to inhabit'
   - '[source] obscures the role of social context: physical systems equilibrate with impersonal forces, but a child''s cognitive equilibrium is disrupted and restored through interactions with people who have their own agendas'
 updated: '2026-03-20'
+embodied_patterns:
+  - balance
+  - force
+  - scale
+relation_types:
+  - restore
+  - transform
+structure:
+  - equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

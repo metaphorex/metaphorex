@@ -15,6 +15,16 @@ related:
 created: '2026-03-16'
 updated: '2026-03-16'
 harness: Claude Code
+embodied_patterns:
+  - surface-depth
+  - boundary
+  - force
+relation_types:
+  - prevent
+  - enable
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - "[source] the emperor's nakedness is visible to everyone, but social pressure transforms a perceptual fact into a forbidden utterance -- the problem is not blindness but enforced silence"
   - "[source] the child who speaks the truth is effective precisely because they stand outside the social hierarchy that makes silence rational for adults"

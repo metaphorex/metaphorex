@@ -26,6 +26,17 @@ transfers:
 - '[source] carries the insight that the filtering medium''s properties determine the quality of what passes through -- frosted glass differs from rice paper differs from a lattice screen -- mapping onto the observation that middleware design choices shape downstream experience as much as the upstream source does'
 - '[source] establishes that good filtering admits enough to be useful while blocking enough to be comfortable, importing the calibration problem: too much filtering starves the interior, too little overwhelms it'
 updated: '2026-03-21'
+embodied_patterns:
+  - boundary
+  - flow
+  - scale
+relation_types:
+  - select
+  - transform
+structure:
+  - pipeline
+  - boundary
+abstraction_level: specific
 ---
 
 ## Transfers

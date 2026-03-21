@@ -16,6 +16,17 @@ related:
 slug: everything-is-a-file
 source_frame: library-and-archive
 updated: '2026-03-14'
+embodied_patterns:
+  - container
+  - part-whole
+  - flow
+relation_types:
+  - contain
+  - translate
+structure:
+  - hierarchy
+  - pipeline
+abstraction_level: specific
 transfers:
   - "[paradigm] a uniform interface over heterogeneous resources converts bewildering variety into a single access pattern"
   - "[paradigm] hierarchical named paths provide location-based addressing for every resource in the system"

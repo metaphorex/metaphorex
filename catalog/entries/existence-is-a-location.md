@@ -19,6 +19,16 @@ related:
 slug: existence-is-a-location
 source_frame: journeys
 updated: '2026-03-14'
+embodied_patterns:
+  - container
+  - path
+  - near-far
+relation_types:
+  - transform
+  - contain
+structure:
+  - boundary
+abstraction_level: primitive
 transfers:
   - '[source] to exist is to be located somewhere -- things come into being by appearing in a place, and cease to exist by disappearing from it -- mapping ontological status onto spatial presence or absence'
   - '[source] the transition between existence and non-existence maps onto arrival and departure: things come into existence (arrive), are in existence (occupy a place), and go out of existence (depart), giving ontological change the structure of movement'
