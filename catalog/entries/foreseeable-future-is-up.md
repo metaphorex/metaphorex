@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because ''up'' also means positive (GOOD IS UP) and more (MORE IS UP), creating confusions when upcoming events are negative -- an ''upcoming crisis'' is spatially up but evaluatively down, producing incoherence between the vertical metaphors'
   - '[source] misleads by importing the visual metaphor''s assumption that the future is seeable (foreseeable = visually accessible), which naturalizes prediction and makes unpredictable events feel like failures of observation rather than inherent uncertainty'
+embodied_patterns:
+  - scale
+  - near-far
+  - path
+relation_types:
+  - cause
+  - enable
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

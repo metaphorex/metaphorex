@@ -20,6 +20,15 @@ transfers:
 limits:
   - '[source] breaks because nautical berth-giving is temporary (you pass the hazard and move on), while social avoidance can be permanent, and the metaphor''s transient framing trivializes the cost of severed relationships'
   - '[source] misleads by framing avoidance as unambiguously prudent (good seamanship), when social avoidance can be cowardice, conflict avoidance, or passive aggression -- the nautical authority lent to the decision obscures its potential costs'
+embodied_patterns:
+  - near-far
+  - boundary
+  - force
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

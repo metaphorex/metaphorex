@@ -25,6 +25,15 @@ transfers:
   - '[source] imports the distinction between laminar and turbulent flow, structuring the claim that smooth continuity of experience produces coherent self-development while disruption produces chaotic defensive fragmentation'
   - '[source] carries the implication that flow requires a containing channel (the facilitating environment) whose shape determines the quality of the flow without the fluid being aware of the container'
 updated: '2026-03-20'
+embodied_patterns:
+  - flow
+  - container
+  - blockage
+relation_types:
+  - enable
+  - prevent
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

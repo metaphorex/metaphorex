@@ -27,6 +27,15 @@ transfers:
   - '[source] The generative organism channels resources away from its own growth toward offspring, importing a structural trade-off between self-development and investment in the next generation'
   - '[source] Reproductive fitness is measured by viable offspring rather than the parent''s own flourishing, reframing midlife success as a function of what one enables in others rather than what one accumulates for oneself'
 updated: '2026-03-20'
+embodied_patterns:
+  - splitting
+  - path
+  - accretion
+relation_types:
+  - cause
+  - enable
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

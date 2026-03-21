@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because the specific number (four) is calibrated to human visual acuity and stair-climbing tolerance, which have no analogue in software -- there is no biomechanical basis for any particular depth limit on class hierarchies'
   - '[source] misleads by implying that height is the only dimension of complexity, when software abstraction hierarchies also have breadth (number of sibling classes) and coupling (dependencies between layers) that have no spatial equivalent in building height'
+embodied_patterns:
+  - scale
+  - boundary
+  - surface-depth
+relation_types:
+  - prevent
+  - cause
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

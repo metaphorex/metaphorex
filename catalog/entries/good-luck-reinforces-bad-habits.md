@@ -20,6 +20,15 @@ transfers:
 limits:
   - '[model] overstates the case when applied to domains with fast, accurate feedback loops -- a software deployment that succeeds is genuine evidence the code works, unlike a fire escape that happens to avoid flashover'
   - '[model] can become a thought-terminating cliche that dismisses all experiential learning as survivorship bias, when in practice experienced practitioners do accumulate valid heuristics from repeated exposure'
+embodied_patterns:
+  - iteration
+  - path
+  - balance
+relation_types:
+  - cause
+  - accumulate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

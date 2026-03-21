@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because the generation ship has a fixed destination and trajectory, while real long-horizon institutions must adapt their goals as the world changes around them -- locking in a destination centuries ahead is more likely delusional than prudent"
   - "[source] misleads because the ship's population has no exit option, while members of real institutions can leave, and this exit possibility is what keeps institutions accountable rather than tyrannical"
+embodied_patterns:
+  - container
+  - path
+  - iteration
+relation_types:
+  - contain
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

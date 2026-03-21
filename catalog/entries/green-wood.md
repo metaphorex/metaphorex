@@ -26,6 +26,15 @@ limits:
   - '[source] breaks because green wood''s instability is temporary -- once seasoned, the wood becomes stable and reliable -- while the metaphor''s implication that inexperienced people are unreliable applies an agricultural timeline to human development, which is neither linear nor guaranteed to converge on "seasoned" stability'
   - '[source] misleads by importing the carpenter''s passive role in seasoning (stack it and wait) as a model for developing people, when human development requires active engagement, challenge, and feedback rather than mere elapsed time'
   - '[source] breaks because green wood is structurally identical to seasoned wood in composition -- only moisture content differs -- while the metaphor''s target (inexperience vs. experience) involves qualitative cognitive and dispositional changes, not just the removal of a single variable'
+embodied_patterns:
+  - force
+  - path
+  - accretion
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

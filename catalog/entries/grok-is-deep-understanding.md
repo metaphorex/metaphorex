@@ -36,6 +36,15 @@ transfers:
   \ cannot un-grok it, mapping the experience of insight that permanently\
   \ reorganizes your understanding"
 updated: '2026-03-16'
+embodied_patterns:
+  - merging
+  - surface-depth
+  - container
+relation_types:
+  - transform
+  - contain
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

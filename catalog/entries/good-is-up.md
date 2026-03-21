@@ -29,6 +29,15 @@ transfers:
 limits:
   - '[source] breaks because competing vertical metaphors assign opposite values to the same direction -- ''down to earth'' is a compliment, ''high and mighty'' is an insult -- revealing contradictions that speakers navigate by context but that expose the metaphor''s constructed nature'
   - '[source] misleads by naturalizing hierarchies: if good is literally above, then social stratification (with ''better'' people on top) feels like a spatial fact rather than a social construction, providing cognitive scaffolding for inequality'
+embodied_patterns:
+  - scale
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

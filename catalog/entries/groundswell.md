@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[source] breaks because ocean groundswells are mechanical waves obeying fluid dynamics with no leaders, no ideology, and no capacity for strategic error, while social movements have all of these -- the metaphor obscures the fragility and internal conflict of real collective action'
   - '[source] misleads because calling something a ''groundswell'' is a rhetorical move that asserts depth and authenticity, but the word is applied promiscuously to surface-level phenomena (viral hashtags, short-lived petitions) that are exactly the choppy wind-waves a real groundswell is not'
+embodied_patterns:
+  - force
+  - surface-depth
+  - flow
+relation_types:
+  - cause
+  - accumulate
+structure: growth
+abstraction_level: specific
 ---
 
 ## Transfers

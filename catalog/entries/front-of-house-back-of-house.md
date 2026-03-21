@@ -27,6 +27,15 @@ transfers:
 - '[source] imports the principle that the customer''s experience must be curated and calm while the production environment can be loud, hot, and chaotic -- the quality of the boundary determines the quality of the product'
 - '[source] carries the brigade system''s insight that front-of-house and back-of-house require fundamentally different skills, temperaments, and management styles, framing the interface between them as an organizational design problem'
 updated: '2026-03-19'
+embodied_patterns:
+  - boundary
+  - container
+  - surface-depth
+relation_types:
+  - contain
+  - translate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

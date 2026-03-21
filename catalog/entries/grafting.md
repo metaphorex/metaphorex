@@ -25,6 +25,15 @@ limits:
   - '[source] breaks because the scion has no agency -- it does not choose to be grafted, resist the process, or grieve the loss of its original rootstock -- making the metaphor unable to represent the cultural resistance, identity conflict, and political maneuvering that characterize organizational mergers'
   - '[source] the horticultural frame assumes one rootstock and one scion with a clean junction, but organizational integrations involve hundreds of connection points (systems, processes, reporting lines, cultures) with no single graft line, making the metaphor''s binary structure misleadingly simple'
   - '[source] grafting assumes the gardener knows in advance which organism should be rootstock and which should be scion, but mergers frequently suffer from ambiguity about which organization''s infrastructure, culture, and processes should serve as the foundation'
+embodied_patterns:
+  - merging
+  - boundary
+  - part-whole
+relation_types:
+  - transform
+  - enable
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

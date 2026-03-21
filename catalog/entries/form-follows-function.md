@@ -25,6 +25,15 @@ limits:
   - '[source] breaks because Sullivan''s own buildings were richly ornamented -- his terra-cotta facades are among the most decorated in American architecture -- meaning he understood "function" to include aesthetic and cultural functions, not just utilitarian ones, a nuance that the slogan''s later interpreters systematically dropped'
   - '[source] misleads by implying that function is singular and discoverable, when most designed objects serve multiple, conflicting functions (a courthouse must be accessible and imposing, a home must be private and welcoming), and form cannot "follow" all of them simultaneously'
   - '[source] hides the circular dependency: form shapes function as much as function shapes form, because the shape of a space determines what activities are possible within it -- an open-plan office does not follow from a discovered function but creates new behavioral functions that did not exist before'
+embodied_patterns:
+  - matching
+  - part-whole
+  - force
+relation_types:
+  - cause
+  - coordinate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

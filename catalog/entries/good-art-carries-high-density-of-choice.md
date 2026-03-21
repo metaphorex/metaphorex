@@ -23,6 +23,15 @@ transfers:
 - '[model] the metric is decisions per unit, not effort per unit, which distinguishes this from labor theories of value and transfers to writing (every word in a poem is chosen while prose tolerates default phrasing), cooking (a composed dish vs. a reheated one), and code (idiomatic one-liners that compress multiple design decisions)'
 - '[model] carries the diagnostic that when art feels thin or generic, the underlying cause is often low decision density -- the artist defaulted to convention rather than choosing at each point -- providing a structural explanation for why mass-produced and formulaic work reads as inferior even when technically competent'
 updated: '2026-03-21'
+embodied_patterns:
+  - scale
+  - part-whole
+  - matching
+relation_types:
+  - select
+  - accumulate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

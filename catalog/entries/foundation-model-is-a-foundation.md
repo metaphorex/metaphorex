@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because architectural foundations are passive and inert, while foundation models actively generate outputs, make decisions, and exhibit emergent behaviors that no building foundation ever does'
   - '[source] misleads by importing the permanence and singularity of building foundations (one foundation per building), when the ML ecosystem can and does swap foundation models, run multiple in parallel, and ensemble them -- the architectural metaphor makes lock-in seem more inevitable than it is'
+embodied_patterns:
+  - part-whole
+  - superimposition
+  - force
+relation_types:
+  - enable
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

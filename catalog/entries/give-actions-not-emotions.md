@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[model] fails when the performer genuinely lacks the experiential repertoire to connect action to emotion -- a young actor asked to "hold your child''s shoe after she has gone" may produce the physical action without any emergent feeling if they have no frame of reference for parental loss'
   - '[model] breaks down in domains where the desired output is literally an emotion rather than a behavior -- therapy aims to change how someone feels, not just what they do, and relabeling all emotional goals as behavioral goals can become a form of emotional avoidance'
+embodied_patterns:
+  - force
+  - path
+  - surface-depth
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

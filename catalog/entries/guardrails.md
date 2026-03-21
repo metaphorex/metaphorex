@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because road guardrails are rigid and binary (they either stop the vehicle or they do not), while AI behavioral constraints operate on probabilistic outputs and must make graded judgments about boundary proximity rather than simple contact detection'
   - '[source] misleads by implying that the safe corridor is well-defined and the boundaries are obvious (you can see a guardrail), when AI behavioral boundaries are contested, context-dependent, and often discovered only after a violation has already occurred'
+embodied_patterns:
+  - boundary
+  - path
+  - container
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -28,6 +28,15 @@ limits:
   - '[source] the military flank exploits a physical geometry -- troops face one direction and cannot fire behind themselves -- that has no precise analogue in markets or arguments, where "facing" a competitor is not a spatial constraint'
   - '[source] breaks because a flanking force in war is weaker than the main body and risks being cut off and destroyed if detected, while metaphorical "flanking" in business (entering an adjacent market) rarely carries existential risk to the flanking unit'
   - '[source] imports the assumption that the defender''s front is strong, which may not hold -- sometimes the obvious direct approach is viable and the elaborate flanking maneuver wastes time solving a problem that does not exist'
+embodied_patterns:
+  - path
+  - center-periphery
+  - force
+relation_types:
+  - compete
+  - cause
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

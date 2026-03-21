@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because programs execute sequentially on a deterministic machine, while gene expression is massively parallel, context-dependent, and regulated by the cellular environment in ways that have no programming analogue"
   - "[source] misleads because source code has a single correct reading determined by the language specification, while DNA is read differently by different cell types, at different developmental stages, and under different environmental conditions"
+embodied_patterns:
+  - matching
+  - path
+  - part-whole
+relation_types:
+  - transform
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

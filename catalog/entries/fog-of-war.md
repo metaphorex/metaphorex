@@ -28,6 +28,15 @@ limits:
   - '[source] breaks because physical fog is uniform and impersonal, while informational uncertainty in war and business is asymmetric -- one side may have better intelligence, faster communication, or superior sensors, so the "fog" is denser for some than others'
   - '[source] misleads by implying that uncertainty is temporary and will clear, when many strategic environments feature permanently incomplete information that no amount of reconnaissance can fully resolve'
   - '[source] obscures that much wartime confusion comes not from missing information but from contradictory, overwhelming, or deliberately falsified information -- the problem is often too much signal, not too little visibility'
+embodied_patterns:
+  - surface-depth
+  - near-far
+  - boundary
+relation_types:
+  - prevent
+  - cause
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

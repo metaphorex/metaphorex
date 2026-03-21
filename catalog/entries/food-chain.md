@@ -26,6 +26,16 @@ limits:
   - '[source] breaks because real ecologists abandoned the linear "chain" model for the "food web" -- a network of feeding relationships with omnivory, feedback loops, and context-dependent links -- meaning the metaphor imports a simplification that ecology itself has rejected as inaccurate'
   - '[source] misleads by importing fixed trophic positions (each organism occupies one level), when most social hierarchies involve actors who simultaneously occupy multiple levels depending on context -- a middle manager is predator to subordinates and prey to executives'
   - '[source] breaks because ecological food chains have no intent -- a fox does not choose to be above the rabbit -- while social "food chains" involve deliberate power construction, making the metaphor naturalize hierarchies that are politically maintained'
+embodied_patterns:
+  - scale
+  - flow
+  - part-whole
+relation_types:
+  - cause
+  - select
+  - compete
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

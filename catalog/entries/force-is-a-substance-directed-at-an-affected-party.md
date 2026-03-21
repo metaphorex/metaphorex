@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because the directed-stream model implies a single unidirectional path from cause to effect, while real causation is often bidirectional (the affected party changes the cause in return) or distributed across networks rather than flowing point-to-point'
   - '[source] misleads by treating force as a substance that arrives from outside, obscuring cases where the affected party generates its own response internally rather than merely receiving and resisting an incoming stream'
+embodied_patterns:
+  - flow
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

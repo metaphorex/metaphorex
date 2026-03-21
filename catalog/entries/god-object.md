@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because a deity''s omniscience is a feature (comprehensive knowledge is what makes God effective), while a software object''s omniscience is a defect (coupling to everything is what makes it fragile) -- the metaphor inverts the valence of the defining property'
   - '[source] misleads by implying that the solution is ''atheism'' (removing the god object entirely), when the real engineering fix is distributing responsibilities across multiple smaller objects -- the theological frame has no vocabulary for polytheistic refactoring'
+embodied_patterns:
+  - center-periphery
+  - link
+  - part-whole
+relation_types:
+  - contain
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because the imagined direction of motion is arbitrary -- a road ''goes'' from Paris to Lyon equally well as it ''goes'' from Lyon to Paris -- but the metaphor encourages speakers to assign a privileged direction to inherently undirected spatial forms'
   - '[source] misleads by animating static objects, which can import intentionality where none exists -- ''the river seeks the sea'' personifies a physical process, making gravity-driven flow sound purposeful'
+embodied_patterns:
+  - path
+  - matching
+  - flow
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

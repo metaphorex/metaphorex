@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because a physical frame is permanent and visible during construction, while conceptual and software frameworks are invisible to end users and are routinely swapped, migrated, or abandoned -- the metaphor imports a false permanence'
   - '[source] misleads by implying that the frame is neutral scaffolding that supports any content, when frameworks actively shape what can be built within them, privileging certain structures and making others awkward or impossible'
+embodied_patterns:
+  - part-whole
+  - container
+  - matching
+relation_types:
+  - enable
+  - contain
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

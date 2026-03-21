@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because competition requires an adversary whose defeat is the goal, but healthy physical intimacy requires mutual desire -- the metaphor structurally erases the possibility that both parties want the same outcome and replaces consent with capitulation'
   - '[source] misleads by importing the competitive premise that resistance is expected and overcoming it is victory, which normalizes pressure and coercion by framing them as legitimate competitive strategies rather than violations of autonomy'
+embodied_patterns:
+  - force
+  - boundary
+  - path
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

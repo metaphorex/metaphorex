@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because the golem has no internal state or learning -- it does not adapt, generalize, or develop goals beyond the inscribed command -- while the modern systems it is most often mapped onto (AI, bureaucracies) do learn and develop emergent objectives'
   - '[source] misleads by implying that the solution is as simple as erasing a letter (deactivating the system), when real complex systems cannot be turned off by a single control action and typically resist shutdown through institutional, economic, or technical lock-in'
+embodied_patterns:
+  - force
+  - boundary
+  - matching
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

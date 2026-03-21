@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because Frankenstein's creature is conscious, suffering, and morally aware, while the technologies the metaphor is applied to (AI, GMOs, nuclear weapons) have no inner life -- the novel is about a failed relationship between creator and creation, not about a malfunctioning product"
   - "[source] misleads because the novel's horror comes from Frankenstein's moral failure (abandonment), not from the act of creation itself, but the metaphor is almost always invoked to argue that the creation should never have been attempted"
+embodied_patterns:
+  - part-whole
+  - splitting
+  - force
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

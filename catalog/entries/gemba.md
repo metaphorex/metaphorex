@@ -20,6 +20,15 @@ transfers:
 limits:
   - "[model] breaks when the 'real place' is distributed, virtual, or abstract -- a globally distributed software team has no single gemba to visit, and the concept provides no guidance for how to achieve observational grounding in non-physical work"
   - "[model] misleads because management presence at the work site can distort the very behavior being observed (the Hawthorne effect), making the gemba walk a performance rather than a window into reality"
+embodied_patterns:
+  - near-far
+  - surface-depth
+  - matching
+relation_types:
+  - enable
+  - translate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

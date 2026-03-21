@@ -28,6 +28,15 @@ limits:
   - '[source] breaks because physical friction is predictable and measurable with known coefficients, while Clausewitzian friction is emergent and resists quantification -- you cannot calculate the friction coefficient of an exhausted supply clerk misrouting ammunition'
   - '[source] misleads by implying friction is always a negative force to minimize, when in mechanical systems friction is sometimes essential (brakes, traction, grip) -- analogously, some organizational "friction" (review processes, safety checks) prevents catastrophic failures'
   - '[source] obscures that Clausewitz''s friction is partly psychological -- fear, exhaustion, confusion, and moral uncertainty contribute as much as logistical snags, but the mechanical metaphor focuses attention on systemic rather than human sources of degradation'
+embodied_patterns:
+  - force
+  - blockage
+  - flow
+relation_types:
+  - prevent
+  - accumulate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

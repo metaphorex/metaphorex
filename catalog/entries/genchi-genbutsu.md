@@ -20,6 +20,15 @@ transfers:
 limits:
   - "[model] breaks at scale because a leader cannot personally visit every relevant site, and the principle provides no guidance for how to maintain observational grounding when the organization spans continents and thousands of processes"
   - "[model] misleads by implying that firsthand observation is always more reliable than systematic data collection, when in fact human observation is subject to recency bias, salience bias, and small-sample distortion that well-designed metrics can correct"
+embodied_patterns:
+  - near-far
+  - surface-depth
+  - matching
+relation_types:
+  - enable
+  - translate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

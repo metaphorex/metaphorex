@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because eaten food is destroyed in the process of consumption, while most acquired things (possessions, knowledge, rights) persist intact after acquisition -- the metaphor imports a destructive consumption structure onto non-destructive obtaining'
   - '[source] misleads by framing acquisition as an individual biological act (one mouth, one stomach), when most real-world getting involves social transactions between parties rather than solitary ingestion'
+embodied_patterns:
+  - force
+  - container
+  - part-whole
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

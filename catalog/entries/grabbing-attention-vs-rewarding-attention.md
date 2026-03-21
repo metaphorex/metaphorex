@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because the boundary between grabbing and rewarding is not fixed: a Rothko painting initially grabs attention through sheer scale and saturated color, then rewards it through subtle color field interactions -- the same element can serve both functions sequentially'
   - '[source] misleads by implying that grabbing attention is always cheap and rewarding it is always noble, when in practice effective communication requires an initial capture moment, and art that refuses to grab attention at all may never get the chance to reward it'
+embodied_patterns:
+  - force
+  - scale
+  - near-far
+relation_types:
+  - compete
+  - select
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because manufacturing tolerance is specified numerically before production begins, while the "good enough" threshold in parenting is discovered retroactively through the child''s development -- there is no spec sheet'
   - '[source] misleads because a manufactured part either passes or fails inspection, while parenting quality exists on a continuous gradient with no clear pass/fail boundary -- the binary of the factory floor does not transfer'
+embodied_patterns:
+  - container
+  - balance
+  - boundary
+relation_types:
+  - enable
+  - contain
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

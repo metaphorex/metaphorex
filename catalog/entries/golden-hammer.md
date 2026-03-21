@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because a physical golden hammer is recognizably inappropriate for non-nail tasks (you would not use a hammer to paint), while software golden hammers often produce results that appear adequate, hiding the mismatch behind working-but-suboptimal implementations'
   - '[source] misleads by framing the problem as individual attachment (one person''s favorite tool), when golden hammer syndrome is often institutional: an entire organization standardizes on a technology and then applies it everywhere regardless of fit'
+embodied_patterns:
+  - matching
+  - force
+  - container
+relation_types:
+  - cause
+  - prevent
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

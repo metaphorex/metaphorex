@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because town citizens have persistent memory and relationships across sessions, while most agent systems instantiate and discard agents per-task without continuity"
   - "[source] misleads because civic governance implies consent and legitimacy of the governed, but the orchestrator's authority is absolute and programmatic, not elected or negotiable"
+embodied_patterns:
+  - center-periphery
+  - link
+  - container
+relation_types:
+  - coordinate
+  - contain
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because municipal garbage never comes back after pickup, but deallocated memory is immediately available for reuse -- there is no landfill"
   - "[source] misleads because residents decide what is trash, but garbage collectors in software decide autonomously through reachability analysis"
+embodied_patterns:
+  - container
+  - removal
+  - iteration
+relation_types:
+  - select
+  - restore
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

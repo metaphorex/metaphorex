@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because real causal force is not a conserved substance -- a leader''s authority can increase through use rather than deplete, and a catalyst enables reactions without being consumed, which the contained-substance model cannot represent'
   - '[source] misleads by localizing force entirely inside the cause, obscuring how contextual factors (medium, distance, resistance) modulate the transmission of causal influence between the cause and its effect'
+embodied_patterns:
+  - container
+  - flow
+  - force
+relation_types:
+  - cause
+  - contain
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

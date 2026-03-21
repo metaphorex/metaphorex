@@ -25,6 +25,15 @@ transfers:
   - '[source] imports the horticultural principle that a garden''s health is measured by what grows in it, not by its conformance to a blueprint, teaching that a living system''s value comes from its inhabitants'' flourishing rather than its designer''s control'
   - '[source] treats the gardener as a guide rather than a commander, mapping onto the architectural role of the developer who shapes conditions for growth rather than dictating every outcome'
 updated: '2026-03-19'
+embodied_patterns:
+  - self-organization
+  - accretion
+  - container
+relation_types:
+  - enable
+  - transform
+structure: emergence
+abstraction_level: specific
 ---
 
 ## Transfers

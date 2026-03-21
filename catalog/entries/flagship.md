@@ -23,6 +23,15 @@ transfers:
 - '[source] the flagship received preferential allocation of crew, provisions, and maintenance because the admiral depended on it, mapping onto products that get the best resources and largest budgets'
 - '[source] a fleet knew which ship was the flagship simply by the flag, providing hierarchical ordering without requiring detailed comparison -- the flag does the work of ranking'
 updated: '2026-03-14'
+embodied_patterns:
+  - center-periphery
+  - scale
+  - link
+relation_types:
+  - coordinate
+  - select
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

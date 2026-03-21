@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because cutting a knot destroys the rope, while real-world ''Gordian knot'' solutions must usually preserve the system being untangled -- you cannot cut a regulatory tangle without destroying the regulations, which may serve purposes the cutter ignores'
   - '[source] misleads by framing patient analysis as weakness and dramatic action as strength, which romanticizes impatience and can justify destructive shortcuts through problems that actually require careful, incremental resolution'
+embodied_patterns:
+  - link
+  - force
+  - splitting
+relation_types:
+  - transform
+  - decompose
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers
