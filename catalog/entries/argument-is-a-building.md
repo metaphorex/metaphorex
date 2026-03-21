@@ -19,6 +19,16 @@ related:
 slug: argument-is-a-building
 source_frame: architecture-and-building
 updated: '2026-03-14'
+embodied_patterns:
+  - part-whole
+  - force
+  - surface-depth
+relation_types:
+  - cause
+  - decompose
+  - enable
+structure: hierarchy
+abstraction_level: generic
 transfers:
   - '[source] a building requires a foundation laid before walls can rise, framing argument construction as requiring premises established before conclusions can be supported'
   - '[source] structural loads must be distributed through load-bearing elements to the foundation, importing the insight that each claim in an argument must connect to supporting evidence through a traceable chain'

@@ -22,6 +22,16 @@ related:
 slug: beliefs-are-possessions
 source_frame: economics
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - near-far
+  - force
+relation_types:
+  - contain
+  - cause
+  - transform
+structure: boundary
+abstraction_level: primitive
 transfers:
   - '[source] possessions are acquired, held, defended, and can be lost or stolen, framing beliefs as objects over which a person exercises ownership and control'
   - '[source] possessions can be given to others without the giver necessarily losing them, importing the structure of belief-sharing where teaching does not diminish the teacher''s conviction'

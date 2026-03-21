@@ -18,6 +18,16 @@ related:
 slug: authority-is-height
 source_frame: spatial-location
 updated: '2026-03-16'
+embodied_patterns:
+  - scale
+  - center-periphery
+  - force
+relation_types:
+  - cause
+  - contain
+  - enable
+structure: hierarchy
+abstraction_level: primitive
 transfers:
   - "[source] higher elevation provides greater visibility and surveillance range over surrounding terrain"
   - "[source] ascending requires effort against gravity while descending is effortless or uncontrolled"

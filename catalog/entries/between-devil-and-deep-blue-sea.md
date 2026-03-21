@@ -7,6 +7,15 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 dead: true
+embodied_patterns:
+  - boundary
+  - near-far
+  - blockage
+relation_types:
+  - prevent
+  - compete
+structure: competition
+abstraction_level: generic
 name: Between the Devil and the Deep Blue Sea
 related: []
 slug: between-devil-and-deep-blue-sea

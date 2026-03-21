@@ -21,6 +21,16 @@ related:
 slug: beliefs-are-fashions
 source_frame: social-behavior
 updated: '2026-03-17'
+embodied_patterns:
+  - flow
+  - scale
+  - center-periphery
+relation_types:
+  - select
+  - transform
+  - compete
+structure: cycle
+abstraction_level: generic
 transfers:
   - "[source] fashions cycle through adoption, peak popularity, and obsolescence without regard for intrinsic quality"
   - "[source] early adopters gain social distinction that erodes as the fashion spreads to the mainstream"

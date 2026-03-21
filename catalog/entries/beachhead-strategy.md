@@ -17,6 +17,18 @@ provenance: napoleons-military-maxims
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
+embodied_patterns:
+  - boundary
+  - center-periphery
+  - force
+relation_types:
+  - enable
+  - compete
+  - contain
+structure:
+  - boundary
+  - growth
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[source] the initial landing force secures a small, defensible perimeter before any expansion begins, importing the structure where market entry requires dominating a narrow segment completely rather than competing broadly at insufficient strength'

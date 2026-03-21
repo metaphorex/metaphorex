@@ -19,6 +19,16 @@ related:
 slug: apprenticeship-in-thinking
 source_frame: education
 updated: '2026-03-20'
+embodied_patterns:
+  - path
+  - scale
+  - center-periphery
+relation_types:
+  - enable
+  - transform
+  - accumulate
+structure: growth
+abstraction_level: generic
 transfers:
   - '[source] the apprentice learns by working on real products alongside the master, not by studying theory first and applying it later -- the metaphor collapses the instruction-practice gap that formal education assumes'
   - '[source] competence transfers gradually through increasing responsibility: the apprentice moves from peripheral tasks to central ones as skill grows, importing the medieval guild''s progression structure into cognitive development'

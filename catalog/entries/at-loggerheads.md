@@ -7,6 +7,15 @@ harness: Claude Code
 created: '2026-03-14'
 kind: metaphor
 dead: true
+embodied_patterns:
+  - force
+  - balance
+  - blockage
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: generic
 name: At Loggerheads
 related:
 - fathom

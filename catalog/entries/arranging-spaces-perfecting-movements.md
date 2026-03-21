@@ -13,6 +13,16 @@ related:
   - cleaning-as-you-go
   - five-s
 dead: false
+embodied_patterns:
+  - near-far
+  - iteration
+  - matching
+relation_types:
+  - enable
+  - transform
+  - coordinate
+structure: cycle
+abstraction_level: specific
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established

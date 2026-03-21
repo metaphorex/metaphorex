@@ -7,6 +7,15 @@ harness: Claude Code
 created: '2026-03-14'
 kind: metaphor
 dead: true
+embodied_patterns:
+  - boundary
+  - container
+  - blockage
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 name: Batten Down the Hatches
 related:
 - dead-in-the-water

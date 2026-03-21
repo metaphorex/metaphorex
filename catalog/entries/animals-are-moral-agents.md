@@ -8,6 +8,16 @@ categories:
 contributors: []
 created: '2026-03-16'
 grounding: folk
+embodied_patterns:
+  - scale
+  - matching
+  - center-periphery
+relation_types:
+  - transform
+  - translate
+  - select
+structure: hierarchy
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Animals Are Moral Agents

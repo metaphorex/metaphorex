@@ -15,6 +15,16 @@ related:
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
+embodied_patterns:
+  - path
+  - flow
+  - matching
+relation_types:
+  - cause
+  - enable
+  - select
+structure: cycle
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[model] forces a separation between current state observation and trajectory prediction, requiring the decision-maker to answer "what IS the fire doing" and "what WILL it do" as distinct questions, which prevents the common error of assuming current conditions are stable'

@@ -17,6 +17,16 @@ related:
 slug: an-instrument-is-a-companion
 source_frame: social-roles
 updated: '2026-03-14'
+embodied_patterns:
+  - link
+  - matching
+  - attraction
+relation_types:
+  - transform
+  - coordinate
+  - accumulate
+structure: network
+abstraction_level: generic
 transfers:
   - '[source] a companion is chosen, carried through time, and develops a shared history with its owner, framing the musician-instrument relationship as accumulating irreplaceable mutual adaptation'
   - '[source] companions respond differently to different people based on the relationship, importing the phenomenon that the same instrument sounds different under different players'' hands'

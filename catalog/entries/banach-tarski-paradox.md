@@ -16,6 +16,15 @@ provenance: mathematical-folklore
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: proven
+embodied_patterns:
+  - splitting
+  - part-whole
+  - matching
+relation_types:
+  - decompose
+  - transform
+structure: transformation
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[model] demonstrates that decomposing a whole into parts and reassembling them can yield more than the original, exposing the hidden dependence of conservation laws on measurability -- the pieces are so irregular that "volume" is undefined for them, so no volume is created or destroyed'

@@ -8,6 +8,16 @@ categories:
 contributors: []
 created: '2026-03-18'
 dead: true
+embodied_patterns:
+  - boundary
+  - surface-depth
+  - scale
+relation_types:
+  - prevent
+  - compete
+  - contain
+structure: boundary
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 limits:

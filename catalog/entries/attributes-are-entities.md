@@ -10,6 +10,16 @@ contributors:
 - fshot
 created: '2026-03-17'
 grounding: established
+embodied_patterns:
+  - container
+  - part-whole
+  - near-far
+relation_types:
+  - contain
+  - transform
+  - cause
+structure: network
+abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Attributes Are Entities

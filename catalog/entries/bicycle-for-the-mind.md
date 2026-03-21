@@ -16,6 +16,15 @@ related:
 slug: bicycle-for-the-mind
 source_frame: embodied-experience
 updated: '2026-03-13'
+embodied_patterns:
+  - force
+  - scale
+  - path
+relation_types:
+  - enable
+  - transform
+structure: pipeline
+abstraction_level: generic
 transfers:
   - '[source] a bicycle converts human pedaling into locomotion more efficiently than any other mechanism, framing the computer as achieving maximum cognitive output per unit of human mental effort'
   - '[source] the rider provides all energy and directional control while the bicycle provides only mechanical advantage, importing a strict division where the human originates and the machine amplifies'

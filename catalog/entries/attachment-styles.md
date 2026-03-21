@@ -5,6 +5,16 @@ categories:
 contributors: []
 created: '2026-03-20'
 grounding: established
+embodied_patterns:
+  - matching
+  - link
+  - near-far
+relation_types:
+  - select
+  - cause
+  - enable
+structure: boundary
+abstraction_level: specific
 harness: Claude Code
 kind: mental-model
 limits:

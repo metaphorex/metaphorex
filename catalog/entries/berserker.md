@@ -13,6 +13,16 @@ contributors: []
 related:
   - the-trickster
 dead: true
+embodied_patterns:
+  - force
+  - boundary
+  - removal
+relation_types:
+  - transform
+  - cause
+  - compete
+structure: transformation
+abstraction_level: specific
 created: '2026-03-16'
 updated: '2026-03-16'
 harness: Claude Code

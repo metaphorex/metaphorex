@@ -21,6 +21,16 @@ related:
 slug: beliefs-are-guides
 source_frame: journeys
 updated: '2026-03-17'
+embodied_patterns:
+  - path
+  - link
+  - near-far
+relation_types:
+  - enable
+  - cause
+  - select
+structure: pipeline
+abstraction_level: generic
 transfers:
   - "[source] a guide leads the traveler along a path the guide has already traversed"
   - "[source] following a guide requires trusting someone else's knowledge of the terrain"

@@ -15,6 +15,16 @@ limits:
   - '[source] Physical bonds have measurable tensile strength and a single failure mode (they snap), but emotional attachment fails through diverse mechanisms -- withdrawal, betrayal, ambivalence, neglect -- that the bond metaphor collapses into one image'
   - '[source] A material bond connects two objects of similar ontological status, but attachment bonds connect agents with radically asymmetric needs, power, and mobility -- the infant cannot "strain" the bond in the same way the caregiver can'
   - '[source] Broken physical bonds leave clean surfaces that can be re-bonded with the same material, but ruptured attachment relationships leave complex psychological residues (grief, defensive patterns, internal working models) that reshape the person''s capacity for future bonding'
+embodied_patterns:
+  - link
+  - force
+  - near-far
+relation_types:
+  - enable
+  - cause
+  - contain
+structure: network
+abstraction_level: generic
 name: Attachment as Bond
 related:
 - facilitating-environment

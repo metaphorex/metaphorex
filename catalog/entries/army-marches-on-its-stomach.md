@@ -17,6 +17,16 @@ provenance: napoleons-military-maxims
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
+embodied_patterns:
+  - flow
+  - link
+  - blockage
+relation_types:
+  - enable
+  - cause
+  - prevent
+structure: pipeline
+abstraction_level: generic
 harness: Claude Code
 transfers:
   - '[source] an army that outruns its supply chain loses combat effectiveness regardless of tactical superiority, importing the structure where capability depends on the continuous flow of unglamorous inputs rather than on peak performance at the point of action'

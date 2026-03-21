@@ -23,6 +23,17 @@ related:
 slug: anger-is-a-heated-fluid-in-a-container
 source_frame: fluid-dynamics
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - force
+  - flow
+  - scale
+relation_types:
+  - cause
+  - contain
+  - transform
+structure: boundary
+abstraction_level: generic
 transfers:
   - '[source] a heated fluid in a sealed container builds pressure proportional to temperature, framing anger as an internal force that intensifies over time and requires either controlled release or risks catastrophic failure'
   - '[source] the container has a finite capacity and a failure threshold, importing the structural claim that emotional suppression has limits beyond which explosive expression is inevitable'

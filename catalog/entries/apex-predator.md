@@ -15,6 +15,16 @@ limits:
   - '[source] breaks because apex predators regulate prey populations through direct consumption, keeping the ecosystem in balance -- dominant corporations regulate competitors through pricing, acquisition, and lobbying, mechanisms that can destabilize markets rather than stabilize them'
   - '[source] misleads by importing the ecological principle that apex predator removal degrades the ecosystem, when removing a monopolist often improves market health by releasing suppressed competition (Standard Oil''s breakup increased industry output)'
   - '[source] obscures that ecological apex predators have low reproductive rates and small populations, making them the most vulnerable to extinction -- dominant corporations are often the most resilient entities in their markets, inverting the fragility the metaphor implies'
+embodied_patterns:
+  - scale
+  - center-periphery
+  - force
+relation_types:
+  - compete
+  - contain
+  - cause
+structure: hierarchy
+abstraction_level: generic
 name: Apex Predator
 provenance: ecological-metaphors
 related:
