@@ -7,6 +7,16 @@ categories:
 contributors: []
 created: '2026-03-18'
 grounding: established
+embodied_patterns:
+  - container
+  - force
+  - part-whole
+relation_types:
+  - cause
+  - contain
+  - prevent
+structure: hierarchy
+abstraction_level: generic
 kind: mental-model
 name: A Bad System Beats a Good Person
 provenance: tps-deming

@@ -24,6 +24,16 @@ transfers:
 - '[source] imports the expendability of individual swarm insects onto AI agents, framing fault tolerance as a natural property where the swarm absorbs individual agent failures and continues functioning'
 - '[source] maps stigmergy (indirect coordination through environmental modification like pheromone trails) onto agent communication through shared state, message queues, and artifact repositories'
 updated: '2026-03-13'
+embodied_patterns:
+  - self-organization
+  - link
+  - scale
+relation_types:
+  - coordinate
+  - enable
+  - accumulate
+structure: emergence
+abstraction_level: specific
 ---
 
 ## Transfers

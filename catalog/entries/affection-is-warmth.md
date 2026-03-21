@@ -10,6 +10,16 @@ contributors:
 - fshot
 created: '2026-03-17'
 grounding: proven
+embodied_patterns:
+  - near-far
+  - scale
+  - flow
+relation_types:
+  - cause
+  - translate
+  - enable
+structure: equilibrium
+abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Affection Is Warmth

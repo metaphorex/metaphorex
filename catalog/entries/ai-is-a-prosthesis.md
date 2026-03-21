@@ -16,6 +16,16 @@ related:
 slug: ai-is-a-prosthesis
 source_frame: medicine
 updated: '2026-03-13'
+embodied_patterns:
+  - merging
+  - part-whole
+  - boundary
+relation_types:
+  - enable
+  - transform
+  - translate
+structure: boundary
+abstraction_level: generic
 transfers:
   - '[source] a prosthesis replaces a specific lost function rather than augmenting an intact one, framing AI as compensating for human cognitive limitations like memory, calculation speed, or language translation'
   - '[source] a well-fitted prosthesis becomes transparent to its user -- the amputee reaches for a cup, not for the prosthetic hand -- importing the ideal of seamless integration where the tool disappears into the task'

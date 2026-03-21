@@ -16,6 +16,16 @@ related:
 slug: ai-is-a-spell-checker
 source_frame: tool-use
 updated: '2026-03-13'
+embodied_patterns:
+  - matching
+  - boundary
+  - scale
+relation_types:
+  - select
+  - prevent
+  - translate
+structure: pipeline
+abstraction_level: specific
 transfers:
   - '[source] a spell checker applies deterministic rules against a known-correct dictionary, framing AI as a constraint-checker that flags deviations from established norms'
   - '[source] spell checkers process surface form without understanding meaning, importing the structural limitation that corrections may be formally valid but contextually wrong'

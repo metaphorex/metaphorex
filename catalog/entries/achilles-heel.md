@@ -26,6 +26,16 @@ transfers:
   - "[source] imports the narrative structure where strength everywhere else is irrelevant once the weak point is found, teaching that overall robustness does not compensate for a localized critical flaw"
   - "[source] carries the implication that the vulnerability is hidden or non-obvious (the heel, not the chest), directing analysis toward obscure dependencies rather than conspicuous attack surfaces"
 updated: '2026-03-16'
+embodied_patterns:
+  - boundary
+  - part-whole
+  - surface-depth
+relation_types:
+  - cause
+  - prevent
+  - decompose
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

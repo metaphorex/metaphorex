@@ -24,6 +24,16 @@ transfers:
 - '[source] imports containment as constraint -- being inside an activity means being subject to its rules and pressures, and the container can become a trap (''stuck in this project'')'
 - '[source] gives activities measurable extent (''a lot in this course'', ''full schedule''), treating content as stuff filling a bounded space with capacity limits'
 updated: '2026-03-14'
+embodied_patterns:
+  - container
+  - boundary
+  - scale
+relation_types:
+  - contain
+  - enable
+  - prevent
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

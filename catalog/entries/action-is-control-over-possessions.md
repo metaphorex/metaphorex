@@ -25,6 +25,16 @@ transfers:
 - '[source] maps failure to act onto dispossession (''lost his composure'', ''lost control''), while gaining control maps onto acquisition (''seized the initiative'', ''gained the upper hand'')'
 - '[source] frames transfer of leadership as changing hands of possessions (''handed over the reins'', ''passed the torch''), making authority an object with a clear holder at any moment'
 updated: '2026-03-12'
+embodied_patterns:
+  - container
+  - force
+  - link
+relation_types:
+  - cause
+  - enable
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

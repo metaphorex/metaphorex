@@ -18,6 +18,16 @@ related:
 created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established
+embodied_patterns:
+  - container
+  - boundary
+  - center-periphery
+relation_types:
+  - contain
+  - enable
+  - prevent
+structure: boundary
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[source] every person in the household has at least one space where they control the arrangement, the access, and the duration of occupancy -- a space that cannot be reorganized by others without their consent'

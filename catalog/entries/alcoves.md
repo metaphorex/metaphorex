@@ -9,6 +9,16 @@ categories:
 contributors: []
 created: '2026-03-19'
 harness: Claude Code
+embodied_patterns:
+  - container
+  - part-whole
+  - boundary
+relation_types:
+  - decompose
+  - contain
+  - enable
+structure: hierarchy
+abstraction_level: specific
 kind: pattern
 limits:
 - '[source] breaks because architectural alcoves are physically bounded by walls and sightlines, while software namespaces and organizational sub-teams lack natural spatial limits and can grow until the "alcove" is as large and undifferentiated as the room it was meant to subdivide'

@@ -19,6 +19,16 @@ related:
 slug: ai-is-an-agent
 source_frame: governance
 updated: '2026-03-13'
+embodied_patterns:
+  - path
+  - link
+  - boundary
+relation_types:
+  - enable
+  - cause
+  - coordinate
+structure: hierarchy
+abstraction_level: generic
 transfers:
   - '[source] an agent acts on behalf of a principal under delegated authority, importing a fiduciary structure where the AI''s actions should serve the user''s interests and the user bears responsibility for outcomes'
   - '[source] agents exercise discretion within bounded authority -- a real estate agent negotiates but cannot change the listing price without permission -- framing AI autonomy as operating within human-defined constraints'

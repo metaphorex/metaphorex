@@ -9,6 +9,16 @@ contributors:
 - fshot
 created: '2026-03-17'
 grounding: established
+embodied_patterns:
+  - force
+  - container
+  - scale
+relation_types:
+  - cause
+  - transform
+  - enable
+structure: cycle
+abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Active Is Alive

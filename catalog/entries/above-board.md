@@ -7,6 +7,16 @@ categories:
 contributors: []
 created: '2026-03-14'
 dead: true
+embodied_patterns:
+  - surface-depth
+  - boundary
+  - container
+relation_types:
+  - contain
+  - prevent
+  - translate
+structure: boundary
+abstraction_level: generic
 kind: metaphor
 limits:
 - '[source] breaks because some concealment is morally required -- whistleblower protections, medical privacy, and sealed court records involve deliberate hiding for good reasons that the spatial logic

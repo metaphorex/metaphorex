@@ -16,6 +16,16 @@ related:
 slug: ai-is-an-iceberg
 source_frame: natural-phenomena
 updated: '2026-03-13'
+embodied_patterns:
+  - surface-depth
+  - container
+  - part-whole
+relation_types:
+  - contain
+  - cause
+  - enable
+structure: hierarchy
+abstraction_level: generic
 transfers:
   - '[source] roughly 90% of an iceberg''s mass is submerged and invisible from the surface, importing a specific ratio claim that the visible AI interface represents a small fraction of the total system'
   - '[source] the submerged mass determines the iceberg''s drift, stability, and danger to shipping, framing hidden infrastructure (training data, compute, human labor) as the causal driver of AI behavior'

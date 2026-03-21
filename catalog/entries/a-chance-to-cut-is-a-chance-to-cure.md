@@ -19,6 +19,16 @@ provenance: scheins-surgical-aphorisms
 created: '2026-03-20'
 updated: '2026-03-20'
 grounding: folk
+embodied_patterns:
+  - force
+  - blockage
+  - removal
+relation_types:
+  - transform
+  - enable
+  - cause
+structure: transformation
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[source] Surgical access to a pathology is a precondition that may not recur -- the abdomen is already open, the patient is already under anesthesia -- importing the structure where the opportunity to intervene has its own costs and rarity that make the marginal cost of acting now far lower than acting later'

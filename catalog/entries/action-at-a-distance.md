@@ -9,6 +9,16 @@ contributors:
 - fshot
 created: '2026-03-17'
 dead: false
+embodied_patterns:
+  - link
+  - near-far
+  - force
+relation_types:
+  - cause
+  - enable
+  - translate
+structure: network
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Action at a Distance

@@ -15,6 +15,16 @@ related:
 slug: ai-is-a-black-box
 source_frame: containers
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - boundary
+  - surface-depth
+relation_types:
+  - contain
+  - prevent
+  - translate
+structure: boundary
+abstraction_level: generic
 transfers:
   - '[source] a black box exposes only input and output terminals while sealing internal mechanism from inspection, mapping opacity as an engineering property rather than mere ignorance'
   - '[source] black-box testing validates behavior through input-output pairs without requiring structural knowledge, importing a methodology where functional correctness can be assessed despite internal opacity'

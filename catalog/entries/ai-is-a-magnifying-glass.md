@@ -16,6 +16,16 @@ related:
 slug: ai-is-a-magnifying-glass
 source_frame: vision
 updated: '2026-03-13'
+embodied_patterns:
+  - scale
+  - surface-depth
+  - matching
+relation_types:
+  - transform
+  - enable
+  - cause
+structure: transformation
+abstraction_level: generic
 transfers:
   - '[source] a magnifying glass enlarges what is already present without adding new content, framing AI as an amplifier of existing patterns in training data rather than a generator of novel knowledge'
   - '[source] magnification makes both detail and defects more visible, importing the dual-use structure where AI reveals useful patterns and harmful biases simultaneously'

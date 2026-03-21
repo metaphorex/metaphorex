@@ -27,6 +27,16 @@ transfers:
 - '[source] imports the escalation logic of pharmacological tolerance: just as the body adapts to a substance and requires more for the same effect, the metaphor explains why compulsive behaviors intensify
   over time'
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - flow
+  - scale
+relation_types:
+  - cause
+  - accumulate
+  - transform
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

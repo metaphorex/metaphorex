@@ -26,6 +26,16 @@ transfers:
 - '[source] maps depth within the container onto importance -- deep abilities are fundamental and authentic while surface abilities are trivial -- giving talent a vertical dimension'
 - '[source] frames education and coaching as excavation -- drawing out what is already inside rather than installing something new -- with discovery as the key pedagogical act'
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - surface-depth
+  - boundary
+relation_types:
+  - contain
+  - enable
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

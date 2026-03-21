@@ -27,6 +27,16 @@ transfers:
 - '[source] maps confusion onto disorientation and clarity onto visibility, so not knowing the solution is being lost and understanding is seeing the way out'
 - '[source] gives problems depth and a center -- moving further in is getting worse, moving toward the edges is approaching relief -- providing a spatial scale of severity'
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - path
+  - center-periphery
+relation_types:
+  - contain
+  - cause
+  - prevent
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

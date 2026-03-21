@@ -3,6 +3,16 @@ slug: a-hard-row-to-hoe
 name: A Hard Row to Hoe
 kind: metaphor
 dead: true
+embodied_patterns:
+  - path
+  - force
+  - blockage
+relation_types:
+  - cause
+  - prevent
+  - accumulate
+structure: pipeline
+abstraction_level: generic
 source_frame: agriculture
 applies_to:
 - difficulty

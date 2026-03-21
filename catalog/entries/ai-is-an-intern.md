@@ -17,6 +17,16 @@ related:
 slug: ai-is-an-intern
 source_frame: social-roles
 updated: '2026-03-13'
+embodied_patterns:
+  - link
+  - part-whole
+  - scale
+relation_types:
+  - enable
+  - coordinate
+  - select
+structure: hierarchy
+abstraction_level: specific
 transfers:
   - '[source] an intern produces work that must be reviewed before it can be trusted, importing a mandatory supervision structure where AI output requires human verification'
   - '[source] interns are eager, fast, and confident in ways that occasionally mask incompetence, framing AI''s fluent but sometimes wrong outputs as a recognizable organizational pattern'

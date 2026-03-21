@@ -17,6 +17,16 @@ related:
 slug: ai-safety-is-containment
 source_frame: containers
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - boundary
+  - force
+relation_types:
+  - contain
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: generic
 transfers:
   - '[source] containment requires an unbroken barrier between a hazardous interior and a vulnerable exterior, framing AI safety as maintaining separation between capable systems and uncontrolled environments'
   - '[source] containment protocols escalate with the hazard level (BSL-1 through BSL-4), importing a tiered approach where more capable AI requires more stringent isolation measures'

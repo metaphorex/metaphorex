@@ -17,6 +17,16 @@ related:
 slug: ai-is-a-pair-programmer
 source_frame: collaborative-work
 updated: '2026-03-13'
+embodied_patterns:
+  - link
+  - part-whole
+  - iteration
+relation_types:
+  - coordinate
+  - enable
+  - select
+structure: network
+abstraction_level: specific
 transfers:
   - '[source] pair programming assigns distinct roles -- driver and navigator -- where the navigator catches errors the driver misses, importing a division of labor where AI reviews while the human authors'
   - '[source] the pair shares a single codebase and communicates in real time about design decisions, framing human-AI coding as a collaborative dialogue rather than batch delegation'
