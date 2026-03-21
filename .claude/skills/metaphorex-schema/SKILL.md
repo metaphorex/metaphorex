@@ -124,6 +124,55 @@ Each proposition must be:
 
 Minimum counts: 3 transfers for metaphor/pattern/archetype, 2 for paradigm/mental-model. 2 limits for all kinds.
 
+### Structural Enrichment Fields (optional)
+
+When creating or enriching entries, include these fields to enable
+structural similarity retrieval. All are optional — entries without
+them remain valid. See `docs/plans/2026-03-20-structural-enrichment-vocabulary.md`
+for the full vocabulary with definitions and annotation guidance.
+
+```yaml
+embodied_patterns:          # 2-4 values from controlled vocabulary
+  - container
+  - force
+  - boundary
+relation_types:             # 2-4 values from controlled vocabulary
+  - compete
+  - prevent
+  - cause
+structure: competition      # 1-2 values (use list if 2)
+abstraction_level: generic  # exactly 1: primitive | generic | specific
+```
+
+**`embodied_patterns[]`** — Pre-conceptual spatial/kinesthetic patterns
+(academic term: image schemas). Tag the *structural* pattern, not the
+surface domain. ~22 values: `container`, `boundary`, `center-periphery`,
+`surface-depth`, `path`, `near-far`, `flow`, `blockage`, `force`,
+`balance`, `attraction`, `part-whole`, `link`, `merging`, `splitting`,
+`scale`, `matching`, `iteration`, `removal`, `superimposition`,
+`accretion`, `self-organization`.
+
+**`relation_types[]`** — What the entry says one thing *does to* another.
+~12 values: `cause`, `enable`, `prevent`, `transform`, `contain`,
+`compete`, `coordinate`, `decompose`, `translate`, `select`,
+`accumulate`, `restore`.
+
+**`structure`** — Dominant topology. ~10 values: `hierarchy`, `network`,
+`pipeline`, `boundary`, `cycle`, `competition`, `growth`,
+`transformation`, `equilibrium`, `emergence`.
+
+**`abstraction_level`** — How broadly the entry applies.
+`primitive` (near-universal), `generic` (many target domains),
+`specific` (requires domain expertise to understand source frame).
+
+**Annotation rules:**
+- Tag structural patterns, not surface domain features
+- Prefer fewer confident tags over many speculative ones
+- `translate` = bridging two systems that can't directly talk
+- `accretion` = deposits become the structure (not just pile-up)
+- `self-organization` = system structures itself via feedback
+- `specific` = source frame requires domain expertise to understand
+
 ## Frame Frontmatter
 
 ```yaml

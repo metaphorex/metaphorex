@@ -164,6 +164,31 @@ Cognitive biases and effects are `mental-model`. If you're writing 5 entries
 and they're all `metaphor`, stop and re-check — that distribution is almost
 certainly wrong.
 
+**Structural enrichment (include on all new entries):**
+
+Every new entry MUST include structural tags in frontmatter. These enable
+cross-domain similarity retrieval. Read the vocabulary doc at
+`docs/plans/2026-03-20-structural-enrichment-vocabulary.md` for allowed
+values and annotation guidance.
+
+```yaml
+embodied_patterns:     # 2-4 values — pre-conceptual spatial/kinesthetic patterns
+  - container
+  - force
+relation_types:        # 2-4 values — what one thing does to another
+  - compete
+  - prevent
+structure: competition # 1-2 values — dominant topology
+abstraction_level: generic  # primitive | generic | specific
+```
+
+Annotation rules:
+- Tag the STRUCTURAL patterns, not the surface domain
+- Pick the 2-4 most load-bearing relations from the transfers
+- `translate` = bridging two systems; `accretion` = deposits become structure
+- `specific` = source frame needs domain expertise to understand
+- Fewer confident tags > many speculative ones
+
 **Choosing `source_frame` — mythology vs. history:**
 
 The `mythology` frame is for sacred or traditional narratives (Prometheus,

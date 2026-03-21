@@ -47,6 +47,25 @@ VALID_GROUNDING = {"proven", "established", "folk", "contested"}
 REJECTED_FIELDS = {"target_frame", "structural_properties", "failure_conditions"}
 REJECTED_KINDS = {"conceptual-metaphor", "dead-metaphor", "cross-field-mapping"}
 
+# Structural enrichment vocabularies (optional fields, validated when present)
+VALID_EMBODIED_PATTERNS = {
+    "container", "boundary", "center-periphery", "surface-depth",
+    "path", "near-far", "flow", "blockage",
+    "force", "balance", "attraction",
+    "part-whole", "link", "merging", "splitting", "scale",
+    "matching", "iteration", "removal", "superimposition",
+    "accretion", "self-organization",
+}
+VALID_RELATION_TYPES = {
+    "cause", "enable", "prevent", "transform", "contain", "compete",
+    "coordinate", "decompose", "translate", "select", "accumulate", "restore",
+}
+VALID_STRUCTURES = {
+    "hierarchy", "network", "pipeline", "boundary", "cycle",
+    "competition", "growth", "transformation", "equilibrium", "emergence",
+}
+VALID_ABSTRACTION_LEVELS = {"primitive", "generic", "specific"}
+
 REQUIRED_MAPPING_SECTIONS = {"Transfers", "Limits", "Expressions"}
 
 # Legacy headings that should be replaced with canonical names
@@ -179,6 +198,23 @@ def validate_entry(path: Path, frame_slugs: set[str], category_slugs: set[str],
     # grounding enum
     if "grounding" in meta and meta["grounding"] not in VALID_GROUNDING:
         errors.append(f"{prefix}: invalid grounding '{meta['grounding']}' (valid: {', '.join(sorted(VALID_GROUNDING))})")
+
+    # Structural enrichment fields (optional — validate values when present)
+    for ep in meta.get("embodied_patterns", []):
+        if ep not in VALID_EMBODIED_PATTERNS:
+            errors.append(f"{prefix}: invalid embodied_pattern '{ep}' (see structural-enrichment-vocabulary.md)")
+    for rt in meta.get("relation_types", []):
+        if rt not in VALID_RELATION_TYPES:
+            errors.append(f"{prefix}: invalid relation_type '{rt}' (see structural-enrichment-vocabulary.md)")
+    struct = meta.get("structure")
+    if struct is not None:
+        struct_list = struct if isinstance(struct, list) else [struct]
+        for s in struct_list:
+            if s not in VALID_STRUCTURES:
+                errors.append(f"{prefix}: invalid structure '{s}' (see structural-enrichment-vocabulary.md)")
+    al = meta.get("abstraction_level")
+    if al is not None and al not in VALID_ABSTRACTION_LEVELS:
+        errors.append(f"{prefix}: invalid abstraction_level '{al}' (valid: {', '.join(sorted(VALID_ABSTRACTION_LEVELS))})")
 
     # Category references
     for cat in meta.get("categories", []):
