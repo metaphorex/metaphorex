@@ -21,6 +21,15 @@ transfers:
 - '[model] provides a decision heuristic for creative disputes: when collaborators disagree, the tiebreaker is what the problem demands, not who has higher status or stronger preferences'
 - '[model] separates craft skill from ego investment by making the practitioner accountable to the work rather than to their own reputation, which reduces defensiveness and enables honest revision'
 updated: '2026-03-19'
+embodied_patterns:
+  - matching
+  - container
+  - force
+relation_types:
+  - coordinate
+  - prevent
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

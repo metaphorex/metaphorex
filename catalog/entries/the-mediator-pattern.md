@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because successful human mediation teaches parties to communicate directly (mediation is scaffolding), while the software Mediator remains permanently -- colleagues never learn to talk to each other"
   - "[source] misleads because mediation implies conflict between rational actors, but the pattern is used for routine decoupling of components that have no conceptual disagreement"
+embodied_patterns:
+  - center-periphery
+  - link
+  - boundary
+relation_types:
+  - coordinate
+  - translate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

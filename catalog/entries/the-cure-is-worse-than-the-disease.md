@@ -26,6 +26,15 @@ limits:
   - '[source] The aphorism frames the comparison as binary (cure vs. disease) but medical decisions involve probability distributions -- a treatment that is worse than the disease in 90% of cases may be the only option for the 10% who would die without it -- and the metaphor erases this distributional complexity when exported'
   - '[source] "Worse" in medicine can be precisely measured (mortality rates, quality-adjusted life years, complication rates) but in policy and organizational domains the costs of cure and disease are often incommensurable -- trading economic cost against civil liberties, for instance -- and the medical frame of quantifiable comparison is misleading'
   - '[source] The aphorism is structurally conservative -- it privileges inaction over action by emphasizing iatrogenic risk -- and when exported to domains like regulation or social policy it can function as a rhetorical device to block any intervention by gesturing at unspecified "side effects"'
+embodied_patterns:
+  - balance
+  - force
+  - path
+relation_types:
+  - cause
+  - prevent
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

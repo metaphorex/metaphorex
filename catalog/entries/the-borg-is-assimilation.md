@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because the Borg's assimilation produces a homogeneous collective, while real technology adoption preserves significant user heterogeneity -- people use the same platform in radically different ways"
   - "[source] misleads because the Borg frame treats adoption as involuntary conquest, obscuring that most technology adoption is driven by genuine utility and user choice, not coercion"
+embodied_patterns:
+  - merging
+  - force
+  - self-organization
+relation_types:
+  - transform
+  - contain
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

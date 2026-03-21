@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because minerals do not have authors -- internet content was created by people with intentions, rights, and expectations, and the mining metaphor erases authorship entirely, converting creative labor into geological accident'
   - '[source] misleads because mining requires land rights while scraping operates in a legal gray zone -- the metaphor imports the idea of legitimate extraction while obscuring that ''mineral rights'' for internet content are fiercely contested'
+embodied_patterns:
+  - container
+  - part-whole
+  - flow
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

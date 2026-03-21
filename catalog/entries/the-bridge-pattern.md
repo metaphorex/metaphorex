@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because a physical bridge is permanent infrastructure with enormous replacement cost, while software bridges are cheap to rebuild and often should be"
   - "[source] misleads because civil engineering bridges connect two things that were always separate, while the software pattern separates things that started coupled -- it is surgery, not construction"
+embodied_patterns:
+  - splitting
+  - link
+  - boundary
+relation_types:
+  - translate
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

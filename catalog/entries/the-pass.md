@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] assumes a clean spatial separation between production and consumption, which breaks in continuous-delivery environments where there is no staging area and work goes directly from producer to consumer (feature flags, canary deploys)'
   - '[source] the expeditor role centralizes quality judgment in a single person, which becomes a bottleneck at scale and a single point of failure when that person is absent or wrong'
+embodied_patterns:
+  - flow
+  - boundary
+  - matching
+relation_types:
+  - coordinate
+  - translate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

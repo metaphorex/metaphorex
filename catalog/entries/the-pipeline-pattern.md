@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because fluids are continuous and mix, while data is discrete and retains individual identity -- a barrel of oil loses individuality mid-pipeline but a database record keeps its schema and primary key"
   - "[source] misleads because physical pipelines do not branch easily, while software pipelines routinely fan out to multiple consumers, making the linear pipe metaphor underrepresent the directed acyclic graphs that most real data pipelines become"
+embodied_patterns:
+  - flow
+  - path
+  - matching
+relation_types:
+  - transform
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

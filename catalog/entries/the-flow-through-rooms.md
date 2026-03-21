@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the insight that corridors are structurally dead space -- they route traffic but add no value -- framing middleware and boilerplate as architectural waste when they serve no transformative purpose'
 - '[source] carries the experiential principle that flowing through connected spaces creates orientation and legibility, mapping onto code architectures where a reader can trace data transformation step by step without jumping to distant modules'
 updated: '2026-03-19'
+embodied_patterns:
+  - flow
+  - path
+  - container
+relation_types:
+  - coordinate
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

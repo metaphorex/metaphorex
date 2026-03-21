@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because military chains preserve accountability with records at each level, while a software request that no handler accepts may silently vanish"
   - "[source] misleads because chains of command are about authority and rank, while software handlers process requests based on matching criteria with no meaningful hierarchy between them"
+embodied_patterns:
+  - path
+  - link
+  - matching
+relation_types:
+  - coordinate
+  - select
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because a flyweight boxer is still a complete, autonomous fighter, while a flyweight object is deliberately incomplete -- it depends on external state to function"
   - "[source] misleads because 'lightweight' in boxing implies speed and agility, but flyweight objects are optimized for memory, not performance"
+embodied_patterns:
+  - part-whole
+  - matching
+  - scale
+relation_types:
+  - coordinate
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

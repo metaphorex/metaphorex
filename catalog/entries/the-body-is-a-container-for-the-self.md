@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks because the self is not separable from the body -- the container metaphor implies the self could exist independently (like water in a glass), producing Cartesian dualism as a linguistic default that contradicts embodied cognition'
   - '[source] misleads because the container model pathologizes porosity -- a person whose boundaries are ''too permeable'' is defective, providing no vocabulary for the value of empathic openness or dissolution of self-boundaries that contemplative traditions treat as a goal'
+embodied_patterns:
+  - container
+  - boundary
+  - center-periphery
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

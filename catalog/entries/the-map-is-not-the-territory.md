@@ -19,6 +19,15 @@ transfers:
 - '[model] makes projection choice visible: every map chooses what to foreground (a road map and a geological survey of the same area look nothing alike), and the question is ''what is it for?'' not ''is
   it true?'''
 updated: '2026-03-18'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - boundary
+relation_types:
+  - translate
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

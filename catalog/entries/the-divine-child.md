@@ -26,6 +26,15 @@ limits:
 - "[source] breaks because the myth guarantees the child's survival -- the abandoned infant always grows up to be the king -- but real beginnings mostly fail, and the archetype provides no framework for the new thing that simply dies without narrative redemption"
 - "[source] misleads because it romanticizes inexperience as a form of purity, obscuring the reality that most fresh perspectives are simply wrong and most beginner's insights reflect ignorance rather than uncorrupted vision"
 updated: '2026-03-17'
+embodied_patterns:
+  - path
+  - container
+  - splitting
+relation_types:
+  - transform
+  - enable
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because Gibson's Jackpot is narrated retrospectively from a post-Jackpot future, giving it a coherence and narrative shape that slow-moving real crises lack -- you cannot see the Jackpot while you are in it"
   - "[source] misleads because the fictional Jackpot has a beginning and an end, while the real processes it describes (climate change, inequality, ecosystem collapse) have no clean temporal boundaries"
+embodied_patterns:
+  - accretion
+  - scale
+  - flow
+relation_types:
+  - accumulate
+  - cause
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

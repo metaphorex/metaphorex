@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because physical factories consume raw materials that are destroyed in processing, while software factory parameters are read, not consumed -- there is no resource depletion"
   - "[source] misleads because factories suggest heavyweight physical infrastructure bolted to the floor, encouraging developers to over-engineer factory classes when the simplest factory is a three-line function"
+embodied_patterns:
+  - container
+  - matching
+  - part-whole
+relation_types:
+  - transform
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

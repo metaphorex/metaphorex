@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because physical adapters are passive geometry while software adapters actively execute code, translate data types, map exceptions, and may maintain state on every call"
   - "[source] misleads because a plug adapter handles shape but not voltage -- a European device in a US socket via a shape adapter may still fry, and software adapters face the same risk of matching signatures while leaving semantic contracts misaligned"
+embodied_patterns:
+  - matching
+  - boundary
+  - link
+relation_types:
+  - translate
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because meaning is not contained in words and transferred intact -- meaning is constructed by the listener using context, shared knowledge, and inference, making communication coordinated construction rather than delivery'
   - '[source] misleads because the model privileges the sender (who packages and sends) over the receiver (who merely unpacks), obscuring the enormous interpretive labor that listeners and readers perform'
+embodied_patterns:
+  - container
+  - flow
+  - path
+relation_types:
+  - translate
+  - contain
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because walking through a gate is instant, while calling through a Gateway involves network round-trips, serialization, and potential timeouts -- the crossing is not a doorway but a letter and a wait"
   - "[source] misleads because a gate's primary architectural purpose is to keep people out, while a software Gateway's primary purpose is to make external access easier -- the defensive connotation obscures the access-enabling function"
+embodied_patterns:
+  - boundary
+  - matching
+  - container
+relation_types:
+  - translate
+  - prevent
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

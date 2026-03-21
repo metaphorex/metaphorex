@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[paradigm] breaks because the maxim provides no internal mechanism for distinguishing a harsh-but-legitimate law from an unjust law that should be changed, collapsing rule-of-law into rule-obedience"
   - "[paradigm] misleads because it frames compliance as the only principled response to harsh law, erasing the traditions of civil disobedience, jury nullification, and prosecutorial discretion that operate as legitimate safety valves within legal systems"
+embodied_patterns:
+  - force
+  - boundary
+  - container
+relation_types:
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

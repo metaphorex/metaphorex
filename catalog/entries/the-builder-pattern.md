@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because real construction is expensive to undo -- tearing out a wall wastes materials and labor -- while overriding a builder method call is free, importing false commitment to each step"
   - "[source] misleads because 'builder' implies craftsmanship and site-responsive judgment, but a software builder is a dumb accumulator of configuration with no artisanal agency"
+embodied_patterns:
+  - part-whole
+  - path
+  - matching
+relation_types:
+  - coordinate
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because psychological resilience is more like a flexible material than a brittle one -- people bend, stretch, and spring back, and the metaphor has no vocabulary for elasticity or post-traumatic growth'
   - '[source] misleads because the metaphor locates the cause externally (pressure cracks from outside), making it hard to talk about internally generated psychological distress like endogenous depression that arises without external force'
+embodied_patterns:
+  - force
+  - splitting
+  - container
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

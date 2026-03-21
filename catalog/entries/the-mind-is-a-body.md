@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks because cognitive fatigue does not work like physical fatigue -- a person can be mentally exhausted in one domain and perfectly alert in another, overgeneralizing the physics of tiredness'
   - '[source] misleads because not all mental activity is effortful -- pattern recognition, language comprehension, and intuitive judgment are largely effortless, but the body metaphor has no vocabulary for the mind''s capacity to think without trying'
+embodied_patterns:
+  - container
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

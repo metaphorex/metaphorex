@@ -21,6 +21,15 @@ transfers:
 limits:
   - "[source] breaks because building facades are static for a century, while software facades accumulate new methods with every sprint until they become the complexity they were supposed to hide"
   - "[source] misleads because 'facade' carries connotations of deception (Potemkin villages, Hollywood sets), making developers suspicious that the clean API is lying about what is underneath"
+embodied_patterns:
+  - boundary
+  - surface-depth
+  - container
+relation_types:
+  - translate
+  - contain
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

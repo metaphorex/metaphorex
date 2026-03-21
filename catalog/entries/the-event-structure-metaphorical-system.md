@@ -31,6 +31,15 @@ transfers:
 limits:
   - '[source] breaks because the system imposes directionality on all change, making gradual, multidirectional, or cyclical change hard to express -- a situation slowly dissolving or cycling between states does not fit the forward-motion model'
   - '[source] misleads because progress as forward motion conceals loss -- advancing toward a goal may involve genuine costs, but the system treats forward as inherently positive and backward as inherently negative, making reversal always seem like failure'
+embodied_patterns:
+  - path
+  - force
+  - container
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers
