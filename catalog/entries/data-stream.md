@@ -25,6 +25,15 @@ limits:
   - "[source] breaks because water in a stream is continuous fluid, but data is discrete packets with gaps between them"
   - "[source] misleads because a stream's flow rate is determined by gravity and terrain, not by a consumer pulling data on demand"
   - "[source] obscures that streams in nature cannot be paused, rewound, or replayed, while data streams routinely support all three operations"
+embodied_patterns:
+  - flow
+  - path
+  - scale
+relation_types:
+  - cause
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

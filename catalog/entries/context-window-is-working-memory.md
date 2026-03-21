@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because working memory actively manipulates and integrates information, while a context window is passive input where all tokens sit with equal ontological status until processed'
   - '[source] misleads because human forgetting is selective (emotionally significant items persist) while context truncation is mechanical FIFO that drops tokens regardless of importance'
+embodied_patterns:
+  - container
+  - scale
+  - removal
+relation_types:
+  - contain
+  - transform
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

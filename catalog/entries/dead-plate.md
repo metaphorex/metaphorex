@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because a dead plate is physically irreversible -- food cannot be uncooked -- while most organizational "dead work" (abandoned PRs, shelved features, canceled projects) can be partially salvaged, forked, or repurposed, making the kitchen''s total-loss framing too severe for domains with recoverable artifacts'
   - '[source] misleads by implying that waste should be zero, when some rate of dead plates (and dead code, abandoned experiments, spiked articles) is the unavoidable cost of operating in uncertain environments, and a system that produces zero waste is likely too conservative'
+embodied_patterns:
+  - flow
+  - blockage
+  - path
+relation_types:
+  - coordinate
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

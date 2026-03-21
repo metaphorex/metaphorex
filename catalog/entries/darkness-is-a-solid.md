@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because darkness is the absence of photons, not the presence of matter -- the metaphor reifies an absence into a substance'
   - '[source] misleads because if darkness is solid then illumination must be violent (cutting, piercing, shattering), framing understanding as an aggressive act rather than gradual dawning'
+embodied_patterns:
+  - force
+  - blockage
+  - surface-depth
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

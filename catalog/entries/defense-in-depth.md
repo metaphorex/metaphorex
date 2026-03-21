@@ -26,6 +26,15 @@ transfers:
 - "[source] imports the principle that no single defensive position is expected to hold indefinitely, structuring security thinking around graceful degradation rather than perimeter invincibility"
 - "[source] carries the spatial concept of depth -- territory between the front line and the vital interior -- onto the idea that security controls should be distributed across multiple system layers rather than concentrated at a single boundary"
 updated: '2026-03-18'
+embodied_patterns:
+  - boundary
+  - surface-depth
+  - superimposition
+relation_types:
+  - prevent
+  - contain
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

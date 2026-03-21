@@ -27,6 +27,15 @@ transfers:
 - '[source] imports the botanical fact that depth is achieved through slow, sustained growth rather than rapid extension, structuring resilience as a function of patient accumulation rather than reactive fortification'
 - '[source] carries the agricultural knowledge that the same frost that kills shallow-rooted annuals leaves deep-rooted perennials unharmed, mapping onto the distinction between fragile quick-growth strategies and durable slow-growth ones'
 updated: '2026-03-20'
+embodied_patterns:
+  - surface-depth
+  - accretion
+  - force
+relation_types:
+  - prevent
+  - accumulate
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

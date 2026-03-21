@@ -25,6 +25,15 @@ transfers:
   - "[source] imports the handoff structure of fortune cookies -- given to the recipient at the end of a transaction, carrying information relevant to future encounters -- onto the server-client exchange where a token is passed after a request to enable stateful future interactions"
   - "[source] carries the 'magic cookie' lineage from Unix, where an opaque token is passed between programs without the intermediary inspecting its contents, mapping the sealed-container property of a fortune cookie onto a data structure whose meaning is opaque to the carrier"
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - link
+  - matching
+relation_types:
+  - contain
+  - translate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

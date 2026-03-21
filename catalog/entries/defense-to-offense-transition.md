@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] misleads because military transitions occur between two clearly defined postures (defend territory vs. take territory), while most organizational transitions lack such binary states -- a company "pivoting" from cost reduction to growth is not switching between two discrete modes but adjusting a continuous mix of activities'
   - '[source] assumes a single adversary whose behavior can be read for timing cues, but most competitive environments involve multiple actors whose independent decisions make the "right moment" for transition unreadable'
+embodied_patterns:
+  - force
+  - balance
+  - path
+relation_types:
+  - transform
+  - compete
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

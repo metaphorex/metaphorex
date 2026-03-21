@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because the original nautical act was often the rational tactical choice, but modern usage inverts the moral valence to imply cowardice'
   - '[source] misleads because the metaphor hides the threat being fled from, focusing on the departure and ignoring the conditions that motivated it'
+embodied_patterns:
+  - path
+  - force
+  - splitting
+relation_types:
+  - cause
+  - prevent
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

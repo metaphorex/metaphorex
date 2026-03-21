@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because the giving frame skips the entire process of making, jumping from completed object to transfer and rendering drafts, revision, and iteration invisible'
   - '[source] misleads because creation addressed to no recipient (a diary, a private project) is rendered pointless by a frame that requires a receiver'
+embodied_patterns:
+  - link
+  - path
+  - part-whole
+relation_types:
+  - cause
+  - coordinate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

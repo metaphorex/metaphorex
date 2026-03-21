@@ -22,6 +22,15 @@ transfers:
 - "[source] what lies beyond the frontier is simultaneously threatening and promising -- terra incognita holds both monsters and treasure"
 - "[source] exploration converts mystery into knowledge by making the unfamiliar familiar through direct encounter"
 updated: '2026-03-16'
+embodied_patterns:
+  - near-far
+  - boundary
+  - path
+relation_types:
+  - transform
+  - enable
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

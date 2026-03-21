@@ -28,6 +28,16 @@ limits:
   - '[source] breaks because a geographic decisive point is observable and fixed (a bridge, a hill, a crossroads), while a strategic decisive point in business or politics is constructed through interpretation and may only be visible in retrospect'
   - '[source] misleads by implying every contest has a single decisive moment, when many competitive outcomes result from sustained cumulative advantage with no identifiable turning point'
   - '[source] obscures that Napoleon''s decisive-point doctrine assumed a peer adversary playing by similar rules -- it transfers poorly to asymmetric contests where the weaker party refuses to concentrate forces and instead disperses (guerrilla warfare, startup disruption from below)'
+embodied_patterns:
+  - center-periphery
+  - force
+  - blockage
+relation_types:
+  - cause
+  - select
+  - compete
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

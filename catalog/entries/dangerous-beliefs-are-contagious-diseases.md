@@ -26,6 +26,16 @@ transfers:
 limits:
   - '[source] breaks because belief adoption involves agency and reasons, while catching a disease does not -- the metaphor strips believers of rational motivation'
   - '[source] misleads because "which beliefs are dangerous" is a contested political question, but the disease frame disguises evaluation as neutral medical diagnosis'
+embodied_patterns:
+  - flow
+  - link
+  - boundary
+relation_types:
+  - cause
+  - prevent
+  - transform
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

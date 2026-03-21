@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because most stalled projects have internal causes (poor leadership, unresolved conflict), but the nautical frame externalizes blame onto absent wind'
   - '[source] misleads because the metaphor implies waiting is the correct response to a calm, but for stalled projects active intervention is almost always both possible and necessary'
+embodied_patterns:
+  - blockage
+  - force
+  - path
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers
