@@ -25,6 +25,15 @@ limits:
 - "[source] breaks because shopping presupposes a marketplace with pre-existing options, but many important searches involve seeking something that does not yet exist or must be created -- you cannot shop for an original idea"
 - "[source] misleads because shopping implies that all relevant options are visible and comparable on a common scale, hiding the possibility that the best option is not on display or that the search criteria themselves need revision"
 updated: '2026-03-17'
+embodied_patterns:
+  - path
+  - matching
+  - near-far
+relation_types:
+  - select
+  - compete
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

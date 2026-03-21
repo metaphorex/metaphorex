@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because much communication (touch, music, dance) has no propositional content reducible to sentences without fundamental loss'
   - '[source] misleads because the linguistic model privileges explicitness and disambiguation, treating strategic ambiguity and polyvalence as communicative failure rather than communicative strategy'
+embodied_patterns:
+  - container
+  - part-whole
+  - matching
+relation_types:
+  - translate
+  - contain
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

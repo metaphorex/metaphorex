@@ -22,6 +22,16 @@ transfers:
 limits:
   - "[model] breaks because the most important decision factors are often qualitative, contextual, and resistant to itemization -- checklists create the illusion of rigor while potentially missing the factors that actually determine outcomes"
   - "[model] misleads because a checklist reflects past failure modes, not future ones, creating the specific vulnerability of being well-prepared for the last crisis and blind to the next"
+embodied_patterns:
+  - iteration
+  - part-whole
+  - matching
+relation_types:
+  - prevent
+  - select
+  - coordinate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

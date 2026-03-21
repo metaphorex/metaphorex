@@ -18,6 +18,16 @@ transfers:
 limits:
   - "[model] breaks because not everything compounds -- knowledge compounds only in domains where concepts build on each other, while in domains where knowledge becomes obsolete the metaphor encourages sticking with things that are actually depreciating"
   - "[model] misleads because many real growth curves are S-shaped (logistic) rather than exponential, with skills plateauing, markets saturating, and relationships reaching equilibrium -- the model encourages expecting indefinite exponential growth"
+embodied_patterns:
+  - accretion
+  - iteration
+  - scale
+relation_types:
+  - accumulate
+  - enable
+  - cause
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

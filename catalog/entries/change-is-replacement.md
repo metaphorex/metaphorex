@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because most change is gradual and continuous, not a clean boundary between old-part-out and new-part-in'
   - '[source] misleads because replacement destroys identity continuity, making the Ship-of-Theseus problem inevitable for any entity that changes incrementally'
+embodied_patterns:
+  - removal
+  - part-whole
+  - splitting
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

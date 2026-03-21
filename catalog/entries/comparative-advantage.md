@@ -19,6 +19,16 @@ transfers:
 limits:
   - "[model] breaks because the model is static and assumes stable advantages, while in practice advantages shift rapidly -- specializing based on current comparative advantage can lock you into a position that becomes obsolete"
   - "[model] misleads because it reduces people to production functions, ignoring preferences, aspirations, and the need for variety and growth -- a CEO who loves coding and hates strategy will not perform well if forced into pure specialization"
+embodied_patterns:
+  - balance
+  - scale
+  - boundary
+relation_types:
+  - select
+  - coordinate
+  - enable
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

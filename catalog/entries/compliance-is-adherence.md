@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because adhesion is a binary state (stuck or unstuck) with no room for partial compliance or compliance with the spirit but not the letter'
   - '[source] misleads because glue has no moral dimension -- it sticks to anything -- hiding the question of whether the rule deserves adherence'
+embodied_patterns:
+  - near-far
+  - link
+  - force
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

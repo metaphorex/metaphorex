@@ -24,6 +24,16 @@ transfers:
 limits:
   - '[source] breaks because compute is manufactured and expandable, not a finite geological deposit -- humanity can always build more fabs'
   - '[source] misleads because compute does not deplete with use (a GPU runs the next job immediately), importing stock-resource scarcity logic onto a flow resource like electricity'
+embodied_patterns:
+  - flow
+  - container
+  - scale
+relation_types:
+  - compete
+  - enable
+  - accumulate
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

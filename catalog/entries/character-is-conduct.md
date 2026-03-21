@@ -22,6 +22,15 @@ transfers:
 - '[model] the audience has no access to an actor''s intentions, only to their visible choices, importing the principle that identity is constituted by observable behavior rather than self-report'
 - '[model] directors give actors actions to play rather than emotions to feel, because playable actions produce authentic-seeming emotion while directed emotion produces artifice'
 updated: '2026-03-19'
+embodied_patterns:
+  - matching
+  - surface-depth
+relation_types:
+  - cause
+  - translate
+  - select
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

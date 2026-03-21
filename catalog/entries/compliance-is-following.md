@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because following implies a single correct path, but regulatory environments often involve competing rules and multiple valid interpretations'
   - '[source] misleads because following is passive retracing of steps, hiding the active interpretation, judgment, and creativity that real compliance demands'
+embodied_patterns:
+  - path
+  - near-far
+  - force
+relation_types:
+  - cause
+  - contain
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

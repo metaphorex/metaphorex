@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because the track constrains motion to one dimension, making lateral moves, niche positioning, and market creation illegible'
   - '[source] misleads because "first" maps to "best," but first-mover advantage is empirically unreliable -- many winners are fast followers, not first movers'
+embodied_patterns:
+  - path
+  - near-far
+  - scale
+relation_types:
+  - compete
+  - cause
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

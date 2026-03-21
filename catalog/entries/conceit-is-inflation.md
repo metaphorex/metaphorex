@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because deflation maps onto humiliation, but psychological deflation can be depression or shame, not healthy equilibrium'
   - '[source] misleads because the metaphor makes self-esteem purely quantitative, unable to represent domain-specific conceit or high self-regard grounded in genuine accomplishment'
+embodied_patterns:
+  - container
+  - scale
+  - surface-depth
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

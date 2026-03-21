@@ -25,6 +25,16 @@ transfers:
 limits:
   - '[source] breaks because puzzles have a predetermined correct solution while research problems may have multiple valid interpretations or no clean solution at all'
   - '[source] misleads because puzzle pieces do not change shape, but evidence in research is subject to reinterpretation that changes what a datum means under a new theory'
+embodied_patterns:
+  - part-whole
+  - matching
+  - container
+relation_types:
+  - decompose
+  - select
+  - coordinate
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

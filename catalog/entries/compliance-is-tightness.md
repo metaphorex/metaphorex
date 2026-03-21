@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because tightness frames all compliance as restriction, with no vocabulary for voluntary alignment where rules match the person''s own values'
   - '[source] misleads because the metaphor suggests looseness is the natural default state, importing a Hobbesian assumption that people deviate without external binding'
+embodied_patterns:
+  - force
+  - boundary
+  - scale
+relation_types:
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

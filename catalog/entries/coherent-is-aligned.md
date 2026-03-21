@@ -26,6 +26,15 @@ limits:
 - "[source] breaks because physical alignment is binary and visible (things either line up or they do not), while intellectual coherence admits degrees and can be invisible -- an argument can be subtly incoherent in ways that no spatial inspection reveals"
 - "[source] misleads because alignment implies parallel orientation (all elements pointing the same way), but coherence sometimes requires complementary difference rather than uniformity -- a good argument needs premise and conclusion to play different roles, not identical ones"
 updated: '2026-03-17'
+embodied_patterns:
+  - matching
+  - path
+  - balance
+relation_types:
+  - coordinate
+  - cause
+structure: equilibrium
+abstraction_level: primitive
 ---
 
 ## Transfers

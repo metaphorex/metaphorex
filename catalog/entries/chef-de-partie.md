@@ -23,6 +23,16 @@ transfers:
 limits:
   - '[source] breaks because kitchen stations have physically bounded scope (the grill, the pastry bench) that prevents mission creep, while organizational "stations" lack natural boundaries and tend to expand until the owner is doing everything adjacent to their original mandate'
   - '[source] assumes that stations are independent enough to operate in parallel, but in many organizations the equivalent roles have deep interdependencies that the kitchen brigade''s physical separation does not model -- a saucier and a grillardin can work side by side without blocking each other, but a front-end lead and a back-end lead often cannot'
+embodied_patterns:
+  - container
+  - boundary
+  - part-whole
+relation_types:
+  - decompose
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

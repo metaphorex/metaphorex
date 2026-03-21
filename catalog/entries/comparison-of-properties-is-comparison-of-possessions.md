@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because possessions are zero-sum (if I give you mine, I have less) while qualities like courage are not diminished when others also possess them'
   - '[source] misleads because possessions are uniform and countable, but one person''s patience may be a practiced discipline while another''s is temperamental indifference'
+embodied_patterns:
+  - scale
+  - container
+  - matching
+relation_types:
+  - translate
+  - select
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

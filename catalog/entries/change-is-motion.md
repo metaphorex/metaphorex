@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because many important changes are identity-altering transformations where the entity does not persist through the displacement'
   - '[source] misleads because speed of motion conflates with significance, systematically undervaluing slow but profound change like erosion or cultural drift'
+embodied_patterns:
+  - path
+  - near-far
+  - flow
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

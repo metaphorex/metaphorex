@@ -27,6 +27,16 @@ limits:
   - '[source] breaks because inner speech is phenomenologically rich with intention and metacognition, while token generation has no experiential interior'
   - '[source] misleads because human self-talk serves emotional regulation alongside cognition, a dimension entirely absent from chain-of-thought prompting'
   - '[source] obscures that the intermediate "reasoning" tokens may be post-hoc confabulation unrelated to the model''s actual computational path'
+embodied_patterns:
+  - path
+  - iteration
+  - flow
+relation_types:
+  - translate
+  - decompose
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

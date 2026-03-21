@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[model] The formula assumes comedy is fundamentally cognitive (recognition of truth) and empathic (shared pain), which excludes absurdist comedy traditions (Monty Python, Tim and Eric) where humor arises from violated expectations without identifiable truth or pain'
   - '[model] "Truth" is undefined beyond audience recognition, making the formula unfalsifiable -- any joke that lands can be reverse-engineered to identify a "truth" it supposedly revealed, and any joke that fails can be diagnosed as lacking one'
+embodied_patterns:
+  - matching
+  - merging
+  - surface-depth
+relation_types:
+  - select
+  - translate
+structure: emergence
+abstraction_level: specific
 ---
 
 ## Transfers

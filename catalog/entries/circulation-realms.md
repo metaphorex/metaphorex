@@ -27,6 +27,19 @@ transfers:
 limits:
   - '[source] architectural circulation is constrained by physical adjacency -- you cannot jump from one realm to a non-adjacent realm -- whereas network routing can create shortcuts that violate hierarchical nesting'
   - '[source] the pattern assumes tree-like nesting, but real circulation often requires cross-cutting paths that break the hierarchy, just as software systems need cross-cutting concerns (logging, auth) that span multiple bounded contexts'
+embodied_patterns:
+  - container
+  - boundary
+  - flow
+  - path
+relation_types:
+  - contain
+  - decompose
+  - coordinate
+structure:
+  - hierarchy
+  - boundary
+abstraction_level: generic
 ---
 
 ## Transfers

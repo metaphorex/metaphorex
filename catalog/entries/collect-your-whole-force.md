@@ -23,6 +23,16 @@ limits:
   - '[model] assumes the decision to engage is correct, offering no guidance on when to withhold commitment because the fight itself is wrong -- total commitment to a losing battle is worse than partial commitment'
   - '[model] breaks in domains where resources are fungible and recoverable (capital allocation, staffing), because the irreversibility that makes military half-measures fatal does not apply when you can reallocate next quarter'
   - '[model] misleads by framing all reserve-holding as timidity, when in practice maintaining reserves is the standard response to uncertainty -- the maxim works only when the commander has enough information to justify full commitment'
+embodied_patterns:
+  - force
+  - merging
+  - scale
+relation_types:
+  - coordinate
+  - enable
+  - compete
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

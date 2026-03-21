@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because abstract properties like intelligence are multidimensional, but the physical frame forces them onto single linear scales'
   - '[source] misleads because physical comparison is observer-independent while abstract comparison depends entirely on the evaluator''s framework and values'
+embodied_patterns:
+  - scale
+  - matching
+  - near-far
+relation_types:
+  - translate
+  - select
+structure: transformation
+abstraction_level: primitive
 ---
 
 ## Transfers

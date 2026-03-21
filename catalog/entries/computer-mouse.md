@@ -23,6 +23,15 @@ transfers:
   - "[source] imports the scurrying movement pattern of a mouse -- quick, darting, close to the surface -- onto the way users move the device across a desk, where the parallel between rodent locomotion and hand-guided sliding reinforced the metaphor kinesthetically"
   - "[source] carries the paired naming with the cursor (originally called CAT), mapping the predator-prey chase relationship onto the pointer-follows-device dynamic where the screen element appears to chase or be chased by the physical device"
 updated: '2026-03-17'
+embodied_patterns:
+  - matching
+  - path
+  - near-far
+relation_types:
+  - translate
+  - cause
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

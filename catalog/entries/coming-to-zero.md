@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] breaks in domains where accumulated state is the product rather than waste -- a researcher''s cluttered desk may contain spatial arrangements that encode relationships between ideas, and zeroing it destroys information'
   - '[model] assumes the clean state is quickly achievable, but in complex systems (code repositories, organizational processes, infrastructure) the cost of returning to zero can exceed the cost of the entropy it would eliminate'
+embodied_patterns:
+  - removal
+  - iteration
+  - boundary
+relation_types:
+  - restore
+  - coordinate
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

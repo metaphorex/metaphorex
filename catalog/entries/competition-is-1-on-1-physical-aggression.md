@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because actual competition is rarely dyadic -- most markets, fields, and races involve multiple parties with shifting alliances'
   - '[source] misleads because fistfights are symmetrical in capability while real competition thrives on asymmetry (capital vs. innovation, incumbency vs. momentum)'
+embodied_patterns:
+  - force
+  - near-far
+  - boundary
+relation_types:
+  - compete
+  - cause
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers
