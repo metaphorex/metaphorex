@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because pure emergence without curation produces wilderness, not a garden -- the metaphor needs the gardener''s active agency to work'
   - '[source] misleads because gardens are slow and seasonal, importing patience as a universal virtue when some creative work demands urgency and speed'
+embodied_patterns:
+  - self-organization
+  - removal
+  - accretion
+relation_types:
+  - enable
+  - transform
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

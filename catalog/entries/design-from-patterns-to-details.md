@@ -23,6 +23,15 @@ transfers:
 - '[model] details placed without reference to the governing pattern will fight the pattern continuously, requiring external energy to sustain -- a garden bed placed against the drainage gradient requires pumped irrigation'
 - '[model] the model inverts the common impulse to start with components and assemble upward; instead it starts with context and decomposes downward, ensuring coherence between scale levels'
 updated: '2026-03-20'
+embodied_patterns:
+  - part-whole
+  - scale
+  - matching
+relation_types:
+  - coordinate
+  - decompose
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

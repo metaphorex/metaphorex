@@ -25,6 +25,15 @@ limits:
   - '[source] breaks because food is destroyed on consumption while a poem, song, or film survives intact after being read, heard, or watched -- the metaphor erases the non-rivalrous nature of creative works'
   - '[source] misleads because food quality is largely objective (spoiled vs. fresh, nutritious vs. empty) while creative quality is irreducibly subjective, so "slop" borrows a false consensus about what counts as edible'
   - '[source] obscures that the same "consumer" is often also a creator -- the food frame casts people as mouths at the end of a supply chain, hiding the participatory and generative dimension of culture'
+embodied_patterns:
+  - flow
+  - part-whole
+  - container
+relation_types:
+  - transform
+  - accumulate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

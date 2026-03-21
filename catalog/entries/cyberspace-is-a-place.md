@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because places have singular location -- you cannot be in two places at once -- but a user can have simultaneous sessions across dozens of services, and data is routinely replicated across continents"
   - "[source] misleads because spatial metaphors import scarcity (there is only so much land), but digital resources can be copied infinitely at near-zero cost, making spatial intuitions about territory and possession systematically wrong"
+embodied_patterns:
+  - container
+  - boundary
+  - path
+relation_types:
+  - contain
+  - enable
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -21,6 +21,15 @@ transfers:
 - "[source] preservation in ice arrests biological processes, converting continuous decay into a fixed state that can theoretically be resumed later"
 - "[source] the sleeper delegates the problem of death to future generations who may possess technology the present lacks"
 updated: '2026-03-16'
+embodied_patterns:
+  - container
+  - path
+  - blockage
+relation_types:
+  - prevent
+  - transform
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

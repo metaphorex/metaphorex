@@ -28,6 +28,15 @@ transfers:
 - "[source] the traveler persists as an entity throughout the journey, arriving somewhere else rather than ceasing to exist"
 - "[source] those left behind can only accompany the traveler to the point of departure, not beyond"
 updated: '2026-03-16'
+embodied_patterns:
+  - path
+  - near-far
+  - boundary
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

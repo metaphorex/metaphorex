@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because software is deterministic -- every behavior has a traceable causal chain -- but calling it "magic" concedes understanding prematurely and dignifies ignorance as mystery'
   - '[source] misleads because labeling code as deep magic rewards obscurity (the wizard-developer accrues status from monopoly on comprehension) and discourages investigation by other developers'
+embodied_patterns:
+  - surface-depth
+  - container
+  - boundary
+relation_types:
+  - enable
+  - prevent
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

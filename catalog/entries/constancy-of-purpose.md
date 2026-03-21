@@ -21,6 +21,15 @@ transfers:
 limits:
   - "[law] breaks when the environment changes so rapidly that constancy becomes rigidity -- the model assumes a stable enough world that patient investment pays off, but in genuinely discontinuous environments, stubborn consistency is a path to irrelevance"
   - "[law] misleads by framing the choice as binary (constant vs. inconstant) when real organizations must simultaneously maintain strategic direction and adapt tactically, a tension the model acknowledges but does not resolve"
+embodied_patterns:
+  - path
+  - force
+  - balance
+relation_types:
+  - prevent
+  - enable
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

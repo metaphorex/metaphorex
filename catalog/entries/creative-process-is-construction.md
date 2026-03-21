@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because construction assumes you know what you are building before you build it, while creative work often must discover its goal through the process of making'
   - '[source] misleads because buildings are static once constructed -- they do not grow, adapt, or reproduce -- making ongoing evolution feel like renovation rather than natural change'
+embodied_patterns:
+  - part-whole
+  - path
+  - superimposition
+relation_types:
+  - transform
+  - coordinate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

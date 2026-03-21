@@ -22,6 +22,15 @@ limits:
   - "[source] breaks because crossing a Civil War prison deadline meant death, but missing a modern deadline rarely carries lethal or even serious consequences"
   - "[source] misleads because the original deadline was a spatial boundary (a line in dirt), not a temporal one (a moment in time), and the space-to-time mapping is itself a buried metaphor"
   - "[source] obscures that prison deadlines were visible and unambiguous, while modern deadlines are often vague, negotiable, and quietly extended"
+embodied_patterns:
+  - boundary
+  - force
+  - near-far
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -23,6 +23,16 @@ transfers:
 limits:
   - "[paradigm] breaks because culture is emergent from thousands of interactions rather than engineered with precise specifications -- leaders can influence culture but cannot design it with thermostat-level precision"
   - "[paradigm] misleads because a control system faithfully maintains whatever setpoint it is given, including a dysfunctional one -- Enron had a strong culture that was strongly wrong, and the model does not distinguish healthy from pathological equilibria"
+embodied_patterns:
+  - balance
+  - container
+  - force
+relation_types:
+  - coordinate
+  - prevent
+  - restore
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

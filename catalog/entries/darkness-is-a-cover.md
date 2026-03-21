@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because covers are placed by agents with purpose, but darkness arrives through planetary rotation without intention or agency'
   - '[source] misleads because the cover metaphor implies concealment implies something worth hiding, biasing darkness toward suspicion and moral charge'
+embodied_patterns:
+  - container
+  - surface-depth
+  - boundary
+relation_types:
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

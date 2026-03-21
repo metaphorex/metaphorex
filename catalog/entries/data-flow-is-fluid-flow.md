@@ -24,6 +24,15 @@ limits:
   - "[paradigm] breaks because fluids are continuous, but data arrives in discrete packets with headers, delimiters, and schemas"
   - "[paradigm] misleads because fluids obey physics and cannot flow uphill without a pump, but data can be copied, broadcast, and sent in any direction at near-zero cost"
   - "[paradigm] obscures that merging two fluid streams produces fluid, but merging two data streams produces schema conflicts"
+embodied_patterns:
+  - flow
+  - blockage
+  - path
+relation_types:
+  - transform
+  - coordinate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

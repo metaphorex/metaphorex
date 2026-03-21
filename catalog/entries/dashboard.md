@@ -23,6 +23,15 @@ limits:
   - "[source] breaks because an automobile dashboard displays real-time physical measurements (speed, fuel, temperature), while a software dashboard often displays aggregated historical data that may be minutes or hours old"
   - "[source] misleads because a car dashboard has a fixed set of instruments chosen by the manufacturer, while software dashboards are endlessly customizable, leading to information overload that the source domain would never produce"
   - "[source] obscures that the original dashboard (horse-drawn carriage) was a physical barrier protecting the driver from mud, not an information display at all"
+embodied_patterns:
+  - container
+  - boundary
+  - matching
+relation_types:
+  - translate
+  - coordinate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

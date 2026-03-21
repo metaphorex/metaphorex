@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because the metaphor presupposes that the created thing pre-exists in hidden form, importing Platonic mysticism about a realm of latent objects'
   - '[source] misleads because revelation is passive (removing a veil), downplaying the labor, skill, and struggle involved in genuine making'
+embodied_patterns:
+  - surface-depth
+  - removal
+  - matching
+relation_types:
+  - transform
+  - enable
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

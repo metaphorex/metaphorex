@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the structural fact that deep reveals are a consequence of thick, substantial walls, framing rich error messages and detailed API contracts as evidence that the boundary was designed with care, not as afterthought decoration'
 - '[source] structures the observation that a deep reveal creates shelter and a sense of enclosure at the threshold, mapping onto the user experience of encountering a software boundary (error, API response, documentation) that provides enough context to orient rather than leaving the user exposed'
 updated: '2026-03-19'
+embodied_patterns:
+  - boundary
+  - surface-depth
+  - container
+relation_types:
+  - translate
+  - contain
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

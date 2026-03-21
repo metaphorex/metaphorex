@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because daimons had judgment and could warn or choose, while a Unix daemon follows its configuration with perfect literal obedience and no agency'
   - '[source] misleads because the entire numinous framework (the uncanny, the liminal, the sacred) has been bleached into a technical term, losing the sense that autonomous agents deserve respect and caution'
+embodied_patterns:
+  - self-organization
+  - surface-depth
+  - force
+relation_types:
+  - coordinate
+  - enable
+structure: emergence
+abstraction_level: specific
 ---
 
 ## Transfers
