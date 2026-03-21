@@ -113,8 +113,10 @@ Key structural parallels:
 
 - "Green" as adjective for inexperienced -- "She's still a bit green"
   -- the dead metaphor, no conscious image of wood
-- "Greenhorn" -- extended form, originally applied to young cattle with
-  immature horns but reinforced by the wood metaphor
+- "Greenhorn" -- extended form, originally applied to young cattle or
+  oxen with immature horns; the green-wood metaphor runs parallel rather
+  than derivatively, with both converging on immaturity through different
+  source domains
 - "Seasoned" as antonym -- "a seasoned professional" -- imports the
   carpentry cure directly, meaning someone who has stabilized through
   time and exposure
