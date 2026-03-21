@@ -23,9 +23,9 @@ related:
 slug: mutualism-as-metaphor
 source_frame: ecology
 transfers:
-  - '[source] both organisms in the association derive fitness benefits, mapping onto partnerships or platform relationships where all parties are claimed to gain value'
-  - '[source] mutualistic relationships often involve exchange of qualitatively different resources (e.g., pollination for nectar), importing the idea that partners contribute different kinds of value rather than equal amounts of the same thing'
-  - '[source] mutualism can shade into parasitism when environmental conditions shift, mapping onto the structural instability of partnerships where one side''s contribution becomes less valuable'
+  - '[metaphor] both organisms in the association derive fitness benefits, mapping onto partnerships or platform relationships where all parties are claimed to gain value'
+  - '[metaphor] mutualistic relationships often involve exchange of qualitatively different resources (e.g., pollination for nectar), importing the idea that partners contribute different kinds of value rather than equal amounts of the same thing'
+  - '[metaphor] mutualism can shade into parasitism when environmental conditions shift, mapping onto the structural instability of partnerships where one side''s contribution becomes less valuable'
 updated: '2026-03-21'
 ---
 

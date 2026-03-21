@@ -23,9 +23,9 @@ related:
 slug: parasitism-as-metaphor
 source_frame: ecology
 transfers:
-  - '[source] one organism extracts resources from another while providing nothing in return, mapping onto economic or social relationships perceived as purely extractive'
-  - '[source] the parasite depends on the host for survival and cannot exist independently, importing the structural insight that extractive actors are bound to and limited by the systems they exploit'
-  - '[source] parasites often evade the host''s immune defenses through camouflage or suppression, mapping onto how extractive actors avoid detection by mimicking legitimate participants or suppressing accountability mechanisms'
+  - '[metaphor] one organism extracts resources from another while providing nothing in return, mapping onto economic or social relationships perceived as purely extractive'
+  - '[metaphor] the parasite depends on the host for survival and cannot exist independently, importing the structural insight that extractive actors are bound to and limited by the systems they exploit'
+  - '[metaphor] parasites often evade the host''s immune defenses through camouflage or suppression, mapping onto how extractive actors avoid detection by mimicking legitimate participants or suppressing accountability mechanisms'
 updated: '2026-03-21'
 ---
 
