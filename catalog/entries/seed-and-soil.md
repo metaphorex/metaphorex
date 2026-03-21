@@ -4,7 +4,7 @@ name: Seed and Soil
 kind: metaphor
 source_frame: ecology
 applies_to:
-  - health-and-medicine
+  - medicine
 categories:
   - health-and-medicine
   - biology-and-ecology
