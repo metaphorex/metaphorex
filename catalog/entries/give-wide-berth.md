@@ -6,6 +6,14 @@ contributors: []
 created: '2026-03-14'
 kind: metaphor
 dead: true
+embodied_patterns:
+  - near-far
+  - boundary
+relation_types:
+  - prevent
+structure:
+  - boundary
+abstraction_level: specific
 name: Give Wide Berth
 related: []
 slug: give-wide-berth

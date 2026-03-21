@@ -26,6 +26,17 @@ transfers:
 - '[source] imports the material sequence of building -- rough framing before finish carpentry, temporary bracing before permanent load paths -- as a model for iterative software development where early prototypes are deliberately loose and tighten as requirements stabilize'
 - '[source] structures the insight that premature rigidity is a construction defect, not a sign of engineering rigor -- a wall plastered before the foundation has settled will crack, just as an API frozen before user patterns are understood will require breaking changes'
 updated: '2026-03-19'
+embodied_patterns:
+  - flow
+  - path
+  - accretion
+relation_types:
+  - transform
+  - enable
+structure:
+  - growth
+  - transformation
+abstraction_level: generic
 ---
 
 ## Transfers

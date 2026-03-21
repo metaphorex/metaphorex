@@ -13,6 +13,16 @@ contributors: []
 related:
   - computer-virus-is-biological-infection
 dead: false
+embodied_patterns:
+  - matching
+  - path
+  - part-whole
+relation_types:
+  - translate
+  - transform
+structure:
+  - pipeline
+abstraction_level: specific
 created: '2026-03-17'
 updated: '2026-03-17'
 harness: Claude Code

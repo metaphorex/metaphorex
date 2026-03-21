@@ -8,6 +8,16 @@ categories:
 contributors: []
 created: '2026-03-13'
 dead: true
+embodied_patterns:
+  - boundary
+  - path
+  - force
+relation_types:
+  - prevent
+  - contain
+structure:
+  - boundary
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Guardrails

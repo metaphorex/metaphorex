@@ -16,6 +16,17 @@ related:
 slug: god-object
 source_frame: religion
 updated: '2026-03-14'
+embodied_patterns:
+  - center-periphery
+  - link
+  - part-whole
+relation_types:
+  - contain
+  - coordinate
+structure:
+  - hierarchy
+  - network
+abstraction_level: specific
 transfers:
   - '[source] a monotheistic deity is omniscient (knows everything), omnipotent (can do everything), and omnipresent (involved in everything), mapping onto a software class that has too many responsibilities, knows too much about other components, and is coupled to everything in the system'
   - '[source] the theological problem of divine omnipotence (can God create a stone so heavy He cannot lift it?) maps onto the engineering problem of a class so central that any change to it risks breaking the entire system -- the very power that makes it useful makes it impossible to modify safely'

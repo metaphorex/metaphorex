@@ -16,6 +16,17 @@ related:
 slug: foundation-model-is-a-foundation
 source_frame: architecture-and-building
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - surface-depth
+  - part-whole
+relation_types:
+  - enable
+  - contain
+  - cause
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - '[source] the architectural foundation bears the weight of everything built above it and is the first thing laid and the last thing replaced, mapping onto the ML structure where a pre-trained model supports all downstream applications and is prohibitively expensive to replace once the ecosystem is built on it'
   - '[source] cracks in a foundation propagate upward into every structure built upon it, mapping onto the way biases, errors, or limitations in a foundation model propagate into every fine-tuned application and downstream product'

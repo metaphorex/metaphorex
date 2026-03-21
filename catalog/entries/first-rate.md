@@ -21,6 +21,15 @@ transfers:
 - '[source] first-rates were extremely expensive and few in number (fewer than ten in service), carrying a faint echo of exclusivity into the metaphorical usage'
 - '[source] the existence of ''first-rate'' implies a system of lower rates, and the metaphor preserved this asymmetrically -- ''second-rate'' survives as pejorative while third through sixth vanished'
 updated: '2026-03-14'
+embodied_patterns:
+  - scale
+  - part-whole
+relation_types:
+  - select
+  - decompose
+structure:
+  - hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

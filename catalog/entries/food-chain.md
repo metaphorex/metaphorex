@@ -18,6 +18,18 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - path
+  - scale
+  - flow
+relation_types:
+  - cause
+  - contain
+  - accumulate
+structure:
+  - hierarchy
+  - pipeline
+abstraction_level: generic
 transfers:
   - '[source] A food chain is a linear sequence of trophic levels where each organism feeds on the one below it, importing the structure where power and resource extraction flow in a single direction from bottom to top'
   - '[source] Removing a species from a food chain causes cascading effects both up (starvation) and down (population explosion), importing the structure where removing any actor from a hierarchy disrupts actors above and below, not just adjacent ones'

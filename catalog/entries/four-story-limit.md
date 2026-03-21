@@ -17,6 +17,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - scale
+  - surface-depth
+  - near-far
+relation_types:
+  - prevent
+  - cause
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - '[source] buildings above four stories require elevators, which replace the continuous experience of climbing stairs with a discontinuous jump between floors, severing the occupant''s proprioceptive connection to the ground'
   - '[source] each additional story above the limit increases the structural engineering required disproportionately -- wind load, foundation depth, and fire-safety systems scale nonlinearly with height'

@@ -13,6 +13,16 @@ created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - iteration
+  - path
+  - blockage
+relation_types:
+  - cause
+  - prevent
+structure:
+  - cycle
+abstraction_level: generic
 transfers:
   - '[model] identifies the specific mechanism by which surviving a risky decision reinforces the decision rather than the luck, because the feedback signal (no disaster) is indistinguishable from the signal produced by a genuinely safe choice'
   - '[model] exposes outcome bias in life-safety contexts where the sample size of personal experience is tiny, so one or two survivals feel like validation while the base rate of catastrophe remains invisible'

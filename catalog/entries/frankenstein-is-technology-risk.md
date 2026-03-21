@@ -14,6 +14,16 @@ related:
   - big-brother-is-surveillance
   - cyberspace-is-a-place
 dead: true
+embodied_patterns:
+  - force
+  - link
+  - part-whole
+relation_types:
+  - cause
+  - transform
+structure:
+  - transformation
+abstraction_level: generic
 created: '2026-03-17'
 updated: '2026-03-17'
 harness: Claude Code

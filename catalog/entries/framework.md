@@ -20,6 +20,17 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - container
+  - part-whole
+  - boundary
+relation_types:
+  - contain
+  - enable
+structure:
+  - hierarchy
+  - boundary
+abstraction_level: generic
 transfers:
   - '[source] a frame is the structural skeleton erected before walls, floors, and finish, importing the structure where a framework provides the load-bearing organization that subsequent work fills in but does not redesign'
   - '[source] framing determines what is possible at later stages -- window placement, room dimensions, roof pitch are all fixed by the frame -- importing the structure where choosing a framework constrains all subsequent decisions in ways that are expensive to reverse'

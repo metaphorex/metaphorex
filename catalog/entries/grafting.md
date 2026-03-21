@@ -17,6 +17,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - merging
+  - boundary
+  - part-whole
+relation_types:
+  - transform
+  - enable
+structure:
+  - boundary
+abstraction_level: generic
 transfers:
   - '[source] the scion (grafted branch) and the rootstock are genetically different organisms that must form a vascular union at the graft point, importing the structure where integration requires biological compatibility at the junction rather than similarity between the joined parts'
   - '[source] the rootstock provides the root system, disease resistance, and vigor, while the scion provides the desired fruit or flower, importing the structure where each party in a merger contributes a distinct, non-overlapping capability that neither possesses alone'

@@ -21,6 +21,17 @@ limits:
   - '[model] breaks because firefighting has a formally defined incident command system with explicit reporting lines, while most software teams operate under looser coordination structures where the boundary between initiative and freelancing is ambiguous'
   - '[model] misleads in contexts where the command structure itself is dysfunctional -- the term can be used to punish people who bypass broken processes to get necessary work done, conflating bureaucratic disobedience with genuine recklessness'
 updated: '2026-03-19'
+embodied_patterns:
+  - boundary
+  - link
+  - center-periphery
+relation_types:
+  - coordinate
+  - prevent
+structure:
+  - hierarchy
+  - boundary
+abstraction_level: specific
 ---
 
 ## Transfers

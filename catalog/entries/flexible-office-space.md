@@ -26,6 +26,17 @@ transfers:
 - '[source] imports the distinction between the permanent shell (walls, plumbing) and the reconfigurable interior (furniture, partitions), mapping onto the separation between core infrastructure and runtime configuration'
 - '[source] encodes the insight that flexibility requires deliberate investment in modularity -- movable partitions cost more than drywall upfront but pay off over the life of the building'
 updated: '2026-03-21'
+embodied_patterns:
+  - container
+  - boundary
+  - part-whole
+relation_types:
+  - contain
+  - transform
+  - enable
+structure:
+  - boundary
+abstraction_level: specific
 ---
 
 ## Transfers

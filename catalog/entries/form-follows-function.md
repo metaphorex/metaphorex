@@ -17,6 +17,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - matching
+  - surface-depth
+  - part-whole
+relation_types:
+  - cause
+  - transform
+structure:
+  - hierarchy
+abstraction_level: generic
 transfers:
   - '[source] in architecture, the external shape of a building is determined by its internal purpose -- a grain elevator looks like a grain elevator because its form is the direct expression of the volume and flow requirements of storing and moving grain, not because an architect chose that shape for visual reasons'
   - '[source] the principle encodes a causal direction: function is the independent variable and form is the dependent variable, meaning the designer''s first obligation is to understand what the thing must do, and the shape emerges from that understanding rather than being imposed on it'

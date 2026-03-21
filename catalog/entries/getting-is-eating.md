@@ -18,6 +18,16 @@ related:
 slug: getting-is-eating
 source_frame: food-and-cooking
 updated: '2026-03-12'
+embodied_patterns:
+  - container
+  - merging
+  - flow
+relation_types:
+  - transform
+  - accumulate
+structure:
+  - transformation
+abstraction_level: primitive
 transfers:
   - '[source] acquisition maps onto the structure of eating: the desirable thing is consumed, incorporated into the self, and once eaten cannot be given back -- importing the irreversibility and self-nourishing quality of ingestion onto the act of obtaining'
   - '[source] eagerness to acquire maps onto hunger and appetite -- ''hungry for success,'' ''appetite for risk,'' ''devouring opportunities'' -- importing the urgency and biological compulsion of food-seeking onto economic and social acquisition'

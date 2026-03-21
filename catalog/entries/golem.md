@@ -15,6 +15,16 @@ related:
 slug: golem
 source_frame: mythology
 updated: '2026-03-14'
+embodied_patterns:
+  - force
+  - link
+  - matching
+relation_types:
+  - cause
+  - enable
+structure:
+  - hierarchy
+abstraction_level: generic
 transfers:
   - '[source] the golem obeys commands with absolute literalness -- it has immense power but no judgment, executing instructions exactly as given regardless of the consequences the creator intended to avoid -- mapping onto systems that follow specifications precisely while violating their spirit'
   - '[source] the golem is animated by inscribing a word (emet, truth) and deactivated by erasing a letter (met, death), importing the structure that the gap between functioning and catastrophe is a single-character change in the controlling instructions'

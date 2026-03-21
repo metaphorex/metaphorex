@@ -26,6 +26,16 @@ transfers:
 - '[source] carries the structural insight that repairability requires material homogeneity and standardization -- you can patch a brick wall with matching bricks but not with proprietary composites whose manufacturer has gone bankrupt'
 - '[source] establishes that good materials are those whose failure modes are visible and gradual rather than hidden and catastrophic, importing the architectural preference for honest degradation over brittle perfection'
 updated: '2026-03-21'
+embodied_patterns:
+  - surface-depth
+  - part-whole
+  - accretion
+relation_types:
+  - enable
+  - select
+structure:
+  - hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

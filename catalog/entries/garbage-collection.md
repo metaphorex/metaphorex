@@ -7,6 +7,16 @@ categories:
 contributors: []
 created: '2026-03-17'
 dead: true
+embodied_patterns:
+  - removal
+  - container
+  - iteration
+relation_types:
+  - select
+  - accumulate
+structure:
+  - cycle
+abstraction_level: specific
 grounding: established
 harness: Claude Code
 kind: metaphor
