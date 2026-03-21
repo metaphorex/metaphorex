@@ -106,11 +106,26 @@ candidate lists from LLM knowledge. Follow this priority order:
    directory listings, PDF text extraction with regex, MediaWiki API calls —
    whatever fits the source format. Scripts go in `playbooks/<name>/scripts/`.
 
-3. **Use LLM knowledge ONLY to fill gaps.** After exhausting archive sources,
+3. **Validate scrape results before proceeding.** Every scraping script MUST
+   check that it extracted a non-empty result set before writing output. If
+   the result list is empty or suspiciously small (fewer than 5 candidates
+   from a source known to have dozens), the script must exit with a non-zero
+   status and print a diagnostic message naming the selectors or patterns
+   that matched nothing. Do NOT silently produce an empty manifest.
+
+   **Fallback when selectors fail:** Page structures change over time. If
+   your initial CSS selectors or XPath queries return empty results:
+   - Fetch the raw HTML with WebFetch and inspect the actual page structure
+   - Try broader selectors (e.g., tag-based instead of class-based)
+   - Fall back to parsing the raw text content with regex patterns
+   - Document which selectors you tried and why they failed in the playbook's
+     Gotchas section so future re-runs know what to expect
+
+4. **Use LLM knowledge ONLY to fill gaps.** After exhausting archive sources,
    use your own knowledge to identify candidates the archives missed. Flag
    these clearly in the playbook as "LLM-sourced, not archive-verified."
 
-4. **Never use LLM knowledge as the primary source.** If you cannot find any
+5. **Never use LLM knowledge as the primary source.** If you cannot find any
    external archive for a source, say so in the playbook and flag the
    candidate list as provisional. The Surveyor will verify completeness.
 
@@ -218,6 +233,10 @@ current commit hash.
   LLM knowledge" is a red flag — the Surveyor will reject it.
 - Scraping scripts fetch from archive URLs and write structured JSON to
   stdout. They should be idempotent and produce the same output on each run.
+- Scraping scripts MUST validate their own output: assert the result list is
+  non-empty, log the count of extracted items, and exit non-zero if selectors
+  returned nothing. An empty manifest from a known-populated source is always
+  a bug, never acceptable output.
 - Archive-scraping scripts are REQUIRED when a structured source exists
 - Manifest entries should be specific — "argument-is-war" not "chapter 3"
 - Err on the side of more candidates; the Miner and Assayer will filter
