@@ -13,7 +13,7 @@ related:
 - fight-fire-aggressively-having-provided-for-safety-first
 provenance: napoleons-military-maxims
 created: '2026-03-20'
-updated: '2026-03-20'
+updated: '2026-03-21'
 grounding: established
 harness: Claude Code
 transfers:

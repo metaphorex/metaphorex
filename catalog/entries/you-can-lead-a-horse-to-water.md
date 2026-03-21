@@ -15,7 +15,7 @@ related:
 - dont-cast-pearls-before-swine
 provenance: agricultural-proverbs
 created: '2026-03-20'
-updated: '2026-03-20'
+updated: '2026-03-21'
 grounding: established
 harness: Claude Code
 transfers:
