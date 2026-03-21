@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because yo-yo motion is deterministic and predictable, whereas the mapped traversal is unpredictable because overrides and dispatches cannot be known without reading each level"
   - "[source] misleads because the toy is associated with play and skill, whereas the mapped experience is frustrating and unproductive"
+embodied_patterns:
+  - path
+  - iteration
+  - scale
+relation_types:
+  - prevent
+  - cause
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

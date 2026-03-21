@@ -23,6 +23,15 @@ transfers:
   - "[model] effective transfer requires understanding the reasoning behind a solution, not just replicating its form -- copying without understanding produces cargo-cult practices"
   - "[model] the obligation to share runs in both directions: the originator must make their thinking visible, and the receiver must adapt rather than adopt"
 updated: '2026-03-18'
+embodied_patterns:
+  - flow
+  - link
+  - matching
+relation_types:
+  - translate
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because the metaphor implies all prerequisite work is wasteful misdirection, whereas the mapped chains often involve genuinely necessary foundational tasks"
   - "[source] misleads because the single-strand causal chain oversimplifies the mapped structure, which is typically a branching dependency graph, not a linear sequence"
+embodied_patterns:
+  - path
+  - link
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

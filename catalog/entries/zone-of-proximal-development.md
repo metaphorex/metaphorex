@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] breaks because spatial zones have sharp boundaries you can locate, but the edges of a learner''s ability are fuzzy, task-dependent, and observable only through performance -- the spatial metaphor implies a precision that assessment cannot deliver'
   - '[model] misleads by treating the zone as a property of the individual, when Vygotsky''s original formulation made it a property of the interaction -- a child does not "have" a ZPD in the way they have a height'
+embodied_patterns:
+  - boundary
+  - near-far
+  - container
+relation_types:
+  - enable
+  - transform
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

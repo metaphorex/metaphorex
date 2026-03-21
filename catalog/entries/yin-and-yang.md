@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because not all oppositions are complementary -- some are genuinely adversarial, and the structure encourages false equivalence where none exists"
   - "[source] misleads because the two-pole model forces complex multi-factor systems into binary pairs, obscuring interactions among three or more forces"
+embodied_patterns:
+  - balance
+  - merging
+  - iteration
+relation_types:
+  - coordinate
+  - restore
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

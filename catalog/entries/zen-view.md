@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because architectural views are a fixed resource (one mountain, one garden) while digital features can be revealed without depleting anything, so artificial scarcity may feel manipulative rather than respectful'
   - '[source] misleads by implying that the best interface hides its most valuable content behind layers of indirection, when in many contexts users need immediate access to the powerful feature, not a curated reveal'
+embodied_patterns:
+  - boundary
+  - near-far
+  - removal
+relation_types:
+  - enable
+  - select
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

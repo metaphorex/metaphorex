@@ -26,6 +26,15 @@ transfers:
 - '[source] imports Alexander''s observation that a window onto a living street creates ambient situational awareness without requiring active investigation, framing production observability as a view to be glanced at rather than a report to be pulled'
 - '[source] structures the distinction between windows that face life and windows that face walls as a critique of monitoring systems that show CPU utilization and memory pressure (the blank wall of infrastructure) instead of user journeys and business outcomes (the living street)'
 updated: '2026-03-19'
+embodied_patterns:
+  - boundary
+  - near-far
+  - link
+relation_types:
+  - enable
+  - coordinate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

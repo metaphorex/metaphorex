@@ -28,6 +28,15 @@ transfers:
   - '[source] the alternative ("no, but" or "yes, but") kills the scene by withdrawing the shared reality the first player established, teaching that collaboration requires provisional commitment to a partner''s frame even when you would have started differently'
   - '[source] the pattern is recursive: each "yes, and" creates a new offer that the next player must also "yes, and," producing emergent structure that no single player planned -- modeling distributed creativity without centralized design'
 updated: '2026-03-19'
+embodied_patterns:
+  - link
+  - accretion
+  - flow
+relation_types:
+  - enable
+  - coordinate
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

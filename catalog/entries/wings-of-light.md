@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because natural light has a fixed physical limit (about 6-8 meters of penetration), while "visibility" in software is not inherently distance-limited -- a well-instrumented deep module can be more transparent than a shallow unmonitored one, so the analogy between physical depth and cognitive opacity is contingent, not necessary'
   - '[source] misleads by treating narrowness as intrinsically virtuous, when some functions (warehouses, server rooms, theaters) are better served by deep, enclosed spaces that deliberately exclude daylight -- the analogous point in software is that some modules benefit from opacity (encapsulation, information hiding) rather than transparency'
+embodied_patterns:
+  - flow
+  - boundary
+  - near-far
+relation_types:
+  - enable
+  - coordinate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

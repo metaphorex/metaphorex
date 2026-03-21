@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] fails when the audience values authenticity over polish, as in punk aesthetics, outsider art, or deliberately rough prototypes, where visible effort or imperfection signals honesty rather than incompetence'
   - '[model] can function as a gatekeeping device, dismissing work by under-resourced practitioners whose effort is visible not because of lesser skill but because of lesser access to tools, time, or institutional support'
+embodied_patterns:
+  - surface-depth
+  - matching
+  - removal
+relation_types:
+  - transform
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

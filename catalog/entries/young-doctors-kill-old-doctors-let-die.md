@@ -28,6 +28,15 @@ limits:
   - '[source] In medicine the errors of commission and omission are both measurable against patient outcomes (mortality, morbidity), but in domains like management or policy the outcomes of inaction are often invisible and untracked, making the "old doctor" failure mode systematically harder to detect'
   - '[source] The aphorism implies a symmetric U-curve where novice and expert errors are equally dangerous, but in most clinical contexts over-intervention is more detectable and correctable than under-intervention, meaning the two failure modes are not structurally equivalent'
   - '[source] The saying frames experience as a linear continuum from "young" to "old" but expertise acquisition is not monotonic -- a mid-career physician who changes specialties reverts to novice-pattern errors in the new domain -- and the metaphor''s biographical framing obscures this domain-specificity'
+embodied_patterns:
+  - balance
+  - force
+  - path
+relation_types:
+  - cause
+  - prevent
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

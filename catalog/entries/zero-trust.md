@@ -25,6 +25,15 @@ transfers:
 - "[source] imports the interpersonal insight that insiders can betray -- that being inside a group does not guarantee loyalty -- structuring security architecture around the assumption that any node, even authenticated ones, may be compromised"
 - "[source] carries the social dynamic of conditional trust -- trust granted for a specific context, duration, and scope -- onto per-session, least-privilege access tokens that expire and must be re-earned"
 updated: '2026-03-18'
+embodied_patterns:
+  - boundary
+  - matching
+  - link
+relation_types:
+  - prevent
+  - select
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

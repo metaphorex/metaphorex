@@ -27,6 +27,15 @@ transfers:
 - '[source] imports the principle that large organizations must be decomposed into small, self-governing clusters that share physical space, tools, and daily rhythm, so that each cluster functions as a village rather than a department'
 - '[source] carries the structural insight that the community''s boundary is defined by shared facilities and a common entrance rather than by org-chart lines, meaning the group''s identity emerges from spatial co-location, not managerial assignment'
 updated: '2026-03-21'
+embodied_patterns:
+  - container
+  - link
+  - near-far
+relation_types:
+  - coordinate
+  - enable
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

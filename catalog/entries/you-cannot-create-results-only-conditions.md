@@ -19,6 +19,15 @@ transfers:
 limits:
   - '[model] breaks in domains where results ARE directly producible through execution of known procedures, such as manufacturing tolerances or arithmetic computation'
   - '[model] can become an excuse for vagueness -- leaders who refuse to specify any expected outcomes under the banner of "only conditions" may actually be avoiding accountability'
+embodied_patterns:
+  - container
+  - self-organization
+  - matching
+relation_types:
+  - enable
+  - cause
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

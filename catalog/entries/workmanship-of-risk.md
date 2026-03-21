@@ -24,6 +24,15 @@ transfers:
 - '[paradigm] identifies that risk-bearing work cannot be fully specified in advance because the maker must continuously read and respond to the material, importing the insight that some knowledge is irreducibly tacit and procedural'
 - '[paradigm] reveals that industrialization does not eliminate craft judgment but displaces it -- from the point of making to the point of designing the production system -- so the risk moves upstream rather than disappearing'
 updated: '2026-03-19'
+embodied_patterns:
+  - matching
+  - force
+  - path
+relation_types:
+  - enable
+  - transform
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

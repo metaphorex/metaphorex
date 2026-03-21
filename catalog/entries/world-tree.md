@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because the world tree has a single trunk with no branching alternative paths between realms, while real hierarchical systems typically offer multiple routes between levels"
   - "[source] misleads because the world tree is rooted and immobile -- it cannot be restructured, rerouted, or replaced -- importing a permanence that most organizational and data hierarchies do not possess"
+embodied_patterns:
+  - center-periphery
+  - link
+  - scale
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers
