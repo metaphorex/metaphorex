@@ -22,6 +22,7 @@ transfers:
 limits:
   - '[model] The principle assumes that yield can be meaningfully measured, but in knowledge work, community organizing, and education the most important outputs (trust, understanding, cultural change) resist quantification and may be misrepresented by proxy metrics'
   - '[model] "Obtain a yield" can be weaponized to demand premature productivity from systems that require long establishment periods -- a food forest needs years before it fruits, and a research program may need a decade before it produces publishable results -- and the principle provides no guidance on how long to invest before expecting returns'
+  - '[model] The principle does not specify whose yield counts -- a wetland that yields nothing marketable to the landowner but yields flood protection and habitat to the wider community can be drained in the name of "obtaining a yield," destroying the larger system yields in pursuit of the narrower private one'
 ---
 
 ## Transfers
