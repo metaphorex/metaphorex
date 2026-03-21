@@ -21,6 +21,15 @@ transfers:
 limits:
   - "[source] breaks because scattered seeds grow where they land and cannot be recalled, while broadcast signals can be jammed, filtered, or simply turned off by the receiver -- the agricultural metaphor implies irreversibility that electronic transmission lacks"
   - "[source] misleads because sowing is seasonal and finite (one cast per field per year), while broadcasting is continuous and repeatable -- radio stations transmit 24 hours a day, which has no agricultural parallel"
+embodied_patterns:
+  - center-periphery
+  - flow
+  - scale
+relation_types:
+  - cause
+  - enable
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

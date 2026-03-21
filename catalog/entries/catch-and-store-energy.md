@@ -15,6 +15,16 @@ created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - container
+  - flow
+  - accretion
+relation_types:
+  - accumulate
+  - contain
+  - enable
+structure: cycle
+abstraction_level: generic
 transfers:
   - '[model] resources arrive in pulses -- sun, rain, seasonal abundance -- and must be captured during the pulse and stored in durable form for use during scarcity, importing the structure where value creation depends on recognizing temporal asymmetry between supply and demand'
   - '[model] storage always involves transformation and loss -- grain must be dried to prevent rot, water must be contained to prevent evaporation -- importing the structure where preservation requires active investment and every storage medium has characteristic decay rates'

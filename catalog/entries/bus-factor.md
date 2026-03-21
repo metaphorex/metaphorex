@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because bus strikes are random and uncorrelated, while real knowledge-holder departures are often clustered (layoffs, team moves, competing offers) and correlated with organizational dysfunction'
   - '[source] misleads by reducing knowledge risk to a count of people, when knowledge transfer difficulty depends on tacit knowledge depth, documentation quality, and system complexity -- not just headcount'
+embodied_patterns:
+  - container
+  - removal
+  - part-whole
+relation_types:
+  - cause
+  - prevent
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -20,6 +20,16 @@ created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - center-periphery
+  - force
+  - balance
+relation_types:
+  - cause
+  - compete
+  - select
+structure: hierarchy
+abstraction_level: generic
 transfers:
   - '[source] A physical center of gravity is the single point where an object''s entire mass can be treated as concentrated, importing the structure where a complex adversary or organization has one capability on which its coherence depends'
   - '[source] Striking the center of gravity of an object topples the whole structure rather than chipping at periphery, importing the structure where attacking the right target collapses an entire system rather than degrading it incrementally'

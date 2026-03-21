@@ -21,6 +21,14 @@ transfers:
 limits:
   - '[source] breaks because the original nautical meaning describes a continuous spectrum of wind angles, while the modern idiom collapses this into a simple "on the whole" that loses the structural insight about performance across varied conditions'
   - '[source] misleads by implying that general assessments naturally account for both favorable and adverse conditions, when most "by and large" statements actually default to the most salient or available evidence'
+embodied_patterns:
+  - balance
+  - path
+relation_types:
+  - coordinate
+  - select
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

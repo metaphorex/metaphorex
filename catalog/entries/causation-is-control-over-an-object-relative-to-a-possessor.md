@@ -29,6 +29,16 @@ transfers:
 limits:
   - '[source] breaks because many causal effects are not about acquiring or losing discrete objects but about continuous changes in state, degree, or quality'
   - '[source] misleads by requiring an identifiable possessor on both ends, when many causal chains have no discrete agent who gives or receives'
+embodied_patterns:
+  - flow
+  - force
+  - container
+relation_types:
+  - cause
+  - transform
+  - enable
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

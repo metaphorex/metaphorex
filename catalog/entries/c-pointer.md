@@ -17,6 +17,15 @@ created: '2026-03-17'
 updated: '2026-03-17'
 harness: Claude Code
 grounding: folk
+embodied_patterns:
+  - path
+  - near-far
+  - link
+relation_types:
+  - enable
+  - translate
+structure: network
+abstraction_level: specific
 transfers:
   - "[source] pointing selects a target by indicating its location rather than holding the target itself -- indirection as a spatial gesture"
   - "[source] following a pointed direction requires a second act of attention: look where the finger points, not at the finger"

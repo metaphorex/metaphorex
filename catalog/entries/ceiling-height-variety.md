@@ -18,6 +18,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - scale
+  - container
+  - surface-depth
+relation_types:
+  - coordinate
+  - enable
+  - select
+structure: hierarchy
+abstraction_level: specific
 transfers:
   - '[source] rooms with uniform ceiling heights feel monotonous regardless of their function, because the spatial volume sends no signal about what kind of activity belongs there -- a hallway at ten feet feels cavernous, and a gathering hall at eight feet feels compressed'
   - '[source] ceiling height directly modulates cognitive style: high ceilings promote abstract thinking and broad association, while low ceilings promote focused, detail-oriented work -- the room''s volume is an environmental cue that primes the occupant''s mode of attention'

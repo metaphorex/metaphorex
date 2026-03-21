@@ -24,6 +24,16 @@ transfers:
 limits:
   - '[source] breaks because a cattle brand is applied once and is permanent, while commercial brands are continuously maintained and can be deliberately changed through rebranding'
   - '[source] misleads by implying the brand is imposed on a passive object, when modern brand identity is co-created through customer perception, cultural associations, and social media discourse'
+embodied_patterns:
+  - superimposition
+  - matching
+  - boundary
+relation_types:
+  - transform
+  - select
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -23,6 +23,16 @@ limits:
   - "[source] breaks because a bottle has one fixed neck, but real systems have multiple shifting constraints that migrate when one is resolved"
   - "[source] misleads because a bottle's geometry is permanent, but performance constraints appear and disappear dynamically as load changes"
   - "[source] obscures that some narrow points serve as useful filters, not just flow restrictions"
+embodied_patterns:
+  - flow
+  - blockage
+  - container
+relation_types:
+  - prevent
+  - cause
+  - contain
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -27,6 +27,16 @@ transfers:
   - "[source] imports Huxley's central mechanism -- conditioning people to love their servitude -- onto debates about algorithmic feeds, gamification, and attention engineering, where the user consents because the system is designed to be pleasurable"
   - "[source] carries the dystopian inversion where stability is achieved by eliminating the conditions for discontent (depth, autonomy, meaningful choice), mapping onto critiques that technological convenience trades away capacities people do not realize they are losing"
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - force
+  - surface-depth
+relation_types:
+  - contain
+  - transform
+  - prevent
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

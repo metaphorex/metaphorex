@@ -26,6 +26,16 @@ transfers:
 - '[source] imports the principle that a single monolithic covering is fragile -- if it fails, everything beneath is exposed -- while a cascade distributes risk across multiple independent layers'
 - '[source] encodes the insight that each roof tier has its own pitch and drainage, mapping onto the design rule that each abstraction layer should handle its own failure modes rather than passing them upward'
 updated: '2026-03-21'
+embodied_patterns:
+  - part-whole
+  - scale
+  - surface-depth
+relation_types:
+  - decompose
+  - contain
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -24,6 +24,16 @@ transfers:
 limits:
   - "[source] breaks because Big Brother may not exist as an individual -- the novel leaves this ambiguous -- but the metaphor in common usage implies a singular identifiable watcher, which misrepresents distributed and algorithmic surveillance systems"
   - "[source] misleads because Orwell's surveillance is overtly authoritarian and state-operated, while the most pervasive modern surveillance is commercial, voluntary, and experienced as convenience rather than oppression"
+embodied_patterns:
+  - container
+  - center-periphery
+  - boundary
+relation_types:
+  - contain
+  - prevent
+  - transform
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ transfers:
 limits:
   - "[source] breaks because temporal precedence is sufficient for perceived causation but not for actual causation — post hoc ergo propter hoc is the classic fallacy this metaphor enables"
   - "[source] misleads because simultaneous causation exists (gravitational attraction, market equilibria) but has no representation in a frame that requires before-and-after"
+embodied_patterns:
+  - path
+  - link
+  - force
+relation_types:
+  - cause
+  - enable
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

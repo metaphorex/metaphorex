@@ -18,6 +18,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - boundary
+  - surface-depth
+  - near-far
+relation_types:
+  - enable
+  - translate
+  - coordinate
+structure: boundary
+abstraction_level: specific
 transfers:
   - '[source] the building edge is neither interior nor exterior but a transitional zone -- arcades, awnings, stoops, and colonnades create a space that belongs to both the building and the street, and this ambiguity is what generates social activity'
   - '[source] a building with no edge transition (blank wall meeting sidewalk) kills street life because there is no zone where the occupant''s territory overlaps with the pedestrian''s territory -- the sharp boundary eliminates the possibility of casual exchange'

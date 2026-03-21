@@ -22,6 +22,16 @@ transfers:
 limits:
   - "[paradigm] breaks because cancer is unambiguously pathological while business units exist on a spectrum from clearly failing to ambiguously underperforming, importing a false binary into a domain where most situations are gray"
   - "[paradigm] misleads because it biases toward action over patience -- the oncological practice of watchful waiting for slow-growing conditions has no place in the formula, yet sometimes the cure is worse than the disease"
+embodied_patterns:
+  - removal
+  - boundary
+  - part-whole
+relation_types:
+  - prevent
+  - decompose
+  - select
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

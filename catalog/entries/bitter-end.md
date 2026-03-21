@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because the nautical bitter end is a precise, known-in-advance limit (the cable has a measurable length), while metaphorical bitter ends are usually discovered only upon arrival'
   - '[source] misleads by implying the endpoint is always negative (losing the anchor), when reaching the end of a process can also mean completion rather than catastrophe'
+embodied_patterns:
+  - path
+  - boundary
+  - removal
+relation_types:
+  - cause
+  - prevent
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

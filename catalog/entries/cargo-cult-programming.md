@@ -25,6 +25,15 @@ limits:
   - "[source] breaks because the original cargo cults were rational inferences given available information, but the metaphor implies stupidity rather than reasonable response to opacity"
   - "[source] misleads because it assumes a stable ground truth to understand, but in software the mechanisms change constantly as frameworks evolve"
   - "[source] carries colonial baggage by reproducing a hierarchy of knowing observers judging unknowing imitators"
+embodied_patterns:
+  - matching
+  - surface-depth
+  - iteration
+relation_types:
+  - cause
+  - translate
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

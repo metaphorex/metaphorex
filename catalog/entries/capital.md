@@ -24,6 +24,16 @@ transfers:
 limits:
   - '[source] breaks because cattle are self-reproducing biological organisms, while financial capital requires external deployment decisions and market conditions to generate returns'
   - '[source] misleads by implying capital is tangible and countable in discrete units, when modern capital includes intangible assets (intellectual property, brand equity, social capital) that resist the head-counting metaphor'
+embodied_patterns:
+  - accretion
+  - scale
+  - container
+relation_types:
+  - accumulate
+  - enable
+  - transform
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

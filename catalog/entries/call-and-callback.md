@@ -16,6 +16,16 @@ created: '2026-03-19'
 updated: '2026-03-19'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - matching
+  - iteration
+  - link
+relation_types:
+  - coordinate
+  - cause
+  - prevent
+structure: cycle
+abstraction_level: specific
 transfers:
   - '[source] the caller announces an order or action, and the receiver repeats it back verbatim before executing'
   - '[source] the callback is not optional -- silence after a call is treated as a communication failure, not as implicit agreement'

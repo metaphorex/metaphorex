@@ -11,6 +11,16 @@ contributors: []
 created: '2026-03-19'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - iteration
+  - matching
+  - link
+relation_types:
+  - enable
+  - accumulate
+  - coordinate
+structure: cycle
+abstraction_level: generic
 kind: metaphor
 name: Callback
 related: []

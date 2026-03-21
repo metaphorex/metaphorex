@@ -25,6 +25,19 @@ transfers:
 - '[source] carries the ecological concept of co-evolution -- where species adapt to each other rather than just to the environment -- onto platform dynamics where app developers, hardware makers, and users continuously reshape each other''s behavior'
 - '[source] imports the distinction between keystone species (whose removal collapses the system) and peripheral species (whose removal is absorbed), providing language for analyzing which actors in a business network are structurally critical versus replaceable'
 updated: '2026-03-19'
+embodied_patterns:
+  - link
+  - part-whole
+  - self-organization
+relation_types:
+  - coordinate
+  - compete
+  - enable
+  - cause
+structure:
+  - network
+  - emergence
+abstraction_level: generic
 ---
 
 ## Transfers

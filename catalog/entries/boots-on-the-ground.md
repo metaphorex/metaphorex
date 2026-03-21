@@ -18,6 +18,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - surface-depth
+  - container
+  - near-far
+relation_types:
+  - enable
+  - cause
+  - coordinate
+structure: hierarchy
+abstraction_level: generic
 transfers:
   - '[source] boots on the ground are soldiers physically present in a theater of operations, importing the structure where effective control of a situation requires corporeal presence, not remote observation or delegation through intermediaries'
   - '[source] the phrase counts presence by its lowest unit -- the individual soldier''s boot -- importing the structure where organizational capacity is measured by the number of actual people deployed, not by the resources notionally allocated or the authority theoretically held'

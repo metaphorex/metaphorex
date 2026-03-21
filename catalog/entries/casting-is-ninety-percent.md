@@ -22,6 +22,16 @@ transfers:
 - '[model] auditions test whether the actor can inhabit the role under pressure, not whether they can describe how they would play it -- transferring the primacy of demonstrated capability over stated intent'
 - '[model] a miscast lead poisons the entire ensemble because every other actor must compensate for the mismatch -- importing the systemic cost of one wrong selection decision'
 updated: '2026-03-19'
+embodied_patterns:
+  - matching
+  - part-whole
+  - balance
+relation_types:
+  - select
+  - cause
+  - enable
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

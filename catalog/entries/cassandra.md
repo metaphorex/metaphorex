@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because Cassandra's curse is externally imposed and absolute, while real-world credibility gaps result from contingent social factors (status, gender, institutional position) that can in principle be changed"
   - "[source] misleads because invoking the Cassandra metaphor preemptively validates the speaker's predictions -- calling yourself a Cassandra asserts that you are right and others are wrong, which is often not the case"
+embodied_patterns:
+  - blockage
+  - path
+  - force
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

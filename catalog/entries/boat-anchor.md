@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] breaks because an anchor serves a vital function when the vessel needs to stay in place, while a boat-anchor technology by definition serves no useful purpose -- the metaphor erases the original design intent'
   - '[source] misleads by implying the anchor can simply be dropped to the bottom and forgotten, when legacy systems often have dependencies that make clean separation impossible'
+embodied_patterns:
+  - blockage
+  - force
+  - removal
+relation_types:
+  - prevent
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -17,6 +17,18 @@ related:
 - intimacy-gradient
 - the-facade-pattern
 grounding: established
+embodied_patterns:
+  - part-whole
+  - boundary
+  - link
+relation_types:
+  - decompose
+  - contain
+  - coordinate
+structure:
+  - hierarchy
+  - network
+abstraction_level: specific
 slug: building-complex
 source_frame: architecture-and-building
 updated: '2026-03-21'

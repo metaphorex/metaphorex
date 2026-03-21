@@ -25,6 +25,16 @@ transfers:
   - "[source] imports the predator-prey dynamic of pest control into software maintenance: developers hunt bugs, track them, flush them out of hiding, and squash them, framing debugging as extermination rather than correction"
   - "[source] carries the implication that bugs breed and multiply if left unchecked, mapping biological reproduction onto the tendency for unaddressed defects to interact and produce cascading failures"
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - removal
+  - surface-depth
+relation_types:
+  - cause
+  - prevent
+  - accumulate
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

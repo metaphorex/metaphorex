@@ -21,6 +21,16 @@ transfers:
 - '[paradigm] the chain of command runs chef de cuisine to sous chef to chef de partie to commis, creating a hierarchy where orders flow down and quality signals flow up through exactly one intermediary at each level'
 - '[paradigm] the system was designed to transform an unreliable, transient workforce into a reliable production machine, importing the insight that organizational structure can compensate for individual variability'
 updated: '2026-03-19'
+embodied_patterns:
+  - part-whole
+  - boundary
+  - flow
+relation_types:
+  - decompose
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

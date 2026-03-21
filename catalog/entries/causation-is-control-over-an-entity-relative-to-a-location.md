@@ -28,6 +28,16 @@ transfers:
 limits:
   - '[source] breaks because spatial relocation has a single dimension of change (position), while many causal processes transform the entity''s nature rather than merely moving it'
   - '[source] misleads by implying the entity remains unchanged during transit, when most causal processes alter the patient as part of producing the effect'
+embodied_patterns:
+  - path
+  - force
+  - container
+relation_types:
+  - cause
+  - contain
+  - prevent
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers
