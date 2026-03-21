@@ -21,7 +21,7 @@ relation_types:
   - select
   - transform
 structure:
-  - competition
+  - hierarchy
 abstraction_level: generic
 updated: '2026-03-13'
 transfers:

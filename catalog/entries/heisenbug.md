@@ -22,7 +22,7 @@ relation_types:
   - cause
   - prevent
 structure:
-  - emergence
+  - boundary
 abstraction_level: specific
 updated: '2026-03-14'
 transfers:
