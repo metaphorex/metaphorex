@@ -2,7 +2,6 @@
 slug: moral-is-to-physical-as-three-to-one
 name: Moral Is to Physical as Three Is to One
 kind: metaphor
-dead: false
 source_frame: military-history
 applies_to:
   - organizational-behavior

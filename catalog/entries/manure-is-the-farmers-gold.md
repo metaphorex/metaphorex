@@ -2,7 +2,6 @@
 slug: manure-is-the-farmers-gold
 name: Manure Is the Farmer's Gold
 kind: metaphor
-dead: false
 source_frame: agriculture
 applies_to:
   - evaluation-and-judgment

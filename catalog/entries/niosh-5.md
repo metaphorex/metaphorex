@@ -14,7 +14,7 @@ related:
 provenance: firefighting-maxims
 created: '2026-03-21'
 updated: '2026-03-21'
-grounding: proven
+grounding: established
 harness: Claude Code
 transfers:
   - '[model] identifies five independent failure modes that recur across unrelated incidents, predicting that any high-consequence operation lacking even one of the five (risk assessment, incident command, accountability, communications, SOPs) is structurally vulnerable regardless of personnel quality'
