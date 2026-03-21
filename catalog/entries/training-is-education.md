@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because education aims at comprehension and justification, whereas the mapped process minimizes a loss function without producing understanding"
   - "[source] misleads because the teacher-student relationship implies pedagogical intention and social bonding, neither of which exists in the mapped domain"
+embodied_patterns:
+  - path
+  - matching
+  - accretion
+relation_types:
+  - transform
+  - enable
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because physical manipulation involves proprioception and force feedback, whereas the mapped interaction is a structured data exchange with no motor component"
   - "[source] misleads because physical tools are used one at a time, whereas the mapped domain supports parallel and nested invocations with no physical analogue"
+embodied_patterns:
+  - force
+  - matching
+  - path
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

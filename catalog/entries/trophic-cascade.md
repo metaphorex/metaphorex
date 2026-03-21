@@ -28,6 +28,15 @@ transfers:
   - '[source] imports the concept of indirect effects across multiple trophic levels -- wolves eat elk, elk stop overgrazing willows, willows stabilize riverbanks -- teaching that the most consequential effects of a leadership change may be three or four links removed from the trigger'
   - '[source] carries the insight that the "top predator" controls the system not through direct contact with every species but through fear and behavioral change (the "ecology of fear"), mapping onto how a strong leader shapes organizational behavior through anticipated consequences rather than direct supervision'
 updated: '2026-03-19'
+embodied_patterns:
+  - flow
+  - link
+  - scale
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

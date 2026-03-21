@@ -30,6 +30,15 @@ transfers:
 - '[source] grasping difficulty varies with the object''s size, shape, and surface
   -- some things resist being held'
 updated: '2026-03-13'
+embodied_patterns:
+  - force
+  - container
+  - matching
+relation_types:
+  - cause
+  - contain
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

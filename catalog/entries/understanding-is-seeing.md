@@ -31,6 +31,15 @@ transfers:
 - '[source] focal attention selects a narrow region for detailed inspection while
   leaving the periphery blurred'
 updated: '2026-03-14'
+embodied_patterns:
+  - near-far
+  - surface-depth
+  - matching
+relation_types:
+  - enable
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

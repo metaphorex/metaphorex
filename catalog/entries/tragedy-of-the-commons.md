@@ -28,6 +28,15 @@ transfers:
   - '[paradigm] the tragedy is a Nash equilibrium -- no single actor can improve their outcome by unilaterally restraining themselves, so rational agents converge on mutual overexploitation even when all prefer the cooperative outcome'
   - '[paradigm] the gap between the Nash equilibrium and the social optimum quantifies the exact cost of uncoordinated action, giving a measurable "price of anarchy" for any commons-like situation'
 updated: '2026-03-21'
+embodied_patterns:
+  - container
+  - flow
+  - balance
+relation_types:
+  - compete
+  - accumulate
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

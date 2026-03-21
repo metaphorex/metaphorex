@@ -27,6 +27,15 @@ transfers:
   - "[source] imports the narrative that the most dangerous attacks bypass defenses by being invited in, not by breaking through, reframing vulnerability as a trust problem rather than a strength problem"
   - "[source] carries the implication that the defenders' own judgment is the vulnerability -- they chose to accept the horse -- making social engineering legible as a category of attack"
 updated: '2026-03-16'
+embodied_patterns:
+  - container
+  - boundary
+  - surface-depth
+relation_types:
+  - prevent
+  - transform
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

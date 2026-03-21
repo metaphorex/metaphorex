@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because streams are continuous and self-sustaining once fed by rainfall, while organizational value streams require constant human decision-making at every step and can stop entirely if any participant chooses differently"
   - "[source] misleads because a stream's course is shaped by gravity and geology (objective physical forces), while a value stream's path is shaped by organizational politics, legacy decisions, and contractual obligations that the natural-landscape framing makes look inevitable rather than chosen"
+embodied_patterns:
+  - flow
+  - path
+  - part-whole
+relation_types:
+  - coordinate
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

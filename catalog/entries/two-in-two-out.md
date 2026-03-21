@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] the rule assumes a binary inside/outside boundary with a defined entry point, which breaks for distributed hazards (cloud infrastructure, pandemic fieldwork) where there is no clear threshold between safe and dangerous zones'
   - '[source] the fixed 2+2 ratio optimizes for the scenario where one interior team needs rescue, but does not scale to multiple teams operating simultaneously -- four people outside cannot rescue three independent interior teams'
+embodied_patterns:
+  - link
+  - boundary
+  - matching
+relation_types:
+  - coordinate
+  - prevent
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

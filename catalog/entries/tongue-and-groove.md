@@ -28,6 +28,15 @@ transfers:
 limits:
   - '[source] breaks because a tongue-and-groove joint is symmetric in function -- either board could be the tongue or the groove before milling -- while most software interfaces have an asymmetric caller/provider relationship that the joint does not encode'
   - '[source] misleads by implying that once two components are joined they form a seamless surface, hiding the seam entirely, when most real interfaces remain visible boundaries where failure modes concentrate'
+embodied_patterns:
+  - matching
+  - part-whole
+  - merging
+relation_types:
+  - coordinate
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

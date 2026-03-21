@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because human communication carries semantic content, whereas Unix signals carry only a number -- the medium is the entire message"
   - "[source] misleads because physical signals travel through space with observable propagation, but the mapped mechanism is an instantaneous kernel-mediated state change with no spatial dimension"
+embodied_patterns:
+  - force
+  - link
+  - matching
+relation_types:
+  - cause
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

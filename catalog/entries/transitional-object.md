@@ -21,6 +21,15 @@ transfers:
 limits:
   - '[model] applies only to genuine boundary-spanning artifacts, not to any object a person is attached to -- a comfort object that simply soothes without mediating between inner and outer worlds is not functioning as a transitional object'
   - '[model] the model''s therapeutic origin assumes a developmental trajectory toward autonomy, but many real mediating artifacts (interfaces, rituals, diplomatic protocols) are permanent infrastructure, not scaffolding to be outgrown'
+embodied_patterns:
+  - container
+  - link
+  - boundary
+relation_types:
+  - enable
+  - translate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

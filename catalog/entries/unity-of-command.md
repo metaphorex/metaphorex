@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[source] assumes that the relevant situation is legible to a single decision-maker, which breaks in complex systems where no one person can hold enough context to command effectively -- modern military operations themselves have evolved toward "mission command" (Auftragstaktik), which distributes authority precisely because unified command cannot scale to the information demands of distributed operations'
   - '[source] conflates organizational clarity with decision quality, importing the assumption that a clear chain of authority produces good decisions, when in practice the single commander may lack expertise, perspective, or information that a more distributed authority structure would surface'
+embodied_patterns:
+  - center-periphery
+  - link
+  - force
+relation_types:
+  - coordinate
+  - prevent
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because killing eliminates the victim permanently, while commercial competitors typically survive defeats and can return -- bankruptcy is not death"
   - "[source] misleads because slaughter implies one-directional violence against a helpless victim, but commercial competition is reciprocal and both parties retain agency throughout"
+embodied_patterns:
+  - force
+  - flow
+  - splitting
+relation_types:
+  - compete
+  - transform
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

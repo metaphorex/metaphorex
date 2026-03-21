@@ -27,6 +27,15 @@ limits:
   - '[source] breaks because ecological regime shifts require identifiable positive feedback mechanisms (algal blooms outcompeting seagrass, ice-albedo feedback), while social "tipping points" are often invoked for phenomena where no feedback mechanism has been identified -- the label substitutes for causal explanation'
   - '[source] misleads by implying irreversibility, when many social changes labeled as tipping points (fashion trends, app adoption curves) are readily reversible because they lack the self-reinforcing feedback loops that make ecological regime shifts sticky'
   - '[source] ecological tipping points are properties of specific, bounded systems (a lake, a coral reef) with measurable state variables, while Gladwell-style usage applies the concept to open, unbounded social networks where neither the system boundary nor the state variable is defined'
+embodied_patterns:
+  - boundary
+  - scale
+  - balance
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

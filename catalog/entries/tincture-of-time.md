@@ -28,6 +28,15 @@ limits:
   - '[source] The pharmaceutical framing (tincture, prescription) implies that waiting has been deliberately chosen by a qualified expert after diagnosis, but the metaphor is frequently invoked to dignify ordinary procrastination or indecision as strategic patience'
   - '[source] A tincture has a known mechanism of action and expected timeline; actual waiting in most domains has neither, and the metaphor imports false precision about when and how the passage of time will resolve the problem'
   - '[source] The metaphor assumes the underlying condition is self-limiting -- that the body (or system) will heal if given time -- and breaks catastrophically when applied to progressive conditions that worsen without intervention, where "tincture of time" is a euphemism for neglect'
+embodied_patterns:
+  - path
+  - accretion
+  - balance
+relation_types:
+  - restore
+  - transform
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

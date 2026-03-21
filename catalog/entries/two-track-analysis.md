@@ -22,6 +22,15 @@ transfers:
   pressures'
 - '[model] insists that a failure on either track is a failure of the whole analysis, bridging conventional analysis (Track One only) and behavioral psychology (Track Two only) into an integrated framework'
 updated: '2026-03-13'
+embodied_patterns:
+  - splitting
+  - matching
+  - balance
+relation_types:
+  - decompose
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

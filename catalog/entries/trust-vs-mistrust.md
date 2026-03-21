@@ -23,6 +23,15 @@ transfers:
   - '[model] Introduces a sequential dependency structure: the resolution of this first stage determines the foundation on which all subsequent psychosocial development builds, making early trust a load-bearing element'
   - '[model] Reframes caregiver consistency from a moral virtue into a structural input -- what matters is predictable responsiveness, not perfection or warmth per se'
 updated: '2026-03-20'
+embodied_patterns:
+  - balance
+  - boundary
+  - link
+relation_types:
+  - enable
+  - prevent
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

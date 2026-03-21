@@ -27,6 +27,15 @@ transfers:
 - '[source] imports the disgust response to reframe self-censorship as the enemy -- just as you cannot politely vomit, you cannot politely write a first draft, and the attempt to do so produces constipation rather than output'
 - '[source] frames revision as cleanup rather than creation, separating the generative act (get it out) from the evaluative act (make it good) into two distinct phases with different emotional valences'
 updated: '2026-03-19'
+embodied_patterns:
+  - flow
+  - removal
+  - force
+relation_types:
+  - cause
+  - enable
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

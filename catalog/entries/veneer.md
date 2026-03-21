@@ -27,6 +27,15 @@ transfers:
   - '[source] The veneer must be cut along the grain to prevent cracking, meaning the deceptive surface must follow the structural logic of the material it imitates -- a social veneer that contradicts its substrate''s grain eventually splits under stress'
   - '[source] Veneer is measured in fractions of a millimeter; its thinness is the defining constraint, mapping onto the idea that the polished appearance has almost no depth and cannot survive sustained scrutiny or abrasion'
 updated: '2026-03-21'
+embodied_patterns:
+  - superimposition
+  - surface-depth
+  - matching
+relation_types:
+  - transform
+  - contain
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

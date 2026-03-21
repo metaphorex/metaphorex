@@ -28,6 +28,15 @@ limits:
   - "[paradigm] is reactive rather than preventive -- the maxim implies you may act until harm occurs, encoding no precautionary logic and making it a poor guide for catastrophic or irreversible harms"
   - "[paradigm] assumes commensurable interests -- balancing a corporation's profit against a community's health requires the things being balanced to be on the same scale, which they often are not"
   - "[paradigm] depends on a spatial metaphor of distinct properties that breaks in digital contexts -- shared platforms, public APIs, and electromagnetic spectrum have contractual rather than physical boundaries"
+embodied_patterns:
+  - boundary
+  - container
+  - balance
+relation_types:
+  - prevent
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

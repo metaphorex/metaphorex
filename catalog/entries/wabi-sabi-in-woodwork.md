@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[paradigm] breaks when applied to structural work where dimensional stability is a safety requirement -- a floor joist that warps is not acquiring character; it is failing'
   - '[paradigm] misleads by aestheticizing all degradation as meaningful when some degradation is simply neglect, rot, or poor material selection with no redeeming beauty or biographical content'
+embodied_patterns:
+  - accretion
+  - matching
+  - removal
+relation_types:
+  - transform
+  - enable
+structure: emergence
+abstraction_level: specific
 ---
 
 ## Transfers

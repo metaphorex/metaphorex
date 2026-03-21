@@ -26,6 +26,15 @@ transfers:
   - "[source] imports the epidemiological framework of infection vectors, quarantine, and containment, structuring the entire response methodology around medical disease-control protocols"
   - "[source] carries the contagion model where proximity and contact enable transmission, mapping biological pathways (airborne, contact, vector-borne) onto network pathways (email, USB, network shares) and framing connectivity itself as a risk factor"
 updated: '2026-03-17'
+embodied_patterns:
+  - flow
+  - link
+  - self-organization
+relation_types:
+  - cause
+  - transform
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

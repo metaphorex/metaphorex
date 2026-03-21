@@ -23,6 +23,15 @@ limits:
   - "[source] breaks because a spider web is a trap designed to capture prey, but the World Wide Web is a commons designed to share information freely"
   - "[source] misleads because a spider web has a single architect with total control, while the WWW is built by millions of independent contributors with no central plan"
   - "[source] obscures that spider webs are fragile and temporary structures rebuilt constantly, while the web aspires to permanence and durability"
+embodied_patterns:
+  - link
+  - part-whole
+  - container
+relation_types:
+  - coordinate
+  - contain
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers
