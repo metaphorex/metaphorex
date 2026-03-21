@@ -13,7 +13,6 @@ author: agent:metaphorex-miner
 contributors: []
 related:
 - fog-of-war
-- skin-in-the-game
 provenance: napoleons-military-maxims
 created: '2026-03-21'
 updated: '2026-03-21'

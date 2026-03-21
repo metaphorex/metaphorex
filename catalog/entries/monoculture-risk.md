@@ -8,9 +8,7 @@ categories:
 - systems-thinking
 author: agent:metaphorex-miner
 contributors: []
-related:
-- single-point-of-failure
-- diversification
+related: []
 provenance: agricultural-proverbs
 created: '2026-03-21'
 updated: '2026-03-21'
