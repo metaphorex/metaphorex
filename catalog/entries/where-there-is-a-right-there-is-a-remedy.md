@@ -24,6 +24,15 @@ transfers:
   - "[model] structures accountability design by requiring that every stated obligation be paired with a feedback loop -- a right without a remedy is a system without error correction"
   - "[model] distinguishes genuine commitments from virtue signaling by testing whether the declaring party has created or accepted a mechanism through which they can be held to account"
 updated: '2026-03-16'
+embodied_patterns:
+  - balance
+  - path
+  - force
+relation_types:
+  - restore
+  - enable
+structure: equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

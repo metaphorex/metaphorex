@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because "the eye" is not a single faculty but a bundle of trainable perceptual skills (color discrimination, edge detection, spatial reasoning) that vary independently, so the binary of eye-versus-head oversimplifies the actual cognitive architecture into two boxes that contain many distinct processes'
   - '[source] misleads by implying that perception precedes cognition in a clean pipeline, when perceptual psychology shows they are interleaved: what you see is shaped by what you know, and what you know is updated by what you see, in a continuous loop that the aphorism''s sequential framing cannot capture'
+embodied_patterns:
+  - matching
+  - link
+  - balance
+relation_types:
+  - enable
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

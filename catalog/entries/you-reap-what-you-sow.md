@@ -27,6 +27,15 @@ transfers:
 - '[source] imports the temporal gap between sowing and harvest -- consequences are delayed but inevitable -- giving moral reasoning a structure of patient confidence that justice will arrive'
 - '[source] carries the farmer''s complete responsibility for seed selection: no one else chose what went into the ground, so no one else is accountable for what comes up'
 updated: '2026-03-20'
+embodied_patterns:
+  - path
+  - accretion
+  - balance
+relation_types:
+  - cause
+  - accumulate
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

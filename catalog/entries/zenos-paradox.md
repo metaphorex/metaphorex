@@ -22,6 +22,15 @@ transfers:
   - '[model] maps the structure of convergent infinite series onto practical decision-making, showing that infinitely many steps can still sum to a finite cost -- and that knowing this does not always dissolve the feeling of impossibility'
   - '[model] imports the distinction between potential infinity (you can always subdivide further) and actual infinity (the subdivisions do not prevent arrival), diagnosing when perfectionism mistakes the former for the latter'
 updated: '2026-03-19'
+embodied_patterns:
+  - path
+  - splitting
+  - iteration
+relation_types:
+  - prevent
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

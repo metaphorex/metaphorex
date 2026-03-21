@@ -21,6 +21,15 @@ limits:
 - "[source] Gravity is never actually zero in orbit -- objects in low Earth orbit experience roughly 90% of surface gravity, and their apparent weightlessness comes from freefall, not from escaping gravity"
 - "[source] The zero-gravity metaphor implies a binary (gravity or no gravity) when the real phenomenon is a continuum of gravitational gradients"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - removal
+  - container
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

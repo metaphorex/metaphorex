@@ -27,6 +27,15 @@ limits:
   - "[paradigm] misleads because the paradigm treats all correctness trade-offs as equivalent, hiding the difference between harmless interface quirks and safety-critical defects where worse is genuinely worse"
   - "[paradigm] obscures that the MIT approach produced durable systems (Lisp, TCP/IP) that outlasted many worse-is-better competitors, undermining the paradigm's central prediction"
 updated: '2026-03-17'
+embodied_patterns:
+  - removal
+  - scale
+  - matching
+relation_types:
+  - select
+  - enable
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 - '[source] the enclosure attenuates noise and visual interruption without fully isolating, mapping the architectural insight that concentration requires graduated privacy rather than binary open-or-closed'
 - '[source] a workspace without enclosure feels like a corridor -- a space to pass through rather than inhabit -- transferring the principle that productive dwelling requires some degree of spatial definition'
 updated: '2026-03-19'
+embodied_patterns:
+  - container
+  - boundary
+  - balance
+relation_types:
+  - contain
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because physical windows offer ambient sensory richness (light changes, weather, sounds, peripheral movement) that digital interfaces cannot replicate -- a dashboard widget styled as a "window" provides data but not habitation'
   - '[source] misleads by implying that making an interface element larger or more feature-rich makes it more habitable, when digital "window places" require task-appropriate depth rather than mere size'
+embodied_patterns:
+  - boundary
+  - container
+  - balance
+relation_types:
+  - contain
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

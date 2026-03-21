@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because weapons do not require the target's interpretation to cause damage, whereas the mapped medium depends entirely on the receiver's context and construal"
   - "[source] misleads because the weapons frame makes all forceful communication seem destructive, providing no vocabulary for confrontation that is simultaneously sharp and beneficial"
+embodied_patterns:
+  - force
+  - path
+  - matching
+relation_types:
+  - compete
+  - cause
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

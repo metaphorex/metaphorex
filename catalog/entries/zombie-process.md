@@ -26,6 +26,15 @@ transfers:
 limits:
   - "[source] breaks because horror zombies actively attack and spread infection, whereas the mapped entities are completely inert and cause harm only through resource exhaustion"
   - "[source] misleads because the horror framing makes a normal lifecycle stage sound pathological, when the mapped state is a deliberate design feature that preserves information the parent may need"
+embodied_patterns:
+  - container
+  - blockage
+  - link
+relation_types:
+  - prevent
+  - cause
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

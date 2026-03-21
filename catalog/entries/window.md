@@ -23,6 +23,15 @@ limits:
   - '[source] The original wind-eye was permanently open, but modern windows are controllable apertures — the metaphor died before its referent acquired its most important feature'
   - '[source] Spatial perception logic collapses in computing contexts where windows are containers within containers with no genuine inside/outside boundary'
   - '[source] The eye metaphor implies a single fixed perspective, but temporal extensions like "window of opportunity" abandon spatial perception entirely'
+embodied_patterns:
+  - boundary
+  - container
+  - near-far
+relation_types:
+  - enable
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

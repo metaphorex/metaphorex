@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because wealth is fungible and transferable, whereas the mapped state is qualitatively diverse and cannot be given from one person to another"
   - "[source] misleads because the investment framing encourages optimization of something that paradoxically diminishes under direct pursuit"
+embodied_patterns:
+  - container
+  - scale
+  - flow
+relation_types:
+  - accumulate
+  - cause
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

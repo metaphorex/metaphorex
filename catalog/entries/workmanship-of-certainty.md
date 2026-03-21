@@ -25,6 +25,15 @@ transfers:
 - '[paradigm] reveals that reproducibility requires encoding judgment into tooling rather than relying on the operator''s skill at the moment of execution, explaining why CI/CD pipelines, style guides, and building codes exist as crystallized expertise'
 - '[paradigm] predicts that as a domain matures, production shifts from risk toward certainty -- from hand-coding to frameworks, from freehand surgery to robotic assistance, from artisanal baking to industrial process -- not because skill disappears but because it migrates into the production system'
 updated: '2026-03-21'
+embodied_patterns:
+  - matching
+  - path
+  - removal
+relation_types:
+  - coordinate
+  - prevent
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers
