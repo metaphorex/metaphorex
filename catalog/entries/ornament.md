@@ -26,6 +26,15 @@ transfers:
 - '[source] carries the principle that ornament communicates care -- a carved doorframe signals that the builder valued the occupant''s experience beyond mere function -- importing the argument that craft-beyond-function builds user trust'
 - '[source] establishes that ornament operates at the boundary between the building and its inhabitants -- thresholds, edges, handles, trim -- mapping onto the observation that software polish concentrates at interaction boundaries: error messages, transitions, loading states, empty states'
 updated: '2026-03-21'
+embodied_patterns:
+  - superimposition
+  - matching
+  - part-whole
+relation_types:
+  - transform
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because containers have rigid, visible boundaries, while the edges of an obligation are often negotiable and contested'
   - '[source] misleads because containers hold only one thing at a time in a location, while a person can be simultaneously inside multiple overlapping obligations with no spatial conflict'
+embodied_patterns:
+  - container
+  - boundary
+  - path
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

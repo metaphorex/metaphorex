@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because Odysseus has a fixed home to return to, while many real 'odysseys' have no predetermined endpoint -- the metaphor imports a destination-oriented structure onto open-ended journeys"
   - "[source] misleads because the obstacles in the Odyssey are external (monsters, gods, storms), while real transformative journeys often involve internal obstacles (doubt, fatigue, loss of purpose) that the metaphor does not foreground"
+embodied_patterns:
+  - path
+  - blockage
+  - iteration
+relation_types:
+  - transform
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

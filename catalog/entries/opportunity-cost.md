@@ -20,6 +20,15 @@ transfers:
 - '[model] reframes cost from what you pay to what you give up, forcing every choice to be evaluated against the best available alternative rather than in isolation'
 - '[model] makes the invisible alternative visible: every ''yes'' is simultaneously a ''no'' to something else, and sunk costs become irrelevant because the model is strictly forward-looking'
 updated: '2026-03-13'
+embodied_patterns:
+  - splitting
+  - balance
+  - scale
+relation_types:
+  - select
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

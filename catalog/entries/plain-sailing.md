@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] breaks because the original source domain is computational simplification, not calm weather — a plane-sailing voyage can occur in rough seas, so "ease" refers to the math, not the conditions'
   - '[source] fails to transfer the built-in caveat: plane sailing degrades predictably with distance, but the metaphor offers no signal for when the simplification stops being safe'
+embodied_patterns:
+  - path
+  - removal
+  - matching
+relation_types:
+  - enable
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

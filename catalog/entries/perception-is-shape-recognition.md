@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because shape recognition operates on spatial geometry, while much perception involves temporal patterns, emotional valence, and social context that have no geometric form'
   - '[source] misleads because shape templates are fixed once learned, while perceptual categories are continuously revised through new experience and contextual priming'
+embodied_patterns:
+  - matching
+  - container
+  - surface-depth
+relation_types:
+  - select
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

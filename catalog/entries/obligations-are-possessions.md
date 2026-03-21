@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because possessions can be abandoned unilaterally, while obligations persist regardless of the holder''s desire to be rid of them'
   - '[source] misleads because the possession frame makes obligations feel countable and discrete, while real moral duties often overlap, conflict, and resist enumeration'
+embodied_patterns:
+  - container
+  - link
+  - flow
+relation_types:
+  - cause
+  - accumulate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

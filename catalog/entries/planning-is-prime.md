@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] assumes that the work ahead is knowable and sequenceable in advance, which holds for a kitchen producing a fixed menu but fails for knowledge work where tasks emerge, change scope, or reveal dependencies only during execution'
   - '[model] treats planning as a solo activity (one chef plans one station), but most organizational work requires collaborative planning across interdependent teams, where one person''s plan constrains another''s options in ways the kitchen model does not capture'
+embodied_patterns:
+  - path
+  - part-whole
+  - matching
+relation_types:
+  - coordinate
+  - enable
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

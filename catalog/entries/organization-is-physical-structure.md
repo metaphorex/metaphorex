@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because physical structures are static once built, while organizations reorganize continuously without demolishing the existing arrangement'
   - '[source] misleads because structural failure in buildings is catastrophic and irreversible, while organizational dysfunction is usually gradual and repairable'
+embodied_patterns:
+  - part-whole
+  - superimposition
+  - force
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

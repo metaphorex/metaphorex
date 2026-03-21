@@ -27,6 +27,15 @@ transfers:
 limits:
   - '[source] breaks because physical paths pre-exist the traveler, while many opportunities must be constructed rather than discovered'
   - '[source] misleads because the path frame implies a single traveler on each route, while real opportunities often require collective action and shared traversal'
+embodied_patterns:
+  - path
+  - boundary
+  - near-far
+relation_types:
+  - enable
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

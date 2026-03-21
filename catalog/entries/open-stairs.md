@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because physical stairs enforce sequential traversal (you must pass through floor 2 to reach floor 3), while software navigation can jump to any layer directly -- the open stair''s virtue of encouraging incidental discovery during traversal has no structural analogue in random-access systems'
   - '[source] misleads by implying that visibility alone produces usage, when physical stair use also depends on bodily effort -- making a software abstraction layer visible does not mean developers will engage with it, because the cost of engagement is cognitive rather than caloric and scales differently'
+embodied_patterns:
+  - path
+  - boundary
+  - link
+relation_types:
+  - enable
+  - coordinate
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

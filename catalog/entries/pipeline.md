@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because fluid in a pipe cannot reverse direction or exit mid-journey, while items in a business pipeline routinely drop out, loop back to earlier stages, or skip steps -- a sales lead can go cold at any point, which has no hydraulic analogue"
   - "[source] misleads because pipes carry homogeneous fluid (all oil molecules are equivalent), while business pipelines carry heterogeneous items (each candidate, deal, or feature is unique) that require different handling at each stage"
+embodied_patterns:
+  - flow
+  - path
+  - blockage
+relation_types:
+  - coordinate
+  - transform
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

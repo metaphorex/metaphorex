@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because batteries have a single charge reservoir, while human energy is domain-specific and someone depleted at work may have abundant energy for hobbies'
   - '[source] misleads because battery capacity degrades monotonically with charge cycles, while human resilience can increase through repeated exertion and recovery'
+embodied_patterns:
+  - container
+  - scale
+  - flow
+relation_types:
+  - enable
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

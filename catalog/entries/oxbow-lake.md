@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because geological oxbow lakes are ecologically productive -- they become wetland habitats, biodiversity hotspots, and flood buffers -- while the metaphor implies the orphaned element is pure waste, missing the possibility that "dead" script elements or code paths may serve as documentation, fallback, or creative seed'
   - '[source] misleads by implying the oxbow is inert and stable, when real oxbow lakes silt up and eventually disappear; the metaphor does not import this temporal dimension, so it fails to predict that orphaned elements in scripts and codebases also decay as the surrounding context changes around them'
+embodied_patterns:
+  - flow
+  - splitting
+  - removal
+relation_types:
+  - transform
+  - prevent
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

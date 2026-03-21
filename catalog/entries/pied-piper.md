@@ -21,6 +21,15 @@ transfers:
 - '[source] the betrayal follows a broken contract -- the piper turns destructive only after the town refuses payment, making the danger contingent on bad faith rather than unprovoked malice'
 - '[source] once the music begins, followers move as a collective with individual agency suspended, mapping onto viral movements and ideological capture where resistance feels impossible'
 updated: '2026-03-14'
+embodied_patterns:
+  - flow
+  - force
+  - path
+relation_types:
+  - cause
+  - coordinate
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

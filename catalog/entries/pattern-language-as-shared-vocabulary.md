@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[paradigm] breaks because natural languages evolve organically with no designer, while pattern catalogs are deliberately curated selections that are more like constructed languages (Esperanto) than living ones"
   - "[paradigm] misleads because the democratic promise inverted in practice -- Alexander wanted pattern language to empower non-architects, but software patterns became expert gatekeeping knowledge that separates senior from junior developers"
+embodied_patterns:
+  - link
+  - matching
+  - part-whole
+relation_types:
+  - coordinate
+  - translate
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -27,6 +27,15 @@ transfers:
   - "[source] imports the uncanny recognition that the replaced person looks and sounds the same but something essential is missing, mapping onto the real perceptual experience of noticing that a person's outward presentation is intact while their independent judgment has vanished"
   - "[source] carries the contagion structure of the original film: pod conversion spreads through proximity and sleep (vulnerability), framing conformity as an involuntary process that propagates through social contact rather than conscious choice"
 updated: '2026-03-17'
+embodied_patterns:
+  - matching
+  - container
+  - merging
+relation_types:
+  - transform
+  - prevent
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

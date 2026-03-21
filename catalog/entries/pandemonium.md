@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because Milton''s Pandaemonium was architecturally magnificent and deliberately constructed, while the modern usage implies disintegration and loss of control'
   - '[source] misleads because the original demons acted with strategic purpose in their parliament, while the modern sense implies purely purposeless disorder'
+embodied_patterns:
+  - self-organization
+  - force
+  - container
+relation_types:
+  - compete
+  - cause
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

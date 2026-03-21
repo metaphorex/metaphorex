@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because physical objects persist when dropped and can be retrieved, while missed opportunities are often permanently gone'
   - '[source] misleads because the object frame makes opportunities feel scarce and singular, while many favorable circumstances are renewable or can be created'
+embodied_patterns:
+  - container
+  - force
+  - path
+relation_types:
+  - cause
+  - enable
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

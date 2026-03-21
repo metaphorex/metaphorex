@@ -24,6 +24,15 @@ limits:
   - "[source] breaks because most self-referential processes are spirals that drift with each iteration, not perfect circles returning to the same state"
   - "[source] misleads because self-consumption is depicted as eternally sustainable, but systems that cannibalize their own resources eventually exhaust them"
   - "[source] conflates structurally different phenomena -- feedback loops, infinite regress, circular reasoning, and recursion -- under a single image"
+embodied_patterns:
+  - iteration
+  - flow
+  - merging
+relation_types:
+  - transform
+  - restore
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

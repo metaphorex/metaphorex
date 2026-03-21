@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because piecemeal physical additions create visible seams and style clashes, while well-managed incremental design can achieve seamless coherence through shared principles'
   - '[source] misleads because the metaphor implies that growth without a master plan is always organic and adaptive, when it can also produce incoherent sprawl if local decisions ignore systemic effects'
+embodied_patterns:
+  - accretion
+  - iteration
+  - part-whole
+relation_types:
+  - transform
+  - accumulate
+structure: growth
+abstraction_level: specific
 ---
 
 ## Transfers

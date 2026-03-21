@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because materials have fixed composition after manufacture, while personality continues to change throughout life in response to experience and choice'
   - '[source] misleads because material properties are objectively measurable by standardized tests, while personality traits are context-dependent, observer-relative, and resist stable quantification'
+embodied_patterns:
+  - force
+  - matching
+  - container
+relation_types:
+  - cause
+  - transform
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

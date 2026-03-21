@@ -25,6 +25,15 @@ limits:
   - "[model] presupposes superintelligent physical capability far beyond any current system, misfiring when applied to narrow AI or language models that cannot convert matter"
   - "[model] locates the alignment problem entirely inside the machine, obscuring the sociotechnical factors -- organizational incentives, regulatory gaps, power structures -- that shape real deployment failures"
 updated: '2026-03-16'
+embodied_patterns:
+  - path
+  - force
+  - scale
+relation_types:
+  - cause
+  - transform
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

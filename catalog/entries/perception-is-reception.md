@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because perception is actively constructed by the brain through prediction and inference, not passively received like a radio signal'
   - '[source] misleads because the reception frame implies a faithful transmission from world to mind, obscuring the extensive filtering, distortion, and interpretation that occurs before conscious awareness'
+embodied_patterns:
+  - flow
+  - container
+  - matching
+relation_types:
+  - cause
+  - contain
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers
