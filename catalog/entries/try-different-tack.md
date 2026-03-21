@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[source] Tacking offers exactly two alternative angles determined by wind geometry, but real problem-solving often involves a much larger and less well-defined set of possible approaches'
   - '[source] The wind is a known, measurable constraint, obscuring that many real obstacles are poorly understood or invisible'
+embodied_patterns:
+  - path
+  - splitting
+  - force
+relation_types:
+  - transform
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

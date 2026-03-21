@@ -27,6 +27,15 @@ transfers:
 limits:
   - "[source] breaks because the vertical axis offers only two positions (up or down), whereas the mapped state comes in continuous degrees from fully resolved to barely investigated"
   - "[source] misleads because the UP-is-unsettled valence conflicts with the dominant UP-is-positive orientation system, creating cognitive tension where the elevated state should be both good and bad"
+embodied_patterns:
+  - scale
+  - near-far
+  - surface-depth
+relation_types:
+  - cause
+  - prevent
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

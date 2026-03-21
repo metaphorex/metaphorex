@@ -23,6 +23,15 @@ transfers:
 limits:
   - '[model] breaks when applied to creative or exploratory work, where "waste" (failed experiments, abandoned prototypes, tangential research) is the mechanism of discovery, and eliminating it eliminates the possibility of finding unexpected solutions'
   - '[model] assumes that the output is well-defined and repeatable (the same dish, made the same way, every service), but knowledge work often involves defining the output while producing it, making it impossible to identify waste until after the fact'
+embodied_patterns:
+  - flow
+  - blockage
+  - scale
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

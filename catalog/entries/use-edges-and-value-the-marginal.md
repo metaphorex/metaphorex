@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[model] misleads because ecological edges are productive precisely because of physical gradients (light, moisture, temperature) that create niche diversity, while organizational "edges" between departments or disciplines lack these material gradients and may be unproductive boundaries maintained by politics rather than ecology'
   - '[model] breaks when applied as a universal heuristic because some margins are marginal for good reason -- not every overlooked idea, underused resource, or peripheral person is a hidden asset, and the principle provides no filter for distinguishing genuine latent value from genuine waste'
+embodied_patterns:
+  - boundary
+  - center-periphery
+  - matching
+relation_types:
+  - enable
+  - select
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

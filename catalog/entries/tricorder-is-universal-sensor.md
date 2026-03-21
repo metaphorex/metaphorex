@@ -34,6 +34,15 @@ transfers:
   \ or sampling, framing the ideal sensor as one that observes without\
   \ disturbing"
 updated: '2026-03-16'
+embodied_patterns:
+  - matching
+  - container
+  - near-far
+relation_types:
+  - translate
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

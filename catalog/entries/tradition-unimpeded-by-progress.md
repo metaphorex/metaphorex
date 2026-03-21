@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[model] overstates the case when tradition genuinely encodes tacit knowledge that formal analysis cannot capture -- experienced firefighters'' resistance to new procedures sometimes reflects valid pattern recognition that the reformer lacks'
   - '[model] can become a rhetorical weapon that dismisses all institutional caution as irrational conservatism, when some proposed changes are genuinely untested and the precautionary default is reasonable'
+embodied_patterns:
+  - blockage
+  - path
+  - force
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

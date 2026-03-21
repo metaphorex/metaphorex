@@ -25,6 +25,15 @@ limits:
   - "[source] misleads because it frames all trial-and-error as irrational, when iterative experimentation is a legitimate problem-solving strategy in systems too complex for purely deductive approaches"
   - "[source] carries cultural harm by equating a living Afro-Caribbean religion with ignorance, reproducing colonial hierarchies of knowledge"
 updated: '2026-03-17'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - force
+relation_types:
+  - cause
+  - prevent
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because knowledge requires justification and truth conditions, whereas the mapped numerical values encode statistical correlations with no epistemic warrant"
   - "[source] misleads because the transfer framing implies genuine understanding moves between systems, when what actually transfers is numerical initialization that approximates a function"
+embodied_patterns:
+  - container
+  - accretion
+  - matching
+relation_types:
+  - transform
+  - accumulate
+structure: growth
+abstraction_level: specific
 ---
 
 ## Transfers

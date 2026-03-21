@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[model] breaks when the problem is genuinely time-sensitive or the window for action is closing, because the principle has no structural accommodation for urgency -- a permaculture garden can afford to wait a season, but a collapsing bridge, a pandemic, or a market window cannot'
   - '[model] misleads by importing the agricultural assumption that scale is always the designer''s choice, when many real-world problems (climate change, infrastructure decay, systemic inequality) operate at scales where small solutions are structurally inadequate regardless of how patiently they are applied'
+embodied_patterns:
+  - scale
+  - accretion
+  - iteration
+relation_types:
+  - enable
+  - accumulate
+structure: growth
+abstraction_level: generic
 ---
 
 ## Transfers

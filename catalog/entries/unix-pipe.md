@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because fluid is continuous, whereas the mapped medium is discrete and framed, causing buffering mismatches the plumbing model cannot explain"
   - "[source] misleads because real plumbing systems form branching graphs, but the mapped implementation supports only strictly linear chains without native branching or merging"
+embodied_patterns:
+  - flow
+  - link
+  - path
+relation_types:
+  - coordinate
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

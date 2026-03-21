@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because war requires an external enemy, but the mapped domain often involves the body's own systems attacking themselves"
   - "[source] misleads because the victory-or-defeat framing assigns moral responsibility for outcomes that are biologically determined, not a matter of effort or courage"
+embodied_patterns:
+  - force
+  - boundary
+  - balance
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

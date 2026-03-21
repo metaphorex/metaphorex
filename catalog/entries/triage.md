@@ -28,6 +28,15 @@ limits:
   - '[source] breaks because medical triage assumes casualties arrive involuntarily and have no preferences about their own treatment priority, while most metaphorical triage targets (bug reports, business decisions, customer complaints) involve agents who contest their assigned priority and can escalate'
   - '[source] misleads by importing the moral authority of battlefield medicine -- the surgeon triaging casualties has life-and-death legitimacy -- onto mundane prioritization decisions that lack comparable stakes, inflating routine task management into crisis rhetoric'
   - '[source] obscures that surgical triage is designed for temporary resource scarcity during a crisis, while most organizations that adopt "triage" as a permanent workflow are normalizing chronic under-resourcing rather than managing an acute emergency'
+embodied_patterns:
+  - splitting
+  - matching
+  - scale
+relation_types:
+  - select
+  - decompose
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -26,6 +26,15 @@ limits:
   - '[source] performance implies a conscious actor who knows they are acting, but Winnicott''s false self often operates unconsciously -- the person does not experience themselves as performing, which is precisely the pathology'
   - '[source] the performance frame assumes the "real" person is a stable entity behind the mask, but Winnicott argued that in severe cases the true self is undeveloped rather than hidden -- there is no fully formed actor behind the role, only a potential that was never allowed to emerge'
   - '[source] theatrical performance is valued and applauded, but the false self''s "performance" is a survival strategy born of environmental failure, not a craft or an achievement -- importing performance connotations can inadvertently glamorize a defensive structure'
+embodied_patterns:
+  - surface-depth
+  - container
+  - splitting
+relation_types:
+  - contain
+  - prevent
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

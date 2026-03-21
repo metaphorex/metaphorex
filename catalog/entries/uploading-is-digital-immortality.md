@@ -22,6 +22,15 @@ transfers:
 - "[source] the uploaded file persists independently of the original hardware, just as the uploaded mind would persist independently of the biological brain"
 - "[source] uploaded data can be backed up, copied, and restored, extending the metaphor to suggest that digital minds could be made redundantly immortal"
 updated: '2026-03-16'
+embodied_patterns:
+  - container
+  - matching
+  - path
+relation_types:
+  - transform
+  - contain
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

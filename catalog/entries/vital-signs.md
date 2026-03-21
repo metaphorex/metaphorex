@@ -28,6 +28,15 @@ limits:
   - '[source] breaks because vital signs are grounded in centuries of clinical correlation -- specific pulse ranges predict specific outcomes -- while most organizational "vital signs" (revenue, velocity, NPS) lack comparable empirical grounding and are chosen by convention or convenience rather than validated predictive power'
   - '[source] misleads by importing the medical assumption that normal ranges are population-derived and well-established, while organizational baselines are typically company-specific and volatile, meaning that "abnormal" readings may reflect regime change rather than pathology'
   - '[source] obscures that medical vital signs measure the patient''s intrinsic physiology, while organizational metrics often measure outputs that are downstream of many uncontrolled variables, making the causal link between the measurement and the system''s health far weaker than the medical metaphor implies'
+embodied_patterns:
+  - matching
+  - scale
+  - iteration
+relation_types:
+  - translate
+  - enable
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

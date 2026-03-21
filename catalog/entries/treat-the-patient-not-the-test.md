@@ -26,6 +26,15 @@ limits:
   - '[model] can degenerate into anti-empiricism -- clinicians who dismiss abnormal lab results because "the patient looks fine" miss silent killers like hypertension and early cancer, and the aphorism provides rhetorical cover for ignoring data in favor of intuition'
   - '[model] underestimates the value of standardized protocols: evidence-based medicine demonstrated that protocol-driven care (treat the test) reduces variance and improves population outcomes even when it produces suboptimal individual results, and the aphorism takes the individual-judgment side without acknowledging the trade-off'
   - '[model] assumes a single patient as the decision unit, but when the patient is a population (all students, all platform users, all employees), metrics are not a degraded substitute for direct observation but the only means of apprehending the aggregate at all'
+embodied_patterns:
+  - matching
+  - surface-depth
+  - center-periphery
+relation_types:
+  - select
+  - prevent
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

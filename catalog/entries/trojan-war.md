@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because the archetype implies you can always identify a single 'Helen' trigger, while some large conflicts emerge from genuinely distributed causes with no identifiable singular event"
   - "[source] misleads because the narrative romanticizes the trigger ('the face that launched a thousand ships'), lending glamour and mythological elevation to what may be a petty grievance or bruised ego"
+embodied_patterns:
+  - force
+  - path
+  - balance
+relation_types:
+  - compete
+  - transform
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

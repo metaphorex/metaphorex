@@ -26,6 +26,15 @@ transfers:
 limits:
   - "[source] breaks because a physical filter only removes material, whereas the mapped component can add, rearrange, or transform content -- sed and awk are called filters but they produce output that was never in the input"
   - "[source] misleads because physical filters degrade as they accumulate blocked material, but the mapped component processes unlimited volume without clogging or requiring replacement"
+embodied_patterns:
+  - flow
+  - matching
+  - removal
+relation_types:
+  - select
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

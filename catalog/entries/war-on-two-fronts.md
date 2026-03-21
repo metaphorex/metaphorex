@@ -28,6 +28,15 @@ limits:
   - '[source] breaks because literal two-front wars have geographic separation that prevents rapid redeployment, while metaphorical "two fronts" (e.g., two product lines) often share infrastructure, talent, and knowledge that can serve both simultaneously'
   - '[source] the military original assumes that both fronts are adversarial and demand combat, but metaphorical fronts are often asymmetric -- one may be a holding action while the other is the real fight -- and the metaphor''s panic framing obscures this distinction'
   - '[source] imports the assumption that concentration is always better than distribution, which is a military heuristic (Lanchester''s laws) that does not hold in domains where diversification reduces rather than increases risk'
+embodied_patterns:
+  - splitting
+  - force
+  - balance
+relation_types:
+  - compete
+  - prevent
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

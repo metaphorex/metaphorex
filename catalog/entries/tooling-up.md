@@ -26,6 +26,15 @@ transfers:
 - '[source] imports the causal logic that dull tools cause poor joints regardless of the carpenter''s skill, transferring the principle that execution quality is bounded by preparation quality'
 - '[source] carries the temporal structure of a distinct preparatory phase with a clear transition to production, framing the decision to stop investing in tools and start cutting as a deliberate threshold crossing'
 updated: '2026-03-19'
+embodied_patterns:
+  - path
+  - matching
+  - accretion
+relation_types:
+  - enable
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

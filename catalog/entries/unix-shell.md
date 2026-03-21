@@ -24,6 +24,15 @@ limits:
   - "[source] breaks because a physical shell is passive and inert, whereas the mapped layer actively interprets, transforms, and routes the commands it receives"
   - "[source] misleads because a physical shell has a fixed shape determined by its contents, but the mapped layer can be swapped entirely (sh, csh, bash, zsh) without altering the interior"
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - boundary
+  - matching
+relation_types:
+  - contain
+  - translate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

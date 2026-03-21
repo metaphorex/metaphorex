@@ -23,6 +23,15 @@ limits:
 - "[source] A waldo is a slave device with no autonomy -- it does nothing without a human operator in the loop"
 - "[source] The waldo's fidelity degrades with distance and latency -- the further away, the clumsier the grasp"
 updated: '2026-03-16'
+embodied_patterns:
+  - link
+  - near-far
+  - matching
+relation_types:
+  - translate
+  - enable
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because a physical tee divides flow volume between the two paths, whereas the mapped command duplicates the full stream to both destinations -- nothing is split, everything is copied"
   - "[source] misleads because physical tee orientation and pressure dynamics determine flow distribution, but the mapped command always sends identical complete output to both paths regardless of downstream conditions"
+embodied_patterns:
+  - flow
+  - splitting
+  - path
+relation_types:
+  - coordinate
+  - transform
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

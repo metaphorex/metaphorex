@@ -23,6 +23,15 @@ limits:
   - "[source] misleads because the folklore troll is a solitary creature with a fixed lair, while internet trolls operate across multiple forums, create sockpuppet accounts, and coordinate in groups -- the metaphor understates the mobility and multiplicity of the behavior"
   - "[source] obscures the competing etymology from fishing ('trolling' = dragging bait through water), which maps the deliberate provocation structure more precisely than the monster does -- the troll as fisher is strategic, while the troll as monster is merely territorial"
 updated: '2026-03-17'
+embodied_patterns:
+  - boundary
+  - force
+  - blockage
+relation_types:
+  - prevent
+  - compete
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -28,6 +28,15 @@ transfers:
 limits:
   - "[source] breaks because the vertical axis is a single dimension, whereas the mapped domain involves multidimensional tradeoffs between competing goods that cannot be ranked on a single scale"
   - "[source] misleads because the fall metaphor imports the physics of irreversible descent, making incremental lapses feel catastrophic when they may be minor and recoverable"
+embodied_patterns:
+  - scale
+  - force
+  - path
+relation_types:
+  - cause
+  - transform
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

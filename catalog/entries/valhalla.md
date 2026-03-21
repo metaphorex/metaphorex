@@ -23,6 +23,15 @@ transfers:
 limits:
   - "[source] breaks because Valhalla's purpose is to assemble an army for ragnarok, making it a staging ground for future obligation rather than a retirement, which the modern metaphor of 'hall of fame' completely drops"
   - "[source] misleads because only warriors who die fighting qualify -- the metaphor implies meritocratic reward for excellence, but the source domain is narrower, requiring a specific kind of sacrifice that most modern achievements do not involve"
+embodied_patterns:
+  - container
+  - boundary
+  - path
+relation_types:
+  - transform
+  - contain
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers
