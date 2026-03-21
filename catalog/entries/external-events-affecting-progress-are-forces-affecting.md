@@ -21,6 +21,16 @@ related:
 slug: external-events-affecting-progress-are-forces-affecting
 source_frame: physics
 updated: '2026-03-12'
+embodied_patterns:
+  - force
+  - path
+  - blockage
+relation_types:
+  - cause
+  - prevent
+structure:
+  - competition
+abstraction_level: generic
 transfers:
   - '[source] events that help or hinder progress map onto physical forces that accelerate or impede a moving body -- tailwinds help, headwinds hinder, crosswinds deflect -- giving external circumstances the directional, quantifiable structure of Newtonian mechanics'
   - '[source] the person pursuing a goal is a body in motion, and external events are forces acting on that body, so that favorable circumstances are pushes from behind and obstacles are resistance from ahead, preserving the vector logic of force and direction'

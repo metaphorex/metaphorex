@@ -18,6 +18,16 @@ related:
 slug: external-conditions-are-climate
 source_frame: natural-phenomena
 updated: '2026-03-12'
+embodied_patterns:
+  - container
+  - force
+  - scale
+relation_types:
+  - cause
+  - transform
+structure:
+  - cycle
+abstraction_level: generic
 transfers:
   - '[source] the surrounding conditions of an endeavor map onto weather and climate -- a political climate, an economic atmosphere, a chilly reception -- importing the uncontrollability and pervasiveness of meteorological conditions onto social and institutional environments'
   - '[source] climate is something you endure rather than control, so the metaphor frames external conditions as given constraints that individuals must adapt to rather than factors they can change, importing the passivity of weather-experiencing onto institutional life'

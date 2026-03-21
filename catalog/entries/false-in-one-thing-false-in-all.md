@@ -18,6 +18,16 @@ related:
 slug: false-in-one-thing-false-in-all
 source_frame: governance
 updated: '2026-03-16'
+embodied_patterns:
+  - container
+  - part-whole
+  - link
+relation_types:
+  - cause
+  - select
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - "[paradigm] a single demonstrated falsehood licenses discounting the entire body of testimony from that source, converting a local credibility failure into a global one"
   - "[paradigm] the cost of detecting unreliability is shifted from the evaluator to the source -- one lie forces the liar to rehabilitate everything, not the listener to re-verify each claim"

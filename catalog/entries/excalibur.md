@@ -12,6 +12,17 @@ related: []
 slug: excalibur
 source_frame: mythology
 updated: '2026-03-14'
+harness: Claude Code
+embodied_patterns:
+  - matching
+  - force
+  - link
+relation_types:
+  - select
+  - enable
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - '[source] the artifact functions as a legitimacy test that only one person can pass -- drawing the sword reveals the rightful king -- importing the structure that authority is conferred by demonstrating a unique capability rather than by argument, election, or lineage'
   - '[source] the test is embedded in the artifact itself (the sword resists all others), so legitimacy is self-authenticating: the successful performance is both the proof and the conferral, with no external adjudicator required'

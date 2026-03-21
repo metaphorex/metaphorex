@@ -19,6 +19,16 @@ created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - balance
+  - force
+  - boundary
+relation_types:
+  - prevent
+  - restore
+structure:
+  - equilibrium
+abstraction_level: generic
 transfers:
   - '[source] the physician must evaluate whether a proposed treatment might leave the patient worse off than no treatment at all, importing a decision structure where the baseline is the current state and any intervention must clear the bar of net improvement over inaction'
   - '[source] medical training teaches that the body has self-healing capacities and that premature or excessive intervention can interfere with natural recovery, importing the structural insight that systems often have endogenous repair mechanisms that intervention can disrupt'

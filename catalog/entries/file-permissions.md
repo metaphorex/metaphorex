@@ -18,6 +18,17 @@ created: '2026-03-17'
 updated: '2026-03-17'
 harness: Claude Code
 grounding: folk
+embodied_patterns:
+  - boundary
+  - container
+  - part-whole
+relation_types:
+  - contain
+  - prevent
+structure:
+  - hierarchy
+  - boundary
+abstraction_level: specific
 transfers:
   - "[source] access is granted or withheld by an owner according to a three-tier social hierarchy of owner, group, and others"
   - "[source] the sovereign (superuser) can override all permissions, operating above the rules that bind ordinary subjects"

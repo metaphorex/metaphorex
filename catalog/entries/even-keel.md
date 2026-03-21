@@ -15,6 +15,16 @@ source_frame: seafaring
 applies_to:
 - mental-experience
 updated: '2026-03-14'
+embodied_patterns:
+  - balance
+  - force
+  - container
+relation_types:
+  - restore
+  - coordinate
+structure:
+  - equilibrium
+abstraction_level: specific
 transfers:
   - '[source] the keel is the invisible structural timber below the waterline that determines whether a ship sits level, mapping emotional stability onto deep foundational structures (character, habits) rather than surface presentation'
   - '[source] an even keel is the ship''s natural resting state when properly loaded, not a heroic achievement, mapping emotional health onto a baseline condition to be restored rather than an extraordinary state to be attained'

@@ -22,6 +22,19 @@ related:
 slug: event-structure
 source_frame: journeys
 updated: '2026-03-12'
+embodied_patterns:
+  - path
+  - container
+  - force
+  - blockage
+relation_types:
+  - cause
+  - transform
+  - prevent
+structure:
+  - network
+  - pipeline
+abstraction_level: primitive
 transfers:
   - '[source] an entire coherent system maps the structure of events onto spatial motion: states are locations, changes are movements between locations, causes are forces, actions are self-propelled motions, purposes are destinations, and difficulties are impediments blocking the path'
   - '[source] the source-path-goal image schema provides the structural backbone, so that every event has a starting point (initial state), a path (process of change), and an endpoint (final state or purpose), giving abstract event reasoning the geometry of a journey'

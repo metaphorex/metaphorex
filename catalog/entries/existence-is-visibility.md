@@ -21,6 +21,16 @@ related:
 slug: existence-is-visibility
 source_frame: vision
 updated: '2026-03-12'
+embodied_patterns:
+  - surface-depth
+  - near-far
+  - boundary
+relation_types:
+  - transform
+  - enable
+structure:
+  - boundary
+abstraction_level: primitive
 transfers:
   - '[source] to exist is to be visible and to cease existing is to disappear -- things appear when they come into being and vanish when they stop -- mapping ontological status onto perceptual accessibility'
   - '[source] degrees of existence map onto degrees of visibility: something that barely exists is faint or dim, something robustly real is vivid and clear, importing the visual gradient from invisible to conspicuous'

@@ -29,6 +29,16 @@ limits:
   - "[source] misleads because weather cannot be regulated by the person experiencing it, but emotions can be modulated through cognitive reappraisal and practice"
   - "[source] obscures that emotions carry information about values and needs, while weather carries no evaluative content"
 updated: '2026-03-16'
+embodied_patterns:
+  - force
+  - flow
+  - scale
+relation_types:
+  - cause
+  - transform
+structure:
+  - cycle
+abstraction_level: generic
 ---
 
 ## Transfers

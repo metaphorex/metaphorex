@@ -19,6 +19,16 @@ created: '2026-03-20'
 updated: '2026-03-20'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - surface-depth
+  - accretion
+  - flow
+relation_types:
+  - enable
+  - accumulate
+structure:
+  - growth
+abstraction_level: specific
 transfers:
   - '[source] Investing in the medium that supports growth (soil) rather than directly supplementing individual outputs (plants) produces more resilient and self-sustaining results, because the medium continues to generate value after the investment stops'
   - '[source] A plant fed directly with synthetic fertilizer becomes dependent on continued supplementation and its root system atrophies, while a plant in rich soil develops deep roots -- mapping the distinction between dependency-creating interventions and capacity-building ones'

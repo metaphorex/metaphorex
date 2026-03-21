@@ -14,6 +14,17 @@ source_frame: seafaring
 applies_to:
 - intellectual-inquiry
 updated: '2026-03-14'
+harness: Claude Code
+embodied_patterns:
+  - surface-depth
+  - scale
+  - near-far
+relation_types:
+  - translate
+  - accumulate
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - '[source] comprehension maps onto measuring water depth by lowering a weighted sounding line until it hits bottom, so that understanding is reaching the bottom of something hidden beneath an opaque surface'
   - '[source] the capacity for understanding maps onto the length of the sounding line -- what is unfathomable exceeds the instrument''s reach, not because the depth does not exist but because the measuring tool runs out'

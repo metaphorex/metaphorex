@@ -16,6 +16,16 @@ related:
 slug: environment-variable
 source_frame: embodied-experience
 updated: '2026-03-17'
+embodied_patterns:
+  - container
+  - link
+  - flow
+relation_types:
+  - contain
+  - enable
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - "[source] an organism's environment is the surrounding context that influences its behavior without being part of the organism itself"
   - "[source] offspring inherit their parent's environment by being born into it, not by explicit transfer"

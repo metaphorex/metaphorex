@@ -18,6 +18,16 @@ related:
 slug: faustian-bargain
 source_frame: mythology
 updated: '2026-03-14'
+embodied_patterns:
+  - link
+  - balance
+  - path
+relation_types:
+  - cause
+  - transform
+structure:
+  - transformation
+abstraction_level: specific
 transfers:
   - '[source] a transaction maps onto selling one''s soul to the devil: you gain extraordinary power or knowledge now in exchange for catastrophic, irrevocable loss later -- importing the structure that the cost is deferred, disproportionate, and hidden in the terms'
   - '[source] the bargainer enters freely but cannot exit: Faust chooses the deal knowing the price, yet once committed, the contract is binding and the soul is forfeit regardless of regret, importing the asymmetry between easy entry and impossible exit'

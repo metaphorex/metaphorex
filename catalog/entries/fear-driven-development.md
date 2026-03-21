@@ -19,6 +19,16 @@ related:
 slug: fear-driven-development
 source_frame: social-behavior
 updated: '2026-03-14'
+embodied_patterns:
+  - force
+  - blockage
+  - boundary
+relation_types:
+  - prevent
+  - cause
+structure:
+  - competition
+abstraction_level: specific
 transfers:
   - '[source] fear as the primary motivator for engineering decisions maps social-behavioral dynamics (avoidance of blame, punishment, or embarrassment) onto technical process, so that code is written to avoid criticism rather than to solve problems well'
   - '[source] the development process inherits the structure of a fear response: defensive action, avoidance of visibility, and preference for the safe-but-suboptimal choice over the risky-but-correct one'

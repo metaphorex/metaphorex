@@ -13,6 +13,17 @@ related:
 - the-map-is-not-the-territory
 slug: falsification
 updated: '2026-03-13'
+harness: Claude Code
+embodied_patterns:
+  - removal
+  - boundary
+  - force
+relation_types:
+  - select
+  - prevent
+structure:
+  - competition
+abstraction_level: generic
 transfers:
   - "[model] privileges disconfirmation over confirmation because one counterexample is decisive while no amount of supporting evidence is conclusive"
   - "[model] measures the strength of a belief by the severity of the tests it has survived, not by the volume of confirming instances"

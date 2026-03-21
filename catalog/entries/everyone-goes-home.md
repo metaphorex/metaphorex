@@ -18,6 +18,16 @@ created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - balance
+  - boundary
+  - force
+relation_types:
+  - prevent
+  - restore
+structure:
+  - equilibrium
+abstraction_level: specific
 transfers:
   - '[model] redefines mission success from the output achieved (fire suppressed, building saved) to the workforce preserved, forcing a recalculation where outcomes that destroy the team are coded as failures regardless of the objective accomplished'
   - '[model] encodes the structural insight that heroic cultures systematically undercount the cost of the hero by treating the survivor as the unit of analysis and the fatality as an acceptable exception, rather than treating both as draws from the same risk distribution'

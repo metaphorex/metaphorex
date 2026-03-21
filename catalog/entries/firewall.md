@@ -1,7 +1,7 @@
 ---
 applies_to:
 - network-security
-author: fshot
+author: agent:metaphorex-miner
 categories:
 - software-engineering
 - security
@@ -14,6 +14,17 @@ related: []
 slug: firewall
 source_frame: architecture-and-building
 updated: '2026-03-10'
+harness: Claude Code
+embodied_patterns:
+  - boundary
+  - container
+  - blockage
+relation_types:
+  - prevent
+  - contain
+structure:
+  - boundary
+abstraction_level: specific
 transfers:
   - '[source] a fireproof wall divides a building into zones so that fire on one side cannot reach the other, mapping network security onto binary spatial separation where the barrier creates a safe side and a danger side with no intermediate state'
   - '[source] the wall is passive and permanent -- it does not decide what to block but blocks everything by material composition -- mapping onto the original concept of network firewalls as static boundary defenses that separate trusted from untrusted networks'

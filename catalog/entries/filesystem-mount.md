@@ -18,6 +18,16 @@ created: '2026-03-17'
 updated: '2026-03-17'
 harness: Claude Code
 grounding: folk
+embodied_patterns:
+  - link
+  - part-whole
+  - container
+relation_types:
+  - contain
+  - coordinate
+structure:
+  - hierarchy
+abstraction_level: specific
 transfers:
   - "[source] mounting attaches a separate object to a fixed frame, making it accessible as part of the larger assembly"
   - "[source] the mounted object retains its own identity and can be detached without damaging the frame it was attached to"

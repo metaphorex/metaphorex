@@ -23,6 +23,16 @@ transfers:
 - '[source] imports the urgency and forward momentum of a physical chase, demanding that scenes have directional energy rather than static exposition'
 - '[source] transfers the terrain-as-obstacle structure, where the environment (social context, status, witnesses) shapes what tactics each party can use in pursuing their objective'
 updated: '2026-03-19'
+embodied_patterns:
+  - force
+  - path
+  - near-far
+relation_types:
+  - compete
+  - transform
+structure:
+  - competition
+abstraction_level: specific
 ---
 
 ## Transfers

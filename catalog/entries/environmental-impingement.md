@@ -25,6 +25,16 @@ transfers:
   - '[source] carries the implication that force has directionality — impingement comes from outside inward — framing the developing self as an interior that requires protection from exterior intrusion'
   - '[source] imports the concept of a threshold below which contact is absorbed without deformation and above which it causes structural damage, distinguishing tolerable from traumatic disruption as a function of intensity rather than content'
 updated: '2026-03-20'
+embodied_patterns:
+  - force
+  - boundary
+  - blockage
+relation_types:
+  - cause
+  - prevent
+structure:
+  - boundary
+abstraction_level: generic
 ---
 
 ## Transfers
