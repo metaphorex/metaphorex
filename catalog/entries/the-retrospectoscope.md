@@ -22,6 +22,15 @@ limits:
   - '[model] can be used defensively to dismiss all retrospective criticism, including legitimate cases where the decision-maker ignored available evidence or violated known standards of practice at the time -- not all post-hoc critique is hindsight bias'
   - '[model] implies that the retrospectoscope is always distorting, but some retrospective analysis genuinely reveals systematic errors that were detectable in real time -- the model provides no way to distinguish contaminated hindsight from valid retrospective learning'
 updated: '2026-03-20'
+embodied_patterns:
+  - near-far
+  - surface-depth
+  - path
+relation_types:
+  - cause
+  - prevent
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

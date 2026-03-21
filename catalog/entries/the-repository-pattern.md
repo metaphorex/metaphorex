@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because requesting a manuscript from a national archive takes days, while developers calling repository.findById() expect milliseconds -- the archival metaphor actively obscures the cost of each retrieval"
   - "[source] misleads because a library shelf has simple semantics (books do not change while you read them), while a repository backed by a relational database faces concurrent writes, stale reads, and optimistic locking failures"
+embodied_patterns:
+  - container
+  - matching
+  - boundary
+relation_types:
+  - contain
+  - coordinate
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

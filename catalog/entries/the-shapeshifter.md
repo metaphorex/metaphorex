@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because the Shapeshifter is a Vogler narrative archetype designed for plot tension, not a Jungian clinical concept -- applying it as if it carried depth-psychological weight is a category error"
   - "[source] misleads because the archetype carries persistent suspicion that the true form is hidden, pathologizing healthy adaptation (code-switching, cultural fluency, contextual self-presentation) by framing it as deception"
+embodied_patterns:
+  - matching
+  - boundary
+  - splitting
+relation_types:
+  - transform
+  - prevent
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

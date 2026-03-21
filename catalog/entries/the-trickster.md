@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[source] breaks because the line between trickster and mere destructive agent is unresolvable in advance -- even the myths cannot decide whether the figure is hero or villain"
   - "[source] misleads because calling yourself a trickster flatters a self-image of mythological significance, providing cover for ordinary bad behavior that lacks the generative aftermath"
+embodied_patterns:
+  - boundary
+  - splitting
+  - path
+relation_types:
+  - transform
+  - compete
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

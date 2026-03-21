@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because the archetype structurally equates accumulated time with accumulated insight, but experience in a rapidly changing environment may produce deep obsolescence rather than wisdom"
   - "[source] misleads because celebrating the person who holds all the knowledge romanticizes a single point of failure -- the wise old man is a bus factor of one, and reverence inhibits the questioning that would distribute the knowledge"
+embodied_patterns:
+  - center-periphery
+  - path
+  - surface-depth
+relation_types:
+  - enable
+  - translate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -22,6 +22,15 @@ transfers:
 limits:
   - "[paradigm] breaks because consent in practice is rarely fully informed, fully voluntary, and fully competent simultaneously -- the three conditions the maxim silently requires but does not enforce"
   - "[paradigm] misleads because it treats consent as a fixed state established at the moment of agreement, while actual risk unfolds over time and may exceed what was originally understood or accepted"
+embodied_patterns:
+  - boundary
+  - force
+  - balance
+relation_types:
+  - prevent
+  - enable
+structure: boundary
+abstraction_level: generic
 ---
 
 ## Transfers

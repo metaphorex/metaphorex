@@ -30,6 +30,15 @@ transfers:
 - '[source] entities enter and exit containers by crossing a boundary, changing their
   containment status'
 updated: '2026-03-13'
+embodied_patterns:
+  - container
+  - boundary
+  - scale
+relation_types:
+  - contain
+  - cause
+structure: boundary
+abstraction_level: primitive
 ---
 
 ## Transfers

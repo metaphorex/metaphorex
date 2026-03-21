@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because a power of attorney can be revoked instantly and the proxy loses all authority, while software provides no first-class mechanism for a proxy to announce that its mandate has expired"
   - "[source] misleads because social proxies exercise judgment, read the room, and improvise, while software proxies almost always forward requests mechanically without discretion"
+embodied_patterns:
+  - boundary
+  - matching
+  - link
+relation_types:
+  - translate
+  - prevent
+structure: boundary
+abstraction_level: specific
 ---
 
 ## Transfers

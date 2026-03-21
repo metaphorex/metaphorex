@@ -27,6 +27,15 @@ transfers:
   - "[source] imports the specific failure mode of Asimov's stories -- robots that follow rules literally but produce unintended consequences -- as a template for reasoning about how rule-based AI safety can go wrong"
   - "[source] carries the implicit promise that a small set of correctly ordered principles can govern all possible situations, structuring AI ethics discourse around the search for the right rules rather than the right judgment"
 updated: '2026-03-17'
+embodied_patterns:
+  - force
+  - boundary
+  - path
+relation_types:
+  - prevent
+  - contain
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

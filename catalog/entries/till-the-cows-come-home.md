@@ -26,6 +26,15 @@ limits:
   - '[source] breaks because cows actually do come home -- usually by dusk -- while the metaphor is used for situations that may never resolve, smuggling a false promise of eventual completion into genuinely open-ended waits'
   - '[source] imports passivity as the only posture (the farmer waits), erasing the possibility that the waiting party could change their goal, abandon the wait, or find an alternative rather than enduring indefinitely'
   - '[source] assumes a single natural rhythm (the cow''s walking pace) as the governing clock, which misleads in domains where multiple independent processes determine timing and the bottleneck shifts unpredictably'
+embodied_patterns:
+  - path
+  - iteration
+  - near-far
+relation_types:
+  - prevent
+  - cause
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers

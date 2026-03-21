@@ -32,6 +32,15 @@ transfers:
 - '[source] the traveler exercises agency over pace and route selection within the
   landscape'
 updated: '2026-03-13'
+embodied_patterns:
+  - path
+  - container
+  - near-far
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

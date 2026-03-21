@@ -26,6 +26,15 @@ transfers:
 limits:
   - '[source] breaks because theories do not age biologically -- Euclidean geometry is over two millennia old and remains perfectly valid, and the life-cycle metaphor prejudices us against old ideas simply because they are old'
   - '[source] misleads because dead theories come back -- atomism was dead for centuries before Dalton revived it, Lamarckian inheritance was dead before epigenetics -- but the life-cycle metaphor has no vocabulary for resurrection'
+embodied_patterns:
+  - path
+  - accretion
+  - splitting
+relation_types:
+  - transform
+  - cause
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

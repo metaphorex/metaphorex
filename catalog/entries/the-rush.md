@@ -25,6 +25,15 @@ transfers:
 limits:
   - '[source] breaks because a restaurant rush has a known duration (typically 2-3 hours) with a guaranteed end, while many organizational surges (incident response, market crashes, viral traffic) have no predictable endpoint -- the metaphor imports false confidence about when relief will arrive'
   - '[source] misleads by treating the rush as purely a test of execution, when many real-world surges also require strategic decision-making under pressure -- the kitchen model is "execute the known plan faster," while crisis management often requires inventing the plan in real time'
+embodied_patterns:
+  - flow
+  - force
+  - scale
+relation_types:
+  - cause
+  - coordinate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

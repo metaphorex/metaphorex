@@ -25,6 +25,15 @@ limits:
   - "[source] biases toward individual-agency explanations by placing a single traveler at a single decision point, obscuring structural and overdetermined historical causes"
   - "[source] represents causation as a linear river flowing forward through a timeline, hiding feedback loops, emergent properties, and overdetermined outcomes"
   - "[source] treats the past as a fully specified, determinate state that can be visited and observed, obscuring that historical knowledge is incomplete, contested, and constructed"
+embodied_patterns:
+  - path
+  - splitting
+  - boundary
+relation_types:
+  - transform
+  - cause
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

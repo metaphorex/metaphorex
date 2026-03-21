@@ -22,6 +22,15 @@ transfers:
 limits:
   - '[model] breaks because the six criteria and their weights were derived from one editor''s intuition about narrative cinema, and have no empirical validation -- the 51% figure is a pedagogical device, not a measurement'
   - '[model] misleads by implying that decision criteria can always be ranked in a stable linear hierarchy, when in practice the relative importance of emotion vs. story vs. rhythm shifts with genre, audience, and cultural context'
+embodied_patterns:
+  - part-whole
+  - matching
+  - scale
+relation_types:
+  - select
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

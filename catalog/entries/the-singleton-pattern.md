@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because social singletons exist to prevent civil war (legitimacy), while software singletons often exist because someone was too lazy to pass a dependency as a parameter (convenience)"
   - "[source] misleads because social singletons allow stand-ins (regents, acting presidents), while the pattern as typically implemented does not support substitution for testing"
+embodied_patterns:
+  - center-periphery
+  - container
+  - link
+relation_types:
+  - coordinate
+  - contain
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers

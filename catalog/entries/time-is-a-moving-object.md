@@ -31,6 +31,15 @@ transfers:
 - '[source] the speed of passing objects varies, and the observer perceives this as
   acceleration or deceleration'
 updated: '2026-03-14'
+embodied_patterns:
+  - path
+  - force
+  - near-far
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

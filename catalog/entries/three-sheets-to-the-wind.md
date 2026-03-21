@@ -23,6 +23,15 @@ transfers:
 limits:
 - '[source] Sheets come loose involuntarily through storm or equipment failure, obscuring that drunkenness begins as a voluntary act'
 - '[source] The graduated scale (one, two, three sheets) has collapsed in modern usage to a single fixed phrase for the extreme case, erasing the structural precision that made the original mapping interesting'
+embodied_patterns:
+  - balance
+  - force
+  - blockage
+relation_types:
+  - prevent
+  - cause
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

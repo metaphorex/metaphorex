@@ -21,6 +21,15 @@ transfers:
 limits:
   - "[source] breaks because what looks self-evident often reflects the observer's assumptions, not the thing itself"
   - "[source] misleads by conflating obviousness with correctness -- obvious explanations are sometimes wrong"
+embodied_patterns:
+  - matching
+  - surface-depth
+  - force
+relation_types:
+  - cause
+  - enable
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

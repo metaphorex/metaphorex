@@ -28,6 +28,15 @@ transfers:
 - '[source] the resource cannot be acquired beyond its initial endowment, imposing
   a hard ceiling on consumption'
 updated: '2026-03-14'
+embodied_patterns:
+  - container
+  - scale
+  - flow
+relation_types:
+  - accumulate
+  - prevent
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

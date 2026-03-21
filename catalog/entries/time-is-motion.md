@@ -32,6 +32,15 @@ limits:
   - "[source] breaks because spatial motion is reversible -- you can retrace a path -- whereas the mapped domain is strictly unidirectional"
   - "[source] misleads because the linear-path model cannot represent cyclical recurrence, where the same event returns rather than a new one approaching"
   - "[source] misleads because the two sub-models (moving entity vs. moving observer) assign motion to opposite parties, generating genuine ambiguity about whether 'moved forward' means earlier or later"
+embodied_patterns:
+  - path
+  - force
+  - flow
+relation_types:
+  - cause
+  - transform
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

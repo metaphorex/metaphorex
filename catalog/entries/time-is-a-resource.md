@@ -25,6 +25,15 @@ transfers:
 limits:
   - "[source] breaks because real resources obey conservation laws and can be stockpiled, whereas the mapped domain cannot be stored or redistributed between holders"
   - "[source] misleads because the resource frame treats all units as fungible, erasing qualitative differences in how units are experienced"
+embodied_patterns:
+  - container
+  - scale
+  - flow
+relation_types:
+  - accumulate
+  - cause
+structure: pipeline
+abstraction_level: generic
 ---
 
 ## Transfers

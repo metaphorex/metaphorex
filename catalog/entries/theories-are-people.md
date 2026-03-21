@@ -32,6 +32,15 @@ transfers:
 - '[source] individuals possess character traits that shape how others evaluate and
   interact with them'
 updated: '2026-03-13'
+embodied_patterns:
+  - path
+  - force
+  - link
+relation_types:
+  - cause
+  - compete
+structure: network
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 limits:
   - '[source] breaks because buildings are static while theories evolve -- a theory ''under construction'' sounds incomplete rather than dynamic, biasing against intellectual provisionality and making scholars reluctant to share half-formed ideas'
   - '[source] misleads because collapse is too binary -- theories rarely fall entirely but get revised, qualified, or absorbed into successors (Newtonian mechanics became a special case), and the building metaphor has no vocabulary for graceful degradation'
+embodied_patterns:
+  - part-whole
+  - superimposition
+  - force
+relation_types:
+  - transform
+  - coordinate
+structure: hierarchy
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -24,6 +24,15 @@ transfers:
 limits:
   - "[source] breaks because real visitors choose where to go and can decline the basement tour, while a software Visitor's visit method is called on every element exhaustively without selectivity"
   - "[source] misleads because adding a new room to a house does not break existing guests, while adding a new element type to the object structure requires updating every visitor class with a new overload"
+embodied_patterns:
+  - path
+  - matching
+  - splitting
+relation_types:
+  - transform
+  - coordinate
+structure: hierarchy
+abstraction_level: specific
 ---
 
 ## Transfers
