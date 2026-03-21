@@ -142,9 +142,13 @@ Key structural parallels:
 
 The phrase crystallized in the mid-twentieth century, drawing on the
 Napoleonic tradition of systematic military calculation and the emerging
-discipline of operations research. General Omar Bradley titled his 1951
-memoir *A Soldier's Story* and used "calculated risk" to describe the
-decision to launch the Normandy invasion despite unfavorable weather.
+discipline of operations research. General Dwight Eisenhower used the phrase when he gave the order to
+launch the Normandy invasion on 5 June 1944 despite deteriorating
+weather -- a decision he made after weighing meteorologist Group
+Captain Stagg's narrow forecast of a brief clearing window against
+the cost of another month's delay. General Omar Bradley's 1951 memoir
+*A Soldier's Story* uses "calculated risk" to describe battlefield
+decisions in the European theater more broadly.
 General George Patton used the phrase to distinguish his aggressive
 tactics from recklessness. The concept migrated into business language
 through the Cold War-era influence of systems analysis and decision
@@ -163,8 +167,10 @@ is invoked but not performed.
 
 - Napoleon. *Military Maxims* -- Maxim LXXIII (calculate means against
   obstacles) and Maxim LXXVIII (nothing without calculation)
-- Bradley, O. *A Soldier's Story* (1951) -- the Normandy decision as
-  calculated risk
+- Eisenhower, D. *Crusade in Europe* (1948) -- the Normandy launch
+  decision as the paramount calculated risk of the European campaign
+- Bradley, O. *A Soldier's Story* (1951) -- battlefield use of
+  calculated risk in the European theater
 - Knight, F. *Risk, Uncertainty, and Profit* (1921) -- the distinction
   between calculable risk and irreducible uncertainty
 - Kahneman, D. and Tversky, A. "Prospect Theory" (1979) -- systematic
