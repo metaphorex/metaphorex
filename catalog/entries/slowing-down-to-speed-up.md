@@ -13,9 +13,19 @@ related:
   - planning-is-prime
 dead: false
 created: '2026-03-19'
-updated: '2026-03-19'
+updated: '2026-03-22'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - force
+  - balance
+  - flow
+relation_types:
+  - prevent
+  - restore
+  - cause/accumulate
+structure: cycle
+abstraction_level: generic
 transfers:
   - '[model] when a cook panics and accelerates movements, error rates climb and recovery time per error exceeds the time "saved" by rushing, producing a net slowdown that compounds with each mistake'
   - '[model] deliberate deceleration at a chokepoint (pausing to re-read the ticket board, re-staging the station) resets the error cascade and restores throughput to a sustainable rate'

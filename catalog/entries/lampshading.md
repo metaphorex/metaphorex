@@ -13,9 +13,17 @@ related:
   - breaking-the-fourth-wall
   - rubber-duck-debugging
 created: '2026-03-20'
-updated: '2026-03-20'
+updated: '2026-03-22'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - surface-depth
+  - container
+relation_types:
+  - transform/reframing
+  - prevent
+structure: boundary
+abstraction_level: generic
 transfers:
   - '[source] a lampshade draws attention to the object it covers while simultaneously domesticating it, converting a bare bulb from an eyesore into acceptable decor'
   - '[source] the covering is transparent about its own function -- everyone can see it is a lampshade, not a disguise -- which means acknowledgment replaces concealment'
