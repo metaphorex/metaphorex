@@ -170,11 +170,20 @@ If the token is NOT set, use default auth (no prefix needed).
    applies_to, categories
 8. **Run the scraping script** to produce structured output, then write
    the manifest at `playbooks/<project-name>/manifest.json`
-9. Write the playbook at `playbooks/<project-name>/playbook.md` — include
+9. **Validate the manifest before proceeding.** Run:
+   ```bash
+   uv run scripts/validate_manifest.py playbooks/<project-name>/manifest.json
+   ```
+   This checks that every candidate's `kind` is one of the allowed schema
+   values (`metaphor`, `pattern`, `archetype`, `paradigm`, `mental-model`),
+   names are title case (not ALL-CAPS), `source` is `archive` or `llm`, and
+   `source_frame` differs from `target_frame`. Fix any errors before
+   continuing. Do NOT open a PR with a failing manifest.
+10. Write the playbook at `playbooks/<project-name>/playbook.md` — include
    the archive URLs and methodology in the Access Method section
-10. Open a PR with: playbook + scripts + manifest
-11. Add the `in-progress` label to the parent issue to claim it
-12. Post a run summary comment on the parent issue
+11. Open a PR with: playbook + scripts + manifest
+12. Add the `in-progress` label to the parent issue to claim it
+13. Post a run summary comment on the parent issue
 
 **Playbook Format:**
 
@@ -201,18 +210,23 @@ Schema Mapping, Gotchas.
   "candidates": [
     {
       "slug": "time-is-money",
-      "name": "TIME IS MONEY",
-      "kind": "conceptual-metaphor",
+      "name": "Time Is Money",
+      "kind": "metaphor",
       "source_frame": "economics",
       "target_frame": "time-and-temporality",
       "applies_to": ["time-management"],
       "categories": ["cognitive-linguistics"],
-      "source": "archive|llm",
+      "source": "archive",
       "description": "Maps economic concepts (spending, saving, wasting) onto time, shaping how people treat time as a limited resource to be budgeted."
     }
   ]
 }
 ```
+
+**Allowed `kind` values:** `metaphor`, `pattern`, `archetype`, `paradigm`,
+`mental-model`. No other values are accepted. Common mistakes: `conceptual-metaphor`
+(use `metaphor`), `dead-metaphor` (use `metaphor`), `cross-field-mapping`
+(use `metaphor` or `pattern`).
 
 Each candidate's `source` field must be `"archive"` (from scraping script)
 or `"llm"` (gap-fill from LLM knowledge). The Surveyor will scrutinize
