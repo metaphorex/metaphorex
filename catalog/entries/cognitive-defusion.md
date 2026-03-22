@@ -13,7 +13,7 @@ related:
   - passengers-on-the-bus
 provenance: psychotherapy-metaphors
 created: '2026-03-19'
-updated: '2026-03-19'
+updated: '2026-03-22'
 grounding: established
 harness: Claude Code
 transfers:
@@ -23,6 +23,16 @@ transfers:
 limits:
   - '[model] does not apply to thoughts that are accurate reports of external danger -- defusing from "there is a car coming toward me" would be maladaptive, which means the technique requires a prior judgment about whether the thought is a useful signal or unhelpful noise'
   - '[model] risks becoming a meta-cognitive avoidance strategy if used to dismiss all uncomfortable thoughts as "just thoughts," collapsing the distinction between experiential avoidance (which ACT opposes) and genuine cognitive flexibility'
+embodied_patterns:
+  - merging
+  - splitting
+  - surface-depth
+relation_types:
+  - transform/reframing
+  - cause/constrain
+  - enable
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers
