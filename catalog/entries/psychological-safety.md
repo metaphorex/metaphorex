@@ -10,7 +10,7 @@ harness: Claude Code
 contributors: []
 related:
   - normalization-of-deviance
-  - feedback-loop
+  - feedback-loops
   - dunning-kruger-effect
 grounding: established
 created: '2026-03-21'

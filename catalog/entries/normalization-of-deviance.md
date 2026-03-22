@@ -11,7 +11,7 @@ harness: Claude Code
 contributors: []
 related:
   - boiling-frog
-  - feedback-loop
+  - feedback-loops
   - slippery-slope
 grounding: established
 created: '2026-03-21'

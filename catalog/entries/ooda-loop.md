@@ -10,7 +10,7 @@ author: agent:metaphorex-miner
 harness: Claude Code
 contributors: []
 related:
-  - feedback-loop
+  - feedback-loops
   - blitzkrieg
   - agile-is-a-living-system
 grounding: established

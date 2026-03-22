@@ -12,7 +12,7 @@ related:
 - the-map-is-not-the-territory
 slug: feedback-loops
 source_frame: physics
-updated: '2026-03-13'
+updated: '2026-03-21'
 harness: Claude Code
 embodied_patterns:
   - iteration
@@ -43,6 +43,11 @@ events to the structures that produce them.
 
 Key structural parallels:
 
+- **Circular causation replaces root-cause thinking** -- in a feedback loop,
+  asking "what caused X?" has no terminal answer because X partly caused
+  itself through prior iterations. The cognitive move is to stop searching
+  for a single root cause and start tracing the circuit. Instead of fixing
+  a cause, you modify the loop.
 - **Positive feedback amplifies** -- a microphone pointed at its speaker
   creates a screech; each cycle amplifies the previous signal. In business,
   a popular product attracts more users, which attracts more developers,
