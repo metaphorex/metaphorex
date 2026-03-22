@@ -1,19 +1,19 @@
 ---
-created: '2026-03-22'
+slug: distributed-systems
 name: Distributed Systems
 related:
-- information-security
-- software-architecture
+  - information-security
+  - software-architecture
 roles:
-- node
-- cluster
-- partition
-- replica
-- consensus
-- heartbeat
-- failover
-- coordinator
-slug: distributed-systems
+  - node
+  - cluster
+  - partition
+  - replica
+  - consensus
+  - heartbeat
+  - failover
+  - coordinator
+created: '2026-03-22'
 updated: '2026-03-22'
 ---
 
