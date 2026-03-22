@@ -15,7 +15,6 @@ related:
   - dead-zone
 created: '2026-03-21'
 updated: '2026-03-21'
-dead: true
 grounding: folk
 harness: Claude Code
 embodied_patterns:
