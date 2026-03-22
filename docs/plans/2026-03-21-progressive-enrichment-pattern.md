@@ -113,7 +113,8 @@ Track all enrichment passes in one place.
 | Enrichment | Fields | Model | Phase | Vocabulary doc | Tracking issue |
 |---|---|---|---|---|---|
 | Transfers & limits | `transfers[]`, `limits[]` | Sonnet | Phase 4 (sweeping) | enrichment-pipeline-design.md | — |
-| Structural tags | `embodied_patterns[]`, `relation_types[]`, `structure`, `abstraction_level` | Sonnet | Phase 3 (integrating) | structural-enrichment-vocabulary.md | TBD |
+| Structural tags | `embodied_patterns[]`, `relation_types[]`, `structure`, `abstraction_level` | Sonnet | Phase 5 (hardening) | structural-enrichment-vocabulary.md | — |
+| Relation subtypes | `cause/*`, `transform/*` within `relation_types[]` | Sonnet | Phase 2 (validated) | structural-enrichment-vocabulary.md | TBD |
 | Abstract roles | `abstract_roles{}` (frames) | Sonnet | Phase 1 (designed) | structural-enrichment-vocabulary.md | — |
 | Semantic web links | `sameAs[]` | Haiku | Phase 1 (designed) | TBD | — |
 

@@ -76,6 +76,13 @@ VALID_RELATION_TYPES = {
     "cause", "enable", "prevent", "transform", "contain", "compete",
     "coordinate", "decompose", "translate", "select", "accumulate", "restore",
 }
+# Valid subtypes: parent/subtype format. Bare parent is always valid.
+VALID_RELATION_SUBTYPES = {
+    "cause/compel", "cause/propagate", "cause/constrain", "cause/accumulate",
+    "cause/couple", "cause/misfit",
+    "transform/metamorphosis", "transform/refinement", "transform/synthesis",
+    "transform/corruption", "transform/reframing",
+}
 VALID_STRUCTURES = {
     "hierarchy", "network", "pipeline", "boundary", "cycle",
     "competition", "growth", "transformation", "equilibrium", "emergence",
@@ -225,7 +232,15 @@ def validate_entry(path: Path, frame_slugs: set[str], category_slugs: set[str],
         if ep not in VALID_EMBODIED_PATTERNS:
             errors.append(f"{prefix}: invalid embodied_pattern '{ep}' (see structural-enrichment-vocabulary.md)")
     for rt in meta.get("relation_types", []):
-        if rt not in VALID_RELATION_TYPES:
+        if "/" in rt:
+            # Subtyped: parent/subtype — validate both parts
+            if rt not in VALID_RELATION_SUBTYPES:
+                parent = rt.split("/")[0]
+                if parent not in VALID_RELATION_TYPES:
+                    errors.append(f"{prefix}: invalid relation_type parent '{parent}' in '{rt}'")
+                else:
+                    errors.append(f"{prefix}: invalid relation_subtype '{rt}' (see structural-enrichment-vocabulary.md)")
+        elif rt not in VALID_RELATION_TYPES:
             errors.append(f"{prefix}: invalid relation_type '{rt}' (see structural-enrichment-vocabulary.md)")
     struct = meta.get("structure")
     if struct is not None:

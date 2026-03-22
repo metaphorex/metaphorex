@@ -13,7 +13,7 @@ entries:
     kind: metaphor
     source_frame: war
     embodied_patterns: [force, boundary, near-far]
-    relation_types: [compete, prevent, cause]
+    relation_types: [compete, prevent, cause/compel]
     structure: [competition]
     abstraction_level: generic
 
@@ -21,7 +21,7 @@ entries:
     kind: metaphor
     source_frame: economics
     embodied_patterns: [accretion, blockage, scale]
-    relation_types: [accumulate, cause, prevent]
+    relation_types: [accumulate, cause/accumulate, prevent]
     structure: [growth]
     abstraction_level: generic
 
@@ -29,7 +29,7 @@ entries:
     kind: metaphor
     source_frame: containers
     embodied_patterns: [container, blockage, flow]
-    relation_types: [prevent, cause, contain]
+    relation_types: [prevent, cause/constrain, contain]
     structure: [pipeline]
     abstraction_level: generic
 
@@ -37,7 +37,7 @@ entries:
     kind: metaphor
     source_frame: embodied-experience
     embodied_patterns: [surface-depth, near-far, boundary]
-    relation_types: [cause, select, translate]
+    relation_types: [cause/misfit, select, translate]
     structure: [boundary]
     abstraction_level: specific
 
@@ -45,7 +45,7 @@ entries:
     kind: paradigm
     source_frame: fluid-dynamics
     embodied_patterns: [flow, container, blockage, path]
-    relation_types: [transform, cause, coordinate]
+    relation_types: [transform/refinement, cause/propagate, coordinate]
     structure: [pipeline]
     abstraction_level: generic
 
@@ -77,7 +77,7 @@ entries:
     kind: archetype
     source_frame: mythology
     embodied_patterns: [force, scale, link]
-    relation_types: [cause, transform, compete]
+    relation_types: [cause/compel, transform/metamorphosis, compete]
     structure: [competition]
     abstraction_level: generic
 
@@ -93,7 +93,7 @@ entries:
     kind: archetype
     source_frame: mythology
     embodied_patterns: [flow, container, iteration, self-organization]
-    relation_types: [transform, cause, restore]
+    relation_types: [transform/metamorphosis, cause/propagate, restore]
     structure: [cycle]
     abstraction_level: generic
 
@@ -101,7 +101,7 @@ entries:
     kind: archetype
     source_frame: mythology
     embodied_patterns: [boundary, force, path]
-    relation_types: [transform, enable, cause]
+    relation_types: [transform/metamorphosis, enable, cause/compel]
     structure: [transformation]
     abstraction_level: generic
 
@@ -133,7 +133,7 @@ entries:
     kind: paradigm
     source_frame: manufacturing
     embodied_patterns: [accretion, iteration, scale]
-    relation_types: [accumulate, transform, enable]
+    relation_types: [accumulate, transform/refinement, enable]
     structure: [growth, cycle]
     abstraction_level: generic
 
@@ -141,7 +141,7 @@ entries:
     kind: paradigm
     source_frame: destruction
     embodied_patterns: [removal, force, iteration]
-    relation_types: [transform, compete, decompose]
+    relation_types: [transform/metamorphosis, compete, decompose]
     structure: [cycle, competition]
     abstraction_level: generic
 
@@ -157,7 +157,7 @@ entries:
     kind: archetype
     source_frame: mythology
     embodied_patterns: [attraction, path, force, link]
-    relation_types: [cause, enable, transform]
+    relation_types: [cause/compel, enable, transform]
     structure: [network]
     abstraction_level: generic
 
@@ -205,7 +205,7 @@ entries:
     kind: mental-model
     source_frame: natural-selection
     embodied_patterns: [force, iteration, near-far]
-    relation_types: [compete, cause, prevent]
+    relation_types: [compete, cause/compel, prevent]
     structure: [competition, cycle]
     abstraction_level: generic
 
@@ -281,7 +281,7 @@ entries:
     kind: archetype
     source_frame: mythology
     embodied_patterns: [path, boundary, force]
-    relation_types: [transform, cause, enable]
+    relation_types: [transform/metamorphosis, cause/compel, enable]
     structure: [transformation]
     abstraction_level: generic
 
@@ -289,7 +289,7 @@ entries:
     kind: archetype
     source_frame: mythology
     embodied_patterns: [boundary, force, removal]
-    relation_types: [transform, cause, decompose]
+    relation_types: [transform/metamorphosis, cause/compel, decompose]
     structure: [transformation]
     abstraction_level: generic
 
@@ -297,7 +297,7 @@ entries:
     kind: archetype
     source_frame: mythology
     embodied_patterns: [surface-depth, container, boundary]
-    relation_types: [cause, prevent, transform]
+    relation_types: [cause/constrain, prevent, transform/corruption]
     structure: [boundary]
     abstraction_level: generic
 
@@ -347,7 +347,7 @@ entries:
     kind: paradigm
     source_frame: natural-selection
     embodied_patterns: [force, iteration, matching, scale]
-    relation_types: [compete, select, transform]
+    relation_types: [compete, select, transform/refinement]
     structure: [competition, cycle]
     abstraction_level: generic
 
@@ -379,7 +379,7 @@ entries:
     kind: paradigm
     source_frame: manufacturing
     embodied_patterns: [iteration, flow, path]
-    relation_types: [transform, cause, restore]
+    relation_types: [transform/refinement, cause/propagate, restore]
     structure: [cycle]
     abstraction_level: generic
 
@@ -389,7 +389,7 @@ entries:
     kind: mental-model
     source_frame: geometry
     embodied_patterns: [boundary, surface-depth, matching]
-    relation_types: [transform, prevent, select]
+    relation_types: [transform/reframing, prevent, select]
     structure: [transformation]
     abstraction_level: generic
 
@@ -397,7 +397,7 @@ entries:
     kind: mental-model
     source_frame: physics
     embodied_patterns: [path, scale, iteration]
-    relation_types: [cause, transform, enable]
+    relation_types: [cause/propagate, transform/reframing, enable]
     structure: [cycle, hierarchy]
     abstraction_level: generic
 
@@ -405,7 +405,7 @@ entries:
     kind: mental-model
     source_frame: physics
     embodied_patterns: [flow, iteration, balance, force]
-    relation_types: [cause, transform, restore]
+    relation_types: [cause/propagate, transform/refinement, restore]
     structure: [cycle, equilibrium]
     abstraction_level: generic
 
@@ -413,7 +413,7 @@ entries:
     kind: mental-model
     source_frame: physics
     embodied_patterns: [removal, surface-depth, part-whole]
-    relation_types: [decompose, transform, select]
+    relation_types: [decompose, transform/refinement, select]
     structure: [hierarchy]
     abstraction_level: generic
 
@@ -459,7 +459,7 @@ entries:
     kind: metaphor
     source_frame: seafaring
     embodied_patterns: [surface-depth, container, boundary, accretion]
-    relation_types: [prevent, transform, accumulate]
+    relation_types: [prevent, transform/refinement, accumulate]
     structure: [boundary]
     abstraction_level: generic
 
@@ -477,7 +477,7 @@ entries:
     kind: metaphor
     source_frame: medicine
     embodied_patterns: [boundary, flow, iteration, link]
-    relation_types: [cause, transform, accumulate]
+    relation_types: [cause/propagate, transform/corruption, accumulate]
     structure: [network, growth]
     abstraction_level: generic
 
@@ -485,7 +485,7 @@ entries:
     kind: metaphor
     source_frame: medicine
     embodied_patterns: [boundary, surface-depth, container]
-    relation_types: [cause, transform, translate]
+    relation_types: [cause/propagate, transform/corruption, translate]
     structure: [boundary]
     abstraction_level: specific
 
@@ -493,7 +493,7 @@ entries:
     kind: metaphor
     source_frame: medicine
     embodied_patterns: [surface-depth, matching, container]
-    relation_types: [cause, translate]
+    relation_types: [cause/misfit, translate]
     structure: [transformation]
     abstraction_level: specific
 
@@ -501,7 +501,7 @@ entries:
     kind: metaphor
     source_frame: medicine
     embodied_patterns: [link, merging, part-whole, matching]
-    relation_types: [enable, transform, restore]
+    relation_types: [enable, transform/synthesis, restore]
     structure: [transformation]
     abstraction_level: generic
 
@@ -519,7 +519,7 @@ entries:
     kind: metaphor
     source_frame: ecology
     embodied_patterns: [flow, force, scale, link]
-    relation_types: [cause, transform, coordinate]
+    relation_types: [cause/propagate, transform/metamorphosis, coordinate]
     structure: [hierarchy, pipeline]
     abstraction_level: specific
 
@@ -527,7 +527,7 @@ entries:
     kind: metaphor
     source_frame: ecology
     embodied_patterns: [boundary, surface-depth, merging, near-far]
-    relation_types: [enable, transform, accumulate]
+    relation_types: [enable, transform/synthesis, accumulate]
     structure: [boundary, emergence]
     abstraction_level: specific
 
@@ -535,7 +535,7 @@ entries:
     kind: metaphor
     source_frame: ecology
     embodied_patterns: [boundary, flow, force, iteration]
-    relation_types: [compete, transform, accumulate]
+    relation_types: [compete, transform/corruption, accumulate]
     structure: [competition, growth]
     abstraction_level: specific
 
@@ -543,7 +543,7 @@ entries:
     kind: metaphor
     source_frame: ecology
     embodied_patterns: [force, balance, surface-depth, boundary]
-    relation_types: [transform, cause, prevent]
+    relation_types: [transform/metamorphosis, cause/accumulate, prevent]
     structure: [equilibrium, transformation]
     abstraction_level: generic
 
@@ -553,7 +553,7 @@ entries:
     kind: metaphor
     source_frame: horticulture
     embodied_patterns: [accretion, flow, iteration, surface-depth]
-    relation_types: [enable, transform, accumulate]
+    relation_types: [enable, transform/refinement, accumulate]
     structure: [cycle, growth]
     abstraction_level: primitive
 
@@ -561,7 +561,7 @@ entries:
     kind: metaphor
     source_frame: horticulture
     embodied_patterns: [flow, link, surface-depth, part-whole]
-    relation_types: [cause, contain, prevent]
+    relation_types: [cause/propagate, contain, prevent]
     structure: [pipeline]
     abstraction_level: specific
 
@@ -605,7 +605,7 @@ entries:
     kind: metaphor
     source_frame: science-fiction
     embodied_patterns: [merging, force, link, part-whole]
-    relation_types: [cause, transform, enable]
+    relation_types: [cause/compel, transform/metamorphosis, enable]
     structure: [transformation]
     abstraction_level: generic
 
@@ -621,7 +621,7 @@ entries:
     kind: mental-model
     source_frame: science-fiction
     embodied_patterns: [force, iteration, scale, removal]
-    relation_types: [transform, cause, accumulate]
+    relation_types: [transform/corruption, cause/compel, accumulate]
     structure: [growth]
     abstraction_level: generic
 
@@ -629,7 +629,7 @@ entries:
     kind: metaphor
     source_frame: science-fiction
     embodied_patterns: [container, center-periphery, force, superimposition]
-    relation_types: [contain, prevent, coordinate, transform]
+    relation_types: [contain, prevent, coordinate, transform/corruption]
     structure: [hierarchy, boundary]
     abstraction_level: generic
 
@@ -639,7 +639,7 @@ entries:
     kind: mental-model
     source_frame: governance
     embodied_patterns: [center-periphery, scale, force]
-    relation_types: [cause, transform, prevent]
+    relation_types: [cause/compel, transform/corruption, prevent]
     structure: [hierarchy]
     abstraction_level: generic
 
@@ -663,7 +663,7 @@ entries:
     kind: paradigm
     source_frame: governance
     embodied_patterns: [container, part-whole, link]
-    relation_types: [cause, select, transform]
+    relation_types: [cause/propagate, select, transform/corruption]
     structure: [hierarchy]
     abstraction_level: generic
 
@@ -673,7 +673,7 @@ entries:
     kind: mental-model
     source_frame: theatrical-directing
     embodied_patterns: [matching, part-whole, force]
-    relation_types: [select, enable, cause]
+    relation_types: [select, enable, cause/propagate]
     structure: [hierarchy]
     abstraction_level: generic
 
@@ -725,7 +725,7 @@ entries:
     kind: metaphor
     source_frame: embodied-experience
     embodied_patterns: [force, link, scale, path]
-    relation_types: [enable, transform]
+    relation_types: [enable, transform/synthesis]
     structure: [pipeline]
     abstraction_level: generic
 
@@ -757,7 +757,7 @@ entries:
     kind: metaphor
     source_frame: food-and-cooking
     embodied_patterns: [link, merging, part-whole]
-    relation_types: [contain, prevent, cause]
+    relation_types: [contain, prevent, cause/constrain]
     structure: [network]
     abstraction_level: generic
 
@@ -801,7 +801,7 @@ entries:
     kind: metaphor
     source_frame: journeys
     embodied_patterns: [path, near-far, scale, force]
-    relation_types: [compete, select, cause]
+    relation_types: [compete, select, cause/compel]
     structure: [competition, pipeline]
     abstraction_level: primitive
 
@@ -837,7 +837,7 @@ entries:
     kind: mental-model
     source_frame: ecology
     embodied_patterns: [iteration, accretion, force, balance]
-    relation_types: [transform, accumulate, cause, restore]
+    relation_types: [transform/metamorphosis, accumulate, cause/accumulate, restore]
     structure: [cycle, transformation]
     abstraction_level: generic
 
@@ -845,7 +845,7 @@ entries:
     kind: mental-model
     source_frame: social-roles
     embodied_patterns: [link, near-far, scale]
-    relation_types: [enable, translate, transform]
+    relation_types: [enable, translate, transform/refinement]
     structure: [hierarchy]
     abstraction_level: generic
 

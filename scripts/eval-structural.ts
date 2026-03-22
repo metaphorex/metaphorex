@@ -121,10 +121,68 @@ function jaccard(a: string[], b: string[]): number {
   return union === 0 ? 0 : intersection / union;
 }
 
+// IDF-style weights: common values get downweighted, rare values boosted
+const RELATION_WEIGHTS: Record<string, number> = {
+  cause: 0.3, transform: 0.3,           // overrepresented (50%+ of catalog)
+  prevent: 0.8, enable: 0.8, contain: 0.8, // common but still useful
+  coordinate: 1.0, compete: 1.0, select: 1.0, accumulate: 1.0,
+  translate: 1.3, decompose: 1.3, restore: 1.3, // rare = high signal
+};
+
+const EP_WEIGHTS: Record<string, number> = {
+  force: 0.5, path: 0.5, container: 0.6, // overrepresented
+  boundary: 0.7, matching: 0.7, scale: 0.8,
+  flow: 0.9, "part-whole": 0.9, link: 0.9, balance: 0.9,
+  "surface-depth": 1.0, "near-far": 1.0, iteration: 1.0,
+  blockage: 1.0, "center-periphery": 1.1,
+  accretion: 1.2, removal: 1.1, splitting: 1.2,
+  merging: 1.3, "self-organization": 1.3,
+  superimposition: 1.3, attraction: 1.5,
+};
+
+function parentOf(v: string): string {
+  const idx = v.indexOf("/");
+  return idx >= 0 ? v.slice(0, idx) : v;
+}
+
+function weightedJaccard(a: string[], b: string[], weights: Record<string, number>): number {
+  const setA = new Set(a);
+  const setB = new Set(b);
+  let interWeight = 0;
+  let unionWeight = 0;
+
+  const bMatched = new Set<string>();
+  const all = new Set([...setA, ...setB]);
+
+  for (const v of all) {
+    const w = weights[parentOf(v)] ?? 1.0;
+    unionWeight += w;
+
+    if (setA.has(v) && setB.has(v)) {
+      // Exact match: full credit
+      interWeight += w;
+      bMatched.add(v);
+    } else if (setA.has(v) && v.includes("/")) {
+      // Check for parent-level match (cause/propagate ~ cause/compel → 0.3 credit)
+      const parent = parentOf(v);
+      let found = false;
+      for (const bv of setB) {
+        if (!bMatched.has(bv) && parentOf(bv) === parent && bv !== v) {
+          interWeight += w * 0.3;
+          bMatched.add(bv);
+          found = true;
+          break;
+        }
+      }
+    }
+  }
+  return unionWeight === 0 ? 0 : interWeight / unionWeight;
+}
+
 /** Weighted faceted similarity across all structural tag fields */
 function facetedSim(a: EvalEntry, b: EvalEntry): number {
-  const epSim = jaccard(a.embodied_patterns, b.embodied_patterns);
-  const rtSim = jaccard(a.relation_types, b.relation_types);
+  const epSim = weightedJaccard(a.embodied_patterns, b.embodied_patterns, EP_WEIGHTS);
+  const rtSim = weightedJaccard(a.relation_types, b.relation_types, RELATION_WEIGHTS);
   const stSim = jaccard(a.structure, b.structure);
   const alSim = a.abstraction_level === b.abstraction_level ? 1.0 : 0.0;
 

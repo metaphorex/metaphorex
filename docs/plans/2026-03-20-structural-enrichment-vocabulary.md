@@ -122,12 +122,27 @@ connects domains that share no surface similarity.
 
 ### Values
 
+Relation types support optional `/` subtypes for finer discrimination.
+Bare types (`cause`, `transform`) are always valid. Subtypes are optional
+and additive --- use them when the distinction matters for retrieval.
+
 | Value | Meaning | Canonical example |
 |---|---|---|
-| `cause` | X produces/creates Y | Butterfly effect, contagion, domino effect |
+| `cause` | X produces/creates Y (generic) | Butterfly effect, contagion |
+| `cause/compel` | Force directly produces effect | Blast radius, activation energy |
+| `cause/propagate` | Effect flows downstream through a channel | Trophic cascade, viral spread |
+| `cause/constrain` | Containment/boundary produces pressure | Black box, bottleneck |
+| `cause/accumulate` | Buildup over time crosses threshold | Technical debt, regime shift |
+| `cause/couple` | Connection creates dependency | Bus factor, network effects |
+| `cause/misfit` | Mismatch between expectation and reality | Code smell, cargo cult |
 | `enable` | X makes Y possible without doing Y | Scaffolding, catalyst, platform |
 | `prevent` | X blocks/stops Y | Firewall, immune response, gatekeeper |
-| `transform` | X changes Y into Z, state change | Alchemy, metamorphosis, refining |
+| `transform` | X changes Y into Z (generic) | Alchemy, metamorphosis |
+| `transform/metamorphosis` | Irreversible state change across threshold | Death is a journey, chrysalis |
+| `transform/refinement` | Progressive improvement through iteration | Kaizen, sword forging, editing |
+| `transform/synthesis` | Combining parts into a new whole | Chimera, AI as prosthesis, merging |
+| `transform/corruption` | Degradation or loss of integrity | Virus, anger, invasive species |
+| `transform/reframing` | Seeing the same thing differently | Inversion, mirror, knowing is seeing |
 | `contain` | X holds, limits, or bounds Y | Sandbox, container, echo chamber |
 | `compete` | X and Y oppose each other over Z | Argument is war, natural selection, market |
 | `coordinate` | X aligns Y and Z toward coherence | Orchestra conductor, ATC, weaving |
@@ -142,6 +157,11 @@ connects domains that share no surface similarity.
 - Tag the **dominant relations in the transfers**, not exhaustive ones.
   Every metaphor technically involves many relations. Pick the 2-4 that
   are structurally load-bearing.
+- **Use subtypes when you can.** Bare `cause` and `transform` appear on
+  50%+ of entries and don't discriminate. `cause/propagate` and
+  `transform/refinement` are much more useful for retrieval.
+  If unsure of the subtype, bare is fine --- it still works, just less
+  precisely.
 - `translate` is the highest-signal tag for non-obvious retrieval. It
   connects Hollywood producers to dendritic cells to API gateways.
   Use it when the entry's core function is *making one domain legible
@@ -153,6 +173,19 @@ connects domains that share no surface similarity.
 - `select` vs `prevent`: selection implies choosing *among alternatives*.
   Prevention implies blocking a *specific* thing. A firewall `prevents`.
   Natural selection `selects`.
+- **Subtype decision guide for `cause`:**
+  - Does force directly produce the effect? → `cause/compel`
+  - Does the effect flow through a channel to downstream targets? → `cause/propagate`
+  - Does containment or boundary create pressure? → `cause/constrain`
+  - Does gradual buildup cross a threshold? → `cause/accumulate`
+  - Does connection create dependency? → `cause/couple`
+  - Does mismatch between representation and reality produce the effect? → `cause/misfit`
+- **Subtype decision guide for `transform`:**
+  - Irreversible state change across a clear threshold? → `transform/metamorphosis`
+  - Gradual improvement through repeated operations? → `transform/refinement`
+  - Combining distinct parts into a new whole? → `transform/synthesis`
+  - Degradation, loss of integrity, or parasitic takeover? → `transform/corruption`
+  - Same thing seen from a different angle? → `transform/reframing`
 
 ---
 

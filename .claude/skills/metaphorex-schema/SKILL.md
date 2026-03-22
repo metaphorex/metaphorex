@@ -153,9 +153,15 @@ surface domain. ~22 values: `container`, `boundary`, `center-periphery`,
 `accretion`, `self-organization`.
 
 **`relation_types[]`** — What the entry says one thing *does to* another.
-~12 values: `cause`, `enable`, `prevent`, `transform`, `contain`,
+12 base types with optional `/subtype` for finer discrimination.
+Base: `cause`, `enable`, `prevent`, `transform`, `contain`,
 `compete`, `coordinate`, `decompose`, `translate`, `select`,
 `accumulate`, `restore`.
+Cause subtypes: `cause/compel`, `cause/propagate`, `cause/constrain`,
+`cause/accumulate`, `cause/couple`, `cause/misfit`.
+Transform subtypes: `transform/metamorphosis`, `transform/refinement`,
+`transform/synthesis`, `transform/corruption`, `transform/reframing`.
+Prefer subtypes over bare `cause`/`transform` — they discriminate better.
 
 **`structure`** — Dominant topology. ~10 values: `hierarchy`, `network`,
 `pipeline`, `boundary`, `cycle`, `competition`, `growth`,
