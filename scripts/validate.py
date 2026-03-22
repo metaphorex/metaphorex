@@ -47,6 +47,22 @@ VALID_GROUNDING = {"proven", "established", "folk", "contested"}
 REJECTED_FIELDS = {"target_frame", "structural_properties", "failure_conditions"}
 REJECTED_KINDS = {"conceptual-metaphor", "dead-metaphor", "cross-field-mapping"}
 
+# Allowlists for frontmatter keys — unknown keys produce warnings
+ALLOWED_ENTRY_KEYS = {
+    "slug", "name", "kind", "source_frame", "applies_to", "categories",
+    "author", "contributors", "related", "grounding", "dead", "created",
+    "updated", "deprecated", "embodied_patterns", "relation_types",
+    "structure", "abstraction_level", "transfers", "limits", "harness",
+    "provenance",
+}
+ALLOWED_FRAME_KEYS = {
+    "slug", "name", "roles", "broader", "related", "abstract_roles",
+    "created", "updated",
+}
+ALLOWED_CATEGORY_KEYS = {
+    "slug", "name", "broader", "related", "created", "updated",
+}
+
 # Structural enrichment vocabularies (optional fields, validated when present)
 VALID_EMBODIED_PATTERNS = {
     "container", "boundary", "center-periphery", "surface-depth",
@@ -144,6 +160,11 @@ def validate_entry(path: Path, frame_slugs: set[str], category_slugs: set[str],
     post = frontmatter.load(path)
     meta = post.metadata
     prefix = f"catalog/entries/{path.name}"
+
+    # Check for unknown frontmatter keys
+    unknown_keys = set(meta.keys()) - ALLOWED_ENTRY_KEYS
+    for key in sorted(unknown_keys):
+        warnings.append(f"{prefix}: unknown frontmatter field '{key}'")
 
     # Check required fields
     for field in REQUIRED_MAPPING_FIELDS:
@@ -270,6 +291,11 @@ def validate_frame(path: Path, frame_slugs: set[str], errors: list[str], warning
     meta = post.metadata
     prefix = f"catalog/frames/{path.name}"
 
+    # Check for unknown frontmatter keys
+    unknown_keys = set(meta.keys()) - ALLOWED_FRAME_KEYS
+    for key in sorted(unknown_keys):
+        warnings.append(f"{prefix}: unknown frontmatter field '{key}'")
+
     for field in REQUIRED_FRAME_FIELDS:
         if field not in meta:
             errors.append(f"{prefix}: missing required field '{field}'")
@@ -290,6 +316,11 @@ def validate_category(path: Path, category_slugs: set[str], errors: list[str], w
     post = frontmatter.load(path)
     meta = post.metadata
     prefix = f"catalog/categories/{path.name}"
+
+    # Check for unknown frontmatter keys
+    unknown_keys = set(meta.keys()) - ALLOWED_CATEGORY_KEYS
+    for key in sorted(unknown_keys):
+        warnings.append(f"{prefix}: unknown frontmatter field '{key}'")
 
     for field in REQUIRED_CATEGORY_FIELDS:
         if field not in meta:
