@@ -23,7 +23,6 @@ harness: Claude Code
 embodied_patterns:
   - force
   - removal
-  - container
 relation_types:
   - transform/corruption
   - cause/accumulate

@@ -26,7 +26,7 @@ embodied_patterns:
   - force
 relation_types:
   - cause/compel
-  - coordinate
+  - prevent
   - contain
 structure: hierarchy
 abstraction_level: generic
