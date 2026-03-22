@@ -2,7 +2,7 @@
 slug: ai-alignment-is-training-an-animal
 name: AI Alignment Is Training an Animal
 kind: metaphor
-source_frame: animal-behavior
+source_frame: animal-training
 applies_to:
   - artificial-intelligence
 categories:

@@ -2,7 +2,7 @@
 slug: training-wheels
 name: Training Wheels
 kind: metaphor
-source_frame: education
+source_frame: cycling
 applies_to:
   - learning-and-development
   - software-engineering
