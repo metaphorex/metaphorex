@@ -34,7 +34,7 @@ relation_types:
   - coordinate
   - enable
   - cause/couple
-structure: emergence
+structure: network
 abstraction_level: generic
 ---
 
