@@ -3,6 +3,15 @@ slug: rough-around-the-edges
 name: Rough Around the Edges
 kind: metaphor
 dead: true
+embodied_patterns:
+  - surface-depth
+  - boundary
+  - iteration
+relation_types:
+  - transform/refinement
+  - cause/misfit
+structure: transformation
+abstraction_level: generic
 source_frame: carpentry
 applies_to:
 - quality-and-craftsmanship

@@ -2,6 +2,16 @@
 slug: read-the-grain
 name: Read the Grain
 kind: metaphor
+embodied_patterns:
+  - surface-depth
+  - matching
+  - force
+relation_types:
+  - enable
+  - cause/constrain
+  - transform/reframing
+structure: pipeline
+abstraction_level: generic
 source_frame: carpentry
 applies_to:
 - materials
