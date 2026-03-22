@@ -3,6 +3,16 @@ slug: against-the-grain
 name: Against the Grain
 kind: metaphor
 dead: true
+embodied_patterns:
+  - force
+  - path
+  - surface-depth
+relation_types:
+  - prevent
+  - cause/compel
+  - transform/corruption
+structure: transformation
+abstraction_level: generic
 source_frame: carpentry
 applies_to:
 - social-dynamics

@@ -2,6 +2,16 @@
 slug: constraint-enables-creativity
 name: Constraint Enables Creativity
 kind: mental-model
+embodied_patterns:
+  - container
+  - blockage
+  - force
+relation_types:
+  - enable
+  - cause/constrain
+  - transform/reframing
+structure: boundary
+abstraction_level: generic
 source_frame: visual-arts-practice
 categories:
 - cognitive-science

@@ -2,6 +2,16 @@
 slug: too-much-freedom-inhibits-choice
 name: Too Much Freedom Inhibits Choice
 kind: mental-model
+embodied_patterns:
+  - scale
+  - blockage
+  - container
+relation_types:
+  - prevent
+  - cause/accumulate
+  - cause/constrain
+structure: equilibrium
+abstraction_level: generic
 source_frame: visual-arts-practice
 categories:
 - decision-making
