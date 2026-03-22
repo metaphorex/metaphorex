@@ -269,6 +269,36 @@ git -c user.name="m4x-miner" -c user.email="miner@metaphorex.org" commit ...
 
 If the token is NOT set, use default auth (no prefix needed).
 
+**Pre-PR Rebase (MANDATORY):**
+
+Before creating any PR, you MUST ensure your branch is up to date with main.
+Stale branches cause phantom content deletions in the PR diff — recently-merged
+entries appear as deletions when the branch diverged before those merges.
+
+1. Fetch latest main:
+   ```bash
+   git fetch origin main
+   ```
+2. Check if main is already an ancestor of your branch:
+   ```bash
+   git merge-base --is-ancestor origin/main HEAD && echo "UP TO DATE" || echo "NEEDS REBASE"
+   ```
+3. If NOT up to date, rebase onto main:
+   ```bash
+   git rebase origin/main
+   ```
+   If the rebase has conflicts, resolve them, then `git rebase --continue`.
+4. Re-run the validator after rebase:
+   ```bash
+   uv run scripts/validate.py validate
+   ```
+   Fix any errors before proceeding.
+5. Only after the branch is rebased and the validator passes, proceed to
+   `gh pr create`.
+
+Do NOT skip these steps. A PR with phantom deletions will be rejected by the
+Assayer and waste a review cycle.
+
 **Git Workflow:**
 
 - Create a branch: `mine/<project-name>/<slug>`
