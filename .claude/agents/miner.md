@@ -118,10 +118,25 @@ If invoked without a specific project or issue:
 **Process (project sub-issues):**
 
 1. Read the playbook at `playbooks/<project-name>/playbook.md`
-2. List sub-issues using the parent's native GitHub sub-issues:
-   ```bash
-   gh api graphql -f query='{ repository(owner: "metaphorex", name: "metaphorex") { issue(number: <PARENT>) { subIssues(first: 100) { nodes { number title state labels(first: 5) { nodes { name } } } } } } }'
-   ```
+2. Discover sub-issues — prefer REST over GraphQL:
+   - **Primary:** Use `gh issue list` with label and state filters to find
+     sub-issues for the project. This is reliable and avoids phantom numbers.
+     ```bash
+     gh issue list -R metaphorex/metaphorex --label "<project-label>" --state open --json number,title,labels,assignees
+     ```
+   - **Fallback:** If no project label exists, use GraphQL subIssues:
+     ```bash
+     gh api graphql -f query='{ repository(owner: "metaphorex", name: "metaphorex") { issue(number: <PARENT>) { subIssues(first: 100) { nodes { number title state labels(first: 5) { nodes { name } } } } } } }'
+     ```
+     **WARNING:** The GraphQL subIssues field can return phantom issue numbers
+     that no longer resolve via REST (404). After getting results from GraphQL,
+     you MUST verify each issue exists before attempting to claim it:
+     ```bash
+     gh issue view <NUMBER> -R metaphorex/metaphorex --json number 2>/dev/null
+     ```
+     If an issue returns a non-zero exit code or 404, skip it silently and
+     move to the next candidate. Do not log an error or file a kaizen for
+     individual phantom numbers — this is a known GitHub API quirk.
 3. Filter to unprocessed sub-issues (open, no linked PR, no `in-progress`)
 4. Claim the issue (add `in-progress` label)
 5. For each sub-issue:
