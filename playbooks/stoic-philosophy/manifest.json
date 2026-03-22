@@ -1,0 +1,191 @@
+{
+  "project": "stoic-philosophy",
+  "project_issue": 2390,
+  "source_type": "vein",
+  "archive_urls": [
+    "https://people.wku.edu/jan.garrett/stoa/metepict.htm",
+    "https://donaldrobertson.name/2019/10/29/stoicism-as-a-ball-game/",
+    "https://dailystoic.com/glossary/",
+    "https://classics.mit.edu/Epictetus/epicench.html",
+    "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart"
+  ],
+  "already_mined": [
+    "dichotomy-of-control",
+    "negative-visualization",
+    "memento-mori",
+    "the-mind-is-a-citadel",
+    "life-is-a-play",
+    "amor-fati",
+    "the-obstacle-is-the-way",
+    "view-from-above",
+    "the-dog-tied-to-the-cart",
+    "sympatheia"
+  ],
+  "candidates": [
+    {
+      "slug": "impressions-are-visitors-at-the-door",
+      "name": "Impressions Are Visitors at the Door",
+      "kind": "metaphor",
+      "source_frame": "household-management",
+      "target_frame": "cognition-and-reasoning",
+      "categories": ["philosophy", "psychology"],
+      "source": "llm",
+      "archive_ref": "Epictetus, Discourses II.18; Garrett (WKU) 'Impression as Possible Tempter' analysis; Enchiridion 1",
+      "description": "Epictetus treats mental impressions (phantasiai) as persons arriving at one's door who must be examined before being admitted. The source frame is a householder receiving visitors: some are welcome, some are frauds, and the doorkeeper's job is to test credentials before granting entry. Maps onto the Stoic discipline of assent (synkatathesis). Structurally rich because the householder has genuine agency -- unlike a mirror that passively reflects, a doorkeeper actively interrogates."
+    },
+    {
+      "slug": "life-is-a-ball-game",
+      "name": "Life Is a Ball Game",
+      "kind": "metaphor",
+      "source_frame": "athletics-and-combat",
+      "target_frame": "ethics-and-morality",
+      "categories": ["philosophy"],
+      "source": "llm",
+      "archive_ref": "Chrysippus via Seneca, De Beneficiis II.17; Epictetus, Discourses II.5; Robertson (2019) 'Stoicism as a Ball Game'",
+      "description": "Chrysippus' metaphor: life is like harpastum (a Roman ball game). Players care about skillful play, not the ball itself. The ball represents external goods (wealth, health, reputation) -- indifferent in themselves, but the medium through which skill is expressed. You throw and catch with excellence, but you do not weep when the ball is lost. Structurally maps the Stoic distinction between preferred indifferents and virtue."
+    },
+    {
+      "slug": "life-is-a-game-of-dice",
+      "name": "Life Is a Game of Dice",
+      "kind": "metaphor",
+      "source_frame": "dice-and-games",
+      "target_frame": "ethics-and-morality",
+      "categories": ["philosophy", "decision-making"],
+      "source": "llm",
+      "archive_ref": "Epictetus, Discourses II.5.2-4; Plato, Republic 604c (antecedent); Marcus Aurelius, Meditations IX.3",
+      "description": "Life is a dice game: the throw is not up to you, but how you play the numbers is. Epictetus explicitly: 'Accept the throw and use it as well as you can.' The source frame supplies the critical structural distinction between randomness (the throw) and skill (the play). Unlike the ball game metaphor, this one foregrounds luck and removes the competitive/social dimension -- you play against circumstance, not opponents."
+    },
+    {
+      "slug": "the-mind-is-a-jar-of-water",
+      "name": "The Mind Is a Jar of Water",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "cognition-and-reasoning",
+      "categories": ["philosophy", "psychology"],
+      "source": "llm",
+      "archive_ref": "Epictetus, Discourses III.3.20-22; Garrett (WKU) metaphor analysis",
+      "description": "Epictetus compares the ruling faculty (hegemonikon) to a vessel of clear water. Impressions are like a beam of light entering the water: when the water is still, the light appears straight and true. When the water is agitated (by passion), the light appears distorted -- but the light itself has not changed. The structural point: emotional disturbance does not change external reality; it changes our capacity to perceive it accurately."
+    },
+    {
+      "slug": "philosophy-is-medicine",
+      "name": "Philosophy Is Medicine",
+      "kind": "metaphor",
+      "source_frame": "medicine-and-healing",
+      "target_frame": "philosophy",
+      "categories": ["philosophy", "psychology"],
+      "source": "llm",
+      "archive_ref": "Epictetus, Discourses III.23.30; Seneca, Epistles 75.7, 94.24; Marcus Aurelius, Meditations V.9",
+      "description": "The Stoic school is a hospital, not a lecture hall. Epictetus: 'A philosopher's school is a doctor's clinic. You should not leave feeling pleasure but pain.' The source frame maps philosophy onto the medical domain: doctrines are prescriptions, vices are diseases, the philosopher is the physician, and the student is the patient. Structurally important because it implies philosophy should produce discomfort (like surgery), not entertainment."
+    },
+    {
+      "slug": "virtue-is-the-art-of-living",
+      "name": "Virtue Is the Art of Living",
+      "kind": "metaphor",
+      "source_frame": "craftsmanship",
+      "target_frame": "ethics-and-morality",
+      "categories": ["philosophy"],
+      "source": "llm",
+      "archive_ref": "Epictetus, Discourses I.15.2, IV.1; Seneca, Epistles 90.44; Zeno via Stobaeus (fragment); Chrysippus (DL VII.87)",
+      "description": "The foundational Stoic metaphor: virtue (arete) is a techne -- a craft or art, specifically the art of living (techne tou biou). Like any craft, it requires materials (circumstances), training (askesis), and produces a product (the well-lived life). The craftsman does not blame the material. The critical transfer: just as a sculptor's excellence is distinct from the marble's quality, ethical excellence is distinct from the quality of one's circumstances."
+    },
+    {
+      "slug": "the-wrestler",
+      "name": "The Wrestler",
+      "kind": "metaphor",
+      "source_frame": "athletics-and-combat",
+      "target_frame": "ethics-and-morality",
+      "categories": ["philosophy"],
+      "source": "llm",
+      "archive_ref": "Marcus Aurelius, Meditations VII.61; Epictetus, Discourses I.18.21, III.10.6-7; Seneca, Epistles 78.16",
+      "description": "Marcus Aurelius: 'The art of living is more like wrestling than dancing.' The wrestler must respond to an unpredictable opponent with constant readiness, unlike the dancer who follows a choreographed sequence. Source frame: the pankration (no-holds-barred wrestling). Key structural transfer: life requires reactive readiness, not scripted performance. The metaphor breaks importantly -- a wrestler tries to defeat the opponent, but the Stoic is not trying to defeat life."
+    },
+    {
+      "slug": "the-promontory",
+      "name": "The Promontory",
+      "kind": "metaphor",
+      "source_frame": "geology-and-landscape",
+      "target_frame": "psychology",
+      "categories": ["philosophy", "psychology"],
+      "source": "llm",
+      "archive_ref": "Marcus Aurelius, Meditations IV.49",
+      "description": "Marcus Aurelius: 'Be like a promontory against which the waves continually break. It stands firm and tames the fury of the water around it.' The geological source frame is structurally precise: the promontory does not fight the waves, does not move, does not even notice individual waves. It is simply what it is, and the waves exhaust themselves against it. The promontory's firmness is not effort but nature. Maps onto Stoic equanimity as a settled state, not an ongoing struggle."
+    },
+    {
+      "slug": "time-is-a-river",
+      "name": "Time Is a River",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "time-and-temporality",
+      "categories": ["philosophy"],
+      "source": "llm",
+      "archive_ref": "Marcus Aurelius, Meditations IV.43, VI.15; Heraclitus (antecedent, panta rhei); Seneca, Epistles 58.22-23",
+      "description": "Marcus: 'Time is a river of passing events, and strong is its current. No sooner is a thing brought to sight than it is swept by and another takes its place, and this too will be swept away.' Builds on Heraclitean flux but adds the Stoic ethical dimension: the river's current is a reason to attend to the present, not an argument for nihilism. Structurally: the river is one-directional, objects in it are transient, and standing in it requires balance."
+    },
+    {
+      "slug": "the-archer",
+      "name": "The Archer",
+      "kind": "metaphor",
+      "source_frame": "archery",
+      "target_frame": "ethics-and-morality",
+      "categories": ["philosophy", "decision-making"],
+      "source": "llm",
+      "archive_ref": "Cicero, De Finibus III.22 (reporting Stoic doctrine); Antipater of Tarsus (attributed); Chrysippus (attributed via Plutarch)",
+      "description": "The Stoic archer aims with full skill and intention, but once the arrow leaves the bow, the outcome is beyond control. The archer's excellence (arete) lies in the aiming, not the hitting. Wind, target movement, equipment failure -- all outside the sphere of choice. This is the Stoic doctrine of 'doing everything in one's power' (to eph' hemin) crystallized as image. Critical limit: it assumes the target is correctly identified, which is itself a judgment call the metaphor does not address."
+    },
+    {
+      "slug": "life-is-a-banquet",
+      "name": "Life Is a Banquet",
+      "kind": "metaphor",
+      "source_frame": "banqueting",
+      "target_frame": "ethics-and-morality",
+      "categories": ["philosophy"],
+      "source": "llm",
+      "archive_ref": "Epictetus, Enchiridion 15; classics.mit.edu/Epictetus/epicench.html",
+      "description": "Epictetus: 'Remember that you must behave as at a banquet. Is anything brought round to you? Put out your hand and take a moderate share. Does it pass you? Do not stop it. Is it not yet come? Do not yearn in desire towards it, but wait till it reaches you.' The source frame supplies crucial structure: dishes circulate, you take what is offered, you do not grab or hoard. The banquet guest who lunges across the table is socially disgraced. Maps greed and anxiety onto bad table manners."
+    },
+    {
+      "slug": "the-helmsman",
+      "name": "The Helmsman",
+      "kind": "metaphor",
+      "source_frame": "navigation",
+      "target_frame": "ethics-and-morality",
+      "categories": ["philosophy"],
+      "source": "llm",
+      "archive_ref": "Epictetus, Enchiridion 7; Seneca, Epistles 16.3, 85.33-34; Marcus Aurelius, Meditations XII.22",
+      "description": "The Stoic sage as helmsman (kubernetes): navigating through storms, adjusting to wind and wave, maintaining course toward virtue. Epictetus uses the variant where the ship puts into port and the captain calls passengers back aboard -- you may go ashore briefly (enjoy life's pleasures) but when the captain calls, you must return immediately and leave everything behind. The key transfer: the helmsman does not control the sea but masters the response to it."
+    },
+    {
+      "slug": "character-is-a-wax-seal",
+      "name": "Character Is a Wax Seal",
+      "kind": "metaphor",
+      "source_frame": "craftsmanship",
+      "target_frame": "psychology",
+      "categories": ["philosophy", "psychology"],
+      "source": "llm",
+      "archive_ref": "Zeno of Citium (DL VII.45-46); Cleanthes (fragment via Sextus Empiricus, Adversus Mathematicos VII.228); Marcus Aurelius, Meditations IV.20",
+      "description": "The soul receives impressions as wax receives the imprint of a seal ring (signet). The quality of the impression depends on the quality of the wax (the soul's condition) and the force of the stamp. Zeno originated the seal metaphor; Cleanthes elaborated it (arguing for the impression as a full physical alteration of the wax, not just a surface mark). Structurally: a wax seal is permanent once set; this maps the Stoic concern that repeated bad impressions harden into fixed character."
+    },
+    {
+      "slug": "we-are-puppets-on-strings",
+      "name": "We Are Puppets on Strings",
+      "kind": "metaphor",
+      "source_frame": "theater-and-performance",
+      "target_frame": "psychology",
+      "categories": ["philosophy", "psychology"],
+      "source": "llm",
+      "archive_ref": "Marcus Aurelius, Meditations II.2, III.16, VI.16, VII.3, XII.19; Plato, Laws 644d-645b (antecedent)",
+      "description": "Marcus repeatedly describes people as puppets jerked by their impulses: 'Don't let yourself be pulled around like a puppet by the strings of selfish impulse.' The source frame (marionette theater) maps onto the Stoic psychology of pathological passion: each passion is a string, each jerk is involuntary. The Stoic project is to cut the strings -- or rather, to take control of them by making assent conscious. Interestingly, Marcus uses this against himself, as self-warning, not as judgment of others."
+    },
+    {
+      "slug": "premeditatio-malorum",
+      "name": "Premeditatio Malorum",
+      "kind": "mental-model",
+      "source_frame": "military-strategy",
+      "target_frame": "psychology",
+      "categories": ["philosophy", "psychology", "decision-making"],
+      "source": "llm",
+      "archive_ref": "Seneca, Epistles 91.3-4, 107.2-4; Epictetus, Discourses III.24.84-88; Marcus Aurelius, Meditations XI.18.5",
+      "description": "The premeditation of adversity: systematically rehearsing future misfortunes in advance so they lose their shock value. Distinct from negative-visualization (which focuses on appreciating what you have by imagining its loss). Premeditatio is closer to military war-gaming: you enumerate what could go wrong, not to prevent it but to prepare your response. Source frame is strategic planning. Seneca: 'We should project our thoughts ahead of us at every turn and have in mind every possible eventuality instead of only the usual course of events.'"
+    }
+  ]
+}
