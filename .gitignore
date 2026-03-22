@@ -6,4 +6,7 @@ __pycache__/
 .envrc
 node_modules/
 catalog/embeddings.db
+site/src/data/neighbors.json
+site/src/data/tag-index.json
+site/dist/
 .claude/*.local.md

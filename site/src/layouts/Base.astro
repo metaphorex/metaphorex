@@ -317,7 +317,11 @@ const corpusVersion = new Date().toISOString().split("T")[0].replace(/-/g, ".");
     </nav>
     <div id="search"></div>
     <script is:inline>
-      new PagefindUI({ element: "#search", showSubResults: true });
+      new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        showEmptyFilters: false,
+      });
     </script>
     <slot />
     <footer>

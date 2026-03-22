@@ -1,6 +1,7 @@
 ---
 import Base from "@/layouts/Base.astro";
 import { getCollection, render } from "astro:content";
+import neighborsData from "@/data/neighbors.json";
 
 export async function getStaticPaths() {
   const entries = await getCollection("entries");
@@ -32,6 +33,18 @@ const provenanceWork = entry.data.provenance
   ? allWorks.find((w) => w.data.slug === entry.data.provenance)
   : null;
 
+// Structural neighbors (pre-computed at build time)
+const entryNeighbors = (neighborsData as any)[entry.data.slug];
+const crossDomain = entryNeighbors?.crossDomain ?? [];
+const sameDomain = entryNeighbors?.sameDomain ?? [];
+
+// Structural tags for display
+const ep = entry.data.embodied_patterns ?? [];
+const rt = entry.data.relation_types ?? [];
+const st = entry.data.structure;
+const stList = st ? (Array.isArray(st) ? st : [st]) : [];
+const al = entry.data.abstraction_level;
+
 function descriptionText() {
   const parts: string[] = [entry.data.name];
   if (sourceFrame) parts.push(`from ${sourceFrame.data.name}`);
@@ -42,6 +55,16 @@ function descriptionText() {
 
 <Base title={entry.data.name} description={descriptionText()}>
   <article data-pagefind-body>
+    {/* Pagefind filter metadata — hidden, enables faceted search */}
+    <div style="display:none">
+      <span data-pagefind-filter="kind">{entry.data.kind}</span>
+      {entry.data.source_frame && <span data-pagefind-filter="frame">{entry.data.source_frame}</span>}
+      {ep.map((v: string) => <span data-pagefind-filter="pattern">{v}</span>)}
+      {rt.map((v: string) => <span data-pagefind-filter="relation">{v}</span>)}
+      {stList.map((v: string) => <span data-pagefind-filter="structure">{v}</span>)}
+      {al && <span data-pagefind-filter="level">{al}</span>}
+    </div>
+
     <h1>{entry.data.name}</h1>
 
     <p class="muted">
@@ -96,6 +119,43 @@ function descriptionText() {
             <li><a href={`/entries/${r.data.slug}/`}>{r.data.name}</a></li>
           ))}
         </ul>
+      </>
+    )}
+
+    {crossDomain.length > 0 && (
+      <>
+        <h2>Structural Neighbors</h2>
+        <p class="muted">Entries from different domains that share structural shape.
+          Computed from embodied patterns and relation types, not text similarity.</p>
+        <ul class="neighbors">
+          {crossDomain.map((n: any) => (
+            <li>
+              <a href={`/entries/${n.slug}/`}>{n.name}</a>
+              <span class="muted"> ({n.sourceFrame}/{n.kind})</span>
+              {n.sharedEp.length > 0 && (
+                <span class="muted neighbor-tags">
+                  {" "}{n.sharedEp.concat(n.sharedRt).join(", ")}
+                </span>
+              )}
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    {ep.length > 0 && (
+      <>
+        <h2>Structural Tags</h2>
+        <p class="muted">
+          Patterns: {ep.map((v: string) => <span class="tag">{v}</span>)}
+        </p>
+        <p class="muted">
+          Relations: {rt.map((v: string) => <span class="tag">{v}</span>)}
+        </p>
+        <p class="muted">
+          Structure: {stList.map((v: string) => <span class="tag">{v}</span>)}
+          {al && <>{" "}Level: <span class="tag">{al}</span></>}
+        </p>
       </>
     )}
 
