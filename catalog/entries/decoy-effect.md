@@ -13,7 +13,7 @@ related:
   - framing-effect
   - loss-aversion
 created: '2026-03-21'
-updated: '2026-03-21'
+updated: '2026-03-22'
 grounding: proven
 harness: Claude Code
 embodied_patterns:
@@ -26,12 +26,12 @@ relation_types:
 structure: competition
 abstraction_level: generic
 transfers:
-  - '[model] introducing an asymmetrically dominated option shifts preference toward the option that dominates it, without being chosen itself'
-  - '[model] the decoy works by creating a local comparison that makes the target option look decisively better along at least one dimension'
-  - '[model] preferences between two options are not fixed properties but contextual -- they change when the choice set changes'
+  - '[law] introducing an asymmetrically dominated option shifts preference toward the option that dominates it, without being chosen itself'
+  - '[law] the decoy works by creating a local comparison that makes the target option look decisively better along at least one dimension'
+  - '[law] preferences between two options are not fixed properties but contextual -- they change when the choice set changes'
 limits:
-  - '[model] breaks when decision-makers are experienced or highly motivated to optimize, as expertise reduces susceptibility to context-dependent preference shifts'
-  - '[model] misleads by implying that all third options function as decoys, when many genuinely expand the choice set rather than distorting it'
+  - '[law] breaks when decision-makers are experienced or highly motivated to optimize, as expertise reduces susceptibility to context-dependent preference shifts'
+  - '[law] misleads by implying that all third options function as decoys, when many genuinely expand the choice set rather than distorting it'
 ---
 
 ## Transfers

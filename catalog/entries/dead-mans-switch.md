@@ -2,9 +2,10 @@
 slug: dead-mans-switch
 name: Dead Man's Switch
 kind: metaphor
-source_frame: physical-security
+source_frame: safety-systems
 applies_to:
-  - safety-systems
+  - distributed-systems
+  - information-security
 categories:
   - software-engineering
 author: agent:metaphorex-miner
@@ -13,7 +14,7 @@ related:
   - dead-code
   - heartbeat
 created: '2026-03-21'
-updated: '2026-03-21'
+updated: '2026-03-22'
 dead: false
 grounding: established
 harness: Claude Code
