@@ -229,6 +229,50 @@ When writing entries, prioritize:
 
 Avoid restating what any educated reader already knows about the metaphor.
 
+**Pre-PR Validation (frame recency check):**
+
+Before creating ANY PR (enrichment, project, or nugget), run these steps to
+avoid merge conflicts from frames that another miner already merged:
+
+1. **Rebase onto latest main:**
+   ```bash
+   git fetch origin main && git rebase origin/main
+   ```
+   If the rebase fails with conflicts on frame files (`catalog/frames/`),
+   resolve by taking main's version — the frame already exists and is
+   canonical:
+   ```bash
+   git checkout --theirs catalog/frames/<conflicting-file>
+   git add catalog/frames/<conflicting-file>
+   git rebase --continue
+   ```
+
+2. **Remove duplicate frames from the diff:**
+   After a successful rebase, check which frame files are still in your diff:
+   ```bash
+   git diff origin/main --name-only -- catalog/frames/
+   ```
+   For each frame file listed, check if it already exists on main:
+   ```bash
+   git show origin/main:catalog/frames/<file> 2>/dev/null && echo "EXISTS" || echo "NEW"
+   ```
+   If a frame file already exists on main and your version is identical or
+   only cosmetically different, drop your change:
+   ```bash
+   git checkout origin/main -- catalog/frames/<file>
+   ```
+   Then amend the commit to remove the redundant frame changes.
+
+3. **Re-run the validator** after rebase and frame cleanup:
+   ```bash
+   uv run scripts/validate.py validate
+   ```
+
+4. **Only then** proceed to `gh pr create`.
+
+This prevents PRs that conflict with frames merged by other miners, which the
+Smelter cannot resolve.
+
 **Git Safety (worktree guard):**
 
 Nested worktrees can cause commits on unintended branches. At the start of
