@@ -13,6 +13,7 @@ related:
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
+harness: Claude Code
 transfers:
   - '[model] Massing resources at a single decisive point produces disproportionate results compared to distributing the same resources evenly across all fronts'
   - '[model] Concentration requires choosing where NOT to fight -- the decision to mass at one point is simultaneously a decision to accept risk or weakness elsewhere'

@@ -16,6 +16,7 @@ related:
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
+harness: Claude Code
 transfers:
   - '[source] A circuit breaker monitors current flow and trips open when the load exceeds a safe threshold, physically severing the circuit to prevent heat buildup from destroying the wiring or connected devices'
   - '[source] The breaker has three distinct states -- closed (current flows freely), open (current is blocked), and a reset mechanism that allows the circuit to be re-closed once the fault is cleared'

@@ -17,6 +17,7 @@ related:
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
+harness: Claude Code
 transfers:
   - '[source] A request enters a sequence of handlers, each of which inspects the request and either processes it or passes it to the next handler, so that the sender never needs to know which handler ultimately acts'
   - '[source] Each handler in the chain decides independently whether to handle or forward, meaning responsibility is distributed across the chain rather than concentrated in a single dispatcher'

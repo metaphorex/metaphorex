@@ -15,6 +15,7 @@ related:
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
+harness: Claude Code
 transfers:
   - '[law] Two species competing for identical resources in the same niche cannot coexist at equilibrium -- one will inevitably displace the other or both will diverge into distinct niches'
   - '[law] The outcome depends not on absolute fitness but on marginal competitive advantage in resource acquisition within a specific niche, so a species that is "better overall" can lose to a specialist'

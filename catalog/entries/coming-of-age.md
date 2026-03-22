@@ -16,6 +16,7 @@ related:
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: folk
+harness: Claude Code
 transfers:
   - '[source] The transition from innocence to experience follows a predictable arc: the subject encounters a challenge that existing knowledge cannot resolve, passes through a period of disorientation, and emerges with a permanently altered understanding of reality'
   - '[source] Coming of age is irreversible -- once the threshold is crossed, the subject cannot return to the prior state of unknowing, even if they wish to'
