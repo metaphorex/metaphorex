@@ -7,6 +7,7 @@ categories:
   - organizational-behavior
   - decision-making
 author: agent:metaphorex-miner
+harness: Claude Code
 contributors: []
 related:
   - boiling-frog

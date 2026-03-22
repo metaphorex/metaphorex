@@ -7,6 +7,7 @@ categories:
   - decision-making
   - systems-thinking
 author: agent:metaphorex-miner
+harness: Claude Code
 contributors: []
 related:
   - feedback-loop

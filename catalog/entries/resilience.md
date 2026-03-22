@@ -7,6 +7,7 @@ categories:
   - systems-thinking
   - organizational-behavior
 author: agent:metaphorex-miner
+harness: Claude Code
 contributors: []
 related:
   - ecological-resilience

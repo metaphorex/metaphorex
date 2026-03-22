@@ -6,6 +6,7 @@ source_frame: psychology
 categories:
   - organizational-behavior
 author: agent:metaphorex-miner
+harness: Claude Code
 contributors: []
 related:
   - normalization-of-deviance
