@@ -19,7 +19,7 @@ related:
 - software-habitability
 - accidental-complexity
 slug: garden-growing-wild
-source_frame: architecture-and-building
+source_frame: horticulture
 transfers:
   - '[source] maps the vitality of a slightly wild garden onto the adaptive capacity of systems that retain organic irregularity, framing over-manicured architectures as sterile environments that resist the changes they were built to accommodate'
   - '[source] imports the horticultural principle that a garden''s health is measured by what grows in it, not by its conformance to a blueprint, teaching that a living system''s value comes from its inhabitants'' flourishing rather than its designer''s control'
