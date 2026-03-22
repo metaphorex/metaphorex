@@ -14,9 +14,18 @@ related:
   - the-line
 dead: false
 created: '2026-03-19'
-updated: '2026-03-19'
+updated: '2026-03-22'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - near-far
+  - boundary
+  - force
+relation_types:
+  - prevent
+  - coordinate
+structure: boundary
+abstraction_level: specific
 transfers:
   - '[source] the callout announces spatial presence before physical contact, converting potential collision into coordinated movement by making the invisible (who is behind you) audible'
   - '[source] the protocol is unilateral -- the approaching person calls out without waiting for acknowledgment, because in a high-tempo environment the cost of a missed call is a bump, while the cost of waiting for permission is a blocked path'

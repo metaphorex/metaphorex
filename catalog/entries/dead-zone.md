@@ -15,9 +15,19 @@ related:
   - tragedy-of-the-commons
   - dead-code
 created: '2026-03-20'
-updated: '2026-03-20'
+updated: '2026-03-22'
 grounding: established
 harness: Claude Code
+embodied_patterns:
+  - container
+  - blockage
+  - scale
+relation_types:
+  - cause/accumulate
+  - transform/corruption
+  - cause/propagate
+structure: cycle
+abstraction_level: generic
 transfers:
   - '[source] excess nutrients cause algal blooms that consume all dissolved oxygen, so the very resource that was supposed to promote growth becomes the mechanism of death through overabundance'
   - '[source] the dead zone is self-reinforcing: once oxygen drops below a threshold, the organisms that would have restored balance are the first to die, creating a positive feedback loop'

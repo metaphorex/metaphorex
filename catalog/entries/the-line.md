@@ -16,9 +16,19 @@ related:
   - dying-on-the-pass
 dead: false
 created: '2026-03-19'
-updated: '2026-03-19'
+updated: '2026-03-22'
 grounding: folk
 harness: Claude Code
+embodied_patterns:
+  - boundary
+  - path
+  - container
+relation_types:
+  - transform
+  - coordinate
+  - decompose
+structure: pipeline
+abstraction_level: specific
 transfers:
   - '[source] the line is a physical zone where raw ingredients become finished dishes under time pressure, mapping production space as a bounded region where transformation happens rather than where planning or storage occurs'
   - '[source] cooks are assigned fixed stations along the line (saute, grill, garde manger), so that each person owns a segment of the workflow and hands output to the next, structuring production as sequential territorial responsibility'
