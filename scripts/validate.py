@@ -9,6 +9,7 @@
 Usage:
     uv run scripts/validate.py validate          # validate all content
     uv run scripts/validate.py validate catalog/entries/ # validate specific dir
+    uv run scripts/validate.py validate --check-open-prs # also check for cross-PR frame conflicts
     uv run scripts/validate.py extract            # emit JSON to stdout
 """
 
@@ -16,6 +17,7 @@ from __future__ import annotations
 
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -398,6 +400,73 @@ def extract() -> list[dict]:
     return results
 
 
+def check_open_pr_frame_conflicts(warnings: list[str]) -> None:
+    """Check if any new frame files on this branch also appear in open PRs.
+
+    Uses ``git diff`` to find frames added locally, then queries GitHub via
+    ``gh`` for open PRs and inspects their diffs for overlapping paths.
+    Emits warnings (non-blocking) for each conflict found.
+    """
+    # 1. Determine new frame paths on the current branch vs main
+    try:
+        result = subprocess.run(
+            ["git", "diff", "origin/main", "--name-only", "--diff-filter=A",
+             "--", "catalog/frames/"],
+            capture_output=True, text=True, timeout=30,
+        )
+        local_new_frames = {
+            line.strip() for line in result.stdout.splitlines() if line.strip()
+        }
+    except (subprocess.SubprocessError, FileNotFoundError):
+        warnings.append("cross-pr-check: could not determine local new frames via git diff")
+        return
+
+    if not local_new_frames:
+        return  # nothing to check
+
+    # 2. List open PRs (number only)
+    try:
+        result = subprocess.run(
+            ["gh", "pr", "list", "--state", "open", "--json", "number",
+             "--limit", "100"],
+            capture_output=True, text=True, timeout=30,
+        )
+        if result.returncode != 0:
+            warnings.append(
+                "cross-pr-check: 'gh pr list' failed — is the GitHub CLI authenticated?"
+            )
+            return
+        prs = json.loads(result.stdout)
+    except (subprocess.SubprocessError, FileNotFoundError, json.JSONDecodeError):
+        warnings.append("cross-pr-check: could not list open PRs via gh CLI")
+        return
+
+    # 3. For each open PR, get its changed files and look for overlap
+    for pr in prs:
+        pr_num = pr["number"]
+        try:
+            result = subprocess.run(
+                ["gh", "pr", "diff", str(pr_num), "--name-only"],
+                capture_output=True, text=True, timeout=30,
+            )
+            if result.returncode != 0:
+                continue
+            pr_files = {
+                line.strip() for line in result.stdout.splitlines()
+                if line.strip()
+            }
+        except (subprocess.SubprocessError, FileNotFoundError):
+            continue
+
+        conflicts = local_new_frames & pr_files
+        for path in sorted(conflicts):
+            slug = Path(path).stem
+            warnings.append(
+                f"cross-pr-check: frame '{slug}' ({path}) also created "
+                f"in open PR #{pr_num} — potential merge conflict"
+            )
+
+
 def main() -> None:
     if len(sys.argv) < 2 or sys.argv[1] not in ("validate", "extract"):
         print(__doc__.strip())
@@ -406,8 +475,13 @@ def main() -> None:
     command = sys.argv[1]
 
     if command == "validate":
-        target = sys.argv[2] if len(sys.argv) > 2 else None
+        args = sys.argv[2:]
+        check_prs = "--check-open-prs" in args
+        remaining = [a for a in args if a != "--check-open-prs"]
+        target = remaining[0] if remaining else None
         errors, warnings = validate(target)
+        if check_prs:
+            check_open_pr_frame_conflicts(warnings)
         if warnings:
             print(f"{len(warnings)} warning(s) (dangling references, non-blocking):\n")
             for w in warnings:
