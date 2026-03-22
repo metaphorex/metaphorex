@@ -14,6 +14,7 @@ contributors: []
 related:
 - pipeline
 - bottleneck
+- the-chain-of-responsibility-pattern
 created: '2026-03-21'
 updated: '2026-03-21'
 grounding: established
