@@ -123,7 +123,33 @@ need to read multiple files or run the validator.
      restate common knowledge.
    - **Frames**: roles are meaningful and structural, not just keywords?
 4. For mechanical issues (formatting, missing field, typo), push a fixup
-   commit directly to the PR branch
+   commit directly to the PR branch.
+
+   **Making fixup commits (worktree-safe pattern):**
+
+   The assayer often runs in a worktree context where the parent repo paths
+   may not match Edit/Read tool expectations. To avoid path confusion, clone
+   the PR branch to a temporary directory, make edits there, then push:
+
+   ```bash
+   git clone --branch <branch> https://github.com/metaphorex/metaphorex /tmp/fixup-<pr-number>
+   ```
+
+   Make all edits in `/tmp/fixup-<pr-number>`, then commit and push:
+
+   ```bash
+   cd /tmp/fixup-<pr-number>
+   # ... edit files ...
+   git -c user.name="m4x-reviewer" -c user.email="reviewer@metaphorex.org" \
+     commit -am "fixup: <description>"
+   GH_TOKEN="$M4X_REVIEWER_TOKEN" git push
+   ```
+
+   Clean up when done:
+
+   ```bash
+   rm -rf /tmp/fixup-<pr-number>
+   ```
 5. For substantive issues (shallow analysis, fabricated expressions,
    wrong kind classification), request changes with specific feedback
 6. For quality work, approve with a brief note on what's strong
