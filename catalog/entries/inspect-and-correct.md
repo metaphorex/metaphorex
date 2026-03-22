@@ -14,7 +14,7 @@ related:
   - a-la-minute
 provenance: culinary-mise-en-place
 created: '2026-03-19'
-updated: '2026-03-19'
+updated: '2026-03-22'
 grounding: folk
 harness: Claude Code
 transfers:
@@ -24,6 +24,16 @@ transfers:
 limits:
   - '[model] assumes errors are detectable at inspection time, but in knowledge work many errors only become visible weeks or months later when their consequences emerge -- the equivalent of a dish that tastes fine on service but was contaminated during prep'
   - '[model] breaks when the inspection overhead exceeds the cost of the errors it catches, which happens in high-throughput low-consequence environments where most errors are self-correcting'
+embodied_patterns:
+  - iteration
+  - matching
+  - path
+relation_types:
+  - transform/refinement
+  - cause/propagate
+  - select
+structure: cycle
+abstraction_level: generic
 ---
 
 ## Transfers

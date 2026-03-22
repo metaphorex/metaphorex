@@ -15,7 +15,7 @@ related:
   - titration
   - yin-and-yang
 created: '2026-03-20'
-updated: '2026-03-20'
+updated: '2026-03-22'
 grounding: established
 harness: Claude Code
 transfers:
@@ -25,6 +25,18 @@ transfers:
 limits:
   - '[source] breaks because a physical pendulum is a deterministic system with predictable period and decay, while nervous-system oscillation between activation and resource states is nonlinear and influenced by relational context, memory, and meaning'
   - '[source] misleads because the metaphor implies a single axis of oscillation (activation vs. calm), while trauma responses involve multiple interacting systems -- autonomic, endocrine, cognitive -- that do not reduce to one degree of freedom'
+embodied_patterns:
+  - balance
+  - force
+  - iteration
+relation_types:
+  - restore
+  - transform/refinement
+  - cause/constrain
+structure:
+  - cycle
+  - equilibrium
+abstraction_level: generic
 ---
 
 ## Transfers

@@ -15,7 +15,7 @@ related:
   - passengers-on-the-bus
 provenance: psychotherapy-metaphors
 created: '2026-03-19'
-updated: '2026-03-19'
+updated: '2026-03-22'
 grounding: established
 harness: Claude Code
 transfers:
@@ -25,6 +25,16 @@ transfers:
 limits:
   - '[source] breaks because in a real tug-of-war, dropping the rope means the opponent wins and pulls you into the pit; the metaphor requires redefining "the pit" as the struggle itself, which is a second-order move the metaphor does not surface on its own'
   - '[source] misleads by implying that disengagement is always available as a simple motor act, when the psychological equivalent of "dropping the rope" may require years of practice and is itself a skill, not a single decision'
+embodied_patterns:
+  - force
+  - link
+  - balance
+relation_types:
+  - compete
+  - cause/couple
+  - prevent
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers
