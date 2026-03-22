@@ -16,6 +16,7 @@ related:
   - erosion
 created: '2026-03-21'
 updated: '2026-03-21'
+dead: false
 grounding: folk
 harness: Claude Code
 embodied_patterns:
