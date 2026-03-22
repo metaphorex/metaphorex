@@ -11,7 +11,7 @@ relation_types:
   - prevent
   - cause/compel
   - transform/corruption
-structure: competition
+structure: transformation
 abstraction_level: generic
 source_frame: carpentry
 applies_to:
