@@ -58,11 +58,19 @@ First, check if your token is available:
 
 If the token is set, prefix EVERY `gh` command:
 ```bash
-GH_TOKEN="$M4X_REVIEWER_TOKEN" gh pr review ...
 GH_TOKEN="$M4X_REVIEWER_TOKEN" gh pr edit ...
 GH_TOKEN="$M4X_REVIEWER_TOKEN" gh issue edit ...
 GH_TOKEN="$M4X_REVIEWER_TOKEN" gh api ...
 ```
+
+**Submitting PR reviews:** Do NOT use `gh pr review` — it silently prints
+help text instead of submitting in non-interactive contexts. Use the REST API:
+```bash
+GH_TOKEN="$M4X_REVIEWER_TOKEN" gh api --method POST \
+  repos/{owner}/{repo}/pulls/<N>/reviews \
+  --field event=APPROVE --field body="..."
+```
+For requesting changes, use `--field event=REQUEST_CHANGES`.
 
 And EVERY `git commit`:
 ```bash
