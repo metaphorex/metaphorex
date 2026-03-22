@@ -34,15 +34,6 @@ transfers:
 limits:
   - '[source] misleads by making hierarchies feel natural rather than constructed, so flat organizations sound like they are missing something rather than deliberately designed'
   - '[source] breaks for lateral and networked forms of power -- peer influence, cultural authority, and persuasion do not map onto the vertical axis, rendering soft power invisible'
-embodied_patterns:
-  - scale
-  - force
-  - center-periphery
-relation_types:
-  - cause
-  - contain
-structure: hierarchy
-abstraction_level: primitive
 ---
 
 ## Transfers

@@ -33,15 +33,6 @@ transfers:
 limits:
   - "[source] breaks because the Grail is a singular sacred object with one correct finder, while most 'holy grail' goals in science and business would benefit many finders simultaneously -- the exclusivity is an artifact of the source domain"
   - "[source] misleads because calling something 'the holy grail' implies it is worth any cost to pursue, suppressing rational cost-benefit analysis by framing the goal as sacred rather than instrumental"
-embodied_patterns:
-  - path
-  - near-far
-  - force
-relation_types:
-  - cause
-  - transform
-structure: competition
-abstraction_level: generic
 ---
 
 ## Transfers

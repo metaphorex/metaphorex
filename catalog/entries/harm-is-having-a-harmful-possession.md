@@ -37,15 +37,6 @@ transfers:
 limits:
   - '[source] misleads because the possession frame implies voluntary control, so "just let it go" becomes the prescription for recovery and can shade into victim-blaming'
   - '[source] breaks for systemic and diffuse harms (structural racism, environmental degradation) that cannot be packaged as discrete objects held by individual persons'
-embodied_patterns:
-  - container
-  - link
-  - force
-relation_types:
-  - cause
-  - contain
-structure: boundary
-abstraction_level: primitive
 ---
 
 ## Transfers

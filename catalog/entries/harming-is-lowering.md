@@ -37,15 +37,6 @@ transfers:
 limits:
   - '[source] misleads because not all harm involves descent -- betrayal damages trust laterally and isolation harms by removing connection, neither of which maps onto a clear directional change'
   - '[source] breaks when lowering is positive (humility, grounding, coming down to earth), conflicting with spiritual and cultural traditions that value descent and prostration'
-embodied_patterns:
-  - scale
-  - force
-  - path
-relation_types:
-  - cause
-  - transform
-structure: hierarchy
-abstraction_level: primitive
 ---
 
 ## Transfers

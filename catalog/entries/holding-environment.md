@@ -36,15 +36,6 @@ limits:
   - '[source] a container is inert and does not adapt its shape to its contents, but Winnicott''s holding is fundamentally responsive -- the caregiver adjusts continuously to the infant''s changing state, which is the opposite of passive enclosure'
   - '[source] containers have fixed boundaries that either hold or leak, but psychic holding is gradient and partial -- a "good enough" holding environment fails in small, survivable ways that are themselves developmentally necessary'
   - '[source] the container metaphor implies protection from external threats, obscuring that holding also manages internal pressures -- the infant''s own unintegrated impulses -- which have no parallel in physical containment'
-embodied_patterns:
-  - container
-  - boundary
-  - balance
-relation_types:
-  - contain
-  - enable
-structure: boundary
-abstraction_level: generic
 ---
 
 ## Transfers

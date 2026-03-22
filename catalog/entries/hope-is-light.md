@@ -35,15 +35,6 @@ transfers:
 limits:
   - '[source] misleads because light reveals what is actually there, while hope projects what might be there -- the metaphor conflates accurate perception with wishful anticipation'
   - '[source] breaks when hope is not illuminating but blinding, as in false hope that prevents someone from seeing their actual situation clearly, since the light frame has no natural way to express harmful illumination'
-embodied_patterns:
-  - near-far
-  - surface-depth
-  - scale
-relation_types:
-  - enable
-  - cause
-structure: boundary
-abstraction_level: primitive
 ---
 
 ## Transfers

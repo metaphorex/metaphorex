@@ -34,15 +34,6 @@ limits:
   - "[source] breaks because eating destroys the food, but reading a book leaves both the book and the idea intact"
   - "[source] misleads because digestion is an automatic bodily process, but comprehension requires active conscious effort"
   - "[source] obscures creation by casting the thinker as consumer rather than producer"
-embodied_patterns:
-  - container
-  - flow
-  - part-whole
-relation_types:
-  - transform
-  - cause
-structure: transformation
-abstraction_level: generic
 ---
 
 ## Transfers

@@ -34,15 +34,6 @@ structure:
   - growth
 abstraction_level: specific
 updated: '2026-03-16'
-embodied_patterns:
-  - force
-  - part-whole
-  - boundary
-relation_types:
-  - cause
-  - prevent
-structure: boundary
-abstraction_level: generic
 ---
 
 ## Transfers

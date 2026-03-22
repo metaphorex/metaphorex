@@ -37,15 +37,6 @@ transfers:
 limits:
   - '[source] misleads by presupposing a prior state of wholeness -- framing all deprivation as loss obscures the difference between losing something and never having had it'
   - '[source] breaks for harms that involve unwanted additions (intrusive thoughts, chronic pain, harassment) rather than subtractions, since the deprivation frame only speaks the language of not having enough'
-embodied_patterns:
-  - removal
-  - container
-  - force
-relation_types:
-  - cause
-  - prevent
-structure: boundary
-abstraction_level: primitive
 ---
 
 ## Transfers

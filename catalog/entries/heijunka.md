@@ -36,15 +36,6 @@ transfers:
 limits:
   - "[paradigm] breaks when demand is genuinely spiky and non-smoothable -- seasonal retail, emergency response, and event-driven systems face real surges that cannot be leveled without refusing or delaying service"
   - "[paradigm] assumes the production system can handle frequent changeovers between product variants, but in domains where switching costs are high (deep-focus knowledge work, capital-intensive retooling), the leveling cure can be worse than the batching disease"
-embodied_patterns:
-  - flow
-  - balance
-  - iteration
-relation_types:
-  - coordinate
-  - prevent
-structure: equilibrium
-abstraction_level: specific
 ---
 
 ## Transfers

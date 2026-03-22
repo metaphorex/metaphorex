@@ -35,15 +35,6 @@ transfers:
   - '[model] teaches the distinction between countable and uncountable infinity by showing that the room-shifting trick works for countably many new guests but fails for uncountably many, giving learners an operational test: "can you write an instruction each existing guest can follow?"'
   - '[model] demonstrates that "full" does not mean "no room for more" when dealing with infinite sets, forcing a revision of the everyday concept of capacity and revealing that finite intuitions about exhaustion break down categorically at infinity'
 updated: '2026-03-19'
-embodied_patterns:
-  - container
-  - scale
-  - iteration
-relation_types:
-  - contain
-  - transform
-structure: growth
-abstraction_level: generic
 ---
 
 ## Transfers

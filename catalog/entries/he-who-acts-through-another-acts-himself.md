@@ -36,15 +36,6 @@ structure:
   - network
 abstraction_level: generic
 updated: '2026-03-16'
-embodied_patterns:
-  - link
-  - merging
-  - force
-relation_types:
-  - cause
-  - coordinate
-structure: hierarchy
-abstraction_level: generic
 ---
 
 ## Transfers

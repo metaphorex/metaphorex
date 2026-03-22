@@ -36,15 +36,6 @@ transfers:
 limits:
   - '[source] misleads by treating harm as a property of a place rather than an action by an agent, hiding who caused the harm and naturalizing it as something that simply exists in certain areas'
   - '[source] breaks for punctual harms (a single blow, a sudden betrayal) that are events rather than states, since the location frame pushes toward duration and persistence'
-embodied_patterns:
-  - container
-  - surface-depth
-  - boundary
-relation_types:
-  - contain
-  - cause
-structure: boundary
-abstraction_level: primitive
 ---
 
 ## Transfers

@@ -37,15 +37,6 @@ transfers:
 limits:
   - '[source] misleads because harm without a clear goal becomes invisible, risking devaluation of harm done to people whose lives are not framed as progress narratives'
   - '[source] breaks by conflating harm with mere inconvenience, since both map onto obstruction and the metaphor provides no structural way to distinguish a minor delay from a catastrophic derailment'
-embodied_patterns:
-  - blockage
-  - path
-  - force
-relation_types:
-  - prevent
-  - cause
-structure: pipeline
-abstraction_level: primitive
 ---
 
 ## Transfers

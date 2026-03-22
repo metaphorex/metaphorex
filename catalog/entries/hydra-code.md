@@ -35,15 +35,6 @@ transfers:
 limits:
   - '[source] misleads because the Hydra regenerates identical heads, while real bug proliferation typically produces different kinds of failures in different subsystems rather than clones of the original defect'
   - '[source] breaks when the codebase problems stem from independent, unrelated issues rather than a shared root cause, since the Hydra metaphor assumes a single organism whose parts are interconnected'
-embodied_patterns:
-  - splitting
-  - link
-  - iteration
-relation_types:
-  - cause
-  - accumulate
-structure: growth
-abstraction_level: specific
 ---
 
 ## Transfers

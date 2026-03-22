@@ -35,15 +35,6 @@ transfers:
 limits:
   - '[model] breaks when applied to domains where the knowledge genuinely cannot be acquired through participation alone (formal mathematics, reading decoding), because the model has no mechanism for explicit instruction that contradicts the learner''s participatory intuitions'
   - '[model] misleads by implying all cultural learning is collaborative and benign, when much guided participation transmits harmful norms, rigid hierarchies, or exploitative labor practices -- the model lacks a critical dimension'
-embodied_patterns:
-  - link
-  - path
-  - matching
-relation_types:
-  - enable
-  - coordinate
-structure: network
-abstraction_level: generic
 ---
 
 ## Transfers

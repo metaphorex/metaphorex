@@ -43,15 +43,6 @@ transfers:
   \ purposes interchangeably, framing total simulation as a general-purpose\
   \ platform"
 updated: '2026-03-16'
-embodied_patterns:
-  - container
-  - boundary
-  - matching
-relation_types:
-  - contain
-  - transform
-structure: boundary
-abstraction_level: specific
 ---
 
 ## Transfers

@@ -30,15 +30,6 @@ transfers:
 limits:
   - "[model] assumes that all sides have roughly equal access to articulation, which fails when power asymmetries exist"
   - "[model] can be exploited to grant false equivalence to positions that lack evidentiary support"
-embodied_patterns:
-  - balance
-  - splitting
-  - matching
-relation_types:
-  - select
-  - enable
-structure: equilibrium
-abstraction_level: generic
 ---
 
 ## Transfers

@@ -33,15 +33,6 @@ transfers:
 limits:
   - "[source] breaks because Heracles possesses divine parentage that guarantees his physical capacity, while the metaphor is applied to ordinary humans facing tasks that may genuinely exceed their abilities"
   - "[source] misleads because the labors are sequential and independent, while real 'herculean tasks' typically involve interdependent, concurrent challenges with no clean separation into discrete stages"
-embodied_patterns:
-  - force
-  - path
-  - scale
-relation_types:
-  - compete
-  - transform
-structure: pipeline
-abstraction_level: generic
 ---
 
 ## Transfers
