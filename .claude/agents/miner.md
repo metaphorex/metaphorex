@@ -296,6 +296,32 @@ find work.
 
 If any of these three steps is missing, the entry is not done.
 
+
+**Pre-PR Frame Recency Check (REQUIRED before every PR):**
+
+Other miners may have merged frames since you branched. Before creating a PR,
+always rebase onto the latest main and deduplicate frames:
+
+1. Fetch and rebase:
+   ```bash
+   git fetch origin main && git rebase origin/main
+   ```
+2. If the rebase has conflicts on frame files that already exist on main,
+   resolve by accepting main's version (`git checkout --theirs <path>` then
+   `git add <path>`), then `git rebase --continue`.
+3. After rebase, check each frame file you created:
+   ```bash
+   git show origin/main:catalog/frames/<slug>.md 2>/dev/null && echo "EXISTS" || echo "NEW"
+   ```
+4. If a frame already exists on main, delete your copy (`git rm` it and amend
+   the commit) — the existing frame on main is authoritative. Only keep frame
+   files that are genuinely new.
+5. Re-run `uv run scripts/validate.py validate` after removing duplicates to
+   confirm the entry still passes (the existing frame on main satisfies the
+   validator's "frame must exist" rule once rebased).
+
+This prevents duplicate-frame PRs and merge conflicts that stall the pipeline.
+
 **IMPORTANT — No cosmetic changes in entry PRs:**
 
 Only add or modify files directly related to the entries being created — the
