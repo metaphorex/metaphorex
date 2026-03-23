@@ -19,7 +19,7 @@ grounding: established
 transfers:
   - '[model] predicts that interventions at different positions in a system produce wildly disproportionate effects -- changing a parameter is weak, changing the rules governing those parameters is strong, and changing the goals or paradigm underlying the rules is transformative'
   - '[model] identifies a counter-intuitive ordering where the leverage points that people most readily perceive (subsidies, taxes, buffer sizes) are among the least effective, while the most powerful points (information flows, system goals, paradigm shifts) are the hardest to see and the hardest to act on'
-  - '[law] predicts that people will push leverage points in the wrong direction more often than they find the right point, because the system''s own feedback structure disguises causation -- a delay between intervention and effect makes it look like the opposite action is needed'
+  - '[model] predicts that people will push leverage points in the wrong direction more often than they find the right point, because the system''s own feedback structure disguises causation -- a delay between intervention and effect makes it look like the opposite action is needed'
 limits:
   - '[model] assumes a system has a stable enough structure that leverage points can be identified, but in rapidly evolving or chaotic systems the topology shifts faster than analysis can track, making yesterday''s leverage point today''s irrelevance'
   - '[model] overpredicts the power of paradigm-level intervention by treating paradigm shifts as something an individual can choose to enact -- in practice, paradigms are collective constructs with enormous inertia, and "change the paradigm" is advice roughly as actionable as "be a genius"'
