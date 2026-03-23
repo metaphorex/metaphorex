@@ -172,9 +172,19 @@ If the token is NOT set, use default auth (no prefix needed).
    the manifest at `playbooks/<project-name>/manifest.json`
 9. Write the playbook at `playbooks/<project-name>/playbook.md` — include
    the archive URLs and methodology in the Access Method section
-10. Open a PR with: playbook + scripts + manifest
-11. Add the `in-progress` label to the parent issue to claim it
-12. Post a run summary comment on the parent issue
+10. **Validate the manifest** before opening a PR:
+   ```bash
+   uv run scripts/validate_manifest.py playbooks/<project-name>/manifest.json
+   ```
+   Fix any errors (invalid kind, ALL-CAPS names, identical source/target
+   frames, invalid source values) before proceeding. The validator checks:
+   - `kind` must be one of: metaphor, pattern, archetype, paradigm, mental-model
+   - `name` must be title case (not ALL-CAPS, not lowercase)
+   - `source_frame` and `target_frame` must not be identical
+   - `source` must be one of: archive, llm
+11. Open a PR with: playbook + scripts + manifest
+12. Add the `in-progress` label to the parent issue to claim it
+13. Post a run summary comment on the parent issue
 
 **Playbook Format:**
 
@@ -201,8 +211,8 @@ Schema Mapping, Gotchas.
   "candidates": [
     {
       "slug": "time-is-money",
-      "name": "TIME IS MONEY",
-      "kind": "conceptual-metaphor",
+      "name": "Time Is Money",
+      "kind": "metaphor",
       "source_frame": "economics",
       "target_frame": "time-and-temporality",
       "applies_to": ["time-management"],
