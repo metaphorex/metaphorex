@@ -7,15 +7,17 @@
 """Metaphorex content validator and extractor.
 
 Usage:
-    uv run scripts/validate.py validate          # validate all content
-    uv run scripts/validate.py validate catalog/entries/ # validate specific dir
-    uv run scripts/validate.py extract            # emit JSON to stdout
+    uv run scripts/validate.py validate                        # validate all content
+    uv run scripts/validate.py validate catalog/entries/       # validate specific dir
+    uv run scripts/validate.py validate --check-open-prs       # also check for cross-PR frame conflicts
+    uv run scripts/validate.py extract                         # emit JSON to stdout
 """
 
 from __future__ import annotations
 
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -386,6 +388,83 @@ def validate(target: str | None = None) -> tuple[list[str], list[str]]:
     return errors, warnings
 
 
+def check_open_pr_frame_conflicts() -> list[str]:
+    """Check if frame files on the current branch conflict with frames in other open PRs.
+
+    Requires the `gh` CLI and network access. Returns a list of warnings
+    (never errors) describing any conflicts found.
+    """
+    warnings: list[str] = []
+
+    # Get frame files changed on the current branch vs main
+    try:
+        diff_output = subprocess.run(
+            ["git", "diff", "--name-only", "--diff-filter=A", "origin/main...HEAD"],
+            capture_output=True, text=True, check=True,
+        )
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        warnings.append("cross-PR check: could not determine branch diff (is origin/main available?)")
+        return warnings
+
+    local_frame_files = {
+        line.strip()
+        for line in diff_output.stdout.splitlines()
+        if line.strip().startswith("catalog/frames/")
+    }
+
+    if not local_frame_files:
+        return warnings  # No new frames on this branch, nothing to conflict
+
+    # Get file lists from all open PRs
+    try:
+        gh_output = subprocess.run(
+            ["gh", "pr", "list", "--json", "files,number,title", "--limit", "200"],
+            capture_output=True, text=True, check=True,
+        )
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        warnings.append("cross-PR check: `gh pr list` failed (is the gh CLI installed and authenticated?)")
+        return warnings
+
+    try:
+        open_prs = json.loads(gh_output.stdout)
+    except json.JSONDecodeError:
+        warnings.append("cross-PR check: could not parse `gh pr list` output")
+        return warnings
+
+    # Get current PR number (if any) so we skip ourselves
+    try:
+        current_pr = subprocess.run(
+            ["gh", "pr", "view", "--json", "number"],
+            capture_output=True, text=True,
+        )
+        current_pr_number = json.loads(current_pr.stdout).get("number") if current_pr.returncode == 0 else None
+    except (json.JSONDecodeError, FileNotFoundError):
+        current_pr_number = None
+
+    for pr in open_prs:
+        pr_number = pr.get("number")
+        pr_title = pr.get("title", "(untitled)")
+
+        # Skip our own PR
+        if pr_number == current_pr_number:
+            continue
+
+        pr_frame_files = {
+            f["path"]
+            for f in pr.get("files", [])
+            if f["path"].startswith("catalog/frames/")
+        }
+
+        conflicts = local_frame_files & pr_frame_files
+        for path in sorted(conflicts):
+            slug = path.removeprefix("catalog/frames/").removesuffix(".md")
+            warnings.append(
+                f"cross-PR conflict: frame '{slug}' also added/modified in PR #{pr_number} ({pr_title})"
+            )
+
+    return warnings
+
+
 def extract() -> list[dict]:
     results = []
     for f in sorted(ENTRIES_DIR.glob("*.md")):
@@ -406,8 +485,16 @@ def main() -> None:
     command = sys.argv[1]
 
     if command == "validate":
-        target = sys.argv[2] if len(sys.argv) > 2 else None
+        args = sys.argv[2:]
+        check_open_prs = "--check-open-prs" in args
+        remaining = [a for a in args if a != "--check-open-prs"]
+        target = remaining[0] if remaining else None
+
         errors, warnings = validate(target)
+
+        if check_open_prs:
+            warnings.extend(check_open_pr_frame_conflicts())
+
         if warnings:
             print(f"{len(warnings)} warning(s) (dangling references, non-blocking):\n")
             for w in warnings:
