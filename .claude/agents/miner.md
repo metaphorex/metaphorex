@@ -278,6 +278,28 @@ If the token is NOT set, use default auth (no prefix needed).
 - ALWAYS include `--label needs-smelting` when running `gh pr create`
 - ALWAYS prefix `gh` commands with `GH_TOKEN="$M4X_MINER_TOKEN"`
 
+**Pre-PR Rebase (REQUIRED before every PR):**
+
+Before creating a PR, rebase onto the latest main to avoid conflicts from
+frames or entries that were merged while you were working:
+
+1. Fetch and rebase:
+   ```bash
+   git fetch origin main && git rebase origin/main
+   ```
+2. If rebase conflicts occur, resolve them by preferring the main version for
+   any frame or category file that already exists on main. For entry files,
+   prefer your branch version (your new content).
+3. After a successful rebase, re-run the validator:
+   ```bash
+   uv run scripts/validate.py validate
+   ```
+   Fix any errors before proceeding.
+4. Only after rebase and validation succeed, create the PR.
+
+This prevents stale-branch PRs that try to re-create frames already on main,
+which cause merge conflicts the Smelter cannot resolve.
+
 **Post-PR Checklist (REQUIRED for every entry):**
 
 You MUST complete all three steps for every entry you process. Missing labels
