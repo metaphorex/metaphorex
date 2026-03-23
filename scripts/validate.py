@@ -11,6 +11,7 @@ Usage:
     uv run scripts/validate.py validate catalog/entries/  # validate specific dir
     uv run scripts/validate.py extract                    # emit JSON to stdout
     uv run scripts/validate.py check-deletions            # detect catalog file deletions vs origin/main
+    uv run scripts/validate.py check-open-prs --repo owner/repo  # detect cross-PR file conflicts
 """
 
 from __future__ import annotations
@@ -442,8 +443,70 @@ def check_deletions() -> list[str]:
     return errors
 
 
+def check_open_prs(repo: str) -> list[str]:
+    """Detect files added on the current branch that also appear in other open PRs.
+
+    Returns a list of warning strings (empty if no conflicts found).
+    """
+    warnings: list[str] = []
+
+    # 1. Get files added on this branch vs origin/main
+    try:
+        result = subprocess.run(
+            ["git", "diff", "--name-only", "--diff-filter=A", "origin/main...HEAD"],
+            capture_output=True, text=True, check=True,
+        )
+    except subprocess.CalledProcessError as exc:
+        warnings.append(f"Could not diff against origin/main: {exc.stderr.strip()}")
+        return warnings
+
+    local_added = {f.strip() for f in result.stdout.strip().splitlines() if f.strip()}
+    if not local_added:
+        return warnings
+
+    # 2. Get current branch name
+    try:
+        branch_result = subprocess.run(
+            ["git", "rev-parse", "--abbrev-ref", "HEAD"],
+            capture_output=True, text=True, check=True,
+        )
+        current_branch = branch_result.stdout.strip()
+    except subprocess.CalledProcessError:
+        current_branch = ""
+
+    # 3. Query open PRs for their changed files
+    try:
+        pr_result = subprocess.run(
+            ["gh", "pr", "list", "-R", repo, "--state", "open",
+             "--json", "number,headRefName,files", "--limit", "100"],
+            capture_output=True, text=True, check=True,
+        )
+        open_prs = json.loads(pr_result.stdout)
+    except (subprocess.CalledProcessError, json.JSONDecodeError) as exc:
+        warnings.append(f"Could not query open PRs: {exc}")
+        return warnings
+
+    # 4. Check for overlaps
+    for pr in open_prs:
+        pr_number = pr.get("number")
+        pr_branch = pr.get("headRefName", "")
+
+        # Skip our own PR
+        if pr_branch == current_branch:
+            continue
+
+        pr_files = {f.get("path", "") for f in pr.get("files", [])}
+        overlap = local_added & pr_files
+        for path in sorted(overlap):
+            warnings.append(
+                f"cross-PR conflict: '{path}' is also added in PR #{pr_number} ({pr_branch})"
+            )
+
+    return warnings
+
+
 def main() -> None:
-    if len(sys.argv) < 2 or sys.argv[1] not in ("validate", "extract", "check-deletions"):
+    if len(sys.argv) < 2 or sys.argv[1] not in ("validate", "extract", "check-deletions", "check-open-prs"):
         print(__doc__.strip())
         sys.exit(1)
 
@@ -481,6 +544,25 @@ def main() -> None:
         else:
             print("No catalog deletions detected.")
             sys.exit(0)
+
+    elif command == "check-open-prs":
+        # Parse --repo argument
+        repo = None
+        args = sys.argv[2:]
+        for i, arg in enumerate(args):
+            if arg == "--repo" and i + 1 < len(args):
+                repo = args[i + 1]
+        if not repo:
+            print("Usage: uv run scripts/validate.py check-open-prs --repo owner/repo")
+            sys.exit(1)
+        conflicts = check_open_prs(repo)
+        if conflicts:
+            print(f"{len(conflicts)} cross-PR conflict(s) detected:\n")
+            for c in conflicts:
+                print(f"  ~ {c}")
+            sys.exit(0)  # Warnings only, not a hard failure
+        else:
+            print("No cross-PR file conflicts detected.")
 
 
 if __name__ == "__main__":

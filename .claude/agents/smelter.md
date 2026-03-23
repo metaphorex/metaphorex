@@ -60,6 +60,20 @@ gh api "repos/metaphorex/metaphorex/contents/catalog/entries/some-slug.md?ref=br
 Prefer checking out the PR branch locally (`gh pr checkout <N>`) when you
 need to read multiple files or run the validator.
 
+**Pre-Smelting: Cross-PR Conflict Check**
+
+After checking out a PR branch, run the cross-PR conflict detector before
+doing any other work:
+
+```bash
+uv run scripts/validate.py check-open-prs --repo metaphorex/metaphorex
+```
+
+If conflicts are detected, post a comment on the PR listing the overlapping
+files and add the `needs-miner-fix` label. Do not proceed with smelting until
+the conflict is resolved (the Miner or Pitboss must coordinate which PR keeps
+the file).
+
 **Process:**
 
 1. Query: `gh pr list -R metaphorex/metaphorex --label needs-smelting --limit 2`
