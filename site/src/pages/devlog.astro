@@ -1,0 +1,30 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+
+const entries = await getCollection("devlog");
+const sorted = entries
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 20);
+---
+
+<Base title="Devlog" description="Weekly development log: what shipped, what changed, and why">
+  <article>
+    <h1>Devlog</h1>
+    <p>Weekly narrative of what shipped, what changed, and the decisions behind it. Synthesized from ops reports, git history, GitHub activity, and session logs.</p>
+
+    {sorted.map(async (entry) => {
+      const { Content } = await render(entry);
+      return (
+        <details>
+          <summary>
+            <strong>{entry.data.week}</strong> — {entry.data.title}
+          </summary>
+          <Content />
+        </details>
+      );
+    })}
+
+    {sorted.length === 0 && <p class="muted">No devlog entries yet.</p>}
+  </article>
+</Base>
