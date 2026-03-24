@@ -94,4 +94,14 @@ const ops = defineCollection({
   }),
 });
 
-export const collections = { entries, frames, categories, works, changelog, ops };
+const devlog = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "../docs/devlog" }),
+  schema: z.object({
+    date: z.coerce.date(),
+    type: z.literal("devlog"),
+    week: z.string(),
+    title: z.string(),
+  }),
+});
+
+export const collections = { entries, frames, categories, works, changelog, ops, devlog };
