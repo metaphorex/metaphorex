@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: The Progress of External Events Is Forward Motion
+summary: "Events move forward, stall, or pick up speed. The journey frame gives temporal sequences a direction they do not intrinsically have."
 provenance: osaka-master-metaphor-list
 related:
 - action-is-motion

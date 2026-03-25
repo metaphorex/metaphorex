@@ -18,6 +18,7 @@ limits:
   providing no vocabulary for views that are simply wrong rather than differently
   angled'
 name: Understanding Is Seeing
+summary: "The dominant Western epistemological metaphor. 'I see' means 'I understand.' Clarity is light; ignorance is darkness."
 related:
 - theories-are-buildings
 - ideas-are-food

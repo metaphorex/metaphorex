@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Pyrrhic Victory
+summary: "Winning the battle while losing the war. The cost is measured in irreplaceable resources, not fungible assets."
 related:
 - gordian-knot
 - damocles-sword

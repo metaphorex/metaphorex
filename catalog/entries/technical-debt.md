@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Technical Debt
+summary: "Code shortcuts accrue interest that compounds over time. The metaphor makes refactoring legible to business but has no units of measurement."
 related:
 - time-is-money
 slug: technical-debt

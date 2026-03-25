@@ -16,6 +16,7 @@ limits:
 - '[source] misleads because container boundaries imply mutual exclusion, but the
   mapped entities overlap freely across multiple containers simultaneously'
 name: Time Is a Container
+summary: "We are 'in' the morning, 'in' a meeting. The container schema gives durations walls, capacity, and a fullness that time does not possess."
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Spaghetti Code
+summary: "Pull one strand and the whole plate follows. Tangled control flow resists decomposition; you cannot extract a module without untangling everything."
 related:
 - data-flow-is-fluid-flow
 - program-failure-is-bodily-failure

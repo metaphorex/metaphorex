@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Social Conflict Is War
+summary: "Disagreements recruit war's entire role structure: sides, territory, escalation, casualties. Obscures that social disputants must continue to coexist."
 provenance: glasgow-mapping-metaphor
 related:
 - argument-is-war

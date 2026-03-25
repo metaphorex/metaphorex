@@ -15,6 +15,7 @@ limits:
   - "[source] implies there are exactly two options (red pill or blue pill), collapsing complex epistemic situations into a binary choice between truth and comfortable delusion, when most real situations involve spectrums of understanding and multiple competing frameworks"
   - "[source] obscures the social construction of 'awakening' because the metaphor positions the speaker's worldview as objective reality (the desert of the real) rather than as one interpretation among many, structurally foreclosing the possibility that the red-pill taker is also operating within a constructed framework"
 name: Red Pill Is Awakening
+summary: "A single pill for instant, total revelation. The binary forces every epistemic shift into awake-or-asleep."
 related:
 - the-matrix-is-hidden-reality
 slug: red-pill-is-awakening

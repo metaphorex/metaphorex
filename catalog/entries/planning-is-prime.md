@@ -1,6 +1,7 @@
 ---
 slug: planning-is-prime
 name: Planning Is Prime
+summary: "Kitchens teach that planning is not overhead subtracted from work but the mechanism that makes work possible."
 kind: mental-model
 source_frame: food-and-cooking
 categories:

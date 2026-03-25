@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Sandbox
+summary: "Containment for safe experimentation. The threat model is inverted: playgrounds keep danger out, software sandboxes keep danger in."
 related: []
 slug: sandbox
 source_frame: playground

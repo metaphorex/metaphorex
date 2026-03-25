@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Software Development Is a Bazaar
+summary: "Many independent contributors, low barriers, crowd-driven quality. Hides that all contributors share one codebase, unlike independent vendors."
 provenance: raymond-cathedral-and-bazaar
 related:
 - software-development-is-cathedral-building

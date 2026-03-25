@@ -14,6 +14,7 @@ limits:
   - "[paradigm] implies the conditions are independent and equally weighted, obscuring cases where one condition dominates or where conditions interact non-linearly"
   - "[paradigm] suggests mitigation is simple subtraction (remove one side), but in practice a condition may be impossible to fully eliminate rather than merely reduced"
 name: Risk Is a Triangle
+summary: "Three necessary conditions, none sufficient alone, dangerous only in combination. Mitigation is subtraction: remove any one side."
 related:
 - lethal-trifecta
 slug: risk-is-a-triangle

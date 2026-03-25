@@ -1,6 +1,7 @@
 ---
 slug: the-cure-is-worse-than-the-disease
 name: The Cure Is Worse Than the Disease
+summary: "Side effects are intrinsic to the mechanism, not failures of execution. The correct baseline is non-intervention, not the ideal outcome."
 kind: metaphor
 source_frame: medicine
 applies_to:

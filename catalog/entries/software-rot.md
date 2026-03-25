@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Software Rot
+summary: "Degradation is the default outcome of inaction. The code does not change; the environment evolves around it. The decay is relational, not internal."
 related:
 - program-failure-is-bodily-failure
 slug: software-rot

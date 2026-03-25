@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Symlink
+summary: "Filesystems borrow the vocabulary of chains for references between names and data. A broken link hangs uselessly into empty space."
 related:
 - unix-pipe
 slug: symlink

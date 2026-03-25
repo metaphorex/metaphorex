@@ -16,6 +16,7 @@ limits:
 - '[source] misleads because grasping treats the object as passive, but the mapped
   domain often involves reciprocal interaction where the object constrains the grasper'
 name: Understanding Is Grasping
+summary: "Comprehension as physical grip. The infant's experience of holding objects maps onto intellectual control, making knowledge possessive."
 provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing

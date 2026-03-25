@@ -1,6 +1,7 @@
 ---
 slug: the-mind-is-a-jar-of-water
 name: The Mind Is a Jar of Water
+summary: "Still water transmits light undistorted. Agitated water bends it. The distortion is in the medium, not the world. Epictetus' Stoic image."
 kind: metaphor
 source_frame: fluid-dynamics
 applies_to:

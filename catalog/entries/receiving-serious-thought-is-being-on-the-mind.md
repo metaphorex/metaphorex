@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Receiving Serious Thought Is Being On The Mind
+summary: "Topics of attention are heavy objects resting on the mind's surface. Importance is weight; relief is lifting the burden off."
 provenance: osaka-master-metaphor-list
 related:
 - the-mind-is-a-brittle-object

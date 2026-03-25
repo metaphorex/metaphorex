@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: The Internet Is a Mine
+summary: "Web content is ore: inert until extracted and refined into model weights. The mining frame erases authorship by treating creation as geology."
 related:
 - data-is-fuel
 slug: the-internet-is-a-mine

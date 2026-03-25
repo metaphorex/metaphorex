@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Shotgun Debugging
+summary: "Saturate the area with changes and hope something hits. When the fix works, you cannot attribute it to any single change."
 related:
 - rubber-duck-debugging
 - heisenbug

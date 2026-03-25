@@ -1,6 +1,7 @@
 ---
 slug: size-up
 name: Size-Up
+summary: "Four questions before committing resources: What do I have? What is it doing? Where is it going? What do I need? State vs. trajectory."
 kind: mental-model
 source_frame: fire-safety
 categories:

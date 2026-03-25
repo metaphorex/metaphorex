@@ -1,6 +1,7 @@
 ---
 slug: system-administration-is-feudal-lordship
 name: System Administration Is Feudal Lordship
+summary: "Root holds sovereign authority over a domain. Delegated admins are vassals, users are serfs. The metaphor romanticizes a security risk."
 kind: metaphor
 source_frame: governance
 applies_to:

@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Sexuality Is An Offensive Weapon
+summary: "Attractiveness is armament deployed against a target. Erases mutuality by forcing desire into an aggressor/victim frame."
 provenance: osaka-master-metaphor-list
 related:
 - love-is-war

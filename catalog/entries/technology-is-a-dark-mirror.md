@@ -13,6 +13,7 @@ limits:
 - "[source] misleads because mirrors are passive surfaces -- they do not reshape what stands before them -- yet the technologies framed as dark mirrors actively alter behavior through incentive structures and feedback loops"
 - "[source] obscures that mirrors reflect in real time, while technological consequences unfold over years or decades -- the temporal mismatch hides the slow-onset nature of most tech harms"
 name: Technology Is a Dark Mirror
+summary: "Technology reflects human nature back in distorted form. The powered-off screen shows your face. The frame lets technology off the hook."
 related:
 - ai-is-a-mirror
 slug: technology-is-a-dark-mirror

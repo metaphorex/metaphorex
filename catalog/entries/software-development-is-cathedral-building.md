@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Software Development Is Cathedral Building
+summary: "One architect holds the vision; the product is hidden until complete. Privileges coherence and top-down control but systematically delays feedback."
 provenance: raymond-cathedral-and-bazaar
 related:
 - survival-of-the-fittest

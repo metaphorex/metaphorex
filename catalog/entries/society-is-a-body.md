@@ -12,6 +12,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Society Is a Body
+summary: "Social roles map onto organs, hierarchy onto anatomy. Naturalizes class subordination by smuggling a political claim inside a biological fact."
 provenance: osaka-master-metaphor-list
 related:
 - people-are-machines

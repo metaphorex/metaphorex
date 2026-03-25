@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Process Fork
+summary: "One path becomes two at fork(). Both branches share history before the split but diverge after. The road metaphor hides the cost."
 related:
 - zombie-process
 - orphan-process

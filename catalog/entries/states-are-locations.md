@@ -12,6 +12,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: States Are Locations
+summary: "To be in a state is to be in a place. The preposition 'in' turns conditions into bounded regions you enter, inhabit, and leave."
 provenance: lakoff-johnson-mwlb
 related:
 - existence-is-a-location

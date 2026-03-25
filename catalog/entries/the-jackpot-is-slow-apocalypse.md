@@ -1,6 +1,7 @@
 ---
 slug: the-jackpot-is-slow-apocalypse
 name: The Jackpot Is Slow Apocalypse
+summary: "Gibson's Jackpot kills 80% of humanity through compounding crises, not a single event. The ironic name is itself part of the horror."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

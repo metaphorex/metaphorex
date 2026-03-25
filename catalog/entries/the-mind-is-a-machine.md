@@ -11,6 +11,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: The Mind Is A Machine
+summary: "The mind runs, stalls, and breaks down. The machine frame makes cognitive difficulty feel diagnosable, but treats inconsistency as malfunction."
 provenance: lakoff-johnson-mwlb
 related:
 - the-mind-is-a-brittle-object

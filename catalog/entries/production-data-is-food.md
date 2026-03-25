@@ -10,6 +10,7 @@ created: '2026-03-21'
 harness: Claude Code
 kind: metaphor
 name: Production Data Is Food
+summary: "Training data as diet: models ingest, overeat, and sicken on contaminated inputs. But data does not decompose or metabolize."
 related:
 - ai-hallucination-is-perception-disorder
 - ai-is-an-oracle

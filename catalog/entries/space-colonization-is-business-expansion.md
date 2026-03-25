@@ -12,6 +12,7 @@ limits:
 - "[source] misleads because colonization implies a civilizing mission or manifest destiny, smuggling moral justification into what may be purely extractive corporate behavior"
 - "[source] obscures that colonial ventures historically depended on state-backed military force, while business expansion supposedly operates through voluntary market transactions"
 name: Space Colonization Is Business Expansion
+summary: "Outposts in new territory extract resources and send value home. Offers colonialism's romance without its guilt by pointing at uninhabited space."
 related: []
 slug: space-colonization-is-business-expansion
 source_frame: colonization

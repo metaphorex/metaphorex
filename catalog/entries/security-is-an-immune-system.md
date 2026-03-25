@@ -1,6 +1,7 @@
 ---
 slug: security-is-an-immune-system
 name: Security Is an Immune System
+summary: "Define what is normal; anomalies reveal themselves. Assumes threats are already inside, replacing the perimeter model with detection and response."
 kind: metaphor
 source_frame: biology
 applies_to:

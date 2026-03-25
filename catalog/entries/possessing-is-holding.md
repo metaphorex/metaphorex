@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Possessing Is Holding
+summary: "Ownership maps onto the body's grip. What you can hold, you have; what slips through your fingers, you lose."
 provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions

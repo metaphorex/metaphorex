@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Seeing Is Touching, Eyes Are Limbs
+summary: "Eyes function as hands that reach, grasp, and probe. Adds anatomical mechanism to the vision-as-contact mapping, intensifying its agency."
 provenance: osaka-master-metaphor-list
 related:
 - seeing-is-touching

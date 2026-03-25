@@ -11,6 +11,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: The Visual Field Is A Bounded Region
+summary: "Vision has edges rather than walls. Center-periphery structure replaces inside-outside, matching the gradient of actual visual acuity."
 provenance: lakoff-johnson-mwlb
 related:
 - the-visual-field-is-a-container

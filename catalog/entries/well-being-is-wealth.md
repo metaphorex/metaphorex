@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Well-Being Is Wealth
+summary: "Flourishing as a bank account: accumulated, invested, depleted. The accounting logic flattens qualitatively different joys into one balance."
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

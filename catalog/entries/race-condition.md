@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Race Condition
+summary: "Concurrent operations racing for shared state. The outcome depends on who arrives first, but there are no winners."
 related:
 - heisenbug
 - software-rot

@@ -16,6 +16,7 @@ limits:
 - '[source] misleads because the terrain-ahead framing implies the future pre-exists
   like unseen landscape, when it does not yet exist at all'
 name: Time Is a Landscape We Move Through
+summary: "The future lies ahead, the past behind. The traveler has agency over pace and route, but cannot stop or turn back."
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

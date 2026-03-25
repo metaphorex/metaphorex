@@ -16,6 +16,7 @@ limits:
 - '[source] misleads because the scarcity framing treats all units as equivalent,
   flattening qualitative differences in how units are experienced'
 name: Time Is a Limited Resource
+summary: "A finite stock that depletes with use. Every expenditure reduces what remains. The scarcity frame punishes presence and rewards speed."
 provenance: lakoff-johnson-mwlb
 related:
 - time-is-money

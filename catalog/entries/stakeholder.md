@@ -1,6 +1,7 @@
 ---
 slug: stakeholder
 name: Stakeholder
+summary: "The original stakeholder was the neutral party holding the bet. The word now means the opposite: the interested party."
 kind: metaphor
 dead: true
 source_frame: gambling

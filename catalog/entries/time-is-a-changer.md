@@ -16,6 +16,7 @@ limits:
 - '[source] misleads because attributing change to a single agent discourages identifying
   the specific processes responsible'
 name: Time Is a Changer
+summary: "Time heals, destroys, reveals, sculpts. The personification assigns causality to duration itself rather than to the actual mechanisms."
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

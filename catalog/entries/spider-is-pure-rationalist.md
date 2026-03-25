@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Spider Is the Pure Rationalist
+summary: "Theory spun entirely from within, no external input. Architecturally perfect and internally consistent, but one stubborn fact collapses the web."
 related:
 - ant-is-pure-empiricist
 - honeybee-is-ideal-scientist

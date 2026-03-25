@@ -16,6 +16,7 @@ limits:
   - "[source] implies that the event horizon is an inherent property of the trajectory -- that accelerating technological progress must reach a singularity -- but this assumes a specific growth curve (super-exponential) that is empirically undemonstrated"
   - "[source] carries the connotation that what lies beyond the singularity is fundamentally unknowable, which can function as an intellectual stop sign that discourages concrete analysis of plausible AI development trajectories"
 name: Singularity Is Technological Transcendence
+summary: "A mathematical point where equations break down, borrowed to claim the future becomes unknowable once AI surpasses human intelligence."
 related:
 - three-laws-is-ethical-programming
 - ai-is-a-black-box

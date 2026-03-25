@@ -11,6 +11,7 @@ contributors:
 created: '2026-03-10'
 kind: metaphor
 name: Rational Is Up; Emotional Is Down
+summary: "Reason rises; emotion sinks. The vertical axis encodes a value judgment that places rationality above as both higher and better."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

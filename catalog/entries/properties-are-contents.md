@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Properties Are Contents
+summary: "An entity's attributes are substances inside it. Discovering properties is opening the container; changing them is adding or removing."
 provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions

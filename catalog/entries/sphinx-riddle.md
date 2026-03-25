@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Sphinx Riddle
+summary: "A gatekeeping test with one correct answer and binary outcome. Solving the riddle destroys the gatekeeper; a passed test becomes an obsolete filter."
 related:
 - tantalus
 - damocles-sword

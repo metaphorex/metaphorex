@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Similarity Is Closeness
+summary: "Similar things are near; different things are far. This primary metaphor grounds vector spaces, embedding models, and computational similarity."
 provenance: osaka-master-metaphor-list
 related:
 - categories-are-containers

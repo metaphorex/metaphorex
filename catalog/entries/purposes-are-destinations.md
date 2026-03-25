@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Purposes Are Destinations
+summary: "Having a purpose is having somewhere to go. Progress is approach, strategy is navigation, failure is non-arrival."
 provenance: lakoff-johnson-mwlb
 related:
 - life-is-a-journey

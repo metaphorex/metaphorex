@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Shim
+summary: "A thin wedge absorbing the mismatch between two surfaces not built to fit. Minimum material for maximum alignment; stacking signals deeper problems."
 provenance: carpentry-woodworking
 related:
 - scaffolding

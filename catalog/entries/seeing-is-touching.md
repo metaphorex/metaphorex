@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Seeing Is Touching
+summary: "The gaze reaches out and makes contact. Vision becomes an active, outward force rather than passive reception, importing touch's intimacy."
 provenance: lakoff-johnson-mwlb
 related:
 - understanding-is-seeing

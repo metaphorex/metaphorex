@@ -1,6 +1,7 @@
 ---
 slug: red-tape
 name: Red Tape
+summary: "Literal ribbon that once organized legal documents became the universal term for obstructive procedure. The solution became the problem."
 kind: metaphor
 dead: true
 source_frame: materials

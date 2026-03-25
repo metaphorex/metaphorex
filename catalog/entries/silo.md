@@ -11,6 +11,7 @@ harness: Claude Code
 dead: true
 kind: metaphor
 name: Silo
+summary: "Organizational isolation as sealed vertical storage. Agricultural silos preserve by separating, but the metaphor treats separation as disease."
 related: []
 slug: silo
 source_frame: agriculture

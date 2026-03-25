@@ -1,6 +1,7 @@
 ---
 slug: striking-while-the-iron-is-hot
 name: Striking While the Iron Is Hot
+summary: "The smith heats the iron, creating a window that closes on its own. The popular metaphor keeps the urgency but drops the preparation."
 kind: metaphor
 source_frame: craftsmanship
 applies_to:

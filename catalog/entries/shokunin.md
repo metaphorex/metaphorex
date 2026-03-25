@@ -1,6 +1,7 @@
 ---
 slug: shokunin
 name: Shokunin
+summary: "Quality is a civic duty, not a market differentiator. Identity fuses with practice, making corner-cutting a form of self-betrayal."
 kind: paradigm
 source_frame: carpentry
 applies_to:

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Siren Song
+summary: "The attraction is genuine, not deceptive, and willpower alone cannot resist it. The correct strategy is external constraint, not stronger resolve."
 related:
 - icarus
 - trojan-war

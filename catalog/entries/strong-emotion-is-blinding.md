@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Strong Emotion Is Blinding
+summary: "If understanding is seeing, then emotion that disrupts understanding is loss of sight. The frame privileges reason as the natural state."
 provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing

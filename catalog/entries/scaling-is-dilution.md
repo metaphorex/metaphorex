@@ -1,6 +1,7 @@
 ---
 slug: scaling-is-dilution
 name: Scaling Is Dilution
+summary: "Adding people without adding formative experience reduces cultural concentration. Past a threshold, the original culture stops functioning."
 kind: metaphor
 source_frame: fluid-dynamics
 applies_to:
