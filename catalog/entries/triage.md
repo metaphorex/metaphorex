@@ -4,7 +4,7 @@ name: Triage
 kind: metaphor
 dead: true
 source_frame: medicine
-summary: "Sort by who can still be saved, not by who's loudest — and accept that some cases get deliberately abandoned."
+summary: "Sort by who can still be saved, not by who's loudest. Accept that some cases get deliberately abandoned."
 applies_to:
 - decision-making
 - software-engineering

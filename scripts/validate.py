@@ -49,7 +49,7 @@ REJECTED_KINDS = {"conceptual-metaphor", "dead-metaphor", "cross-field-mapping"}
 
 # Allowlists for frontmatter keys — unknown keys produce warnings
 ALLOWED_ENTRY_KEYS = {
-    "slug", "name", "kind", "source_frame", "applies_to", "categories",
+    "slug", "name", "summary", "kind", "source_frame", "applies_to", "categories",
     "author", "contributors", "related", "grounding", "dead", "created",
     "updated", "deprecated", "embodied_patterns", "relation_types",
     "structure", "abstraction_level", "transfers", "limits", "harness",
@@ -251,6 +251,17 @@ def validate_entry(path: Path, frame_slugs: set[str], category_slugs: set[str],
     al = meta.get("abstraction_level")
     if al is not None and al not in VALID_ABSTRACTION_LEVELS:
         errors.append(f"{prefix}: invalid abstraction_level '{al}' (valid: {', '.join(sorted(VALID_ABSTRACTION_LEVELS))})")
+
+    # Summary field (optional for now — will become required after enrichment sweep)
+    summary = meta.get("summary")
+    if summary is not None:
+        if not isinstance(summary, str):
+            errors.append(f"{prefix}: 'summary' must be a string")
+        else:
+            if len(summary) > 150:
+                errors.append(f"{prefix}: summary exceeds 150 characters ({len(summary)} chars)")
+            if "\u2014" in summary:
+                errors.append(f"{prefix}: summary contains em dash (use comma or period instead)")
 
     # Category references
     for cat in meta.get("categories", []):
