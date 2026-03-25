@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: External Events Affecting Progress Are Forces Affecting
+summary: "Events that help or hinder progress are felt as physical forces: tailwinds, headwinds, impacts. Circumstances gain magnitude and direction."
 provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces

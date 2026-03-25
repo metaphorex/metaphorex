@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Facts Are Points
+summary: "Facts occupy positions in conceptual space like geometric points. Reasoning becomes connecting dots, seeing patterns, finding the center."
 provenance: osaka-master-metaphor-list
 related:
 - ideas-are-objects

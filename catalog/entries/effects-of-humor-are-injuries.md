@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Effects of Humor Are Injuries
+summary: "Laughter is structured as bodily harm: jokes kill, punchlines land, wit cuts. Intensity and involuntariness transfer; undesirability does not."
 provenance: osaka-master-metaphor-list
 related:
 - effect-on-emotional-self-is-contact-with-physical-self

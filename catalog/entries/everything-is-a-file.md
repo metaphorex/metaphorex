@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: paradigm
 name: Everything Is a File
+summary: "Every resource in a Unix system is accessed through the same interface: open, read, write, close. One abstraction tames all variety."
 related:
 - data-flow-is-fluid-flow
 slug: everything-is-a-file

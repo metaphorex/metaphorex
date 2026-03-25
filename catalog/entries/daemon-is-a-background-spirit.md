@@ -1,6 +1,7 @@
 ---
 slug: daemon-is-a-background-spirit
 name: Daemon Is a Background Spirit
+summary: "Background process as attending spirit: autonomous, invisible, morally neutral."
 kind: metaphor
 dead: true
 source_frame: mythology

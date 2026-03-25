@@ -1,6 +1,7 @@
 ---
 slug: externalizing-the-problem
 name: Externalizing the Problem
+summary: "Separating identity from symptom creates three positions: person, problem, and their relationship. Once separated, that relationship is negotiable."
 kind: pattern
 source_frame: narrative
 applies_to:

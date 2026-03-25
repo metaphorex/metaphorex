@@ -11,6 +11,7 @@ created: '2026-03-21'
 harness: Claude Code
 kind: pattern
 name: Connected Buildings
+summary: "Link buildings so movement between them is sheltered and continuous. Isolation produces silos; designed connections produce encounter."
 provenance: alexander-pattern-language
 related:
 - building-complex

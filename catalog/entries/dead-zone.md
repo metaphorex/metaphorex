@@ -1,6 +1,7 @@
 ---
 slug: dead-zone
 name: Dead Zone
+summary: "Overabundance, not deprivation, kills. Excess nutrients trigger collapse once a threshold is crossed."
 kind: metaphor
 source_frame: ecology
 applies_to:

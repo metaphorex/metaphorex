@@ -1,6 +1,7 @@
 ---
 slug: creative-works-are-food
 name: Creative Works Are Food
+summary: "Creative work mapped onto industrial food production. 'Content' strips authorship, 'consume' strips engagement, 'slop' denies fitness for humans."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

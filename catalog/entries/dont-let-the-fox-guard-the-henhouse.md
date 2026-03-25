@@ -17,6 +17,7 @@ limits:
 - '[source] implies that the solution is simple exclusion (remove the fox), but in many governance situations the actors with the deepest conflicts of interest are also the ones with the most relevant expertise -- excluding them creates a competence gap the metaphor does not acknowledge'
 - '[source] maps a fixed biological relationship (foxes always eat chickens) onto social relationships that are negotiable, contractable, and monitorable -- a regulator drawn from industry can be constrained by disclosure rules, oversight boards, and term limits in ways that a fox cannot be constrained by a fence'
 name: Don't Let the Fox Guard the Henhouse
+summary: "A guardian whose interests oppose the guarded will exploit, not protect. The problem is the structure, not the fox."
 related:
 - trojan-horse
 - quis-custodiet-ipsos-custodes

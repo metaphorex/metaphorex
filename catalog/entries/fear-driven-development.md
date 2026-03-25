@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Fear-Driven Development
+summary: "When fear of blame, breakage, or firing drives engineering decisions, the code is written to be defensible rather than correct."
 related:
 - cargo-cult-programming
 - bikeshedding

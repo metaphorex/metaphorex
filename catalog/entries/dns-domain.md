@@ -10,6 +10,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: DNS Domain
+summary: "Internet naming borrows feudal governance: domains, zones, delegation, authority. The hierarchy is real but the territory is abstract."
 related: []
 slug: dns-domain
 source_frame: governance

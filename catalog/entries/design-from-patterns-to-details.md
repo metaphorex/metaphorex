@@ -13,6 +13,7 @@ limits:
 - '[model] privileges top-down observation over bottom-up emergence, risking premature commitment to a macro-pattern that constrains detail-level adaptation when ground truth diverges from the aerial view'
 - '[model] obscures that pattern recognition is theory-laden: two observers of the same landscape will identify different patterns depending on their training, so "observe patterns first" defers rather than eliminates subjective judgment'
 name: Design from Patterns to Details
+summary: "Observe macro-patterns before placing elements. Details that fight the pattern need constant energy."
 related:
 - integrate-rather-than-segregate
 - produce-no-waste

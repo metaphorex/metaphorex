@@ -1,6 +1,7 @@
 ---
 slug: device-driver
 name: Device Driver
+summary: "Software as specialist operator who translates generic commands into hardware-specific protocols."
 kind: metaphor
 dead: true
 source_frame: travel

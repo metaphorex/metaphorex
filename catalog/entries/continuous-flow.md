@@ -1,6 +1,7 @@
 ---
 slug: continuous-flow
 name: Continuous Flow
+summary: "Work moves through process steps one piece at a time with no queues between stations. Flow exposes problems instantly; stagnant pools hide them."
 kind: metaphor
 source_frame: fluid-dynamics
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: divide-and-conquer
 name: Divide and Conquer
+summary: "Break a problem into independent parts, solve each, recombine. Works because subproblem difficulty grows faster than size."
 kind: mental-model
 categories:
   - decision-making

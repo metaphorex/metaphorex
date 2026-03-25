@@ -1,6 +1,7 @@
 ---
 slug: decisive-point
 name: Decisive Point
+summary: "Concentrate force at the one place that determines the outcome; accept weakness everywhere else."
 kind: metaphor
 source_frame: war
 applies_to:

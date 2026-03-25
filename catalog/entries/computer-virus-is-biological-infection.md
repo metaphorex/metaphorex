@@ -1,6 +1,7 @@
 ---
 slug: computer-virus-is-biological-infection
 name: Computer Virus Is Biological Infection
+summary: "Malicious code mapped onto parasitic infection: hijacks host machinery to replicate, spreads through vectors, evades via mutation. Now dead metaphor."
 kind: metaphor
 source_frame: contagion
 applies_to:

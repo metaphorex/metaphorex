@@ -14,6 +14,7 @@ limits:
   - '[source] implies the disruption comes from outside the system boundary, but many interruptions to continuity originate internally (hunger, pain, developmental transitions), which the impingement frame structurally excludes by requiring an external force'
   - '[source] frames the environment as the agent and the self as the passive recipient, obscuring that organisms actively solicit, filter, and amplify environmental input — the infant is not merely struck by the world but is reaching toward it'
 name: Environmental Impingement
+summary: "External demands strike the developing self like a physical force hitting a body. Above a threshold, the self organizes defense instead of growth."
 related:
 - going-on-being
 - primary-maternal-preoccupation

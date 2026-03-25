@@ -11,6 +11,7 @@ created: '2026-03-21'
 harness: Claude Code
 kind: pattern
 name: Family of Entrances
+summary: "A system should offer purpose-built interfaces for each consumer type, not one overloaded entry point. Every entrance deserves design care."
 provenance: alexander-pattern-language
 related:
 - building-complex

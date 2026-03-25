@@ -14,6 +14,7 @@ limits:
   - '[source] implies the handoff delay is someone''s fault (the server is slow, the runner is missing), but systemic queuing delays often arise from capacity mismatches that no individual controls'
   - '[source] assumes the work product was ready when it reached the pass, obscuring cases where the upstream producer delivered something incomplete and the delay is actually rework time'
 name: Dying on the Pass
+summary: "Kitchen term: finished plates lose quality while waiting for pickup. Completed work depreciates at the handoff boundary."
 related:
 - just-in-time
 - bottleneck

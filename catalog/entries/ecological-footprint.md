@@ -1,6 +1,7 @@
 ---
 slug: ecological-footprint
 name: Ecological Footprint
+summary: "Resource consumption as ground pressure. All human demand on the biosphere converted to hectares of land required to sustain it."
 kind: metaphor
 source_frame: ecology
 applies_to:

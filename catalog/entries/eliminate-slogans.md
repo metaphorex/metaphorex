@@ -9,6 +9,7 @@ created: '2026-03-18'
 grounding: established
 kind: mental-model
 name: Eliminate Slogans
+summary: "Slogans addressed to workers presuppose individual control over outcomes that only system redesign can change. Exhortation substitutes for management."
 provenance: tps-deming
 related:
 - a-bad-system-beats-a-good-person

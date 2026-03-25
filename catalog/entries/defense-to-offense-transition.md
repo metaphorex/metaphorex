@@ -1,6 +1,7 @@
 ---
 slug: defense-to-offense-transition
 name: Defense-to-Offense Transition
+summary: "Switching posture creates a vulnerability window. Timing depends on the adversary's state, not yours."
 kind: pattern
 source_frame: war
 applies_to:

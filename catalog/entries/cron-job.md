@@ -1,6 +1,7 @@
 ---
 slug: cron-job
 name: Cron Job
+summary: "Scheduled tasks framed as time-governed employment. Combines the labor metaphor of 'jobs' with Chronos the timekeeper."
 kind: metaphor
 dead: true
 source_frame: economics

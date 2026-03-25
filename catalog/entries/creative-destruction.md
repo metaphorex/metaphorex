@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Creative Destruction
+summary: "Innovation displaces incumbents by changing the competitive terms entirely, not by competing on existing ones. The old must die for the new to live."
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

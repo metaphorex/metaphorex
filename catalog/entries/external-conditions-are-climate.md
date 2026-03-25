@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: External Conditions Are Climate
+summary: "Surrounding circumstances are mapped onto weather: storms, sunshine, seasons. The framing naturalizes conditions that are actually human-made."
 provenance: osaka-master-metaphor-list
 related:
 - existence-is-a-location

@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by importing the aesthetic pleasure of deep stone reveals, when in software, deep boundaries (verbose error messages, exhaustive API docs) can overwhelm rather than shelter if the depth is not carefully graduated'
 - '[source] implies that all boundaries should be deep, but some software interfaces benefit from being thin and transparent -- a well-designed abstraction should sometimes feel like looking through clear glass, not peering through a deep tunnel'
 name: Deep Reveals
+summary: "Boundary depth signals design care. Thick walls make rich window recesses; thick APIs make rich errors."
 provenance: alexander-pattern-language
 related:
 - intimacy-gradient

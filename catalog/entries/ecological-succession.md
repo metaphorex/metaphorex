@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by implying convergence toward a single stable climax state, when Gleason''s individualistic model (now dominant in ecology) shows that community composition is contingent on local conditions, initial colonizers, and stochastic events -- industries likewise do not converge on one "climax" structure'
 - '[source] imports the assumption that succession is progressive (later stages are more complex and stable), which naturalizes the claim that mature industries are better than young ones and that consolidation is improvement rather than a different set of tradeoffs'
 name: Ecological Succession
+summary: "Ecosystems change through stages: pioneers modify the environment until conditions favor their own replacements."
 related:
 - ecological-niche
 - pioneer-species

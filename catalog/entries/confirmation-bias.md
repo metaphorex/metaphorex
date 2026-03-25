@@ -1,6 +1,7 @@
 ---
 slug: confirmation-bias
 name: Confirmation Bias
+summary: "People seek and recall evidence that confirms existing beliefs. The bar for changing your mind is systematically higher than for reinforcing it."
 kind: mental-model
 categories:
   - cognitive-science

@@ -16,6 +16,7 @@ limits:
 - '[source] assumes the threat is surficial (frost penetrates only so deep), but real crises can be structural -- drought kills deep-rooted trees by depleting the water table entirely, just as a systemic financial collapse destroys even well-capitalized firms'
 - '[source] implies that depth is uniformly protective, but deep roots in saturated or toxic soil are a liability; in human terms, deep commitment to a failing paradigm or corrupt institution makes the investment a trap rather than a shelter'
 name: Deep Roots Are Not Reached by Frost
+summary: "Slow, patient investment builds resilience below the depth that surface disruptions can reach."
 related:
 - you-reap-what-you-sow
 - fallow-period

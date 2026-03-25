@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Context Window Is Working Memory
+summary: "The model's token limit described as cognitive capacity, making an engineering parameter feel like a psychological limitation."
 related:
 - ai-hallucination-is-perception-disorder
 - neural-network-is-a-brain

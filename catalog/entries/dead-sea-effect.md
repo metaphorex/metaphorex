@@ -1,6 +1,7 @@
 ---
 slug: dead-sea-effect
 name: Dead Sea Effect
+summary: "Top talent evaporates first; residue concentrates; the worsening environment accelerates departure."
 kind: metaphor
 source_frame: hydrology
 applies_to:

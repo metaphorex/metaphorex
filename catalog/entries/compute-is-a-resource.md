@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Compute Is a Resource
+summary: "GPU hours treated as a scarce commodity to be extracted and stockpiled. Imports scarcity logic onto something manufactured and expandable."
 related:
 - data-is-fuel
 - time-is-a-resource

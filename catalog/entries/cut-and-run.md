@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Cut and Run
+summary: "Sacrifice the anchor for speed of escape. Originally rational; now framed as cowardice."
 related:
 - bitter-end
 slug: cut-and-run

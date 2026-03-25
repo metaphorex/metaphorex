@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: mental-model
 name: Falsification
+summary: "A belief earns credibility by surviving attempts at disproof, not by accumulating confirmations. One counterexample is decisive."
 provenance: munger-poor-charlies-almanack
 related:
 - bayesian-updating

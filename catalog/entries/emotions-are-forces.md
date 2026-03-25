@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Emotions Are Forces
+summary: "Emotions push, pull, and overwhelm like physical forces acting on a body. The person becomes a passive object moved by vectors outside their control."
 provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person

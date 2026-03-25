@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by implying one party is always fleeing, when in strong scenes both characters are simultaneously pursuing different things from each other'
 - '[source] obscures scenes driven by revelation or discovery rather than want-driven negotiation, where the dramatic engine is new information rather than opposed desires'
 name: Every Scene Is a Chase Scene
+summary: "Every dramatic scene has a pursuer wanting something and a quarry resisting. The energy comes from asymmetric desire, not the topic."
 related:
 - argument-is-war
 slug: every-scene-is-a-chase-scene

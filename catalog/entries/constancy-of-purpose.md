@@ -1,6 +1,7 @@
 ---
 slug: constancy-of-purpose
 name: Constancy of Purpose
+summary: "Short-term optimization and long-term quality require incompatible resource allocation. Pick a time horizon and commit."
 kind: mental-model
 source_frame: manufacturing
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: do-as-much-nothing-as-possible
 name: Do As Much Nothing As Possible
+summary: "Surgical wisdom: the most skilled intervention is often none. Restraint requires more judgment than action."
 kind: metaphor
 source_frame: medicine
 applies_to:

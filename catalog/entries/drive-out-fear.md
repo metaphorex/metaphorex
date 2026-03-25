@@ -1,6 +1,7 @@
 ---
 slug: drive-out-fear
 name: Drive Out Fear
+summary: "Fear corrupts organizational information. People hide problems, inflate numbers, and suppress initiative. No process can fix bad data."
 kind: mental-model
 categories:
   - systems-thinking

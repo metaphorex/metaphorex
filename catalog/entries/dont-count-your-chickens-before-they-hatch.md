@@ -16,6 +16,7 @@ limits:
 - '[source] implies that the only rational stance toward uncertainty is to wait passively for outcomes to materialize, but effective planning requires working with expected values and probability distributions, not refusing to estimate until certainty arrives'
 - '[source] assumes a single batch of eggs with a single hatching event, obscuring situations where outcomes arrive continuously and some forward counting is necessary for resource allocation'
 name: Don't Count Your Chickens Before They Hatch
+summary: "Not all eggs hatch. The gap between expected and realized outcomes has its own failure modes at every step."
 related:
 - dont-put-all-your-eggs-in-one-basket
 - you-reap-what-you-sow

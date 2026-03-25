@@ -1,6 +1,7 @@
 ---
 slug: degrees-of-publicness
 name: Degrees of Publicness
+summary: "Gradual transitions from public to private give occupants control at each threshold."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

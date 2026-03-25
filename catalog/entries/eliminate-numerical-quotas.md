@@ -9,6 +9,7 @@ created: '2026-03-18'
 grounding: established
 kind: mental-model
 name: Eliminate Numerical Quotas
+summary: "Quotas substitute a number for understanding of the process. The number becomes the goal, and the underlying work degrades."
 provenance: tps-deming
 related:
 - eliminate-slogans

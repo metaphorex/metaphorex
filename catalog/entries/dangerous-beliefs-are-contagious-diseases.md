@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Dangerous Beliefs Are Contagious Diseases
+summary: "Framing beliefs as infections licenses quarantine logic and strips believers of agency."
 provenance: osaka-master-metaphor-list
 related:
 - beliefs-are-beings-with-a-life-cycle

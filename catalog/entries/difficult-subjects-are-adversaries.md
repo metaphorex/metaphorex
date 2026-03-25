@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Difficult Subjects Are Adversaries
+summary: "We describe hard topics as opponents to defeat. The frame imports intentional resistance where none exists."
 provenance: osaka-master-metaphor-list
 related:
 - argument-is-war

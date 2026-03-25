@@ -1,6 +1,7 @@
 ---
 slug: dyson-sphere-is-megastructure-ambition
 name: Dyson Sphere Is Megastructure Ambition
+summary: "A star-enclosing megastructure as the benchmark for maximum ambition. Total resource capture as civilizational aspiration."
 kind: metaphor
 source_frame: science-fiction
 applies_to:
