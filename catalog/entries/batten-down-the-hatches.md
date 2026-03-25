@@ -17,6 +17,7 @@ relation_types:
 structure: boundary
 abstraction_level: generic
 name: Batten Down the Hatches
+summary: "Seal vulnerable openings before the storm arrives. The same features that provide access in calm weather become liabilities in a crisis."
 related:
 - dead-in-the-water
 slug: batten-down-the-hatches

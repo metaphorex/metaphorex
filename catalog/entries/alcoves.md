@@ -25,6 +25,7 @@ limits:
 - '[source] misleads by implying that subdivision is always beneficial, when over-alcoved spaces (too many small modules, too many sub-teams) create fragmentation that is worse than the undifferentiated space the pattern was meant to cure'
 - '[source] assumes a stable room whose boundaries are known before alcoves are placed, but software systems and organizations frequently change shape, making fixed internal subdivisions a liability rather than an asset'
 name: Alcoves
+summary: "Large undifferentiated spaces suppress activity. Partial internal boundaries create usable zones without isolation. Count matches activities."
 related:
 - a-place-to-wait
 - window-place

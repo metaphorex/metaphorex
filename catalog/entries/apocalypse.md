@@ -1,6 +1,7 @@
 ---
 slug: apocalypse
 name: Apocalypse
+summary: "Apocalypse means unveiling, not destruction. The archetype frames catastrophe as the mechanism that reveals truths the existing order conceals."
 kind: archetype
 source_frame: religion
 applies_to:

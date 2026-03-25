@@ -1,6 +1,7 @@
 ---
 slug: all-day
 name: All Day
+summary: "The expeditor's running total across all active tickets. Aggregates demand to enable batching, but only works for homogeneous items at earshot scale."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

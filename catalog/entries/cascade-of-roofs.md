@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by implying that each layer shelters only the layer directly beneath it, when software abstractions often leak across multiple levels simultaneously'
 - '[source] obscures the cost dimension: adding a physical roof tier is expensive and permanent, while adding a software abstraction layer is cheap and reversible, which means cascades proliferate in software far beyond what architecture would tolerate'
 name: Cascade of Roofs
+summary: "Layered coverage at different scales beats a single monolithic surface. Each tier handles its own drainage."
 provenance: alexander-pattern-language
 related:
 - sheltering-roof

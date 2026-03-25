@@ -1,6 +1,7 @@
 ---
 slug: a-hard-row-to-hoe
 name: A Hard Row to Hoe
+summary: "Difficulty is in the soil, not the farmer. The row ends visibly but the field does not, and the only tool offered is endurance."
 kind: metaphor
 dead: true
 embodied_patterns:

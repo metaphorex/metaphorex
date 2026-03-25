@@ -24,6 +24,7 @@ limits:
 - '[source] implies that small causes produce large effects through amplification, but sensitive dependence means that small differences in initial conditions lead to completely different trajectories, not necessarily larger ones'
 - '[source] encourages the folk inference that controlling small inputs gives you leverage over large outcomes, when the actual lesson of chaos is the opposite: sensitive dependence makes long-range control impossible'
 name: Butterfly Effect
+summary: "Deterministic systems can be practically unpredictable. Nearby starting states diverge exponentially; this means different outcomes, not bigger ones."
 related:
 - action-at-a-distance
 slug: butterfly-effect

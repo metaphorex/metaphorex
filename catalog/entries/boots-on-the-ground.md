@@ -1,6 +1,7 @@
 ---
 slug: boots-on-the-ground
 name: Boots on the Ground
+summary: "Physical presence as commitment and knowledge source. Some ground truth is available only to people actually there."
 kind: metaphor
 dead: true
 source_frame: war

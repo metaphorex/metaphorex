@@ -17,6 +17,7 @@ limits:
   - "[source] implies that the controlled population is uniformly content (soma, conditioning, recreational sex), but real populations under technological influence exhibit persistent dissatisfaction, resistance, and uneven effects across class and geography"
   - "[source] obscures because Huxley's dystopia eliminates suffering by eliminating depth (no art, no science, no love), framing the tradeoff as binary, while actual technological mediation often enhances and diminishes human experience simultaneously rather than replacing one with the other"
 name: Brave New World Is Technological Control
+summary: "Control through engineered pleasure, not coercion. The most effective subjugation does not feel like subjugation."
 related:
 - skynet-is-ai-apocalypse
 - the-matrix-is-hidden-reality

@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Chain of Thought Is Self-Talk
+summary: "Prompting a model to show its work borrows the structure of human inner speech. The surface parallel is useful; the depth is contested."
 related:
 - ai-hallucination-is-perception-disorder
 - neural-network-is-a-brain

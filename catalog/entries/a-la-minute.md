@@ -1,6 +1,7 @@
 ---
 slug: a-la-minute
 name: A La Minute
+summary: "Cooked to order, not from pre-made stock. On-demand execution looks fast only because mise en place made it possible."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

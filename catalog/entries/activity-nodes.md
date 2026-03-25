@@ -1,6 +1,7 @@
 ---
 slug: activity-nodes
 name: Activity Nodes
+summary: "The liveliest places sit where the most paths cross. Vitality comes from diversity of traffic, not volume of any single route."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

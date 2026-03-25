@@ -1,6 +1,7 @@
 ---
 slug: chain-of-responsibility
 name: Chain of Responsibility
+summary: "A request passes through a sequence of handlers until one accepts it. The sender never knows which handler ultimately acts."
 kind: pattern
 source_frame: software-architecture
 applies_to:

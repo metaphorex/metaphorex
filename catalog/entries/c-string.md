@@ -10,6 +10,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: C String
+summary: "Characters on a thread, terminated by a knot. The metaphor hides that C strings have no inherent length and can overflow past their buffer."
 related:
 - null-pointer
 slug: c-string

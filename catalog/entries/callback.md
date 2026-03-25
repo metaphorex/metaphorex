@@ -23,6 +23,7 @@ structure: cycle
 abstraction_level: generic
 kind: metaphor
 name: Callback
+summary: "Re-deploying an earlier joke in a new context. The audience does the recognition work, and that effort is the source of the surplus pleasure."
 related: []
 slug: callback
 source_frame: comedy-craft

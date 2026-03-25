@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by implying that proximity alone ensures access, when shared digital resources require skills, permissions, and cultural norms that function as invisible fences: an open-source library within walking distance of every developer is useless to those who cannot read the documentation or understand the API'
 - '[source] assumes that the green space is maintained by a commons-like stewardship, but shared digital resources suffer from the tragedy of the commons -- everyone uses them, nobody funds them, and they degrade until a crisis forces investment'
 name: Accessible Green
+summary: "Shared resources must be within walking distance, not concentrated in one grand park. More than three steps of friction means nobody uses it."
 provenance: alexander-pattern-language
 related:
 - quiet-backs

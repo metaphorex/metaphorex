@@ -1,6 +1,7 @@
 ---
 slug: carrying-capacity
 name: Carrying Capacity
+summary: "Every system has a ceiling set by its scarcest resource. Overshoot doesn't just correct; it degrades future capacity."
 kind: metaphor
 source_frame: ecology
 applies_to:

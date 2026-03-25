@@ -27,6 +27,7 @@ limits:
   - "[source] implies a direct, unmediated link between sender and receiver, but real configuration management involves layers of abstraction (inventories, playbooks, modules) that the instant-communication frame renders invisible"
   - "[source] carries the connotation of physics-defying magic (FTL communication violates relativity), which flatters the technology by association but obscures the mundane engineering tradeoffs involved in orchestrating remote systems"
 name: Ansible Is Instant Communication
+summary: "Le Guin's FTL communicator lent its name to an IT tool. The sci-fi promise of effortless reach hides real latency, failures, and abstraction layers."
 related:
 - daemon-is-a-background-spirit
 - grok

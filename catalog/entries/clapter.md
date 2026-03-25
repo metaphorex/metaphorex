@@ -1,6 +1,7 @@
 ---
 slug: clapter
 name: Clapter
+summary: "Applause where laughter should be. The audience is signaling agreement, not experiencing surprise. The feedback loop is poisoned."
 kind: metaphor
 source_frame: comedy-craft
 applies_to:

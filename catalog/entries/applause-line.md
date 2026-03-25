@@ -1,6 +1,7 @@
 ---
 slug: applause-line
 name: Applause Line
+summary: "Rhetorical structure engineered to trigger audience response. The applause feels spontaneous but is a product of rhythm, contrast, and timing."
 kind: metaphor
 dead: true
 source_frame: theater-and-performance

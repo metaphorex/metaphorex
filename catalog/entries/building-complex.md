@@ -11,6 +11,7 @@ created: '2026-03-21'
 harness: Claude Code
 kind: pattern
 name: Building Complex
+summary: "Alexander's case for clusters over monoliths: separate foundations mean separate failure domains. The spaces between matter as much as the buildings."
 provenance: alexander-pattern-language
 related:
 - connected-buildings

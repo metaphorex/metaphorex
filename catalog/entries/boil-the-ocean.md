@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Boil the Ocean
+summary: "A project whose scope exceeds all available resources by orders of magnitude. The image names the refusal to decompose or prioritize."
 related:
 - big-ball-of-mud
 - bikeshedding

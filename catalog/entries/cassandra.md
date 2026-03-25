@@ -1,6 +1,7 @@
 ---
 slug: cassandra
 name: Cassandra
+summary: "The warning is accurate, the evidence is available, and no one believes it. The curse is structural, not informational."
 kind: metaphor
 source_frame: mythology
 applies_to:

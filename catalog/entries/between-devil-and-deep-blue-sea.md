@@ -17,6 +17,7 @@ relation_types:
 structure: competition
 abstraction_level: generic
 name: Between the Devil and the Deep Blue Sea
+summary: "The devil was a hull seam, not Satan. A sailor caulking it was trapped between two real dangers with no safe position."
 related: []
 slug: between-devil-and-deep-blue-sea
 source_frame: seafaring

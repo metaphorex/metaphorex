@@ -11,6 +11,7 @@ created: '2026-03-21'
 harness: Claude Code
 kind: pattern
 name: Circulation Realms
+summary: "Nested zones of movement keep local traffic local. Without segmentation, everyone shares one corridor and everything competes."
 provenance: alexander-pattern-language
 related:
 - intimacy-gradient

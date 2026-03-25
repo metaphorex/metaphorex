@@ -16,6 +16,7 @@ limits:
 - '[source] misleads by importing the permanence of stone architecture into software, where even "cathedral" products ship updates weekly and no codebase survives unchanged for centuries'
 - '[source] obscures that bazaars have structure -- guilds, market regulations, designated stalls -- so the metaphor overstates the chaos of open-source coordination by picking the noisiest aspects of the source domain'
 name: Cathedral and Bazaar
+summary: "One architect with a hidden plan versus many vendors iterating in the open. Quality by control versus quality by selection."
 related:
 - pattern-language-as-shared-vocabulary
 - software-habitability

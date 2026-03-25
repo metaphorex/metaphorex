@@ -1,6 +1,7 @@
 ---
 slug: barn-raising
 name: Barn-Raising
+summary: "A task too large for one person, completed in a day by a community. Reciprocity and visible participation enforce contribution."
 kind: metaphor
 source_frame: collaborative-work
 applies_to:

@@ -21,6 +21,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Animals Are Moral Agents
+summary: "Each animal species is assigned a moral portfolio. The fox is cunning, the pig is filthy. The mapping is pure projection disguised as observation."
 provenance: glasgow-mapping-metaphor
 related:
 - morality-is-purity

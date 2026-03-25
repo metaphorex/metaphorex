@@ -26,6 +26,7 @@ relation_types:
 structure: network
 abstraction_level: generic
 name: Attachment as Bond
+summary: "Emotional connection modeled as a material tie with tensile strength. The metaphor gave psychology a mechanical vocabulary for relational stress."
 related:
 - facilitating-environment
 - trust-vs-mistrust

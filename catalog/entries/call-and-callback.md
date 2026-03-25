@@ -1,6 +1,7 @@
 ---
 slug: call-and-callback
 name: Call and Callback
+summary: "The kitchen's error-detection protocol: repeat the order back verbatim before executing. Silence after a call is treated as failure, not agreement."
 kind: pattern
 source_frame: food-and-cooking
 applies_to:

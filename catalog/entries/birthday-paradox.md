@@ -14,6 +14,7 @@ limits:
 - '[model] answers "do any two items collide?" not "does this specific item collide with that one?" -- conflating these questions causes the model to be misapplied to low-probability specific-pair scenarios, dramatically overstating risk'
 - '[model] is a one-time recalibration tool: once the quadratic pair-count structure is internalized, the "paradox" dissolves and you are better served by directly computing n-choose-2, limiting its ongoing utility as a reasoning frame'
 name: Birthday Paradox
+summary: "23 people yield a 50% chance of a shared birthday. Collision probability grows with pair count, not item count."
 provenance: mathematical-folklore
 related: []
 slug: birthday-paradox

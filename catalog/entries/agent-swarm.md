@@ -14,6 +14,7 @@ limits:
 - '[source] misleads because the emergent behavior that makes biological swarms compelling is precisely what developers cannot afford: actual multi-agent frameworks use explicit orchestration (pipelines,
   directed graphs, supervisors), delivering choreography while the metaphor promises emergence'
 name: Agent Swarm
+summary: "Maps insect colony behavior onto multi-agent AI. Promises emergence but delivers choreography; the agents are specialized, not interchangeable."
 related:
 - ai-is-a-tool
 slug: agent-swarm

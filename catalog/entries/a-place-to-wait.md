@@ -14,6 +14,7 @@ limits:
 - '[source] breaks because architectural waiting rooms are physical spaces you can inhabit and walk around, while software waits are temporal states where the user has no agency beyond waiting or canceling'
 - '[source] misleads by invoking communal waiting experiences (other patients, a receptionist, shared commiseration) when software loading is solitary, missing the social dimension entirely'
 name: A Place to Wait
+summary: "Waiting is inevitable; the experience is designed. A loading screen is an architectural threshold, not an engineering defect."
 related:
 - the-facade-pattern
 - data-flow-is-fluid-flow

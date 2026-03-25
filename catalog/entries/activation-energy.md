@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: mental-model
 name: Activation Energy
+summary: "The barrier to starting is different from the energy to sustain. Lower the threshold instead of pushing harder."
 provenance: munger-poor-charlies-almanack
 related:
 - leverage

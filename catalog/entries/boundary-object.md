@@ -1,6 +1,7 @@
 ---
 slug: boundary-object
 name: Boundary Object
+summary: "An artifact interpreted differently by different groups that still coordinates their work. Shared use does not require shared meaning."
 kind: mental-model
 source_frame: social-dynamics
 categories:

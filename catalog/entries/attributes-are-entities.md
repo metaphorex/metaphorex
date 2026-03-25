@@ -23,6 +23,7 @@ abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Attributes Are Entities
+summary: "Abstract qualities like courage and patience are treated as physical objects you can possess, lose, give away, or find."
 provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions

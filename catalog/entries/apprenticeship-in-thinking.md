@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Apprenticeship in Thinking
+summary: "Cognitive development modeled as guild apprenticeship. The child learns thinking by doing real tasks alongside experts, not by studying first."
 provenance: child-psychology-metaphors
 related:
 - scaffolding

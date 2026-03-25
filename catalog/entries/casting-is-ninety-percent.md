@@ -12,6 +12,7 @@ limits:
 - '[model] misleads by implying the director''s main skill is selection, when the harder managerial skill is developing people who are already cast -- most leaders inherit their ensemble rather than choosing it'
 - '[model] obscures the asymmetry between theater and organizations: a miscast actor can be replaced before opening night, but firing a bad hire has legal, social, and morale costs that make the "recast" option much heavier'
 name: Casting Is Ninety Percent
+summary: "Selection quality dominates management effort. The right person in the role needs nudges; the wrong one can't be directed into fit."
 related:
 - every-scene-is-a-chase-scene
 - character-is-conduct

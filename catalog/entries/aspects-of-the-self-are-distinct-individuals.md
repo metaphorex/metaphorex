@@ -23,6 +23,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Aspects Of The Self Are Distinct Individuals
+summary: "Internal conflict understood as disagreement between separate people sharing one body. Self-control becomes one person dominating another."
 provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person

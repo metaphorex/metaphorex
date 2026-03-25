@@ -1,6 +1,7 @@
 ---
 slug: argument-from-authority
 name: Argument from Authority
+summary: "Claims accepted because of who said them, not why they're true. Both the only scalable epistemic strategy and a cataloged fallacy."
 kind: mental-model
 categories:
   - cognitive-science

@@ -1,6 +1,7 @@
 ---
 slug: center-of-gravity
 name: Center of Gravity
+summary: "Every complex adversary has one capability holding everything together. Strike that point and the whole position collapses."
 kind: metaphor
 source_frame: war
 applies_to:

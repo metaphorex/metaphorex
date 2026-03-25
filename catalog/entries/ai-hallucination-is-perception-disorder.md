@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: AI Hallucination Is Perception Disorder
+summary: "Calling false output a hallucination presupposes the model perceives. It frames normal statistical generation as a disease to be cured."
 related:
 - training-is-education
 - neural-network-is-a-brain

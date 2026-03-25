@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Bicycle for the Mind
+summary: "The computer amplifies human thought the way a bicycle amplifies locomotion. The rider provides all the energy and direction."
 related:
 - ai-is-a-tool
 - ai-is-a-prosthesis

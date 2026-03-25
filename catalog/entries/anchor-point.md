@@ -1,6 +1,7 @@
 ---
 slug: anchor-point
 name: Anchor Point
+summary: "Start building fireline from a barrier the fire cannot cross. New work inherits stability from the anchor; a false anchor is worse than none."
 kind: metaphor
 source_frame: fire-safety
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: anchoring
 name: Anchoring
+summary: "The first number sets the range, not just the starting point. Adjustment away from the anchor is effortful and consistently stops too soon."
 kind: mental-model
 categories:
   - cognitive-science

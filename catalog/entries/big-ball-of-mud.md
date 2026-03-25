@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Big Ball of Mud
+summary: "A codebase with no internal structure, grown by accretion. Not a failed design but the absence of any design at all."
 related:
 - program-failure-is-bodily-failure
 slug: big-ball-of-mud

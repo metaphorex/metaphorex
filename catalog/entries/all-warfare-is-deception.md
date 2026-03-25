@@ -1,6 +1,7 @@
 ---
 slug: all-warfare-is-deception
 name: All Warfare Is Deception
+summary: "Competitive advantage flows from information asymmetry. Every action carries a signal payload; control what the opponent reads, not just what you do."
 kind: mental-model
 source_frame: military-history
 categories:
