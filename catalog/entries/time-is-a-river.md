@@ -1,6 +1,7 @@
 ---
 slug: time-is-a-river
 name: Time Is a River
+summary: "Time flows one direction and carries everything downstream. Standing still in it takes effort, not rest."
 kind: metaphor
 source_frame: fluid-dynamics
 applies_to:

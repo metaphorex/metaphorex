@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Unknown Is Up; Known Is Down
+summary: "What floats is uncertain; what's grounded is known. We 'pin down' facts and 'settle' questions."
 provenance: lakoff-johnson-mwlb
 related:
 - rational-is-up

@@ -16,6 +16,7 @@ limits:
   - '[source] In woodworking, veneer is a legitimate and valued technique -- fine furniture has always used veneer over stable substrates -- so the metaphor''s purely pejorative connotation discards the source domain''s actual evaluation of the practice'
   - '[source] Veneer bonds permanently to its substrate through glue and pressure; it does not peel off casually, yet the metaphor implies the covering is fragile and easily stripped, overstating how readily social performances collapse'
 name: Veneer
+summary: "A thin attractive surface hiding inferior material underneath. The woodworking term turned purely pejorative."
 related:
 - facade
 - whitewash

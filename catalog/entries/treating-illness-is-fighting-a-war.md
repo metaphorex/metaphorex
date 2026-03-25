@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Treating Illness Is Fighting a War
+summary: "Medicine as combat: the body is territory, disease is the invader, treatment is the counterattack."
 provenance: osaka-master-metaphor-list
 related:
 - argument-is-war

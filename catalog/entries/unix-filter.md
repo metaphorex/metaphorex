@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Unix Filter
+summary: "A program that passes matching data and blocks the rest. Composable because all filters share standard interfaces."
 related:
 - data-flow-is-fluid-flow
 - unix-pipe

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Unix Tee
+summary: "A fitting that splits one data stream into two identical copies. Observation without alteration."
 related:
 - data-flow-is-fluid-flow
 - unix-pipe

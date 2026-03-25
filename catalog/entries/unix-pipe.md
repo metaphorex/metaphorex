@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Unix Pipe
+summary: "Data flows between programs through standard connectors. Composability comes from uniform interfaces, not shared internals."
 related:
 - data-flow-is-fluid-flow
 - the-pipeline-pattern

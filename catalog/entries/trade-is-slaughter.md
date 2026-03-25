@@ -1,6 +1,7 @@
 ---
 slug: trade-is-slaughter
 name: Trade Is Slaughter
+summary: "Commercial victory framed as killing. 'Slaughtered the competition' imports lethal finality into survivable losses."
 kind: metaphor
 source_frame: killing
 applies_to:

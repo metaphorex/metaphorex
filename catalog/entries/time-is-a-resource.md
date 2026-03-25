@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Time Is a Resource
+summary: "Time can be spent, saved, wasted, and stolen. The economic frame makes every moment a budgeting decision."
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

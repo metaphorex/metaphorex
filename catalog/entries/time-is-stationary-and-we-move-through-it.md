@@ -17,6 +17,7 @@ limits:
 - '[source] misleads because the path metaphor suggests visibility of what lies ahead,
   importing the confidence of sight into what is actually uncertain prediction'
 name: Time Is Stationary and We Move Through It
+summary: "We travel forward through a landscape of time. The future is ahead, the past behind."
 provenance: lakoff-johnson-mwlb
 related:
 - time-is-a-moving-object

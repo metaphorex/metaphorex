@@ -1,6 +1,7 @@
 ---
 slug: transference
 name: Transference
+summary: "Feelings from one relationship carried intact into another. The displacement reveals them because they don't fit."
 kind: metaphor
 source_frame: spatial-motion
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: training-wheels
 name: Training Wheels
+summary: "Temporary support removed once balance is learned. The goal is always to take them off."
 kind: metaphor
 source_frame: cycling
 applies_to:

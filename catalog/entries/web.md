@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Web
+summary: "Interconnected nodes linked by strands, like a spider's web. Redundancy keeps it intact when links break."
 related: []
 slug: web
 source_frame: animal-behavior

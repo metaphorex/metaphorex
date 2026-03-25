@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Window
+summary: "An opening that frames a bounded view. In computing, windows became containers, and the spatial logic broke."
 related:
 - companion
 slug: window

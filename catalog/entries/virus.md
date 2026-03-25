@@ -16,6 +16,7 @@ limits:
   - "[source] imports the host-as-victim framing of infectious disease, obscuring that most computer infections require the user to execute the malicious code -- the host is an active participant in ways biological infection does not require"
   - "[source] carries epidemiological assumptions about herd immunity and inoculation that break for computer systems, where patching one machine provides zero protection to unpatched neighbors and there is no analog to acquired biological immunity"
 name: Virus
+summary: "Malicious code that replicates by hijacking host resources, mapped from biological pathogens. Designed, not evolved."
 related:
 - bug
 - cookie

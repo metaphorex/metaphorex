@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Tool Use Is Physical Manipulation
+summary: "Using software is grasping and wielding instruments. The hand-tool boundary defines the agent-instrument split."
 related:
 - ai-is-a-tool
 slug: tool-use-is-physical-manipulation

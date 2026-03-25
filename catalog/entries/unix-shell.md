@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Unix Shell
+summary: "The outer layer you touch to interact with the system inside. All commands pass through this single boundary."
 related:
 - data-flow-is-fluid-flow
 slug: unix-shell

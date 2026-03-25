@@ -1,6 +1,7 @@
 ---
 slug: virtue-is-the-art-of-living
 name: Virtue Is the Art of Living
+summary: "Moral character is a craft learned through practice, not theory. You work with the grain, not against it."
 kind: metaphor
 source_frame: craftsmanship
 applies_to:
