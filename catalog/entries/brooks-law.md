@@ -1,6 +1,7 @@
 ---
 slug: brooks-law
 name: "Brooks's Law"
+summary: "Adding people to a late project makes it later: communication channels grow quadratically while individual capacity grows linearly."
 kind: mental-model
 categories:
   - software-engineering

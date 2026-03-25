@@ -1,6 +1,7 @@
 ---
 slug: strange-loop
 name: Strange Loop
+summary: "Hofstadter's term for hierarchical levels that unexpectedly cycle back to their origin, generating self-reference and paradox."
 kind: mental-model
 source_frame: self-reference
 categories:

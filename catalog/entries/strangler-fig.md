@@ -1,6 +1,7 @@
 ---
 slug: strangler-fig
 name: Strangler Fig
+summary: "Botanical pattern for replacing a legacy system by wrapping it in a new one that gradually takes over until the host can be removed."
 kind: pattern
 source_frame: ecology
 applies_to:

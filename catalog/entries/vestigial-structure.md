@@ -1,6 +1,7 @@
 ---
 slug: vestigial-structure
 name: Vestigial Structure
+summary: "A once-functional feature that persists because removal costs more than tolerance; presence explained by history, not current use."
 kind: metaphor
 dead: false
 source_frame: biology

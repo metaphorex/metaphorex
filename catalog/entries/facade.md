@@ -1,6 +1,7 @@
 ---
 slug: facade
 name: Facade
+summary: "Architecture's public face: a clean interface that conceals internal complexity, designed for the viewer's needs, not the structure's."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

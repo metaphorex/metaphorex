@@ -1,6 +1,7 @@
 ---
 slug: show-dont-tell
 name: "Show, Don't Tell"
+summary: "Narrative craft principle: let action and detail demonstrate; stating conclusions is telling, enacting them is showing."
 kind: paradigm
 source_frame: narrative-and-storytelling
 categories:

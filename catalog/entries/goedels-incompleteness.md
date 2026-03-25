@@ -1,6 +1,7 @@
 ---
 slug: goedels-incompleteness
 name: "Goedel's Incompleteness"
+summary: "Any sufficiently powerful formal system contains true statements it cannot prove and cannot prove its own consistency."
 kind: mental-model
 categories:
   - mathematics-and-logic

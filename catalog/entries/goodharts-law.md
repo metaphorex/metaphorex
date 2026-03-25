@@ -1,6 +1,7 @@
 ---
 slug: goodharts-law
 name: "Goodhart's Law"
+summary: "When a metric becomes a target, agents optimize the metric rather than the quality it measured, collapsing the correlation."
 kind: mental-model
 categories:
   - economics-and-finance

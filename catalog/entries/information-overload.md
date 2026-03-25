@@ -1,6 +1,7 @@
 ---
 slug: information-overload
 name: Information Overload
+summary: "Logistics capacity metaphor: cognitive systems have throughput limits that excess input exceeds, degrading processing quality."
 kind: metaphor
 dead: true
 source_frame: logistics

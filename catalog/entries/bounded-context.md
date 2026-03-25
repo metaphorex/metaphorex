@@ -1,6 +1,7 @@
 ---
 slug: bounded-context
 name: Bounded Context
+summary: "DDD's largest scope within which a model stays consistent; translation at boundaries is explicit rather than implicit and invisible."
 kind: pattern
 source_frame: software-architecture
 applies_to:

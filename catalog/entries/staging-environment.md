@@ -1,6 +1,7 @@
 ---
 slug: staging-environment
 name: Staging Environment
+summary: "Theater staging area: a pre-production space where conditions mirror live performance without live consequences."
 kind: metaphor
 source_frame: theater-and-performance
 applies_to:

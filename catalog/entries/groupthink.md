@@ -1,6 +1,7 @@
 ---
 slug: groupthink
 name: Groupthink
+summary: "Cohesive groups under pressure suppress dissent through self-censorship, producing worse decisions than members would make alone."
 kind: mental-model
 categories:
   - psychology

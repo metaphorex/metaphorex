@@ -1,6 +1,7 @@
 ---
 slug: hawthorne-effect
 name: Hawthorne Effect
+summary: "Observation changes the observed: awareness of being studied activates social motives that alter the very behavior under study."
 kind: mental-model
 categories:
   - cognitive-science

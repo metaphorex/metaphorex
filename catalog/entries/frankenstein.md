@@ -1,6 +1,7 @@
 ---
 slug: frankenstein
 name: Frankenstein
+summary: "Shelley's archetype: technical mastery without ethical governance; the creator's abandonment, not the creation itself, makes it monstrous."
 kind: archetype
 source_frame: mythology
 applies_to:

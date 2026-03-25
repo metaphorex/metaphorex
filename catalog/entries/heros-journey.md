@@ -1,6 +1,7 @@
 ---
 slug: heros-journey
 name: "Hero's Journey"
+summary: "Campbell's monomyth: departure, ordeal, and return with the elixir structures transformation as requiring symbolic death of the old self."
 kind: archetype
 source_frame: narrative-and-storytelling
 applies_to:

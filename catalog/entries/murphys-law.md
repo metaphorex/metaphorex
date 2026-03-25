@@ -1,6 +1,7 @@
 ---
 slug: murphys-law
 name: Murphy's Law
+summary: "Design principle disguised as pessimism: if something can go wrong it will, so build systems that anticipate failure modes."
 kind: mental-model
 categories:
   - risk-management

@@ -1,6 +1,7 @@
 ---
 slug: red-herring
 name: Red Herring
+summary: "Scent diversion from tracking lore: a false trail introduced to draw attention from the real issue."
 kind: metaphor
 dead: true
 source_frame: pursuit-and-escape

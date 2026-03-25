@@ -1,6 +1,7 @@
 ---
 slug: patina
 name: Patina
+summary: "Surface oxidation that signals age and use; accumulated wear can signal authenticity and quality rather than degradation."
 kind: metaphor
 source_frame: materials
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: slippery-slope
 name: Slippery Slope
+summary: "Gravitational descent: one step triggers an unstoppable sequence; a genuine causal structure and a common argumentation fallacy."
 kind: metaphor
 source_frame: spatial-motion
 applies_to:

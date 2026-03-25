@@ -1,6 +1,7 @@
 ---
 slug: when-pigs-fly
 name: When Pigs Fly
+summary: "Adynaton: maps \"never\" onto biological impossibility, borrowing categorical certainty for claims that may only be stubborn dismissal."
 kind: metaphor
 dead: true
 source_frame: animal-behavior

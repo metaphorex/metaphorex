@@ -1,6 +1,7 @@
 ---
 slug: work-in-progress
 name: Work in Progress
+summary: "Starting work creates ongoing liability; WIP limits apply Little's Law to cut lead time by stopping starts before finishing starts."
 kind: metaphor
 dead: true
 source_frame: manufacturing

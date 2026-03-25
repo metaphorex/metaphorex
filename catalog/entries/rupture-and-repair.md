@@ -1,6 +1,7 @@
 ---
 slug: rupture-and-repair
 name: Rupture and Repair
+summary: "Therapeutic model: relationships strengthen through cycles of disruption and reconnection, not through absence of conflict."
 kind: mental-model
 source_frame: psychotherapy
 categories:

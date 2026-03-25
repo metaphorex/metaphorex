@@ -1,6 +1,7 @@
 ---
 slug: sugar-coating
 name: Sugar-Coating
+summary: "Pharmaceutical film that masks bitterness; imports the idea that delivery can be separated from content without changing either."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

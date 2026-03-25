@@ -1,6 +1,7 @@
 ---
 slug: symbiosis
 name: Symbiosis
+summary: "Taxonomy of species co-dependence (mutualism, commensalism, parasitism) applied to any durable inter-entity relationship."
 kind: mental-model
 source_frame: ecology
 categories:

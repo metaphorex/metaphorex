@@ -1,6 +1,7 @@
 ---
 slug: scapegoat
 name: Scapegoat
+summary: "Leviticus ritual: blame is transferred to a substitute who is expelled, purging the community without addressing the actual cause."
 kind: archetype
 source_frame: religion
 applies_to:

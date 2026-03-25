@@ -1,6 +1,7 @@
 ---
 slug: parasitic-architecture
 name: Parasitic Architecture
+summary: "Organism that depends on a host without contributing; maps onto software or systems that consume without producing shared value."
 kind: metaphor
 source_frame: architecture-and-building
 applies_to:
