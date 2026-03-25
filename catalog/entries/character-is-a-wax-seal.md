@@ -1,6 +1,7 @@
 ---
 slug: character-is-a-wax-seal
 name: Character Is a Wax Seal
+summary: "Experience stamps the soul like a signet ring stamps wax. The word 'character' itself is a fossilized impression."
 kind: metaphor
 source_frame: quality-and-craftsmanship
 applies_to:

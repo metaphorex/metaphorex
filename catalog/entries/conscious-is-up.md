@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Conscious Is Up; Unconscious Is Down
+summary: "We wake 'up' and fall asleep. The vertical axis is grounded in the body, not just in language."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

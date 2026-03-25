@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Argument Is a Building
+summary: "Premises are foundations, conclusions are roofs, and refutation is demolition. Strength comes from structure, not force."
 provenance: lakoff-johnson-mwlb
 related:
 - theories-are-buildings

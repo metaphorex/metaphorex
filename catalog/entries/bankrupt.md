@@ -20,6 +20,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Bankrupt
+summary: "From Italian 'banca rotta,' the money-lender's bench broken in public. Failure made visible, permanent, and irreversible."
 related: []
 slug: bankrupt
 source_frame: architecture-and-building

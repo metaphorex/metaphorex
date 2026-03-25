@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Boat Anchor
+summary: "A useless component too heavy to move and too embedded to cut free. Drag increases with age."
 related:
 - program-failure-is-bodily-failure
 slug: boat-anchor

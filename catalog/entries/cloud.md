@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Cloud
+summary: "Someone else's computer, named after something nobody owns. The opacity of the source domain maps perfectly onto the product."
 related: []
 slug: cloud
 source_frame: natural-phenomena

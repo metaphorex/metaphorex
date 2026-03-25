@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Buffer Overflow
+summary: "Pour more data than the vessel holds and it spills into whatever is next door. One byte too many is enough."
 related:
 - data-flow-is-fluid-flow
 - memory-leak

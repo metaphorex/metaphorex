@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Ant Is the Pure Empiricist
+summary: "Bacon's ant collects everything and understands nothing. Data without theory is a full warehouse with no catalog."
 related: []
 slug: ant-is-pure-empiricist
 source_frame: animal-behavior

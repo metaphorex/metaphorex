@@ -10,6 +10,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Change Is Replacement
+summary: "Old part out, new part in. The swap logic makes transformation feel clean, but it erases the messy middle."
 provenance: osaka-master-metaphor-list
 related:
 - change-is-motion

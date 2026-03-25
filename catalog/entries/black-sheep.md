@@ -1,6 +1,7 @@
 ---
 slug: black-sheep
 name: Black Sheep
+summary: "The misfit's difference feels genetic, not chosen. Deviance is located in the individual, not in the group's standards."
 kind: metaphor
 dead: true
 source_frame: animal-husbandry

@@ -16,6 +16,7 @@ limits:
   - "[source] implies cookies are small, harmless, and self-contained, obscuring that web cookies enable persistent cross-site tracking infrastructures whose cumulative scope far exceeds anything the confection metaphor suggests"
   - "[source] carries a food metaphor that frames cookies as consumable and ephemeral, but web cookies persist indefinitely unless actively deleted, and their tracking effects compound over time rather than being consumed and gone"
 name: Cookie
+summary: "A persistent tracking token named after a treat. The food frame implies something small, harmless, and consumed on receipt."
 related:
 - virus
 slug: cookie

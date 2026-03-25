@@ -14,6 +14,7 @@ limits:
 - '[source] breaks because water is continuous and connected, while many problems are collections of distinct separable issues -- the fluid imagery makes disaggregation and decomposition hard to conceptualize'
 - '[source] misleads by making problem-solving feel passive (bodies of water act on you, you cannot reshape the ocean), underserving situations where the solver has significant power to alter conditions'
 name: A Problem Is a Body of Water
+summary: "Problems have depth. Shallow ones you wade through, deep ones drown you. Currents carry you whether or not you chose to swim."
 provenance: osaka-master-metaphor-list
 related:
 - difficulties-are-impediments-to-motion

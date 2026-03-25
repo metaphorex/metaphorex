@@ -22,6 +22,7 @@ abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Active Is Alive
+summary: "Working things are alive, broken things are dead. Functionality maps onto the life cycle: born, thriving, dying, gone."
 provenance: osaka-master-metaphor-list
 related:
 - people-are-machines

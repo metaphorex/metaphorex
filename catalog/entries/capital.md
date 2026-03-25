@@ -9,6 +9,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Capital
+summary: "Wealth as heads of cattle. The herd grows by breeding, so we expect money to grow by nature too."
 related:
 - brand
 - salary

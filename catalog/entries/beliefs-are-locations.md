@@ -11,6 +11,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Beliefs Are Locations
+summary: "You hold a position, arrive at conclusions, and depart from views. Changing your mind is relocation."
 provenance: osaka-master-metaphor-list
 related:
 - beliefs-are-guides

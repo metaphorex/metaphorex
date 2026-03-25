@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Anger Is a Heated Fluid in a Container
+summary: "The body is a boiler, rage is steam, and blowing your top is physics. Pressure builds until the container fails."
 provenance: osaka-master-metaphor-list
 related:
 - intense-emotions-are-heat

@@ -15,6 +15,7 @@ limits:
 - "[source] misleads because fast movement covers distance, but fast thinking does not necessarily cover more intellectual ground"
 - "[source] obscures that the deepest thinking is often the slowest -- deliberation and reflection are the opposite of quick"
 name: Cleverness Is Quickness
+summary: "Smart means fast, dumb means slow. Equating intelligence with speed systematically devalues deliberation."
 provenance: glasgow-mapping-metaphor
 related:
 - action-is-motion

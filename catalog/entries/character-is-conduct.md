@@ -12,6 +12,7 @@ limits:
 - '[model] misleads by discounting the gap between capability and opportunity: someone who never acts generously may lack resources rather than generosity, making conduct an unreliable proxy for disposition'
 - '[model] obscures the role of private deliberation, conscience, and intention in moral character -- Aristotle himself distinguished between the person who acts justly from habit and the one who acts justly from understanding'
 name: Character Is Conduct
+summary: "Watch what people do, not what they say. The audience never sees the actor's intentions, only their choices."
 related:
 - casting-is-ninety-percent
 - every-scene-is-a-chase-scene

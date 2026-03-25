@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: AI Is a Prosthesis
+summary: "AI compensates for a cognitive deficit you did not know you had. Unlike a tool, you wear it. Unlike an agent, it has no goals."
 related:
 - ai-is-a-tool
 - bicycle-for-the-mind

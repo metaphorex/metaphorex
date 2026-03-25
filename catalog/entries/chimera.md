@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Chimera
+summary: "Parts from incompatible animals stitched into one creature. The hybrid looks whole but can't hold together."
 related:
 - trojan-war
 slug: chimera

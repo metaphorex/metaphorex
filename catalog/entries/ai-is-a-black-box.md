@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: AI Is a Black Box
+summary: "Inputs go in, outputs come out, nobody sees inside. Frames explainability as an access problem, which shapes the entire XAI agenda."
 related:
 - ai-is-a-mirror
 slug: ai-is-a-black-box

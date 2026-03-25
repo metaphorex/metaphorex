@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Communication Is Sending
+summary: "Meaning is a package shipped from sender to receiver. The listener's creative work vanishes."
 provenance: lakoff-johnson-mwlb
 related:
 - the-conduit-metaphor

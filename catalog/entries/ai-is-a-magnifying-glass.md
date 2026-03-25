@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: AI Is a Magnifying Glass
+summary: "AI does not create bias, it scales it up. The lens enlarges what was already there, for better and worse."
 related:
 - ai-is-a-mirror
 - ai-is-a-tool

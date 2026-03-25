@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Coherent Is Whole
+summary: "Arguments that 'hold together' feel sound. Wholeness maps to internal consistency, not to truth."
 provenance: osaka-master-metaphor-list
 related:
 - argument-is-a-building

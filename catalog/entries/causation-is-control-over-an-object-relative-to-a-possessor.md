@@ -11,6 +11,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Causation Is Control Over An Object Relative To A Possessor
+summary: "To cause is to give or take. The victory 'gave' them confidence, the disease 'took' her strength."
 provenance: osaka-master-metaphor-list
 related:
 - causation-is-control-over-an-entity-relative-to-a-location

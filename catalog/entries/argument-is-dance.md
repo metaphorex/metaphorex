@@ -10,6 +10,7 @@ harness: Claude Code
 created: '2026-03-09'
 kind: metaphor
 name: Argument Is Dance
+summary: "The counter-frame to argument-as-war. Participants coordinate as partners, not opponents. Success requires mutual responsiveness."
 related:
 - argument-is-war
 slug: argument-is-dance

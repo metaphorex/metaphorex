@@ -13,6 +13,7 @@ limits:
 - '[source] breaks because the three-role structure oversimplifies causal chains that involve mediators, amplifiers, dampeners, and feedback loops invisible in the giver-object-receiver frame'
 - '[source] misleads by implying conservation: when you give an object you no longer have it, but giving someone a hard time does not deplete your capacity to do so again'
 name: Acting On Is Transferring An Object
+summary: "Affecting someone is giving them something. She 'dealt him a blow,' he 'passed the buck.' Causation becomes a three-body handoff."
 provenance: osaka-master-metaphor-list
 related:
 - action-is-motion

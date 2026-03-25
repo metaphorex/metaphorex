@@ -11,6 +11,7 @@ created: '2026-03-16'
 harness: Claude Code
 kind: metaphor
 name: Authority Is Height
+summary: "Power is up, submission is down. So deep in the language that flat organizations sound like something is missing."
 provenance: glasgow-mapping-metaphor
 related:
 - emotions-are-locations

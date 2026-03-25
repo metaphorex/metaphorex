@@ -9,6 +9,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Brand
+summary: "Commercial identity started as burning flesh. Ownership is marked permanently on the thing being owned."
 related:
 - capital
 - salary

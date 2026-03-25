@@ -23,6 +23,7 @@ limits:
   makes look dishonest'
 - '[source] misleads by creating only two categories (visible/hidden) when real moral situations involve gradients of disclosure -- partial redaction, tiered access, confidential-but-legal arrangements'
 name: Above Board
+summary: "Honesty is visibility. What you keep above the deck can survive inspection. What you hide below is automatically suspect."
 related:
 - know-the-ropes
 slug: above-board

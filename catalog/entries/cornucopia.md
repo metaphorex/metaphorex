@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Cornucopia
+summary: "A magic horn that never empties. The myth hides costs, labor, and depletion behind the image of effortless plenty."
 related:
 - tantalus
 slug: cornucopia

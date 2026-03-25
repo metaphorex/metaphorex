@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Bitter End
+summary: "The last link of anchor chain bolted to the deck. When it runs out, you have nothing left to give."
 related:
 - in-the-doldrums
 slug: bitter-end

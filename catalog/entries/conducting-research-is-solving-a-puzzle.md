@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Conducting Research Is Solving a Puzzle
+summary: "Data are pieces with fixed shapes. The frame assumes one right answer already exists in the box."
 provenance: osaka-master-metaphor-list
 related:
 - ideas-are-objects

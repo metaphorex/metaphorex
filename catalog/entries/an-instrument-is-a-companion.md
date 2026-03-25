@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: An Instrument Is a Companion
+summary: "Tools get tired, cooperate, and betray us. We project social roles onto objects that have no intentions."
 provenance: lakoff-johnson-mwlb
 related:
 - the-mind-is-a-machine

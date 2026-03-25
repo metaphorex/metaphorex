@@ -25,6 +25,7 @@ limits:
   - "[source] implies that surface can be measured and minimized like a geometric property, but the 'area' of an attack surface depends on attacker capability, not just system topology"
   - "[source] frames risk as proportional to exposure (more surface = more risk), but a single critical vulnerability on a small surface can be more dangerous than many minor exposures on a large one"
 name: Attack Surface
+summary: "Every exposed interface is terrain to defend. Less surface, less risk. But not all square meters are equal."
 related:
 - firewall
 - source-and-sink-analysis

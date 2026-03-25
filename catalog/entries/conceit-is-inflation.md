@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Conceit Is Inflation
+summary: "The conceited person is puffed up with air. Expansion beyond natural size signals hollowness and instability."
 provenance: osaka-master-metaphor-list
 related:
 - more-is-up

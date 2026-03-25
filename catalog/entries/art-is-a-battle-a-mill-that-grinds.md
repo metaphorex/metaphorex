@@ -1,6 +1,7 @@
 ---
 slug: art-is-a-battle-a-mill-that-grinds
 name: Art Is a Battle, a Mill That Grinds
+summary: "Creative work framed as both combat and grinding. The result comes from sustained resistance, not sudden inspiration."
 kind: metaphor
 source_frame: war
 applies_to:

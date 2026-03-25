@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: AI Is an Iceberg
+summary: "The chatbot is the tip. Below the waterline: training data, human labelers, and a global chip supply chain."
 related:
 - ai-is-a-black-box
 - foundation-model-is-a-foundation

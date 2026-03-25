@@ -11,6 +11,7 @@ harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: AI Is an Agent
+summary: "Borrows fiduciary duty, delegated authority, and accountability from governance law. Implies AI can act on your behalf."
 related:
 - ai-is-a-tool
 - ai-is-a-copilot

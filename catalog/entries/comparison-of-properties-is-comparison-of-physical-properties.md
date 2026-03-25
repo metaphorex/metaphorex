@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Comparison of Properties Is Comparison of Physical Properties
+summary: "Abstract qualities get ranked by weight, depth, and brightness. The physical scale imports false objectivity."
 provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions

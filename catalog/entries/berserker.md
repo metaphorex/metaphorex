@@ -1,6 +1,7 @@
 ---
 slug: berserker
 name: Berserker
+summary: "Norse warriors chose the frenzy. Modern usage makes it involuntary, turning a ritual into a diagnosis."
 kind: metaphor
 source_frame: mythology
 applies_to:

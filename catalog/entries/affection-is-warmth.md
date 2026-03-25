@@ -23,6 +23,7 @@ abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Affection Is Warmth
+summary: "Love is warm, rejection is cold. Grounded in infant experience of being held. Physical temperature primes social judgment."
 provenance: osaka-master-metaphor-list
 related:
 - emotional-stability-is-balance

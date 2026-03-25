@@ -21,6 +21,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Augean Stables
+summary: "Thirty years of filth, cleaned by diverting a river. The myth promises a single fix. Reality requires maintenance."
 related:
 - hydra-code
 - damocles-sword

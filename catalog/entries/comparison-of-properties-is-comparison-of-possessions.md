@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Comparison of Properties Is Comparison of Possessions
+summary: "She 'has more' patience. He 'lacks' imagination. Qualities become countable inventory with implied zero-sum logic."
 provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions

@@ -16,6 +16,7 @@ limits:
 - "[source] frames damage as radiating outward from a single point of origin, but software failures often cascade through dependency chains and shared state in patterns that have no spatial analog"
 - "[source] implies that blast radius is a fixed, measurable property of the weapon, while in software the scope of impact depends on runtime context, configuration, and the state of the system at the moment of failure"
 name: Blast Radius
+summary: "How much breaks when one thing fails. Containment strategy depends on mapping the damage zone in advance."
 related:
 - defense-in-depth
 - supply-chain-attack

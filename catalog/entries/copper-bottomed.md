@@ -11,6 +11,7 @@ limits:
 - '[source] breaks because copper reacted galvanically with iron bolts, corroding them and weakening the hull -- the protection itself introduced new failure modes that the metaphor ignores'
 - '[source] misleads by implying permanence, but copper sheathing thinned over time and required periodic replacement in dry-dock, making the original protection temporary and maintenance-dependent'
 name: Copper-Bottomed
+summary: "Naval hull plating became a synonym for 'totally reliable.' The copper itself corroded the bolts."
 related: []
 slug: copper-bottomed
 source_frame: seafaring

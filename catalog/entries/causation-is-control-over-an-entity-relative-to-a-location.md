@@ -11,6 +11,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Causation Is Control Over An Entity Relative To A Location
+summary: "To cause something is to put it somewhere. States are places, and the cause decides the destination."
 provenance: osaka-master-metaphor-list
 related:
 - causation-is-control-over-relative-location

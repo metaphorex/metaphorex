@@ -39,24 +39,29 @@ If no arguments, pick the next unenriched batch starting from Tier 1.
 
 - Max 150 characters. Count them. If over, rewrite shorter.
 - No em dashes (—). Use period, comma, or colon instead.
-- Punchy and opinionated. Not encyclopedic.
+- Every sentence must carry structural information. No filler.
 - Not a restatement of the first transfer proposition.
 - Not a dictionary definition ("X is a concept where...").
 - Do NOT start with "This metaphor...", "A concept that...", "The idea that..."
 - The reader should think "oh, that's what that is."
-- May use a second short sentence or phrase fragment if needed.
+- May use a second short sentence or phrase fragment IF it adds information.
+- If the second sentence is a punchline, editorial comment, or "gotcha", cut it.
+- No smug kickers ("Nobody asks who...", "The opacity was the point").
+- State the insight and stop. Be direct and earned, not performative.
 - Match the voice of the golden examples in the playbook.
 
 ## Golden Examples (always reference these)
 
 **Tier 1:**
 - Bottleneck: "A system's throughput is limited by its narrowest point. Widening the neck is the only way to improve it."
-- Sunk Cost: "Money already spent shouldn't influence what you do next. But it always does."
-- Phoenix: "Total destruction is the prerequisite for rebirth. The fire is the feature, not the failure."
+- Bug: "Defects are framed as creatures that invaded the code. The framing hides that they were authored in, not smuggled in."
+- Bus Factor: "How many people can vanish before the project dies. The number measures knowledge concentration, not headcount."
+- Achilles Heel: "One hidden weak point can negate all other strength. The more invulnerable the system, the more catastrophic the single failure."
 
 **Tier 2:**
 - Triage: "Sort by who can still be saved, not by who's loudest. Accept that some cases get deliberately abandoned."
 - Lava Flow: "Code nobody dares touch because nobody remembers why it's there. It hardened in place and now it's load-bearing."
+- Containment: "The therapist receives unbearable feelings without breaking. The container frame captures holding but understates the work of transformation."
 
 **Tier 3:**
 - Pendulation: "Healing isn't linear. Swing between safety and distress until the amplitude dampens on its own."

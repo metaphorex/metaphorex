@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Competition Is Competition for Desired Objects
+summary: "Multiple hands reach for the same prize. You can only grab what already exists, so value creation becomes invisible."
 provenance: osaka-master-metaphor-list
 related:
 - competition-is-1-on-1-physical-aggression

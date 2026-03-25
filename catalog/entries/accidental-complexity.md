@@ -22,6 +22,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Accidental Complexity
+summary: "Brooks mapped Aristotle's essential vs. accidental distinction onto software. Essential complexity is the problem; accidental is the tooling."
 related:
 - technical-debt
 - silver-bullet

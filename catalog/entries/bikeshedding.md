@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Bikeshedding
+summary: "A committee approves a reactor in minutes and debates the bike shed for hours. Accessibility breeds opinions."
 related:
 - bottleneck
 slug: bikeshedding

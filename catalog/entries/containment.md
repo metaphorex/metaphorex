@@ -1,6 +1,7 @@
 ---
 slug: containment
 name: Containment
+summary: "The therapist receives unbearable feelings without breaking. The container frame captures holding but understates the work of transformation."
 kind: metaphor
 source_frame: containers
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: composting
 name: Composting
+summary: "Old ideas break down into fertile substrate for new ones. But the pile must be turned, or it just rots."
 kind: metaphor
 source_frame: agriculture
 applies_to:

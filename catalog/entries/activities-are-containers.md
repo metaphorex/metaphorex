@@ -14,6 +14,7 @@ limits:
 - '[source] breaks because activities bleed into each other with no crisp boundaries, forcing binary in/out distinctions onto experiences that are gradual, partial, and overlapping'
 - '[source] misleads by suggesting passivity through containment -- ''stuck in a meeting'' makes the meeting the agent and the person the trapped contents, obscuring that participation is usually chosen'
 name: Activities Are Containers
+summary: "You are 'in' a meeting, 'out of' the race, 'stuck in' a job. Participation is location, and quitting is walking through a door."
 provenance: lakoff-johnson-mwlb
 related:
 - states-are-locations

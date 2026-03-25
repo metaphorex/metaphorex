@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Alignment Is Physical Alignment
+summary: "Making values point the same direction, like arrows or wheels on an axle. Treats agreement as a spatial property."
 related:
 - training-is-education
 - neural-network-is-a-brain

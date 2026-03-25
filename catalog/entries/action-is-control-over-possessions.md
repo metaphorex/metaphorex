@@ -13,6 +13,7 @@ limits:
 - '[source] breaks because possession implies exclusive ownership, making collaborative action feel like a zero-sum contest for control rather than a joint endeavor'
 - '[source] misleads by mapping failure onto loss, triggering loss aversion so that ''losing control'' feels catastrophic when ''changing approach'' would describe the same situation without the anxiety'
 name: Action Is Control Over Possessions
+summary: "Effective action is holding things firmly. Losing control is losing your grip. Authority changes hands like property."
 provenance: osaka-master-metaphor-list
 related:
 - action-is-motion

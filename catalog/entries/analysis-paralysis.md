@@ -1,6 +1,7 @@
 ---
 slug: analysis-paralysis
 name: Analysis Paralysis
+summary: "Overthinking framed as a medical condition. The rhyme gives indecision the weight of a clinical diagnosis."
 kind: metaphor
 dead: true
 source_frame: medicine

@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Competition Is War
+summary: "Rivals become enemies. Strategy becomes military doctrine. The frame makes coexistence feel like failure."
 provenance: osaka-master-metaphor-list
 related:
 - argument-is-war

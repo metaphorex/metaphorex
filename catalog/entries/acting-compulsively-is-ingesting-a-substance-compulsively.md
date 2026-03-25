@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by pathologizing ordinary repetition -- calling someone a ''news junkie'' imports the full pathology of substance abuse into contexts with no intermediate category between normal enjoyment
   and clinical addiction'
 name: Acting Compulsively Is Ingesting A Substance Compulsively
+summary: "Any habit you can't stop becomes an addiction. The substance frame gives compulsion a story arc: craving, tolerance, withdrawal, relapse."
 provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person

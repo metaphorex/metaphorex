@@ -11,6 +11,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Causal Precedence Is Temporal Precedence
+summary: "What comes first caused what comes next. Temporal sequence stands in for causal mechanism."
 provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces

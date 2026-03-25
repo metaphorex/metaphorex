@@ -38,7 +38,7 @@ bun run scripts/extract-summary-context.ts \
 
 ## Style Guide
 
-**Voice:** Punchy and opinionated. Clear and direct. Slightly irreverent.
+**Voice:** Clear and direct. Every sentence carries structural information.
 The reader should think "oh, that's what that is."
 
 **Constraints:**
@@ -54,6 +54,12 @@ The reader should think "oh, that's what that is."
 - "A concept from [domain] that..." (encyclopedic)
 - Starting with "The idea that..." (passive)
 - Restating the name as a sentence (circular)
+- Smug kicker sentences ("Nobody asks who...", "The opacity was the point")
+- Editorial gotchas that comment on the metaphor's irony instead of explaining it
+- Punchlines that sacrifice information for cleverness
+
+**Tone rule:** If the second sentence doesn't add structural information, cut
+it. Be direct and earned, not performative. State the insight and stop.
 
 ## Golden Examples
 
@@ -63,10 +69,10 @@ Quality here sets the ceiling for the entire sweep.
 ### Tier 1 (self-explanatory names)
 
 1. **Bottleneck**: "A system's throughput is limited by its narrowest point. Widening the neck is the only way to improve it."
-2. **Trojan Horse**: "Gift-wrap the attack. The target opens the gates themselves."
-3. **Scapegoat**: "Load the community's sins onto one sacrifice and drive it out. The group is clean, the goat is not."
-4. **Sunk Cost**: "Money already spent shouldn't influence what you do next. But it always does."
-5. **Phoenix**: "Total destruction is the prerequisite for rebirth. The fire is the feature, not the failure."
+2. **Bug**: "Defects are framed as creatures that invaded the code. The framing hides that they were authored in, not smuggled in."
+3. **Bus Factor**: "How many people can vanish before the project dies. The number measures knowledge concentration, not headcount."
+4. **Achilles Heel**: "One hidden weak point can negate all other strength. The more invulnerable the system, the more catastrophic the single failure."
+5. **Bikeshedding**: "A committee approves a reactor in minutes and debates the bike shed for hours. Accessibility breeds opinions."
 
 ### Tier 2 (suggestive names)
 
@@ -74,7 +80,7 @@ Quality here sets the ceiling for the entire sweep.
 2. **Dead Zone**: "A system degraded past the point where normal recovery works. Feedback loops that once healed now accelerate collapse."
 3. **Facade**: "One clean interface hiding a mess of wiring behind it. The simplicity is real for the caller, fake for the maintainer."
 4. **Lava Flow**: "Code nobody dares touch because nobody remembers why it's there. It hardened in place and now it's load-bearing."
-5. **Rubber Duck**: "Explain the problem out loud to anything that will listen. The act of articulating is the act of solving."
+5. **Containment**: "The therapist receives unbearable feelings without breaking. The container frame captures holding but understates the work of transformation."
 
 ### Tier 3 (opaque/domain-specific)
 

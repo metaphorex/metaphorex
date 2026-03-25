@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Change Of State Is Change Of Direction
+summary: "State transitions feel like turns in the road. The sharper the turn, the bigger the change."
 provenance: lakoff-johnson-mwlb
 related:
 - change-is-motion
