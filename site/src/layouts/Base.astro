@@ -159,6 +159,29 @@ const corpusVersion = new Date().toISOString().split("T")[0].replace(/-/g, ".");
         gap: 0.5rem 1.5rem;
       }
 
+      @media (max-width: 640px) {
+        nav {
+          display: grid;
+          grid-template-columns: 1fr auto;
+          grid-template-rows: auto auto;
+          gap: 0.4rem 0;
+          align-items: baseline;
+        }
+        nav .site-name {
+          grid-column: 1;
+          grid-row: 1;
+        }
+        nav .nav-overflow {
+          grid-column: 2;
+          grid-row: 1;
+          justify-self: end;
+        }
+        nav .nav-links {
+          grid-column: 1 / -1;
+          grid-row: 2;
+        }
+      }
+
       .site-name {
         font-family: var(--font-heading);
         font-weight: 700;
@@ -175,6 +198,46 @@ const corpusVersion = new Date().toISOString().split("T")[0].replace(/-/g, ".");
         gap: 0 1.5rem;
         font-family: var(--font-heading);
         font-size: 0.9375em;
+      }
+
+      .nav-overflow { display: none; }
+
+      @media (max-width: 640px) {
+        .nav-links .nav-collapsible { display: none; }
+        .nav-overflow {
+          display: inline-block;
+          position: relative;
+          font-family: var(--font-heading);
+          font-size: 0.9375em;
+        }
+        .nav-overflow summary {
+          cursor: pointer;
+          list-style: none;
+          color: var(--accent);
+          font-weight: 600;
+          letter-spacing: 0.1em;
+        }
+        .nav-overflow summary::-webkit-details-marker { display: none; }
+        .nav-overflow .nav-dropdown {
+          position: absolute;
+          right: 0;
+          top: 1.5em;
+          background: var(--bg);
+          border: 1px solid var(--border);
+          border-radius: 0.3rem;
+          padding: 0.5rem 0;
+          min-width: 8rem;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+          z-index: 10;
+        }
+        .nav-overflow .nav-dropdown a {
+          display: block;
+          padding: 0.35rem 1rem;
+          white-space: nowrap;
+        }
+        .nav-overflow .nav-dropdown a:hover {
+          background: var(--surface);
+        }
       }
 
       /* =========================================================
@@ -310,10 +373,18 @@ const corpusVersion = new Date().toISOString().split("T")[0].replace(/-/g, ".");
         <a href="/entries/">Entries</a>
         <a href="/frames/">Frames</a>
         <a href="/categories/">Categories</a>
-        <a href="/works/">Works</a>
-        <a href="/colophon/">Colophon</a>
-        <a href="https://github.com/metaphorex/metaphorex" title="GitHub" aria-label="GitHub"><svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor" style="vertical-align: -0.2em;"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></a>
+        <a href="/works/" class="nav-collapsible">Works</a>
+        <a href="/colophon/" class="nav-collapsible">About</a>
+        <a href="https://github.com/metaphorex/metaphorex" class="nav-collapsible" title="GitHub" aria-label="GitHub"><svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor" style="vertical-align: -0.2em;"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></a>
       </span>
+      <details class="nav-overflow">
+        <summary>&middot;&middot;&middot;</summary>
+        <div class="nav-dropdown">
+          <a href="/works/">Works</a>
+          <a href="/colophon/">About</a>
+          <a href="https://github.com/metaphorex/metaphorex">GitHub</a>
+        </div>
+      </details>
     </nav>
     <div id="search"></div>
     <script is:inline>

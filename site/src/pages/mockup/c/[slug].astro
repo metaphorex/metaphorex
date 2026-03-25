@@ -1,0 +1,213 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+import neighborsData from "@/data/neighbors.json";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("entries");
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const allFrames = await getCollection("frames");
+const sourceFrame = entry.data.source_frame
+  ? allFrames.find((f) => f.data.slug === entry.data.source_frame)
+  : null;
+const appliesTo = (entry.data.applies_to || []).map((slug: string) => {
+  const frame = allFrames.find((f) => f.data.slug === slug);
+  return { slug, frame };
+});
+const allEntries = await getCollection("entries");
+const related = entry.data.related
+  .map((slug: string) => allEntries.find((m) => m.data.slug === slug))
+  .filter(Boolean);
+
+const entryNeighbors = (neighborsData as any)[entry.data.slug];
+const crossDomain = (entryNeighbors?.crossDomain ?? []).slice(0, 4);
+
+const ep = entry.data.embodied_patterns ?? [];
+const rt = entry.data.relation_types ?? [];
+const st = entry.data.structure;
+const stList = st ? (Array.isArray(st) ? st : [st]) : [];
+const al = entry.data.abstraction_level;
+const transfers = entry.data.transfers ?? [];
+const limits = entry.data.limits ?? [];
+
+function stripPrefix(s: string): string {
+  return s.replace(/^\[.*?\]\s*/, "");
+}
+
+function compress(s: string): string {
+  // Shorten proposition to key phrase (first clause, ~80 chars)
+  const stripped = stripPrefix(s);
+  if (stripped.length <= 80) return stripped;
+  // Find a natural break point
+  const comma = stripped.indexOf(",", 40);
+  const dash = stripped.indexOf("--", 40);
+  const cut = Math.min(
+    comma > 0 ? comma : 999,
+    dash > 0 ? dash : 999,
+    80
+  );
+  return stripped.slice(0, cut).trim();
+}
+---
+
+<Base title={`${entry.data.name} — Layout C`}>
+  <p class="muted" style="margin-bottom:1rem; font-size:0.85em">
+    <a href="/mockup/">Mockups</a> &middot; Layout C: Index Card &middot;
+    <a href={`/mockup/a/${entry.data.slug}/`}>A</a> &middot;
+    <a href={`/mockup/b/${entry.data.slug}/`}>B</a> &middot;
+    <a href={`/entries/${entry.data.slug}/`}>Current</a>
+  </p>
+
+  <style>
+    .index-card {
+      max-width: 36rem;
+    }
+    .index-card .ic-title {
+      font-size: 1.6em;
+      margin-bottom: 0.15rem;
+    }
+    .index-card .ic-summary {
+      font-size: 1.05em;
+      color: var(--fg);
+      margin-bottom: 0.5rem;
+      line-height: 1.4;
+    }
+    .index-card .ic-meta {
+      font-size: 0.85em;
+      color: var(--muted);
+      margin-bottom: 1.25rem;
+      font-family: var(--font-heading);
+    }
+    .ic-section-label {
+      font-size: 0.7em;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--muted);
+      font-family: var(--font-heading);
+      border-top: 1px solid var(--border);
+      padding-top: 0.5rem;
+      margin-top: 0.75rem;
+      margin-bottom: 0.4rem;
+    }
+    .ic-props {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      font-size: 0.92em;
+      line-height: 1.45;
+    }
+    .ic-props li {
+      margin-bottom: 0.3rem;
+    }
+    .ic-props .t::before { content: "◆ "; color: var(--accent); font-size: 0.8em; }
+    .ic-props .l::before { content: "✕ "; color: #c44; font-size: 0.8em; }
+    .ic-links {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      font-size: 0.9em;
+    }
+    .ic-links li {
+      margin-bottom: 0.2rem;
+    }
+    .ic-links .arrow { color: var(--muted); font-size: 0.9em; }
+    .ic-links .link-meta { color: var(--muted); font-size: 0.85em; }
+    .ic-expand {
+      margin-top: 1rem;
+      font-size: 0.9em;
+    }
+    .ic-expand summary {
+      cursor: pointer;
+      font-family: var(--font-heading);
+      color: var(--muted);
+      font-size: 0.85em;
+    }
+    .ic-expand summary:hover { color: var(--fg); }
+    .ic-expand > div { margin-top: 0.5rem; }
+  </style>
+
+  <div class="index-card">
+    <h1 class="ic-title">{entry.data.name}</h1>
+
+    {transfers.length > 0 && (
+      <p class="ic-summary">{compress(transfers[0])}</p>
+    )}
+
+    <p class="ic-meta">
+      <span class="tag">{entry.data.kind}</span>
+      {entry.data.dead && <span class="tag">dead</span>}
+      {sourceFrame && (
+        <a href={`/frames/${sourceFrame.data.slug}/`}>{sourceFrame.data.name}</a>
+      )}
+      {sourceFrame && appliesTo.length > 0 && " → "}
+      {appliesTo.map((a: { slug: string; frame: any }, i: number) => (
+        <>
+          {i > 0 && ", "}
+          {a.frame
+            ? <a href={`/frames/${a.frame.data.slug}/`}>{a.frame.data.name}</a>
+            : a.slug}
+        </>
+      ))}
+      {al && <> &middot; <span class="tag">{al}</span></>}
+    </p>
+
+    {transfers.length > 0 && (
+      <>
+        <div class="ic-section-label">transfers</div>
+        <ul class="ic-props">
+          {transfers.map((t: string) => (
+            <li class="t">{compress(t)}</li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    {limits.length > 0 && (
+      <>
+        <div class="ic-section-label">limits</div>
+        <ul class="ic-props">
+          {limits.map((l: string) => (
+            <li class="l">{compress(l)}</li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    {(crossDomain.length > 0 || related.length > 0) && (
+      <>
+        <div class="ic-section-label">see also</div>
+        <ul class="ic-links">
+          {crossDomain.map((n: any) => (
+            <li>
+              <span class="arrow">&#8599;</span>{" "}
+              <a href={`/entries/${n.slug}/`}>{n.name}</a>
+              <span class="link-meta"> ({n.sourceFrame}) &middot; {n.sharedEp.slice(0,2).join(", ")}</span>
+            </li>
+          ))}
+          {related.map((r: any) => (
+            <li>
+              <span class="arrow">&rarr;</span>{" "}
+              <a href={`/entries/${r.data.slug}/`}>{r.data.name}</a>
+              <span class="link-meta"> related</span>
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    <details class="ic-expand">
+      <summary>full entry</summary>
+      <div>
+        <Content />
+      </div>
+    </details>
+  </div>
+</Base>

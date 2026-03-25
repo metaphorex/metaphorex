@@ -1,0 +1,225 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+import neighborsData from "@/data/neighbors.json";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("entries");
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const allFrames = await getCollection("frames");
+const sourceFrame = entry.data.source_frame
+  ? allFrames.find((f) => f.data.slug === entry.data.source_frame)
+  : null;
+const appliesTo = (entry.data.applies_to || []).map((slug: string) => {
+  const frame = allFrames.find((f) => f.data.slug === slug);
+  return { slug, frame };
+});
+const allEntries = await getCollection("entries");
+const related = entry.data.related
+  .map((slug: string) => allEntries.find((m) => m.data.slug === slug))
+  .filter(Boolean);
+
+const entryNeighbors = (neighborsData as any)[entry.data.slug];
+const crossDomain = (entryNeighbors?.crossDomain ?? []).slice(0, 6);
+
+const ep = entry.data.embodied_patterns ?? [];
+const rt = entry.data.relation_types ?? [];
+const st = entry.data.structure;
+const stList = st ? (Array.isArray(st) ? st : [st]) : [];
+const al = entry.data.abstraction_level;
+const transfers = entry.data.transfers ?? [];
+const limits = entry.data.limits ?? [];
+
+function stripPrefix(s: string): string {
+  return s.replace(/^\[.*?\]\s*/, "");
+}
+---
+
+<Base title={`${entry.data.name} — Layout A`}>
+  <p class="muted" style="margin-bottom:1rem; font-size:0.85em">
+    <a href="/mockup/">Mockups</a> &middot; Layout A: Wikipedia &middot;
+    <a href={`/mockup/b/${entry.data.slug}/`}>B</a> &middot;
+    <a href={`/mockup/c/${entry.data.slug}/`}>C</a> &middot;
+    <a href={`/entries/${entry.data.slug}/`}>Current</a>
+  </p>
+
+  <style>
+    .layout-a {
+      display: grid;
+      grid-template-columns: 1fr 14rem;
+      gap: 2rem;
+      align-items: start;
+    }
+    @media (max-width: 768px) {
+      .layout-a { grid-template-columns: 1fr; }
+    }
+    .layout-a .main-col h1 { margin-bottom: 0.25rem; }
+    .layout-a .sidebar {
+      font-size: 0.85em;
+      position: sticky;
+      top: 1rem;
+    }
+    .layout-a .sidebar section {
+      margin-bottom: 1.25rem;
+    }
+    .layout-a .sidebar h3 {
+      font-size: 0.75em;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--muted);
+      margin-bottom: 0.4rem;
+      border: none;
+    }
+    .layout-a .sidebar ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .layout-a .sidebar li {
+      margin-bottom: 0.3rem;
+      line-height: 1.35;
+    }
+    .layout-a .sidebar .tag {
+      font-size: 0.75em;
+      margin: 0.1em;
+    }
+    .prop-box {
+      background: var(--surface);
+      border-left: 3px solid var(--accent);
+      padding: 0.75rem 1rem;
+      margin: 0.5rem 0 1rem;
+      font-size: 0.95em;
+    }
+    .prop-box li {
+      margin-bottom: 0.4rem;
+      line-height: 1.4;
+    }
+    .prop-box ul { margin: 0; padding-left: 0; list-style: none; }
+    .prop-box li::before { content: ""; }
+    .transfer-item::before { content: "◆ "; color: var(--accent); }
+    .limit-item::before { content: "✕ "; color: #c44; }
+    details summary {
+      cursor: pointer;
+      font-family: var(--font-heading);
+      font-size: 1.1em;
+      font-weight: 600;
+      margin: 1.5rem 0 0.5rem;
+      color: var(--muted);
+    }
+    details summary:hover { color: var(--fg); }
+    .expr-inline {
+      font-size: 0.9em;
+      color: var(--muted);
+      font-style: italic;
+    }
+  </style>
+
+  <div class="layout-a">
+    <div class="main-col">
+      <article>
+        <h1>{entry.data.name}</h1>
+        <p class="muted" style="margin-bottom:0.5rem">
+          <span class="tag">{entry.data.kind}</span>
+          {entry.data.dead && <span class="tag">dead</span>}
+          {al && <span class="tag">{al}</span>}
+          {sourceFrame && (
+            <>
+              <a href={`/frames/${sourceFrame.data.slug}/`}>{sourceFrame.data.name}</a>
+              {appliesTo.length > 0 && " → "}
+            </>
+          )}
+          {appliesTo.map((a: { slug: string; frame: any }, i: number) => (
+            <>
+              {i > 0 && ", "}
+              {a.frame
+                ? <a href={`/frames/${a.frame.data.slug}/`}>{a.frame.data.name}</a>
+                : a.slug}
+            </>
+          ))}
+        </p>
+
+        {transfers.length > 0 && (
+          <>
+            <h2>What it transfers</h2>
+            <div class="prop-box">
+              <ul>
+                {transfers.map((t: string) => (
+                  <li class="transfer-item">{stripPrefix(t)}</li>
+                ))}
+              </ul>
+            </div>
+          </>
+        )}
+
+        {limits.length > 0 && (
+          <>
+            <h2>Where it breaks</h2>
+            <div class="prop-box">
+              <ul>
+                {limits.map((l: string) => (
+                  <li class="limit-item">{stripPrefix(l)}</li>
+                ))}
+              </ul>
+            </div>
+          </>
+        )}
+
+        <details>
+          <summary>Commentary</summary>
+          <Content />
+        </details>
+
+        {related.length > 0 && (
+          <p class="muted" style="margin-top:1rem">
+            Related: {related.map((r: any, i: number) => (
+              <>{i > 0 && ", "}<a href={`/entries/${r.data.slug}/`}>{r.data.name}</a></>
+            ))}
+          </p>
+        )}
+      </article>
+    </div>
+
+    <aside class="sidebar">
+      {ep.length > 0 && (
+        <section>
+          <h3>Patterns</h3>
+          <div>{ep.map((v: string) => <span class="tag">{v}</span>)}</div>
+        </section>
+      )}
+      {rt.length > 0 && (
+        <section>
+          <h3>Relations</h3>
+          <div>{rt.map((v: string) => <span class="tag">{v}</span>)}</div>
+        </section>
+      )}
+      {stList.length > 0 && (
+        <section>
+          <h3>Structure</h3>
+          <div>{stList.map((v: string) => <span class="tag">{v}</span>)}</div>
+        </section>
+      )}
+
+      {crossDomain.length > 0 && (
+        <section>
+          <h3>Similar across domains</h3>
+          <ul>
+            {crossDomain.map((n: any) => (
+              <li>
+                <a href={`/entries/${n.slug}/`}>{n.name}</a>
+                <br/><span class="muted" style="font-size:0.8em">{n.sourceFrame} &middot; {n.sharedEp.slice(0,2).join(", ")}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+    </aside>
+  </div>
+</Base>
