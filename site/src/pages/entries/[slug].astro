@@ -22,30 +22,34 @@ const appliesTo = (entry.data.applies_to || []).map((slug: string) => {
   const frame = allFrames.find((f) => f.data.slug === slug);
   return { slug, frame };
 });
-
 const allEntries = await getCollection("entries");
 const related = entry.data.related
   .map((slug: string) => allEntries.find((m) => m.data.slug === slug))
   .filter(Boolean);
+
+const entryNeighbors = (neighborsData as any)[entry.data.slug];
+const crossDomain = (entryNeighbors?.crossDomain ?? []).slice(0, 5);
+
+const ep = entry.data.embodied_patterns ?? [];
+const rt = entry.data.relation_types ?? [];
+const st = entry.data.structure;
+const stList = st ? (Array.isArray(st) ? st : [st]) : [];
+const al = entry.data.abstraction_level;
+const transfers = entry.data.transfers ?? [];
+const limits = entry.data.limits ?? [];
+const summary = entry.data.summary;
 
 const allWorks = await getCollection("works");
 const provenanceWork = entry.data.provenance
   ? allWorks.find((w) => w.data.slug === entry.data.provenance)
   : null;
 
-// Structural neighbors (pre-computed at build time)
-const entryNeighbors = (neighborsData as any)[entry.data.slug];
-const crossDomain = entryNeighbors?.crossDomain ?? [];
-const sameDomain = entryNeighbors?.sameDomain ?? [];
-
-// Structural tags for display
-const ep = entry.data.embodied_patterns ?? [];
-const rt = entry.data.relation_types ?? [];
-const st = entry.data.structure;
-const stList = st ? (Array.isArray(st) ? st : [st]) : [];
-const al = entry.data.abstraction_level;
+function stripPrefix(s: string): string {
+  return s.replace(/^\[.*?\]\s*/, "");
+}
 
 function descriptionText() {
+  if (summary) return summary;
   const parts: string[] = [entry.data.name];
   if (sourceFrame) parts.push(`from ${sourceFrame.data.name}`);
   if (appliesTo.length > 0) parts.push(`applied to ${appliesTo.map((a: { slug: string; frame: any }) => a.frame?.data.name || a.slug).join(", ")}`);
@@ -65,99 +69,263 @@ function descriptionText() {
       {al && <span data-pagefind-filter="level">{al}</span>}
     </div>
 
-    <h1>{entry.data.name}</h1>
+    <style>
+      .card {
+        border: 1px solid var(--border);
+        border-radius: 0.5rem;
+        overflow: hidden;
+      }
+      .card-header {
+        padding: 1rem 1.25rem 0.75rem;
+        border-bottom: 1px solid var(--border);
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+      .card-header h1 {
+        font-size: 1.4em;
+        margin: 0;
+      }
+      .card-header .meta {
+        font-size: 0.85em;
+        color: var(--muted);
+        font-family: var(--font-heading);
+      }
+      .card-summary {
+        padding: 0.4rem 1.25rem 0.4rem;
+        margin: 0;
+        font-size: 1em;
+        line-height: 1.4;
+        color: var(--fg);
+      }
+      .card-summary.placeholder {
+        color: var(--muted);
+        font-style: italic;
+        font-size: 0.9em;
+      }
+      .card-mapping {
+        padding: 0.25rem 1.25rem 0.5rem;
+        font-size: 0.85em;
+        color: var(--muted);
+        border-bottom: 1px solid var(--border);
+      }
+      .two-col {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        min-height: 0;
+      }
+      @media (max-width: 600px) {
+        .two-col { grid-template-columns: 1fr; }
+      }
+      .col-transfers {
+        padding: 1rem 1.25rem;
+        border-right: 1px solid var(--border);
+      }
+      .col-limits {
+        padding: 1rem 1.25rem;
+      }
+      .col-transfers h2, .col-limits h2 {
+        font-size: 0.75em;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--muted);
+        margin: 0 0 0.75rem;
+        border: none;
+        padding: 0;
+      }
+      .prop-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        font-size: 0.92em;
+        line-height: 1.45;
+      }
+      .prop-list li {
+        margin-bottom: 0.6rem;
+        padding-left: 1.2em;
+        text-indent: -1.2em;
+      }
+      .prop-list .t::before { content: "◆ "; color: var(--accent); }
+      .prop-list .l::before { content: "✕ "; color: #c44; }
+      .card-section {
+        padding: 0.75rem 1.25rem;
+        border-top: 1px solid var(--border);
+        font-size: 0.9em;
+      }
+      .card-section h2 {
+        font-size: 0.75em;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--muted);
+        margin: 0 0 0.4rem;
+        border: none;
+        padding: 0;
+      }
+      .neighbors-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.25rem 1rem;
+        font-size: 0.9em;
+      }
+      @media (max-width: 600px) {
+        .neighbors-grid { grid-template-columns: 1fr; }
+      }
+      .neighbors-grid a { font-weight: 600; }
+      .neighbors-grid .n-meta {
+        color: var(--muted);
+        font-size: 0.85em;
+      }
+      .tag-bar {
+        padding: 0.5rem 1.25rem;
+        border-top: 1px solid var(--border);
+        background: var(--surface);
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem 1.5rem;
+        font-size: 0.8em;
+        color: var(--muted);
+        font-family: var(--font-heading);
+      }
+      .tag-bar .tag { font-size: 0.85em; }
+      .card-section .expr {
+        font-style: italic;
+        color: var(--muted);
+      }
+      details.card-details summary {
+        cursor: pointer;
+        font-family: var(--font-heading);
+        font-size: 0.85em;
+        color: var(--muted);
+        padding: 0.5rem 1.25rem;
+        border-top: 1px solid var(--border);
+      }
+      details.card-details summary:hover { color: var(--fg); }
+      details.card-details > div {
+        padding: 0 1.25rem 1rem;
+        font-size: 0.92em;
+      }
+    </style>
 
-    <p class="muted">
-      <span class="tag">{entry.data.kind}</span>
-      {entry.data.dead && <span class="tag">dead</span>}
-      {entry.data.grounding && <span class="tag">{entry.data.grounding}</span>}
-    </p>
+    <div class="card">
+      <div class="card-header">
+        <h1>{entry.data.name}</h1>
+        <span class="meta">
+          <span class="tag">{entry.data.kind}</span>
+          {entry.data.dead && <span class="tag">dead</span>}
+          {al && <span class="tag">{al}</span>}
+        </span>
+      </div>
 
-    {(sourceFrame || appliesTo.length > 0) && (
-      <p class="muted">
-        {sourceFrame && (
-          <>
-            Source: <a href={`/frames/${sourceFrame.data.slug}/`}>{sourceFrame.data.name}</a>
-          </>
-        )}
-        {sourceFrame && appliesTo.length > 0 && " → "}
-        {appliesTo.length > 0 && (
-          <>
-            {!sourceFrame && "Applies to: "}
-            {appliesTo.map((a: { slug: string; frame: any }, i: number) => (
-              <>
-                {i > 0 && ", "}
-                {a.frame
-                  ? <a href={`/frames/${a.frame.data.slug}/`}>{a.frame.data.name}</a>
-                  : a.slug}
-              </>
+      {summary ? (
+        <p class="card-summary">{summary}</p>
+      ) : (
+        <p class="card-summary placeholder">[ needs summary ]</p>
+      )}
+
+      {(sourceFrame || appliesTo.length > 0) && (
+        <div class="card-mapping">
+          {sourceFrame && (
+            <a href={`/frames/${sourceFrame.data.slug}/`}>{sourceFrame.data.name}</a>
+          )}
+          {sourceFrame && appliesTo.length > 0 && " → "}
+          {appliesTo.map((a: { slug: string; frame: any }, i: number) => (
+            <>
+              {i > 0 && ", "}
+              {a.frame
+                ? <a href={`/frames/${a.frame.data.slug}/`}>{a.frame.data.name}</a>
+                : a.slug}
+            </>
+          ))}
+        </div>
+      )}
+
+      {(transfers.length > 0 || limits.length > 0) && (
+        <div class="two-col">
+          <div class="col-transfers">
+            <h2>Transfers</h2>
+            <ul class="prop-list">
+              {transfers.map((t: string) => (
+                <li class="t">{stripPrefix(t)}</li>
+              ))}
+            </ul>
+          </div>
+          <div class="col-limits">
+            <h2>Limits</h2>
+            <ul class="prop-list">
+              {limits.map((l: string) => (
+                <li class="l">{stripPrefix(l)}</li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      )}
+
+      {entry.data.categories.length > 0 && (
+        <div class="card-section">
+          <h2>Categories</h2>
+          {entry.data.categories.map((c: string, i: number) => (
+            <>{i > 0 && ", "}<a href={`/categories/${c}/`} class="tag">{c}</a></>
+          ))}
+        </div>
+      )}
+
+      {provenanceWork && (
+        <div class="card-section">
+          <h2>Provenance</h2>
+          <a href={`/works/${provenanceWork.data.slug}/`}>{provenanceWork.data.name}</a>
+        </div>
+      )}
+
+      {crossDomain.length > 0 && (
+        <div class="card-section">
+          <h2>Structural neighbors</h2>
+          <div class="neighbors-grid">
+            {crossDomain.map((n: any) => (
+              <div>
+                <a href={`/entries/${n.slug}/`}>{n.name}</a>
+                <span class="n-meta"> {n.sourceFrame} &middot; {n.sharedEp.slice(0,2).concat(n.sharedRt.slice(0,1)).join(", ")}</span>
+              </div>
             ))}
-          </>
-        )}
-      </p>
-    )}
+            {related.length > 0 && related.slice(0, 3).map((r: any) => (
+              <div>
+                <a href={`/entries/${r.data.slug}/`}>{r.data.name}</a>
+                <span class="n-meta"> related</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
 
-    <p class="muted">
-      Categories: {entry.data.categories.map((c: string) => (
-        <a href={`/categories/${c}/`} class="tag">{c}</a>
-      ))}
-    </p>
-
-    {provenanceWork && (
-      <p class="muted">
-        From: <a href={`/works/${provenanceWork.data.slug}/`}>{provenanceWork.data.name}</a>
-      </p>
-    )}
-
-    <Content />
-
-    {related.length > 0 && (
-      <>
-        <h2>Related Entries</h2>
-        <ul>
-          {related.map((r: any) => (
-            <li><a href={`/entries/${r.data.slug}/`}>{r.data.name}</a></li>
+      {related.length > 3 && (
+        <div class="card-section">
+          <h2>Related</h2>
+          {related.slice(3).map((r: any, i: number) => (
+            <>{i > 0 && ", "}<a href={`/entries/${r.data.slug}/`}>{r.data.name}</a></>
           ))}
-        </ul>
-      </>
-    )}
+        </div>
+      )}
 
-    {crossDomain.length > 0 && (
-      <>
-        <h2>Structural Neighbors</h2>
-        <p class="muted">Entries from different domains that share structural shape.
-          Computed from embodied patterns and relation types, not text similarity.</p>
-        <ul class="neighbors">
-          {crossDomain.map((n: any) => (
-            <li>
-              <a href={`/entries/${n.slug}/`}>{n.name}</a>
-              <span class="muted"> ({n.sourceFrame}/{n.kind})</span>
-              {n.sharedEp.length > 0 && (
-                <span class="muted neighbor-tags">
-                  {" "}{n.sharedEp.concat(n.sharedRt).join(", ")}
-                </span>
-              )}
-            </li>
-          ))}
-        </ul>
-      </>
-    )}
+      <details class="card-details">
+        <summary>Full commentary & expressions</summary>
+        <div>
+          <Content />
+        </div>
+      </details>
 
-    {ep.length > 0 && (
-      <>
-        <h2>Structural Tags</h2>
-        <p class="muted">
-          Patterns: {ep.map((v: string) => <span class="tag">{v}</span>)}
-        </p>
-        <p class="muted">
-          Relations: {rt.map((v: string) => <span class="tag">{v}</span>)}
-        </p>
-        <p class="muted">
-          Structure: {stList.map((v: string) => <span class="tag">{v}</span>)}
-          {al && <>{" "}Level: <span class="tag">{al}</span></>}
-        </p>
-      </>
-    )}
+      <div class="tag-bar">
+        {ep.length > 0 && <span>
+          {ep.map((v: string) => <span class="tag">{v}</span>)}
+        </span>}
+        {rt.length > 0 && <span>
+          {rt.map((v: string) => <span class="tag">{v}</span>)}
+        </span>}
+        {stList.length > 0 && <span>
+          {stList.map((v: string) => <span class="tag">{v}</span>)}
+        </span>}
+      </div>
+    </div>
 
     {(() => {
       const contributors = [
@@ -167,7 +335,7 @@ function descriptionText() {
         ...(entry.data.contributors || []).map((c: string) => ({ label: c })),
       ];
       return contributors.length > 0 && (
-        <p class="muted">
+        <p class="muted" style="font-size:0.8em; margin-top:0.75rem">
           Contributors: {contributors.map((c: { label: string; href?: string }, i: number) => (
             <>{i > 0 && ", "}{c.href ? <a href={c.href}>{c.label}</a> : c.label}</>
           ))}
