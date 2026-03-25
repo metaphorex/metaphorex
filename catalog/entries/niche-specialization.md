@@ -11,6 +11,7 @@ limits:
 - '[model] misleads by implying specialization is the survival path, when some of the most successful businesses (Amazon, Alphabet) are broad generalists operating at scales where competitive exclusion
   does not cleanly apply'
 name: Niche Specialization
+summary: "Deep adaptation to one niche means poor fitness in others; two identical competitors cannot stably coexist."
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

@@ -1,6 +1,7 @@
 ---
 slug: psychological-flexibility
 name: Psychological Flexibility
+summary: "Flexible materials bend under stress without shattering. ACT imports this as the central goal: absorb distress without losing repertoire."
 kind: metaphor
 source_frame: materials
 applies_to:

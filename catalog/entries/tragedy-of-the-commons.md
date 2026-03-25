@@ -17,6 +17,7 @@ limits:
   - '[paradigm] models the resource as a single undifferentiated pool with linear depletion, but most real commons have spatial structure, regeneration dynamics, and threshold effects that create different strategic landscapes'
   - '[paradigm] treats the number of players as fixed, but in open-access resources the problem is often entry rather than overuse -- the strategic structure shifts from N-player dilemma to a free-entry game with different equilibria'
 name: Tragedy of the Commons
+summary: "Each actor's private gain from one more unit exceeds their share of collective loss, making defection individually dominant regardless of others."
 related:
 - the-commons
 - prisoners-dilemma

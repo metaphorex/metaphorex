@@ -13,6 +13,7 @@ limits:
   - '[model] misleads because the strict sequential ranking (know-before-act) presumes that information gathering can precede commitment, whereas many business and engineering crises require acting under irreducible uncertainty where waiting for full situational awareness is itself the greatest risk'
   - '[model] obscures the orders'' dependence on a shared physical environment where threats are visible (flame, smoke, terrain), importing a false sense that organizational dangers are equally legible if you simply "look up, look down, look around"'
 name: Ten Standard Fire Orders
+summary: "Ten ranked directives for wildland firefighting that place situational awareness before action and codify retreat as a first-class decision."
 related:
 - triage
 - lces

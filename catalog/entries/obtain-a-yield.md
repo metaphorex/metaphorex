@@ -1,6 +1,7 @@
 ---
 slug: obtain-a-yield
 name: Obtain a Yield
+summary: "Every system must produce tangible output that sustains its maintainers, or maintenance will cease and the system will degrade."
 kind: mental-model
 categories:
 - systems-thinking

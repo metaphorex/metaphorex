@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: mental-model
 name: Critical Mass
+summary: "Below the threshold each event fizzles; above it each event triggers more. The difference between 99% and 101% of critical mass is everything, not 2%."
 provenance: munger-poor-charlies-almanack
 related: []
 slug: critical-mass

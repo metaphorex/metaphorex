@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Force Is a Substance Contained in Affecting Causes
+summary: "Causal force as fluid stored inside the cause, released when it acts. Preserves pre-Newtonian folk physics where force is a substance, not a relation."
 provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces

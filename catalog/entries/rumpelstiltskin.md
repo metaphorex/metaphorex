@@ -1,6 +1,7 @@
 ---
 slug: rumpelstiltskin
-name: Rumpelstiltskin
+name: "Rumpelstiltskin"
+summary: "Naming a hidden force converts it from mysterious and overwhelming into something that can be studied and counteracted"
 kind: metaphor
 source_frame: mythology
 applies_to:

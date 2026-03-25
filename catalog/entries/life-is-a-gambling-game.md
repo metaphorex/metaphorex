@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Life Is a Gambling Game
+summary: "Decisions as bets, initial conditions as dealt cards, strategy as agency within constraint. The frame imports false precision about odds."
 provenance: lakoff-johnson-mwlb
 related:
 - life-is-a-journey

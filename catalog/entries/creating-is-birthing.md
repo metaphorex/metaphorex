@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Creating Is Birthing
+summary: "Creation mapped as gestation, labor, and delivery. Centers a single parent, making collaborative creation structurally invisible."
 provenance: osaka-master-metaphor-list
 related:
 - creative-process-is-construction

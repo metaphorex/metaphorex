@@ -1,6 +1,7 @@
 ---
 slug: knotty-problem
 name: Knotty Problem
+summary: "Difficulty as a wood knot: intrinsic to the material's history, not introduced by the worker. Uniform technique fails where the grain swirls."
 kind: metaphor
 dead: true
 source_frame: carpentry

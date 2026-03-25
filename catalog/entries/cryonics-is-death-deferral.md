@@ -12,6 +12,7 @@ limits:
 - "[source] misleads because cryonic preservation requires the subject to be legally dead first, making it a post-mortem procedure reframed as a pre-revival one"
 - "[source] obscures that deferral implies the deferred event will eventually occur, while cryonics proponents hope to avoid death entirely -- the metaphor is more modest than the ambition"
 name: Cryonics Is Death Deferral
+summary: "Freezing reframes death as a technical problem deferred to future medicine."
 related:
 - uploading-is-digital-immortality
 slug: cryonics-is-death-deferral

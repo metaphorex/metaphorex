@@ -17,6 +17,7 @@ limits:
   - '[source] many mutualisms are obligate -- neither partner can survive alone -- but the metaphor is typically invoked for voluntary partnerships where either side could walk away'
   - '[source] ecological mutualism is species-level, not individual-level: some individual organisms in a mutualistic species may defect, and the system tolerates this because cheaters are a minority'
 name: Mutualism as Metaphor
+summary: "Both partners derive benefit by exchanging qualitatively different resources; relationship can shade into parasitism."
 related:
 - parasitism-as-metaphor
 - symbiosis

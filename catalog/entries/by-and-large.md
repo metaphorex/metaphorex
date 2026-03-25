@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: By and Large
+summary: "Sailing well both close-hauled and downwind meant competence in all conditions. Now a vague hedge with no recoverable nautical image."
 related: []
 slug: by-and-large
 source_frame: seafaring

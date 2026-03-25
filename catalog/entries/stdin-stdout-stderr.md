@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Stdin, Stdout, Stderr
+summary: "Three standard streams give every Unix process default plumbing: one intake, one output, one error channel. Pure fluid-dynamics vocabulary."
 related:
 - unix-pipe
 - data-flow-is-fluid-flow

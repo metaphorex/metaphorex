@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Disgust Is Nausea
+summary: "Moral rejection borrows the emetic reflex, making prejudice feel involuntary. The contamination logic licenses exclusion by proximity."
 provenance: osaka-master-metaphor-list
 related:
 - emotional-stability-is-balance

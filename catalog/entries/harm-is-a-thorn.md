@@ -11,6 +11,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Harm Is a Thorn
+summary: "Harm mapped onto injurious parts of plants: thorns prick, weeds choke, blight spreads. Domesticates harm into garden management, hiding thorns defend."
 provenance: glasgow-mapping-metaphor
 related:
 - beauty-is-a-flower

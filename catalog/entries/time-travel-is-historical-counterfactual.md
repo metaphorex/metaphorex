@@ -11,6 +11,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Time Travel Is Historical Counterfactual
+summary: "The past is a destination reachable by physical travel, reifying counterfactual reasoning as navigation rather than formal logical manipulation."
 related: []
 slug: time-travel-is-historical-counterfactual
 source_frame: science-fiction

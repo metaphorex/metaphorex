@@ -8,6 +8,7 @@ created: '2026-03-14'
 kind: metaphor
 dead: true
 name: Take the Wind out of Someone's Sails
+summary: "Position yourself to intercept the environmental resource your opponent depends on, stalling them without direct confrontation."
 related:
 - shot-across-the-bow
 slug: take-wind-out-of-sails

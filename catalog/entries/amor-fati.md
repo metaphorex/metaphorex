@@ -1,6 +1,7 @@
 ---
 slug: amor-fati
 name: Amor Fati
+summary: "Not merely endure what happens but actively embrace it. Resistance to the unchangeable is a second injury you inflict on yourself."
 kind: paradigm
 source_frame: philosophy
 categories:

@@ -6,6 +6,7 @@ const entries = defineCollection({
   schema: z.object({
     slug: z.string(),
     name: z.string(),
+    summary: z.string().optional(),
     kind: z.enum([
       "metaphor",
       "pattern",

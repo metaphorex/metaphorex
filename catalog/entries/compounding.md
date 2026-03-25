@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
 name: Compounding
+summary: "Returns generate their own returns over time. Small consistent inputs produce disproportionate long-term outputs, but interruption resets the curve."
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

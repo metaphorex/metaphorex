@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Life Is a Container
+summary: "Life as bounded volume to be filled. Fullness equals satisfaction, emptiness equals failure. The frame privileges accumulation over depth."
 provenance: lakoff-johnson-mwlb
 related:
 - life-is-a-journey

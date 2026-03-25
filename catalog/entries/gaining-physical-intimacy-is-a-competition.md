@@ -10,7 +10,8 @@ contributors: []
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
-name: Gaining Physical Intimacy (Against Resistance) Is a Competition
+name: "Gaining Physical Intimacy (Against Resistance) Is a Competition"
+summary: "Frames one partner's pursuit of intimacy against the other's resistance as a scored contest with attackers, defenders, and winners."
 provenance: osaka-master-metaphor-list
 related:
 - love-is-war

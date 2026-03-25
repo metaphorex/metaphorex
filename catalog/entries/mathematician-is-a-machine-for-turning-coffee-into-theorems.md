@@ -1,6 +1,7 @@
 ---
 slug: mathematician-is-a-machine-for-turning-coffee-into-theorems
 name: Mathematician Is a Machine for Turning Coffee into Theorems
+summary: "Mathematical work as factory process: coffee in, theorems out. Self-deprecating humor that encodes a real input-output model."
 kind: metaphor
 source_frame: manufacturing
 applies_to:

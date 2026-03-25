@@ -1,6 +1,7 @@
 ---
 slug: finishing-actions
-name: Finishing Actions
+name: "Finishing Actions"
+summary: "Complete each task through cleanup and handoff before starting the next. Incomplete work has carrying costs that compound."
 kind: mental-model
 source_frame: food-and-cooking
 categories:

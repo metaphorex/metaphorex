@@ -1,6 +1,7 @@
 ---
 slug: death-by-a-thousand-cuts
 name: Death by a Thousand Cuts
+summary: "Each injury is survivable; lethality emerges from accumulation before the damage becomes legible."
 kind: metaphor
 source_frame: harm
 applies_to:

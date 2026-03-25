@@ -1,6 +1,7 @@
 ---
 slug: tincture-of-time
 name: Tincture of Time
+summary: "Deliberate waiting reframed as a prescribed intervention: some conditions resolve through the system's own repair capacity."
 kind: metaphor
 source_frame: medicine
 applies_to:

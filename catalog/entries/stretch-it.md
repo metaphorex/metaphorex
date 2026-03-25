@@ -1,6 +1,7 @@
 ---
 slug: stretch-it
 name: Stretch It
+summary: "Add cheaper ingredients to make a scarce resource serve more portions while preserving its character. Invisible stretching is the success test."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

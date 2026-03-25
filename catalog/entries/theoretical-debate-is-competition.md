@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Theoretical Debate Is Competition
+summary: "Theories compete, scholars rival, paradigms win. The frame demands resolution where one side prevails, obscuring cumulative progress."
 provenance: osaka-master-metaphor-list
 related:
 - argument-is-war

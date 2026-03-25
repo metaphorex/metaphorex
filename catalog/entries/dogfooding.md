@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Dogfooding
+summary: "Use your own product so defects become personal irritants, not reported abstractions. The trust signal works because dog food is unappetizing."
 related: []
 slug: dogfooding
 source_frame: animal-husbandry

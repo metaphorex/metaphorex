@@ -14,6 +14,7 @@ limits:
   - "[paradigm] implies a clear principal-deputy-attacker triad, but in recursive delegation chains (agent calls agent calls agent) the authority structure is too tangled for the paradigm's clean framing"
   - "[paradigm] suggests the fix is better capability scoping, but many real confused-deputy attacks exploit the gap between what permissions formally allow and what the deputy pragmatically needs"
 name: Confused Deputy
+summary: "An authorized program is tricked into misusing its own legitimate permissions on behalf of an attacker who has none."
 related:
 - trojan-horse
 - lethal-trifecta

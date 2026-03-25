@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-11'
 kind: archetype
 name: The Prototype Pattern
+summary: "Create new objects by cloning an existing instance rather than constructing from a class, letting the copy serve as spec."
 provenance: gang-of-four
 related:
 - the-factory-pattern

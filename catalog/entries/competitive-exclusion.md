@@ -1,6 +1,7 @@
 ---
 slug: competitive-exclusion
 name: Competitive Exclusion
+summary: "Two species competing for identical resources cannot coexist at equilibrium. Stable coexistence is evidence of hidden differentiation."
 kind: mental-model
 source_frame: ecology
 categories:

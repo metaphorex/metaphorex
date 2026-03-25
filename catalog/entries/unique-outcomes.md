@@ -1,6 +1,7 @@
 ---
 slug: unique-outcomes
 name: Unique Outcomes
+summary: "Narrative therapy technique that searches the client's dominant story for contradictions that can seed an alternative plot."
 kind: pattern
 source_frame: narrative
 applies_to:

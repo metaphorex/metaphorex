@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: paradigm
 name: False in One Thing, False in All
+summary: "One demonstrated lie licenses discounting all testimony from that source. Trustworthiness is treated as indivisible."
 provenance: brooms-legal-maxims
 related:
 - the-exception-proves-the-rule

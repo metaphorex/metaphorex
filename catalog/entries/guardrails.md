@@ -21,6 +21,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Guardrails
+summary: "Safety as passive boundary deflection along a predefined road. Assumes acceptable behavior is well-mapped, but AI has no road with visible edges."
 related:
 - ai-safety-is-containment
 - ai-is-an-agent

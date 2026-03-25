@@ -17,6 +17,7 @@ limits:
 - '[source] misleads because moving objects pass sequentially in single file, providing
   no way to represent simultaneous parallel processes'
 name: Time Is a Moving Object
+summary: "Time comes toward us and passes by. We stand still while events approach, arrive, and recede."
 provenance: lakoff-johnson-mwlb
 related:
 - time-is-stationary-and-we-move-through-it

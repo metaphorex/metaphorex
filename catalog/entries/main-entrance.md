@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: Main Entrance
+summary: "A building's front door should be visible from the street. Software entry points need the same obvious discoverability."
 provenance: alexander-pattern-language
 related:
 - the-facade-pattern

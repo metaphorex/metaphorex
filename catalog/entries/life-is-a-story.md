@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Life Is a Story
+summary: "Events become plot points, stages become chapters, the self becomes protagonist. Coherence is imposed retroactively; real lives have loose ends."
 provenance: osaka-master-metaphor-list
 related:
 - life-is-a-journey

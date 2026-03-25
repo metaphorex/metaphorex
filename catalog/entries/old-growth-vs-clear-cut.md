@@ -1,6 +1,7 @@
 ---
 slug: old-growth-vs-clear-cut
 name: Old Growth vs. Clear-Cut
+summary: "Institutional memory accumulates like forest complexity over decades: layoffs remove the mycorrhizal network, not just headcount."
 kind: metaphor
 source_frame: ecology
 applies_to:

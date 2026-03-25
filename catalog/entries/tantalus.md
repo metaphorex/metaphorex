@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Tantalus
+summary: "The fruit withdraws when reached for. Proximity intensifies suffering. The word now means pleasurable anticipation, not divine torture."
 related:
 - damocles-sword
 - augean-stables

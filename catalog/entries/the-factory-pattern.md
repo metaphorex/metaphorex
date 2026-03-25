@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Factory Pattern
+summary: "Delegate object creation to a dedicated factory. The caller says what it needs; the factory decides how to build it."
 provenance: gang-of-four
 related:
 - the-facade-pattern

@@ -1,6 +1,7 @@
 ---
 slug: life-is-a-ball-game
 name: Life Is a Ball Game
+summary: "Stoic metaphor: focus on the quality of your throw and catch, not on possessing the ball. The ball circulates; clinging to it ruins the game."
 kind: metaphor
 source_frame: athletics-and-combat
 applies_to:

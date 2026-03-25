@@ -1,6 +1,7 @@
 ---
 slug: teslers-law
 name: "Tesler's Law"
+summary: "Every system has irreducible complexity that can be redistributed between user, developer, and platform but not eliminated."
 kind: mental-model
 source_frame: physics
 categories:

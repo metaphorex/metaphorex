@@ -8,7 +8,8 @@ created: '2026-03-18'
 grounding: established
 harness: Claude Code
 kind: mental-model
-name: Kaikaku
+name: "Kaikaku"
+summary: "When incremental improvement hits diminishing returns, the system itself needs redesign."
 related:
 - kaizen
 - activation-energy

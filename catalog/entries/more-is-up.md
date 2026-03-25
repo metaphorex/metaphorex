@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: More Is Up; Less Is Down
+summary: "Quantity maps onto vertical height from the experience of piling. Conflates increase with improvement because GOOD IS UP occupies the same axis."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

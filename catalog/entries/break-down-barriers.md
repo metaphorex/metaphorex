@@ -1,6 +1,7 @@
 ---
 slug: break-down-barriers
 name: Break Down Barriers
+summary: "Deming's Point 9 frames departments as rooms and information as flow. The demolition metaphor hides that walls also bear structural load."
 kind: metaphor
 source_frame: architecture-and-building
 applies_to:

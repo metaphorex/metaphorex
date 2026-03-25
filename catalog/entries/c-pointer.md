@@ -1,6 +1,7 @@
 ---
 slug: c-pointer
 name: C Pointer
+summary: "A memory address as a pointing gesture. Every pointer bug maps to a gesture failure: pointing at nothing, at where something was, or at random."
 kind: metaphor
 dead: true
 source_frame: embodied-experience

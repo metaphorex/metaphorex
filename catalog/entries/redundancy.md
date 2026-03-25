@@ -11,6 +11,7 @@ limits:
 - '[model] breaks when failures are correlated (common-mode failure) -- the 2008 crisis showed that ''diversified'' mortgage portfolios all depended on the same housing market assumptions'
 - '[model] misleads by making backup systems sound obviously wise while understating the ongoing cost of keeping redundant components functional, not just present'
 name: Redundancy
+summary: "System reliability exceeds any single component's when failures are independent and backups exist. The opposite of over-optimization."
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

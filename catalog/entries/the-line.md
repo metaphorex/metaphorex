@@ -1,6 +1,7 @@
 ---
 slug: the-line
 name: The Line
+summary: "The kitchen zone where tickets become plates under time pressure. Each station owns a segment; being on the line means active production."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

@@ -17,6 +17,7 @@ limits:
   - "[source] implies a single dramatic infiltration event, but real attacks often involve persistent, incremental access rather than one decisive breach"
   - "[source] frames the threat as entirely external (Greek invaders), obscuring insider threats where the attacker is already within the walls"
 name: Trojan Horse
+summary: "The most effective attack on a defended system is one that gets invited in. The threat's key property is that it looks desirable."
 related:
 - achilles-heel
 - pandora-box

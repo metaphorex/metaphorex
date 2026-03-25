@@ -1,6 +1,7 @@
 ---
 slug: re-authoring
-name: Re-authoring
+name: "Re-authoring"
+summary: "Narrative therapy pattern where clients construct alternative life stories by foregrounding real events the dominant narrative marginalized"
 kind: pattern
 source_frame: narrative
 applies_to:

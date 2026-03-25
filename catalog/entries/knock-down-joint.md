@@ -1,6 +1,7 @@
 ---
 slug: knock-down-joint
 name: Knock-Down Joint
+summary: "A joint designed from the start for disassembly. Modularity must be decided at construction time; you cannot retrofit it after gluing."
 kind: metaphor
 dead: true
 source_frame: carpentry

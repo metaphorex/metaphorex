@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Problem Is a Tangle
+summary: "Intertwined strands that tighten when pulled too hard. Solving requires patient tracing, not force."
 provenance: osaka-master-metaphor-list
 related:
 - problem-is-a-constructed-object

@@ -1,6 +1,7 @@
 ---
 slug: street-windows
 name: Street Windows
+summary: "Windows facing the street create passive, ambient observation that makes public space safer. Maps onto observability dashboards and status pages."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

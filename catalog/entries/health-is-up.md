@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Health Is Up; Sickness Is Down
+summary: "The most directly embodied orientational metaphor: sick people lie down, recovered people stand up. Chronic illness has no place on the vertical axis."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

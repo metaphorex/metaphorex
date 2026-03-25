@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-07'
 kind: metaphor
 name: Argument Is War
+summary: "The ur-metaphor. We attack positions, defend claims, and win debates. Changing your mind feels like surrender."
 related:
 - argument-is-dance
 slug: argument-is-war

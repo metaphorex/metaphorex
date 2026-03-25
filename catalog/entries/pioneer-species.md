@@ -16,6 +16,7 @@ limits:
   - '[source] misleads by implying that displacement is inevitable and benign, since ecological succession is a slow, multi-generational process where pioneers decay and become soil for successors -- corporate displacement is abrupt, adversarial, and the pioneer does not nourish its replacement'
   - '[source] obscures that ecological pioneers are r-strategists (high reproduction, low parental investment, short lifespan) while first-mover companies are often the opposite: heavily capitalized, slow to reproduce their model, and desperate to survive as long as possible'
 name: Pioneer Species
+summary: "Maps ecological colonization of disturbed ground onto first-mover market entry, where pioneers build habitat later competitors exploit"
 provenance: ecological-metaphors
 related:
 - invasive-species-as-metaphor

@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Status Is Up; Lack Of Status Is Down
+summary: "Social rank maps onto altitude. Climbing requires effort, falling is sudden. The vertical axis makes meritocracy feel like physics."
 provenance: lakoff-johnson-mwlb
 related:
 - having-control-is-up

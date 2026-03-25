@@ -1,6 +1,7 @@
 ---
 slug: normalization-of-deviance
 name: Normalization of Deviance
+summary: "Each rule violation that produces no harm recalibrates acceptable risk upward, so the safety boundary drifts without anyone deciding to move it."
 kind: mental-model
 source_frame: risk-and-uncertainty
 categories:

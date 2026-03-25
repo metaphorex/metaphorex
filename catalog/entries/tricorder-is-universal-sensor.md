@@ -22,6 +22,7 @@ limits:
   \ training in the sensor hardware itself -- the device abstracts away\
   \ all calibration and interpretation"
 name: Tricorder Is Universal Sensor
+summary: "Collapses many separate diagnostic instruments into one handheld device. Scanning requires no sample preparation, no invasive procedure, no waiting."
 related: []
 slug: tricorder-is-universal-sensor
 source_frame: science-fiction

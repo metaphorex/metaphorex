@@ -1,6 +1,7 @@
 ---
 slug: see-one-do-one-teach-one
 name: See One, Do One, Teach One
+summary: "Surgical training compressed into three phases: observe, perform under supervision, then teach to consolidate mastery."
 kind: pattern
 source_frame: medicine
 applies_to:

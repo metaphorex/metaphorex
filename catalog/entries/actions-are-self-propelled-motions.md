@@ -15,6 +15,7 @@ limits:
   frame'
 - '[source] misleads by making stopping seem effortless (just cease propelling), when ceasing an action (quitting a habit, ending a commitment) often requires enormous effort and courage'
 name: Actions Are Self-Propelled Motions
+summary: "To act is to move yourself. This makes stillness look like inaction and stopping look effortless, hiding that both can require immense effort."
 provenance: osaka-master-metaphor-list
 related:
 - action-is-motion

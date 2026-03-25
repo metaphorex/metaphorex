@@ -13,6 +13,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: Causes Are Forces
+summary: "We understand causation through embodied experience of pushing, pulling, and blocking. The body's physics becomes the mind's logic."
 related:
 - the-conduit-metaphor
 - ideas-are-objects

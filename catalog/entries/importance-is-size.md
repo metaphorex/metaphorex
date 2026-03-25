@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Importance Is Size
+summary: "What matters is big; what doesn't is small. The mapping works until the smallest component carries the greatest consequence."
 provenance: osaka-master-metaphor-list
 related:
 - more-is-up

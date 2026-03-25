@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Code Smell
+summary: "Bad code is detected by nose before analysis. The olfactory metaphor validates pre-conscious pattern recognition as a legitimate engineering signal."
 related:
 - technical-debt
 - program-failure-is-bodily-failure

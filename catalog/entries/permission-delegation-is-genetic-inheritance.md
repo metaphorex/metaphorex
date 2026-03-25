@@ -1,6 +1,7 @@
 ---
 slug: permission-delegation-is-genetic-inheritance
 name: Permission Delegation Is Genetic Inheritance
+summary: "Child processes inherit parent permissions like offspring inherit genes. But permissions should be revocable; genomes are not."
 kind: metaphor
 source_frame: reproduction
 applies_to:

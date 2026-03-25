@@ -14,7 +14,8 @@ limits:
 - '[source] misleads because literal weeds impede movement through physical entanglement, while kitchen overwhelm is a timing and capacity problem -- you are not stuck but falling behind, which is a different failure mode'
 - '[source] implies a static condition (being in a place) when the actual experience is dynamic deterioration -- each passing second makes the situation worse as orders pile up'
 - '[source] obscures the social dimension: a cook in the weeds affects the entire brigade''s output, but the metaphor frames it as an individual spatial problem rather than a systemic cascade'
-name: In the Weeds
+name: "In the Weeds"
+summary: "Kitchen slang for the moment a cook's station crosses from busy to failing, naming the threshold where more effort makes things worse, not better."
 related:
 - technical-debt
 slug: in-the-weeds

@@ -1,6 +1,7 @@
 ---
 slug: you-cannot-create-results-only-conditions
 name: You Cannot Create Results, Only Conditions
+summary: "Shape the environment in which action occurs rather than specifying the action; results emerge from conditions but cannot be directly produced."
 kind: mental-model
 categories:
   - systems-thinking

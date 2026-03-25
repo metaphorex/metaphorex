@@ -1,6 +1,7 @@
 ---
 slug: sow-wild-oats
 name: Sow Wild Oats
+summary: "Wild oats look vigorous but yield nothing at harvest. Maps weed agriculture onto youthful activity that appears productive but wastes finite time."
 kind: metaphor
 dead: true
 source_frame: agriculture

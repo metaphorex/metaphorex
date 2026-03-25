@@ -9,7 +9,8 @@ contributors:
 - fshot
 created: '2026-03-10'
 kind: metaphor
-name: Ideas Are Food
+name: "Ideas Are Food"
+summary: "Ideas are consumed, digested, and absorbed. Raw data needs cooking. Comprehension takes time, like breaking down a meal."
 related:
 - theories-are-buildings
 - understanding-is-seeing

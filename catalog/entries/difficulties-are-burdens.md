@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Difficulties Are Burdens
+summary: "Problems have weight, press down, and accumulate. The body under load is how English speakers feel difficulty."
 provenance: osaka-master-metaphor-list
 related:
 - difficulties-are-impediments-to-motion

@@ -9,6 +9,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Companion
+summary: "Latin for 'bread-sharer.' The bond is grounded in co-presence and subsistence-level mutual dependence."
 related:
 - salary
 slug: companion

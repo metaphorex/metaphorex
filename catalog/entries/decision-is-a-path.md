@@ -10,6 +10,7 @@ created: '2026-03-16'
 harness: Claude Code
 kind: metaphor
 name: Decision Is a Path
+summary: "Choosing mapped as taking a fork in the road. Makes reversal feel like wasted distance, reinforcing sunk-cost bias through spatial metaphor."
 provenance: glasgow-mapping-metaphor
 related:
 - life-is-a-journey

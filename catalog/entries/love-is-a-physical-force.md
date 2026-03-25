@@ -12,6 +12,7 @@ contributors:
 created: '2026-03-10'
 kind: metaphor
 name: Love Is a Physical Force
+summary: "Attraction as gravity, magnetism, electricity. The force model captures love's involuntary onset but eliminates choice and ignores what follows."
 provenance: lakoff-johnson-mwlb
 related:
 - love-is-a-journey

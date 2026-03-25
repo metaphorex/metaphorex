@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Desires Are Forces Between the Desired and the Desirer
+summary: "Wanting structured as physical pull: the desired attracts, self-control resists, yielding is being overcome."
 provenance: osaka-master-metaphor-list
 related:
 - desire-is-hunger

@@ -14,6 +14,7 @@ limits:
 - '[source] breaks for cyclical, recursive, or exploratory activities that have no clear forward direction, coding routine maintenance, iterative design, and open-ended research as aimless wandering'
 - '[source] misleads by making rest seem like failure -- if action is motion and motion is good, then stillness is coded as not-doing, creating a bias toward busyness over deliberation'
 name: Action Is Motion
+summary: "To do is to move. To stop is to stall. This grounds the entire journey-metaphor family and makes stillness feel like failure."
 provenance: lakoff-johnson-mwlb
 related:
 - states-are-locations

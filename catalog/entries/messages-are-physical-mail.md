@@ -1,6 +1,7 @@
 ---
 slug: messages-are-physical-mail
 name: Messages Are Physical Mail
+summary: "Network messages travel in envelopes with addresses through mail servers. The postal metaphor is so embedded it looks literal."
 kind: metaphor
 source_frame: logistics
 applies_to:

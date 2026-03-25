@@ -1,6 +1,7 @@
 ---
 slug: technical-decisions-are-judicial-rulings
 name: Technical Decisions Are Judicial Rulings
+summary: "Architectural choices persist like legal precedent: binding through authority, costly to overturn, and compounding as systems build atop them."
 kind: metaphor
 source_frame: governance
 applies_to:

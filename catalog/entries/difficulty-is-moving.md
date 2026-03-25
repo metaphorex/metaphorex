@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Difficulty Is Moving
+summary: "How hard something is maps onto how hard it is to move. Speed measures ease, terrain maps context, and friction maps resistance."
 related:
 - difficulties-are-impediments-to-motion
 - difficulties-are-containers

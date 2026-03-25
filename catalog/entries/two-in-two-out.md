@@ -1,6 +1,7 @@
 ---
 slug: two-in-two-out
 name: Two-In, Two-Out
+summary: "Firefighting rule requiring paired entry with standby rescue before anyone enters a hazard zone. Prepositions rescue capacity."
 kind: pattern
 source_frame: fire-safety
 categories:

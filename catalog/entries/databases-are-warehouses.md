@@ -1,6 +1,7 @@
 ---
 slug: databases-are-warehouses
 name: Databases Are Warehouses
+summary: "Shelving is indexing, forklifts are queries. Breaks where data is non-rival and reads leave no disorder."
 kind: metaphor
 source_frame: logistics
 applies_to:

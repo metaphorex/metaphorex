@@ -1,6 +1,7 @@
 ---
 slug: polished
 name: Polished
+summary: "Quality achieved through progressive abrasion, not a single act. The final surface reveals what was always in the material."
 kind: metaphor
 dead: true
 source_frame: carpentry

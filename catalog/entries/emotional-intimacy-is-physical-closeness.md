@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Emotional Intimacy Is Physical Closeness
+summary: "Emotional bond mapped to spatial distance, grounded in infancy where nearest is dearest. Barriers become walls; vulnerability is letting someone in."
 provenance: osaka-master-metaphor-list
 related:
 - love-is-a-journey

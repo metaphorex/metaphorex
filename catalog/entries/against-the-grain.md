@@ -1,6 +1,7 @@
 ---
 slug: against-the-grain
 name: Against the Grain
+summary: "Cutting against wood grain produces tearout, not just resistance. The damage is disproportionate and irreversible, but the grain is not permanent."
 kind: metaphor
 dead: true
 embodied_patterns:

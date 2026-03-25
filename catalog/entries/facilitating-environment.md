@@ -16,6 +16,7 @@ limits:
   - '[source] Ecological environments have carrying capacities and resource constraints that limit which organisms thrive, but Winnicott''s model assumes the environment can in principle meet all developmental needs -- it has no concept of structural scarcity'
   - '[source] Biological environments are indifferent to the organisms within them, while the facilitating environment''s effectiveness depends on emotional attunement -- a structural feature with no ecological equivalent'
 name: Facilitating Environment
+summary: "The caregiver is not the author of the child but the medium in which the child's own development unfolds. Enabling, not directing."
 related:
 - attachment-as-bond
 - generativity

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: The Iterator Pattern
+summary: "Traversal as journey: an object visits each element in a collection sequentially, maintaining position without owning the structure."
 provenance: gang-of-four
 related:
 - the-interpreter-pattern

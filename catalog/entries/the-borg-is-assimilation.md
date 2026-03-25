@@ -1,6 +1,7 @@
 ---
 slug: the-borg-is-assimilation
 name: The Borg Is Assimilation
+summary: "Resistance is futile. The Borg maps forced cybernetic integration onto technology adoption that feels compulsory through network effects."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

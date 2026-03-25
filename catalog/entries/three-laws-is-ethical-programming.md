@@ -17,6 +17,7 @@ limits:
   - "[source] implies ethics can be specified as a finite, complete set of rules that a system follows literally, obscuring that ethical behavior requires interpretation, contextual sensitivity, and the capacity to recognize novel situations the rules did not anticipate"
   - "[source] presupposes a system capable of correctly parsing natural-language concepts like 'harm' and 'human,' but Asimov's own stories repeatedly demonstrate that these terms are ambiguous enough to produce pathological behavior in a literal rule-follower"
 name: Three Laws Is Ethical Programming
+summary: "Asimov's Laws frame ethics as a specification problem. His entire literary career then demonstrated why the specification fails."
 related:
 - ai-alignment-is-training-an-animal
 - guardrails

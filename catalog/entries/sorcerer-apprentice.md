@@ -1,6 +1,7 @@
 ---
 slug: sorcerer-apprentice
 name: Sorcerer's Apprentice
+summary: "An automation started without a stop condition succeeds too literally, and naive intervention multiplies the problem."
 kind: metaphor
 source_frame: mythology
 applies_to:

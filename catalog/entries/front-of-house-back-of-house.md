@@ -16,7 +16,8 @@ limits:
 - '[source] implies a clean binary division, but real kitchens have permeable boundaries -- the pass (service window) is a contested zone where front and back negotiate in real time, and most organizations similarly have messy intermediate layers that the binary obscures'
 - '[source] assumes the customer should never see the production process, but transparency is sometimes the product itself -- open kitchens, open-source code, and "building in public" invert the metaphor''s premise'
 - '[source] carries the restaurant assumption that front-of-house serves one customer at a time in a single session, which breaks for software systems serving millions of concurrent users with persistent state across sessions'
-name: Front of House / Back of House
+name: "Front of House / Back of House"
+summary: "A curated customer-facing layer shields a chaotic production layer. The quality of the boundary determines the quality of the product."
 related:
 - the-facade-pattern
 - intimacy-gradient

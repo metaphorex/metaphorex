@@ -1,6 +1,7 @@
 ---
 slug: incident-command-system
-name: Incident Command System
+name: "Incident Command System"
+summary: "A modular command structure where role-based authority replaces org charts, span of control is hard-capped, and the framework scales to the event."
 kind: paradigm
 source_frame: fire-safety
 applies_to:

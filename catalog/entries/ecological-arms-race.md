@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by implying symmetric co-evolution, when most real competitive escalations are asymmetric -- attackers and defenders face different cost structures, and one side often has structural advantages the biological frame obscures'
 - '[source] obscures the possibility of de-escalation: biological arms races have no negotiation mechanism, but human competitors can agree to treaties, standards, or mutual restraint, options the metaphor renders invisible'
 name: Ecological Arms Race
+summary: "Predator and prey drive mutual escalation with no equilibrium. Both sides invest more for no net advantage."
 related:
 - red-queen-effect
 - predator-prey

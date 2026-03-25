@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Bus Factor
+summary: "How many people can vanish before the project dies. The number measures knowledge concentration, not headcount."
 related:
 - yak-shaving
 - bikeshedding

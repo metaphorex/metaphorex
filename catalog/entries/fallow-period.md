@@ -12,6 +12,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Fallow Period
+summary: "A field left unplanted is not idle; underground restoration continues. Planned non-production rebuilds the capacity that continuous output depletes."
 related:
 - burnout
 slug: fallow-period

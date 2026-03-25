@@ -1,6 +1,7 @@
 ---
 slug: the-dog-tied-to-the-cart
 name: The Dog Tied to the Cart
+summary: "Stoic image: the cart moves regardless. A willing dog runs alongside; an unwilling dog is dragged. The outcome is identical, the experience opposite."
 kind: metaphor
 source_frame: animal-husbandry
 applies_to:

@@ -13,7 +13,8 @@ limits:
   - '[source] breaks because gardens have a gardener who prunes selectively with knowledge of which plants belong, while codebases that "grow wild" without deliberate tending accumulate dead code, security vulnerabilities, and incompatible dependencies that no natural process removes'
   - '[source] misleads by romanticizing disorder: a garden that appears wild is actually intensively managed (weeding, composting, species selection), while software that appears wild is usually genuinely neglected, and the pattern can provide aesthetic cover for architectural laziness'
   - '[source] assumes a bounded ecosystem with natural equilibrium, while software systems face unbounded external pressures (changing requirements, new integrations, security patches) that a garden ecology does not, making "let it grow" a more dangerous prescription in software than in horticulture'
-name: Garden Growing Wild
+name: "Garden Growing Wild"
+summary: "Wildness is stewardship, not neglect; the gardener shapes conditions, not outcomes. Software that lacks a gardener is a vacant lot."
 related:
 - piecemeal-growth
 - software-habitability

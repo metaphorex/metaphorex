@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Dead in the Water
+summary: "Ship intact but becalmed: the driving force is absent, so steerage and direction are lost too."
 related:
 - batten-down-the-hatches
 slug: dead-in-the-water

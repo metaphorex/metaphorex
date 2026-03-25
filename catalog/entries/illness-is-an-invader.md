@@ -15,6 +15,7 @@ limits:
 - "[source] misleads because war ends in victory or defeat, but chronic illness is ongoing management without resolution"
 - "[source] obscures autoimmune conditions where the body attacks itself -- there is no foreign invader"
 name: Illness Is an Invader
+summary: "Disease enters the body like a foreign army breaching a border. Works for acute infection but fails for chronic illness and autoimmunity."
 provenance: glasgow-mapping-metaphor
 related:
 - argument-is-war

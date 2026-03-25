@@ -1,6 +1,7 @@
 ---
 slug: too-much-freedom-inhibits-choice
 name: Too Much Freedom Inhibits Choice
+summary: "Beyond a threshold, expanding the option set degrades both the speed and quality of decisions through comparison costs."
 kind: mental-model
 embodied_patterns:
   - scale

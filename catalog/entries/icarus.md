@@ -19,6 +19,7 @@ abstraction_level: specific
 harness: Claude Code
 kind: metaphor
 name: Icarus
+summary: "A tool works within its design parameters and fails catastrophically outside them. Destruction comes from the same direction as achievement."
 related:
 - prometheus
 - siren-song

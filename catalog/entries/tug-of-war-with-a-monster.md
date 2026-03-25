@@ -1,6 +1,7 @@
 ---
 slug: tug-of-war-with-a-monster
 name: Tug of War with a Monster
+summary: "ACT metaphor where the only winning move is to drop the rope, reframing disengagement as an exit from the game rather than a loss."
 kind: metaphor
 source_frame: games-and-play
 applies_to:

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Kernel
+summary: "The generative seed inside a protective shell. Remove it and the system dies; remove any outer layer and it survives."
 related:
 - shell
 slug: kernel

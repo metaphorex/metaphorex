@@ -20,7 +20,8 @@ abstraction_level: specific
 grounding: established
 harness: Claude Code
 kind: metaphor
-name: Garbage Collection
+name: "Garbage Collection"
+summary: "Waste accumulates until a background collector removes it on a schedule you don't control. No landfill; reclaimed memory returns instantly."
 related:
 - technical-debt
 slug: garbage-collection

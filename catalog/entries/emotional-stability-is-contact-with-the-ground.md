@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Emotional Stability Is Contact with the Ground
+summary: "Stability as a relationship to the surface beneath you, not an internal equilibrium. Support from others is providing solid ground to stand on."
 provenance: osaka-master-metaphor-list
 related:
 - emotional-stability-is-balance

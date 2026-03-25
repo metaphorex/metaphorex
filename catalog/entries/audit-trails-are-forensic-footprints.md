@@ -1,6 +1,7 @@
 ---
 slug: audit-trails-are-forensic-footprints
 name: Audit Trails Are Forensic Footprints
+summary: "System logs framed as crime-scene evidence. The forensic metaphor hides that log coverage is a design choice, not a physical inevitability."
 kind: metaphor
 source_frame: forensics
 applies_to:

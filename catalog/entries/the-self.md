@@ -10,6 +10,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Self
+summary: "Organizing center encompassing conscious and unconscious. Individuation requires integrating what has been rejected, not achieving perfection."
 provenance: jung-aion
 related:
 - the-trickster

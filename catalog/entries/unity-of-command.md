@@ -1,6 +1,7 @@
 ---
 slug: unity-of-command
 name: Unity of Command
+summary: "Each subordinate reports to exactly one superior; dual authority degrades execution through coordination overhead even when both agree."
 kind: pattern
 source_frame: military-command
 applies_to:

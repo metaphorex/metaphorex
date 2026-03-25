@@ -1,6 +1,7 @@
 ---
 slug: window-of-tolerance
 name: Window of Tolerance
+summary: "Maps a bounded architectural opening onto the arousal range within which a person can process experience and integrate information."
 kind: metaphor
 source_frame: architecture-and-building
 applies_to:

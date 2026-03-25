@@ -1,6 +1,7 @@
 ---
 slug: terraforming-is-planetary-engineering
 name: Terraforming Is Planetary Engineering
+summary: "Total environmental replacement on generational timescales. The target is treated as raw material, not an inhabited system."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-14'
 kind: metaphor
 name: Excalibur
+summary: "The tool that selects its wielder. Legitimacy is conferred by demonstrating a unique capability, not by credential, election, or lineage."
 related: []
 slug: excalibur
 source_frame: mythology

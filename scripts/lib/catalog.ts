@@ -14,11 +14,14 @@ import { join } from "path";
 export interface CatalogEntry {
   slug: string;
   name: string;
+  summary?: string;
   kind: "metaphor" | "pattern" | "archetype" | "paradigm" | "mental-model";
   sourceFrame?: string;
   appliesTo?: string[];
   categories: string[];
+  dead?: boolean;
   grounding: "proven" | "established" | "folk" | "contested";
+  abstractionLevel?: "primitive" | "generic" | "specific";
   transfers: string[];
   limits: string[];
   expressions: string[];
@@ -113,11 +116,14 @@ export async function readCatalog(): Promise<CatalogEntry[]> {
     entries.push({
       slug: data.slug,
       name: data.name,
+      summary: data.summary ?? undefined,
       kind: data.kind,
       sourceFrame: data.source_frame ?? undefined,
       appliesTo: data.applies_to ?? undefined,
       categories: data.categories ?? [],
+      dead: data.dead ?? undefined,
       grounding: data.grounding ?? "folk",
+      abstractionLevel: data.abstraction_level ?? undefined,
       transfers: extractBullets(sections["Transfers"] ?? ""),
       limits: extractBullets(sections["Limits"] ?? ""),
       expressions: extractBullets(sections["Expressions"] ?? ""),

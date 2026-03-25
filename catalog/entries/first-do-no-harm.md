@@ -1,6 +1,7 @@
 ---
 slug: first-do-no-harm
-name: First Do No Harm
+name: "First Do No Harm"
+summary: "Before asking whether intervention will help, verify it will not leave the system worse off than doing nothing."
 kind: metaphor
 source_frame: medicine
 applies_to:

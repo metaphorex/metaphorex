@@ -1,6 +1,7 @@
 ---
 slug: mayday
 name: Mayday
+summary: "A binary distress signal that bypasses all triage. Its power depends on rarity: invoke it too often and responders stop dropping everything."
 kind: mental-model
 source_frame: fire-safety
 categories:

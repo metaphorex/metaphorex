@@ -1,6 +1,7 @@
 ---
 slug: shut-up-and-calculate
 name: Shut Up and Calculate
+summary: "Instrumentalist stance: a formalism's predictive success is sufficient justification; interpretation is optional, not prerequisite"
 kind: paradigm
 source_frame: mathematical-practice
 applies_to:

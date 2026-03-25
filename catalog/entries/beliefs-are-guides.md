@@ -11,6 +11,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Beliefs Are Guides
+summary: "Beliefs lead you through unfamiliar terrain. The guide frame makes holding a conviction feel like trusting an escort rather than reasoning."
 provenance: osaka-master-metaphor-list
 related:
 - beliefs-are-locations

@@ -5,7 +5,8 @@ categories:
 contributors: []
 created: '2026-03-19'
 kind: metaphor
-name: Flash It
+name: "Flash It"
+summary: "Restore a degraded system to its previous good state using maximum intensity for minimum duration. Not reconstruction, just reheating."
 provenance: culinary-mise-en-place
 related:
 - hot-fix
@@ -20,6 +21,17 @@ transfers:
 limits:
   - '[source] breaks because flashing in the kitchen is a controlled environment (the cook knows the dish, the oven, the timing), while production hot-fixes operate under uncertainty about root cause, blast radius, and interaction effects that the culinary frame does not model'
   - '[source] misleads because "flash" implies speed is the primary virtue, encouraging teams to optimize for deployment velocity when the actual bottleneck in incident response is usually diagnosis, not remediation'
+embodied_patterns:
+  - force
+  - balance
+  - iteration
+  - path
+relation_types:
+  - restore
+  - prevent
+  - cause/accumulate
+structure: equilibrium
+abstraction_level: specific
 ---
 
 ## Transfers

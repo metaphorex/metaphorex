@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by suggesting that closeness to the ground is always desirable, when many of software''s greatest achievements come precisely from abstraction -- TCP/IP works because applications do NOT need to know about wire protocols'
 - '[source] implies a single ground to connect to, but software systems have multiple "earths" (hardware, users, data, network) and optimizing connection to one often requires abstracting away from another'
 name: Connection to the Earth
+summary: "Maintain tangible contact with operational realities. Excessive abstraction is a building on stilts that has lost touch with its terrain."
 provenance: alexander-pattern-language
 related:
 - software-habitability

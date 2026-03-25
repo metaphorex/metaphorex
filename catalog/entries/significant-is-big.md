@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Significant Is Big
+summary: "Importance maps onto physical magnitude. Grounded in childhood experience where bigger things command more attention and carry greater consequences."
 provenance: lakoff-johnson-mwlb
 related:
 - more-is-up

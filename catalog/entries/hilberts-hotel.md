@@ -23,6 +23,7 @@ limits:
   - '[model] misleads by making countable infinity feel manageable and almost domestic, obscuring the far wilder properties of uncountable infinities (like the reals) where the hotel trick provably fails -- learners may overgeneralize the "always room for one more" intuition to domains where it does not hold'
   - '[model] imports a spatial metaphor (rooms in a corridor) that smuggles in the assumption of a well-ordered, labeled sequence, hiding the fact that the concept of "rearrangement" depends critically on the set being countably infinite and thus admitting a bijection with the natural numbers'
 name: "Hilbert's Hotel"
+summary: "A fully occupied hotel with infinite rooms can still admit new guests, showing that 'full' means something different for infinite sets."
 provenance: mathematical-folklore
 related:
 - incompleteness

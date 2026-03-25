@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Cancer Surgery Formula
+summary: "Cut the failing part early and completely, but spare the healthy tissue. Delay lets the problem metastasize."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

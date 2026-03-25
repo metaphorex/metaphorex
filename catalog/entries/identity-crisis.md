@@ -17,6 +17,7 @@ limits:
   - '[source] Crisis implies a departure from a healthy baseline, but adolescents have no prior consolidated identity to "relapse" to -- the metaphor smuggles in a pathological frame where none applies'
   - '[source] The medical frame suggests expert intervention is needed to resolve the crisis, obscuring that identity formation is primarily a social and autonomous process, not a clinical one'
 name: Identity Crisis
+summary: "Medical crisis framing turns normal identity formation into an acute episode that must resolve, importing urgency where patience serves better."
 related:
 - coming-of-age
 - impostor-syndrome

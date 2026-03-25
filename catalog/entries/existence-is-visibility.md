@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Existence Is Visibility
+summary: "What can be seen is real; what vanishes ceases to exist. Makes it easy to deny invisible phenomena like structural racism or slow crises."
 provenance: osaka-master-metaphor-list
 related:
 - existence-is-a-location

@@ -11,6 +11,7 @@ harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: Categories Are Containers
+summary: "Things are in or out of a category. The boundary feels real, but the container is a choice."
 provenance: osaka-master-metaphor-list
 related:
 - activities-are-containers

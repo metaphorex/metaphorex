@@ -9,7 +9,8 @@ kind: mental-model
 limits:
 - '[law] breaks because not all competition is tightly co-evolutionary -- many competitive environments involve impersonal forces (technology shifts, demographic changes) rather than direct mutual escalation'
 - '[law] misleads by obscuring the option of changing the game entirely, biasing toward incremental improvement and against radical repositioning or disruptive innovation'
-name: Red Queen Effect
+name: "Red Queen Effect"
+summary: "In co-evolutionary competition, continuous adaptation is maintenance, not advancement; standing still is falling behind"
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
-name: First-Principles Thinking
+name: "First-Principles Thinking"
+summary: "Derive conclusions from fundamental truths rather than analogy to past practice. Decompose until you reach bedrock, then rebuild."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

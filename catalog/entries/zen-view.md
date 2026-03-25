@@ -1,6 +1,7 @@
 ---
 slug: zen-view
 name: Zen View
+summary: "Alexander pattern restricting access to a beautiful view so that scarcity and framing preserve its emotional impact."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

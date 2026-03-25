@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Memory Heap
+summary: "A disordered pile where you grab what you need from wherever it sits. The metaphor imports simplicity the implementation does not have."
 related:
 - memory-stack
 - buffer-overflow

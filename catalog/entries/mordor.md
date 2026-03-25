@@ -1,6 +1,7 @@
 ---
 slug: mordor
 name: Mordor
+summary: "Landscape fully subordinated to a single will; every feature serves the ruling purpose and nothing exists for its own sake."
 kind: metaphor
 source_frame: mythology
 applies_to:

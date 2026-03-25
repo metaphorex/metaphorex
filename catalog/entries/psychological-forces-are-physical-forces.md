@@ -12,7 +12,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Psychological Forces Are Physical Forces
+name: "Psychological Forces Are Physical Forces"
+summary: "Desire pulls, fear pushes, guilt weighs down: psychological causation structured as invisible forces acting on the self"
 provenance: lakoff-johnson-mwlb
 related:
 - causes-are-forces

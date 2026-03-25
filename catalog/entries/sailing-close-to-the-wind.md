@@ -7,7 +7,8 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 dead: true
-name: Sailing Close to the Wind
+name: "Sailing Close to the Wind"
+summary: "Dead sailing metaphor for extracting maximum advantage while staying technically within rules, at constant risk of crossing"
 related: []
 slug: sailing-close-to-the-wind
 source_frame: seafaring

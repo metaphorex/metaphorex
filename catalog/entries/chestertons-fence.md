@@ -1,6 +1,7 @@
 ---
 slug: chestertons-fence
 name: "Chesterton's Fence"
+summary: "Don't remove a constraint until you can explain why it was placed there. Ignorance of purpose is not evidence of purposelessness."
 kind: mental-model
 source_frame: architecture-and-building
 categories:

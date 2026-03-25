@@ -1,6 +1,7 @@
 ---
 slug: double-listening
 name: Double Listening
+summary: "Hearing two narratives in one account: the dominant problem story and the counter-story embedded in its exceptions."
 kind: pattern
 source_frame: narrative
 applies_to:

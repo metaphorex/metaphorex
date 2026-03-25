@@ -11,6 +11,7 @@ created: '2026-03-16'
 harness: Claude Code
 kind: metaphor
 name: Replicant Is Artificial Person
+summary: "Manufactured beings indistinguishable from humans. The replicant frame makes personhood a detection problem, not a philosophical one."
 related:
 - agent-swarm
 slug: replicant-is-artificial-person

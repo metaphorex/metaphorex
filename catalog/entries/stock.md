@@ -1,6 +1,7 @@
 ---
 slug: stock
 name: Stock
+summary: "A split tally stick gave each party half as proof of a debt. The creditor's half was the stock. Now it means equity ownership."
 kind: metaphor
 dead: true
 source_frame: materials

@@ -15,6 +15,7 @@ limits:
   effort'
 - '[source] misleads by localizing all competence inside a single person, making collective and situated capabilities (team skills, tool-dependent expertise, institutional knowledge) invisible'
 name: Abilities Are Entities Inside A Person
+summary: "Talent is something you carry inside you, waiting to be drawn out. The container logic makes 'you either have it or you don't' feel true."
 provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person

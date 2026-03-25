@@ -1,6 +1,7 @@
 ---
 slug: know-your-enemy-know-yourself
-name: Know Your Enemy, Know Yourself
+name: "Know Your Enemy, Know Yourself"
+summary: "Sun Tzu's two-axis framework: competitive readiness requires knowledge of both the adversary and your own capabilities, independently."
 kind: mental-model
 source_frame: military-history
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: just-in-time
-name: Just-in-Time
+name: "Just-in-Time"
+summary: "Produce only what is needed, when needed; treat inventory as a liability that hides problems."
 kind: paradigm
 source_frame: manufacturing
 applies_to:

@@ -12,6 +12,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Nation Is a Person
+summary: "Nations speak, decide, feel, and die. The personification compresses millions of competing interests into a single rational actor."
 provenance: osaka-master-metaphor-list
 related:
 - nation-is-a-family

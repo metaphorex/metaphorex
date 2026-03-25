@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Logical Relations Are Causal Relations
+summary: "We narrate logic as if premises caused conclusions. Temporal, force-based causal language hides that entailment is timeless."
 provenance: osaka-master-metaphor-list
 related:
 - psychological-forces-are-physical-forces

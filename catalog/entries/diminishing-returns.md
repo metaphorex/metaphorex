@@ -1,6 +1,7 @@
 ---
 slug: diminishing-returns
 name: Diminishing Returns
+summary: "Each additional unit of input yields less output than the last. The curve flattens, and knowing when to stop is the real skill."
 kind: mental-model
 categories:
   - economics-and-finance

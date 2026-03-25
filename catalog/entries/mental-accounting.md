@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Mental Accounting
+summary: "People sort experiences into separate mental ledgers. A gambling windfall feels different from the same amount earned at work."
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

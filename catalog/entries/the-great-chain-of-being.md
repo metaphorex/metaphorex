@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: archetype
 name: The Great Chain of Being
+summary: "Folk hierarchy: God above humans above animals above plants above matter. Each level has a defining essence; rank feels built into reality."
 provenance: osaka-master-metaphor-list
 related: []
 slug: the-great-chain-of-being

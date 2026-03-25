@@ -11,7 +11,8 @@ kind: mental-model
 limits:
 - '[model] applies only when the error is materially present and reworkable -- a dancer cannot incorporate a stumble after the performance is over, and a surgeon cannot reframe a wrong incision as a design feature, so the heuristic requires ongoing process, not retrospective evaluation'
 - '[model] risks becoming a rationalization for carelessness -- the principle describes what skilled practitioners do with unavoidable errors, not a license to skip preparation, yet popular usage often collapses the distinction between recovering from mistakes and not bothering to avoid them'
-name: In Art, Remedy Mistakes by Taking Advantage of Them
+name: "In Art, Remedy Mistakes by Taking Advantage of Them"
+summary: "Skilled practitioners incorporate accidental errors as material rather than reversing them, because forward integration is cheaper than undoing."
 provenance: bannard-aphorisms
 related:
 - good-enough-mother

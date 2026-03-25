@@ -1,6 +1,7 @@
 ---
 slug: mirroring
 name: Mirroring
+summary: "The caregiver reflects the child's emotional state back. Without an accurate mirror, no coherent self-image develops."
 kind: metaphor
 source_frame: optics-and-reflection
 applies_to:

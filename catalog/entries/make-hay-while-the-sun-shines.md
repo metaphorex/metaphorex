@@ -15,6 +15,7 @@ limits:
 - '[source] assumes the work itself is straightforward once the window opens -- cutting and turning hay is labor-intensive but not complex -- obscuring situations where the opportunity exists but the required action is uncertain or risky'
 - '[source] implies a single seasonal window, but many real opportunities recur or can be manufactured, and treating every opening as the last chance encourages panic-driven decisions'
 name: Make Hay While the Sun Shines
+summary: "Favorable conditions are temporary and uncontrollable. Missing the window costs not delay but permanent loss."
 related:
 - fallow-period
 - you-reap-what-you-sow

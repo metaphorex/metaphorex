@@ -8,6 +8,7 @@ created: '2026-03-14'
 kind: metaphor
 dead: true
 name: Plain Sailing
+summary: "Originally 'plane sailing,' a navigation method treating Earth as flat. The folk etymology erased the insight: ease was a methodological choice."
 related:
 - high-and-dry
 slug: plain-sailing

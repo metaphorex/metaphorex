@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by conflating two distinct concepts: engineering resilience (speed of return to equilibrium) and ecological resilience (magnitude of disturbance absorbed before regime shift), and organizational usage almost always means the former while claiming the authority of the latter'
 - '[source] implies that identity persistence through disturbance is always desirable, but ecosystems sometimes need regime shifts (lake eutrophication reversal, fire-dependent succession) and organizations sometimes need to abandon their current identity to survive'
 name: Ecological Resilience
+summary: "How much disturbance a system absorbs before flipping to a different regime. Not bounce-back speed but distance from the threshold."
 related:
 - antifragility
 - edge-effect

@@ -11,6 +11,7 @@ contributors:
 created: '2026-03-11'
 kind: metaphor
 name: People Are Machines
+summary: "Maps mechanical operation, fuel, output, and breakdown onto human performance, making people evaluable as productive devices"
 provenance: lakoff-johnson-mwlb
 related:
 - the-mind-is-a-machine

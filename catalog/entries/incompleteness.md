@@ -14,7 +14,8 @@ limits:
 - '[paradigm] is misapplied when invoked to claim that any rule-based system has unknowable gaps, because the theorem applies only to formal systems powerful enough to encode arithmetic -- simple finite-state systems can be complete and decidable'
 - '[paradigm] misleads when used to argue that formal methods are futile ("you can never prove everything"), because the theorem says nothing about the practical utility of proving the vast majority of things that matter within a system'
 - '[paradigm] is routinely abused as a rhetorical trump card ("by Goedel''s theorem, your framework is incomplete") in domains -- ethics, management, law -- where the technical preconditions for the theorem do not hold'
-name: Incompleteness
+name: "Incompleteness"
+summary: "Any formal system powerful enough to express arithmetic contains true statements it cannot prove and cannot verify its own consistency."
 related:
 - halting-problem
 - the-map-is-not-the-territory

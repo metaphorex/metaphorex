@@ -15,6 +15,7 @@ limits:
   - "[source] implies bugs are foreign invaders that entered the system from outside, obscuring that most defects are authored into the code by the same people who wrote the working parts"
   - "[source] carries a singular-creature model (find the bug, squash it) that misrepresents defects arising from emergent interactions between individually correct components, where there is no single organism to locate and kill"
 name: Bug
+summary: "Defects are framed as creatures that invaded the code. The framing hides that they were authored in, not smuggled in."
 related:
 - virus
 - spaghetti-code

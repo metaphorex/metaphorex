@@ -10,6 +10,7 @@ harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: AI Is an Intern
+summary: "Eager, fast, confident beyond competence. Everything must be reviewed before it ships, but unlike a real intern, it never learns from correction."
 related:
 - ai-is-a-tool
 - ai-is-a-copilot

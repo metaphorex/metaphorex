@@ -22,6 +22,7 @@ limits:
 - '[model] conflates economy of action with economy of waste -- a carpenter who makes few chips may have done so by planning precisely, or by cutting timidly and leaving excess material, so chip-count alone is ambiguous without knowing whether the target dimensions were achieved'
 - '[model] fails in domains where exploration is the point -- a researcher who runs the fewest experiments is not the best researcher, because the goal is discovery rather than execution of a known plan, yet the proverb''s structure rewards convergence over divergence'
 name: Best Carpenters Make the Fewest Chips
+summary: "Waste volume is a visible proxy for the gap between intention and execution. Low chips means high planning quality."
 provenance: carpentry-woodworking
 related:
 - let-the-tool-do-the-work

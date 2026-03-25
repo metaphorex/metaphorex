@@ -14,6 +14,7 @@ limits:
   problem-solving'
 - '[source] misleads by implying a single definitive solution (the container holds one object), causing premature closure when the solver finds one answer and stops looking'
 name: A Problem Is a Locked Container for Its Solution
+summary: "The answer is already in there. You just need the right key. This makes solving feel like discovery, not creation."
 provenance: osaka-master-metaphor-list
 related:
 - a-problem-is-a-body-of-water

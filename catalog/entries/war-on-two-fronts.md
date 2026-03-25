@@ -1,6 +1,7 @@
 ---
 slug: war-on-two-fronts
 name: War on Two Fronts
+summary: "A single pool of resources split between two independent demands starves both, because serving one necessarily weakens the other."
 kind: metaphor
 source_frame: military-history
 applies_to:

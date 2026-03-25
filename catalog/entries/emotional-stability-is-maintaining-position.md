@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Emotional Stability Is Maintaining Position
+summary: "Composure as spatial fixity: the stable person holds ground, the unstable one is displaced. Recovery means navigating back, not restoring balance."
 provenance: osaka-master-metaphor-list
 related:
 - emotional-stability-is-balance

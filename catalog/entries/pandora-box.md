@@ -16,6 +16,7 @@ limits:
   - "[source] imports a moral judgment -- that opening the box was wrong -- which frames curiosity and exploration as inherently dangerous, discouraging legitimate inquiry"
   - "[source] collapses the distinction between actions whose consequences are truly unknowable and those whose risks were foreseeable but ignored, treating all unintended consequences as equivalent"
 name: Pandora's Box
+summary: "Maps opening a sealed container of evils onto any action that unleashes irreversible unintended consequences"
 related:
 - midas-touch
 - trojan-horse

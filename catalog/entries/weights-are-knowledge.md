@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Weights Are Knowledge
+summary: "Neural network parameters treated as stored knowledge, importing epistemic concepts into what are statistical pattern encodings."
 related:
 - neural-network-is-a-brain
 - understanding-is-grasping

@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: archetype
 name: Ouroboros
+summary: "A serpent devouring its own tail: self-reference where output feeds back as input and destruction and sustenance become a single act."
 related:
 - sisyphean-task
 - yin-and-yang

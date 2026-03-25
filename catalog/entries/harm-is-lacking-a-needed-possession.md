@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Harm Is Lacking a Needed Possession
+summary: "Harm as deprivation: an empty slot where a vital resource should be. Presupposes prior wholeness, hiding the gap between loss and never having."
 provenance: osaka-master-metaphor-list
 related:
 - harm-is-having-a-harmful-possession

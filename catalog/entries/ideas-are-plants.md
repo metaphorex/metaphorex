@@ -11,7 +11,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Plants
+name: "Ideas Are Plants"
+summary: "Ideas are seeds that root, branch, bear fruit, and wither. The thinker is a gardener; the soil matters as much as the seed."
 provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-food

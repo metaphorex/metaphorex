@@ -1,6 +1,7 @@
 ---
 slug: andon
 name: Andon
+summary: "Any worker can stop the line. Stopping is reframed as value creation, not cost, but it requires a culture where pulling the cord is safe."
 kind: paradigm
 source_frame: manufacturing
 applies_to:

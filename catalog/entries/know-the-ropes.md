@@ -6,7 +6,8 @@ contributors: []
 created: '2026-03-14'
 kind: metaphor
 dead: true
-name: Know the Ropes
+name: "Know the Ropes"
+summary: "Competence as embodied familiarity with a complex system, learned by doing, not by reading."
 related:
 - above-board
 slug: know-the-ropes

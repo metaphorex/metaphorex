@@ -14,6 +14,7 @@ limits:
   timelines'
 - '[source] misleads by giving arbitrary human-created deadlines the false objectivity of natural phenomena, making them feel as inevitable as sunrise rather than negotiable agreements'
 name: A Schedule Is a Moving Object
+summary: "Deadlines come at you. You stand still while they approach, loom, and hit. The planner is rendered passive."
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

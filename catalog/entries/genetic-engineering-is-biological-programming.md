@@ -1,6 +1,7 @@
 ---
 slug: genetic-engineering-is-biological-programming
-name: Genetic Engineering Is Biological Programming
+name: "Genetic Engineering Is Biological Programming"
+summary: "DNA as source code, CRISPR as text editor, the cell as compiler. Gene expression is context-dependent, not deterministic execution."
 kind: metaphor
 source_frame: computing
 applies_to:

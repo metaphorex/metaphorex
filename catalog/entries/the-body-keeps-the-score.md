@@ -1,6 +1,7 @@
 ---
 slug: the-body-keeps-the-score
 name: The Body Keeps the Score
+summary: "The body maintains a ledger of traumatic events. Somatic symptoms surface as audit findings when the mind's account diverges from the body's."
 kind: metaphor
 source_frame: accounting
 applies_to:

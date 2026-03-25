@@ -1,6 +1,7 @@
 ---
 slug: young-doctors-kill-old-doctors-let-die
 name: Young Doctors Kill, Old Doctors Let Die
+summary: "The dominant failure mode rotates over a career: novices harm through excess intervention, experts harm through excess restraint."
 kind: metaphor
 source_frame: medicine
 applies_to:

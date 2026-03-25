@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-13'
 dead: true
 kind: metaphor
-name: Running Out of Steam
+name: "Running Out of Steam"
+summary: "Dead steam-engine metaphor mapping gradual boiler depressurization onto the progressive, visible onset of human fatigue"
 related: []
 slug: running-out-of-steam
 source_frame: physics

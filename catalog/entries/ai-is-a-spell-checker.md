@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: AI Is a Spell Checker
+summary: "A deliberate deflation. Maps AI onto a mundane tool to strip away mystique, but spell checkers do not generate text or confidently introduce errors."
 related:
 - ai-is-a-tool
 - ai-is-a-copilot

@@ -1,6 +1,7 @@
 ---
 slug: choice-point
 name: Choice Point
+summary: "Every moment is a fresh fork: one direction toward your values, one away. Internal states are weather at the crossroads, not road signs."
 kind: mental-model
 source_frame: navigation
 categories:

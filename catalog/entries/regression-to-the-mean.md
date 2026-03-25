@@ -11,6 +11,7 @@ limits:
 - '[law] breaks when the mean itself is shifting -- climate temperatures hitting new extremes are not regressing to a fixed mean, and a student whose scores jump may have genuinely learned'
 - '[law] misleads when used to excuse inaction, dismissing genuine systemic problems as noise that will self-correct without providing a clear threshold for when a signal is real'
 name: Regression to the Mean
+summary: "Extreme measurements tend back toward the average on retesting, not from a force, but because the random component rarely repeats."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

@@ -1,6 +1,7 @@
 ---
 slug: entrance-transition
 name: Entrance Transition
+summary: "A threshold zone between outside and inside that prepares the visitor for a context switch. Abrupt entry produces disorientation."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

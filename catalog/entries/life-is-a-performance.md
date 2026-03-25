@@ -11,6 +11,7 @@ created: '2026-03-16'
 harness: Claude Code
 kind: metaphor
 name: Life Is a Performance
+summary: "People play roles, follow scripts, and perform for audiences. The frame separates person from role but implies an offstage self that may not exist."
 provenance: glasgow-mapping-metaphor
 related:
 - life-is-a-story

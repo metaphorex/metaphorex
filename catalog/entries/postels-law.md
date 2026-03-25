@@ -1,6 +1,7 @@
 ---
 slug: postels-law
 name: "Postel's Law"
+summary: "Be strict in what you produce and tolerant in what you accept, absorbing the cost of others' imperfection to achieve interoperability."
 kind: mental-model
 source_frame: diplomacy
 categories:

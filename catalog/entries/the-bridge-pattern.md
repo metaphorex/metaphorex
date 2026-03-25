@@ -10,6 +10,7 @@ grounding: established
 harness: Claude Code
 kind: pattern
 name: The Bridge Pattern
+summary: "Decouple abstraction from implementation into two independent hierarchies. Changes to one don't rebuild the other."
 related:
 - the-facade-pattern
 slug: the-bridge-pattern

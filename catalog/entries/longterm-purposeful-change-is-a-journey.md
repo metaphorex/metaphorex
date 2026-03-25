@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Long-Term Purposeful Change Is a Journey
+summary: "Goal-directed transformation as travel from origin to destination. Arrival ends the narrative, hiding that most change requires ongoing work."
 provenance: lakoff-johnson-mwlb
 related:
 - life-is-a-journey

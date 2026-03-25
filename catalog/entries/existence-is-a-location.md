@@ -12,6 +12,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: Existence Is A Location
+summary: "To exist is to be here; to cease is to depart. The spatial frame forces non-existence to be a place, generating puzzles from the metaphor."
 provenance: lakoff-johnson-mwlb
 related:
 - states-are-locations

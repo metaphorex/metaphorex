@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Spam
+summary: "The harm is volume, not any single message. Named after a comedy sketch about inescapable repetition, not the meat itself."
 related: []
 slug: spam
 source_frame: food-and-cooking

@@ -1,6 +1,7 @@
 ---
 slug: alchemy
 name: Alchemy
+summary: "Transmutation, not improvement: lead becomes gold through staged destruction and reconstitution. The tradition it borrows from never actually worked."
 kind: metaphor
 source_frame: mythology
 applies_to:

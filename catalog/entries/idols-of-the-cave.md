@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-17'
 harness: Claude Code
 kind: mental-model
-name: Idols of the Cave
+name: "Idols of the Cave"
+summary: "Each person's education, temperament, and habits build a private chamber that refracts all incoming evidence in idiosyncratic ways."
 related:
 - idols-of-the-tribe
 - idols-of-the-marketplace

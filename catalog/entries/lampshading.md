@@ -1,6 +1,7 @@
 ---
 slug: lampshading
-name: Lampshading
+name: "Lampshading"
+summary: "Calling out a flaw within the narrative preempts the audience's objection without fixing it."
 kind: pattern
 source_frame: comedy-craft
 applies_to:

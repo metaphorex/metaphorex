@@ -1,6 +1,7 @@
 ---
 slug: five-s
 name: Five S (5S)
+summary: "Sort, Set in order, Shine, Standardize, Sustain. Eliminate before you organize; organize before you standardize."
 kind: pattern
 source_frame: manufacturing
 applies_to:

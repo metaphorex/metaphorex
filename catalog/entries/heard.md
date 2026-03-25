@@ -1,6 +1,7 @@
 ---
 slug: heard
-name: Heard
+name: "Heard"
+summary: "Silence is failure, not consent. A command requires explicit echo of its content before the sender can trust it was received and understood."
 kind: pattern
 source_frame: food-and-cooking
 applies_to:

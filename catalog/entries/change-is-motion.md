@@ -11,6 +11,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: Change Is Motion
+summary: "To change is to move. Fast change reads as urgent, slow change reads as stasis. Speed becomes a proxy for significance."
 provenance: lakoff-johnson-mwlb
 related:
 - action-is-motion

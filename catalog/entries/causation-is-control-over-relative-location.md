@@ -11,6 +11,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Causation Is Control Over Relative Location
+summary: "To cause is to rearrange. Bring things together, drive them apart, align them. Causation as spatial choreography."
 provenance: osaka-master-metaphor-list
 related:
 - causation-is-control-over-an-entity-relative-to-a-location

@@ -1,6 +1,7 @@
 ---
 slug: adaptive-cycle
 name: Adaptive Cycle
+summary: "Systems grow, rigidify, collapse, and reorganize in sequence. The conservation phase is both peak success and peak brittleness."
 kind: mental-model
 source_frame: ecology
 categories:

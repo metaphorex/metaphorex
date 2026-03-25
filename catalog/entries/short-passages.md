@@ -14,6 +14,7 @@ limits:
   - '[source] misleads by implying that all indirection is waste, when some indirection (interfaces, adapters, middleware) exists to absorb change and would be more costly to remove than to maintain'
   - '[source] assumes the traveler knows where they are going, while software developers often navigate unfamiliar codebases where the problem is not corridor length but the absence of signage -- short passages with no names are worse than long ones with clear labels'
 name: Short Passages
+summary: "Alexander's corridor-length principle mapped onto call-chain depth; each layer of indirection must justify its own existence"
 related:
 - unix-pipe
 - chain-of-responsibility

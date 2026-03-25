@@ -16,6 +16,7 @@ limits:
   - '[source] implies that removing the top predator is the only trigger, but real organizational cascades are often triggered by changes at middle or lower levels -- a key supplier departure, a policy change in an obscure compliance team -- where the cascade propagates upward and laterally, not just downward'
   - '[source] carries the implication that restoring the removed element restores the system, borrowing from the Yellowstone wolves narrative, but many organizational cascades pass tipping points beyond which the original structure cannot be reconstituted'
 name: Trophic Cascade
+summary: "Removal of one actor at the top restructures every level below. The most consequential effects may be three or four links from the trigger."
 provenance: ecological-metaphors
 related:
 - ecological-resilience

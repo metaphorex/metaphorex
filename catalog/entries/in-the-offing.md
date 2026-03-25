@@ -6,7 +6,8 @@ contributors: []
 created: '2026-03-14'
 kind: metaphor
 dead: true
-name: In the Offing
+name: "In the Offing"
+summary: "A ship visible between anchorage and horizon maps onto events that are clearly approaching but have not yet arrived."
 related:
 - fathom
 slug: in-the-offing

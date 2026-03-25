@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-16'
 harness: Claude Code
 kind: archetype
-name: Prometheus
+name: "Prometheus"
+summary: "Someone democratizes a dangerous power by stealing it from those who monopolize it, and pays an enormous personal price"
 related:
 - icarus
 - trojan-war

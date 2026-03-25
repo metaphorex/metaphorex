@@ -1,6 +1,7 @@
 ---
 slug: a-room-of-ones-own
 name: A Room of One's Own
+summary: "Every contributor needs a space they control. The boundary between private and shared is what makes both functional."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

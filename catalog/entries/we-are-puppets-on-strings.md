@@ -1,6 +1,7 @@
 ---
 slug: we-are-puppets-on-strings
 name: We Are Puppets on Strings
+summary: "Stoic metaphor where passions control us like a puppeteer controls a marionette. Awareness of the strings is the first counter-move."
 kind: metaphor
 source_frame: theater-and-performance
 applies_to:

@@ -16,6 +16,7 @@ limits:
 - "[source] implies that contamination is detectable through inspection at each link, but compromised software packages often pass all standard checks (signatures, checksums) because the compromise occurs before the artifact is signed"
 - "[source] carries the assumption that provenance tracking solves the trust problem, but software dependencies are updated automatically and continuously, making point-in-time verification insufficient against persistent threats"
 name: Supply Chain Attack
+summary: "Compromise a trusted upstream dependency so the poisoned payload flows downstream through normal dependency resolution."
 related:
 - trojan-horse
 - firewall

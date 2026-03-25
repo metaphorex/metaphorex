@@ -14,6 +14,7 @@ related:
 - data-flow-is-fluid-flow
 slug: bottleneck
 source_frame: containers
+summary: "A system's throughput is limited by its narrowest point. Widening the neck is the only way to improve it."
 updated: '2026-03-10'
 transfers:
   - "[source] the narrowest point of a container determines the maximum flow rate of the entire system"

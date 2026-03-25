@@ -1,6 +1,7 @@
 ---
 slug: things-from-your-life
 name: Things from Your Life
+summary: "Spaces become inhabitable through accumulation of personally significant objects, not professional decoration. Customization is identity-formation."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

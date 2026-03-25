@@ -16,6 +16,7 @@ limits:
 - '[paradigm] treats the interaction as isolated, but most real cooperation problems are embedded in ongoing relationships, social networks, and institutional contexts that change the payoff structure'
 - '[paradigm] reduces complex multi-party coordination to a two-player symmetric game, obscuring that real cooperation failures often involve asymmetric power, incomplete information about others'' strategies, and more than two parties'
 name: "Prisoner's Dilemma"
+summary: "Individually rational choices produce collectively worse outcomes when incentives reward defection over cooperation."
 related:
 - tragedy-of-the-commons
 - survival-of-the-fittest

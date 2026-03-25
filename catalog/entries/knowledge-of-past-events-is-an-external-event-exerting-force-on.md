@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Knowledge of Past Events Is an External Event Exerting Force On
+summary: "Memories arrive as impacts: they hit, strike, crush. The frame makes internal recall feel like an external assault on a passive recipient."
 provenance: osaka-master-metaphor-list
 related:
 - a-force-is-a-moving-object

@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Beliefs Are Beings with a Life Cycle
+summary: "Beliefs are born, mature, reproduce, and die. The life-cycle framing makes intellectual change feel biological and inevitable rather than chosen."
 provenance: osaka-master-metaphor-list
 related:
 - ideas-are-people

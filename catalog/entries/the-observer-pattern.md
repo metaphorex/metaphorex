@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-07'
 kind: archetype
 name: The Observer Pattern
+summary: "Objects register interest in another object's state changes and receive notifications when changes occur."
 provenance: gang-of-four
 related:
 - the-mediator-pattern

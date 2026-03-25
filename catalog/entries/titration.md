@@ -1,6 +1,7 @@
 ---
 slug: titration
 name: Titration
+summary: "Reagent added drop by drop, measured against the solution's absorptive capacity. The system itself signals when it has received enough."
 kind: metaphor
 source_frame: chemistry
 applies_to:

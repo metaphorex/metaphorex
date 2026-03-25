@@ -1,6 +1,7 @@
 ---
 slug: everyone-goes-home
 name: Everyone Goes Home
+summary: "Mission success is redefined to include the survival of the team. If your people do not survive the mission, the mission failed."
 kind: mental-model
 source_frame: fire-safety
 categories:

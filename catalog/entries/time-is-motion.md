@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Time Is Motion
+summary: "Temporal passage understood through spatial displacement. Time 'goes by,' clocks 'run,' deadlines 'approach.'"
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

@@ -1,6 +1,7 @@
 ---
 slug: lces
 name: LCES
+summary: "Lookouts, Communications, Escape routes, Safety zones. The key insight is building retreat infrastructure before commitment, not after."
 kind: mental-model
 source_frame: fire-safety
 categories:

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Yak Shaving
+summary: "Infinite prerequisite regression. Each step is locally rational, but the cumulative distance from the original goal becomes surreal."
 related:
 - bottleneck
 slug: yak-shaving

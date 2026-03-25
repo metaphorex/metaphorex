@@ -9,7 +9,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Heisenbug
+name: "Heisenbug"
+summary: "A bug that vanishes when observed. Adding debuggers or logging changes timing enough to alter the defect."
 related:
 - program-failure-is-bodily-failure
 slug: heisenbug

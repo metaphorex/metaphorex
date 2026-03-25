@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: archetype
 name: The Proxy Pattern
+summary: "A stand-in object controls access to another object while presenting the same interface, acting under delegated authority."
 provenance: gang-of-four
 related:
 - the-facade-pattern

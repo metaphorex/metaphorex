@@ -12,7 +12,8 @@ limits:
 - '[model] assumes that connections between elements are net-positive, but integration introduces failure propagation -- a disease in a polyculture can spread to every species, while segregation (monoculture blocks with firebreaks) contains the damage'
 - '[model] obscures the coordination cost of integration: every connection between elements requires maintenance, monitoring, and mutual adaptation, and the number of pairwise connections grows quadratically with element count'
 - '[model] breaks in adversarial environments where segregation is a security requirement -- isolation of processes, least-privilege access, and air-gapped networks exist precisely because integration creates attack surfaces'
-name: Integrate Rather Than Segregate
+name: "Integrate Rather Than Segregate"
+summary: "Yields come from connections between elements, not from elements alone. Segregation forces you to buy externally what integration provides for free."
 related:
 - produce-no-waste
 - you-reap-what-you-sow

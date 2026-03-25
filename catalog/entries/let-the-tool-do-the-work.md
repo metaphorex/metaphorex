@@ -11,7 +11,8 @@ kind: mental-model
 limits:
 - '[model] assumes the tool is appropriate for the task -- a carpenter forcing a chisel is sometimes using the wrong chisel, not the wrong technique, and the maxim cannot distinguish between operator error and tool-task mismatch without external judgment'
 - '[model] presupposes a well-designed tool -- the principle holds for a sharp plane on straight-grained timber but fails when the tool itself is defective or the material is pathological, yet it offers no diagnostic for when resistance signals tool failure rather than user error'
-name: Let the Tool Do the Work
+name: "Let the Tool Do the Work"
+summary: "If you're forcing it, the problem is setup, not effort. Sharpen the blade; don't push harder."
 provenance: carpentry-woodworking
 related:
 - best-carpenters-fewest-chips

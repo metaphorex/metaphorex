@@ -11,6 +11,7 @@ limits:
   costs'
 - '[model] misleads by reducing accumulated expertise, community membership, and identity to mechanical resistance, when these ''switching costs'' have independent value beyond mere friction'
 name: Switching Costs
+summary: "Physical friction and inertia mapped onto customer behavior. Higher switching costs create more durable relationships but also bilateral stickiness."
 provenance: munger-poor-charlies-almanack
 related:
 - creative-destruction

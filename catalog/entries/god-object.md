@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: God Object
+summary: "A class that is omniscient, omnipotent, and omnipresent in the codebase. Everything depends on it, so any change risks breaking everything."
 related:
 - technical-debt
 - spaghetti-code

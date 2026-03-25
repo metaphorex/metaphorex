@@ -1,6 +1,7 @@
 ---
 slug: inner-child
-name: Inner Child
+name: "Inner Child"
+summary: "The adult psyche contains a younger self still carrying childhood wounds. Therapy means parenting that part with care it never received."
 kind: metaphor
 source_frame: family-and-kinship
 applies_to:

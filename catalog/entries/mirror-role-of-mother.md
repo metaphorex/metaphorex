@@ -1,6 +1,7 @@
 ---
 slug: mirror-role-of-mother
 name: Mirror Role of Mother
+summary: "The mother's face is the infant's first mirror. Responsive expressions teach the child that it exists and can be seen."
 kind: metaphor
 source_frame: vision
 applies_to:

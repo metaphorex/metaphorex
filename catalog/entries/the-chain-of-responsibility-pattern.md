@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Chain of Responsibility Pattern
+summary: "Route a request through handlers in sequence. Each handler accepts or passes on. The sender never knows which one answers."
 provenance: gang-of-four
 related:
 - the-command-pattern

@@ -12,7 +12,8 @@ limits:
 - '[law] applies only to the average over ALL possible problems, but real-world problems are not drawn uniformly from the space of all possible problems -- they have structure, and algorithms that exploit that structure genuinely do outperform others on the problems we actually care about'
 - '[law] is sometimes invoked to justify not searching for better methods ("nothing is universally best, so anything goes"), which is a misapplication -- the theorem says no FREE lunch, not that all restaurants are equally bad'
 - '[law] presupposes a fixed evaluation metric, but many real optimization problems have shifting or contested objectives, where the question is not which algorithm is best but which objective function is right'
-name: No Free Lunch Theorem
+name: "No Free Lunch Theorem"
+summary: "No optimization algorithm outperforms all others across all problems; any advantage on one class of problems is paid for on another."
 related:
 - fermis-paradox
 slug: no-free-lunch-theorem

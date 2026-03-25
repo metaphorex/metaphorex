@@ -1,6 +1,7 @@
 ---
 slug: tongue-and-groove
 name: Tongue and Groove
+summary: "Fit determined by shared dimensional standard, not trial. The joint constrains certain degrees of freedom while leaving others open."
 kind: metaphor
 dead: true
 source_frame: carpentry

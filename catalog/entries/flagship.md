@@ -13,6 +13,7 @@ limits:
 - '[source] misleads because admirals sometimes chose flagships for pragmatic reasons (cabin space, signaling position), not because they were the finest vessels -- the metaphor has drifted to mean premium
   or best'
 name: Flagship
+summary: "The admiral's flag-ship represented the fleet. Now a prestige adjective meaning 'best,' though admirals chose flagships for cabin space, not quality."
 related:
 - mainstay
 - first-rate

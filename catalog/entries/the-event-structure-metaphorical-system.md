@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: The Event Structure Metaphorical System
+summary: "A coherent network mapping all event concepts onto spatial motion and force dynamics via two parallel cases: location and object."
 provenance: osaka-master-metaphor-list
 related:
 - states-are-locations

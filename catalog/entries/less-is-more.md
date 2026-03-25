@@ -1,6 +1,7 @@
 ---
 slug: less-is-more
 name: Less Is More
+summary: "Subtraction as creation. Removing elements can increase value, but the principle provides no criterion for what to keep versus what to cut."
 kind: metaphor
 source_frame: architecture-and-building
 applies_to:

@@ -11,6 +11,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Technical Bankruptcy
+summary: "Technical debt accumulated past the point where refactoring is viable, leaving a full rewrite as the only remedy."
 related:
 - technical-debt
 - accidental-complexity

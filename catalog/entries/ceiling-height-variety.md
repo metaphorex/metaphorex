@@ -1,6 +1,7 @@
 ---
 slug: ceiling-height-variety
 name: Ceiling Height Variety
+summary: "Different tasks need different spatial scales. A dashboard and a detail view are high ceilings and low ceilings for cognition."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

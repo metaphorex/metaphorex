@@ -18,6 +18,7 @@ structure:
   - emergence
 abstraction_level: specific
 name: Groundswell
+summary: "A deep wave from a distant storm travels beneath a calm surface. The label asserts depth and authenticity but often names surface phenomena."
 related: []
 slug: groundswell
 source_frame: seafaring

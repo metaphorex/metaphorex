@@ -1,6 +1,7 @@
 ---
 slug: a-chance-to-cut-is-a-chance-to-cure
 name: A Chance to Cut Is a Chance to Cure
+summary: "Access is expensive and temporary. Act while the abdomen is open because creating access again costs more than the next incision."
 kind: metaphor
 source_frame: medicine
 applies_to:

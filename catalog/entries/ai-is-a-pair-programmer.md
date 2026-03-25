@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: AI Is a Pair Programmer
+summary: "Driver-navigator turn-taking maps onto human-AI coding loops. But the AI has no persistent memory, no pushback, and no accountability."
 related:
 - ai-is-a-tool
 - ai-is-a-prosthesis

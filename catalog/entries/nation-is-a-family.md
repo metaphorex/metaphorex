@@ -12,6 +12,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Nation Is a Family
+summary: "Government as parent, citizens as children. Structures conservative (Strict Father) and progressive (Nurturant Parent) moral systems."
 provenance: osaka-master-metaphor-list
 related:
 - nation-is-a-person

@@ -16,6 +16,7 @@ limits:
   - "[source] implies that awakening is a one-time event (unplugging), but real processes of recognizing systemic deception are gradual, incomplete, and reversible -- people do not simply 'wake up' and stay woke"
   - "[source] obscures the role of collective action because Neo's journey is an individual hero narrative, while systemic change in real institutions requires coordinated effort, not a single person seeing through the illusion"
 name: The Matrix Is Hidden Reality
+summary: "Consensus reality is a simulation designed to keep inhabitants docile. The binary (plugged in or not) flatters every speaker into Neo."
 related:
 - red-pill-is-awakening
 - brave-new-world-is-technological-control

@@ -1,6 +1,7 @@
 ---
 slug: tradition-unimpeded-by-progress
 name: Tradition Unimpeded by Progress
+summary: "Operational practices fuse with group identity, so changing a procedure feels like an attack on belonging rather than an improvement."
 kind: mental-model
 source_frame: fire-safety
 categories:

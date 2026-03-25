@@ -10,6 +10,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Shadow
+summary: "Rejected aspects form a coherent counterpart that grows in proportion to denial. Integration requires confrontation, not elimination."
 provenance: jung-aion
 related:
 - the-trickster

@@ -16,6 +16,7 @@ limits:
 - '[source] misleads by implying a sequential phase model (first tool, then cut) when real projects interleave tooling and production, and the best moment to invest in tooling often only becomes apparent mid-project'
 - '[source] obscures the social dimension: a carpenter tools up alone at the bench, but organizational tooling-up requires consensus, training, and adoption costs that the solitary-craftsperson metaphor hides'
 name: Tooling Up
+summary: "Invest in tools before doing the work. The craftsperson's bench prep framed as discipline, not procrastination."
 related:
 - yak-shaving
 - sharpening-the-saw

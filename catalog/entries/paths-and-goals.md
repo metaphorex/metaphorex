@@ -11,6 +11,7 @@ created: '2026-03-19'
 harness: Claude Code
 kind: pattern
 name: Paths and Goals
+summary: "Alexander pattern: people follow paths only when they can see a destination, mapping physical wayfinding onto interface navigation"
 related:
 - a-place-to-wait
 - entrance-transition

@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Moral Accounting
+summary: "Good and bad deeds create debits and credits on a ledger that demands settlement and balance."
 provenance: osaka-master-metaphor-list
 related:
 - mental-accounting

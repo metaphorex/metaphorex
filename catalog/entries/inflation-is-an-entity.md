@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Inflation Is an Entity
+summary: "Reifying a statistical aggregate into a hungry, mobile agent lets us fight it, blame it, and measure it. The entity frame hides distributed causation."
 provenance: lakoff-johnson-mwlb
 related:
 - time-is-money

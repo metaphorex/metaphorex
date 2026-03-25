@@ -10,6 +10,7 @@ limits:
 - '[model] breaks because some systems should be fragile by design -- fire alarms, circuit breakers, and democratic checks are engineered to break under specific conditions as a feature'
 - '[model] misleads by hiding the human cost of stress testing: when organizations are stress-tested by recessions, real people lose jobs, but the engineering frame treats suffering as load data'
 name: System Resilience vs. Fragility
+summary: "Sorts systems from fragile to antifragile by analyzing load-bearing capacity, single points of failure, and stress-test survival."
 provenance: munger-poor-charlies-almanack
 related:
 - redundancy

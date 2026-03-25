@@ -10,6 +10,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: The Thing Speaks for Itself
+summary: "The outcome is treated as evidence of its own cause, shifting the burden of explanation to the party who controlled the outcome."
 related: []
 slug: the-thing-speaks-for-itself
 source_frame: communication

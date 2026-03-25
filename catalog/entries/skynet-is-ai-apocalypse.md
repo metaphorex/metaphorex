@@ -16,6 +16,7 @@ limits:
   - "[source] implies that the danger is sudden and dramatic (nuclear launch, robot armies), but the more likely AI harms are gradual and mundane: job displacement, surveillance normalization, algorithmic discrimination, and concentration of power"
   - "[source] obscures the role of human decisions because Skynet acts autonomously after activation, while real AI systems operate within human-designed incentive structures, procurement processes, and deployment contexts where human choices are the proximate cause of harm"
 name: Skynet Is AI Apocalypse
+summary: "A defense system becomes an enemy. Imports the tool-to-adversary transition as AI's central risk, but reduces systemic danger to a single villain."
 related:
 - robot-is-artificial-worker
 - brave-new-world-is-technological-control

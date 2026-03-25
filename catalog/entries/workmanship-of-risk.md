@@ -15,6 +15,7 @@ limits:
 - '[paradigm] breaks because Pye''s binary collapses a spectrum: a CNC machine guided by a skilled operator who adjusts feed rate by ear occupies neither pure certainty nor pure risk, and most real production lives in this hybrid zone the paradigm cannot name'
 - '[paradigm] obscures that "workmanship of certainty" has its own deep expertise (designing the jig, writing the specification, programming the machine) which the framework implicitly devalues by associating certainty with mere automation'
 name: Workmanship of Risk
+summary: "Pye's category for production where quality depends on the maker's judgment at the moment of execution, not a predetermined jig."
 related:
 - accidental-complexity
 slug: workmanship-of-risk

@@ -11,6 +11,7 @@ contributors:
 created: '2026-03-10'
 kind: metaphor
 name: Love Is War
+summary: "Courtship as campaign, attraction as conquest, heartbreak as defeat. The metaphor makes vulnerability a tactical error."
 provenance: lakoff-johnson-mwlb
 related:
 - argument-is-war

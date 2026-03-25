@@ -1,6 +1,7 @@
 ---
 slug: on-the-fly
 name: On the Fly
+summary: "Kitchen emergency where a dish must be refired immediately because something went wrong upstream. Reactive correction, not flexible adaptation."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

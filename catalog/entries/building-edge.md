@@ -1,6 +1,7 @@
 ---
 slug: building-edge
 name: Building Edge
+summary: "Where a building meets the street, ambiguity generates activity. Blank walls kill interaction; arcades and stoops invite it."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

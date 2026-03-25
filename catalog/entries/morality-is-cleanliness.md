@@ -12,6 +12,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Morality Is Cleanliness
+summary: "Sin is dirt; virtue is clean; guilt stains; confession washes. The metaphor's endpoint: the 'unclean' must be separated or eliminated."
 provenance: osaka-master-metaphor-list
 related:
 - moral-accounting

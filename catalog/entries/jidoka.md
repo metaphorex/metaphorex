@@ -1,6 +1,7 @@
 ---
 slug: jidoka
-name: Jidoka
+name: "Jidoka"
+summary: "Build defect detection into the process itself so the line stops at the point of failure, not after."
 kind: paradigm
 source_frame: manufacturing
 applies_to:

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Environment Variable
+summary: "A process inherits ambient context from its parent the way an organism inherits habitat. Configuration is surroundings, not arguments."
 related:
 - data-flow-is-fluid-flow
 slug: environment-variable

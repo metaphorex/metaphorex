@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Platform
+summary: "A raised flat surface became technology infrastructure. The flatness imports neutrality that digital platforms systematically violate."
 related:
 - cloud
 slug: platform

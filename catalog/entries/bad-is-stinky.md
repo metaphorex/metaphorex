@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Bad Is Stinky
+summary: "Moral judgment mapped onto the disgust reflex. If it smells wrong, it is wrong. The body decides before the mind."
 provenance: osaka-master-metaphor-list
 related:
 - morality-is-purity

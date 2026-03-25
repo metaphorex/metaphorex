@@ -13,7 +13,8 @@ limits:
 - '[source] misleads by framing aggression as uniformly destructive, when some writers'' rooms use controlled antagonism productively -- the metaphor cannot distinguish a raptor pit from a constructive stress-test environment'
 - '[source] breaks because raptors attack prey to eat, not to improve prey quality, while hostile critique in a writers'' room at least nominally aims to strengthen the material, giving the aggression a purpose the predator metaphor denies'
 - '[source] obscures power dynamics by treating all participants as equal predators, when real raptor-pit dynamics typically involve senior writers attacking junior ones, making the metaphor about hierarchy as much as hostility'
-name: Raptor Pit
+name: "Raptor Pit"
+summary: "A team environment where confined proximity and pressure convert collaboration into indiscriminate predatory hostility"
 related:
 - psychological-safety
 slug: raptor-pit

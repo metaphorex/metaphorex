@@ -1,6 +1,7 @@
 ---
 slug: observe-and-interact
 name: Observe and Interact
+summary: "Watch the system through a full cycle before intervening. The quality of the design is bounded by the quality of the observation."
 kind: mental-model
 categories:
 - systems-thinking

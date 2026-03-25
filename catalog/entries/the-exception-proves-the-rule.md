@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: The Exception Proves the Rule
+summary: "A stated exception implies a general rule covering unstated cases. 'Proves' meant 'tests,' not 'confirms,' before semantic drift inverted it."
 provenance: brooms-legal-maxims
 related:
 - false-in-one-thing-false-in-all

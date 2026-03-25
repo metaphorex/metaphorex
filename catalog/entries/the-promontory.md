@@ -1,6 +1,7 @@
 ---
 slug: the-promontory
 name: The Promontory
+summary: "A headland endures waves through material composition, not effort. After each wave the water calms because the stone did not amplify the disturbance."
 kind: metaphor
 source_frame: geology
 applies_to:

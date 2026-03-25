@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Emotions Are Locations
+summary: "Each emotion is a bounded place you enter, occupy, and leave. Onset is arrival, recovery is departure, and persistent feeling is being trapped inside."
 provenance: osaka-master-metaphor-list
 related:
 - states-are-locations

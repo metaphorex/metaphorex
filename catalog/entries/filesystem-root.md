@@ -1,6 +1,7 @@
 ---
 slug: filesystem-root
 name: Filesystem Root
+summary: "The origin from which all paths descend, borrowing the botanical root as anchor. The tree is drawn upside down and nobody notices."
 kind: metaphor
 dead: true
 source_frame: horticulture

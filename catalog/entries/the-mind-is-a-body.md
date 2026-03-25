@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: The Mind Is a Body
+summary: "The mind grasps ideas, stumbles over problems, and stretches to fit new concepts. It imports the body's finite energy and need for rest."
 provenance: osaka-master-metaphor-list
 related:
 - the-mind-is-a-machine

@@ -11,6 +11,7 @@ limits:
 - '[model] breaks because each additional order of analysis is less reliable as uncertainty compounds, and the model provides no principled stopping rule for how many orders to consider'
 - '[model] misleads by importing the precision of physics (higher-order derivatives are mathematically exact) into social systems where second-order effects are speculative narratives disguised as calculation'
 name: Second-Order Thinking
+summary: "Higher-order derivatives from calculus mapped onto consequence analysis: first-order effects are immediate, second-order are their consequences"
 provenance: munger-poor-charlies-almanack
 related:
 - man-with-a-hammer

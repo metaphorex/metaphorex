@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by implying that the sheltering boundary is benign, when platform layers can also constrain, surveil, and lock in the systems beneath them'
 - '[source] obscures the fact that a physical roof is visible and inspectable from below, while many software platform layers are opaque, making their sheltering function a matter of trust rather than observation'
 name: Sheltering Roof
+summary: "Alexander's roof as the defining boundary of a building mapped onto the platform layer that establishes a system's identity"
 provenance: alexander-pattern-language
 related:
 - cascade-of-roofs

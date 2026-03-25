@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Light Is A Fluid
+summary: "Light floods, pools, and pours. The hydraulic model captures propagation and filling but breaks at reflection, refraction, and the absence of gravity."
 provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing

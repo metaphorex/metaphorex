@@ -12,7 +12,8 @@ limits:
   - "[paradigm] breaks because it assumes the master had meaningful control over the servant's specific act -- in large organizations, the person bearing liability may have had no knowledge of, involvement in, or ability to prevent the harmful conduct"
   - "[paradigm] misleads by creating moral hazard for the agent -- if the master always answers, the servant has reduced incentive to exercise care, because the personal consequences of negligence fall on someone else"
   - "[paradigm] fails when authority structures are ambiguous or distributed -- gig workers, independent contractors, and matrix-managed employees exist in zones where no single master can be identified, yet the paradigm demands one"
-name: Let the Master Answer
+name: "Let the Master Answer"
+summary: "Whoever profits from directing another's labor must absorb the costs when that labor causes harm."
 provenance: brooms-legal-maxims
 related:
 - he-who-acts-through-another-acts-himself

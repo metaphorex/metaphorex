@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Communication Is Linguistic Communication
+summary: "All meaning-making gets modeled as speech. The frame forces propositional structure onto music, touch, and dance."
 provenance: osaka-master-metaphor-list
 related:
 - the-conduit-metaphor

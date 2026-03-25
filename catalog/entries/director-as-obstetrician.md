@@ -1,6 +1,7 @@
 ---
 slug: director-as-obstetrician
 name: Director as Obstetrician
+summary: "The director assists at the birth of the performance, not its conception. Intervene only when the natural process stalls."
 kind: metaphor
 source_frame: medicine
 applies_to:

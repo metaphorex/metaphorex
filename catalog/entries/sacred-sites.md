@@ -1,6 +1,7 @@
 ---
 slug: sacred-sites
-name: Sacred Sites
+name: "Sacred Sites"
+summary: "Places and systems that accumulate irreplaceable meaning through long use, constraining what changes are permissible"
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

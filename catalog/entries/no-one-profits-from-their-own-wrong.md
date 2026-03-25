@@ -1,6 +1,7 @@
 ---
 slug: no-one-profits-from-their-own-wrong
-name: No One Profits from Their Own Wrong
+name: "No One Profits from Their Own Wrong"
+summary: "If rule-breaking yields net advantage to the breaker, violations will escalate until the system collapses or the incentive is removed."
 kind: mental-model
 source_frame: governance
 categories:

@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-07'
 kind: metaphor
 name: Program Failure Is Bodily Failure
+summary: "Software crashes die, choke, and get diagnosed. The bodily frame makes abstract failures feelable but imports unwarranted empathy."
 related:
 - data-flow-is-fluid-flow
 slug: program-failure-is-bodily-failure

@@ -13,6 +13,7 @@ limits:
   - '[source] misleads because Alexander''s secret places are designed for the inhabitant''s emotional safety, while software Easter eggs are designed for the discoverer''s entertainment -- conflating safety with delight produces features that serve neither purpose well'
   - '[source] assumes that hiddenness is inherently benign, but in software, hidden functionality raises legitimate security and auditability concerns that have no equivalent in a child''s reading nook'
 name: Secret Place
+summary: "Alexander's hidden architectural nook mapped onto software Easter eggs; discovery builds ownership that documentation cannot"
 provenance: alexander-pattern-language
 related:
 - easter-egg

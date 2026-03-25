@@ -13,6 +13,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Virtue Is Up; Depravity Is Down
+summary: "Moral standing maps to physical height. We 'look up to' the good and 'look down on' the base."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: AI Safety Is Containment
+summary: "AI risk framed as keeping a dangerous substance inside a box. Imports sealed boundaries and pressure buildup from physical containment."
 related:
 - ai-is-a-tool
 - ai-is-an-agent

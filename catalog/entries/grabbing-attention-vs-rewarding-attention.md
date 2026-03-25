@@ -1,6 +1,7 @@
 ---
 slug: grabbing-attention-vs-rewarding-attention
-name: Grabbing Attention vs. Rewarding Attention
+name: "Grabbing Attention vs. Rewarding Attention"
+summary: "Grabbing spikes and decays; rewarding sustains and deepens. The techniques for each conflict, forcing an allocation trade-off in every design."
 kind: pattern
 source_frame: visual-arts-practice
 applies_to:

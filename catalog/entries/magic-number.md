@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Magic Number
+summary: "A numeric literal whose power is opaque and whose origin is forgotten. Naming it breaks the spell; the fix is a named constant."
 related:
 - deep-magic
 - cargo-cult-programming

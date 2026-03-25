@@ -13,6 +13,7 @@ limits:
 - '[source] misleads because in the source domain jury rigs were always replaced upon reaching port, while metaphorical jury-rigged solutions routinely become permanent -- inverting the original expectation
   of temporariness'
 name: Jury-Rigged
+summary: "Emergency improvisation from necessity, not choice. Originally expert seamanship under mortal pressure; now bleached to mean any hasty fix."
 related: []
 slug: jury-rigged
 source_frame: seafaring

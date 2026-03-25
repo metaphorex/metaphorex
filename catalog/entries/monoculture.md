@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by implying that diversity is always superior to uniformity, when standardization (a form of monoculture) produces enormous efficiency gains -- the metaphor smuggles in a normative claim about diversity that the source domain does not universally support'
 - '[source] obscures the fact that agricultural monocultures persist because they are economically rational at the farm level despite systemic risk, and organizational monocultures persist for the same reason -- the metaphor diagnoses the fragility but has nothing to say about the incentive structure that produces it'
 name: Monoculture
+summary: "Single-variety cultivation maps systemic fragility from homogeneity onto any domain that trades diversity for efficiency."
 related:
 - ecological-resilience
 - biodiversity-loss

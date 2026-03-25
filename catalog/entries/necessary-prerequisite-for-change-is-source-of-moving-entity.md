@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Necessary Prerequisite for Change Is Source of Moving Entity
+summary: "If change is motion, then its precondition is the starting location. You cannot get there unless you start from here."
 provenance: osaka-master-metaphor-list
 related:
 - change-is-motion

@@ -10,7 +10,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Foreseeable Future Events Are Up (and Ahead)
+name: "Foreseeable Future Events Are Up (and Ahead)"
+summary: "Approaching events are described as rising: 'coming up,' 'upcoming,' 'next up.' Temporal proximity maps onto upward spatial orientation."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

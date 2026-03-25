@@ -1,6 +1,7 @@
 ---
 slug: the-helmsman
 name: The Helmsman
+summary: "Stoic image: the helmsman steers by reading conditions, not commanding the sea. Continuous adjustment, not a single decision."
 kind: metaphor
 source_frame: navigation
 applies_to:

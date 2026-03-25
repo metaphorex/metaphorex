@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Competition Is a Race
+summary: "First across the line wins. The track makes lateral moves and niche strategy invisible."
 provenance: osaka-master-metaphor-list
 related:
 - competition-is-1-on-1-physical-aggression

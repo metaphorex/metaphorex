@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Registry Pattern
+summary: "A well-known central object where services register themselves and clients look them up by key."
 provenance: fowler-peaa
 related:
 - the-repository-pattern

@@ -1,6 +1,7 @@
 ---
 slug: kernighans-law
-name: Kernighan's Law
+name: "Kernighan's Law"
+summary: "Debugging is twice as hard as writing code, so code written at the limit of your cleverness is by definition beyond your ability to fix."
 kind: mental-model
 source_frame: intellectual-inquiry
 categories:

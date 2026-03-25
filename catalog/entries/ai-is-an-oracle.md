@@ -10,6 +10,7 @@ harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: AI Is an Oracle
+summary: "Ask a question, receive a pronouncement, do not question the source. The frame casts users as supplicants, not collaborators."
 related:
 - ai-is-a-tool
 - ai-is-an-agent

@@ -9,7 +9,8 @@ kind: mental-model
 limits:
 - '[model] breaks when applied to relationships that resist the exchange frame -- parenting, friendship, and solidarity are corroded by transactional logic rather than explained by it'
 - '[model] misleads by assuming rough equality between parties, when power asymmetry distorts the ledger and makes coerced ''exchange'' look like legitimate reciprocity'
-name: Reciprocity
+name: "Reciprocity"
+summary: "Unsolicited favors create felt obligations; both debts and hostilities demand settlement through the same mechanism"
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

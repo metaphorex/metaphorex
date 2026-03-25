@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Lustful Person Is an Animal
+summary: "Lust as reversion to instinct. The metaphor demotes the desiring person on the Great Chain of Being and erases mutual agency."
 provenance: osaka-master-metaphor-list
 related:
 - love-is-madness

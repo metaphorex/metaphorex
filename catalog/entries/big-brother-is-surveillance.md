@@ -1,6 +1,7 @@
 ---
 slug: big-brother-is-surveillance
 name: Big Brother Is Surveillance
+summary: "Orwell's omnipresent watcher, now shorthand for any monitoring. Assumes centralized state coercion; modern surveillance is commercial and consensual."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

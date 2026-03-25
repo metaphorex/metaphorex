@@ -15,6 +15,7 @@ limits:
   - '[source] The villagers contribute voluntarily only because social pressure and curiosity operate in a small, face-to-face community; the pattern does not transfer to anonymous or large-scale contexts where free-riding has no social cost'
   - '[source] The tale ends when the soup is eaten, obscuring the question of ongoing maintenance -- one pot of soup is an event, not an institution, and the metaphor says nothing about sustaining contributions over time'
 name: Stone Soup
+summary: "A worthless seed contribution catalyzes genuine contributions from bystanders. The facilitator provides coordination structure, not substance."
 related:
 - barn-raising
 - tragedy-of-the-commons

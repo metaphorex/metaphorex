@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-13'
 kind: metaphor
 name: Machines Are People
+summary: "We attribute willfulness, temperament, and cooperation to devices. The printer is being difficult. The car refuses to start."
 provenance: osaka-master-metaphor-list
 related:
 - people-are-machines

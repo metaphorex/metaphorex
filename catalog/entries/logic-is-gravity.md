@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Logic Is Gravity
+summary: "Valid arguments pull conclusions downward with gravitational inevitability. The frame overstates compulsion: real reasoning is defeasible."
 provenance: osaka-master-metaphor-list
 related:
 - psychological-forces-are-physical-forces

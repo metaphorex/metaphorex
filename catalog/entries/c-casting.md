@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: C Casting
+summary: "Type conversion as pouring molten metal into a mold. The mold determines the shape; narrowing risks loss, just as an undersized mold ruins the piece."
 related:
 - c-pointer
 slug: c-casting

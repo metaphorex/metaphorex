@@ -22,6 +22,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Action at a Distance
+summary: "You change something here and something over there breaks with no visible connection. The coupling exists but is not declared in the interface."
 related:
 - spaghetti-code
 slug: action-at-a-distance

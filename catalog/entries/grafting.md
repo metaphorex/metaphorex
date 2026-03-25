@@ -1,6 +1,7 @@
 ---
 slug: grafting
 name: Grafting
+summary: "Integration requires compatibility at the junction, not similarity between joined parts. The graft union remains a permanent structural vulnerability."
 kind: metaphor
 source_frame: horticulture
 applies_to:

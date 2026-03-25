@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: paradigm
 name: Worse Is Better
+summary: "Simpler, rougher systems spread faster than elegant ones. Adoption beats correctness; refinement comes after."
 provenance: gabriel-worse-is-better
 related:
 - survival-of-the-fittest

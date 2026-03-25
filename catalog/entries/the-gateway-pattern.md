@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Gateway Pattern
+summary: "A controlled entry point between internal and external systems. The gate concentrates traffic so guards can inspect, translate, and close."
 provenance: fowler-peaa
 related:
 - the-facade-pattern

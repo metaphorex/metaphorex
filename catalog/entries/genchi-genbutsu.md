@@ -1,6 +1,7 @@
 ---
 slug: genchi-genbutsu
 name: Genchi Genbutsu
+summary: "Go to the source and see the actual situation yourself. Every layer of reporting between you and reality compresses the signal."
 kind: mental-model
 categories:
   - systems-thinking

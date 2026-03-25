@@ -1,6 +1,7 @@
 ---
 slug: muda-mura-muri
-name: Muda, Mura, Muri
+name: "Muda, Mura, Muri"
+summary: "Toyota's three enemies of efficiency: waste, unevenness, and overburden, where unevenness is upstream of the other two."
 kind: mental-model
 source_frame: manufacturing
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: contrarian-thinking
 name: Contrarian Thinking
+summary: "Oppose consensus to surface hidden assumptions. Valuable only when the contrarian view is also correct; reflexive disagreement is a posture."
 kind: mental-model
 categories:
   - decision-making

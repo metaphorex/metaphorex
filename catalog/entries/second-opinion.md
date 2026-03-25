@@ -1,6 +1,7 @@
 ---
 slug: second-opinion
 name: Second Opinion
+summary: "Medical practice of independent diagnostic verification mapped onto any domain where expert judgment is probabilistic"
 kind: metaphor
 dead: true
 source_frame: medicine

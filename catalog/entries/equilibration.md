@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Equilibration
+summary: "Cognitive development is a physics problem: disequilibrium drives change, and the mind seeks balance the way a displaced system seeks equilibrium."
 provenance: child-psychology-metaphors
 related:
 - assimilation-and-accommodation

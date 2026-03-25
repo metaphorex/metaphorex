@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Love Is Magic
+summary: "Attraction operates like a spell: involuntary, irresistible, and breakable. The frame has no model for love that deepens over time."
 provenance: osaka-master-metaphor-list
 related:
 - love-is-madness

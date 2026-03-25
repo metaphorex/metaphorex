@@ -11,6 +11,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Beliefs Are Fashions
+summary: "Beliefs cycle in and out of style. The fashion frame strips convictions of epistemic standing, reducing truth claims to social currency."
 provenance: osaka-master-metaphor-list
 related:
 - beliefs-are-possessions

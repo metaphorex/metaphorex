@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Harm Is Being in a Harmful Location
+summary: "Harm as a place you occupy, not an event. Severity maps onto depth, recovery onto departure, and the frame hides who put you there."
 provenance: osaka-master-metaphor-list
 related:
 - states-are-locations

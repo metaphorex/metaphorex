@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-07'
 kind: archetype
 name: The Commons
+summary: "Shared resource where individual rational use produces collective ruin. Hardin says tragedy is inevitable; Ostrom shows governance works."
 related:
 - survival-of-the-fittest
 slug: the-commons

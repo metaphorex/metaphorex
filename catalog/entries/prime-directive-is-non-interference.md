@@ -23,6 +23,7 @@ limits:
   \ or don't -- which collapses the spectrum of possible engagements into\
   \ a binary"
 name: Prime Directive Is Non-Interference
+summary: "Star Trek's highest law: superior capability creates an obligation to restrain, not to help. Systemic rules override impulse."
 related: []
 slug: prime-directive-is-non-interference
 source_frame: science-fiction

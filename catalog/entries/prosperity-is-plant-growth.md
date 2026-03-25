@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Prosperity Is Plant Growth
+summary: "Success grows, investments bear fruit, economies flourish. The botanical frame naturalizes prosperity and makes stagnation pathological."
 provenance: glasgow-mapping-metaphor
 related:
 - emotions-are-weather

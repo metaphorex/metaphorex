@@ -164,6 +164,19 @@ Cognitive biases and effects are `mental-model`. If you're writing 5 entries
 and they're all `metaphor`, stop and re-check — that distribution is almost
 certainly wrong.
 
+**Summary (required on all new entries):**
+
+Every new entry MUST include a `summary` field in frontmatter. One sentence
+(max 150 characters) that explains the metaphor to someone who doesn't
+recognize the name. Punchy and opinionated, not academic. No em dashes.
+Not a restatement of the first transfer. May use a second short sentence
+or phrase fragment if needed. The reader should think "oh, that's what
+that is."
+
+```yaml
+summary: "Sort by who can still be saved, not by who's loudest. Accept that some cases get deliberately abandoned."
+```
+
 **Structural enrichment (include on all new entries):**
 
 Every new entry MUST include structural tags in frontmatter. These enable

@@ -12,7 +12,8 @@ limits:
 - '[model] assumes every output has a latent use, but some by-products are genuinely toxic or entropic -- industrial slag, radioactive waste, and heat dissipation have no productive reuse without energy expenditure that exceeds the recovered value'
 - '[model] treats waste as a design failure rather than a thermodynamic inevitability; the second law of thermodynamics guarantees that no closed transformation is perfectly efficient, so zero waste is an asymptote, not an achievable state'
 - '[model] obscures the cost of integration: routing every output to a consumer requires coordination overhead that can exceed the value of the recovered material, especially in systems where the by-products are variable, low-volume, or unpredictable'
-name: Produce No Waste
+name: "Produce No Waste"
+summary: "Every output of one process becomes input to another; waste signals a missing connection, not an intrinsic property"
 related:
 - you-reap-what-you-sow
 - make-hay-while-the-sun-shines

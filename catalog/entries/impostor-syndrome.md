@@ -1,6 +1,7 @@
 ---
 slug: impostor-syndrome
 name: Impostor Syndrome
+summary: "The fraud frame turns normal professional uncertainty into a narrative of concealed illegitimacy. It individualizes what is often a structural signal."
 kind: metaphor
 dead: true
 source_frame: social-presentation

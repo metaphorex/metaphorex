@@ -11,6 +11,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: The Visual Field Is A Container
+summary: "Objects come into view and go out of sight, as if crossing a doorway. The metaphor imposes a sharp threshold on a perceptual gradient."
 provenance: lakoff-johnson-mwlb
 related:
 - the-visual-field-is-a-bounded-region

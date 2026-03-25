@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-21'
 harness: Claude Code
 kind: metaphor
-name: Roles Are Theatrical Costumes
+name: "Roles Are Theatrical Costumes"
+summary: "Access-control roles map to costumes: donned to gain capabilities, removed to revert, and matched to the current scene"
 related:
 - security-violations-are-trespassing
 slug: roles-are-theatrical-costumes

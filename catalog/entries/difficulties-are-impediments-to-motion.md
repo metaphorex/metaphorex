@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Difficulties Are Impediments to Motion
+summary: "Problems are rocks in the road. If action is motion toward a goal, then anything making action harder must block the path."
 provenance: lakoff-johnson-mwlb
 related:
 - action-is-motion

@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Argument Is a Journey
+summary: "Reasoning as walking a path together. You cover ground, reach conclusions, and get lost. Progress replaces victory."
 provenance: lakoff-johnson-mwlb
 related:
 - argument-is-war

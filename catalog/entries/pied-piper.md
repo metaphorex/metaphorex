@@ -11,6 +11,7 @@ limits:
 - '[source] breaks because the piper''s music works through literal enchantment, stripping agency from followers and preventing analysis of why people actually find a leader appealing'
 - '[source] misleads by implying a single piper when many collective phenomena (market bubbles, viral movements) emerge from distributed network effects rather than a central enchanter'
 name: Pied Piper
+summary: "Maps musical enchantment onto charismatic influence that bypasses rational evaluation and suspends individual agency in followers"
 related:
 - siren
 slug: pied-piper

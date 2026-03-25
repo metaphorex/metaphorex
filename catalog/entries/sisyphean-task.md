@@ -15,6 +15,7 @@ limits:
   - "[source] implies the labor is entirely pointless, but many repetitive tasks (maintenance, caregiving, operations) produce genuine value on each cycle even if they never reach a permanent endpoint"
   - "[source] frames the worker as solitary and powerless, obscuring that most futile-seeming work is embedded in organizational systems where the futility is a design choice, not a cosmic given"
 name: Sisyphean Task
+summary: "Labor where completion is perpetually approached but never reached. Effort does not accumulate; each cycle is independent of every previous one."
 related:
 - ouroboros
 slug: sisyphean-task

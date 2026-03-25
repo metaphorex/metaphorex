@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Mentor
+summary: "The word derives from a goddess impersonating an ineffective old man. Every mentoring program is built on a misnomer."
 related: []
 slug: mentor
 source_frame: mythology

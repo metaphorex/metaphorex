@@ -1,6 +1,7 @@
 ---
 slug: canary-in-a-coal-mine
 name: Canary in a Coal Mine
+summary: "The sentinel works because it's more fragile than what it guards. Its failure is the signal, not a report about failure."
 kind: metaphor
 dead: true
 source_frame: mining

@@ -15,7 +15,8 @@ limits:
 - '[source] breaks because architectural quiet backs are maintained by physical separation -- walls, distance, and insulation block noise and traffic -- while software staging environments and organizational retreat spaces are only quiet if actively protected by policy, and a single Slack message or production incident can shatter the quiet instantly'
 - '[source] misleads by implying that quiet and busy spaces can coexist at the same scale, when in software and organizations the "quiet" environment often requires duplicating the entire infrastructure of the "busy" one (a full staging environment, a separate office), making the pattern far more expensive than the architectural version suggests'
 - '[source] assumes the quiet back is always available when needed, but software staging environments are frequently broken, organizational focus-time blocks are routinely overridden, and the quiet space degrades through neglect precisely because it is not the primary space'
-name: Quiet Backs
+name: "Quiet Backs"
+summary: "Every high-traffic zone requires an adjacent low-traffic zone for recovery; the boundary needs active defense"
 provenance: alexander-pattern-language
 related:
 - alcoves

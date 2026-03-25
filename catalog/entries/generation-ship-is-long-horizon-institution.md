@@ -1,6 +1,7 @@
 ---
 slug: generation-ship-is-long-horizon-institution
-name: Generation Ship Is Long-Horizon Institution
+name: "Generation Ship Is Long-Horizon Institution"
+summary: "Founders never arrive; middle generations inherit a mission they didn't choose. Closed-loop resources make waste existential, not inefficient."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: army-marches-on-its-stomach
 name: An Army Marches on Its Stomach
+summary: "Capability depends on the unglamorous supply chain, not peak performance at the point of action. Logistics fails silently until it fails totally."
 kind: metaphor
 dead: true
 source_frame: military-history

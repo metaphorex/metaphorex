@@ -10,7 +10,8 @@ contributors:
 created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
-name: Intimacy Gradient
+name: "Intimacy Gradient"
+summary: "Well-designed spaces arrange access along a continuum from public to private, so depth of penetration correlates with trust required."
 provenance: alexander-pattern-language
 related:
 - main-entrance

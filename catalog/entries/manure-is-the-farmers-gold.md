@@ -1,6 +1,7 @@
 ---
 slug: manure-is-the-farmers-gold
 name: Manure Is the Farmer's Gold
+summary: "Waste becomes the primary input for future fertility, but only through composting and timing. Not all unpleasant things conceal value."
 kind: metaphor
 source_frame: agriculture
 applies_to:

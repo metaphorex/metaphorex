@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Damocles' Sword
+summary: "Power and existential threat as the same condition. The sword hangs rather than strikes, mapping threat as permanent structure, not event."
 related:
 - excalibur
 slug: damocles-sword

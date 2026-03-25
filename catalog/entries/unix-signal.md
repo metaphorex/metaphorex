@@ -1,6 +1,7 @@
 ---
 slug: unix-signal
 name: Unix Signal
+summary: "Maps human communication onto a numbered interrupt that carries no semantic content. The medium is the entire message."
 kind: metaphor
 dead: true
 source_frame: communication

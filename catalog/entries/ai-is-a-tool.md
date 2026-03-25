@@ -10,6 +10,7 @@ harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: AI Is a Tool
+summary: "AI as inert instrument, activated only by a user's intent. Preserves full human accountability and denies machine autonomy."
 related:
 - ai-is-a-copilot
 - ai-is-an-agent

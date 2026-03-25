@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by implying that ornament is added after the structure is complete, when the most valued software polish (consistent interaction patterns, responsive animations, thoughtful error messages) must be designed into the system from the beginning and cannot be applied as a finishing layer'
 - '[source] assumes that ornament is universally legible -- a well-carved doorframe communicates care to anyone who sees it -- but software craft signals (clean code, elegant architecture, well-designed CLI output) are invisible to end users and legible only to other practitioners'
 name: Ornament
+summary: "Finishing that completes a structure by making its logic visible. Polish concentrates at interaction boundaries: error messages, transitions, edges."
 provenance: alexander-pattern-language
 related:
 - good-materials

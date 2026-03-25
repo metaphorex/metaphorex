@@ -14,6 +14,7 @@ limits:
   - '[source] misleads by implying a single checkpoint suffices, when software systems require quality verification at multiple stages (code review, CI, staging, canary deploy) because defects compound across layers in ways that food plating does not'
   - '[source] assumes the expo has authoritative taste -- they can look at a plate and know it is wrong -- while software release managers often lack the context to evaluate all dimensions of quality, making the role more procedural and less judgment-based than the kitchen original'
 name: Expo
+summary: "A quality gate positioned between production and consumption, with authority to reject. Without rejection power, a gate is just a window."
 related:
 - the-pass
 - the-line

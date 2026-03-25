@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Muscle
+summary: "Latin musculus means 'little mouse' -- anatomists saw a small creature moving under skin. The word killed its source and then reversed its meaning."
 related: []
 slug: muscle
 source_frame: animal-behavior

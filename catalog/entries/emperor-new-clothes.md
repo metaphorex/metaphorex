@@ -1,6 +1,7 @@
 ---
 slug: emperor-new-clothes
 name: Emperor's New Clothes
+summary: "Everyone sees the obvious falsehood but stays silent because the social cost of speaking exceeds the cost of going along."
 kind: metaphor
 source_frame: mythology
 applies_to:

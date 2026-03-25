@@ -1,6 +1,7 @@
 ---
 slug: chef-de-partie
 name: Chef de Partie
+summary: "One person owns one station completely. The unit of accountability sits between individual task and whole-kitchen management."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

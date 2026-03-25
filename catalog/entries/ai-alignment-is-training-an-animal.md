@@ -1,6 +1,7 @@
 ---
 slug: ai-alignment-is-training-an-animal
 name: AI Alignment Is Training an Animal
+summary: "Compliance through conditioning, not comprehension. The animal generalizes unpredictably, and the domestic scale understates the stakes."
 kind: metaphor
 source_frame: animal-training
 applies_to:

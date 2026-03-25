@@ -1,6 +1,7 @@
 ---
 slug: hard-cases-make-bad-law
-name: Hard Cases Make Bad Law
+name: "Hard Cases Make Bad Law"
+summary: "Rules designed around emotionally compelling edge cases produce worse outcomes for the typical case they were meant to govern."
 kind: mental-model
 source_frame: governance
 categories:

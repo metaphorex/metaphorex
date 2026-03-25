@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Strategy Pattern
+summary: "Encapsulate a family of algorithms as interchangeable objects, letting the client select which one to deploy at runtime."
 provenance: gang-of-four
 related:
 - the-state-pattern

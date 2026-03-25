@@ -1,6 +1,7 @@
 ---
 slug: poka-yoke
 name: Poka-Yoke
+summary: "Structures error prevention by designing processes so mistakes are physically impossible or immediately detected"
 kind: paradigm
 source_frame: manufacturing
 applies_to:

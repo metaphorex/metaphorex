@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Fear Is Cold
+summary: "Fear as thermal drop, grounded in real vasoconstriction. Captures the freeze response but misses the hot, agitated side of panic and fight-or-flight."
 provenance: osaka-master-metaphor-list
 related:
 - emotions-are-forces

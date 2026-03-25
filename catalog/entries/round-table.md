@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Round Table
+summary: "Circular geometry eliminates the head position. Equality is a property of the arrangement, not a declaration."
 related:
 - excalibur
 - damocles-sword

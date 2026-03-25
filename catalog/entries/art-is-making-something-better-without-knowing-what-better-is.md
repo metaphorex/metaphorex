@@ -1,6 +1,7 @@
 ---
 slug: art-is-making-something-better-without-knowing-what-better-is
 name: Art Is Making Something Better Without Knowing What Better Is
+summary: "The goal reveals itself through the work. If you could specify 'better' in advance, it would be engineering."
 kind: paradigm
 source_frame: visual-arts-practice
 applies_to:

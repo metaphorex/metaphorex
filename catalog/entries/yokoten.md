@@ -12,6 +12,7 @@ limits:
   - "[model] 'understand the thinking, don't copy the solution' requires a level of abstraction that most practitioners struggle with -- in practice, yokoten frequently degenerates into solution copying"
   - "[model] horizontal deployment depends on communication channels that cross organizational silos, which are precisely the channels most organizations lack"
 name: Yokoten
+summary: "Lean practice of spreading improvements laterally across an organization by transferring the reasoning, not just copying the solution."
 related:
 - five-whys
 - standardized-work

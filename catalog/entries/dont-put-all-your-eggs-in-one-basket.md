@@ -16,6 +16,7 @@ limits:
 - '[source] assumes baskets are equally safe and independent, but real allocation containers differ in quality, and the metaphor provides no framework for evaluating which baskets are better or how many are enough'
 - '[source] ignores the costs of diversification -- maintaining multiple baskets requires more carrying capacity, attention, and coordination, and the metaphor''s folk form never acknowledges that spreading thin has its own risks'
 name: Don't Put All Your Eggs in One Basket
+summary: "Distribute fragile valuables across independent containers. A single point of failure can destroy the entire holding."
 related:
 - dont-count-your-chickens-before-they-hatch
 - hedging-your-bets

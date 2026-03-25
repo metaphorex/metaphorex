@@ -1,6 +1,7 @@
 ---
 slug: niosh-5
 name: NIOSH 5
+summary: "Five recurring organizational failures -- risk assessment, incident command, accountability, communications, SOPs -- predict line-of-duty deaths."
 kind: mental-model
 source_frame: fire-safety
 categories:

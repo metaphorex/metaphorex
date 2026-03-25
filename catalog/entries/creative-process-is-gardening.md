@@ -11,6 +11,7 @@ created: '2026-03-07'
 harness: Claude Code
 kind: metaphor
 name: Creative Process Is Gardening
+summary: "The creator sets conditions for emergence rather than specifying outcomes. Without active pruning, you get wilderness, not a garden."
 provenance: eno-composers-as-gardeners
 related:
 - creative-process-is-construction

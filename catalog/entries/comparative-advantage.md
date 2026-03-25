@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
 name: Comparative Advantage
+summary: "Specialize in your relative strength, not your absolute one. The question is opportunity cost, not capability."
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

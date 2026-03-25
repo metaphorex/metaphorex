@@ -9,7 +9,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Hydra Code
+name: "Hydra Code"
+summary: "Codebases where fixing one bug creates two more, named for the mythological serpent whose severed heads regenerated in pairs."
 related:
 - spaghetti-code
 - big-ball-of-mud

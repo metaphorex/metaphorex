@@ -22,6 +22,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Assimilation and Accommodation
+summary: "Piaget borrowed digestion and adaptation from biology. New experience is either absorbed into existing schemas or forces those schemas to change."
 provenance: child-psychology-metaphors
 related:
 - equilibration

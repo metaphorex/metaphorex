@@ -1,6 +1,7 @@
 ---
 slug: time-is-movement
 name: Time Is Movement
+summary: "Temporal change maps onto physical displacement. A dead variant of the time-is-motion family."
 kind: metaphor
 source_frame: movement
 applies_to:

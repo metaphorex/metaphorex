@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: mental-model
 name: Economic Moats
+summary: "Competitive advantages as water-filled trenches around a castle. Width determines how much attackers must invest to reach the walls."
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

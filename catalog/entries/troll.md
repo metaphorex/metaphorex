@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Troll
+summary: "A creature guarding a chokepoint, attacking travelers who must pass. Maps hostile actors controlling communication channels."
 related: []
 slug: troll
 source_frame: mythology

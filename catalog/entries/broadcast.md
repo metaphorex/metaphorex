@@ -1,6 +1,7 @@
 ---
 slug: broadcast
 name: Broadcast
+summary: "Scattering seeds by hand became scattering signals to all. Waste is the cost of coverage."
 kind: metaphor
 dead: true
 source_frame: horticulture

@@ -1,6 +1,7 @@
 ---
 slug: chosen-one
 name: The Chosen One
+summary: "Destiny selects one irreplaceable person for what no one else can do. The narrative compresses distributed causation into a single hero."
 kind: archetype
 source_frame: mythology
 applies_to:

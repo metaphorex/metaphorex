@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Waldo Is Remote Manipulation
+summary: "Heinlein's mechanical teleoperator. The operator's movements are replicated at a distance with mediated feedback and adjustable scale."
 related:
 - agent-swarm
 slug: waldo-is-remote-manipulation

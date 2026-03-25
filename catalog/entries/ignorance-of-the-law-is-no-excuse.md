@@ -1,6 +1,7 @@
 ---
 slug: ignorance-of-the-law-is-no-excuse
 name: Ignorance of the Law Is No Excuse
+summary: "Any rule-system that accepts ignorance as a defense makes every rule optional. The principle sacrifices individual fairness for systemic coherence."
 kind: paradigm
 source_frame: governance
 applies_to:

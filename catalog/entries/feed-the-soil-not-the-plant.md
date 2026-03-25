@@ -1,6 +1,7 @@
 ---
 slug: feed-the-soil-not-the-plant
 name: Feed the Soil, Not the Plant
+summary: "Invest in the medium that supports growth, not in supplementing individual outputs. Capacity-building outlasts direct intervention."
 kind: metaphor
 source_frame: agriculture
 applies_to:

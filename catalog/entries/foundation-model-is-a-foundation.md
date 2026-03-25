@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Foundation Model Is a Foundation
+summary: "Base models framed as load-bearing concrete: permanent, passive, constraining everything above. Hides that they hallucinate and get replaced yearly."
 related:
 - ai-is-a-tool
 - fine-tuning-is-specialization

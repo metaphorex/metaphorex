@@ -13,6 +13,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Coherent Is Aligned
+summary: "Ideas that 'line up' feel true. Alignment requires a reference axis, but the frame never specifies one."
 provenance: lakoff-johnson-mwlb
 related:
 - states-are-locations

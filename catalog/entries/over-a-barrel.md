@@ -7,6 +7,7 @@ created: '2026-03-14'
 kind: metaphor
 dead: true
 name: Over a Barrel
+summary: "A person bent over a barrel cannot stand, move, or defend themselves. Physical helplessness mapped onto having zero negotiating leverage."
 related:
 - fathom
 slug: over-a-barrel

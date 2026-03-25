@@ -7,7 +7,8 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 dead: true
-name: In the Doldrums
+name: "In the Doldrums"
+summary: "A ship becalmed in windless ocean maps onto stagnation caused not by obstruction but by the absence of the very thing that makes movement possible."
 related:
 - even-keel
 slug: in-the-doldrums

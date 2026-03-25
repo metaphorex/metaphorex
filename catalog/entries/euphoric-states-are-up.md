@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Euphoric States Are Up
+summary: "Intense positive emotion maps onto extreme altitude. What goes up must come down, and the higher the peak, the harder the fall."
 provenance: osaka-master-metaphor-list
 related:
 - happy-is-up

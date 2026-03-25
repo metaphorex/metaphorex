@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Competition Is 1-on-1 Physical Aggression
+summary: "Rivals become fistfighters. Every market move lands as a blow. The frame can't see multi-party dynamics."
 provenance: osaka-master-metaphor-list
 related:
 - argument-is-war

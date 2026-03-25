@@ -10,6 +10,7 @@ created: '2026-03-07'
 harness: Claude Code
 kind: metaphor
 name: Creative Process Is Construction
+summary: "The default metaphor for making things: plan, build, finish. Breaks when creative work must discover its goal through the process of making."
 provenance: eno-composers-as-gardeners
 related:
 - creative-process-is-gardening

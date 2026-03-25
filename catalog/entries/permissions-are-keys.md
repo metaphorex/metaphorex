@@ -1,6 +1,7 @@
 ---
 slug: permissions-are-keys
-name: Permissions Are Keys
+name: "Permissions Are Keys"
+summary: "Digital access control borrows from physical keys: possession equals access, keys form hierarchies, and management is infrastructure."
 kind: metaphor
 source_frame: physical-security
 applies_to:

@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Temperature Is Creativity
+summary: "Imports the Boltzmann distribution as a sampling dial: higher temperature flattens token probabilities, rebranded as a creativity knob."
 related:
 - ai-hallucination-is-perception-disorder
 - compute-is-a-resource

@@ -9,7 +9,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Jenga Code
+name: "Jenga Code"
+summary: "Codebases where every component is load-bearing and each modification increases fragility, like a late-stage Jenga tower."
 related:
 - spaghetti-code
 - big-ball-of-mud

@@ -24,6 +24,7 @@ knowledge graph of metaphors at https://github.com/metaphorex/metaphorex.
 ---
 slug: kebab-case-name          # must match filename
 name: "Human Readable Name"
+summary: "One punchy sentence explaining this to a newcomer."  # max 150 chars, required
 kind: metaphor                  # see valid kinds below
 source_frame: frame-slug        # required for metaphor; optional for others
 applies_to:                     # optional; absent for mental-model
@@ -123,6 +124,24 @@ Each proposition must be:
 - Relational, not attributive: "[source] connects X to Y via Z", not "[source] is large"
 
 Minimum counts: 3 transfers for metaphor/pattern/archetype, 2 for paradigm/mental-model. 2 limits for all kinds.
+
+### Summary Field (required for new entries)
+
+Every entry must include a `summary` in frontmatter: one sentence (max 150
+characters) that explains the metaphor to someone who doesn't recognize the
+name. Not a dictionary definition. Not a restatement of the first transfer.
+The reader should think "oh, that's what that is."
+
+**Constraints:**
+- Max 150 characters
+- No em dashes (use comma or period instead)
+- Punchy and opinionated, not academic
+- May use a second short sentence or phrase fragment if needed
+- Must be independently meaningful without reading the rest of the entry
+
+**Examples:**
+- Bottleneck: `"A system's throughput is limited by its narrowest point. Widening the neck is the only way to improve it."`
+- Triage: `"Sort by who can still be saved, not by who's loudest. Accept that some cases get deliberately abandoned."`
 
 ### Structural Enrichment Fields (optional)
 

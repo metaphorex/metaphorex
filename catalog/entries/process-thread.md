@@ -9,7 +9,8 @@ created: '2026-03-17'
 dead: true
 harness: Claude Code
 kind: metaphor
-name: Process Thread
+name: "Process Thread"
+summary: "Concurrent execution paths as textile threads running parallel within a shared fabric"
 related:
 - race-condition
 slug: process-thread

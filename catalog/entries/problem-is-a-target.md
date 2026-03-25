@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Problem Is A Target
+summary: "Problems compressed to a single point you aim at. The target frame rewards precision and hides that most problems are diffuse."
 provenance: osaka-master-metaphor-list
 related:
 - argument-is-war

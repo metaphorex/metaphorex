@@ -1,6 +1,7 @@
 ---
 slug: the-rush
 name: The Rush
+summary: "Predictable surge with known onset that cannot be prevented, only survived through prior preparation. Reveals true system capacity under peak load."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

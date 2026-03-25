@@ -14,7 +14,8 @@ limits:
   - '[source] factory models are built from explicit specifications and can be inspected, measured, and compared against design documents, while internal working models are constructed implicitly from lived experience and resist direct introspection or articulation'
   - '[source] a working model is periodically updated by its engineers when the production process changes, but internal working models often persist unchanged long after the relationships they modeled have ended, producing systematic prediction errors the person cannot easily identify or correct'
   - '[source] manufacturing models are domain-specific tools discarded when the product line ends, whereas internal working models generalize promiscuously — a model built from one relationship gets applied to all subsequent ones — a transfer the source domain does not predict'
-name: Internal Working Model
+name: "Internal Working Model"
+summary: "Bowlby's term for the mental prototype a child builds from early caregiving, used to predict relationship responses before acting."
 related:
 - safe-haven
 - attachment-styles

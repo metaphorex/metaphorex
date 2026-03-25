@@ -9,7 +9,8 @@ created: '2026-03-18'
 grounding: proven
 harness: Claude Code
 kind: paradigm
-name: Kaizen
+name: "Kaizen"
+summary: "Small improvements by everyone, every day, compounding into transformation over time."
 related:
 - kaikaku
 - kata

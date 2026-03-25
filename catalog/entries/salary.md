@@ -9,6 +9,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Salary
+summary: "Latin salarium linked pay to salt, a survival necessity. The dead metaphor anchors compensation to subsistence, not value created."
 related:
 - capital
 - brand

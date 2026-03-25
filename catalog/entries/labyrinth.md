@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Labyrinth
+summary: "Complexity as designed containment. The framing implies someone built the maze to trap you, hiding that most real complexity is emergent."
 related:
 - trojan-war
 slug: labyrinth

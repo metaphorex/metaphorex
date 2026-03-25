@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
-name: Properties Are Physical Properties
+name: "Properties Are Physical Properties"
+summary: "Abstract qualities understood through tangible sensory attributes: weight, texture, temperature, sharpness, color"
 provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions

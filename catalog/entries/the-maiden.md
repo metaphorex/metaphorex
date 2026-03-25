@@ -15,6 +15,7 @@ limits:
   - "[source] imports a gendered developmental narrative (maiden becomes mother) that treats a specific cultural trajectory as the universal shape of maturation, obscuring that systems can mature along many paths that do not follow the innocence-to-nurturing arc"
   - "[source] implies the threshold crossing is singular and irreversible (Persephone cannot un-eat the pomegranate seeds), but real systems undergo many partial initiations and can be rolled back, patched, or redesigned after first contact"
 name: The Maiden
+summary: "Archetype of untested potential at the threshold. First contact with a hostile domain is identity-transforming, not merely informative."
 related:
 - the-trickster
 - the-divine-child

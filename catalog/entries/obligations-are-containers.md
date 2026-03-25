@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Obligations Are Containers
+summary: "You fall into debt and get out of contracts. Obligation as bounded enclosure gives duty the logic of inside, outside, and escape."
 provenance: osaka-master-metaphor-list
 related:
 - obligations-are-forces

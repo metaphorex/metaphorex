@@ -1,6 +1,7 @@
 ---
 slug: ragnarok
 name: Ragnarok
+summary: "Total system collapse, foreknown and inevitable. The gods fight anyway. A new world rises, but it is not restoration."
 kind: metaphor
 source_frame: mythology
 applies_to:

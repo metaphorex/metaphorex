@@ -22,6 +22,7 @@ limits:
 - '[model] romanticizes abandonment as artistic sensitivity when it is often simply poor project management -- the novelist who abandons every manuscript at chapter three is not exercising refined judgment about diminishing returns, they are failing to finish'
 - '[model] provides no framework for distinguishing productive stopping (shipping a good-enough product) from premature stopping (abandoning work that would have been significantly better with modest additional effort), collapsing a spectrum into a single gesture'
 name: Art Is Never Finished, Only Abandoned
+summary: "Creative work has no natural stopping point. Completion is a decision by the maker, not a property of the work."
 related:
 - workmanship-of-risk
 - measure-twice-cut-once

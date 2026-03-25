@@ -18,7 +18,8 @@ structure:
   - cycle
   - growth
 abstraction_level: specific
-name: Hand Over Fist
+name: "Hand Over Fist"
+summary: "Rope-hauling rhythm with no dead time maps onto uninterrupted accumulation. The physical labor's legitimacy now drapes over effortless gains."
 related: []
 slug: hand-over-fist
 source_frame: seafaring

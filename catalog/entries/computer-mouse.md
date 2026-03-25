@@ -15,6 +15,7 @@ limits:
   - "[source] imports an animal frame that suggests the device has its own movement and volition, when the mouse is entirely passive -- it translates human hand motion into cursor position and has no independent behavior whatsoever"
   - "[source] carries a creature-scale connotation (small, handheld, scurrying) that became an accidental constraint on device design, anchoring the form factor to the palm-sized rodent shape long after alternative input geometries became technically feasible"
 name: Computer Mouse
+summary: "Named for a cord that looked like a tail. The tail is gone and the name persists, a dead metaphor fully detached from its source."
 related: []
 slug: computer-mouse
 source_frame: animal-behavior

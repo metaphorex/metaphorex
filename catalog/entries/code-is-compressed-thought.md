@@ -1,6 +1,7 @@
 ---
 slug: code-is-compressed-thought
 name: Code Is Compressed Thought
+summary: "Inheritance is compression, not reuse. A subclass presupposes its superclass the way a literary allusion presupposes its source text."
 kind: metaphor
 source_frame: writing
 applies_to:

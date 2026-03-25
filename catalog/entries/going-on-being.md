@@ -24,6 +24,7 @@ limits:
   - '[source] implies continuity is the default state that disruption interrupts, but developmental psychology also recognizes that discontinuity (crisis, reorganization, phase transition) is itself a normal and necessary part of development, not merely an interruption of flow'
   - '[source] frames interruption as always damaging by analogy with turbulence disrupting laminar flow, but some interruptions catalyze growth — Winnicott''s own "optimal frustration" concept sits in tension with the pure flow metaphor'
 name: Going-on-Being
+summary: "Selfhood as continuous flow, not assembled structure. Disruption introduces persistent turbulence; the containing environment shapes flow unnoticed."
 related:
 - environmental-impingement
 - primary-maternal-preoccupation

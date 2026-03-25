@@ -12,6 +12,7 @@ contributors:
 created: '2026-03-10'
 kind: metaphor
 name: Time Is Money
+summary: "Duration mapped onto currency: spent, saved, wasted, invested. The frame imports capitalism's logic into lived experience."
 related: []
 slug: time-is-money
 source_frame: economics

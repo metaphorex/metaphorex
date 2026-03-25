@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Orphan Process
+summary: "A running process whose parent has terminated, adopted automatically by init. The family metaphor makes lifecycle management intuitive."
 related:
 - software-rot
 - bus-factor

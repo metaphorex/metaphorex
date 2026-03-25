@@ -1,6 +1,7 @@
 ---
 slug: coming-of-age
 name: Coming of Age
+summary: "An irreversible threshold that permanently alters the subject's relationship to the world. Capability and loss are structurally coupled."
 kind: archetype
 source_frame: life-course
 applies_to:

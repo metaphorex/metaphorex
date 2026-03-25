@@ -1,6 +1,7 @@
 ---
 slug: mosaic-of-subcultures
 name: Mosaic of Subcultures
+summary: "Distinct districts maintain their own character through boundaries, sized to human social capacity."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

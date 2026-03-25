@@ -1,6 +1,7 @@
 ---
 slug: moral-is-to-physical-as-three-to-one
 name: Moral Is to Physical as Three Is to One
+summary: "Morale treated as a quantifiable force multiplier that outweighs material resources by a fixed ratio."
 kind: metaphor
 source_frame: military-history
 applies_to:

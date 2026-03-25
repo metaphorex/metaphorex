@@ -1,6 +1,7 @@
 ---
 slug: hyrums-law
 name: "Hyrum's Law"
+summary: "With enough users of an API, every observable behavior becomes a binding contract regardless of what the documentation promises."
 kind: mental-model
 source_frame: contracts-and-law
 categories:

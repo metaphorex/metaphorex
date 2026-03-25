@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Command Pattern
+summary: "Encapsulate a request as a first-class object. Commands can be queued, logged, and undone because they outlive the moment of invocation."
 provenance: gang-of-four
 related:
 - the-chain-of-responsibility-pattern

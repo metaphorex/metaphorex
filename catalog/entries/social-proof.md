@@ -11,6 +11,7 @@ limits:
 - '[model] misleads by confusing popularity with quality -- the best-selling book is not necessarily the best book, and the mechanism that was supposed to aggregate information can instead destroy it through
   pluralistic ignorance'
 name: Social Proof
+summary: "Under uncertainty, copy what others do. Evolved heuristic that breaks at modern scale where crowds include bots and algorithmic artifacts."
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

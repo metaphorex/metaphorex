@@ -1,6 +1,7 @@
 ---
 slug: circuit-breaker
 name: Circuit Breaker
+summary: "When a dependency is failing, stop calling it. Sacrifice availability now to prevent cascading collapse across the whole system."
 kind: pattern
 source_frame: electricity
 applies_to:

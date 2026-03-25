@@ -1,6 +1,7 @@
 ---
 slug: use-edges-and-value-the-marginal
 name: Use Edges and Value the Marginal
+summary: "The boundary between two systems is the most productive zone; what the dominant system classifies as peripheral may hold the most value."
 kind: mental-model
 categories:
 - biology-and-ecology

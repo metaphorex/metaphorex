@@ -1,6 +1,7 @@
 ---
 slug: the-magic-if
 name: The Magic If
+summary: "Stanislavski's technique: 'What would I do IF?' The conditional frame converts analysis into embodied simulation while staying safe."
 kind: mental-model
 source_frame: theatrical-directing
 categories:

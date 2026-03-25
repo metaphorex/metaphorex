@@ -1,6 +1,7 @@
 ---
 slug: calculated-risk
 name: Calculated Risk
+summary: "Risk reframed as arithmetic: weigh costs, weigh odds, accept the bet. The calculation frames gut decisions as rational."
 kind: metaphor
 dead: true
 source_frame: military-history

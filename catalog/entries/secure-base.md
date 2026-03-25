@@ -14,6 +14,7 @@ limits:
   - '[source] implies a binary — you are either at the base or away from it — but psychological security operates on a continuous gradient where partial proximity, symbolic presence, and internalized representations provide security without physical return'
   - '[source] frames exploration as the valued activity and return as mere resupply, but the attachment research shows that the quality of the reunion (not just the departure) is the diagnostic variable — the base is not just a launching pad but a site of active repair'
 name: Secure Base
+summary: "Base camp structure mapped onto attachment: exploration range is a function of base reliability, not explorer courage"
 related:
 - going-on-being
 - environmental-impingement

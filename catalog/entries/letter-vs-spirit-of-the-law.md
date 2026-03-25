@@ -1,6 +1,7 @@
 ---
 slug: letter-vs-spirit-of-the-law
-name: Letter vs. Spirit of the Law
+name: "Letter vs. Spirit of the Law"
+summary: "A rule's literal wording and its intended purpose can diverge, enabling compliant non-compliance."
 kind: metaphor
 source_frame: language
 applies_to:

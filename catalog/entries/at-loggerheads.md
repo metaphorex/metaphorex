@@ -17,6 +17,7 @@ relation_types:
 structure: competition
 abstraction_level: generic
 name: At Loggerheads
+summary: "From heated iron tools used as improvised weapons in dockside disputes. Both sides hold crude instruments that risk mutual injury."
 related:
 - fathom
 slug: at-loggerheads

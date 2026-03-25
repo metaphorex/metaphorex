@@ -1,6 +1,7 @@
 ---
 slug: the-archer
 name: The Archer
+summary: "Stoic image: the archer controls draw, stance, and release but not the arrow in flight. Virtue is complete at the moment of release."
 kind: metaphor
 source_frame: archery
 applies_to:

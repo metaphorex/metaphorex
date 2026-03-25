@@ -14,6 +14,7 @@ limits:
   - '[source] breaks because ecological edge effects arise from physical gradients (light, moisture, temperature) that have no clear analog in organizational boundaries, where the "gradient" is social convention rather than thermodynamics'
   - '[source] implies that edges are naturally occurring and self-sustaining, while organizational boundary zones require deliberate cultivation and often collapse under institutional pressure to specialize'
 name: Edge Effect
+summary: "Ecosystem boundaries host more species than either adjacent habitat. The most generative spaces are where domains meet."
 related:
 - boundary-object
 - t-shaped-people

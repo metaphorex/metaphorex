@@ -16,6 +16,7 @@ limits:
   - "[source] implies the vulnerability is inherent and permanent (Achilles could not armor his heel), but most system weaknesses are contingent and fixable once identified"
   - "[source] suggests a single catastrophic strike suffices, obscuring that many real failures result from cascading chains of partial weaknesses rather than one decisive blow"
 name: Achilles' Heel
+summary: "One hidden weak point can negate all other strength. The more invulnerable the system, the more catastrophic the single failure."
 related:
 - trojan-horse
 - single-point-of-failure

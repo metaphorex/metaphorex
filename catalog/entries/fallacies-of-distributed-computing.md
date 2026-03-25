@@ -1,6 +1,7 @@
 ---
 slug: fallacies-of-distributed-computing
 name: Fallacies of Distributed Computing
+summary: "Eight assumptions that local-system programmers import into distributed work. Each one fails categorically, not gradually."
 kind: mental-model
 source_frame: network-communication
 categories:

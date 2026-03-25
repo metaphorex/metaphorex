@@ -9,7 +9,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Golden Hammer
+name: "Golden Hammer"
+summary: "A prized tool reshapes perception until every problem looks like a nail. The hammer is golden because past success made it hard to set down."
 related:
 - technical-debt
 - bikeshedding

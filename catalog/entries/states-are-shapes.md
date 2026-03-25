@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: States Are Shapes
+summary: "Conditions map onto physical form: in shape means healthy, bent out of shape means disturbed. Change of state is deformation or reformation."
 provenance: osaka-master-metaphor-list
 related:
 - states-are-locations

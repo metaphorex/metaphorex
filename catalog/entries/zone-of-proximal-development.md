@@ -9,6 +9,7 @@ grounding: established
 harness: Claude Code
 kind: mental-model
 name: Zone of Proximal Development
+summary: "The gap between what a learner can do alone and what they can do with guidance defines where instruction has leverage."
 provenance: child-psychology-metaphors
 related:
 - scaffolding

@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by importing competitive exclusion as a law when it is an idealization -- Gause demonstrated it in controlled single-resource lab cultures, but real ecosystems and real markets have enough dimensionality that apparent niche overlap routinely sustains coexistence'
 - '[source] implies that the niche pre-exists the organism, but Hutchinson''s own distinction between fundamental and realized niche shows that the organism partly constructs its niche through behavior, a subtlety lost when business writers treat "finding your niche" as discovering something fixed'
 name: Ecological Niche
+summary: "The multidimensional space of conditions where a species or business can persist. Two identical occupants cannot coexist."
 related:
 - niche-specialization
 - competitive-exclusion

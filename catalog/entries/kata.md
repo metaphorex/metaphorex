@@ -9,7 +9,8 @@ created: '2026-03-18'
 grounding: established
 harness: Claude Code
 kind: paradigm
-name: Kata
+name: "Kata"
+summary: "Improvement is a practiced skill with a fixed routine, not an ad-hoc response to problems."
 related:
 - kaizen
 - hansei

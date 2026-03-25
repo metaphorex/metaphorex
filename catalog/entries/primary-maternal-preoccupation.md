@@ -12,6 +12,7 @@ limits:
   - '[model] misleads by implying the state is time-bounded and self-resolving (the mother "recovers"), whereas in creative and organizational contexts total absorption can calcify into chronic overidentification that never lifts without external intervention'
   - '[model] obscures that Winnicott''s formulation assumes a single caregiver in a nuclear dyad, making the concept structurally unable to describe distributed caregiving, team-based nurturing, or contexts where no single person should be that absorbed'
 name: Primary Maternal Preoccupation
+summary: "Total absorption in a fragile new entity's needs, framed as temporary near-illness that enables survival."
 related:
 - going-on-being
 - environmental-impingement

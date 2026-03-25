@@ -1,6 +1,7 @@
 ---
 slug: all-bleeding-stops
 name: All Bleeding Stops
+summary: "Every crisis ends, but ending is not the same as resolution. Passivity guarantees the worst version of the ending."
 kind: metaphor
 source_frame: medicine
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: the-law-is-harsh-but-it-is-the-law
 name: The Law Is Harsh but It Is the Law
+summary: "Dura lex, sed lex. Consistency produces value, and consistency means some outcomes are harsh. The maxim cannot tell harsh from unjust."
 kind: paradigm
 applies_to:
   - ethics-and-morality

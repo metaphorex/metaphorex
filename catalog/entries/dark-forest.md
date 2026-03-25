@@ -1,6 +1,7 @@
 ---
 slug: dark-forest
 name: Dark Forest
+summary: "Visibility draws predators; silence is survival. Assumes all unknown actors are threats."
 kind: metaphor
 source_frame: mythology
 applies_to:

@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Intimacy Is Closeness
+summary: "Emotional connection mapped onto physical proximity. Grounded in the infant experience that being held is being loved."
 provenance: osaka-master-metaphor-list
 related:
 - love-is-a-journey

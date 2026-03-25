@@ -1,6 +1,7 @@
 ---
 slug: put-out-to-pasture
-name: Put Out to Pasture
+name: "Put Out to Pasture"
+summary: "Forced retirement framed as pastoral kindness: removed from productive work to comfortable irrelevance"
 kind: metaphor
 dead: true
 source_frame: agriculture

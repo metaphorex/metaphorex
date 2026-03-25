@@ -11,7 +11,8 @@ created: '2026-03-19'
 grounding: established
 harness: Claude Code
 kind: metaphor
-name: Keystone Species
+name: "Keystone Species"
+summary: "One component with disproportionate impact whose importance is invisible until removed."
 provenance: ecological-metaphors
 related:
 - single-point-of-failure

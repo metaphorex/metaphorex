@@ -26,6 +26,7 @@ relation_types:
 structure: hierarchy
 abstraction_level: generic
 name: Apex Predator
+summary: "Dominant firms framed as top-of-food-chain organisms. The ecological metaphor imports a stabilizing role that monopolists rarely perform."
 provenance: ecological-metaphors
 related:
 - trophic-cascade

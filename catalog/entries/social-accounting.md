@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Social Accounting
+summary: "Social interactions are ledger entries: favors are credits, obligations are debts, and healthy relationships keep roughly balanced books."
 provenance: osaka-master-metaphor-list
 related:
 - moral-accounting

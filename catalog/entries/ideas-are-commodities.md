@@ -11,7 +11,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Commodities
+name: "Ideas Are Commodities"
+summary: "Ideas are packaged, sold, and traded. Persuasion is a sale. The marketplace of ideas imports supply, demand, and competition."
 provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-products

@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Getting Is Eating
+summary: "Acquisition maps onto ingestion: what you get, you consume and incorporate. The frame imports irreversibility and zero-sum rivalry from eating."
 provenance: osaka-master-metaphor-list
 related:
 - desire-is-hunger

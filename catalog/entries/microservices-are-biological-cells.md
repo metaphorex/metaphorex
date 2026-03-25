@@ -1,6 +1,7 @@
 ---
 slug: microservices-are-biological-cells
 name: Microservices Are Biological Cells
+summary: "Services have membranes (APIs), internal metabolism, and can divide. Cell biology maps onto distributed architecture with unusual precision."
 kind: metaphor
 source_frame: biology
 applies_to:

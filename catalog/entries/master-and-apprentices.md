@@ -1,6 +1,7 @@
 ---
 slug: master-and-apprentices
 name: Master and Apprentices
+summary: "Learning happens when a small group works alongside a skilled practitioner. Tacit knowledge transfers through proximity, not lectures."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Writing
+name: "Ideas Are Writing"
+summary: "We treat ideas as composed texts that must be drafted, read, and interpreted, making clarity a literary virtue and thought a form of authorship."
 provenance: osaka-master-metaphor-list
 related:
 - ideas-are-objects

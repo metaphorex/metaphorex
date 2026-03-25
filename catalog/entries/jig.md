@@ -7,9 +7,21 @@ categories:
 contributors: []
 created: '2026-03-21'
 grounding: folk
+embodied_patterns:
+  - container
+  - matching
+  - iteration
+  - part-whole
+relation_types:
+  - enable
+  - contain
+  - prevent
+structure: pipeline
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Jig
+summary: "A custom guide that encodes a decision once so the operator never re-decides. Tooling quality bounds product quality."
 provenance: carpentry-woodworking
 related:
 - shim

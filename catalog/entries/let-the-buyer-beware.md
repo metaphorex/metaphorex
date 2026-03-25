@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-16'
 harness: Claude Code
 kind: mental-model
-name: Let the Buyer Beware
+name: "Let the Buyer Beware"
+summary: "The buyer bears primary responsibility for assessing quality, because information asymmetry between seller and buyer is the default condition."
 related: []
 slug: let-the-buyer-beware
 source_frame: economics

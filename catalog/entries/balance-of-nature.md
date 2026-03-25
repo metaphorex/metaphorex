@@ -26,6 +26,7 @@ relation_types:
 structure: equilibrium
 abstraction_level: generic
 name: Balance of Nature
+summary: "Ecosystems imagined as tending toward stable equilibrium. The paradigm is empirically falsified but emotionally irresistible."
 related:
 - adaptive-cycle
 - panarchy

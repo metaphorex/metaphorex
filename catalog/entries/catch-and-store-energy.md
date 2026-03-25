@@ -1,6 +1,7 @@
 ---
 slug: catch-and-store-energy
 name: Catch and Store Energy
+summary: "Resources arrive in pulses and must be captured during abundance for use during scarcity. Build the cistern before the rains."
 kind: mental-model
 categories:
 - systems-thinking

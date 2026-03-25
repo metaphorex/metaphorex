@@ -1,6 +1,7 @@
 ---
 slug: struggle-switch
 name: Struggle Switch
+summary: "A binary switch separating primary pain from the struggle against it. Turning it off does not remove the pain but stops amplifying it."
 kind: metaphor
 source_frame: tool-use
 applies_to:

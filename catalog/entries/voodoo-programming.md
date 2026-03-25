@@ -12,6 +12,7 @@ dead: false
 harness: Claude Code
 kind: metaphor
 name: Voodoo Programming
+summary: "Making code changes without understanding why they work, guided by ritual repetition and symbolic association rather than causal reasoning."
 related:
 - cargo-cult-programming
 slug: voodoo-programming

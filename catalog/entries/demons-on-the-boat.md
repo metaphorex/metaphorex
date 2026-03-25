@@ -1,6 +1,7 @@
 ---
 slug: demons-on-the-boat
 name: Demons on the Boat
+summary: "Demons threaten destruction but cannot steer. Emotional threats exceed their actual power to harm."
 kind: metaphor
 source_frame: folklore
 applies_to:

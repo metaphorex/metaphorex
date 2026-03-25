@@ -1,6 +1,7 @@
 ---
 slug: common-areas-at-the-heart
 name: Common Areas at the Heart
+summary: "Place shared spaces where circulation already flows, so unplanned encounters become a side effect of navigation rather than a separate decision."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

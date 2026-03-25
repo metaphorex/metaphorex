@@ -12,6 +12,7 @@ limits:
 - '[model] misleads by implying the receiver can switch frames as easily as an actor can step out of character, when in practice people fuse with their work output and hear any critique of the artifact as a critique of the self'
 - '[model] fails in peer-to-peer contexts where there is no director figure with legitimate authority to give notes, because the technique depends on a recognized asymmetry between the person who directs and the person who performs'
 name: Talk to the Character, Not the Actor
+summary: "Direct feedback at the work artifact or role, not the person, creating a buffer that enables critique without identity threat."
 related:
 - give-actions-not-emotions
 - director-as-obstetrician

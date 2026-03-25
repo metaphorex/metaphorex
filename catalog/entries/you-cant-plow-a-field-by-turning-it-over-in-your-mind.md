@@ -1,6 +1,7 @@
 ---
 slug: you-cant-plow-a-field-by-turning-it-over-in-your-mind
 name: "You Can't Plow a Field by Turning It Over in Your Mind"
+summary: "Pun exposing how deliberation mimics the language of productive work without producing any change in the field."
 kind: metaphor
 source_frame: agriculture
 applies_to:

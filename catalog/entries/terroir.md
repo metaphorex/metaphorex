@@ -1,6 +1,7 @@
 ---
 slug: terroir
 name: Terroir
+summary: "Outputs express the irreducible combination of environmental factors at the site of production, not any single variable in isolation."
 kind: mental-model
 source_frame: agriculture
 categories:

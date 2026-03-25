@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Internalization
+summary: "Learning as movement from outside to inside the mind. The container metaphor makes active reconstruction look like passive absorption."
 provenance: child-psychology-metaphors
 related:
 - zone-of-proximal-development

@@ -1,6 +1,7 @@
 ---
 slug: making-first-moves
 name: Making First Moves
+summary: "Start the longest-lead, most-blocking tasks first. Process work before product work. The stock goes on before the sauce."
 kind: mental-model
 source_frame: food-and-cooking
 categories:

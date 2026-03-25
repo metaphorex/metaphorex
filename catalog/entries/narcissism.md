@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Narcissism
+summary: "Narcissus mistakes his reflection for another person. The myth maps self-absorption as a closed perceptual loop that excludes external reality."
 related:
 - tantalus
 slug: narcissism

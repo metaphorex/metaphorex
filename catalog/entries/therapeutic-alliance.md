@@ -1,6 +1,7 @@
 ---
 slug: therapeutic-alliance
 name: Therapeutic Alliance
+summary: "Therapist and client form a pact against a common enemy: the problem. The alliance is the infrastructure for change, not the change itself."
 kind: metaphor
 source_frame: war
 applies_to:

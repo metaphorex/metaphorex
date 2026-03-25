@@ -1,6 +1,7 @@
 ---
 slug: let-justice-be-done-though-the-heavens-fall
-name: Let Justice Be Done Though the Heavens Fall
+name: "Let Justice Be Done Though the Heavens Fall"
+summary: "Some principles take absolute priority over consequences, even catastrophic ones."
 kind: paradigm
 applies_to:
   - ethics-and-morality

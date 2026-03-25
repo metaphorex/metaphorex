@@ -15,6 +15,7 @@ limits:
 - '[source] presumes a sequential visitor traversing connected spaces, which breaks for parallel or concurrent processing where multiple flows must share or cross through the same rooms without blocking each other'
 - '[source] implies that all rooms are comparable units that can open onto each other, but real systems have components of vastly different scale, security level, and responsibility that should not be casually connected'
 name: The Flow Through Rooms
+summary: "Rooms should open onto rooms, not branch off corridors. Corridors are dead routing that degrades legibility without adding value."
 related:
 - the-facade-pattern
 - a-place-to-wait

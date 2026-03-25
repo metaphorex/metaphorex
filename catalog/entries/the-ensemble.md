@@ -12,6 +12,7 @@ limits:
 - '[model] misleads by implying that individual excellence is opposed to group coherence, when many high-performing teams (surgical teams, jazz combos, research labs) depend on members who are both individually exceptional and collectively attuned'
 - '[model] obscures that theatrical ensembles operate under a director''s unified vision, and applying the model to self-organizing teams without acknowledging this authority structure imports a hidden dependency on a shaping intelligence the model does not name'
 name: The Ensemble
+summary: "Team quality is relational. The ensemble emerges from how members listen to each other, not from individual skill stacked up."
 related:
 - status-transactions
 slug: the-ensemble

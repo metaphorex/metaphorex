@@ -1,6 +1,7 @@
 ---
 slug: fruit-of-the-poisonous-tree
-name: Fruit of the Poisonous Tree
+name: "Fruit of the Poisonous Tree"
+summary: "Evidence derived from an illegal act inherits the taint. Corruption at the root propagates through the entire causal chain."
 kind: metaphor
 source_frame: horticulture
 applies_to:

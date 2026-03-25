@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Love Is a Collaborative Work of Art
+summary: "Lakoff and Johnson's invented metaphor: lovers as co-creators, the relationship as artwork. Aspirational, not descriptive of existing usage."
 provenance: lakoff-johnson-mwlb
 related:
 - love-is-a-journey

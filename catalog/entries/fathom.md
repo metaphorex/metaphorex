@@ -7,6 +7,7 @@ created: '2026-03-14'
 kind: metaphor
 dead: true
 name: Fathom
+summary: "Understanding as lowering a sounding line until it hits bottom. Unfathomable conflates 'too deep for my instrument' with 'has no floor at all.'"
 related:
 - a-problem-is-a-body-of-water
 slug: fathom

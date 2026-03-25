@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Shapes Are Containers
+summary: "Any closed curve creates an inside and an outside. This cognitive imposition grounds set theory, Venn diagrams, and mathematical membership."
 provenance: osaka-master-metaphor-list
 related:
 - the-visual-field-is-a-container

@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Neural Network Is a Brain
+summary: "Artificial neurons mapped from biological ones: weighted signals, layered hierarchy, strength adjustment through exposure."
 related:
 - training-is-education
 - weights-are-knowledge

@@ -1,6 +1,7 @@
 ---
 slug: frankenstein-is-technology-risk
 name: Frankenstein Is Technology Risk
+summary: "The novel indicts abandonment, not creation. The metaphor is invoked to argue against building, inverting Shelley's point about failed stewardship."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: takt-time
 name: Takt Time
+summary: "Set production pace to match customer demand, not maximum capacity, using a single ratio as a shared clock for every station."
 kind: mental-model
 categories:
   - systems-thinking

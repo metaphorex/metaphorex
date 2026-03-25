@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Beliefs Are Possessions
+summary: "You hold convictions, lose faith, and buy arguments. The ownership frame makes changing your mind feel like being robbed."
 provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions

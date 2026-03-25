@@ -10,7 +10,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Cutting Instruments
+name: "Ideas Are Cutting Instruments"
+summary: "Sharp ideas cut through confusion. Analysis is division. Sharpness maps blade precision onto intellectual distinction-making."
 provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-objects

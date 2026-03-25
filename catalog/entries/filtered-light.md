@@ -14,7 +14,8 @@ limits:
 - '[source] breaks because physical light filtering is analog and continuous -- a curtain admits a gradient of illumination -- while software filtering is typically digital and discrete, producing binary include/exclude decisions rather than graduated transmission'
 - '[source] misleads by implying that filtering preserves the essential character of what passes through, when software filtering often strips context, metadata, and relational structure that gave the original data its meaning'
 - '[source] assumes the filter is passive and stable, but software middleware and abstraction layers are active processors that transform, enrich, and reroute data -- they do not merely transmit a softened version of what arrives'
-name: Filtered Light
+name: "Filtered Light"
+summary: "Interposing a translucent layer between raw source and consumer transforms harshness into usability. Filter design is architecture."
 provenance: alexander-pattern-language
 related:
 - natural-doors-and-windows

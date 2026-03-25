@@ -1,6 +1,7 @@
 ---
 slug: true-self-false-self
 name: True Self / False Self
+summary: "A compliant exterior functions as a protective shell around a spontaneous core too vulnerable to expose. The performance can supplant the performer."
 kind: metaphor
 source_frame: performance
 applies_to:

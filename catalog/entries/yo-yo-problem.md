@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Yo-Yo Problem
+summary: "Maps a toy's repetitive vertical oscillation onto the programmer's experience of tracing up and down a deep inheritance chain."
 related:
 - spaghetti-code
 - baklava-code

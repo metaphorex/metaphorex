@@ -11,6 +11,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Beliefs Are Love Objects
+summary: "People fall in love with ideas and then treat doubt as infidelity. The metaphor makes healthy skepticism feel like betrayal."
 provenance: osaka-master-metaphor-list
 related:
 - beliefs-are-possessions

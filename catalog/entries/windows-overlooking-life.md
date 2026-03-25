@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by importing the assumption that observation is benign, when in software, exposing live user activity raises privacy concerns that have no architectural equivalent -- watching pedestrians from a window is normal, watching individual user sessions is surveillance'
 - '[source] implies that what you see through the window is interpretable without training, but raw production telemetry is meaningless to most observers without significant context and expertise'
 name: Windows Overlooking Life
+summary: "Alexander pattern directing monitoring toward human activity rather than infrastructure metrics. Dashboards as views onto a living street."
 provenance: alexander-pattern-language
 related:
 - light-on-two-sides

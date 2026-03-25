@@ -1,6 +1,7 @@
 ---
 slug: microservices-are-city-districts
 name: Microservices Are City Districts
+summary: "Services are districts with local governance, shared infrastructure, and political coordination. Emphasizes the human side of architecture."
 kind: metaphor
 source_frame: governance
 applies_to:

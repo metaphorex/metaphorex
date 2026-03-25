@@ -12,7 +12,8 @@ limits:
   - "[paradigm] breaks because agents have independent judgment, and the principal cannot anticipate or control every decision the agent makes -- an employee who commits fraud during authorized business travel is not acting as the principal's extension but as an autonomous actor who happens to be on the payroll"
   - "[paradigm] misleads in long delegation chains because attribution collapses distance -- holding a CEO responsible for a front-line worker's decision six levels down treats the organization as if it had no internal structure, ignoring the reality that information and control degrade with organizational distance"
   - "[paradigm] fails when applied to emergent or collective action where no single principal authorized the outcome -- algorithmic systems, market dynamics, and crowd behavior produce results that no individual directed, yet the paradigm demands a responsible principal"
-name: He Who Acts Through Another Acts Himself
+name: "He Who Acts Through Another Acts Himself"
+summary: "Delegation is extension, not separation. The agent's hands are the principal's hands; authority cannot be exercised without inheriting consequences."
 provenance: brooms-legal-maxims
 related:
 - let-the-master-answer

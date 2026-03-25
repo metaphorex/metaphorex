@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Causation Is Commercial Transaction
+summary: "Effects are purchased by their causes. Hard work 'pays off,' mistakes 'cost you.' Causation inherits ledger logic."
 provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces

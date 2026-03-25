@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by implying that adding variety is cheap and additive, when each additional software interface mode multiplies the testing surface combinatorially and creates maintenance burden that scales nonlinearly with the number of modes'
 - '[source] assumes that users choose the right chair for their mood instinctively, but software interface mode selection requires explicit user action (toggling settings, choosing views, configuring preferences), introducing a meta-interface problem that physical furniture does not have'
 name: Different Chairs
+summary: "A single seating type forces a single posture. Varied interface modes support varied cognitive tasks."
 provenance: alexander-pattern-language
 related:
 - natural-doors-and-windows

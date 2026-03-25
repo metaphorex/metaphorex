@@ -16,6 +16,7 @@ limits:
 - '[source] imports the connotation that ecosystems are self-regulating and tend toward equilibrium, obscuring that real markets require active regulation and that platform ecosystems are deliberately structured to benefit the platform owner at the expense of peripheral participants'
 - '[source] breaks because ecological niches emerge from evolutionary pressure over millennia, while business "niches" are often created overnight by platform policy changes, API deprecations, or acquisitions -- the timescale mismatch makes evolutionary reasoning about market dynamics unreliable'
 name: Business Ecosystem
+summary: "Biological interdependence mapped onto platform networks. The metaphor naturalizes governance by making designed systems look organic."
 related:
 - natural-selection
 slug: business-ecosystem

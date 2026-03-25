@@ -1,6 +1,7 @@
 ---
 slug: coming-to-zero
 name: Coming to Zero
+summary: "Periodically reset your workspace to a defined clean state. The reset is cognitive as much as physical; it separates one work epoch from the next."
 kind: mental-model
 source_frame: food-and-cooking
 categories:

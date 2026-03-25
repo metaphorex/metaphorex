@@ -11,6 +11,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: metaphor
 name: Causes And Effects Are Linked Objects
+summary: "Pull one end and the other moves. Causal relationships feel like chains, but chains don't do probability."
 provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces

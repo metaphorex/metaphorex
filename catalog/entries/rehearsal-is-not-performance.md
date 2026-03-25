@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by implying a clean binary between rehearsal and performance, when many real systems operate in continuous deployment where every change is simultaneously practice and production'
 - '[source] obscures the fact that theatrical rehearsal is private (only the company sees mistakes) while many organizational "rehearsals" -- pilot programs, beta launches, soft openings -- are visible to real stakeholders who remember the failures'
 name: Rehearsal Is Not Performance
+summary: "Rehearsal and performance are different modes, not different grades. Safety to fail enables discovery that execution cannot."
 related:
 - staging-environment
 - psychological-safety

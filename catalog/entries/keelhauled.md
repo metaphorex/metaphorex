@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Keelhauled
+summary: "Severe reprimand mapped from a naval torture that was often fatal. The metaphor borrows lethal gravity for professional embarrassment."
 related: []
 slug: keelhauled
 source_frame: seafaring

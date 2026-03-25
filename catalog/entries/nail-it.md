@@ -1,6 +1,7 @@
 ---
 slug: nail-it
 name: Nail It
+summary: "Peak execution named after carpentry's lowest-skill fastener. The metaphor inverts the source domain's own status hierarchy."
 kind: metaphor
 source_frame: carpentry
 applies_to:

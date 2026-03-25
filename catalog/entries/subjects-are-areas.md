@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Subjects Are Areas
+summary: "Academic disciplines are bounded spatial regions: entered, explored, and mastered. Depth is expertise, breadth is scope, research is exploration."
 provenance: osaka-master-metaphor-list
 related:
 - ideas-are-locations

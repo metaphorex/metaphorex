@@ -1,6 +1,7 @@
 ---
 slug: pdca-cycle
 name: PDCA Cycle
+summary: "Structures improvement as a four-phase loop (plan-do-check-act) where every change is a hypothesis tested against observed results"
 kind: paradigm
 source_frame: manufacturing
 applies_to:

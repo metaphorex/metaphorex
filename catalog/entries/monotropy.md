@@ -8,6 +8,7 @@ grounding: contested
 harness: Claude Code
 kind: mental-model
 name: Monotropy
+summary: "Single primary attachment bond at the apex of a hierarchy; subsequent bonds are subordinate, not equivalent."
 provenance: child-psychology-metaphors
 related:
 - proximity-maintenance

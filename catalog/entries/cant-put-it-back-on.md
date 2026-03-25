@@ -6,9 +6,21 @@ categories:
 contributors: []
 created: '2026-03-21'
 grounding: folk
+embodied_patterns:
+  - removal
+  - balance
+  - path
+  - iteration
+relation_types:
+  - transform/refinement
+  - prevent
+  - cause/accumulate
+structure: pipeline
+abstraction_level: generic
 harness: Claude Code
 kind: mental-model
 name: You Can Always Take More Off, But You Can't Put It Back On
+summary: "Removing too little is fixable; removing too much is fatal. Bias toward the recoverable error at every step."
 provenance: carpentry-woodworking
 related:
 - shim

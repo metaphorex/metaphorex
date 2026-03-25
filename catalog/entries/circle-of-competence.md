@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
 name: Circle of Competence
+summary: "The boundary of what you know matters more than its area. A small domain with a sharp edge beats a large one with a fuzzy border."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

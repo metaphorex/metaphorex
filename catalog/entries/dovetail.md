@@ -17,6 +17,7 @@ limits:
   - '[source] breaks because a dovetail joint is permanent and rigid once assembled, while the plans, schedules, and ideas that "dovetail" in figurative usage are typically fluid, revisable, and subject to renegotiation -- the metaphor imports a false permanence'
   - '[source] implies bilateral interlocking (two boards, two plans), but real coordination problems often involve three or more parties whose interests must mesh simultaneously, a topology the two-piece joint cannot represent'
 name: Dovetail
+summary: "Connection through shaped complementarity, not adjacency. The joint resists specific stresses and requires precise bilateral pre-shaping."
 provenance: carpentry-woodworking
 related:
 - mortise-and-tenon

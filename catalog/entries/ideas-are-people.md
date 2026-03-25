@@ -10,7 +10,8 @@ contributors:
 created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are People
+name: "Ideas Are People"
+summary: "Ideas are born, mature, fight rivals, and die. Personification gives intellectual history the structure of biography."
 provenance: lakoff-johnson-mwlb
 related:
 - the-conduit-metaphor

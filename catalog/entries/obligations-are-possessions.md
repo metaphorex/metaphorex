@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Obligations Are Possessions
+summary: "You have duties, carry responsibilities, and discharge obligations. Ownership logic makes abstract moral bonds feel countable and transferable."
 provenance: osaka-master-metaphor-list
 related:
 - obligations-are-forces

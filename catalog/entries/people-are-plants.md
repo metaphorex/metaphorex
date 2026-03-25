@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: People Are Plants
+summary: "Maps plant growth cycles onto human development, treating personal flourishing as organic and environment-dependent"
 provenance: osaka-master-metaphor-list
 related:
 - people-are-machines

@@ -10,7 +10,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Products
+name: "Ideas Are Products"
+summary: "Ideas are manufactured, refined, and delivered. The mind is a factory. Quality control maps craft standards onto reasoning."
 provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-commodities

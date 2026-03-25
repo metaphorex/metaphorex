@@ -1,6 +1,7 @@
 ---
 slug: scattered-work
-name: Scattered Work
+name: "Scattered Work"
+summary: "Alexander's pattern: distributing workplaces throughout a community rather than concentrating them in single-purpose districts"
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

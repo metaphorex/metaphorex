@@ -1,6 +1,7 @@
 ---
 slug: possession-is-nine-tenths-of-the-law
 name: Possession Is Nine-Tenths of the Law
+summary: "Physical control creates a presumption of rightful ownership. The burden of proof falls on whoever does not have the thing."
 kind: metaphor
 dead: true
 source_frame: governance

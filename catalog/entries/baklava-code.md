@@ -10,6 +10,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Baklava Code
+summary: "Too many thin abstraction layers, each nearly empty, collectively burying the business logic. The overhead outweighs the filling."
 related:
 - spaghetti-code
 slug: baklava-code

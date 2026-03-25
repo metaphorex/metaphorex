@@ -11,6 +11,7 @@ contributors: []
 created: '2026-03-07'
 kind: archetype
 name: The Trickster
+summary: "Crosses boundaries between worlds, translating and transgressing simultaneously. Rule-breaking tests which rules are load-bearing."
 related: []
 slug: the-trickster
 source_frame: mythology

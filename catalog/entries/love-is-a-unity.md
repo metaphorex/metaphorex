@@ -11,6 +11,7 @@ contributors:
 created: '2026-03-10'
 kind: metaphor
 name: Love Is a Unity
+summary: "Two become one; separation is fracture. The frame treats single people as incomplete halves and has no account of individuality within a relationship."
 provenance: lakoff-johnson-mwlb
 related:
 - love-is-a-journey

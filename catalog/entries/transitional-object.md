@@ -1,6 +1,7 @@
 ---
 slug: transitional-object
 name: Transitional Object
+summary: "An artifact that mediates between two domains by occupying a paradoxical status in both, enabling a transition direct contact would block."
 kind: mental-model
 categories:
 - psychology

@@ -1,6 +1,7 @@
 ---
 slug: presenting-problem
 name: Presenting Problem
+summary: "What the client brings to therapy is a curated entrance, not a random sample. The choice of complaint is itself diagnostic."
 kind: metaphor
 source_frame: theater-and-performance
 applies_to:

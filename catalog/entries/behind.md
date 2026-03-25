@@ -1,6 +1,7 @@
 ---
 slug: behind
 name: Behind
+summary: "Kitchen callout protocol: the person creating the hazard announces it in one word. Minimum-viable coordination for high-tempo, close-quarters work."
 kind: pattern
 source_frame: food-and-cooking
 applies_to:

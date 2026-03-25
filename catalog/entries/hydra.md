@@ -21,6 +21,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Hydra
+summary: "The standard intervention causes the problem to multiply: cut one head, two grow back. Resolution requires a qualitatively different strategy."
 related:
 - trojan-war
 - sisyphean-task

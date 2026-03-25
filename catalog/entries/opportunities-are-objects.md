@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Opportunities Are Objects
+summary: "Chances are grasped, held, and dropped. The object frame imports urgency and scarcity but hides that opportunities can be created."
 provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions

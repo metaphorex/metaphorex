@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Difficulty Is Weight
+summary: "Hard tasks press down like heavy objects. The bearer's capacity is finite, and exceeding it produces collapse, not gradual slowdown."
 provenance: glasgow-mapping-metaphor
 related:
 - importance-is-size

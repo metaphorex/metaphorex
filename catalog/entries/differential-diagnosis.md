@@ -1,6 +1,7 @@
 ---
 slug: differential-diagnosis
 name: Differential Diagnosis
+summary: "Generate multiple hypotheses before testing any. Each test is chosen to discriminate between candidates, not to confirm the favorite."
 kind: metaphor
 dead: true
 source_frame: medicine

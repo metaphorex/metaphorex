@@ -1,6 +1,7 @@
 ---
 slug: parkinsons-law
 name: "Parkinson's Law"
+summary: "Work expands to fill the time available for its completion, like a gas filling whatever container it occupies."
 kind: mental-model
 source_frame: physics
 categories:

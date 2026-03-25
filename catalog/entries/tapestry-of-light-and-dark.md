@@ -1,6 +1,7 @@
 ---
 slug: tapestry-of-light-and-dark
 name: Tapestry of Light and Dark
+summary: "Alternating high-density and low-density zones creates comprehension through contrast. Each zone derives its character from its neighbor."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Darkness Is a Cover
+summary: "Darkness draped over the world like a blanket, concealing what lies underneath. The covering frame biases darkness toward suspicion and moral charge."
 provenance: osaka-master-metaphor-list
 related:
 - darkness-is-a-solid

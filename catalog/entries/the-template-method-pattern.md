@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Template Method Pattern
+summary: "A base class defines an algorithm's skeleton with abstract steps that subclasses fill in, fixing structure while varying content."
 provenance: gang-of-four
 related:
 - the-strategy-pattern

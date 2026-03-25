@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Training Is Education
+summary: "ML 'trains' models and they 'learn.' The education frame makes statistical optimization feel like pedagogy, smuggling in understanding."
 related:
 - ai-hallucination-is-perception-disorder
 - neural-network-is-a-brain

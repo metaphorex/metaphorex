@@ -7,6 +7,7 @@ contributors: []
 created: '2026-03-13'
 kind: mental-model
 name: Bayesian Updating
+summary: "Revise beliefs proportionally to the strength of new evidence, not wholesale. The framework names how people fail to reason under uncertainty."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

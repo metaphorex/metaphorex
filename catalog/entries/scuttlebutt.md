@@ -8,6 +8,7 @@ created: '2026-03-14'
 kind: metaphor
 dead: true
 name: Scuttlebutt
+summary: "Informal communication clusters around shared physical resources. The barrel is forgotten; the gossip network it generated persists."
 related: []
 slug: scuttlebutt
 source_frame: seafaring

@@ -1,6 +1,7 @@
 ---
 slug: prompt-injection
 name: Prompt Injection
+summary: "Untrusted input slips past a trust boundary and executes as trusted instructions, borrowing the medical image of breaching skin."
 kind: metaphor
 source_frame: medicine
 applies_to:

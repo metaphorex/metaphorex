@@ -1,6 +1,7 @@
 ---
 slug: world-tree
 name: World Tree
+summary: "Mythic axis connecting cosmic realms through a single living trunk. Position in the hierarchy determines the kind of existence you have."
 kind: archetype
 source_frame: mythology
 applies_to:

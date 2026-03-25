@@ -1,6 +1,7 @@
 ---
 slug: collateral-damage
 name: Collateral Damage
+summary: "Classifies harm to bystanders as incidental to the primary strike, importing a calculus where human cost becomes a variable to optimize."
 kind: metaphor
 dead: true
 source_frame: military-history

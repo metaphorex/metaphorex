@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Interpersonal Harmony Is Musical Harmony
+summary: "Social accord as musical consonance: distinct voices combining into a pleasing whole. The frame codes all conflict as dissonance needing resolution."
 provenance: osaka-master-metaphor-list
 related:
 - emotional-stability-is-balance

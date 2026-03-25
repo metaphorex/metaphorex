@@ -13,6 +13,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Comparing And Seeking Is Shopping
+summary: "Every decision becomes a trip to the store. You can't shop for something that doesn't exist yet."
 provenance: lakoff-johnson-mwlb
 related: []
 slug: comparing-and-seeking-is-shopping

@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Emotions Are Weather
+summary: "Emotions arrive unbidden and pass like weather systems. The person is a landscape that storms move across, not an agent selecting states."
 provenance: glasgow-mapping-metaphor
 related:
 - emotions-are-forces

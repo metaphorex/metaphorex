@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Come with Clean Hands
+summary: "A legal petitioner's past misconduct can disqualify their claim. Moral standing is treated as a substance that stains or stays clean."
 related:
 - morality-is-purity
 slug: come-with-clean-hands

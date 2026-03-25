@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Compliance Is Adherence
+summary: "Rules are surfaces and obeying them is sticking to them. Bond strength varies, but the frame has no vocabulary for merit."
 related:
 - obligations-are-forces
 slug: compliance-is-adherence

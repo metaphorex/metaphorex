@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Cargo Cult Programming
+summary: "Reproducing the visible form of a system without understanding the invisible mechanism. The ritual works until it doesn't."
 related:
 - spaghetti-code
 slug: cargo-cult-programming

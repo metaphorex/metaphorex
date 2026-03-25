@@ -9,6 +9,17 @@ contributors: []
 created: '2026-03-19'
 dead: true
 grounding: established
+embodied_patterns:
+  - boundary
+  - container
+  - center-periphery
+  - surface-depth
+relation_types:
+  - contain
+  - enable
+  - prevent
+structure: boundary
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 limits:
@@ -16,6 +27,7 @@ limits:
 - '[source] imports the assumption that positive and negative space are complementary and exhaustive, but in complex systems the boundary between what was deliberately omitted and what was never considered is invisible, and the metaphor cannot distinguish strategic absence from oversight'
 - '[source] carries the visual-arts norm that negative space should be intentional and composed, but in most real systems the empty areas are accidental leftovers, not designed silences -- the metaphor aestheticizes what is often just neglect'
 name: Negative Space
+summary: "What surrounds a thing defines it. The visual-arts principle that empty areas shape perception of the elements they surround."
 related:
 - less-is-more
 - silence

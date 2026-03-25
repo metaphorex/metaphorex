@@ -1,6 +1,7 @@
 ---
 slug: laying-pipe
-name: Laying Pipe
+name: "Laying Pipe"
+summary: "Exposition planted early and invisibly so a later payoff has the setup it needs to land."
 kind: metaphor
 source_frame: plumbing
 applies_to:

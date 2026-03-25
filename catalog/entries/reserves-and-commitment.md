@@ -12,7 +12,8 @@ limits:
 - '[model] fails when the "decisive moment" is misidentified -- committing all reserves to what turns out to be a feint or secondary engagement is catastrophic, and the maxim provides no diagnostic for distinguishing the real decision point from a false one'
 - '[model] assumes a single decisive engagement, but many strategic contexts (market competition, multi-front wars, long product roadmaps) involve sequential decisions where retaining reserves for the next round is precisely what wins'
 - '[model] romanticizes total commitment as courage when it is often simply poor risk management -- Napoleon himself lost at Waterloo partly because he had no fresh reserves after committing everything at Ligny and Quatre Bras'
-name: Reserves and Commitment
+name: "Reserves and Commitment"
+summary: "Once the decisive moment arrives, partial commitment yields neither victory nor a useful reserve"
 related:
 - workmanship-of-risk
 slug: reserves-and-commitment

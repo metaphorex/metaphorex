@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Three Sheets to the Wind
+summary: "Loss of control is graduated: each loose sheet produces a distinct degree of ungovernability. Impairment is in governance of capacity, not loss of it."
 related:
 - loose-cannon
 - taken-aback

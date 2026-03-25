@@ -1,6 +1,7 @@
 ---
 slug: philosophy-is-medicine
 name: Philosophy Is Medicine
+summary: "The Stoic school is a clinic. Students arrive sick, not curious. Doctrines are prescriptions, and effective treatment should hurt."
 kind: metaphor
 source_frame: medicine
 applies_to:

@@ -10,7 +10,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Problems Are Puzzles
+name: "Problems Are Puzzles"
+summary: "Problems inherit the structure of physical puzzles: discrete pieces, one correct arrangement, a solvable state"
 provenance: lakoff-johnson-mwlb
 related: []
 slug: problems-are-puzzles

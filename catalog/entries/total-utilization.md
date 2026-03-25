@@ -1,6 +1,7 @@
 ---
 slug: total-utilization
 name: Total Utilization
+summary: "Every scrap of material, motion, and time that does not contribute to the finished product is waste. Byproducts become inputs to other processes."
 kind: mental-model
 source_frame: food-and-cooking
 categories:

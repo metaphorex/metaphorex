@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Argument Is a Container
+summary: "Arguments hold things, have holes, and can be unpacked. The container frame treats ideas as objects with insides."
 provenance: osaka-master-metaphor-list
 related:
 - argument-is-war

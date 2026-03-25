@@ -11,7 +11,8 @@ created: '2026-03-19'
 grounding: established
 harness: Claude Code
 kind: metaphor
-name: Scaffolding
+name: "Scaffolding"
+summary: "Temporary instructional support calibrated to the learner's current level, designed to be withdrawn as competence develops"
 provenance: child-psychology-metaphors
 related:
 - zone-of-proximal-development

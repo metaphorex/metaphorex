@@ -1,6 +1,7 @@
 ---
 slug: dunning-kruger-effect
 name: Dunning-Kruger Effect
+summary: "The skills needed to evaluate competence are the same skills that constitute it. Incompetence hides itself from the incompetent."
 kind: mental-model
 source_frame: psychology
 categories:

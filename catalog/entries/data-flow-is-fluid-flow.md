@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-07'
 kind: paradigm
 name: Data Flow Is Fluid Flow
+summary: "Data through pipes, filters, and sinks, composed like plumbing. The metaphor became infrastructure when McIlroy's garden hose became Unix pipes."
 provenance: mcilroy-pipes-memo
 related:
 - program-failure-is-bodily-failure

@@ -1,6 +1,7 @@
 ---
 slug: conways-law
 name: Conway's Law
+summary: "Your system architecture will mirror your organization's communication structure, whether you plan it that way or not."
 kind: mental-model
 categories:
   - software-engineering

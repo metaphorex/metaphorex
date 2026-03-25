@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Compliance Is Following
+summary: "Rules are paths, authority walks ahead. Following is spatial retracing, not active interpretation."
 related:
 - compliance-is-tightness
 - having-control-is-up

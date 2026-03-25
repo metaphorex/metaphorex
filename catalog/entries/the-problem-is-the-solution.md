@@ -9,6 +9,7 @@ created: '2026-03-20'
 grounding: established
 kind: mental-model
 name: The Problem Is the Solution
+summary: "Reframes constraints as resources. The energy spent fighting a persistent problem may itself be wasted on the wrong intervention."
 provenance: agricultural-proverbs
 related:
 - stacking-functions

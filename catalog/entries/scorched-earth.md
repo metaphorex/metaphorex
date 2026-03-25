@@ -1,6 +1,7 @@
 ---
 slug: scorched-earth
 name: Scorched Earth
+summary: "Destroy your own resources to deny them to an advancing adversary, converting self-inflicted loss into the opponent's logistical collapse."
 kind: metaphor
 source_frame: military-history
 applies_to:

@@ -13,7 +13,8 @@ limits:
   - "[paradigm] frames all three conditions as equally dangerous, but in practice the exfiltration channel (external communication) is the most controllable and often the most impactful to remove"
   - "[paradigm] implies the three conditions are binary (present or absent), obscuring the spectrum -- an agent with limited external communication is not safe, just less exploitable"
   - "[paradigm] borrows the fire triangle's clean subtraction logic, but removing a leg in agent design may degrade core functionality (e.g., removing external communication cripples most useful agent behaviors)"
-name: Lethal Trifecta
+name: "Lethal Trifecta"
+summary: "Private data + untrusted content + external communication = exploitable AI agent. Remove any one."
 related:
 - risk-is-a-triangle
 - firewall

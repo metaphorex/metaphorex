@@ -1,6 +1,7 @@
 ---
 slug: if-you-dont-look-you-wont-find
-name: If You Don't Look, You Won't Find
+name: "If You Don't Look, You Won't Find"
+summary: "Pathology does not announce itself to the incurious. The absence of a finding means nothing unless you have actually looked."
 kind: metaphor
 source_frame: medicine
 applies_to:

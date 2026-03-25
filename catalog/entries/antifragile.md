@@ -1,6 +1,7 @@
 ---
 slug: antifragile
 name: Antifragile
+summary: "Some systems need shocks to improve, not just survive them. The label bundles hormesis, optionality, and selection into one vague positive."
 kind: mental-model
 source_frame: resilience
 categories:

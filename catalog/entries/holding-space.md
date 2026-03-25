@@ -1,6 +1,7 @@
 ---
 slug: holding-space
-name: Holding Space
+name: "Holding Space"
+summary: "Being present with distress without fixing it. The container's job is to not act, letting contents settle on their own."
 kind: metaphor
 source_frame: containers
 applies_to:

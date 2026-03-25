@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Perception Is Reception
+summary: "To perceive is to passively receive signals from the world. The metaphor hides the constructive work the brain does to build experience."
 provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing

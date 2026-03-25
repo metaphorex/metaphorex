@@ -1,6 +1,7 @@
 ---
 slug: comedy-is-truth-and-pain
 name: Comedy Is Truth and Pain
+summary: "Comedy requires both a truth the audience recognizes and a pain the audience shares. Neither alone is sufficient; truth without pain is a lecture."
 kind: mental-model
 source_frame: comedy-craft
 categories:

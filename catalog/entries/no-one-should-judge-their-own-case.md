@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-16'
 harness: Claude Code
 kind: mental-model
-name: No One Should Judge Their Own Case
+name: "No One Should Judge Their Own Case"
+summary: "Self-interest corrupts judgment through cognitive architecture, not malice, so evaluation and participation must be assigned to different actors."
 related:
 - hear-the-other-side
 slug: no-one-should-judge-their-own-case

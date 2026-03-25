@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Daemon
+summary: "Background processes named for Greek spirits that attend their domain unsummoned. The numinous has been bleached into a technical term."
 related:
 - zombie-process
 - orphan-process

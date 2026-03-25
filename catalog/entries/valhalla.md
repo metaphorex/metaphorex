@@ -1,6 +1,7 @@
 ---
 slug: valhalla
 name: Valhalla
+summary: "Honor reserved for those who gave everything. The reward is more of the same struggle, not rest from it."
 kind: metaphor
 source_frame: mythology
 applies_to:

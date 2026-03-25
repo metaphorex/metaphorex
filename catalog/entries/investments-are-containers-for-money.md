@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
-name: Investments Are Containers For Money
+name: "Investments Are Containers For Money"
+summary: "We put money into investments and take it out, as if financial instruments were vessels, hiding that capital is transformed, not stored."
 provenance: osaka-master-metaphor-list
 related:
 - activities-are-containers

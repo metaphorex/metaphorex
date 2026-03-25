@@ -17,6 +17,7 @@ limits:
 - '[source] misleads for continuous sustained forces (gravity never stops pulling, tension never releases) because the moving-object event structure (approach, impact, aftermath) fits impulsive forces but
   distorts sustained ones'
 name: A Force Is a Moving Object
+summary: "Invisible interactions are understood as thrown objects. Forces 'hit' you, 'push' you, 'strike' with impact."
 provenance: osaka-master-metaphor-list
 related:
 - causes-are-forces

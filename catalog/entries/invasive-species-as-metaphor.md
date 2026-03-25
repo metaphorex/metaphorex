@@ -1,6 +1,7 @@
 ---
 slug: invasive-species-as-metaphor
-name: Invasive Species
+name: "Invasive Species"
+summary: "Organisms freed from home-range predators outcompete natives not through superiority but by escaping the constraints that regulated them."
 kind: metaphor
 source_frame: ecology
 applies_to:

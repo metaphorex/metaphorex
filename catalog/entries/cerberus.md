@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Cerberus
+summary: "A multi-headed guardian at the boundary. Entry is controlled, exit is blocked, but single-point gatekeeping has known bypasses."
 related:
 - gordian-knot
 - damocles-sword

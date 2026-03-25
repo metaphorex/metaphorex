@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Light Is A Line
+summary: "Light as geometric ray: directional, straight, blockable. The metaphor became a scientific discipline (optics) but fails wherever diffraction matters."
 provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing

@@ -1,6 +1,7 @@
 ---
 slug: dead-mans-switch
 name: Dead Man's Switch
+summary: "A mechanism that activates when its operator stops responding. Safety requires continuous proof of presence, not a one-time lock."
 kind: metaphor
 source_frame: safety-systems
 applies_to:

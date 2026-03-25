@@ -16,6 +16,7 @@ limits:
 - "[source] imports the assumption that attackers must penetrate layers sequentially from outside to inside, but lateral movement within compromised systems bypasses the depth model entirely"
 - "[source] suggests that adding more layers always increases security, but redundant layers of the same type (e.g., multiple firewalls) provide diminishing returns compared to diverse defense mechanisms"
 name: Defense in Depth
+summary: "Layered defenses trade space for time; no single layer is expected to hold, each buys detection window."
 related:
 - firewall
 - zero-trust

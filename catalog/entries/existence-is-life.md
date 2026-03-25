@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Existence Is Life
+summary: "Non-living things get born, flourish, and die. Naturalizes decline as inevitable, framing institutional decay as organic and unavoidable."
 provenance: osaka-master-metaphor-list
 related:
 - existence-is-a-location

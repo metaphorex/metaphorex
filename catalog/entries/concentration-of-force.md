@@ -1,6 +1,7 @@
 ---
 slug: concentration-of-force
 name: Concentration of Force
+summary: "Mass resources at one decisive point rather than distributing evenly. Local superiority at the point that matters beats global parity."
 kind: mental-model
 source_frame: military-command
 categories:

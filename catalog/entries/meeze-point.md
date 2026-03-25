@@ -1,6 +1,7 @@
 ---
 slug: meeze-point
 name: Meeze Point
+summary: "The maximum number of concurrent tasks before performance collapses. Not gradual slowdown but catastrophic threshold failure."
 kind: mental-model
 source_frame: food-and-cooking
 categories:

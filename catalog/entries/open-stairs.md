@@ -1,6 +1,7 @@
 ---
 slug: open-stairs
 name: Open Stairs
+summary: "Visible, central staircases invite use; hidden fire stairs get ignored. Abstraction layers people can see are abstraction layers people use."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

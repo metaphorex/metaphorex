@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Compliance Is Tightness
+summary: "Strict rules bind. Loose ones give slack. Enforcement maps onto degree of physical constraint along a gradient."
 related:
 - compliance-is-following
 - having-control-is-up

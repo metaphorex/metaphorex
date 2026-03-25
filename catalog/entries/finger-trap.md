@@ -1,6 +1,7 @@
 ---
 slug: finger-trap
-name: Finger Trap
+name: "Finger Trap"
+summary: "Pulling away from discomfort tightens its grip. The counter-intuitive solution is to move toward what you want to escape."
 kind: metaphor
 source_frame: puzzles-and-games
 applies_to:

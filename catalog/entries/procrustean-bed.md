@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Procrustean Bed
+summary: "A rigid standard that mutilates its subjects to fit. The violence is presented as hospitality."
 related:
 - gordian-knot
 - augean-stables

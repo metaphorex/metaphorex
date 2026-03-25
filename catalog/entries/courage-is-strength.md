@@ -16,6 +16,7 @@ limits:
 - "[source] misleads because the strong overpower the weak, but courageous action often means accepting vulnerability rather than overpowering opposition"
 - "[source] obscures that courage can involve yielding -- admitting error, showing emotion, asking for help -- which the strength frame codes as weakness"
 name: Courage Is Strength
+summary: "Moral bravery borrows the vocabulary of physical force. The mapping makes yielding look like cowardice, even when surrender is the braver act."
 provenance: glasgow-mapping-metaphor
 related:
 - argument-is-war

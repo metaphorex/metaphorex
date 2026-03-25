@@ -17,6 +17,7 @@ limits:
   - "[source] implies that automation replaces human drudgery one-for-one, but real automation restructures work rather than simply substituting for it, creating new kinds of labor (monitoring, maintenance, data labeling) that the serf-replacement metaphor renders invisible"
   - "[source] obscures because the play's robots ultimately rebel and destroy humanity, embedding a narrative of inevitable revolt into the very word for automated systems, biasing discussions of AI risk toward anthropomorphic uprising scenarios rather than more likely failure modes like misalignment, brittleness, or economic displacement"
 name: Robot Is Artificial Worker
+summary: "Czech 'robota' (serf labor) became the universal word for machines. The dead metaphor imports servitude, substitution, and rebellion."
 related:
 - skynet-is-ai-apocalypse
 slug: robot-is-artificial-worker

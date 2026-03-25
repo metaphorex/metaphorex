@@ -1,6 +1,7 @@
 ---
 slug: site-repair
 name: Site Repair
+summary: "Build on the worst part of the site, preserve the best. Each iteration raises the quality floor while leaving strong areas undisturbed."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

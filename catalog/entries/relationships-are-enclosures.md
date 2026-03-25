@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Relationships Are Enclosures
+summary: "Being in a relationship is being inside a bounded space. The same container that means together also means confined."
 provenance: osaka-master-metaphor-list
 related:
 - love-is-a-journey

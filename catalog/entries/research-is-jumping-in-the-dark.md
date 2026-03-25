@@ -1,6 +1,7 @@
 ---
 slug: research-is-jumping-in-the-dark
-name: Research Is Jumping in the Dark
+name: "Research Is Jumping in the Dark"
+summary: "Tao's metaphor: AI clears research walls of unknown height by brute force; humans carry candles to find structural cracks"
 kind: metaphor
 source_frame: exploration
 applies_to:

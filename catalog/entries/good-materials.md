@@ -14,7 +14,8 @@ limits:
 - '[source] breaks because physical materials degrade predictably along known curves -- wood rots, stone weathers, copper patinas -- while software dependencies fail discontinuously when a maintainer abandons a project, a license changes overnight, or a security vulnerability is disclosed with no patch'
 - '[source] misleads by implying that material quality is intrinsic and observable at selection time, when software dependency quality is emergent and temporal: a library that is excellent today may become a liability next year through no fault of its original design'
 - '[source] assumes materials are passive recipients of wear, but software dependencies are active agents that push updates, change APIs, and introduce breaking changes -- the "material" reshapes itself while you are building with it'
-name: Good Materials
+name: "Good Materials"
+summary: "Choose components whose failure modes are visible, gradual, and repairable by anyone with standard tools. Lifecycle cost outweighs feature count."
 provenance: alexander-pattern-language
 related:
 - accessible-green

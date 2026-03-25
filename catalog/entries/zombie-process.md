@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Zombie Process
+summary: "Dead but not departed. The process has terminated but lingers in the table because the parent neglected a required ritual."
 related:
 - software-rot
 - bus-factor

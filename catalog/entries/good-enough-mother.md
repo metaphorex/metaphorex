@@ -20,7 +20,8 @@ structure:
   - equilibrium
 abstraction_level: generic
 kind: metaphor
-name: Good Enough Mother
+name: "Good Enough Mother"
+summary: "Imperfection within tolerance is developmentally necessary, not merely acceptable. Graduated failure builds capacity that perfect attunement prevents."
 provenance: child-psychology-metaphors
 related:
 - scaffolding

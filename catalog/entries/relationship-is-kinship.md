@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Relationship Is Kinship
+summary: "Non-biological bonds mapped onto family structure. The kinship frame imports obligation, hierarchy, and permanence by default."
 provenance: osaka-master-metaphor-list
 related:
 - love-is-a-journey

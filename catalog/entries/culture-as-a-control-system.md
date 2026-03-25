@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-13'
 kind: paradigm
 name: Culture as a Control System
+summary: "Shared norms self-correct behavior like a thermostat, replacing oversight with feedback."
 provenance: munger-poor-charlies-almanack
 related:
 - redundancy

@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Harm Is Physical Injury
+summary: "Abstract harm mapped onto bodily wounding, giving invisible damage a visible signature. The healing arc imports automatic recovery but also scarring."
 provenance: osaka-master-metaphor-list
 related:
 - harm-is-being-in-a-harmful-location

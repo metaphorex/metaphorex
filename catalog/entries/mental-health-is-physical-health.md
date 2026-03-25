@@ -16,6 +16,7 @@ limits:
 - "[source] misleads because physical illness implies a pre-existing healthy baseline to restore, but some mental conditions are lifelong constitutional traits"
 - "[source] obscures that mental suffering can be a rational response to circumstances, not a malfunction requiring treatment"
 name: Mental Health Is Physical Health
+summary: "Minds are diagnosed, treated, and cured using the full vocabulary of physical medicine. The borrowing is nearly invisible."
 provenance: glasgow-mapping-metaphor
 related:
 - illness-is-an-invader

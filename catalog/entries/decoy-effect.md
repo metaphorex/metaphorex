@@ -1,6 +1,7 @@
 ---
 slug: decoy-effect
 name: Decoy Effect
+summary: "An inferior third option shifts preference toward the option that dominates it, without being chosen."
 kind: mental-model
 categories:
   - decision-making

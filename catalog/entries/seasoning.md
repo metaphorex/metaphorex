@@ -1,6 +1,7 @@
 ---
 slug: seasoning
 name: Seasoning
+summary: "Professional maturation requires irreducible time. Rushing produces surface competence with hidden structural weakness underneath."
 kind: metaphor
 dead: true
 source_frame: carpentry

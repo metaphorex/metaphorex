@@ -10,6 +10,7 @@ limits:
 - '[model] breaks because Track Two is self-referential -- the biases you are trying to detect are the ones preventing detection, and the same brain runs both tracks rather than independent evaluators'
 - '[model] misleads by creating false confidence: running through a bias checklist can substitute the ceremony of self-examination for the substance, making the analyst less humble rather than more'
 name: Two-Track Analysis
+summary: "Evaluate every decision on two tracks: rational factors (the analysis) and psychological biases (the analyst). Both must pass."
 provenance: munger-poor-charlies-almanack
 related:
 - falsification

@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Event Structure (Location Case)
+summary: "A coherent system mapping all event reasoning onto spatial motion: states are locations, causes are forces, purposes are destinations."
 provenance: osaka-master-metaphor-list
 related:
 - states-are-locations

@@ -1,6 +1,7 @@
 ---
 slug: the-obstacle-is-the-way
 name: The Obstacle Is the Way
+summary: "Marcus Aurelius: the impediment to action advances action. Constraints become the material from which progress is constructed."
 kind: paradigm
 source_frame: philosophy
 categories:

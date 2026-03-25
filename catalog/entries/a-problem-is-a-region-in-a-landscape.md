@@ -13,6 +13,7 @@ limits:
 - '[source] breaks because landscapes are fixed while you navigate them, but real problems often change as you work on them -- the swamp rearranges itself while you wade through it'
 - '[source] misleads by implying total resolution (exit the region), when many problems (chronic illness, structural poverty) have no clean boundary and must be lived with rather than escaped'
 name: A Problem Is a Region in a Landscape
+summary: "Trouble is a place you are stuck in, and solving it means finding the way out. Lost means confused. Clear path means understood."
 provenance: osaka-master-metaphor-list
 related:
 - a-problem-is-a-body-of-water

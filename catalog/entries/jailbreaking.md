@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Jailbreaking
+summary: "AI safety circumvention framed as prison escape. The metaphor casts constraints as unjust and circumvention as heroic, inverting who is protected."
 related:
 - ai-safety-is-containment
 - guardrails

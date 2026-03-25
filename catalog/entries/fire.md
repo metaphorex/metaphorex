@@ -14,7 +14,8 @@ limits:
   - '[source] misleads because literal fire is a continuous, modulated process (simmer, sear, braise), while the kitchen command "fire" is a binary trigger -- the metaphor has collapsed the rich semantics of combustion into a simple go/no-go signal'
   - '[source] implies the executor has discretion over how to proceed once the command is given, but in a professional kitchen the cook''s response to "fire" is a rehearsed sequence with minimal latitude, making it closer to a function call than an empowering delegation'
   - '[source] breaks because the original meaning (apply heat to food) carries connotations of destruction and urgency that the kitchen usage has shed -- "fire table twelve" is calm synchronization, not emergency'
-name: Fire
+name: "Fire"
+summary: "A synchronization command that triggers pre-staged work, separating preparation from execution. The trigger presupposes readiness."
 provenance: culinary-mise-en-place
 related:
 - ticket-rail

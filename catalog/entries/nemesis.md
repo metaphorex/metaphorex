@@ -1,6 +1,7 @@
 ---
 slug: nemesis
 name: Nemesis
+summary: "A Greek goddess of proportional retribution became a word for any persistent rival. The cosmic justice guarantee did not survive the transfer."
 kind: metaphor
 source_frame: mythology
 applies_to:

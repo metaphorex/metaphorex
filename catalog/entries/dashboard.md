@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Dashboard
+summary: "From a mud-blocking board on a carriage to instrument panel to metrics display. Three deaths, each shedding a layer of physical reference."
 related: []
 slug: dashboard
 source_frame: travel

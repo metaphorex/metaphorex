@@ -1,6 +1,7 @@
 ---
 slug: life-is-a-game-of-dice
 name: Life Is a Game of Dice
+summary: "Stoic dichotomy of control at its barest: the throw is random, only the play is yours. Breaks because life events are chained, not independent."
 kind: metaphor
 source_frame: dice-and-games
 applies_to:

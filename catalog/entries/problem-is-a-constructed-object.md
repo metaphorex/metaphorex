@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Problem Is a Constructed Object
+summary: "Problems are built from parts and can be dismantled. The construction frame demands a builder, which invites conspiracy thinking."
 provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings

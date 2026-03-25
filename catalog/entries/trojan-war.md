@@ -10,6 +10,7 @@ created: '2026-03-14'
 harness: Claude Code
 kind: archetype
 name: Trojan War
+summary: "The gap between trigger and consequence is the central structure. A personal grievance escalates into systemic destruction through sunk costs."
 related:
 - damocles-sword
 - scylla-and-charybdis

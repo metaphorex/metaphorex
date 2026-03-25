@@ -1,6 +1,7 @@
 ---
 slug: signal-to-noise
 name: Signal to Noise
+summary: "Engineering ratio of useful information to background interference mapped onto any domain where content competes for finite attention"
 kind: metaphor
 source_frame: broadcasting
 applies_to:

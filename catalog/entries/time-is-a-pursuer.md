@@ -16,6 +16,7 @@ limits:
 - '[source] misleads because the pursuit frame makes the entire experience feel threatening,
   leaving no vocabulary for savoring or accepting the process'
 name: Time Is a Pursuer
+summary: "Time chases and we flee. The pursuit frame encodes fatalism about mortality and forecloses acceptance of impermanence."
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

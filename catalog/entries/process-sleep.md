@@ -1,6 +1,7 @@
 ---
 slug: process-sleep
-name: Process Sleep
+name: "Process Sleep"
+summary: "A process waiting for a set duration as an organism sleeping: alive, present, temporarily inactive"
 kind: metaphor
 dead: true
 source_frame: embodied-experience

@@ -8,6 +8,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
 name: Checklist Approach
+summary: "Externalize what memory can't retain under pressure. The most dangerous failures are things you forgot to check, not things you checked wrong."
 provenance: munger-poor-charlies-almanack
 related:
 - latticework-of-mental-models

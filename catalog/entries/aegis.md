@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Aegis
+summary: "Protection through a patron's authority, not physical barriers. The shield works because enemies fear the name on it."
 related:
 - damocles-sword
 slug: aegis

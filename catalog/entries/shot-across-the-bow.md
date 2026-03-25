@@ -8,6 +8,7 @@ created: '2026-03-14'
 kind: metaphor
 dead: true
 name: Shot across the Bow
+summary: "Naval warning fire mapped onto calibrated social threats; the deliberate miss demonstrates capability while preserving the target's agency"
 related:
 - take-wind-out-of-sails
 slug: shot-across-the-bow

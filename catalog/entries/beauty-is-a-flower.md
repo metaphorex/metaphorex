@@ -21,6 +21,7 @@ abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Beauty Is a Flower
+summary: "Beauty blooms, peaks, and wilts on a schedule. The metaphor makes aging a story of loss, not change."
 provenance: glasgow-mapping-metaphor
 related:
 - harm-is-a-thorn

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Shell
+summary: "Protective outer layer between user and kernel. Protection runs backwards: the shell guards the user from complexity, not the kernel from threat."
 related:
 - kernel
 slug: shell

@@ -12,6 +12,7 @@ limits:
   - '[model] misleads when applied to systems with memory, where past outcomes do change the distribution (a deck with aces removed is genuinely less likely to yield an ace), and the "fallacy" framing discourages examining whether the process actually has memory'
   - '[model] oversimplifies by treating all pattern-detection in random sequences as error, when humans sometimes correctly detect non-randomness in processes that only appear random (e.g., detecting a loaded die from a short run)'
 name: "Gambler's Fallacy"
+summary: "A streak of identical outcomes does not make the opposite result more likely. The coin has no memory of what it did last time."
 related:
 - regression-to-the-mean
 - confirmation-bias

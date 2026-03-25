@@ -1,6 +1,7 @@
 ---
 slug: ball-in-a-pool
 name: Ball in a Pool
+summary: "Suppressing an emotion is like holding a beach ball underwater. It takes constant effort, and the rebound is worse than letting it float."
 kind: metaphor
 source_frame: physics
 applies_to:

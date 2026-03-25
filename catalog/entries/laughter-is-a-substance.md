@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Laughter Is a Substance
+summary: "Laughter treated as a fluid that builds pressure, overflows, and spills. The substance model hides that laughter is an event, not a thing."
 provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person

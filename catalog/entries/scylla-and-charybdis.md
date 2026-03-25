@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Scylla and Charybdis
+summary: "Two mythological sea monsters frame forced choice between known bounded loss and uncertain catastrophic risk"
 related:
 - damocles-sword
 - tantalus

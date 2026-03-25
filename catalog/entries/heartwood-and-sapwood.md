@@ -25,7 +25,8 @@ limits:
 - '[source] breaks because heartwood is dead tissue that can no longer adapt -- calling a company''s core competency its "heartwood" flatters rigidity as strength, obscuring that an unchanging core in a changing environment becomes a liability, not an asset'
 - '[source] misleads by implying a clean concentric boundary between core and periphery, when organizational competencies are networked and interpenetrating -- a firm''s "sapwood" activities (customer support, developer relations) often generate the knowledge that reshapes the "heartwood"'
 - '[source] imports the tree''s inability to choose its own proportion of heartwood to sapwood, hiding the fact that organizations can and must deliberately reallocate resources between core and peripheral activities rather than letting the ratio emerge passively'
-name: Heartwood and Sapwood
+name: "Heartwood and Sapwood"
+summary: "Dead core bears structural load; living periphery feeds growth. All heartwood is dead; all sapwood collapses. The ratio is the design parameter."
 related:
 - tooling-up
 slug: heartwood-and-sapwood

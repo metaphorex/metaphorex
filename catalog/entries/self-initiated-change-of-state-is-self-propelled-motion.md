@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Self-Initiated Change Of State Is Self-Propelled Motion
+summary: "Voluntary self-transformation maps onto walking under your own power. Speed, direction, and effort of locomotion structure reasoning about change."
 provenance: osaka-master-metaphor-list
 related:
 - change-is-motion

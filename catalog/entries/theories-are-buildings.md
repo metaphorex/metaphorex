@@ -12,6 +12,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: Theories Are Buildings
+summary: "Axioms are load-bearing foundations. Intellectual work is sequential construction. Structural failure maps refutation onto sudden, total collapse."
 related:
 - argument-is-war
 slug: theories-are-buildings

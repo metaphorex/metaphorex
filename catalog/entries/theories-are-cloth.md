@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Theories Are Cloth
+summary: "Threads gain integrity through interlacing. Failure propagates by unraveling, not collapsing. Repairs are visible patches where the weave failed."
 provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings

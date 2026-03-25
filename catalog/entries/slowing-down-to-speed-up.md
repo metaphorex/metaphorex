@@ -1,6 +1,7 @@
 ---
 slug: slowing-down-to-speed-up
 name: Slowing Down to Speed Up
+summary: "Deliberate deceleration at a chokepoint prevents the error cascade that rushing produces, restoring net throughput."
 kind: mental-model
 categories:
   - decision-making

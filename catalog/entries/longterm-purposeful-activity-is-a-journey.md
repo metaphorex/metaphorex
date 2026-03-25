@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Long-Term Purposeful Activity Is a Journey
+summary: "Sustained work as locomotion: covering ground, hitting milestones, making headway. Penalizes slow or cyclical work by framing it as stagnation."
 provenance: osaka-master-metaphor-list
 related:
 - longterm-purposeful-change-is-a-journey

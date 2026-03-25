@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
-name: Hanlon's Razor
+name: "Hanlon's Razor"
+summary: "Attribute harmful outcomes to incompetence before malice, because coordinated conspiracy is harder than ordinary bungling."
 provenance: munger-poor-charlies-almanack
 related:
 - occams-razor

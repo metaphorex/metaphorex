@@ -15,6 +15,7 @@ limits:
   - '[source] breaks by importing a clean three-way taxonomy (mutualism, commensalism, parasitism) when real inter-organizational relationships shift between categories over time: a mutualistic partnership becomes parasitic when one partner''s leverage grows, but the metaphor treats the categories as stable types'
   - '[source] obscures power dynamics because biological symbiosis is symmetric at the species level (both organisms evolved into the relationship), while organizational symbioses are typically initiated and maintained by the more powerful party on terms it dictates'
 name: Symbiosis As Metaphor
+summary: "Sustained co-habitation between unlike organisms classified as mutualism, commensalism, or parasitism. Diagnoses actual cost-benefit structure."
 provenance: ecological-metaphors
 related:
 - business-ecosystem

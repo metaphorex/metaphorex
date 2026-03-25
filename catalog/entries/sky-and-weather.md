@@ -1,6 +1,7 @@
 ---
 slug: sky-and-weather
 name: Sky and Weather
+summary: "You are the sky; emotions are the weather. The observing self persists unchanged while emotional states arise and pass through it."
 kind: metaphor
 source_frame: weather
 applies_to:

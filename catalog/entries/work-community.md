@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by implying that smallness alone produces community, when architectural work communities also depend on shared entrances, communal kitchens, and visible workspaces that have no direct analog in remote-first organizations'
 - '[source] assumes that the work community is internally homogeneous in craft and rhythm, but modern cross-functional teams deliberately mix disciplines with different cadences, violating the shared-trade premise that gives Alexander''s pattern its cohesion'
 name: Work Community
+summary: "Alexander pattern capping workgroup size at mutual-recognition limits. Identity emerges from spatial co-location, not org-chart lines."
 provenance: alexander-pattern-language
 related:
 - alcoves

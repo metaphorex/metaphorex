@@ -1,6 +1,7 @@
 ---
 slug: needle-in-a-haystack
 name: Needle in a Haystack
+summary: "Target indistinguishable from surroundings in a large, unindexed volume; finding it requires a discriminating filter."
 kind: metaphor
 dead: true
 source_frame: agriculture

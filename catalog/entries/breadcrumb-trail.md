@@ -19,6 +19,7 @@ structure: pipeline
 abstraction_level: generic
 kind: metaphor
 name: Breadcrumb Trail
+summary: "Sequential markers dropped along a path to enable return. The fairy tale's irony: the original breadcrumbs were eaten by birds."
 related: []
 slug: breadcrumb-trail
 source_frame: narrative

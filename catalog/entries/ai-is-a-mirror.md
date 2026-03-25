@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: AI Is a Mirror
+summary: "AI reflects society back at itself. The frame locates responsibility in the training data, not the system."
 related:
 - ai-is-a-black-box
 slug: ai-is-a-mirror

@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Disparity Is Change
+summary: "Static differences treated as divergence from prior sameness. The frame assigns direction asymmetrically: one side is standard, the other deviated."
 provenance: osaka-master-metaphor-list
 related:
 - change-is-motion

@@ -10,7 +10,8 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
-name: Purposes Are Desired Objects
+name: "Purposes Are Desired Objects"
+summary: "Goals are things you reach for, grasp, hold, and possess; achievement is acquisition, failure is losing grip"
 provenance: osaka-master-metaphor-list
 related:
 - purposes-are-destinations

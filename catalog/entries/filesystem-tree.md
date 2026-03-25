@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Filesystem Tree
+summary: "File hierarchy as botanical tree: root, branches, leaves. Makes hierarchy feel organic and inevitable, hiding that tags and graphs are alternatives."
 related:
 - filesystem-root
 - filesystem-mount

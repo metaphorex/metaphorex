@@ -1,6 +1,7 @@
 ---
 slug: the-absent-but-implicit
 name: The Absent but Implicit
+summary: "Every complaint presupposes a valued state. Surfacing what is absent in a statement of pain reveals what the speaker cares about."
 kind: pattern
 source_frame: narrative
 applies_to:

@@ -10,6 +10,7 @@ harness: Claude Code
 created: '2026-03-13'
 kind: metaphor
 name: AI Is a Copilot
+summary: "Shared cockpit, asymmetric authority. But a real copilot can land the plane solo and refuse unsafe commands; the AI cannot."
 related:
 - ai-is-a-tool
 - ai-is-an-agent

@@ -1,6 +1,7 @@
 ---
 slug: constraint-enables-creativity
 name: Constraint Enables Creativity
+summary: "Limitations block the obvious solution paths, forcing exploration of less-traveled regions. Unconstrained agents default to familiar solutions."
 kind: mental-model
 embodied_patterns:
   - container

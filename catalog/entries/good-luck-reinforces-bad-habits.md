@@ -1,6 +1,7 @@
 ---
 slug: good-luck-reinforces-bad-habits
-name: Good Luck Reinforces Bad Habits
+name: "Good Luck Reinforces Bad Habits"
+summary: "Surviving a shortcut feels like proof the shortcut was safe. The most dangerous habits are the ones with the longest lucky streaks."
 kind: mental-model
 source_frame: fire-safety
 categories:

@@ -16,6 +16,7 @@ limits:
   - '[source] misleads by framing all disagreement as "blocking," when rigorous criticism, quality gates, and saying "no" to bad proposals are essential functions that the pattern stigmatizes as failures of collaboration'
   - '[source] assumes rough equality among participants, but in hierarchical organizations a junior employee''s "yes, and" to a senior leader''s idea is deference, not co-creation, and a leader''s "yes, and" to a subordinate may be misread as endorsement rather than exploration'
 name: Yes, And
+summary: "Improv principle where each contribution validates what came before and extends the shared artifact in an unexpected direction."
 provenance: comedy-writers-glossary
 related:
 - offers-and-blocks

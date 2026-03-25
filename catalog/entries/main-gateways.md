@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by importing the assumption that the gateway experience should be ceremonial and deliberate, when many software entry points benefit from being invisible, frictionless, or entirely automated, and adding ceremony creates abandonment rather than arrival'
 - '[source] assumes that the gateway is encountered once per visit and then left behind, but software users may re-enter through the same gateway dozens of times per session (re-authentication, session refresh), turning what should be a threshold moment into a repetitive annoyance'
 name: Main Gateways
+summary: "Entry points need physical presence and clear marking. A gateway announces arrival and gives the visitor a moment to reorient."
 provenance: alexander-pattern-language
 related:
 - main-entrance

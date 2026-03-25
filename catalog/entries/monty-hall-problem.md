@@ -13,6 +13,7 @@ limits:
 - '[model] misleads by training the intuition that new information always favors switching, when the value of switching depends entirely on the information asymmetry between the revealer and the chooser -- if the host opens a door at random, switching provides no advantage'
 - '[model] obscures the distinction between single-play and repeated-play contexts: the 2/3 advantage is a frequency over many trials, but any individual game is still won or lost, making the model''s prescriptive force weaker for genuinely one-shot decisions'
 name: Monty Hall Problem
+summary: "Information from a knowledgeable revealer redistributes probability mass to the unchosen option, making switching optimal."
 related: []
 slug: monty-hall-problem
 source_frame: probability

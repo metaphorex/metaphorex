@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Memory Stack
+summary: "A pile of plates: last in, first out. The metaphor is so structurally precise that hardware implements it with a register."
 related:
 - memory-heap
 - buffer-overflow

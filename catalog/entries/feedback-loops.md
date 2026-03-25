@@ -6,7 +6,8 @@ categories:
 contributors: []
 created: '2026-03-13'
 kind: mental-model
-name: Feedback Loops
+name: "Feedback Loops"
+summary: "Output routed back as input creates cycles that amplify or stabilize, shifting attention from events to the structures producing them."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

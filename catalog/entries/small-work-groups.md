@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by implying that smallness alone produces self-management, when groups also need clear ownership boundaries, decision-making authority, and organizational support structures that the spatial pattern does not address'
 - '[source] obscures the coordination cost between groups: Alexander treats each group as a self-contained unit, but software systems require extensive inter-team coordination (API contracts, shared services, release dependencies) that scales worse than intra-team communication'
 name: Small Work Groups
+summary: "Groups of 5-20 sharing defined territory self-organize and develop ownership. Maps spatial clusters onto autonomous software teams."
 provenance: alexander-pattern-language
 related:
 - flexible-office-space

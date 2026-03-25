@@ -13,6 +13,7 @@ limits:
 - "[source] misleads because digital files can be perfectly replicated, suggesting that a mind upload would be a perfect copy, when the mapping from neural substrate to digital representation involves lossy translation"
 - "[source] obscures that files are passive data requiring software to interpret them, while minds are active processes -- uploading a mind is not like uploading a file but like uploading a running program mid-execution"
 name: Uploading Is Digital Immortality
+summary: "Maps file transfer to a durable medium onto consciousness transfer from a mortal body to a persistent digital substrate."
 related:
 - cryonics-is-death-deferral
 slug: uploading-is-digital-immortality

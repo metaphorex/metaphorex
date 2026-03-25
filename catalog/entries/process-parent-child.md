@@ -1,6 +1,7 @@
 ---
 slug: process-parent-child
-name: Process Parent-Child
+name: "Process Parent-Child"
+summary: "Process creation as family: children inherit state, parents wait, orphans are adopted by init"
 kind: metaphor
 dead: true
 source_frame: social-roles

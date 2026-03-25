@@ -1,6 +1,7 @@
 ---
 slug: green-wood
 name: Green Wood
+summary: "Unseasoned material is easy to shape but dimensionally unstable. Initial cooperation masks future warping, and maturation has an irreducible duration."
 kind: metaphor
 dead: true
 source_frame: carpentry

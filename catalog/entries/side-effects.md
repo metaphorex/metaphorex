@@ -1,6 +1,7 @@
 ---
 slug: side-effects
 name: Side Effects
+summary: "Pharmacological center/periphery hierarchy mapped onto unintended consequences; the spatial 'side' demotes them by design"
 kind: metaphor
 dead: true
 source_frame: medicine

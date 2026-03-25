@@ -1,6 +1,7 @@
 ---
 slug: dropping-the-anchor
 name: Dropping the Anchor
+summary: "An ACT grounding technique: the anchor holds position without stopping the storm. Stabilization, not elimination of distress."
 kind: metaphor
 source_frame: seafaring
 applies_to:

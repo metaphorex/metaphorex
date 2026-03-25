@@ -1,6 +1,7 @@
 ---
 slug: koan
-name: Koan
+name: "Koan"
+summary: "A paradox designed to defeat analytical reasoning so that the failure itself becomes the insight."
 kind: metaphor
 source_frame: mythology
 applies_to:

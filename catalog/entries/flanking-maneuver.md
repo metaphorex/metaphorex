@@ -1,6 +1,7 @@
 ---
 slug: flanking-maneuver
-name: Flanking Maneuver
+name: "Flanking Maneuver"
+summary: "Attack where defenses are thinnest rather than strongest. Strength is directional, and speed can substitute for mass."
 kind: metaphor
 source_frame: military-history
 applies_to:

@@ -10,6 +10,7 @@ contributors: []
 created: '2026-03-07'
 kind: paradigm
 name: Survival of the Fittest
+summary: "Fitness is a relationship between organism and environment, not an intrinsic property. Variation supplies raw material; selection acts upon it."
 related:
 - the-commons
 slug: survival-of-the-fittest

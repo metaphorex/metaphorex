@@ -10,6 +10,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Persona
+summary: "Public mask mediates between inner state and outer expectation. Structurally necessary, but identification with the mask makes the system brittle."
 provenance: jung-two-essays
 related:
 - the-trickster

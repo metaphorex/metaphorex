@@ -1,6 +1,7 @@
 ---
 slug: unconditional-positive-regard
 name: Unconditional Positive Regard
+summary: "Rogers' therapeutic stance of accepting the whole person while reserving judgment on specific acts. Isolates self-directed change."
 kind: mental-model
 categories:
 - psychology

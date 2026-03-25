@@ -1,6 +1,7 @@
 ---
 slug: dead-plate
 name: Dead Plate
+summary: "Finished work that missed its delivery window. Waste located at handoff points, not in the work."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

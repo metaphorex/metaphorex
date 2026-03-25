@@ -1,6 +1,7 @@
 ---
 slug: see-first-name-later
 name: See First, Name Later
+summary: "Drawing pedagogy's sequencing discipline: naming activates stored schemas that overwrite observation, so perceive before categorizing"
 kind: metaphor
 source_frame: visual-arts-practice
 applies_to:

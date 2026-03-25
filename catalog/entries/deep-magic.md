@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Deep Magic
+summary: "Code so obscure it functions like sorcery. The label romanticizes ignorance and rewards opacity."
 related:
 - heisenbug
 - cargo-cult-programming

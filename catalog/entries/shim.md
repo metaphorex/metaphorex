@@ -8,9 +8,21 @@ categories:
 contributors: []
 created: '2026-03-21'
 grounding: established
+embodied_patterns:
+  - matching
+  - boundary
+  - balance
+  - link
+relation_types:
+  - translate
+  - enable
+  - prevent
+structure: boundary
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Shim
+summary: "A thin wedge absorbing the mismatch between two surfaces not built to fit. Minimum material for maximum alignment; stacking signals deeper problems."
 provenance: carpentry-woodworking
 related:
 - scaffolding

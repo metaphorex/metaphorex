@@ -23,6 +23,7 @@ abstraction_level: primitive
 harness: Claude Code
 kind: metaphor
 name: Anger Is Heat
+summary: "Fury is temperature. Simmer, boil, explode. The scale feels like physics because your skin actually gets hot."
 provenance: osaka-master-metaphor-list
 related:
 - affection-is-warmth

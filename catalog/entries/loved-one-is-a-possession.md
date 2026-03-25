@@ -10,6 +10,7 @@ contributors: []
 created: '2026-03-13'
 kind: metaphor
 name: Loved One Is A Possession
+summary: "Partners are property you have, lose, or fight to keep. The frame makes jealousy rational and breakups feel like theft."
 provenance: osaka-master-metaphor-list
 related:
 - love-is-a-journey

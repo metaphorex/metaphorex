@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Means of Change Is Path over Which Motion Occurs
+summary: "How you change is the route you travel. Different methods are different roads, and the terrain of the path shapes the experience of the process."
 provenance: osaka-master-metaphor-list
 related:
 - change-is-motion

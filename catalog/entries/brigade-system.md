@@ -13,6 +13,7 @@ limits:
 - '[paradigm] misleads by presenting the hierarchy as purely functional when Escoffier deliberately imported military rank to impose discipline on a workforce he considered undisciplined -- the command structure serves social control as much as operational efficiency'
 - '[paradigm] obscures the cost of specialization depth: a poissonnier who only makes fish sauces for twenty years develops extraordinary skill but no ability to cover a fallen colleague''s station, making the brigade fragile to absence'
 name: Brigade System
+summary: "Escoffier's kitchen hierarchy: specialized stations with clear interfaces, one integration pass. Structure compensates for variable talent."
 related: []
 slug: brigade-system
 source_frame: food-and-cooking

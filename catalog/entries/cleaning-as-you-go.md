@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: pattern
 name: Cleaning As You Go
+summary: "Deferred cleanup compounds nonlinearly. One dirty pan is a nuisance; five block the station. Cleaning is production, not overhead."
 related:
 - technical-debt
 slug: cleaning-as-you-go

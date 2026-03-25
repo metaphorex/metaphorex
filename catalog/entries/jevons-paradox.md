@@ -1,6 +1,7 @@
 ---
 slug: jevons-paradox
 name: "Jevons Paradox"
+summary: "Efficiency gains can increase total consumption by lowering the effective price and stimulating new demand."
 kind: mental-model
 source_frame: economics
 categories:

@@ -11,6 +11,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Skunkworks
+summary: "A small team isolated from organizational process to move fast. Maps military R&D autonomy onto software prototyping and bypassed approvals."
 related:
 - technical-debt
 slug: skunkworks

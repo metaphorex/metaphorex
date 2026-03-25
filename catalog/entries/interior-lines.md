@@ -1,6 +1,7 @@
 ---
 slug: interior-lines
-name: Interior Lines
+name: "Interior Lines"
+summary: "A central force between separated enemies can defeat each in sequence by moving along shorter interior paths before they unite."
 kind: pattern
 source_frame: military-history
 applies_to:

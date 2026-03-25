@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Faustian Bargain
+summary: "Trading something of ultimate long-term value for immediate short-term gain. The cost is deferred, disproportionate, and hidden in the terms."
 related:
 - damocles-sword
 - trojan-war

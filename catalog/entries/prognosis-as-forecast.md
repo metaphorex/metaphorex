@@ -1,6 +1,7 @@
 ---
 slug: prognosis-as-forecast
 name: Prognosis as Forecast
+summary: "Medical prediction structure borrowed for organizational and economic forecasting, importing clinical authority and conditional trajectories."
 kind: metaphor
 dead: true
 source_frame: medicine

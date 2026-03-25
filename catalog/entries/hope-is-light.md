@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Hope Is Light
+summary: "Hope as illumination in darkness, enabling navigation when circumstances are opaque. But light reveals what is there; hope projects what might be."
 provenance: osaka-master-metaphor-list
 related:
 - hope-is-a-child

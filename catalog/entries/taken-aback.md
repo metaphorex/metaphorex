@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Taken Aback
+summary: "Wind pressing sails against the mast stops a ship dead. The expression now describes mild surprise, a life-threatening event tamed."
 related:
 - loose-cannon
 slug: taken-aback

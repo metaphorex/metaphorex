@@ -12,7 +12,8 @@ limits:
   - "[model] fails because necessity is subjectively defined -- every authoritarian regime justifies emergency powers as necessary, and the model provides no independent criterion for distinguishing genuine necessity from manufactured crisis"
   - "[model] breaks because once a rule is suspended for necessity, restoring it requires political will that the suspension itself erodes -- emergency measures tend to persist long after the emergency ends, making the exception the new norm"
   - "[model] misleads because it frames rule-breaking as binary (rules apply or they don't) when most real situations involve partial compliance, proportional response, and graduated exceptions that the model cannot express"
-name: Necessity Knows No Law
+name: "Necessity Knows No Law"
+summary: "When circumstances become extreme enough, every rule system encounters its own override condition, because rules have load-bearing limits."
 provenance: brooms-legal-maxims
 related:
 - where-there-is-a-right-there-is-a-remedy

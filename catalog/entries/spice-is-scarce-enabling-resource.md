@@ -1,6 +1,7 @@
 ---
 slug: spice-is-scarce-enabling-resource
 name: Spice Is Scarce Enabling Resource
+summary: "A single-source resource so critical that controlling its supply means controlling civilization. Dependency deepens over time; withdrawal is fatal."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

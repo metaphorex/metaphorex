@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Data Is Fuel
+summary: "Data framed as extractable, finite resource consumed by an engine. Imports depletion economics onto something copyable infinitely at zero cost."
 related:
 - neural-network-is-a-brain
 - compute-is-a-resource

@@ -1,6 +1,7 @@
 ---
 slug: sunk-cost-fallacy
 name: Sunk Cost Fallacy
+summary: "Past expenditures pull on future decisions despite being irrelevant. Escalation compounds as each new commitment justifies the previous one."
 kind: mental-model
 categories:
 - economics-and-finance
