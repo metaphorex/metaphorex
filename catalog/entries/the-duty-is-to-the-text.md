@@ -13,6 +13,7 @@ limits:
 - '[model] can become a shield for avoiding creative risk, since "duty to the text" can be invoked to reject any interpretation that departs from convention, collapsing the distinction between fidelity and conservatism'
 - '[model] presupposes that ego-subordination produces better outcomes, but some domains reward strong authorial vision over faithful service -- auteur filmmaking, startup founding, and artistic movements often succeed precisely because someone imposed their vision over the material'
 name: The Duty Is to the Text
+summary: "The work has its own requirements. The practitioner's job is to discover and serve those requirements, not override them with ego."
 related: []
 slug: the-duty-is-to-the-text
 source_frame: theatrical-directing

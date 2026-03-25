@@ -16,6 +16,7 @@ limits:
 - '[source] misleads by implying that removing bureaucratic overhead is always beneficial, when some overhead -- authentication, rate limiting, contract testing, SLA enforcement -- exists because distributed services create coordination problems that monolithic services avoid'
 - '[source] assumes that small services can function independently, but software microservices depend on network calls, shared databases, and deployment pipelines that create hidden coupling, meaning the "independence" is an illusion that breaks under load or during incidents'
 name: Small Services Without Red Tape
+summary: "Small locally-run services replace bureaucratic intake with personal accountability. Maps neighborhood clinics onto microservices."
 provenance: alexander-pattern-language
 related:
 - work-community

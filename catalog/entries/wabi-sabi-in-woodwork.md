@@ -1,6 +1,7 @@
 ---
 slug: wabi-sabi-in-woodwork
 name: Wabi-Sabi in Woodwork
+summary: "Paradigm treating material aging as acquired biography rather than degradation. Durability comes from accepting change, not resisting it."
 kind: paradigm
 source_frame: carpentry
 applies_to:

@@ -10,6 +10,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Anima / Animus
+summary: "Undeveloped capacities form an autonomous inner counterpart that disrupts and enriches the dominant mode through productive tension."
 provenance: jung-aion
 related:
 - the-trickster

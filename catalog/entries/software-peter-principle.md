@@ -12,6 +12,7 @@ dead: false
 harness: Claude Code
 kind: metaphor
 name: Software Peter Principle
+summary: "Software is promoted by feature accumulation until it reaches a complexity level its architecture cannot sustain. No demotion path exists."
 related:
 - software-rot
 slug: software-peter-principle

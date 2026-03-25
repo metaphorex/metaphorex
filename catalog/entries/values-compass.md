@@ -1,6 +1,7 @@
 ---
 slug: values-compass
 name: Values Compass
+summary: "ACT metaphor mapping a compass bearing onto values: a direction you travel toward continuously but never reach as a destination."
 kind: metaphor
 source_frame: navigation
 applies_to:

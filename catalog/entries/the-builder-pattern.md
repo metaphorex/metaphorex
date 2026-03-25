@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Builder Pattern
+summary: "Imports staged construction into object creation: assemble components step by step from a blueprint, deliver only when complete."
 provenance: gang-of-four
 related:
 - the-factory-pattern

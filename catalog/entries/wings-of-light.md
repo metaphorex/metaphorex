@@ -1,6 +1,7 @@
 ---
 slug: wings-of-light
 name: Wings of Light
+summary: "Alexander pattern constraining building depth so natural light reaches every room. Width limits produce legible internal structure."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

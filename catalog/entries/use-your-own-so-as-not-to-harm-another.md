@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: paradigm
 name: Use Your Own So as Not to Harm Another
+summary: "Legal maxim bounding rights by the harm they impose on others. Targets externalities, not intentions."
 provenance: brooms-legal-maxims
 related:
 - false-in-one-thing-false-in-all

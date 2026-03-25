@@ -10,6 +10,7 @@ created: '2026-03-21'
 harness: Claude Code
 kind: metaphor
 name: Technical Decisions Are Territory
+summary: "Maps land ownership onto code ownership: teams claim sovereignty over services, enforce borders via code review, and fight turf wars."
 related:
 - influence-is-physical-force
 slug: technical-decisions-are-territory

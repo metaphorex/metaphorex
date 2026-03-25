@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Strong Emotions Are Madness
+summary: "Emotional intensity mapped onto a continuum of insanity. Frames the emotional person as having lost rational control to a temporary condition."
 provenance: osaka-master-metaphor-list
 related:
 - strong-emotion-is-blinding

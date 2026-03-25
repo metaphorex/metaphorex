@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Wise Old Man
+summary: "Appears at thresholds of confusion, delivers compressed situational guidance, then disappears. Authority derives from personal experience, not title."
 provenance: jung-archetypes-collective-unconscious
 related:
 - the-trickster

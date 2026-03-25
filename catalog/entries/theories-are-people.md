@@ -16,6 +16,7 @@ limits:
 - '[source] misleads because the genealogical frame imposes a branching tree on what
   is actually a tangled network of influences'
 name: Theories Are People
+summary: "Theories form genealogical lineages, compete for status, and pass through life stages from birth to death, mapping social structure onto ideas."
 provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings

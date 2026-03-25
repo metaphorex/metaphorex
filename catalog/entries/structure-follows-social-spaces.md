@@ -15,6 +15,7 @@ limits:
 - '[source] buildings enforce their social topology through walls and doors that cannot be cheaply moved, whereas software module boundaries can be refactored in hours, weakening the argument that structure must follow social reality rather than reshape it'
 - '[source] Alexander assumes social spaces emerge organically and that structure should adapt to them, but Conway''s Law shows the reverse also operates -- the existing code structure constrains which social groupings are possible, creating a chicken-and-egg problem the pattern does not acknowledge'
 name: Structure Follows Social Spaces
+summary: "Load-bearing walls should trace social group boundaries, not impose arbitrary ones. The normative version of Conway's Law."
 provenance: alexander-pattern-language
 related:
 - a-place-to-wait

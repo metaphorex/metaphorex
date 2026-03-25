@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Silver Bullet
+summary: "Maps werewolf folklore onto software: the quest for one solution that kills essential complexity. Brooks argues no such solution exists."
 related:
 - accidental-complexity
 - technical-debt

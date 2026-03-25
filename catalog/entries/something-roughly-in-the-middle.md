@@ -1,6 +1,7 @@
 ---
 slug: something-roughly-in-the-middle
 name: Something Roughly in the Middle
+summary: "Gathering spaces need an interactive anchor placed roughly (not exactly) at the center. Without it, activity migrates to edges."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

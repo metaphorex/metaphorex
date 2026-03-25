@@ -1,6 +1,7 @@
 ---
 slug: window-place
 name: Window Place
+summary: "Alexander pattern converting a window from a pass-through into an inhabitable zone by adding depth, seating, or an alcove."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

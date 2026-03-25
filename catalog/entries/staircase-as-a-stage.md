@@ -1,6 +1,7 @@
 ---
 slug: staircase-as-a-stage
 name: Staircase as a Stage
+summary: "An open, visible staircase makes vertical transition a social event. Connects floors visually and socially rather than sealing them apart."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

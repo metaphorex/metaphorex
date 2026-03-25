@@ -1,6 +1,7 @@
 ---
 slug: tipping-point
 name: Tipping Point
+summary: "System crosses a threshold beyond which positive feedback drives it to an alternative stable state. The approach is often invisible in output metrics."
 kind: metaphor
 source_frame: ecology
 applies_to:

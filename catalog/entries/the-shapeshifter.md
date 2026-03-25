@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: archetype
 name: The Shapeshifter
+summary: "Takes the form the situation requires, making identity context-dependent. Boundary fluidity differs structurally from the Trickster's transgression."
 provenance: jung-archetypes-collective-unconscious
 related:
 - the-trickster

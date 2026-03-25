@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Theories Are Covers for the Facts
+summary: "A cover must match the contour of what it covers. Stretching beyond designed area thins it. Gaps expose specific uncovered areas, not total failure."
 provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings

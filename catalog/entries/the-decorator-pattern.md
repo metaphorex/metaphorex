@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Decorator Pattern
+summary: "Wraps an object to add behavior without altering its class. Layers stack like coats of paint; the room beneath stays the same shape."
 provenance: gang-of-four
 related:
 - the-facade-pattern

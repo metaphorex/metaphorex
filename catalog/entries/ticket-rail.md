@@ -15,6 +15,7 @@ limits:
 - '[source] breaks because the rail''s sequencing is strict left-to-right arrival order, but real workflow priorities require reordering by urgency, dependencies, and customer value, which the spatial metaphor does not accommodate'
 - '[source] implies a single shared queue visible to all workers, while modern software and organizational work often involves multiple parallel queues, routing rules, and invisible backlogs that undermine the rail''s core virtue of making work public'
 name: Ticket Rail
+summary: "Metal strip holding order tickets maps onto work-visualization. Finite rail length frames work-in-progress limits as a physical queue property."
 related:
 - pipeline
 slug: ticket-rail

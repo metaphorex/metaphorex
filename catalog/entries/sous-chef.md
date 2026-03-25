@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by importing the kitchen''s strict vertical hierarchy into contexts where the second-in-command is expected to be a peer-collaborator rather than a subordinate executor'
 - '[source] assumes a single line of succession -- the sous chef becomes the head chef -- but organizational deputies often occupy lateral roles with no expectation of succession, making the apprenticeship framing inappropriate'
 name: Sous Chef
+summary: "The deputy who can run every station personally, translates strategic intent into operational instructions, and inspects quality at the pass."
 provenance: culinary-mise-en-place
 related:
 - mise-en-place

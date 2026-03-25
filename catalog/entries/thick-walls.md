@@ -1,6 +1,7 @@
 ---
 slug: thick-walls
 name: Thick Walls
+summary: "Boundaries thick enough to inhabit become functional zones. A window seat belongs to both sides. Boundary richness scales with boundary resources."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

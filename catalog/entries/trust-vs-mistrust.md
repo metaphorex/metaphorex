@@ -13,6 +13,7 @@ limits:
   - '[model] The stage model implies a critical period that closes, but longitudinal research shows trust orientations remain modifiable throughout life through therapy, relationships, and institutional experiences'
   - '[model] The caregiver-infant dyad model scales poorly to institutional trust, where reliability depends on structural incentives and accountability mechanisms rather than interpersonal warmth'
 name: Trust vs. Mistrust
+summary: "Erikson's first psychosocial stage frames infancy as a binary contest whose resolution becomes the foundation for all later development."
 related:
 - identity-crisis
 - zero-trust

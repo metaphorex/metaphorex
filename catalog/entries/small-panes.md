@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by importing the aesthetic warmth of cottage windows as an argument for small components, when the actual value of small software units is testability and replaceability, not visual charm'
 - '[source] implies that smaller is always better, but excessively small components create integration overhead -- a window made of hundreds of tiny panes leaks more air through its joints, just as a system of hundreds of microservices spends more time on serialization and network calls than on useful work'
 name: Small Panes
+summary: "Small glass panes are individually replaceable and contain failure locally. Maps onto small modules, small commits, small services."
 provenance: alexander-pattern-language
 related:
 - deep-reveals

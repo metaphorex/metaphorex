@@ -1,6 +1,7 @@
 ---
 slug: supreme-art-is-to-subdue-without-fighting
 name: Supreme Art Is to Subdue Without Fighting
+summary: "The highest strategic outcome makes the contest unnecessary. Victory defined by achieving the objective, not defeating the opponent."
 kind: mental-model
 source_frame: military-history
 categories:

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: TCP Handshake
+summary: "Maps social greeting ritual onto network connection: bilateral consent, three-phase exchange, and trust establishment before data flows."
 related:
 - network-socket
 - network-port

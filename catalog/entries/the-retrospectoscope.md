@@ -9,6 +9,7 @@ created: '2026-03-20'
 grounding: established
 kind: mental-model
 name: The Retrospectoscope
+summary: "Hindsight bias reified as a diagnostic device. Outcome data contaminates evaluation by restructuring how earlier evidence is weighted."
 provenance: scheins-surgical-aphorisms
 related:
 - take-your-own-pulse

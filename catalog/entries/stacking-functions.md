@@ -12,6 +12,7 @@ created: '2026-03-20'
 grounding: established
 kind: pattern
 name: Stacking Functions
+summary: "Each element serves multiple purposes, optimizing connection density over component count. Efficient at steady state, fragile under shock."
 provenance: agricultural-proverbs
 related:
 - the-problem-is-the-solution

@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Try a Different Tack
+summary: "Sailing term for changing course against the wind. Maps indirect approach onto problem-solving when the direct route is blocked."
 related:
 - fathom
 slug: try-different-tack

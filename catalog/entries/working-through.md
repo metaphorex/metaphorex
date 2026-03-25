@@ -1,6 +1,7 @@
 ---
 slug: working-through
 name: Working Through
+summary: "Freud's labor metaphor for therapeutic repetition. Knowing a stone needs shaping does not shape it; only repeated effort does."
 kind: metaphor
 source_frame: manual-labor
 applies_to:

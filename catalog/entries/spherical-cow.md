@@ -12,6 +12,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Spherical Cow
+summary: "Deliberate, announced simplification that trades model fidelity for tractability. Valid only in the regime where discarded features are negligible."
 provenance: mathematical-folklore
 related:
 - accidental-complexity

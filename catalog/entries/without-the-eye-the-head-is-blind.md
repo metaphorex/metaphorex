@@ -1,6 +1,7 @@
 ---
 slug: without-the-eye-the-head-is-blind
 name: Without the Eye the Head Is Blind
+summary: "Art pedagogy aphorism asserting that perceptual skill provides raw material that no amount of theory can generate on its own."
 kind: metaphor
 source_frame: visual-arts-practice
 applies_to:

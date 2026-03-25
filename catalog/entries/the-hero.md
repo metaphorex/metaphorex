@@ -13,6 +13,7 @@ grounding: established
 harness: Claude Code
 kind: archetype
 name: The Hero
+summary: "Departure, ordeal, return with the boon. The monomyth centers individual agency and makes shapeless experience narratively legible."
 related:
 - the-trickster
 slug: the-hero

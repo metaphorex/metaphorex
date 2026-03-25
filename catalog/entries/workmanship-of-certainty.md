@@ -15,6 +15,7 @@ limits:
 - '[paradigm] suggests that certainty and quality are inversely related, when in practice most high-reliability systems (aviation, pharmaceuticals, semiconductor fabrication) achieve quality precisely through ruthless elimination of operator-dependent variation'
 - '[paradigm] breaks in software where the "jig" (framework, linter, type system) and the "cut" (writing code) happen simultaneously and interactively, making the risk/certainty boundary impossible to locate at a single moment'
 name: Workmanship of Certainty
+summary: "Pye's category for production where judgment is front-loaded into tooling and the outcome is predetermined before execution begins."
 related:
 - workmanship-of-risk
 - measure-twice-cut-once

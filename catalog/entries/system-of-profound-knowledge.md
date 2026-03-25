@@ -11,6 +11,7 @@ created: '2026-03-18'
 grounding: established
 kind: paradigm
 name: System of Profound Knowledge
+summary: "Four integrated disciplines (systems, variation, epistemology, psychology) form one management lens. Competence in any one alone produces dysfunction."
 provenance: tps-deming
 related:
 - a-bad-system-beats-a-good-person

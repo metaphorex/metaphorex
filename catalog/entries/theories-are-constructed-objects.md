@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Theories Are Constructed Objects
+summary: "Raw materials constrain what can be built. Construction requires specialized tools. Constructed objects can be disassembled for individual inspection."
 provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings

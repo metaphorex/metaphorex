@@ -10,6 +10,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Great Mother
+summary: "Archetype of creation and containment whose nurturing and devouring aspects are structurally inseparable. What sustains also constrains."
 provenance: jung-archetypes-collective-unconscious
 related:
 - the-trickster

@@ -1,6 +1,7 @@
 ---
 slug: the-willing-suffer-no-injury
 name: The Willing Suffer No Injury
+summary: "Consent converts objective harm into a non-actionable outcome by treating voluntary participation as a shield that extinguishes duty of care."
 kind: paradigm
 applies_to:
   - ethics-and-morality

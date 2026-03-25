@@ -1,6 +1,7 @@
 ---
 slug: till-the-cows-come-home
 name: Till the Cows Come Home
+summary: "Duration governed by a process whose tempo the waiting party cannot control. The endpoint exists but its timing is practically useless for planning."
 kind: metaphor
 dead: true
 source_frame: agriculture

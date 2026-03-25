@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Words Are Weapons
+summary: "Maps ballistic projectiles and edged weapons onto speech acts. Impact produces wounds, but requires the target's interpretation to land."
 provenance: osaka-master-metaphor-list
 related:
 - argument-is-war

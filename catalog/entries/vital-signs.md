@@ -1,6 +1,7 @@
 ---
 slug: vital-signs
 name: Vital Signs
+summary: "Maps medical monitoring's radical compression onto organizational dashboards. A coarse, fast layer gates access to a precise, slow one."
 kind: metaphor
 dead: true
 source_frame: medicine

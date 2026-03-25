@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Theories Are Beings with Life Cycles
+summary: "Theories have biographical arcs: birth, growth, maturation, death. They reproduce, carrying forward core insights while adapting to new contexts."
 provenance: osaka-master-metaphor-list
 related:
 - beliefs-are-beings-with-a-life-cycle

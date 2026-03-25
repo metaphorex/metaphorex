@@ -8,6 +8,7 @@ contributors: []
 created: '2026-03-07'
 kind: archetype
 name: The Facade Pattern
+summary: "A unified front hides structural complexity. Simplification is a surface operation: it relocates complexity, it does not remove it."
 provenance: gang-of-four
 related:
 - firewall

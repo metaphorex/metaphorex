@@ -1,6 +1,7 @@
 ---
 slug: the-masters-eye-is-the-best-fertilizer
 name: "The Master's Eye Is the Best Fertilizer"
+summary: "Sustained attention from the person who bears consequences is the most important input. Presence alters the system even without commands."
 kind: mental-model
 source_frame: agriculture
 categories:

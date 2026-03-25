@@ -12,6 +12,7 @@ created: '2026-03-20'
 grounding: established
 kind: metaphor
 name: The Patient Is the One with the Disease
+summary: "The helper who merges with the helped serves neither role. Maintaining the boundary between your suffering and theirs enables sustained care."
 provenance: scheins-surgical-aphorisms
 related:
 - take-your-own-pulse

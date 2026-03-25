@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-11'
 kind: archetype
 name: The Composite Pattern
+summary: "Parts and wholes share one interface. A single brick and an entire wall both satisfy 'building element,' enabling recursive traversal."
 provenance: gang-of-four
 related:
 - the-facade-pattern

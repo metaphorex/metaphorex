@@ -10,6 +10,7 @@ created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
 name: Yin and Yang
+summary: "Two opposing forces generating a functional whole through continuous interaction. Each contains the seed of its opposite."
 related:
 - the-anima-animus
 slug: yin-and-yang

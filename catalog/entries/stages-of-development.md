@@ -12,6 +12,7 @@ grounding: contested
 harness: Claude Code
 kind: metaphor
 name: Stages of Development
+summary: "Cognitive growth as a journey through discrete, ordered waypoints. Each stage is qualitatively different, not merely further along the same road."
 provenance: child-psychology-metaphors
 related:
 - equilibration

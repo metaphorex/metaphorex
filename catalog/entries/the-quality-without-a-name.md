@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: The Quality Without a Name
+summary: "Deliberately apophatic: each near-synonym is rejected as inadequate, circling a felt quality in buildings or code that resists single-term reduction."
 provenance: alexander-pattern-language
 related:
 - software-development-is-cathedral-building

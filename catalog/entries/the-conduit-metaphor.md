@@ -12,6 +12,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: The Conduit Metaphor
+summary: "Three interlocking mappings: ideas are objects, words are containers, communication is sending. The default model for how language works."
 provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-food

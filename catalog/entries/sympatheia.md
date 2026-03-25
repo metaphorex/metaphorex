@@ -1,6 +1,7 @@
 ---
 slug: sympatheia
 name: Sympatheia
+summary: "Stoic doctrine that all parts of the cosmos are connected through mutual influence. Local actions produce non-local effects via hidden connections."
 kind: mental-model
 source_frame: philosophy
 categories:

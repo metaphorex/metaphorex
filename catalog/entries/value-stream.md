@@ -1,6 +1,7 @@
 ---
 slug: value-stream
 name: Value Stream
+summary: "Maps fluid dynamics onto manufacturing flow, making terrain (organizational structure) the object of analysis rather than the water (product)."
 kind: metaphor
 source_frame: fluid-dynamics
 applies_to:

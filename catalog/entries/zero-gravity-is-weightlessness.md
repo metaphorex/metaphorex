@@ -10,6 +10,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Zero Gravity Is Weightlessness
+summary: "Maps the visual appearance of orbital freefall onto the concept of absent gravity. Gravity is never actually zero in orbit."
 related: []
 slug: zero-gravity-is-weightlessness
 source_frame: science-fiction

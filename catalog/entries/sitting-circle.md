@@ -1,6 +1,7 @@
 ---
 slug: sitting-circle
 name: Sitting Circle
+summary: "Circular seating gives every participant equal sightlines and removes positional authority. Fails above 8-10 people; cannot scale."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

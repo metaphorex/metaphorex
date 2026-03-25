@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-13'
 kind: archetype
 name: The Senex
+summary: "Old-king archetype whose authority comes from endurance. Institutional memory enables pattern recognition but imprisons through pattern projection."
 provenance: jung-archetypes-collective-unconscious
 related:
 - the-trickster

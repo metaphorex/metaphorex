@@ -12,6 +12,7 @@ created: '2026-03-19'
 harness: Claude Code
 kind: metaphor
 name: Status Transactions
+summary: "Status is performed through micro-behaviors (posture, eye contact, speech rhythm), exchanged in every interaction like a currency, not held like rank."
 related:
 - the-persona
 slug: status-transactions

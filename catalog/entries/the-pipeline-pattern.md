@@ -11,6 +11,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Pipeline Pattern
+summary: "Data flows through connected stages, each processing independently. Backpressure builds when a downstream stage is slower than upstream."
 related:
 - data-flow-is-fluid-flow
 - bottleneck

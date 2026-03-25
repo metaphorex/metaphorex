@@ -13,6 +13,7 @@ grounding: established
 harness: Claude Code
 kind: archetype
 name: The Divine Child
+summary: "Archetype of pure potential: simultaneously abandoned and invincible. Vulnerability and latent power are structurally fused, not opposed."
 related:
 - the-hero
 - the-trickster

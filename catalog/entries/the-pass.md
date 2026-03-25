@@ -1,6 +1,7 @@
 ---
 slug: the-pass
 name: The Pass
+summary: "The kitchen boundary where internal chaos becomes composed output. The expeditor inspects every plate before the customer sees it."
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

@@ -16,6 +16,7 @@ limits:
 - '[source] implies a single harvest follows a single sowing in a closed cycle, but real consequences compound, interact with other actors'' choices, and arrive on timescales that make attribution impossible'
 - '[source] assumes the sower and the reaper are the same person, obscuring cases where consequences fall on successors, dependents, or bystanders who had no part in the original action'
 name: You Reap What You Sow
+summary: "Maps the deterministic seed-to-crop relationship onto moral causation. Consequences are delayed but inevitable."
 related:
 - karma
 - sowing-seeds

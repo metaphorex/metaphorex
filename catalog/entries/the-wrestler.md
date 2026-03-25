@@ -1,6 +1,7 @@
 ---
 slug: the-wrestler
 name: The Wrestler
+summary: "Readiness distributed across all directions because the next move is unknown. Success depends on reactive adaptation, not pre-planned sequence."
 kind: metaphor
 source_frame: athletics-and-combat
 applies_to:

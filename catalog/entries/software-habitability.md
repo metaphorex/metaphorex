@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Software Habitability
+summary: "Code quality measured by whether maintainers can comfortably read, navigate, and modify it over time. The farmhouse, not the monument."
 provenance: alexander-pattern-language
 related:
 - software-development-is-cathedral-building

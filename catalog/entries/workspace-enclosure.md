@@ -14,6 +14,7 @@ limits:
 - '[source] misleads by framing openness as the default failure state, when some work genuinely benefits from ambient awareness and spontaneous interaction that full enclosure eliminates'
 - '[source] obscures the status dimension: in most organizations, enclosure is allocated by rank rather than by the nature of the work, so the pattern''s functional argument gets overridden by hierarchical signaling'
 name: Workspace Enclosure
+summary: "Alexander pattern requiring partial boundaries so a workspace feels like a territory to inhabit rather than a corridor to pass through."
 related:
 - a-room-of-ones-own
 - a-place-to-wait

@@ -1,6 +1,7 @@
 ---
 slug: surgical-precision
 name: Surgical Precision
+summary: "Targeted intervention with exact knowledge of boundaries between what to remove and what to spare. The metaphor idealizes its own source domain."
 kind: metaphor
 dead: true
 source_frame: medicine

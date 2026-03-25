@@ -11,6 +11,7 @@ limits:
 - '[model] breaks when taken to its extreme as corrosive nihilism: ''all models are wrong'' does not mean all models are equally wrong, and incompleteness is not a license to treat frameworks as interchangeable'
 - '[model] misleads when weaponized as ''that''s just a model'' to dismiss any inconvenient framework -- climate models are incomplete but this does not make them useless'
 name: The Map Is Not the Territory
+summary: "Every representation omits by design. A 1:1 map is the territory again, useless. The question is 'what is it for?' not 'is it true?'"
 related: []
 slug: the-map-is-not-the-territory
 source_frame: cartography

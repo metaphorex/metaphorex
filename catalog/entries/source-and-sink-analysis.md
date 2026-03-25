@@ -14,6 +14,7 @@ limits:
   - "[paradigm] frames contamination as binary (tainted or clean), but real data undergoes partial sanitization, transformation, and re-combination that makes the clean/dirty boundary a spectrum rather than a line"
   - "[paradigm] implies that mapping all sources and sinks is a completable task, but in systems with dynamic code generation or plugin architectures the set of sinks is unbounded"
 name: Source and Sink Analysis
+summary: "Track untrusted data from entry points (sources) to dangerous operations (sinks). Security as fluid-dynamics: control endpoints, not the medium."
 related:
 - attack-surface
 - lethal-trifecta

@@ -13,6 +13,7 @@ limits:
   - "[model] misleads because it assumes a binary between remedied and unremedied rights, when in practice remedies exist on a spectrum from fully effective to purely symbolic, and the model cannot distinguish a toothless ombudsman from a court with enforcement power"
   - "[model] breaks in contexts where the remedy itself creates new harms -- mandatory minimum sentencing provides a remedy for crime but generates mass incarceration, and aggressive IP enforcement remedies infringement but chills legitimate fair use"
 name: Where There Is a Right, There Is a Remedy
+summary: "Legal maxim predicting that rights without enforcement mechanisms erode over time. Pairs every obligation with a feedback loop."
 provenance: brooms-legal-maxims
 related:
 - let-the-master-answer

@@ -1,6 +1,7 @@
 ---
 slug: unwelcome-party-guest
 name: Unwelcome Party Guest
+summary: "ACT metaphor where fighting an uninvited emotion disrupts functioning more than tolerating its presence alongside valued action."
 kind: metaphor
 source_frame: social-dynamics
 applies_to:
