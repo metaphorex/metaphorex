@@ -1,6 +1,7 @@
 ---
 slug: mortise-and-tenon
 name: Mortise and Tenon
+summary: "Joint strength from geometric interlocking of complementary shapes, not from external fasteners."
 kind: metaphor
 source_frame: carpentry
 applies_to:

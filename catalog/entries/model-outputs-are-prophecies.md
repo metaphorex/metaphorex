@@ -10,6 +10,7 @@ created: '2026-03-21'
 harness: Claude Code
 kind: metaphor
 name: Model Outputs Are Prophecies
+summary: "Predictions framed as revelations from a system with privileged access to hidden truth."
 related:
 - ai-is-an-oracle
 - ai-hallucination-is-perception-disorder

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Network Port
+summary: "Numbered, specialized docking points where data is checked and routed, openable or closable by policy."
 related:
 - network-socket
 - tcp-handshake

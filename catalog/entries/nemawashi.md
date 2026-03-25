@@ -15,6 +15,7 @@ limits:
   - "[source] root preparation preserves the whole tree, but organizational consensus-building often requires pruning the proposal itself -- stakeholders don't just need preparation, they reshape what is being transplanted"
   - "[source] the horticultural process has a clear endpoint (the tree is ready to move), but organizational nemawashi can become an indefinite process that delays decisions under the guise of building consensus"
 name: Nemawashi
+summary: "Root preparation before transplanting; informal groundwork proportional to the size of the change."
 related:
 - hoshin-kanri
 - yokoten

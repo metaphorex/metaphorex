@@ -1,6 +1,7 @@
 ---
 slug: law-of-leaky-abstractions
-name: Law of Leaky Abstractions
+name: "Law of Leaky Abstractions"
+summary: "All non-trivial abstractions leak; debugging the leak requires knowing the layer below."
 kind: mental-model
 source_frame: containers
 categories:

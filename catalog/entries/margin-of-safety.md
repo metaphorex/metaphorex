@@ -11,6 +11,7 @@ limits:
 - '[model] breaks because in engineering safety factors are precise ratios, but in investing both the expected load (intrinsic value) and the margin are estimates layered on estimates'
 - '[model] misleads by suggesting permanence, but investment margins erode dynamically as businesses deteriorate, competitors emerge, and economies shift -- unlike a static structural factor'
 name: Margin of Safety
+summary: "Build capacity beyond what you expect to need. Estimates are wrong; the buffer between estimate and design compensates."
 provenance: munger-poor-charlies-almanack
 related:
 - inversion

@@ -1,6 +1,7 @@
 ---
 slug: ooda-loop
 name: OODA Loop
+summary: "Decisions repeat as Observe-Orient-Decide-Act cycles; the agent who completes cycles faster forces opponents to react to obsolete information."
 kind: mental-model
 source_frame: military-command
 categories:

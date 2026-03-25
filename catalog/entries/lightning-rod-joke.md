@@ -15,7 +15,8 @@ limits:
   - '[source] The decoy must be conspicuous enough to attract scrutiny but not so offensive that it poisons the reviewer''s disposition toward the entire work -- calibrating this threshold is the pattern''s core difficulty and is learned only through repeated failure'
   - '[source] Repeated use against the same reviewer trains them to look past the obvious sacrifice, collapsing the pattern into a tell rather than a tactic'
   - '[source] The pattern assumes reviewers have a fixed budget of objections they need to spend; in practice some reviewers are additive rather than substitutive -- they will flag the decoy AND the elements you wanted to protect'
-name: Lightning Rod Joke
+name: "Lightning Rod Joke"
+summary: "Insert an obviously objectionable element so the reviewer spends their critical energy there."
 related:
 - decoy-effect
 - anchoring

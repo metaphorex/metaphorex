@@ -1,6 +1,7 @@
 ---
 slug: ninetynine-percent-done
 name: Ninety-Nine Percent Done
+summary: "Progress reporting conflates proportional completion with proportional effort; the last 10% routinely holds half the work."
 kind: mental-model
 source_frame: mathematical-estimation
 categories:

@@ -13,6 +13,7 @@ limits:
   - '[model] implies a binary developmental achievement (the child either has it or does not), but violation-of-expectation studies show graded competence: infants demonstrate implicit knowledge of persistence months before they can act on it in search tasks, fragmenting the concept into perception-based and action-based variants'
   - '[model] assumes that believing in persistence is always adaptive, but in digital environments where data is mutable, permissions change, and services deprecate, assuming persistence produces overconfidence — the object may genuinely not be there when you look'
 name: Object Permanence
+summary: "The cognitive achievement of representing things that are not currently perceived, foundational to planning and abstract thought."
 related:
 - internal-working-model
 - separation-anxiety

@@ -1,6 +1,7 @@
 ---
 slug: kanban
-name: Kanban
+name: "Kanban"
+summary: "Physical tokens with strict quantity limits make work-in-progress visible and pull-based."
 kind: paradigm
 source_frame: manufacturing
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: kill-your-darlings
-name: Kill Your Darlings
+name: "Kill Your Darlings"
+summary: "The parts you love most are likeliest to serve your ego rather than the work's purpose."
 kind: mental-model
 categories:
   - arts-and-culture

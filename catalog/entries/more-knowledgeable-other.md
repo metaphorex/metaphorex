@@ -9,6 +9,7 @@ grounding: established
 harness: Claude Code
 kind: mental-model
 name: More Knowledgeable Other
+summary: "Expertise defined by position relative to a specific learner on a specific task, not by credentials or role."
 provenance: child-psychology-metaphors
 related:
 - zone-of-proximal-development

@@ -13,6 +13,7 @@ limits:
 - '[model] implies that errors are caused by insufficient verification, but many irreversible failures result from measuring the wrong thing precisely -- the carpenter who measures board length twice but neglects to check grain direction still ruins the piece'
 - '[model] encodes a linear workflow (verify then execute) that breaks in iterative domains where the cut itself provides information needed for the next measurement, making rapid prototyping more efficient than exhaustive upfront verification'
 name: Measure Twice, Cut Once
+summary: "Verify before acting when the action is irreversible. The cost of checking is trivial; the cost of correcting is not."
 related:
 - workmanship-of-risk
 - workmanship-of-certainty

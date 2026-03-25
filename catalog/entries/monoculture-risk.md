@@ -1,6 +1,7 @@
 ---
 slug: monoculture-risk
 name: Monoculture Risk
+summary: "Homogeneous systems optimize for stable conditions but create correlated failure when the one undefended threat arrives."
 kind: mental-model
 source_frame: agriculture
 categories:

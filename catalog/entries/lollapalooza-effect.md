@@ -11,6 +11,7 @@ limits:
 - '[model] breaks because any extreme outcome can be retroactively attributed to converging factors, making it an unfalsifiable post-hoc narrative rather than a predictive tool'
 - '[model] misleads because the physics analogy (wave superposition) is mathematically precise, while cognitive biases have no known amplitudes, frequencies, or combination rules'
 name: Lollapalooza Effect
+summary: "When multiple cognitive biases align, their combined effect is multiplicative. No single bias explains the extreme outcome."
 provenance: munger-poor-charlies-almanack
 related:
 - incentive-caused-bias

@@ -9,7 +9,8 @@ kind: mental-model
 limits:
 - '[model] breaks because physical levers are predictable (force multiplication is deterministic), while business leverage is uncertain, context-dependent, and can evaporate without warning'
 - '[model] misleads by drawing attention to the amplification while obscuring the massive upfront investment required to build the fulcrum (the brand, network, or regulatory moat) that enables it'
-name: Leverage
+name: "Leverage"
+summary: "Small input, amplified output; but the amplification is symmetric and magnifies losses too."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

@@ -1,6 +1,7 @@
 ---
 slug: network-of-learning
 name: Network of Learning
+summary: "Distributed small facilities connected by many paths serve more people than a single large institution."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

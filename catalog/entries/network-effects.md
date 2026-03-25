@@ -10,6 +10,7 @@ limits:
 - '[law] breaks because most nodes only care about a small subset of the network -- the billionth user in a distant country adds negligible value, making n-squared dramatically overstate actual value creation'
 - '[law] misleads by conflating true network effects (demand-side scale) with scale economies, brand recognition, or switching costs, which are different mechanisms with different strategic implications'
 name: Network Effects
+summary: "Each new participant creates value for every existing one, producing self-sustaining growth above a critical mass."
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

@@ -15,6 +15,7 @@ limits:
 - '[source] implies fidelity is a single axis from sketch to perfect replica, but real models trade off along many independent dimensions (spatial resolution, temporal granularity, parameter count) that cannot be collapsed into a single "zoom level"'
 - '[source] breaks when applied to simulations that must be high-fidelity to be safe -- nuclear reactor models or aircraft stress tests -- where "just simplify" is not an option and the Borges parable offers no guidance on where irreducible complexity begins'
 name: Map-Territory Problem
+summary: "A 1:1 map covers the territory it represents. The drive toward perfect model fidelity is itself a pathology."
 related:
 - the-map-is-not-the-territory
 - incompleteness

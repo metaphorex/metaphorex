@@ -12,6 +12,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Love Is a Patient
+summary: "The relationship itself is the patient. It can be healthy, sick, diagnosed, treated, or terminal."
 provenance: lakoff-johnson-mwlb
 related:
 - love-is-a-journey

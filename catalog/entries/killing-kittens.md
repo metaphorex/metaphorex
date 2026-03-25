@@ -15,7 +15,8 @@ limits:
   - '[source] Kittens are helpless and innocent, implying the material being cut has no agency or context -- but beloved material often serves real structural functions (character development, thematic foreshadowing) that the metaphor''s framing as sentimentality obscures'
   - '[source] The metaphor frames attachment to one''s work as a weakness to overcome, but attachment can be a reliable signal that material is working -- experienced writers who "kill kittens" indiscriminately sometimes remove the best parts of their work'
   - '[source] The violence of the image makes cutting feel heroic, creating a performative ruthlessness where writers compete to demonstrate editorial detachment rather than exercising actual editorial judgment'
-name: Killing Kittens
+name: "Killing Kittens"
+summary: "Comedy-craft variant of 'kill your darlings': beloved material breeds if you spare it."
 related:
 - kill-your-darlings
 - sunk-cost-fallacy

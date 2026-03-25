@@ -15,6 +15,7 @@ limits:
 - '[source] misleads by implying that there is one natural place for each interface point, when software usage patterns are diverse and contradictory -- power users want keyboard shortcuts where beginners want wizard dialogs, and no single placement satisfies both'
 - '[source] assumes that the room (module) is designed before the openings (interfaces), but in software the interface is often designed first and the implementation built behind it, reversing the architectural sequence entirely'
 name: Natural Doors and Windows
+summary: "Entry points placed where movement naturally wants to occur, not where the builder finds it convenient."
 provenance: alexander-pattern-language
 related:
 - a-place-to-wait

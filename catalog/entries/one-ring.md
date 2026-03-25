@@ -1,6 +1,7 @@
 ---
 slug: one-ring
 name: The One Ring
+summary: "Some forms of power are so centralizing they corrupt every bearer regardless of intent, and the only safe response is to destroy the capability."
 kind: metaphor
 source_frame: mythology
 applies_to:

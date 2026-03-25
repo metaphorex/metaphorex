@@ -13,6 +13,7 @@ limits:
   - '[source] misleads by implying the pun was placed deliberately during construction, when in comedy writing load-bearing puns are often discovered during revision -- the structure grew around the word rather than being designed atop it'
   - '[source] assumes removal causes collapse, but skilled writers can sometimes replace a load-bearing pun with a different structural element (a running gag, a character trait) that redistributes the load'
 name: Load-Bearing Pun
+summary: "Some puns are decorative; others hold the whole scene together. Remove a load-bearing one and the comedy collapses."
 related:
 - scaffolding
 - single-point-of-failure

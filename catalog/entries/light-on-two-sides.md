@@ -10,7 +10,8 @@ contributors:
 created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
-name: Light on Two Sides
+name: "Light on Two Sides"
+summary: "A room lit from one direction feels dead; a problem examined from one perspective is flat."
 provenance: alexander-pattern-language
 related:
 - creative-process-is-construction

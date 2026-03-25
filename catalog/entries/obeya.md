@@ -9,6 +9,7 @@ grounding: established
 harness: Claude Code
 kind: mental-model
 name: Obeya
+summary: "A dedicated room where cross-functional teams gather around visual displays of project state, converting information retrieval into ambient awareness."
 related:
 - hansei
 - kaizen

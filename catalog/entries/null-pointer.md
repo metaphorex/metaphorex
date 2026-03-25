@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Null Pointer
+summary: "Absence encoded as a special kind of presence: a pointer that deliberately points nowhere, giving nothing a body in the type system."
 related:
 - c-pointer
 slug: null-pointer

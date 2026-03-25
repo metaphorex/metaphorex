@@ -1,6 +1,7 @@
 ---
 slug: necromancy
 name: Necromancy
+summary: "Dead systems reanimated retain their form but lose the understanding that originally guided them."
 kind: metaphor
 source_frame: mythology
 applies_to:

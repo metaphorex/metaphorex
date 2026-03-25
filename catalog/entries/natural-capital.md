@@ -1,6 +1,7 @@
 ---
 slug: natural-capital
 name: Natural Capital
+summary: "Ecosystem services reframed as returns on a capital stock, making environmental degradation legible as asset depletion."
 kind: paradigm
 source_frame: ecology
 applies_to:

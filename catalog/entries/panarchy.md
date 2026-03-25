@@ -16,6 +16,7 @@ limits:
   - '[paradigm] the framework assumes that slower, larger scales are more conservative and faster, smaller scales are more innovative, but political and economic systems often violate this -- a single federal regulation can be more disruptive than any local experiment'
   - '[paradigm] the nested-hierarchy framing implies that scales are discrete and identifiable, but in practice the boundaries between scales are arbitrary and analyst-dependent'
 name: Panarchy
+summary: "Nested adaptive cycles at different scales interact through revolt (small collapse cascades up) and remember (large system shapes renewal below)."
 related:
 - adaptive-cycle
 - balance-of-nature

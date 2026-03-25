@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: paradigm
 name: Mise en Place
+summary: "Everything prepared, measured, and positioned before work begins. Preparation is the work; execution merely reveals it."
 provenance: culinary-mise-en-place
 related:
 - five-s

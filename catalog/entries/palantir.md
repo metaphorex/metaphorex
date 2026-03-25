@@ -1,6 +1,7 @@
 ---
 slug: palantir
 name: Palantir
+summary: "Tolkien's seeing-stone shows distant events but the viewer is also seen, and a stronger will on the other end controls what is revealed."
 kind: metaphor
 source_frame: mythology
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: mind-as-a-radio
 name: Mind as a Radio
+summary: "The mind broadcasts thoughts continuously. You cannot turn it off, but you can lower the volume and stop obeying it."
 kind: metaphor
 source_frame: broadcasting
 applies_to:

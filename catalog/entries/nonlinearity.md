@@ -10,6 +10,7 @@ limits:
 - '[model] breaks because calling everything nonlinear makes the concept unfalsifiable -- if every surprising outcome is attributed to nonlinearity, it explains everything and predicts nothing'
 - '[model] misleads by implying that linear models are always wrong, when most systems behave linearly within their normal operating range and nonlinear effects matter only at the extremes'
 name: Nonlinearity
+summary: "Doubling the input may quadruple the output or trigger a phase change; human intuition defaults to linear extrapolation."
 provenance: munger-poor-charlies-almanack
 related:
 - critical-mass

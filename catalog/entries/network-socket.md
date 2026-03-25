@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Network Socket
+summary: "Fixed receptacle accepts any conforming plug without knowing what device is attached."
 related:
 - network-port
 - tcp-handshake

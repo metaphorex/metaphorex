@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Lustful Person Is an Activated Machine
+summary: "Sexual desire is a machine switching on. The person goes from idle to operational, from off to running."
 provenance: osaka-master-metaphor-list
 related:
 - people-are-machines

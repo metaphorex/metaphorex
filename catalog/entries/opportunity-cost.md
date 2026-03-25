@@ -11,6 +11,7 @@ limits:
 - '[model] breaks because the best alternative is usually unknowable -- you cannot observe the counterfactual career, investment, or relationship that never happened'
 - '[model] misleads when applied to rest and leisure, framing every idle moment as costly and producing the pathology of treating all time as an investment vehicle'
 name: Opportunity Cost
+summary: "The cost of any choice is the value of the best alternative forgone, forcing every decision to be evaluated against what else you could do."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

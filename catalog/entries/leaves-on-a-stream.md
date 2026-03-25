@@ -1,6 +1,7 @@
 ---
 slug: leaves-on-a-stream
-name: Leaves on a Stream
+name: "Leaves on a Stream"
+summary: "Place each thought on a leaf and watch it float away; the stream does the work of letting go."
 kind: metaphor
 source_frame: natural-phenomena
 applies_to:

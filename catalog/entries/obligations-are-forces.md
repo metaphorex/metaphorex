@@ -13,6 +13,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Obligations Are Forces
+summary: "Duty pushes, responsibility weighs, and commitments bind. The embodied experience of physical force structures how we reason about obligation."
 provenance: lakoff-johnson-mwlb
 related:
 - causes-are-forces

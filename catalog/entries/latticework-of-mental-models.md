@@ -10,7 +10,8 @@ kind: mental-model
 limits:
 - '[model] breaks because lattices are static structures built once, while real mental models need constant revision as new evidence changes both beliefs and their interrelationships'
 - '[model] misleads by making breadth of model collection feel like wisdom, when Munger himself had deep expertise in a few disciplines rather than shallow acquaintance with dozens'
-name: Latticework of Mental Models
+name: "Latticework of Mental Models"
+summary: "Individual models are useless alone; woven across disciplines they become load-bearing."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

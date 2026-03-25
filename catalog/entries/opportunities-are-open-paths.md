@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Opportunities Are Open Paths
+summary: "Options are unobstructed routes; closed doors are foreclosed futures. The path frame imports irreversibility at each fork."
 provenance: osaka-master-metaphor-list
 related:
 - opportunities-are-objects

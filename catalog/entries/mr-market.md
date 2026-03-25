@@ -11,6 +11,7 @@ limits:
 - '[model] breaks because markets are emergent phenomena produced by millions of independent actors, not a single emotional agent -- the personification obscures the mechanism of shifting supply and demand'
 - '[model] misleads by encouraging confidence in your own valuation, but if your estimate of intrinsic value is wrong, Mr. Market''s ''crazy'' price might be more accurate than your sober analysis'
 name: Mr. Market
+summary: "Market prices reframed as moods of an unstable neighbor whose offers you can politely ignore."
 provenance: munger-poor-charlies-almanack
 related:
 - incentive-caused-bias
