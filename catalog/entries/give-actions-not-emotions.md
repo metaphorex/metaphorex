@@ -1,6 +1,7 @@
 ---
 slug: give-actions-not-emotions
 name: Give Actions, Not Emotions
+summary: "Tell the actor to slam the book, not to be angry. Authentic feeling emerges from committed physical action, not from self-induced mood."
 kind: mental-model
 source_frame: theatrical-directing
 categories:

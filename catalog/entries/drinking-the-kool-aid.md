@@ -11,6 +11,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Drinking the Kool-Aid
+summary: "Uncritical group adoption driven by social pressure, borrowed from the Jonestown massacre. The darkest origin story in developer culture."
 related: []
 slug: drinking-the-kool-aid
 source_frame: social-behavior

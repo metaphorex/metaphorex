@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Adapter Pattern
+summary: "Wrap an incompatible interface in a thin translation layer. The adapter changes shape, not substance."
 provenance: gang-of-four
 related:
 - the-facade-pattern

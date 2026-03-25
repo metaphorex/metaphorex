@@ -10,7 +10,8 @@ kind: mental-model
 limits:
 - '[model] breaks because specialization works -- deep experts in narrow domains regularly outperform generalists with broad but shallow model repertoires'
 - '[model] misleads by implying that seeing nails everywhere is always a distortion, when sometimes the hammer is the right tool and the problem genuinely is what the specialist says it is'
-name: Man with a Hammer
+name: "Man with a Hammer"
+summary: "A single analytical framework distorts perception, making every problem look like the kind the framework solves."
 provenance: munger-poor-charlies-almanack
 related:
 - golden-hammer

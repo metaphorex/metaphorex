@@ -12,6 +12,7 @@ limits:
   - '[paradigm] misleads by suggesting that self-reference is always pathological, when many self-referential systems (constitutions that define their own amendment process, compilers that compile themselves) function without paradox because they separate levels of operation'
   - '[paradigm] overpredicts failure: most self-classifying systems in practice (a library catalog that catalogs itself, a database table that lists all tables) work fine because they do not attempt to define membership by exclusion from themselves'
 name: "Russell's Paradox"
+summary: "A set defined as 'all sets not containing themselves' can neither contain nor exclude itself, breaking naive self-referential classification."
 related:
 - strange-loop
 - ouroboros

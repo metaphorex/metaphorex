@@ -15,6 +15,7 @@ limits:
 - '[paradigm] misleads by implying that every existence claim can be settled by building a witness, when many important results (e.g., probabilistic existence proofs, proofs via the axiom of choice) establish existence without any constructible example'
 - '[paradigm] obscures the cost asymmetry: in mathematics, a construction is the proof and the artifact simultaneously, while in engineering, the prototype is an additional expense on top of the design argument'
 name: Proof by Construction
+summary: "Prove something is possible by producing a concrete instance, not by arguing no contradiction arises."
 related:
 - spike
 - prototype

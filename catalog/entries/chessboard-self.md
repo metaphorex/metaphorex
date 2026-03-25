@@ -1,6 +1,7 @@
 ---
 slug: chessboard-self
 name: Chessboard Self
+summary: "You are not the chess pieces fighting each other. You are the board that holds all of them without being damaged by the game."
 kind: metaphor
 source_frame: puzzles-and-games
 applies_to:

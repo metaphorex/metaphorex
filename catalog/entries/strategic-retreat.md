@@ -1,6 +1,7 @@
 ---
 slug: strategic-retreat
 name: Strategic Retreat
+summary: "Deliberate withdrawal to a pre-selected position, preserving the force intact rather than losing it in an untenable fight."
 kind: metaphor
 source_frame: military-history
 applies_to:

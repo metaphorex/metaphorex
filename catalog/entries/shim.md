@@ -8,6 +8,17 @@ categories:
 contributors: []
 created: '2026-03-21'
 grounding: established
+embodied_patterns:
+  - matching
+  - boundary
+  - balance
+  - link
+relation_types:
+  - translate
+  - enable
+  - prevent
+structure: boundary
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Shim

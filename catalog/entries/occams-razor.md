@@ -10,7 +10,8 @@ kind: mental-model
 limits:
 - '[model] breaks because ''simplicity'' is ambiguous -- fewer variables, fewer parameters, and fewer entity types are different measures that can rank the same explanations differently'
 - '[model] misleads when weaponized against nuance, shutting down discussion of complex phenomena (inequality, institutional failures) that genuinely resist monocausal explanation'
-name: Occam's Razor
+name: "Occam's Razor"
+summary: "Among competing explanations that account for the same evidence, prefer the one with fewest assumptions, because each assumption is a failure point."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

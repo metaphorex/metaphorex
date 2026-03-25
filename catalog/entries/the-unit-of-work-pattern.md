@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Unit of Work Pattern
+summary: "Track all changes made during a business transaction and coordinate writing them out as a single atomic commit or rollback."
 provenance: fowler-peaa
 related:
 - the-factory-pattern

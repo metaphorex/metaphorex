@@ -8,6 +8,7 @@ created: '2026-03-16'
 harness: Claude Code
 kind: mental-model
 name: The Law Does Not Concern Itself with Trifles
+summary: "Any system with finite capacity must set a threshold below which it refuses to act, or the trivial overwhelms the significant."
 related: []
 slug: the-law-does-not-concern-itself-with-trifles
 source_frame: governance

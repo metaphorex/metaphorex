@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-17'
 harness: Claude Code
 kind: mental-model
-name: Idols of the Marketplace
+name: "Idols of the Marketplace"
+summary: "Bacon's term for cognitive distortions caused by language itself, where imprecise shared vocabulary forces thought into false categories."
 related:
 - idols-of-the-tribe
 - idols-of-the-cave

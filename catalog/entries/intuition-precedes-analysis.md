@@ -6,6 +6,17 @@ categories:
 contributors: []
 created: '2026-03-21'
 grounding: established
+embodied_patterns:
+  - path
+  - surface-depth
+  - blockage
+  - container
+relation_types:
+  - prevent
+  - enable
+  - transform/reframing
+structure: pipeline
+abstraction_level: generic
 harness: Claude Code
 kind: mental-model
 name: "Intuition Precedes Analysis"

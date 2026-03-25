@@ -15,6 +15,7 @@ limits:
 - "[source] imports the social assumption that paranoia is a stable disposition, obscuring the operational reality that verification has costs and organizations must make pragmatic decisions about where to invest verification effort"
 - "[source] suggests that eliminating trust eliminates risk, but every verification mechanism itself requires trust in something (the identity provider, the certificate authority, the hardware), creating an infinite regress the metaphor does not acknowledge"
 name: Zero Trust
+summary: "Verify every access request regardless of origin; location inside a perimeter does not confer trust."
 related:
 - firewall
 - defense-in-depth

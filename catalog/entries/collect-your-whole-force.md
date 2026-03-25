@@ -1,6 +1,7 @@
 ---
 slug: collect-your-whole-force
 name: Collect Your Whole Force
+summary: "Once you decide to engage, commit everything. Two half-strength forces achieve less than one full-strength force at the decisive point."
 kind: mental-model
 source_frame: military-history
 categories:

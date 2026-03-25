@@ -1,6 +1,7 @@
 ---
 slug: never-let-the-sun-set-on-undrained-pus
-name: Never Let the Sun Set on Undrained Pus
+name: "Never Let the Sun Set on Undrained Pus"
+summary: "Contained infections worsen until drained; the intervention is exposure and release, not indirect treatment, and delay risks systemic crisis."
 kind: metaphor
 source_frame: medicine
 applies_to:

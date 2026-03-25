@@ -1,6 +1,7 @@
 ---
 slug: hands-as-thoughts
 name: Hands as Thoughts
+summary: "Holding hands over your face blocks vision; lowering them restores it. ACT uses this to teach defusion from thoughts."
 kind: metaphor
 source_frame: embodied-experience
 applies_to:

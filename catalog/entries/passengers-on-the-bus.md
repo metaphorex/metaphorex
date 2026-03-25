@@ -1,6 +1,7 @@
 ---
 slug: passengers-on-the-bus
-name: Passengers on the Bus
+name: "Passengers on the Bus"
+summary: "ACT metaphor: you are the bus driver, your thoughts are rowdy passengers. You can drive toward your values without ejecting them first."
 kind: metaphor
 source_frame: transportation
 applies_to:

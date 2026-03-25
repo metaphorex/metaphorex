@@ -27,6 +27,17 @@ transfers:
 - '[source] maps the bazaar''s many independent vendors and iterative haggling onto open-source development, framing distributed contribution as a market where quality emerges from competition rather than planning'
 - '[source] imports the cathedral''s sacred interior -- hidden from the public until consecration -- to frame the closed beta and big-bang release cycle as a ritual unveiling'
 updated: '2026-03-19'
+embodied_patterns:
+  - container
+  - center-periphery
+  - part-whole
+  - surface-depth
+relation_types:
+  - compete
+  - select
+  - coordinate
+structure: competition
+abstraction_level: generic
 ---
 
 ## Transfers

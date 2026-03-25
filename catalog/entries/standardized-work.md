@@ -13,6 +13,7 @@ limits:
   - "[model] in the original manufacturing context, variation is visible and measurable -- in knowledge work, variation hides inside cognitive processes that resist documentation"
   - "[model] the feedback loop between standard and improvement assumes workers have authority to update the standard, which many organizations grant in theory but deny in practice"
 name: Standardized Work
+summary: "Document the current best-known way to do a task so deviation becomes visible and improvement becomes measurable."
 related:
 - five-whys
 slug: standardized-work

@@ -1,6 +1,7 @@
 ---
 slug: knowing-when-not-to-operate
-name: Knowing When Not to Operate
+name: "Knowing When Not to Operate"
+summary: "The mark of the master surgeon is not technical skill but the judgment to keep the patient out of the operating room."
 kind: metaphor
 source_frame: medicine
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: treat-the-patient-not-the-test
 name: Treat the Patient, Not the Test
+summary: "Optimize for the underlying reality, not the metric that represents it; maintain direct contact with what the measurement abstracts."
 kind: mental-model
 source_frame: medicine
 categories:

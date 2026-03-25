@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-17'
 harness: Claude Code
 kind: mental-model
-name: Idols of the Tribe
+name: "Idols of the Tribe"
+summary: "Bacon's term for species-wide cognitive distortions built into the human mind, anticipating modern bias research by 350 years."
 related:
 - idols-of-the-cave
 - idols-of-the-marketplace

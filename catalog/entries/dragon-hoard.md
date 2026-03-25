@@ -1,6 +1,7 @@
 ---
 slug: dragon-hoard
 name: Dragon Hoard
+summary: "A creature guards treasure it cannot use, will not share, and defends to the death. Wealth hoarded past any point of use, sterilized by possession."
 kind: metaphor
 source_frame: mythology
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: simpsons-paradox
 name: Simpson's Paradox
+summary: "A trend present in every subgroup reverses when the groups are combined, making aggregation itself a source of causal error."
 kind: mental-model
 source_frame: statistics
 categories:

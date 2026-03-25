@@ -22,6 +22,7 @@ limits:
 - '[model] conflates deliberateness with quality -- outsider art and folk art can be powerful precisely because they are not saturated with self-conscious choices, yet the model predicts they should register as low quality, revealing a bias toward trained-artist aesthetics'
 - '[model] provides no way to distinguish a high density of good choices from a high density of bad choices -- a maximalist painting may encode hundreds of decisions per square inch and still be terrible, so choice-density is necessary but not sufficient and the model is incomplete without a quality-of-choice criterion'
 name: Good Art Carries High Density of Choice
+summary: "Quality correlates with deliberate decisions per unit of output, not effort per unit. Convention is the zero-choice default."
 provenance: bannard-aphorisms
 related:
 - best-carpenters-fewest-chips

@@ -1,6 +1,7 @@
 ---
 slug: banach-tarski-paradox
 name: Banach-Tarski Paradox
+summary: "A solid ball can be split and reassembled into two identical copies. Each step is valid; the composite violates conservation."
 kind: mental-model
 source_frame: set-theory
 categories:

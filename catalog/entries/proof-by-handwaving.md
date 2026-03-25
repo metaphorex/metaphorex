@@ -14,6 +14,7 @@ limits:
 - '[source] breaks because the mathematical community uses "handwaving" self-deprecatingly for a known gap the speaker intends to fill later, but the transferred usage often implies the speaker is unaware of or indifferent to the gap -- conflating honest approximation with dishonest persuasion'
 - '[source] imports the assumption that all steps should be explicit and verifiable, which fails in domains where key premises are matters of judgment, taste, or political negotiation rather than logical necessity'
 name: Proof by Handwaving
+summary: "Replacing missing logical steps with confident gestures, importing math's zero-tolerance rigor as a diagnostic for any argument."
 related:
 - proof-by-intimidation
 slug: proof-by-handwaving

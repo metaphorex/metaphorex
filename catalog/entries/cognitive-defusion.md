@@ -1,6 +1,7 @@
 ---
 slug: cognitive-defusion
 name: Cognitive Defusion
+summary: "Your thoughts are weather, not climate. Observe them passing instead of obeying them."
 kind: mental-model
 source_frame: psychotherapy
 categories:

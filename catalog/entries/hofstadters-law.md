@@ -19,6 +19,7 @@ abstraction_level: generic
 harness: Claude Code
 kind: mental-model
 name: "Hofstadter's Law"
+summary: "Tasks always take longer than expected, even after accounting for the tendency to underestimate, because the correction inherits the same bias."
 related:
 - planning-fallacy
 slug: hofstadters-law

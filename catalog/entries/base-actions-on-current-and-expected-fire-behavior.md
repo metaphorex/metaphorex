@@ -1,6 +1,7 @@
 ---
 slug: base-actions-on-current-and-expected-fire-behavior
 name: Base Actions on Current and Expected Fire Behavior
+summary: "Decide on what the situation IS doing and what it WILL do, not what it was doing when you last checked."
 kind: mental-model
 source_frame: fire-safety
 categories:

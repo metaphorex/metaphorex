@@ -1,6 +1,7 @@
 ---
 slug: cease-dependence-on-inspection
 name: Cease Dependence on Inspection
+summary: "Inspection detects defects but cannot prevent them. Build quality into the process instead of filtering it out of the output."
 kind: mental-model
 source_frame: manufacturing
 categories:

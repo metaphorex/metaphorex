@@ -11,6 +11,7 @@ harness: Claude Code
 dead: true
 kind: metaphor
 name: The State Pattern
+summary: "An object delegates behavior to interchangeable state objects, so its behavior changes when its state transitions."
 provenance: gang-of-four
 related:
 - the-strategy-pattern

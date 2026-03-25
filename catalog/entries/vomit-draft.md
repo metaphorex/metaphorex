@@ -16,6 +16,7 @@ limits:
 - '[source] is tuned for narrative, comedy, and essay forms -- technical documentation, legal briefs, and formal proofs require precision from the first sentence, where unstructured expulsion followed by cleanup is less efficient than careful upfront thinking'
 - '[source] imports illness and disgust as the baseline valence for creative production, framing the material inside the writer as toxic content requiring purging rather than a constructive act of discovery'
 name: Vomit Draft
+summary: "Write the first draft fast and badly on purpose, separating uncritical generation from evaluative revision into two distinct phases."
 provenance: comedy-writers-glossary
 related:
 - creative-process-is-construction

@@ -1,6 +1,7 @@
 ---
 slug: oxbow-lake
-name: Oxbow Lake
+name: "Oxbow Lake"
+summary: "A formerly functional element orphaned by revision, like a river meander cut off when the channel finds a shorter path."
 kind: metaphor
 source_frame: geology
 applies_to:

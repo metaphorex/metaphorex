@@ -1,6 +1,7 @@
 ---
 slug: proof-by-intimidation
 name: Proof by Intimidation
+summary: "Declaring a claim 'obvious' so the cost of challenging it exceeds the cost of accepting it unchecked."
 kind: mental-model
 source_frame: mathematical-proof
 categories:

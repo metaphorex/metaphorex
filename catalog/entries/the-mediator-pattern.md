@@ -11,6 +11,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Mediator Pattern
+summary: "A neutral coordinator centralizes communication between objects, replacing many-to-many connections with many-to-one."
 provenance: gang-of-four
 related:
 - the-facade-pattern

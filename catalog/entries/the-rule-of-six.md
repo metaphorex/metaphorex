@@ -1,6 +1,7 @@
 ---
 slug: the-rule-of-six
 name: The Rule of Six
+summary: "Rank competing quality criteria in strict priority order; when they conflict, satisfy the highest even at the cost of the lowest."
 kind: mental-model
 source_frame: film-editing
 categories:

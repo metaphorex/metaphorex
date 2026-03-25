@@ -9,6 +9,17 @@ contributors: []
 created: '2026-03-19'
 dead: true
 grounding: established
+embodied_patterns:
+  - boundary
+  - container
+  - center-periphery
+  - surface-depth
+relation_types:
+  - contain
+  - enable
+  - prevent
+structure: boundary
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 limits:

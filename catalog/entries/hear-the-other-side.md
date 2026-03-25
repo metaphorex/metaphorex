@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-16'
 harness: Claude Code
 kind: mental-model
-name: Hear the Other Side
+name: "Hear the Other Side"
+summary: "A decision made after hearing only one perspective is informationally deficient, not merely unfair to the unheard party."
 related:
 - no-one-should-judge-their-own-case
 slug: hear-the-other-side

@@ -1,6 +1,7 @@
 ---
 slug: clean-pain-vs-dirty-pain
 name: Clean Pain vs. Dirty Pain
+summary: "Suffering has two layers: the unavoidable original pain and the avoidable struggle you add on top. The second layer is the therapeutic target."
 kind: mental-model
 categories:
   - psychology

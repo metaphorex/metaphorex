@@ -1,6 +1,7 @@
 ---
 slug: offers-and-blocks
-name: Offers and Blocks
+name: "Offers and Blocks"
+summary: "Improv vocabulary: an offer creates possibility and a block kills momentum. Scene quality depends on acceptance ratio, not individual brilliance."
 kind: metaphor
 source_frame: improvisation
 applies_to:

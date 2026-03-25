@@ -1,6 +1,7 @@
 ---
 slug: use-small-and-slow-solutions
 name: Use Small and Slow Solutions
+summary: "Scale interventions to the operator's capacity for oversight; slow systems that build self-sustaining infrastructure outperform fast ones."
 kind: mental-model
 categories:
 - biology-and-ecology

@@ -6,6 +6,7 @@ contributors: []
 created: '2026-03-19'
 kind: metaphor
 name: The Drunkard's Walk
+summary: "Random steps with no memory can carry a system far from its origin. Past drift doesn't predict future correction."
 provenance: mathematical-folklore
 related:
 - regression-to-the-mean
@@ -21,6 +22,17 @@ transfers:
 limits:
   - '[source] breaks because the drunk is a symmetric walker (equal probability left and right), while most real-world random processes have asymmetric distributions -- market crashes are not the mirror image of market rallies'
   - '[source] misleads because the metaphor''s folksy charm encourages people to see genuine randomness where autocorrelation or momentum effects actually exist -- stock prices, weather patterns, and epidemics have memory that the drunk does not'
+embodied_patterns:
+  - path
+  - near-far
+  - balance
+  - force
+relation_types:
+  - cause/propagate
+  - accumulate
+  - prevent
+structure: emergence
+abstraction_level: generic
 ---
 
 ## Transfers

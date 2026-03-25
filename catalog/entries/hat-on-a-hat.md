@@ -1,6 +1,7 @@
 ---
 slug: hat-on-a-hat
-name: Hat on a Hat
+name: "Hat on a Hat"
+summary: "Comedy writers' term for two competing premises in one scene, where each cancels the other instead of amplifying it."
 kind: metaphor
 source_frame: clothing
 applies_to:

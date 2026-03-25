@@ -12,7 +12,8 @@ limits:
   - "[model] fails because legal systems routinely create mechanisms to override this constraint -- bona fide purchaser doctrines, negotiable instruments, and title insurance all protect recipients who acquired rights from someone who did not legitimately possess them"
   - "[model] misleads because some transfers are generative rather than conservative -- a teacher who 'gives' knowledge does not lose it, a mentor who transfers skill retains it, and open-source contributors who share code still have it"
   - "[model] breaks in domains where rights are socially constructed rather than pre-existing -- a government grants citizenship it did not 'have' before the person applied, and a community creates belonging that no individual member possessed to transfer"
-name: No One Gives What They Do Not Have
+name: "No One Gives What They Do Not Have"
+summary: "A transfer of rights or authority is constrained by what the transferor actually possesses; every chain is only as valid as its weakest link."
 provenance: brooms-legal-maxims
 related:
 - responsibilities-are-possessions

@@ -1,6 +1,7 @@
 ---
 slug: proof-by-exhaustion
 name: Proof by Exhaustion
+summary: "Verify a claim by checking every possible case, achieving certainty through enumeration rather than insight."
 kind: metaphor
 dead: true
 source_frame: mathematical-practice

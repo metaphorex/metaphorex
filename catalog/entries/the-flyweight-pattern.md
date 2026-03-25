@@ -10,6 +10,7 @@ grounding: established
 harness: Claude Code
 kind: pattern
 name: The Flyweight Pattern
+summary: "Share intrinsic state across many objects instead of copying it into each. Memory scales with variety, not count."
 related:
 - the-facade-pattern
 slug: the-flyweight-pattern

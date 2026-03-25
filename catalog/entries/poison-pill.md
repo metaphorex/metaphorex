@@ -14,7 +14,8 @@ limits:
 - "[source] imports dose-response linearity from pharmacology, but data poisoning often exhibits threshold effects where small contamination has zero impact until a critical mass triggers catastrophic behavior"
 - "[source] frames contamination as coming from an external malicious source, but many poisoning attacks exploit the system's own legitimate data ingestion pathways, making the 'poison' indistinguishable from 'food' at the point of entry"
 - "[source] implies that an antidote or purification process can neutralize the poison, but in systems like trained ML models or distributed caches, removing the contaminated data does not reliably undo the damage it has already caused"
-name: Poison Pill
+name: "Poison Pill"
+summary: "Malicious data enters systems through normal intake pathways, like a toxin ingested rather than a wall breached."
 related:
 - trojan-horse
 - supply-chain-attack

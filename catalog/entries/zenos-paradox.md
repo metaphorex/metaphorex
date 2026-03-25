@@ -11,6 +11,7 @@ limits:
   - '[model] misleads by treating all diminishing-returns processes as infinite, when most practical sequences terminate at a threshold of irrelevance well before infinity'
   - '[model] obscures the difference between genuine logical impossibility and mere psychological reluctance to accept "good enough"'
 name: "Zeno's Paradox"
+summary: "A finite task decomposed into infinitely many subtasks feels impossible despite summing to a finite cost, diagnosing recursive subdivision."
 related:
 - analysis-paralysis
 - diminishing-returns

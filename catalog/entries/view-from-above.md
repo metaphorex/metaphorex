@@ -1,6 +1,7 @@
 ---
 slug: view-from-above
 name: View from Above
+summary: "Zoom out spatially or temporally until the concern that prompted the exercise appears small enough to recalibrate emotional response."
 kind: mental-model
 source_frame: philosophy
 categories:

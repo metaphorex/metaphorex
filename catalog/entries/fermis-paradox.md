@@ -15,6 +15,7 @@ limits:
 - '[paradigm] frames absence of evidence as evidence of absence, which is inferentially valid only when the search has been thorough enough to expect detection -- and SETI has sampled a vanishingly small fraction of the search space'
 - '[paradigm] invites unfalsifiable speculation because any resolution (Great Filter, Zoo Hypothesis, Dark Forest) can be made consistent with the observed silence, making it a generator of hypotheses but not a discriminator among them'
 name: "Fermi's Paradox"
+summary: "If intelligent life should be common, where is everybody? The absence of an expected signal is itself informative data."
 related:
 - no-free-lunch-theorem
 slug: fermis-paradox

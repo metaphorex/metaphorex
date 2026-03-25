@@ -1,6 +1,7 @@
 ---
 slug: beachhead-strategy
 name: Beachhead Strategy
+summary: "Secure a small, defensible position before expanding. Enter where resistance is weakest, not where the prize is largest."
 kind: metaphor
 source_frame: military-history
 applies_to:

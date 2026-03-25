@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: archetype
 name: Gas Town
+summary: "A Mad Max-themed architecture for multi-agent AI: Mayor orchestrates, Rigs transport tasks, Citizens specialize. The metaphor IS the API."
 related:
 - ralph-wiggum-loop
 - ai-is-an-agent

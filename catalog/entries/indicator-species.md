@@ -14,7 +14,8 @@ limits:
 - '[source] breaks because ecological indicator species are identified through rigorous baseline studies establishing statistical correlation between species condition and environmental variables, while organizational "indicator species" are typically selected post hoc to confirm a narrative already in place'
 - '[source] misleads by implying that the indicator''s distress is diagnostic of system-wide pathology, when it may reflect the indicator''s own idiosyncratic sensitivity rather than a systemic condition -- a departing executive may signal personal dissatisfaction, not organizational decline'
 - '[source] obscures the distinction between leading indicators (predictive signals detected before system degradation) and lagging indicators (symptoms visible only after damage is underway), since ecological indicator species can be either but the metaphorical usage assumes they are always early warnings'
-name: Indicator Species
+name: "Indicator Species"
+summary: "Organisms whose sensitivity to specific stressors reveals ecosystem health before system-level metrics register the problem."
 related:
 - canary-in-the-coal-mine
 - signal-to-noise

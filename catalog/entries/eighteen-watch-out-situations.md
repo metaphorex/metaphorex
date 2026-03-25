@@ -1,6 +1,7 @@
 ---
 slug: eighteen-watch-out-situations
 name: Eighteen Watch-Out Situations
+summary: "A checklist of 18 conditions that preceded firefighter fatalities. Each item converts post-mortem hindsight into pre-mortem pattern recognition."
 kind: mental-model
 categories:
 - decision-making

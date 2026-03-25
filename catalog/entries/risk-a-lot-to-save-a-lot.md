@@ -9,6 +9,7 @@ grounding: established
 harness: Claude Code
 kind: mental-model
 name: Risk a Lot to Save a Lot
+summary: "Calibrate acceptable risk to what is actually saveable right now: lives warrant aggression, property warrants caution, nothing warrants zero."
 provenance: firefighting-maxims
 related:
 - sunk-cost-fallacy

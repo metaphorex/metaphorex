@@ -1,6 +1,7 @@
 ---
 slug: amaras-law
 name: "Amara's Law"
+summary: "We overestimate technology in the short run and underestimate it in the long run. The hype cycle is a perceptual illusion, not random error."
 kind: mental-model
 source_frame: perception-and-cognition
 categories:

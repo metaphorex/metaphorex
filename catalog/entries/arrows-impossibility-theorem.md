@@ -6,8 +6,20 @@ categories:
 contributors: []
 created: '2026-03-19'
 grounding: proven
+embodied_patterns:
+  - balance
+  - container
+  - part-whole
+  - boundary
+relation_types:
+  - prevent
+  - cause/constrain
+  - decompose
+structure: competition
+abstraction_level: specific
 kind: paradigm
 name: Arrow's Impossibility Theorem
+summary: "No ranked voting system can satisfy all reasonable fairness criteria simultaneously. Some trade-offs are mathematical, not solvable."
 provenance: mathematical-folklore
 related:
 - goodharts-law

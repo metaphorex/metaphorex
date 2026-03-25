@@ -19,6 +19,7 @@ structure: hierarchy
 abstraction_level: generic
 kind: mental-model
 name: A Bad System Beats a Good Person
+summary: "Individual heroics cannot overcome structural constraints. Fix the system, not the person inside it."
 provenance: tps-deming
 related:
 - system-of-profound-knowledge

@@ -1,6 +1,7 @@
 ---
 slug: work-should-look-easy-however-elaborate
 name: Work Should Look Easy, However Elaborate
+summary: "Mastery manifests as apparent effortlessness; visible struggle signals incomplete command regardless of actual difficulty."
 kind: mental-model
 categories:
 - arts-and-culture

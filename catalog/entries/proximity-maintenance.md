@@ -9,6 +9,7 @@ grounding: established
 harness: Claude Code
 kind: mental-model
 name: Proximity Maintenance
+summary: "Attachment reframed as a spatial regulation system: the infant maintains physical closeness within a threshold distance to the caregiver."
 provenance: child-psychology-metaphors
 related:
 - scaffolding

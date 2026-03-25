@@ -1,6 +1,7 @@
 ---
 slug: just-tell-the-story
-name: Just Tell the Story
+name: "Just Tell the Story"
+summary: "A directing maxim: anything that does not serve the narrative is a candidate for removal, regardless of its individual quality."
 kind: mental-model
 source_frame: theatrical-directing
 categories:

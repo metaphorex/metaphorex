@@ -6,6 +6,17 @@ categories:
 contributors: []
 created: '2026-03-19'
 grounding: established
+embodied_patterns:
+  - path
+  - scale
+  - near-far
+  - surface-depth
+relation_types:
+  - select
+  - decompose
+  - prevent
+structure: hierarchy
+abstraction_level: generic
 harness: Claude Code
 kind: mental-model
 limits:
@@ -13,6 +24,7 @@ limits:
 - '[model] the heuristic suppresses investigation of rare causes precisely when they matter most, because rare diseases that mimic common ones are the cases where delayed diagnosis causes the greatest harm'
 - '[model] carries an implicit triage logic that values the group over the individual, accepting that a few patients with rare conditions will be missed in exchange for efficiently diagnosing the majority'
 name: When You Hear Hoofbeats, Think Horses
+summary: "Rank candidate explanations by prior probability and investigate the most common cause first before considering exotic alternatives."
 related:
 - occams-razor
 - availability-heuristic

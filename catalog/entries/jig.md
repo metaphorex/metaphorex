@@ -7,6 +7,17 @@ categories:
 contributors: []
 created: '2026-03-21'
 grounding: folk
+embodied_patterns:
+  - container
+  - matching
+  - iteration
+  - part-whole
+relation_types:
+  - enable
+  - contain
+  - prevent
+structure: pipeline
+abstraction_level: generic
 harness: Claude Code
 kind: metaphor
 name: Jig

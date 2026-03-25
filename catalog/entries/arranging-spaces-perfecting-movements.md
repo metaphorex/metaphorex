@@ -1,6 +1,7 @@
 ---
 slug: arranging-spaces-perfecting-movements
 name: Arranging Spaces, Perfecting Movements
+summary: "Station layout determines throughput. Spatial arrangement is discovered through repetition, not designed from theory."
 kind: mental-model
 source_frame: food-and-cooking
 categories:

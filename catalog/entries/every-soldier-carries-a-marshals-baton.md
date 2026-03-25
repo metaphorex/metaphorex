@@ -1,6 +1,7 @@
 ---
 slug: every-soldier-carries-a-marshals-baton
 name: Every Soldier Carries a Marshal's Baton
+summary: "Talent already exists in the ranks. The question is whether the institution has a promotion mechanism that can find it."
 kind: metaphor
 source_frame: military-history
 applies_to:

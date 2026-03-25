@@ -1,6 +1,7 @@
 ---
 slug: premeditatio-malorum
 name: Premeditatio Malorum
+summary: "Rehearse worst cases in advance so the real thing hits as a second encounter, not a first."
 kind: mental-model
 source_frame: philosophy
 categories:

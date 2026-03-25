@@ -1,6 +1,7 @@
 ---
 slug: creative-hopelessness
 name: Creative Hopelessness
+summary: "If every control strategy you have tried has failed, the problem is the category of solution, not your effort. That recognition opens new ground."
 kind: mental-model
 source_frame: psychotherapy
 categories:

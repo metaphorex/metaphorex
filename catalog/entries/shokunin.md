@@ -18,6 +18,17 @@ related:
 created: '2026-03-20'
 updated: '2026-03-20'
 grounding: established
+embodied_patterns:
+  - path
+  - iteration
+  - surface-depth
+  - part-whole
+relation_types:
+  - transform/refinement
+  - cause/couple
+  - enable
+structure: hierarchy
+abstraction_level: specific
 harness: Claude Code
 transfers:
   - '[paradigm] the craftsperson''s obligation runs not to the client who commissioned the work or the master who taught the craft, but to the material itself and to society, making quality a civic duty rather than a market differentiator'

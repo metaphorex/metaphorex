@@ -10,7 +10,8 @@ created: '2026-03-16'
 grounding: folk
 harness: Claude Code
 kind: metaphor
-name: Middle-Out Compression
+name: "Middle-Out Compression"
+summary: "Fictional compression algorithm from HBO's Silicon Valley, derived from a sexual logistics problem solved with pure engineering abstraction."
 related:
 - argument-is-war
 slug: middle-out-compression

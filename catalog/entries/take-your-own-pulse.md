@@ -12,6 +12,7 @@ created: '2026-03-20'
 grounding: established
 kind: metaphor
 name: Take Your Own Pulse
+summary: "Check your own physiological state before intervening in a crisis, because a compromised helper degrades the response."
 provenance: scheins-surgical-aphorisms
 related:
 - the-retrospectoscope

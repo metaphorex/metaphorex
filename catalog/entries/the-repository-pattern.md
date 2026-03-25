@@ -10,6 +10,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: archetype
 name: The Repository Pattern
+summary: "Mediates between domain logic and data storage, presenting persisted objects as an in-memory collection with curated query methods."
 provenance: fowler-peaa
 related:
 - the-gateway-pattern

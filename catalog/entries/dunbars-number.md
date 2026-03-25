@@ -1,6 +1,7 @@
 ---
 slug: dunbars-number
 name: "Dunbar's Number"
+summary: "The brain supports roughly 150 stable relationships. Beyond that threshold, coordination requires formal structure as a prosthetic for social memory."
 kind: mental-model
 source_frame: biology
 categories:

@@ -22,6 +22,7 @@ limits:
   - '[model] was calibrated on middle-class Anglo-American samples in the Strange Situation, and the behavioral markers it uses as diagnostic (e.g., contact-seeking on reunion) carry different meanings in cultures where extended kin networks distribute caregiving or where emotional restraint is valued'
   - '[model] implies temporal stability — a person "is" securely attached — but longitudinal studies show that attachment classifications shift with life events (loss, new relationships, therapy), making the style a snapshot mislabeled as a trait'
 name: Attachment Styles
+summary: "Early bonding patterns sort into four strategies: secure, anxious, avoidant, disorganized. Each is adaptive to its original caregiving environment."
 related:
 - internal-working-model
 - safe-haven

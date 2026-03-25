@@ -1,6 +1,7 @@
 ---
 slug: single-point-of-failure
 name: Single Point of Failure
+summary: "One component with no backup whose failure cascades to total system failure."
 kind: mental-model
 categories:
 - systems-thinking

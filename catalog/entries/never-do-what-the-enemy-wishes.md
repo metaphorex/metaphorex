@@ -1,6 +1,7 @@
 ---
 slug: never-do-what-the-enemy-wishes
-name: Never Do What the Enemy Wishes
+name: "Never Do What the Enemy Wishes"
+summary: "In adversarial situations, an opponent's revealed preference is a negative signal about the action's value to you."
 kind: mental-model
 categories:
 - decision-making

@@ -9,6 +9,7 @@ contributors:
 created: '2026-03-10'
 kind: archetype
 name: The Memento Pattern
+summary: "Capture an object's internal state in an opaque token that can later restore the object to that exact condition."
 provenance: gang-of-four
 related:
 - the-command-pattern

@@ -14,6 +14,7 @@ limits:
 - '[source] breaks because a painting has no nervous system, no preferences, and no goals -- attributing "ideas" to the canvas is a projection of the artist''s unconscious pattern-recognition onto inert material, and the metaphor obscures this by granting the object literal agency'
 - '[source] misleads when taken as permission to abandon intention entirely -- the painter who only follows the canvas''s "ideas" without contributing compositional judgment produces not art but randomness, yet the metaphor provides no vocabulary for the necessary balance between responsiveness and direction'
 name: The Painting Replaces Your Ideas with Its Ideas
+summary: "The work-in-progress develops emergent properties that override the maker's original plan, shifting authority from intention to material."
 provenance: bannard-aphorisms
 related:
 - in-art-remedy-mistakes-by-taking-advantage-of-them
