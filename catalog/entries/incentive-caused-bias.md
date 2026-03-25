@@ -10,7 +10,8 @@ kind: mental-model
 limits:
 - '[model] breaks when applied reflexively to all expert advice, because it provides no mechanism for distinguishing incentive-driven opinion from correct professional judgment'
 - '[model] misleads by suggesting incentive removal as the fix, when incentive structures are load-bearing and removing them produces different problems like reduced effort and adverse selection'
-name: Incentive-Caused Bias
+name: "Incentive-Caused Bias"
+summary: "Incentives do not merely change behavior; they reshape sincere beliefs, so agents genuinely come to believe what the payoff structure rewards."
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

@@ -14,7 +14,8 @@ relation_types:
 structure:
   - boundary
 abstraction_level: specific
-name: Give Wide Berth
+name: "Give Wide Berth"
+summary: "Avoidance calibrated to the hazard's worst-case arc, not its current position. Distance is the only tool when you can't control the threat."
 related: []
 slug: give-wide-berth
 source_frame: seafaring

@@ -28,7 +28,8 @@ relation_types:
 structure:
   - boundary
 abstraction_level: specific
-name: Holodeck Is Total Simulation
+name: "Holodeck Is Total Simulation"
+summary: "Star Trek's room-sized simulator sets the benchmark for VR: declarative input, full sensory output, real-time response."
 related: []
 slug: holodeck-is-total-simulation
 source_frame: science-fiction

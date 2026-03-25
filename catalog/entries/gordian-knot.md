@@ -20,7 +20,8 @@ structure:
 abstraction_level: specific
 harness: Claude Code
 kind: metaphor
-name: Gordian Knot
+name: "Gordian Knot"
+summary: "Some tangles are resolved by redefining the problem, not by patient analysis. Cutting valorizes boldness but destroys the structure it bypasses."
 related:
 - augean-stables
 - damocles-sword

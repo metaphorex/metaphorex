@@ -11,7 +11,8 @@ contributors:
 created: '2026-03-19'
 harness: Claude Code
 kind: pattern
-name: Hands
+name: "Hands"
+summary: "A broadcast interrupt requesting any available body to absorb peak load. Zero negotiation overhead; response is immediate and unconditional."
 related:
 - bus-factor
 slug: hands

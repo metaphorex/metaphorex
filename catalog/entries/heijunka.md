@@ -1,6 +1,7 @@
 ---
 slug: heijunka
-name: Heijunka
+name: "Heijunka"
+summary: "Smoothing production volume and mix over fixed periods so downstream processes face steady load, not demand spikes."
 kind: paradigm
 source_frame: manufacturing
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: hierarchy-of-open-space
-name: Hierarchy of Open Space
+name: "Hierarchy of Open Space"
+summary: "Spaces must graduate from large public to small private. Skipping a level in the hierarchy creates dead zones."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

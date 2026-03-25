@@ -12,7 +12,8 @@ contributors:
 created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Resources
+name: "Ideas Are Resources"
+summary: "We treat ideas as scarce goods to hoard or spend, but unlike oil, sharing an idea does not use it up."
 provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-people

@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Perceptions
+name: "Ideas Are Perceptions"
+summary: "Having an idea is noticing something. Clarity is focus; confusion is blur. The thinker is a perceiver scanning a field."
 provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing

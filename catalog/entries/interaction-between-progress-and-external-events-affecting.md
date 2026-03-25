@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
-name: Interaction Between Progress and External Events Affecting
+name: "Interaction Between Progress and External Events Affecting"
+summary: "Progress and external forces modify each other: forward motion generates its own resistance, and stalling exposes you to forces motion kept at bay."
 provenance: osaka-master-metaphor-list
 related:
 - external-events-affecting-progress-are-forces-affecting

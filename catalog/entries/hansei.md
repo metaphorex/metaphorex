@@ -17,7 +17,8 @@ structure:
 abstraction_level: generic
 harness: Claude Code
 kind: mental-model
-name: Hansei
+name: "Hansei"
+summary: "Personal, uncomfortable reflection after every outcome, including success. Discomfort is the mechanism; the output is a specific forward commitment."
 related:
 - kaizen
 - kata

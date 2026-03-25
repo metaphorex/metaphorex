@@ -1,6 +1,7 @@
 ---
 slug: herculean-task
-name: Herculean Task
+name: "Herculean Task"
+summary: "Mythic labors map superhuman endurance onto any task so large it feels imposed and demands serial perseverance."
 kind: metaphor
 source_frame: mythology
 applies_to:

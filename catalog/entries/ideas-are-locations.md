@@ -8,7 +8,8 @@ categories:
 contributors: []
 created: '2026-03-12'
 kind: metaphor
-name: Ideas Are Locations
+name: "Ideas Are Locations"
+summary: "Ideas are places you arrive at, depart from, or explore. Thinking is movement through conceptual terrain."
 provenance: osaka-master-metaphor-list
 related:
 - states-are-locations

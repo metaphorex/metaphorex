@@ -13,7 +13,8 @@ limits:
 - '[source] breaks because physical materials stiffen irreversibly -- concrete cures, wood dries, mortar sets -- while software commitments can theoretically be reversed through refactoring, making the urgency of the metaphor misleading when applied to a medium that supports undo'
 - '[source] misleads by importing a single stiffening axis (wet to dry, flexible to rigid), while software systems stiffen unevenly across multiple dimensions -- the API contract may be frozen while the implementation remains fluid, or the database schema rigid while the UI is still exploratory'
 - '[source] implies that full rigidity is the correct end state, but software that stiffens completely becomes legacy -- the best systems retain deliberate flexibility in some dimensions even at maturity'
-name: Gradual Stiffening
+name: "Gradual Stiffening"
+summary: "Start flexible, harden incrementally as the design proves itself. Premature rigidity cracks; the flexible phase is where learning happens."
 provenance: alexander-pattern-language
 related:
 - piecemeal-growth

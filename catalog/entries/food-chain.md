@@ -1,6 +1,7 @@
 ---
 slug: food-chain
-name: Food Chain
+name: "Food Chain"
+summary: "Linear hierarchy where each level extracts from the one below. Energy lost at every transfer makes the top scarce and expensive."
 kind: metaphor
 source_frame: ecology
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: fog-of-war
-name: Fog of War
+name: "Fog of War"
+summary: "Information degrades with distance from the action. Uncertainty is systemic, not personal, and waiting for clarity is itself a decision."
 kind: metaphor
 source_frame: war
 applies_to:

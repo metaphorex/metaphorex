@@ -17,7 +17,8 @@ relation_types:
 structure:
   - transformation
 abstraction_level: specific
-name: High and Dry
+name: "High and Dry"
+summary: "A ship stranded by a receding tide maps onto abandonment caused by changing circumstances, not personal failure."
 related:
 - plain-sailing
 slug: high-and-dry

@@ -31,7 +31,8 @@ limits:
   \ sudden event, not a gradual process with intermediate stages"
 - "[source] To grok in the original sense requires no prior expertise --\
   \ it is an innate Martian capacity, not an acquired skill"
-name: Grok Is Deep Understanding
+name: "Grok Is Deep Understanding"
+summary: "Understanding as absorption, not analysis: the knower merges with the known. Now mostly a dead metaphor meaning 'I get it' without the depth."
 related: []
 slug: grok-is-deep-understanding
 source_frame: science-fiction

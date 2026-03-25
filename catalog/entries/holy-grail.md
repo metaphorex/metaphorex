@@ -1,6 +1,7 @@
 ---
 slug: holy-grail
-name: Holy Grail
+name: "Holy Grail"
+summary: "A goal real enough to pursue but elusive enough to define a field. The quest transforms seekers whether or not it succeeds."
 kind: metaphor
 source_frame: mythology
 applies_to:

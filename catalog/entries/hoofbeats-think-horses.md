@@ -1,6 +1,7 @@
 ---
 slug: hoofbeats-think-horses
-name: Hoofbeats, Think Horses
+name: "Hoofbeats, Think Horses"
+summary: "Rank hypotheses by base rate before entertaining exotic explanations. Common causes are common for a reason."
 kind: mental-model
 source_frame: medicine
 categories:

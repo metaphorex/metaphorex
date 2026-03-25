@@ -23,7 +23,8 @@ relation_types:
 structure:
   - boundary
 abstraction_level: specific
-name: Half-Private Office
+name: "Half-Private Office"
+summary: "Neither fully open nor fully closed; partial barriers attenuate interruption without eliminating serendipity. The boundary signals availability."
 provenance: alexander-pattern-language
 related:
 - intimacy-gradient

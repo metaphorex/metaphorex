@@ -1,6 +1,7 @@
 ---
 slug: holding-environment
-name: Holding Environment
+name: "Holding Environment"
+summary: "Winnicott's caregiver-as-container: reliable presence that filters overwhelm so the held person can integrate."
 kind: metaphor
 source_frame: containers
 applies_to:

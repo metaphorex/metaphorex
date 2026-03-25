@@ -8,7 +8,8 @@ created: '2026-03-21'
 grounding: established
 harness: Claude Code
 kind: mental-model
-name: Intuition Precedes Analysis
+name: "Intuition Precedes Analysis"
+summary: "Perceive before you categorize. Premature framing overwrites perceptual data that has not yet been fully registered."
 provenance: bannard-aphorisms
 related: []
 slug: intuition-precedes-analysis

@@ -5,7 +5,8 @@ categories:
 contributors: []
 created: '2026-03-19'
 kind: metaphor
-name: Flash It
+name: "Flash It"
+summary: "Restore a degraded system to its previous good state using maximum intensity for minimum duration. Not reconstruction, just reheating."
 provenance: culinary-mise-en-place
 related:
 - hot-fix

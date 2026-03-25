@@ -12,7 +12,8 @@ limits:
   - "[model] assumes causal chains are linear and converge to a single root, but many failures have multiple independent contributing causes that branch rather than converge"
   - "[model] the fifth 'why' often lands on an organizational or cultural factor so broad it resists actionable intervention -- 'because management does not prioritize safety' is true but not useful"
   - "[model] presumes the questioner can distinguish a genuine cause from a plausible narrative -- without data, each 'why' is an act of storytelling, not analysis"
-name: Five Whys
+name: "Five Whys"
+summary: "Ask 'why' iteratively until you move from symptom to systemic cause. The first explanation is almost never the real one."
 related:
 - standardized-work
 slug: five-whys

@@ -11,7 +11,8 @@ contributors:
 created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Objects
+name: "Ideas Are Objects"
+summary: "Ideas are grasped, held, turned over, and taken apart. The foundational metaphor that makes all other idea metaphors possible."
 provenance: lakoff-johnson-mwlb
 related:
 - the-conduit-metaphor

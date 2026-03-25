@@ -10,7 +10,8 @@ contributors: []
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
-name: Intense Emotions Are Heat
+name: "Intense Emotions Are Heat"
+summary: "When emotions intensify they become hot: we burn with desire, seethe with anger, and boil over when we lose control."
 provenance: osaka-master-metaphor-list
 related:
 - fear-is-cold

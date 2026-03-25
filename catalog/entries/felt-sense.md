@@ -1,6 +1,7 @@
 ---
 slug: felt-sense
-name: Felt Sense
+name: "Felt Sense"
+summary: "A pre-verbal bodily impression that integrates more variables than conscious thought, unfolding meaning through patient attention."
 kind: mental-model
 categories:
 - psychology

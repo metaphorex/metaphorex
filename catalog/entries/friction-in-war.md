@@ -1,6 +1,7 @@
 ---
 slug: friction-in-war
-name: Friction in War
+name: "Friction in War"
+summary: "Countless small impediments degrade plans into chaotic reality. Friction scales with complexity and cannot be eliminated, only managed."
 kind: metaphor
 source_frame: war
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: filesystem-mount
-name: Filesystem Mount
+name: "Filesystem Mount"
+summary: "Attaching a separate storage device to a fixed directory tree at a prepared point, like mounting a lens onto a camera body."
 kind: metaphor
 dead: true
 source_frame: tool-use

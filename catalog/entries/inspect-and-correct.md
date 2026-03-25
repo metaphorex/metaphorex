@@ -1,6 +1,7 @@
 ---
 slug: inspect-and-correct
-name: Inspect and Correct
+name: "Inspect and Correct"
+summary: "At the end of each work session, trace errors to their process causes and change the process, not the person, before the next session."
 kind: mental-model
 source_frame: food-and-cooking
 categories:

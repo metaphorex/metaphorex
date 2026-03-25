@@ -11,7 +11,8 @@ contributors:
 created: '2026-03-19'
 harness: Claude Code
 kind: paradigm
-name: Halting Problem
+name: "Halting Problem"
+summary: "Some questions about a system's future behavior are provably unanswerable in general, but most specific instances remain tractable."
 related:
 - accidental-complexity
 - infinite-monkey-theorem

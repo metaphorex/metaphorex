@@ -11,7 +11,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Money
+name: "Ideas Are Money"
+summary: "Ideas have denominations, can be saved or spent, and circulate like currency. Sharing feels like expenditure."
 provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-commodities

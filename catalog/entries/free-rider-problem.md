@@ -1,6 +1,7 @@
 ---
 slug: free-rider-problem
-name: Free Rider Problem
+name: "Free Rider Problem"
+summary: "When benefits are shared but costs are individual, rational actors consume without contributing until the shared good degrades."
 kind: mental-model
 source_frame: economics
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: half-hidden-garden
-name: Half-Hidden Garden
+name: "Half-Hidden Garden"
+summary: "Partial visibility invites entry; full exposure kills intimacy and full concealment kills curiosity. The boundary is a gradient, not a wall."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

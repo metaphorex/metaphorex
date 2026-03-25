@@ -1,6 +1,7 @@
 ---
 slug: idols-of-the-theatre
-name: Idols of the Theatre
+name: "Idols of the Theatre"
+summary: "Philosophical systems are stage plays: coherent and compelling, mistaken for reality by audiences who forgot they are watching a performance."
 kind: metaphor
 source_frame: performance
 applies_to:

@@ -19,7 +19,8 @@ structure:
 abstraction_level: generic
 harness: Claude Code
 kind: mental-model
-name: Guided Participation
+name: "Guided Participation"
+summary: "Learning through shared activity, not instruction. Guidance is often tacit and structural; participation is the mechanism, not the reward."
 provenance: child-psychology-metaphors
 related:
 - scaffolding

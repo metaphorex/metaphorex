@@ -11,7 +11,8 @@ contributors:
 created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Fashions
+name: "Ideas Are Fashions"
+summary: "Ideas come into vogue and go out of style. The trend cycle replaces rational evaluation with social contagion dynamics."
 provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-people

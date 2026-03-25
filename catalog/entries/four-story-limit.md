@@ -1,6 +1,7 @@
 ---
 slug: four-story-limit
-name: Four-Story Limit
+name: "Four-Story Limit"
+summary: "Beyond a threshold depth, occupants lose connection to the ground. Abstraction layers, like building stories, have nonlinear costs."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

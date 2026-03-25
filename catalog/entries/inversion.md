@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: mental-model
-name: Inversion
+name: "Inversion"
+summary: "Instead of asking how to succeed, ask what guarantees failure and avoid that. Failure modes are often more concrete than success recipes."
 provenance: munger-poor-charlies-almanack
 related:
 - the-map-is-not-the-territory

@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
-name: Hope Is a Child
+name: "Hope Is a Child"
+summary: "Hope is born, fragile, and demands nurture. Losing it feels like bereavement, not misplacement."
 provenance: osaka-master-metaphor-list
 related:
 - hope-is-a-benefical-possession

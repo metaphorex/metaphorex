@@ -26,7 +26,8 @@ limits:
   - "[paradigm] the catchball process assumes organizational layers have enough shared context to negotiate meaningfully -- in practice, the strategic level and the operational level often lack a common language"
   - "[paradigm] hoshin kanri's annual planning cycle was designed for manufacturing with long investment horizons, and maps poorly onto domains where strategy must shift quarterly or faster"
   - "[paradigm] the compass metaphor implies a stable destination, but in volatile environments the destination itself changes, making the alignment machinery potentially counterproductive"
-name: Hoshin Kanri
+name: "Hoshin Kanri"
+summary: "Compass management: few strategic objectives negotiated iteratively between organizational layers, not cascaded top-down."
 related:
 - nemawashi
 - yokoten

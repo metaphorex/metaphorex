@@ -1,6 +1,7 @@
 ---
 slug: identifiable-neighborhood
-name: Identifiable Neighborhood
+name: "Identifiable Neighborhood"
+summary: "A group forms shared identity only when it is small enough for mutual recognition and bounded clearly enough that members know they belong."
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

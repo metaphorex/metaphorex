@@ -1,6 +1,7 @@
 ---
 slug: gemba
-name: Gemba
+name: "Gemba"
+summary: "Truth lives where work happens, not where reports are written. Every layer of abstraction between decision-maker and work site loses signal."
 kind: mental-model
 categories:
   - systems-thinking

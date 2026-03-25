@@ -13,7 +13,8 @@ limits:
 - '[source] breaks because architectural flexibility requires physical rearrangement with real costs in time and disruption, while software configurability is instant and costless at the point of change -- making the pattern''s implied friction disappear and enabling constant thrashing'
 - '[source] misleads by suggesting that flexibility is always desirable, when some systems benefit from rigidity that prevents misconfiguration and enforces invariants that movable walls cannot'
 - '[source] obscures the versioning problem: rearranging furniture in an office does not create backward-compatibility issues, but reconfiguring a software system can break every downstream consumer'
-name: Flexible Office Space
+name: "Flexible Office Space"
+summary: "Separate the fixed shell from the reconfigurable interior. Flexibility requires upfront investment in modularity, not retrofitting."
 provenance: alexander-pattern-language
 related:
 - small-work-groups

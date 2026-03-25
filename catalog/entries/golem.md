@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-14'
 harness: Claude Code
 kind: metaphor
-name: Golem
+name: "Golem"
+summary: "Immense power, zero judgment; it does exactly what you said, not what you meant. The gap between functioning and catastrophe is one character."
 related:
 - excalibur
 slug: golem

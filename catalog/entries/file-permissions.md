@@ -1,6 +1,7 @@
 ---
 slug: file-permissions
-name: File Permissions
+name: "File Permissions"
+summary: "Access control as governance: owner, group, and public receive differentiated rights from a sovereign who stands above the rules."
 kind: metaphor
 dead: true
 source_frame: governance

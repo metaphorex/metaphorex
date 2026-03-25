@@ -11,7 +11,8 @@ contributors:
 created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Light-Sources
+name: "Ideas Are Light-Sources"
+summary: "Brilliant ideas illuminate; obscure ones leave you in the dark. Insight is a flash. Explanatory power is luminous reach."
 provenance: lakoff-johnson-mwlb
 related:
 - understanding-is-seeing

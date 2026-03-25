@@ -1,6 +1,7 @@
 ---
 slug: form-follows-function
-name: Form Follows Function
+name: "Form Follows Function"
+summary: "Determine what the thing must do before deciding its shape. The causal direction runs from purpose to structure, not the reverse."
 kind: metaphor
 source_frame: architecture-and-building
 applies_to:

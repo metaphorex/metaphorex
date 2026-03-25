@@ -8,7 +8,8 @@ created: '2026-03-19'
 grounding: established
 harness: Claude Code
 kind: mental-model
-name: Freelancing
+name: "Freelancing"
+summary: "Operating outside the command structure without coordination creates risk invisible to the team managing the situation."
 related:
 - incident-command-system
 slug: freelancing

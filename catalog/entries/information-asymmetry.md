@@ -9,7 +9,8 @@ kind: mental-model
 limits:
 - '[model] breaks when applied to relationships built on trust, reputation, and reciprocity, because it assumes rational self-interest and breeds paranoia about every counterparty'
 - '[model] misleads by implying full transparency is always optimal, when some asymmetries serve useful purposes like division of cognitive labor and professional specialization'
-name: Information Asymmetry
+name: "Information Asymmetry"
+summary: "When one party knows more than the other, good products withdraw from the market and only the worst remain."
 provenance: munger-poor-charlies-almanack
 related:
 - incentive-caused-bias

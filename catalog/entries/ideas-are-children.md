@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
-name: Ideas Are Children
+name: "Ideas Are Children"
+summary: "Ideas need nurture, grow through stages, and eventually stand alone. The thinker's bond with their brainchild resists criticism."
 provenance: osaka-master-metaphor-list
 related:
 - ideas-are-people

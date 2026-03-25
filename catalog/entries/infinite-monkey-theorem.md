@@ -10,7 +10,8 @@ contributors:
 created: '2026-03-19'
 harness: Claude Code
 kind: metaphor
-name: Infinite Monkey Theorem
+name: "Infinite Monkey Theorem"
+summary: "Random keystrokes over infinite time will produce Shakespeare, but infinity does all the work, and no real process has infinite time."
 related:
 - halting-problem
 slug: infinite-monkey-theorem

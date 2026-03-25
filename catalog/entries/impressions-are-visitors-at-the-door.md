@@ -1,6 +1,7 @@
 ---
 slug: impressions-are-visitors-at-the-door
-name: Impressions Are Visitors at the Door
+name: "Impressions Are Visitors at the Door"
+summary: "Epictetus treats mental impressions as visitors: the mind's doorkeeper must interrogate each one before granting it entry as an accepted belief."
 kind: metaphor
 source_frame: household-management
 applies_to:
