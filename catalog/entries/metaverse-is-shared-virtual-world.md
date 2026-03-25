@@ -1,6 +1,7 @@
 ---
 slug: metaverse-is-shared-virtual-world
 name: Metaverse Is Shared Virtual World
+summary: "A persistent spatial virtual world from Snow Crash, adopted as corporate branding. The fiction assumed unity; reality delivered fragmentation."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

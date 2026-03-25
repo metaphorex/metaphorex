@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Morality Is Straightness
+summary: "Virtue is the direct path; vice is deviation. 'Right' derives from 'straight,' and 'wrong' from 'crooked.'"
 provenance: osaka-master-metaphor-list
 related:
 - morality-is-purity

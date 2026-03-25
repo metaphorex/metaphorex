@@ -12,6 +12,7 @@ limits:
   support'
 - '[source] misleads by implying permanence, but hemp rope deteriorated in salt air and required regular replacement -- the original mainstay was a consumable maintenance item, not an enduring fixture'
 name: Mainstay
+summary: "The single rope preventing the mainmast from falling. Now dead: speakers mean irreplaceable structural support without thinking of rigging."
 related:
 - flagship
 slug: mainstay

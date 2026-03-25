@@ -10,6 +10,7 @@ contributors: []
 created: '2026-03-13'
 kind: metaphor
 name: Knowing Is Seeing
+summary: "The most fundamental epistemic metaphor: what is known is visible, what is unknown is hidden. Privileges direct perception over mediated knowledge."
 provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing

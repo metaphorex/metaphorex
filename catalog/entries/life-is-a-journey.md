@@ -12,6 +12,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: Life Is a Journey
+summary: "The most pervasive structural metaphor: life has paths, crossroads, and destinations. Forward is good, backward is bad, standing still is failure."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

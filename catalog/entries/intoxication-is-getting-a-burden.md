@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Intoxication Is Getting A Burden
+summary: "Each drink adds weight until the drinker staggers and collapses. Captures progressive impairment but misses the euphoric phase entirely."
 provenance: osaka-master-metaphor-list
 related:
 - intoxication-is-becoming-electrified

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Pandemonium
+summary: "Milton coined it as Hell's capital, an orderly parliament of demons. The modern meaning inverts the original: chaos, not terrifying order."
 related:
 - augean-stables
 - damocles-sword

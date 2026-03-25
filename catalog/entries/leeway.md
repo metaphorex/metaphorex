@@ -12,6 +12,7 @@ limits:
   flexibility'
 - '[source] misleads because running out of leeway at sea meant death, while the metaphor now appears in trivial contexts like deadline extensions, completely forgetting the mortal danger of the original'
 name: Leeway
+summary: "Lateral distance between a ship and the rocks, consumed passively by wind. Now means generic slack, the original mortal urgency forgotten."
 related: []
 slug: leeway
 source_frame: seafaring

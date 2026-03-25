@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Morality Is Purity
+summary: "A single drop of impurity destroys purity entirely. The metaphor makes moral failure catastrophic and moral recovery suspect."
 provenance: osaka-master-metaphor-list
 related:
 - morality-is-cleanliness

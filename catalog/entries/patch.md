@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Patch
+summary: "Software repair named after textile mending. The metaphor frames all code changes as fixes, even when they are evolution."
 related:
 - spaghetti-code
 - technical-debt

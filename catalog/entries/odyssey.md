@@ -1,6 +1,7 @@
 ---
 slug: odyssey
 name: Odyssey
+summary: "A long journey defined by its digressions, not its destination. The traveler is transformed by the obstacles, not merely relocated."
 kind: metaphor
 source_frame: mythology
 applies_to:

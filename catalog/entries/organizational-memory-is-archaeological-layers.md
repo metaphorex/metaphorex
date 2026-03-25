@@ -1,6 +1,7 @@
 ---
 slug: organizational-memory-is-archaeological-layers
 name: Organizational Memory Is Archaeological Layers
+summary: "What an organization knows is stratified by age: recent decisions on the surface, founding rationale buried deep. Excavation disturbs what is above."
 kind: metaphor
 source_frame: geology
 applies_to:

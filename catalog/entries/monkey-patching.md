@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Monkey-Patching
+summary: "Reaching into a running system to modify code you did not write. The animal arrived through phonetic drift from 'guerrilla patching.'"
 related:
 - cargo-cult-programming
 slug: monkey-patching

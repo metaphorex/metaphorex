@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Money Is A Liquid
+summary: "Capital flows, pools, freezes, and dries up. The fluid frame makes wealth concentration look like hydrology rather than policy."
 provenance: osaka-master-metaphor-list
 related:
 - time-is-money

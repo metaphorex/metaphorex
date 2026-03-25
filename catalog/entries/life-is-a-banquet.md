@@ -1,6 +1,7 @@
 ---
 slug: life-is-a-banquet
 name: Life Is a Banquet
+summary: "Epictetus: take what is passed to you, enjoy moderately, let it go. The metaphor assumes a generous host, which life does not guarantee."
 kind: metaphor
 source_frame: banqueting
 applies_to:

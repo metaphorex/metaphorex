@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Lust Is Heat
+summary: "Sexual desire maps onto temperature: burning, smoldering, going cold. The embodied correlation is real; the loss of agency it implies is not."
 provenance: osaka-master-metaphor-list
 related:
 - intense-emotions-are-heat

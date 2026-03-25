@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Intelligence Is a Light Source
+summary: "Cognitive capacity mapped onto luminosity: bright, dim, brilliant. Collapses multidimensional ability into a single brightness slider."
 provenance: osaka-master-metaphor-list
 related:
 - ideas-are-light-sources

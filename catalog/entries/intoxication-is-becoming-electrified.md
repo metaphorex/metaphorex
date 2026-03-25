@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Intoxication Is Becoming Electrified
+summary: "Substance effects as electrical current: buzzed, wired, amped, fried. Captures the stimulant phase but has no vocabulary for sedation or hangover."
 provenance: osaka-master-metaphor-list
 related:
 - intense-emotions-are-heat

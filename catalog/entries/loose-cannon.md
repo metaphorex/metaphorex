@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Loose Cannon
+summary: "A ship's own weapon breaks free and endangers its crew. Danger scales with the cannon's power; the fault lies in the restraints, not the object."
 related: []
 slug: loose-cannon
 source_frame: seafaring

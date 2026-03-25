@@ -1,6 +1,7 @@
 ---
 slug: mentat-is-human-computer
 name: Mentat Is Human Computer
+summary: "Humans trained to replace banned machines. The metaphor inverts the AI question: not whether machines think, but whether humans can compute."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

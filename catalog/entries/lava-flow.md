@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Lava Flow
+summary: "Dead code as cooled volcanic rock: fluid when written, immovable once knowledge is lost. The geological framing naturalizes a process failure."
 related:
 - technical-debt
 - spaghetti-code

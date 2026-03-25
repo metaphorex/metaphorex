@@ -13,6 +13,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Labor Is a Resource
+summary: "Human work treated as a fungible commodity to extract, allocate, and deplete. Breaks because labor improves through use rather than diminishing."
 provenance: lakoff-johnson-mwlb
 related:
 - time-is-money

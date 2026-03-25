@@ -11,6 +11,7 @@ contributors:
 created: '2026-03-10'
 kind: metaphor
 name: Love Is A Journey
+summary: "Lovers as travelers sharing a vehicle toward a destination. Directionless contentment becomes failure; every decision becomes a fork in the road."
 related:
 - argument-is-war
 - argument-is-dance

@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Linear Scales Are Paths
+summary: "Degree as distance along a path. The mapping makes scalar reasoning spatial and intuitive but flattens multidimensional qualities onto a single line."
 provenance: osaka-master-metaphor-list
 related:
 - more-is-up

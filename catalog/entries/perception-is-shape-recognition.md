@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Perception Is Shape Recognition
+summary: "Understanding is recognizing a familiar form. The metaphor privileges spatial geometry over temporal, emotional, and social perception."
 provenance: osaka-master-metaphor-list
 related:
 - understanding-is-seeing

@@ -15,6 +15,7 @@ limits:
   - "[source] implies that success in one domain automatically transfers to all others, obscuring that real excellence is domain-specific and that optimization along a single metric often degrades other metrics"
   - "[source] frames the destructive consequences as an intrinsic property of the gift itself, when in practice monomaniacal optimization is a choice that could be moderated, not a curse that cannot be lifted"
 name: Midas Touch
+summary: "Everything you touch turns to gold, including the things that cannot survive as gold. Modern usage forgets the myth is a warning."
 related: []
 slug: midas-touch
 source_frame: mythology

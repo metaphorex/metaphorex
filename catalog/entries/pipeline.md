@@ -1,6 +1,7 @@
 ---
 slug: pipeline
 name: Pipeline
+summary: "Fluid flows through a pipe in one direction. The metaphor makes sequential processes feel governed by physics, discouraging redesign."
 kind: metaphor
 dead: true
 source_frame: fluid-dynamics

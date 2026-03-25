@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Memory Leak
+summary: "A slow invisible drain on a finite resource. Nothing actually escapes the machine; the memory is trapped, not leaked."
 related:
 - data-flow-is-fluid-flow
 - memory-heap

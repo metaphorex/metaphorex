@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Karma
+summary: "A cosmic moral ledger where actions generate consequences across time. The secular version collapses a multi-lifetime cosmology into instant justice."
 related:
 - moral-accounting
 slug: karma

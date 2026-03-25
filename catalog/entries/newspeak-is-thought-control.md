@@ -1,6 +1,7 @@
 ---
 slug: newspeak-is-thought-control
 name: Newspeak Is Thought Control
+summary: "Orwell's engineered language makes dissent unthinkable by eliminating vocabulary. Empirical linguistics does not support the premise."
 kind: metaphor
 source_frame: science-fiction
 applies_to:

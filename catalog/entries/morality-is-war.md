@@ -12,6 +12,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Morality Is War
+summary: "Moral life as battlefield: you hold ground, fight temptation, and fall in defeat. The frame makes moral dialogue feel like treason."
 provenance: glasgow-mapping-metaphor
 related:
 - argument-is-war

@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Personality Is Material
+summary: "Character has texture, hardness, and grain. People are forged by adversity and tempered by hardship. The metaphor smuggles in essentialism."
 provenance: osaka-master-metaphor-list
 related:
 - people-are-machines

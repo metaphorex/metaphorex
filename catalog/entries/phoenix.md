@@ -1,6 +1,7 @@
 ---
 slug: phoenix
 name: Phoenix
+summary: "Destruction is prerequisite for renewal. The myth guarantees rebirth; real comebacks depend on effort, resources, and luck."
 kind: metaphor
 source_frame: mythology
 applies_to:

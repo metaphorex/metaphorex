@@ -11,6 +11,7 @@ contributors:
 created: '2026-03-10'
 kind: metaphor
 name: Love Is Madness
+summary: "Love suspends rational self-governance. The metaphor celebrates the loss of judgment that, taken literally, destroys lives."
 provenance: lakoff-johnson-mwlb
 related:
 - love-is-a-journey

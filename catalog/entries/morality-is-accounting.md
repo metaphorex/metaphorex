@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Morality Is Accounting
+summary: "Good deeds are credits, bad deeds are debts, and the ledger must balance. Forgiveness is debt cancellation, which is why it feels costly."
 provenance: osaka-master-metaphor-list
 related:
 - morality-is-purity

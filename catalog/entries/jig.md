@@ -10,6 +10,7 @@ grounding: folk
 harness: Claude Code
 kind: metaphor
 name: Jig
+summary: "A custom guide that encodes a decision once so the operator never re-decides. Tooling quality bounds product quality."
 provenance: carpentry-woodworking
 related:
 - shim

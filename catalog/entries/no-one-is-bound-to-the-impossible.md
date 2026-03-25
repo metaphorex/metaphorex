@@ -1,6 +1,7 @@
 ---
 slug: no-one-is-bound-to-the-impossible
 name: No One Is Bound to the Impossible
+summary: "Obligation presupposes capacity. A demand that exceeds what is possible is structurally void, indicting the authority that made it."
 kind: paradigm
 applies_to:
   - ethics-and-morality

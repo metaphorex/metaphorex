@@ -1,6 +1,7 @@
 ---
 slug: negative-space-is-as-important-as-positive-space
 name: Negative Space Is as Important as Positive Space
+summary: "The voids must be composed as deliberately as the marks. What you leave out defines what you put in."
 kind: pattern
 source_frame: visual-arts-practice
 applies_to:

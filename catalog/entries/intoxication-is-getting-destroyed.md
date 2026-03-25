@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Intoxication Is Getting Destroyed
+summary: "Hammered, smashed, wrecked: extreme intoxication as catastrophic structural damage. The frame strips agency from the drinker entirely."
 provenance: osaka-master-metaphor-list
 related:
 - intoxication-is-getting-a-burden

@@ -10,6 +10,7 @@ contributors: []
 created: '2026-03-13'
 kind: metaphor
 name: Organization Is Physical Structure
+summary: "We cannot discuss abstract arrangement without invoking physical structure. Logical dependence becomes support; complexity becomes height."
 provenance: osaka-master-metaphor-list
 related:
 - theories-are-buildings

@@ -1,6 +1,7 @@
 ---
 slug: influence-is-physical-force
 name: Influence Is Physical Force
+summary: "Organizational influence as Newtonian mechanics: vectors, inertia, friction. Breaks because people are not passive objects acted upon by force."
 kind: metaphor
 source_frame: physics
 applies_to:
