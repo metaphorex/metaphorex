@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Existence Is An Object
+summary: "Existence as something you have, give, take, or lose. Smuggles economic logic into ontology: a life can be spent wisely or wasted."
 provenance: osaka-master-metaphor-list
 related:
 - existence-is-a-location

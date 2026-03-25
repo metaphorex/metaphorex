@@ -11,6 +11,7 @@ limits:
 - '[source] breaks because the rating measured destructive firepower, not general quality -- first-rates were slower, harder to maneuver, and often sat in port because they were too valuable to risk'
 - '[source] misleads because the system was a bureaucratic pay-scale classification, not a quality judgment -- calling a ship first-rate was a payroll category, not a compliment'
 name: First-Rate
+summary: "A gun-count naval taxonomy collapsed into a vague superlative. The rating measured firepower, not quality; first-rates were too costly to risk."
 related:
 - flagship
 slug: first-rate

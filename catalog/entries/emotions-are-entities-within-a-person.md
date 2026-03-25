@@ -12,6 +12,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: Emotions Are Entities Within A Person
+summary: "The person is a container; emotions are independent entities inside it. Control is containment, overflow is loss of control, depth is authenticity."
 provenance: lakoff-johnson-mwlb
 related:
 - emotional-stability-is-balance

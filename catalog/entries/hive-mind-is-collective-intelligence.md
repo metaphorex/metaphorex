@@ -12,6 +12,7 @@ created: '2026-03-16'
 harness: Claude Code
 kind: metaphor
 name: Hive Mind Is Collective Intelligence
+summary: "SF projected shared consciousness onto insect coordination involving none. The frame insists collective intelligence requires sacrificing autonomy."
 related:
 - agent-swarm
 slug: hive-mind-is-collective-intelligence

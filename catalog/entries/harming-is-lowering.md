@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Harming Is Lowering
+summary: "Harm as downward force: the harmer pushes the victim lower. Cumulative damage is descent, and someone already down has less distance to bottom."
 provenance: osaka-master-metaphor-list
 related:
 - good-is-up

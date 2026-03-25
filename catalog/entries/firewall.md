@@ -10,6 +10,7 @@ created: '2026-03-07'
 dead: true
 kind: metaphor
 name: Firewall
+summary: "Security as fireproof wall: trusted inside, dangerous outside. The perimeter dissolved with cloud and remote work, but the binary framing persists."
 related: []
 slug: firewall
 source_frame: architecture-and-building

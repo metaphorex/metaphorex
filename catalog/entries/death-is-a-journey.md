@@ -15,6 +15,7 @@ limits:
 - "[source] misleads because departure implies a destination, generating afterlife expectations that may be unfounded"
 - "[source] obscures that death is irreversible, since journeys permit return"
 name: Death Is a Journey
+summary: "The dead do not cease to exist; they leave. The journey frame structurally requires a destination, making afterlife beliefs a spatial entailment."
 provenance: glasgow-mapping-metaphor
 related:
 - existence-is-a-location

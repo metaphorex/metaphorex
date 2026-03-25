@@ -13,6 +13,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Good Is Up; Bad Is Down
+summary: "The superordinate orientational metaphor: positive evaluation maps onto height. Unifies HAPPY IS UP and HEALTHY IS UP but clashes with humility."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

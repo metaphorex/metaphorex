@@ -1,6 +1,7 @@
 ---
 slug: escape-route
 name: Escape Route
+summary: "Retreat planned at the moment of advance, not improvised under duress. The route must lead to a specific known-good state, not just away from danger."
 kind: metaphor
 dead: true
 source_frame: fire-safety

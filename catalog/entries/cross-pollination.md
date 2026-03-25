@@ -1,6 +1,7 @@
 ---
 slug: cross-pollination
 name: Cross-Pollination
+summary: "Ideas transferred between separated domains produce novel hybrids. The metaphor implies contact alone generates novelty, hiding the translation work."
 kind: metaphor
 source_frame: horticulture
 applies_to:

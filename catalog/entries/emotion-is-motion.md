@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Emotion Is Motion
+summary: "To feel is to be physically displaced. Intensity maps onto speed of motion; composure is stillness. The etymology (emovere) is itself the metaphor."
 provenance: osaka-master-metaphor-list
 related:
 - emotions-are-entities-within-a-person

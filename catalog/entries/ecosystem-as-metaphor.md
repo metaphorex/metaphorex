@@ -1,6 +1,7 @@
 ---
 slug: ecosystem-as-metaphor
 name: Ecosystem
+summary: "Relationships between entities matter more than entities themselves. Breaks because biological ecosystems have no CEO setting participation terms."
 kind: metaphor
 source_frame: ecology
 applies_to:

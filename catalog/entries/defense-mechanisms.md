@@ -1,6 +1,7 @@
 ---
 slug: defense-mechanisms
 name: Defense Mechanisms
+summary: "The psyche as a fortress under siege from its own impulses. Successful defense is therapeutic failure: the goal is to let the enemy through."
 kind: metaphor
 source_frame: war
 applies_to:

@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Creating Is Giving an Object
+summary: "Creation as social transaction: the maker gives, the audience receives. Skips the entire process of making, jumping straight to transfer."
 provenance: osaka-master-metaphor-list
 related:
 - creative-process-is-construction

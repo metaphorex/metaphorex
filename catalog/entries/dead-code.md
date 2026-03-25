@@ -1,6 +1,7 @@
 ---
 slug: dead-code
 name: Dead Code
+summary: "Code that exists in the codebase but no execution path can reach. Unlike biological death, the corpse can be resurrected by a single new call site."
 kind: metaphor
 source_frame: death-and-dying
 applies_to:

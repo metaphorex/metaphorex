@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Emotional Self Is A Brittle Object
+summary: "The heart breaks, the spirit crushes, the ego shatters. Failure is sudden and catastrophic, and the frame has no vocabulary for constructive breaking."
 provenance: osaka-master-metaphor-list
 related:
 - the-mind-is-a-brittle-object

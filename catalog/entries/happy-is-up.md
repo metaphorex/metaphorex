@@ -10,6 +10,7 @@ contributors:
 created: '2026-03-10'
 kind: metaphor
 name: Happy Is Up; Sad Is Down
+summary: "Upright posture grounds the vertical axis for affect: mood rises and falls as spatial motion. Collapses qualitatively different states onto one axis."
 provenance: lakoff-johnson-mwlb
 related:
 - argument-is-war

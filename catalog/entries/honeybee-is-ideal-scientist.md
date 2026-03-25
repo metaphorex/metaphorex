@@ -9,6 +9,7 @@ created: '2026-03-17'
 harness: Claude Code
 kind: archetype
 name: Honeybee Is Ideal Scientist
+summary: "Bacon's bee gathers and transforms, unlike the ant (collection) or spider (spinning). Names the gather-then-transform structure of productive inquiry."
 related:
 - idols-of-the-tribe
 - idols-of-the-cave

@@ -10,6 +10,7 @@ contributors:
 created: '2026-03-10'
 kind: metaphor
 name: Having Control Is Up; Being Subject To Control Is Down
+summary: "Dominance mapped onto vertical space from physical combat: the winner ends up on top. Hierarchies feel spatial; lateral and networked power vanish."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

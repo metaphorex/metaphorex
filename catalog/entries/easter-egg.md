@@ -1,6 +1,7 @@
 ---
 slug: easter-egg
 name: Easter Egg
+summary: "Hidden functionality reframed as a gift, not a defect. The original was a labor protest: a developer hiding his name because credit was refused."
 kind: metaphor
 dead: true
 source_frame: puzzles-and-games

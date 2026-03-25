@@ -29,6 +29,7 @@ limits:
   - '[source] Reproductive generation is species-typical and hormonally driven, but Erikson''s generativity conflates biological reproduction with cultural production and mentorship -- activities with entirely different motivational structures and failure modes'
   - '[source] The biological frame implies that not generating is sterile waste, pathologizing childlessness and solitary creative work that does not directly nurture others'
 name: Generativity
+summary: "Erikson maps reproduction onto midlife purpose: produce what outlives you. The biological frame pathologizes childlessness and naturalizes mentoring."
 related:
 - identity-crisis
 - trust-vs-mistrust

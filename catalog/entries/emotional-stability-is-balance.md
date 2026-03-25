@@ -12,6 +12,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: metaphor
 name: Emotional Stability Is Balance
+summary: "Composure as standing upright against gravity. Implies a single correct position, codes all deviation as dysfunction, pathologizing emotional range."
 provenance: lakoff-johnson-mwlb
 related:
 - happy-is-up

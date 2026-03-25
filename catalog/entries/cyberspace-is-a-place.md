@@ -1,6 +1,7 @@
 ---
 slug: cyberspace-is-a-place
 name: Cyberspace Is a Place
+summary: "Networked computing framed as navigable space with boundaries, geography, and property. Imports spatial scarcity into a domain of infinite copies."
 kind: metaphor
 source_frame: spatial-location
 applies_to:

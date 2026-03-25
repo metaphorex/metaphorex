@@ -12,6 +12,7 @@ limits:
 - "[source] misleads because frontiers are conquered once and stay mapped, while scientific unknowns can re-open as paradigms shift"
 - "[source] obscures that deep space is empty and hostile, not rich with resources waiting to be claimed, making the unknown seem more rewarding than it may be"
 name: Deep Space Is the Unknown Frontier
+summary: "The unknown as vast, dark territory beyond the edge of the map. Imports a single outward direction when real discovery is often recursive and inward."
 related:
 - knowledge-is-a-landscape
 slug: deep-space-is-the-unknown-frontier

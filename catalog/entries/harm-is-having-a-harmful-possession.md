@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Harm Is Having a Harmful Possession
+summary: "Suffering as an unwanted object you carry. Makes harm portable but implies you could set it down, shading into victim-blaming for structural damage."
 provenance: osaka-master-metaphor-list
 related:
 - harm-is-lacking-a-needed-possession

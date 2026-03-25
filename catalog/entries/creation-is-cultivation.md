@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Creation Is Cultivation
+summary: "The creator tends conditions; growth follows its own schedule. Implies the creation exists in potential before the creator acts."
 provenance: osaka-master-metaphor-list
 related:
 - creative-process-is-gardening

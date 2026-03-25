@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Desire Is Hunger
+summary: "Wanting structured as bodily deficit that consumption resolves. Breaks where desire has no satiation signal and fulfillment generates more wanting."
 provenance: osaka-master-metaphor-list
 related:
 - desires-are-forces-between-the-desired-and-the-desirer

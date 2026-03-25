@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: External Appearance Is A Cover
+summary: "The visible surface hides a true interior. Presupposes a hidden essence even when appearance and reality coincide, fostering default suspicion."
 provenance: osaka-master-metaphor-list
 related:
 - existence-is-visibility

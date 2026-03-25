@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Darkness Is a Solid
+summary: "Darkness given mass, thickness, and resistance. Reifies an absence of photons into a substance that must be cut or pierced by light."
 provenance: osaka-master-metaphor-list
 related:
 - darkness-is-a-cover

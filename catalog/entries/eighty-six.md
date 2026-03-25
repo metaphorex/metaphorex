@@ -15,6 +15,7 @@ limits:
 - '[source] breaks because the kitchen term is temporary and reversible (tomorrow''s delivery restocks the item), but "eighty-sixing" a person, a project, or a feature usually implies permanent elimination with no expectation of return'
 - '[source] obscures accountability by using a code number instead of a plain verb -- saying "we eighty-sixed the feature" distances the speaker from the decision in a way that "we killed it" does not, and this euphemistic function is invisible to users who have forgotten the source domain'
 name: Eighty-Six
+summary: "Kitchen code for an item that is gone, propagated as a one-word broadcast. Normalizes removal as routine inventory, not crisis or blame."
 related:
 - pipeline
 slug: eighty-six

@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Data Stream
+summary: "Continuous water flow mapped onto continuous data delivery. Breaks where the technology innovates most: real streams cannot be paused or replayed."
 related:
 - data-flow-is-fluid-flow
 - bottleneck

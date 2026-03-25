@@ -10,6 +10,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Deadline
+summary: "A lethal spatial boundary from Civil War prisons mapped onto a temporal one. The violence is bleached but the binary consequence structure persists."
 related: []
 slug: deadline
 source_frame: war

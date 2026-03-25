@@ -11,6 +11,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Death Is Departure
+summary: "Death as leaving, not ceasing. Preserves the person as an entity that changed address, making annihilation nearly unthinkable within the frame."
 provenance: osaka-master-metaphor-list
 related:
 - life-is-a-journey

@@ -1,6 +1,7 @@
 ---
 slug: failure-isolation-is-quarantine
 name: Failure Isolation Is Quarantine
+summary: "Cascading failure as epidemic, circuit breaker as quarantine. Breaks because software bugs are endogenous, not invaders you can isolate."
 kind: metaphor
 source_frame: contagion
 applies_to:

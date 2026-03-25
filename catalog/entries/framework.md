@@ -1,6 +1,7 @@
 ---
 slug: framework
 name: Framework
+summary: "The structural skeleton erected before walls and finish. Choosing a framework constrains all later work but feels like neutral preparation."
 kind: metaphor
 dead: true
 source_frame: carpentry

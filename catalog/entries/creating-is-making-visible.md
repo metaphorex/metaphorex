@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Creating Is Making Visible
+summary: "The creator reveals what was latent, not fabricates what is new. Presupposes the creation pre-exists in hidden form, importing Platonic mysticism."
 provenance: osaka-master-metaphor-list
 related:
 - creating-is-making

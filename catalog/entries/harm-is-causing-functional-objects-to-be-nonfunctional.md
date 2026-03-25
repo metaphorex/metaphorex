@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Harm Is Causing Functional Objects to Be Nonfunctional
+summary: "Harm as breakage of a working mechanism. Assumes a factory-spec state of proper function and strips subjectivity from the experience of damage."
 provenance: osaka-master-metaphor-list
 related:
 - harm-is-being-in-a-harmful-location

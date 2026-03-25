@@ -11,6 +11,7 @@ created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
 name: Finished Is Up
+summary: "Completion mapped onto reaching the top of a rising level. Often ominous rather than triumphant: the game is up, your number is up, time is up."
 provenance: lakoff-johnson-mwlb
 related:
 - foreseeable-future-is-up

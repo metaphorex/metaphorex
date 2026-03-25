@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Difficulties Are Containers
+summary: "Problems as enclosed spaces you fall into, not obstacles you face on a path. Depth maps severity; walls constrain action in every direction."
 provenance: osaka-master-metaphor-list
 related:
 - activities-are-containers

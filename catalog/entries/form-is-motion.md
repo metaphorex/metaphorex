@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Form Is Motion
+summary: "Static shapes described as movement: a road goes, a fence runs, a path follows the river. Imposes direction on things that exist all at once."
 provenance: osaka-master-metaphor-list
 related:
 - change-is-motion

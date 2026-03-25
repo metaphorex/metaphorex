@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Existence Is Having A Form
+summary: "To exist is to have a shape; to cease is to dissolve. Privileges the tangible and implies that whatever exists was given its form by something."
 provenance: osaka-master-metaphor-list
 related:
 - existence-is-a-location

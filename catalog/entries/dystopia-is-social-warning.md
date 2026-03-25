@@ -17,6 +17,7 @@ limits:
   - "[source] implies a single coherent threat (totalitarianism, surveillance, ecological ruin) when actual societies face multiple interacting pressures that do not resolve into a clean cautionary storyline"
   - "[source] presupposes a recognizable moment of departure from normalcy, but the conditions dystopias warn against often already exist in partial form, making the warning frame less useful for diagnosing present realities than for imagining future ones"
 name: Dystopia Is Social Warning
+summary: "Fiction extrapolates a present tendency to its endpoint, then deploys the endpoint as diagnostic. The warning implies we are still at the fork."
 related:
 - cassandra
 - canary-in-a-coal-mine

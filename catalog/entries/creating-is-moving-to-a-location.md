@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Creating Is Moving To A Location
+summary: "The created thing arrives from elsewhere rather than being fabricated here. Gives the idea agency and the creator passivity."
 provenance: osaka-master-metaphor-list
 related:
 - creating-is-making

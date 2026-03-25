@@ -12,6 +12,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Duck Typing
+summary: "Identity determined by behavior, not declared lineage. The test confirms membership cheaply but cannot detect impostors whose match is syntactic."
 related:
 - the-map-is-not-the-territory
 slug: duck-typing

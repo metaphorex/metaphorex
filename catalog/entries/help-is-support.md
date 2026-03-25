@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Help Is Support
+summary: "Assistance as holding something up against gravity. The helper bears weight beneath the helped, but the frame makes the recipient a passive load."
 provenance: osaka-master-metaphor-list
 related:
 - difficulties-are-burdens

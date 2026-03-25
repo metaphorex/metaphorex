@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Force Is a Substance Directed at an Affected Party
+summary: "Force as a fluid stream aimed at a recipient who absorbs, resists, or drowns. Makes causation feel impersonal even when deliberately wielded."
 provenance: osaka-master-metaphor-list
 related:
 - a-force-is-a-moving-object

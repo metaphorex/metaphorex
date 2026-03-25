@@ -11,6 +11,7 @@ dead: true
 harness: Claude Code
 kind: metaphor
 name: Elysium
+summary: "An ideal state defined by absence of suffering, maintained by exclusion. You must die to enter; nothing narratively happens once you arrive."
 related:
 - tantalus
 - damocles-sword

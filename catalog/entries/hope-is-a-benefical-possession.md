@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Hope Is a Beneficial Possession
+summary: "Hope as a valuable object you hold, lose, or give away. The possession frame makes despair into dispossession but hides that hoping is active work."
 provenance: osaka-master-metaphor-list
 related:
 - action-is-control-over-possessions

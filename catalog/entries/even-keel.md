@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Even Keel
+summary: "Stability from invisible structure below the waterline. Hides that ballast costs speed and heeling is the price of full sail."
 related:
 - in-the-doldrums
 slug: even-keel

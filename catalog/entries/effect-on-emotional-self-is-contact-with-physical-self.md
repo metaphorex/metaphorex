@@ -11,6 +11,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Effect on Emotional Self Is Contact with Physical Self
+summary: "Emotional impact inherits the physics of touch: light contact is tenderness, hard blows devastation. Recovery follows bodily healing timelines."
 provenance: osaka-master-metaphor-list
 related:
 - emotional-stability-is-balance

@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Creating Is Making
+summary: "Creation as fabrication by a skilled agent imposing form on passive material. Assumes the product is known before work begins."
 provenance: osaka-master-metaphor-list
 related:
 - creative-process-is-construction

@@ -10,6 +10,7 @@ created: '2026-03-12'
 harness: Claude Code
 kind: metaphor
 name: Harm Is Preventing Forward Motion Toward a Goal
+summary: "Harm as the gap between where you are and where you would have been. Without a goal there is no forward, so aimless suffering becomes invisible."
 provenance: osaka-master-metaphor-list
 related:
 - difficulties-are-impediments-to-motion

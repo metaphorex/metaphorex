@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: Fine-Tuning Is Specialization
+summary: "Domain adaptation framed as tightening a tuning peg. Hides that there is no target pitch, and 'small' adjustments alter billions of parameters."
 related:
 - training-is-education
 - compute-is-a-resource
