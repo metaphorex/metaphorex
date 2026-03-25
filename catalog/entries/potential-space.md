@@ -1,6 +1,7 @@
 ---
 slug: potential-space
 name: Potential Space
+summary: "Winnicott's intermediate zone between inner and outer reality where play and creativity occur, maintained by relational trust"
 kind: metaphor
 source_frame: spatial-location
 applies_to:

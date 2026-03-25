@@ -1,6 +1,7 @@
 ---
 slug: peter-principle
 name: Peter Principle
+summary: "Models how promotion based on current-level competence systematically moves people into roles they cannot perform"
 kind: mental-model
 source_frame: organizational-behavior
 categories:

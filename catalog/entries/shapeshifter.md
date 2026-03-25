@@ -10,6 +10,7 @@ limits:
 - '[source] breaks because the archetype stigmatizes flexibility by framing all form-change as inherently deceptive, when much adaptation is neither dishonest nor suspect'
 - '[source] misleads by assuming a stable identity beneath transformations, but in some domains there is no true form -- a startup that has pivoted three times is the sum of its pivots'
 name: Shapeshifter
+summary: "Cross-cultural archetype of form-change as strategy; identity treated as a tool while a true form persists beneath transformations"
 related: []
 slug: shapeshifter
 source_frame: mythology

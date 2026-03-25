@@ -17,6 +17,7 @@ limits:
   - '[source] successful parasites moderate their virulence to keep the host alive, but the metaphor is almost always deployed to imply maximum extraction with no restraint'
   - '[source] the host-parasite relationship is symmetrical at the evolutionary level -- hosts evolve counter-adaptations in an arms race -- but the metaphor presents a one-directional power relationship with a passive victim'
 name: Parasitism as Metaphor
+summary: "Maps sustained biological extraction without reciprocity onto social and economic relationships perceived as purely exploitative"
 related:
 - mutualism-as-metaphor
 - free-rider

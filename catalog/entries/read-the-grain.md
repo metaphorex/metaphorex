@@ -1,6 +1,7 @@
 ---
 slug: read-the-grain
-name: Read the Grain
+name: "Read the Grain"
+summary: "Perceiving a material's intrinsic structure before shaping it, from carpentry to management and teaching"
 kind: metaphor
 embodied_patterns:
   - surface-depth

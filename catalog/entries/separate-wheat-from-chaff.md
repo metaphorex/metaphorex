@@ -15,6 +15,7 @@ limits:
 - '[source] assumes the evaluator already possesses the grain-chaff mixture and only needs to sort it, obscuring the prior problem of gathering the right material to evaluate in the first place'
 - '[source] implies chaff is worthless and should be discarded, but in agriculture chaff has secondary uses (animal bedding, soil amendment), and analogously what one evaluator discards often has value in a different context'
 name: Separate the Wheat from the Chaff
+summary: "Winnowing's single-criterion binary sort mapped onto evaluation; the wind does the work, not item-by-item inspection"
 related:
 - you-reap-what-you-sow
 - panning-for-gold

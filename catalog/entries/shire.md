@@ -1,6 +1,7 @@
 ---
 slug: shire
 name: The Shire
+summary: "Tolkien's pastoral homeland as structural ignorance: peace sustained by invisible external protection rather than inherent virtue"
 kind: metaphor
 source_frame: mythology
 applies_to:

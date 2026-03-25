@@ -1,6 +1,7 @@
 ---
 slug: rubber-duck-solution
-name: Rubber Duck Solution
+name: "Rubber Duck Solution"
+summary: "Cross-domain pattern: explaining a problem to a naive listener forces linearization that exposes hidden reasoning gaps"
 kind: pattern
 source_frame: comedy-craft
 applies_to:

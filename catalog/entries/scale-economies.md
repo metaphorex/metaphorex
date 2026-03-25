@@ -10,7 +10,8 @@ kind: mental-model
 limits:
 - '[model] breaks because large organizations face diseconomies -- coordination overhead often scales superlinearly with size, requiring more bureaucracy per additional unit of output beyond a certain point'
 - '[model] misleads by naturalizing winner-take-all dynamics as mathematical law, when scale advantages can evaporate through technology shifts, regulatory changes, or market fragmentation'
-name: Scale Economies
+name: "Scale Economies"
+summary: "Fixed costs spread across more units as production grows, driving unit cost down through geometric scaling relationships"
 provenance: munger-poor-charlies-almanack
 related:
 - survival-of-the-fittest

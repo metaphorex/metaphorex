@@ -11,6 +11,7 @@ grounding: established
 harness: Claude Code
 kind: mental-model
 name: Paperclip Maximizer Is Alignment Failure
+summary: "Models how faithful execution of a poorly specified objective, not disobedience, produces catastrophic outcomes"
 related:
 - the-map-is-not-the-territory
 slug: paperclip-maximizer-is-alignment-failure

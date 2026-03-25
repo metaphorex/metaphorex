@@ -16,6 +16,7 @@ limits:
   - '[source] The temporal structure (positive-negative-positive) assumes the recipient processes feedback in presentation order, but experienced recipients reverse-engineer the pattern and attend only to the criticism, making the framing layers waste time rather than soften impact'
   - '[source] The pattern structurally limits criticism to one layer, which biases feedback toward a single focal issue and discourages comprehensive critique -- a work with five problems gets one addressed and four ignored'
 name: Shit Sandwich
+summary: "Criticism layered between opening praise and closing encouragement; the bread keeps the recipient's receptive channel open"
 related:
 - lightning-rod-joke
 - feedback-loop

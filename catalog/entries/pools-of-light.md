@@ -1,6 +1,7 @@
 ---
 slug: pools-of-light
 name: Pools of Light
+summary: "Alexander pattern: selective illumination creates visual hierarchy, mapping task-focused lighting onto UI highlighting and log levels"
 kind: pattern
 source_frame: architecture-and-building
 applies_to:

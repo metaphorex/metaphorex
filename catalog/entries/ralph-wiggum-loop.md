@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: archetype
-name: Ralph Wiggum Loop
+name: "Ralph Wiggum Loop"
+summary: "An agent bad at any single attempt becomes good in aggregate through cheerful retry loops with self-correction"
 related:
 - gas-town
 - ai-is-an-agent

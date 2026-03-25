@@ -9,6 +9,7 @@ contributors: []
 created: '2026-03-13'
 kind: metaphor
 name: Piecemeal Growth
+summary: "Maps incremental building repair onto software development, arguing systems should grow through continuous modification, not master plans"
 provenance: alexander-pattern-language
 related:
 - software-development-is-cathedral-building

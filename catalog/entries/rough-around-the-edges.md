@@ -1,6 +1,7 @@
 ---
 slug: rough-around-the-edges
-name: Rough Around the Edges
+name: "Rough Around the Edges"
+summary: "Dead carpentry metaphor where surface imperfection signals an incomplete finishing stage, not a structural defect"
 kind: metaphor
 dead: true
 embodied_patterns:

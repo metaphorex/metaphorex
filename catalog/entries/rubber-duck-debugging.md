@@ -10,7 +10,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Rubber Duck Debugging
+name: "Rubber Duck Debugging"
+summary: "Explaining code to an inanimate listener forces articulation that reveals bugs hidden in unexamined assumptions"
 related:
 - program-failure-is-bodily-failure
 slug: rubber-duck-debugging

@@ -1,6 +1,7 @@
 ---
 slug: quicksand
-name: Quicksand
+name: "Quicksand"
+summary: "Struggling against unwanted emotions intensifies them; survival requires the counterintuitive move of going still"
 kind: metaphor
 source_frame: geology
 applies_to:

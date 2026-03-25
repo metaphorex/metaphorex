@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
-name: Prompt Engineering Is Programming
+name: "Prompt Engineering Is Programming"
+summary: "Crafting LLM prompts described as engineering: deterministic discipline applied to a stochastic system"
 related:
 - ai-is-a-tool
 - neural-network-is-a-brain

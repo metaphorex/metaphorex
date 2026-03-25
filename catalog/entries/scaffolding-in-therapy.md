@@ -1,6 +1,7 @@
 ---
 slug: scaffolding-in-therapy
-name: Scaffolding in Therapy
+name: "Scaffolding in Therapy"
+summary: "Therapeutic variant where the clinician provides provisional, targeted support for psychological work the client cannot yet sustain"
 kind: metaphor
 source_frame: architecture-and-building
 applies_to:

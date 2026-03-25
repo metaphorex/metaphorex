@@ -1,6 +1,7 @@
 ---
 slug: pendulation
 name: Pendulation
+summary: "Maps a pendulum's self-damping oscillation onto therapeutic movement between trauma activation and resource states"
 kind: metaphor
 source_frame: physics
 applies_to:

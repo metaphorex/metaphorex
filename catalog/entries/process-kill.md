@@ -1,6 +1,7 @@
 ---
 slug: process-kill
-name: Process Kill
+name: "Process Kill"
+summary: "Terminating a process borrows the finality and graduated force of killing a living thing"
 kind: metaphor
 dead: true
 source_frame: embodied-experience

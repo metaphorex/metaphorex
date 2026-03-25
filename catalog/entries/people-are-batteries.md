@@ -10,6 +10,7 @@ created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
 name: People Are Batteries
+summary: "Maps electrical charge and depletion onto human energy, treating vitality as a scalar quantity that drains and recharges"
 provenance: osaka-master-metaphor-list
 related:
 - people-are-machines

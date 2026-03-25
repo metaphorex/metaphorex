@@ -17,6 +17,7 @@ limits:
   - "[source] implies a sharp before/after boundary (the person was authentic, then was replaced), but social conformity is typically gradual and reciprocal, with no discrete moment of conversion"
   - "[source] frames conformity as wholly destructive (the original person is gone), obscuring that some degree of behavioral convergence is necessary for social coordination and is not inherently pathological"
 name: Pod People Are Conformist Replacement
+summary: "Maps alien body-snatching onto social conformity, framing adoption of group norms as identity replacement rather than behavior change"
 related:
 - dystopia-is-social-warning
 - groupthink

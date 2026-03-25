@@ -1,6 +1,7 @@
 ---
 slug: services-are-autonomous-workers
 name: Services Are Autonomous Workers
+summary: "Employment structure mapped onto microservices: job descriptions become API contracts, encapsulation becomes workplace autonomy"
 kind: metaphor
 source_frame: organizational-structure
 applies_to:

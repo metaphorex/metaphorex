@@ -1,6 +1,7 @@
 ---
 slug: shadow-work
 name: Shadow Work
+summary: "Light-and-darkness physics mapped onto the Jungian disowned self; the shadow's shape is determined by the persona that casts it"
 kind: metaphor
 source_frame: light-and-darkness
 applies_to:

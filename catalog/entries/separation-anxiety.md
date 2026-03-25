@@ -12,6 +12,7 @@ limits:
   - '[model] predicts distress proportional to threat, but separation anxiety varies enormously with temperament, attachment history, and context — some securely attached children show minimal protest during brief separations, which the threat-detection lens cannot explain without invoking moderating variables the model does not specify'
   - '[model] imports the assumption that false alarms are low-cost, as in predator detection, but chronic separation anxiety in humans produces cortisol dysregulation, immune suppression, and developmental delays — the alarm''s metabolic overhead is high enough to become the threat itself'
 name: Separation Anxiety
+summary: "Bowlby reframes infant distress as an evolved alarm system calibrated by ancestral predation pressure, not neurotic dependency"
 related:
 - safe-haven
 - attachment-styles

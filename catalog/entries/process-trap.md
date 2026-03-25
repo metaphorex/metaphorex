@@ -10,7 +10,8 @@ created: '2026-03-17'
 dead: true
 harness: Claude Code
 kind: metaphor
-name: Process Trap
+name: "Process Trap"
+summary: "Signal handling as hunting: a mechanism set in advance that intercepts and captures arriving signals"
 related:
 - daemon
 - zombie-process

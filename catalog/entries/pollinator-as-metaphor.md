@@ -1,6 +1,7 @@
 ---
 slug: pollinator-as-metaphor
 name: Pollinator as Metaphor
+summary: "Maps inadvertent pollen transfer between flowers onto cross-domain knowledge transfer carried by people moving between contexts"
 kind: metaphor
 source_frame: ecology
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: rehab
-name: Rehab
+name: "Rehab"
+summary: "Firefighting protocol where mandatory rest is commanded by authority, not requested, because fatigue degrades self-assessment first"
 kind: pattern
 source_frame: fire-safety
 categories:

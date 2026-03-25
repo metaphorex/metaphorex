@@ -1,6 +1,7 @@
 ---
 slug: safety-zone
-name: Safety Zone
+name: "Safety Zone"
+summary: "Pre-identified survivable fallback position, sized for worst-case conditions and reachable under degraded circumstances"
 kind: mental-model
 source_frame: fire-safety
 categories:

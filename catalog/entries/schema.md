@@ -12,6 +12,7 @@ grounding: established
 harness: Claude Code
 kind: metaphor
 name: Schema
+summary: "Architectural blueprint mapped onto cognitive organizing frameworks; reusable across instances but never directly inspectable"
 provenance: child-psychology-metaphors
 related:
 - assimilation-and-accommodation

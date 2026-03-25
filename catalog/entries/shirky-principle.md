@@ -1,6 +1,7 @@
 ---
 slug: shirky-principle
 name: Shirky Principle
+summary: "Institutions develop a survival interest in the problem they were created to solve, optimizing for perpetuation over resolution"
 kind: mental-model
 source_frame: organizational-behavior
 categories:

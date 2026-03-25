@@ -7,7 +7,8 @@ contributors: []
 created: '2026-03-16'
 harness: Claude Code
 kind: mental-model
-name: Psychohistory Is Predictive Social Science
+name: "Psychohistory Is Predictive Social Science"
+summary: "Statistical mechanics applied to civilizations: individual behavior is noise, aggregate trends follow mathematical laws"
 related: []
 slug: psychohistory-is-predictive-social-science
 transfers:

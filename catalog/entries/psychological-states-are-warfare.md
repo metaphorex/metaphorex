@@ -11,7 +11,8 @@ created: '2026-03-16'
 grounding: established
 harness: Claude Code
 kind: metaphor
-name: Psychological States Are Warfare
+name: "Psychological States Are Warfare"
+summary: "Inner life structured as military operations: defenses, breakdowns, retreats, reinforcements, battles with internal enemies"
 provenance: glasgow-mapping-metaphor
 related:
 - emotions-are-forces

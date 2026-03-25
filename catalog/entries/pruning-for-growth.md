@@ -1,6 +1,7 @@
 ---
 slug: pruning-for-growth
-name: Pruning for Growth
+name: "Pruning for Growth"
+summary: "Cutting living, healthy branches to redirect finite energy toward fewer, more productive growth points"
 kind: metaphor
 source_frame: horticulture
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: prep
 name: Prep
+summary: "Maps kitchen prep work onto organizational preparation, where invisible upstream effort determines visible downstream execution quality"
 kind: metaphor
 source_frame: food-and-cooking
 applies_to:

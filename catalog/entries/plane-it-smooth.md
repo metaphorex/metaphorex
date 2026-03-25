@@ -1,6 +1,7 @@
 ---
 slug: plane-it-smooth
 name: Plane It Smooth
+summary: "Maps the hand plane's controlled material removal onto refinement through many small, calibrated, grain-aware adjustments"
 kind: metaphor
 source_frame: carpentry
 applies_to:

@@ -11,6 +11,7 @@ limits:
 - '[law] breaks because the model is frequently over-applied -- many distributions only superficially resemble power laws and fail rigorous statistical testing (Clauset et al. 2009)'
 - '[law] misleads by naturalizing extreme concentration, framing billionaire wealth or monopoly dominance as inevitable mathematical features rather than products of policy and historical accident'
 name: Power Laws
+summary: "Models distributions where extreme events are rare but dominate totals, connecting multiplicative processes to outcome concentration"
 provenance: munger-poor-charlies-almanack
 related:
 - regression-to-the-mean

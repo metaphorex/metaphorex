@@ -8,7 +8,8 @@ contributors: []
 created: '2026-03-18'
 grounding: established
 kind: mental-model
-name: Pride of Workmanship
+name: "Pride of Workmanship"
+summary: "Systems that destroy workers' intrinsic motivation degrade quality regardless of incentives; remove barriers, don't push harder"
 provenance: tps-deming
 related:
 - eliminate-slogans

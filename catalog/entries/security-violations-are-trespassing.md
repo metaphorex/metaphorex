@@ -10,6 +10,7 @@ created: '2026-03-21'
 harness: Claude Code
 kind: metaphor
 name: Security Violations Are Trespassing
+summary: "Physical property boundaries mapped onto network access control; perimeters, breaches, and intrusion inherit spatial logic"
 related:
 - ai-safety-is-containment
 slug: security-violations-are-trespassing

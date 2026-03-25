@@ -13,7 +13,8 @@ limits:
   - '[source] harbors are fixed locations that vessels choose to enter, but caregivers are mobile agents who must actively monitor and move toward the distressed child, so the metaphor underplays the caregiver''s required vigilance'
   - '[source] a harbor protects against a narrow class of threats (storm, waves, pursuit) through passive physical shelter, while caregiver soothing operates through active emotional regulation — holding, vocalizing, mirroring — that has no nautical equivalent'
   - '[source] vessels leave harbor when the storm passes and do not carry the harbor with them, but securely attached children internalize the caregiving relationship as a permanent representational structure that travels with them into new contexts'
-name: Safe Haven
+name: "Safe Haven"
+summary: "Bowlby's harbor metaphor: the caregiver is a sheltered port that dampens the child's distress through proximity"
 related:
 - internal-working-model
 - separation-anxiety

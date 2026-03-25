@@ -1,6 +1,7 @@
 ---
 slug: resilience
-name: Resilience
+name: "Resilience"
+summary: "A system's capacity to absorb disturbance, measured separately from performance, spanning bounce-back speed and threshold distance"
 kind: mental-model
 source_frame: resilience
 categories:

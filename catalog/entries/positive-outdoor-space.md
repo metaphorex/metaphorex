@@ -11,6 +11,7 @@ created: '2026-03-21'
 harness: Claude Code
 kind: pattern
 name: Positive Outdoor Space
+summary: "Alexander pattern: shaped gaps between buildings attract activity, mapping designed outdoor space onto API surfaces and boundaries"
 provenance: alexander-pattern-language
 related:
 - building-complex

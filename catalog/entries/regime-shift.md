@@ -14,7 +14,8 @@ limits:
 - '[source] implies that the new stable state is as clearly defined as "clear lake" versus "turbid lake," but organizational and social regime shifts often produce chaotic transitional periods with no identifiable new equilibrium'
 - '[source] imports hysteresis from ecology -- the idea that reversal requires far more effort than the original shift -- but in human systems, regime reversals sometimes happen overnight through political events, legal rulings, or viral cultural moments that have no ecological analog'
 - '[source] frames regime shifts as driven by slow variable accumulation crossing a threshold, but many organizational "regime shifts" are caused by discrete shocks (a key person leaving, a competitor launching) rather than gradual parameter drift'
-name: Regime Shift
+name: "Regime Shift"
+summary: "Systems flip abruptly between self-reinforcing stable states, with reversal requiring far more effort than the original shift"
 provenance: ecological-metaphors
 related:
 - critical-mass

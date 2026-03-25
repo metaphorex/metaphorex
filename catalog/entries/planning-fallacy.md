@@ -1,6 +1,7 @@
 ---
 slug: planning-fallacy
 name: Planning Fallacy
+summary: "Models systematic underestimation of time, cost, and risk caused by scenario-based inside-view thinking over base-rate data"
 kind: mental-model
 categories:
 - decision-making

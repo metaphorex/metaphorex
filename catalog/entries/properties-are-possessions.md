@@ -11,7 +11,8 @@ contributors:
 created: '2026-03-11'
 harness: Claude Code
 kind: metaphor
-name: Properties Are Possessions
+name: "Properties Are Possessions"
+summary: "Having attributes is owning objects: you possess courage, lose patience, gain confidence"
 provenance: lakoff-johnson-mwlb
 related:
 - ideas-are-objects

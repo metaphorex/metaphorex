@@ -1,6 +1,7 @@
 ---
 slug: praise-the-ripe-field-not-the-green-corn
 name: Praise the Ripe Field, Not the Green Corn
+summary: "Maps the gap between a green field and harvest onto the structural difference between early promise metrics and completed-value metrics"
 kind: metaphor
 dead: true
 source_frame: agriculture

@@ -9,7 +9,8 @@ contributors: []
 created: '2026-03-13'
 harness: Claude Code
 kind: metaphor
-name: Responsibilities Are Possessions
+name: "Responsibilities Are Possessions"
+summary: "Duties are held, carried, transferred, and dropped like physical objects, structuring how English encodes obligation"
 provenance: osaka-master-metaphor-list
 related:
 - properties-are-possessions

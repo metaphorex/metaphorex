@@ -1,6 +1,7 @@
 ---
 slug: seed-and-soil
 name: Seed and Soil
+summary: "Outcome as interaction between agent and environment; same seed in different soils produces different results"
 kind: metaphor
 source_frame: ecology
 applies_to:

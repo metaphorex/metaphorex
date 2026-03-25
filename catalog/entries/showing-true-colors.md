@@ -8,6 +8,7 @@ harness: Claude Code
 kind: metaphor
 dead: true
 name: Showing True Colors
+summary: "Naval false-flag tactics mapped onto social identity; the reveal of the true ensign and the attack were simultaneous acts"
 related:
 - loose-cannon
 slug: showing-true-colors

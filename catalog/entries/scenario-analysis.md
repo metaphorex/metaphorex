@@ -10,7 +10,8 @@ limits:
 - '[model] breaks because you can only prepare for futures you can conceive -- the most consequential events are often outside all constructed scenarios (unknown unknowns)'
 - '[model] misleads because in practice organizations construct bull/base/bear cases then anchor on the base case exactly as they would have anchored on a single forecast, making the ceremony of three numbers
   an illusion of rigor'
-name: Scenario Analysis
+name: "Scenario Analysis"
+summary: "Replace single-point forecasts with multiple plausible futures, each with early-warning triggers for pattern recognition"
 provenance: munger-poor-charlies-almanack
 related:
 - bayesian-updating

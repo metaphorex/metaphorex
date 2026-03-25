@@ -11,6 +11,7 @@ created: '2026-03-10'
 harness: Claude Code
 kind: paradigm
 name: Pattern Language as Shared Vocabulary
+summary: "Frames design patterns as a generative grammar where shared naming enables coordination without lengthy explanation"
 provenance: alexander-pattern-language
 related:
 - the-factory-pattern

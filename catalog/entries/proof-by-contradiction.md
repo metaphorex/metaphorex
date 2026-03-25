@@ -1,6 +1,7 @@
 ---
 slug: proof-by-contradiction
-name: Proof by Contradiction
+name: "Proof by Contradiction"
+summary: "Establish truth indirectly by assuming the opposite and deriving a logical impossibility"
 kind: paradigm
 source_frame: mathematical-proof
 applies_to:

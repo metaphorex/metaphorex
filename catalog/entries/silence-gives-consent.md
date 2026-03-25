@@ -1,6 +1,7 @@
 ---
 slug: silence-gives-consent
 name: Silence Gives Consent
+summary: "Roman legal maxim that treats inaction as endorsement, shifting the burden of participation from proposer to potential objector"
 kind: paradigm
 applies_to:
   - social-behavior

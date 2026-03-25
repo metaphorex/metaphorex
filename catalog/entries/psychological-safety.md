@@ -1,6 +1,7 @@
 ---
 slug: psychological-safety
-name: Psychological Safety
+name: "Psychological Safety"
+summary: "A team's willingness to take interpersonal risks depends on shared belief about consequences, not individual courage"
 kind: mental-model
 source_frame: psychology
 categories:

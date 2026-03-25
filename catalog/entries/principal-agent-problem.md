@@ -10,7 +10,8 @@ kind: mental-model
 limits:
 - '[model] breaks because many agents (teachers, doctors, civil servants) are motivated by professional ethics and intrinsic satisfaction, not just rational self-interest'
 - '[model] misleads by implicitly framing the principal''s interests as legitimate, when principals can have bad objectives and agent deviation may serve longer-term organizational health'
-name: Principal-Agent Problem
+name: "Principal-Agent Problem"
+summary: "Delegated work creates information asymmetry that lets agents serve themselves at the principal's expense"
 provenance: munger-poor-charlies-almanack
 related:
 - latticework-of-mental-models
