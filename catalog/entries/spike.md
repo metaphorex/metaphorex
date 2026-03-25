@@ -1,6 +1,7 @@
 ---
 slug: spike
 name: Spike
+summary: "Time-boxed exploration in XP to answer a specific risk question before committing to implementation, discarded after learning."
 kind: metaphor
 source_frame: exploration
 applies_to:

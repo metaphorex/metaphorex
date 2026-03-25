@@ -1,6 +1,7 @@
 ---
 slug: t-shaped-people
 name: T-Shaped People
+summary: "Letter shape maps breadth of awareness (horizontal bar) against depth in one specialty (vertical bar)."
 kind: metaphor
 source_frame: geometry
 applies_to:

@@ -1,6 +1,7 @@
 ---
 slug: servant-leadership
 name: Servant Leadership
+summary: "Inverted pyramid of obligation: leaders serve those they lead rather than extracting from them, power justified by enabling others."
 kind: paradigm
 source_frame: leadership-and-management
 categories:

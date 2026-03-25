@@ -1,6 +1,7 @@
 ---
 slug: first-mover-advantage
 name: First-Mover Advantage
+summary: "First market entry confers durable advantages through resource preemption and switching costs, but empirical survival rates are poor."
 kind: mental-model
 categories:
   - economics-and-finance

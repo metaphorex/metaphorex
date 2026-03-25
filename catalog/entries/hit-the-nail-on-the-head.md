@@ -1,6 +1,7 @@
 ---
 slug: hit-the-nail-on-the-head
 name: Hit the Nail on the Head
+summary: "Carpentry: a blow either lands on the head or misses; frames correct identification as binary, self-evident, and achieved in one strike."
 kind: metaphor
 dead: true
 source_frame: carpentry

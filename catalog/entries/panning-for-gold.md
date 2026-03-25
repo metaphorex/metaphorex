@@ -1,6 +1,7 @@
 ---
 slug: panning-for-gold
 name: Panning for Gold
+summary: "Prospecting labor: sifting large volumes of low-value material to isolate rare signal; the work is in the ratio, not the find."
 kind: metaphor
 source_frame: mining
 applies_to:

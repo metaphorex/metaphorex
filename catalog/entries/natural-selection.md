@@ -1,6 +1,7 @@
 ---
 slug: natural-selection
 name: Natural Selection
+summary: "Darwin's mechanism: heritable variation plus differential survival produces cumulative, purposeless design without a designer."
 kind: mental-model
 source_frame: natural-selection
 categories:

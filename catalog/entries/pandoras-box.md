@@ -1,6 +1,7 @@
 ---
 slug: pandoras-box
 name: Pandora's Box
+summary: "Hesiod's jar: irreversible release of harms once opened; only hope remains, making the opening both catastrophe and promise."
 kind: metaphor
 source_frame: mythology
 applies_to:

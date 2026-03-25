@@ -1,6 +1,7 @@
 ---
 slug: grok
 name: Grok
+summary: "Heinlein's Martian word for understanding by absorption; comprehension as identity-dissolution, not information acquisition."
 kind: metaphor
 dead: true
 source_frame: science-fiction

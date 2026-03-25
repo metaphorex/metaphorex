@@ -1,6 +1,7 @@
 ---
 slug: chain-of-command
 name: Chain of Command
+summary: "Physical chain maps sequential authority transmission; encodes single-link failure risk and the illusion of lossless communication."
 kind: metaphor
 source_frame: military-command
 applies_to:

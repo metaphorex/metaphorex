@@ -1,6 +1,7 @@
 ---
 slug: second-system-effect
 name: Second-System Effect
+summary: "Brooks's observation: the second system accumulates all deferred ideas from the first, producing an over-engineered failure."
 kind: mental-model
 source_frame: software-engineering
 categories:

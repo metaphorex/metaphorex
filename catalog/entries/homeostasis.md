@@ -1,6 +1,7 @@
 ---
 slug: homeostasis
 name: Homeostasis
+summary: "Cannon's negative feedback: biological systems resist displacement from equilibrium through automatic self-correction."
 kind: mental-model
 categories:
   - systems-thinking

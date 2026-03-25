@@ -1,6 +1,7 @@
 ---
 slug: biodiversity-loss
 name: Biodiversity Loss
+summary: "Species loss reduces functional redundancy; maps onto organizational homogenization that feels costless until a crisis exposes the gap."
 kind: metaphor
 source_frame: ecology
 applies_to:

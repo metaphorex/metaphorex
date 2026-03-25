@@ -1,6 +1,7 @@
 ---
 slug: mutualism
 name: Mutualism
+summary: "(+/+) symbiosis: both parties benefit from the relationship, the rarest stable form of inter-entity dependency."
 kind: mental-model
 source_frame: ecology
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: sowing-seeds
 name: Sowing Seeds
+summary: "Agricultural deferred return: investment now, harvest later, with a gap where effort is invisible but irreversible."
 kind: metaphor
 source_frame: agriculture
 applies_to:

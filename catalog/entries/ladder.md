@@ -1,6 +1,7 @@
 ---
 slug: ladder
 name: Ladder
+summary: "Sequential vertical progress with fixed rungs; imports the assumption that advancement is linear, one step at a time, with no skipping."
 kind: metaphor
 dead: true
 source_frame: tool-use

@@ -1,6 +1,7 @@
 ---
 slug: hammer-and-nail
 name: Hammer and Nail
+summary: "Tool familiarity distorts problem perception; expertise shapes what counts as a nail, making the mismatch invisible to the user."
 kind: mental-model
 categories:
   - cognitive-science

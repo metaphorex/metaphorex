@@ -1,6 +1,7 @@
 ---
 slug: gilding-the-lily
 name: Gilding the Lily
+summary: "Adding ornament to something already complete; the covering obscures the original quality with unnecessary embellishment."
 kind: metaphor
 source_frame: craftsmanship
 applies_to:

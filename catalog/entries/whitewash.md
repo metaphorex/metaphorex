@@ -1,6 +1,7 @@
 ---
 slug: whitewash
 name: Whitewash
+summary: "Lime coating that covers without repairing; names cover-ups that address appearance while leaving the substrate unchanged."
 kind: metaphor
 dead: true
 source_frame: purity

@@ -1,6 +1,7 @@
 ---
 slug: straw-that-broke-the-camels-back
 name: Straw That Broke the Camel's Back
+summary: "Cumulative causation: each load is tolerable until one small addition crosses the threshold, hiding that the prior loads were the real cause."
 kind: metaphor
 source_frame: weight
 applies_to:

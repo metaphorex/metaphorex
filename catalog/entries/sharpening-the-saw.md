@@ -1,6 +1,7 @@
 ---
 slug: sharpening-the-saw
 name: Sharpening the Saw
+summary: "Tool maintenance as renewal: pausing productive work to restore the instrument's edge is itself productive, not lost time."
 kind: metaphor
 source_frame: tool-use
 applies_to:

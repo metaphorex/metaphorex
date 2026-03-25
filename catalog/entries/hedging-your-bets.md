@@ -1,6 +1,7 @@
 ---
 slug: hedging-your-bets
 name: Hedging Your Bets
+summary: "A secondary bet placed against the primary to cap downside; accepts a lower ceiling on winnings for a higher floor on losses."
 kind: metaphor
 dead: true
 source_frame: gambling

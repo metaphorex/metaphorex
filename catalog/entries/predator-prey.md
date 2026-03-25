@@ -1,6 +1,7 @@
 ---
 slug: predator-prey
 name: Predator-Prey
+summary: "Lotka-Volterra coupled oscillation: two populations cycle together because each one's abundance is the other's constraint."
 kind: mental-model
 source_frame: ecology
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: prototype
 name: Prototype
+summary: "Disposable test version whose purpose is learning, not output; inverts the assumption that a first attempt should be kept."
 kind: mental-model
 source_frame: manufacturing
 categories:

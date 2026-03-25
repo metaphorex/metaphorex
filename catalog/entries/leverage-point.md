@@ -1,6 +1,7 @@
 ---
 slug: leverage-point
 name: Leverage Point
+summary: "Meadows' hierarchy: places in a system where small interventions produce large changes, but the highest-leverage points are counterintuitive."
 kind: mental-model
 source_frame: physics
 categories:

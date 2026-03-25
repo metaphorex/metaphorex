@@ -1,6 +1,7 @@
 ---
 slug: looking-glass-self
 name: Looking-Glass Self
+summary: "Cooley's model: self-concept is built from reflected perceptions of how others see us, making identity a social construction."
 kind: metaphor
 source_frame: optics-and-reflection
 applies_to:

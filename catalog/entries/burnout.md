@@ -1,6 +1,7 @@
 ---
 slug: burnout
 name: Burnout
+summary: "Combustion metaphor for exhaustion: misdirects intervention to the individual fuel rather than the organizational conditions of combustion."
 kind: metaphor
 source_frame: fire-safety
 dead: true

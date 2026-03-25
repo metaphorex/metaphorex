@@ -1,6 +1,7 @@
 ---
 slug: kiss
 name: KISS (Keep It Simple, Stupid)
+summary: "Design principle: complexity is a bug unless forced by the problem itself; simplicity requires deliberate effort, not default."
 kind: mental-model
 categories:
   - software-engineering

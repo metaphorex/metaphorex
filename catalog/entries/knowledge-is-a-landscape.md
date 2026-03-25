@@ -1,6 +1,7 @@
 ---
 slug: knowledge-is-a-landscape
 name: Knowledge Is a Landscape
+summary: "Cartographic metaphor: expertise as terrain with peaks of mastery, valleys of ignorance, and regions yet to be explored."
 kind: metaphor
 source_frame: cartography
 applies_to:

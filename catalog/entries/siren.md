@@ -1,6 +1,7 @@
 ---
 slug: siren
 name: Siren
+summary: "Odyssey archetype: irresistible, fatal attraction that destroys those who approach without deliberate safeguards."
 kind: archetype
 source_frame: mythology
 applies_to:

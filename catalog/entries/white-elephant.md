@@ -1,6 +1,7 @@
 ---
 slug: white-elephant
 name: White Elephant
+summary: "A Thai royal gift too sacred to use but too costly to keep; any asset whose prestige blocks rational divestment."
 kind: metaphor
 dead: true
 source_frame: economics

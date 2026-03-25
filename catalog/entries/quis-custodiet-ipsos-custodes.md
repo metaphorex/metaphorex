@@ -1,6 +1,7 @@
 ---
 slug: quis-custodiet-ipsos-custodes
 name: Quis Custodiet Ipsos Custodes
+summary: "Juvenal's oversight regress: any guardian can be corrupted, so who guards the guardian? The question has no internal solution."
 kind: mental-model
 source_frame: governance
 categories:
