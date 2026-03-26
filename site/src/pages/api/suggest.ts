@@ -4,7 +4,7 @@ import { Octokit } from "@octokit/rest";
 export const prerender = false;
 
 const TURNSTILE_SECRET = import.meta.env.TURNSTILE_SECRET;
-const GH_APP_INSTALLATION_TOKEN = import.meta.env.GH_APP_INSTALLATION_TOKEN;
+const GH_TOKEN = import.meta.env.GH_TOKEN;
 const REPO_OWNER = "metaphorex";
 const REPO_NAME = "metaphorex";
 
@@ -90,7 +90,7 @@ export const POST: APIRoute = async ({ request }) => {
 
   // Create GitHub issue
   try {
-    const octokit = new Octokit({ auth: GH_APP_INSTALLATION_TOKEN });
+    const octokit = new Octokit({ auth: GH_TOKEN });
     await octokit.issues.create({
       owner: REPO_OWNER,
       repo: REPO_NAME,
