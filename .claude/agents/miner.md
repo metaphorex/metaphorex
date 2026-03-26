@@ -291,6 +291,33 @@ If the token is NOT set, use default auth (no prefix needed).
 - ALWAYS include `--label needs-smelting` when running `gh pr create`
 - ALWAYS prefix `gh` commands with `GH_TOKEN="$M4X_MINER_TOKEN"`
 
+
+**Pre-PR Content Verification (REQUIRED before every `gh pr create`):**
+
+Worktree contamination or stale state can cause the branch to contain different
+entries than what the issue lists. The PR title and body MUST reflect the actual
+branch content, not the issue description. Before creating any PR:
+
+1. Extract actual entry slugs from the branch diff:
+   ```bash
+   git diff origin/main --name-only -- catalog/entries/ | xargs -I{} basename {} .md
+   ```
+2. For each slug, read the file's frontmatter to get `name`, `kind`, and
+   `source_frame`
+3. Build the PR title from the actual slugs:
+   - For 1-5 entries: `Add N entries: slug-a, slug-b, slug-c`
+   - For enrichment: `Add structural enrichment: N entries (<project>)`
+4. Build the PR body Summary section from the actual frontmatter — list each
+   entry with its kind and source frame (if applicable)
+5. If the diff contains zero entry files, do NOT create a PR — something went
+   wrong. Abort and report on the source issue.
+6. If the diff contains entries you did not intend to add (e.g., from a
+   previous branch or worktree bleed), abort immediately. Do not create a PR
+   with mismatched content.
+
+Never manually type entry names into the PR title or body. Always derive them
+from `git diff` output.
+
 **Post-PR Checklist (REQUIRED for every entry):**
 
 You MUST complete all three steps for every entry you process. Missing labels
