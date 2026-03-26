@@ -8,6 +8,9 @@ const sorted = entries.sort((a, b) => a.data.name.localeCompare(b.data.name));
 
 <Base title="Entries">
   <h1>Entries ({entries.length})</h1>
+  <p class="muted" style="font-size:0.9375rem;">
+    Know a metaphor we're missing? <a href="/suggest/">Suggest it</a>.
+  </p>
   <ul class="entry-list" data-pagefind-body>
     {sorted.map((m) => (
       <li>
