@@ -1,4 +1,6 @@
 ---
+import Analytics from "@vercel/analytics/astro";
+
 interface Props {
   title: string;
   description?: string;
@@ -395,6 +397,7 @@ const corpusVersion = new Date().toISOString().split("T")[0].replace(/-/g, ".");
       });
     </script>
     <slot />
+    <Analytics />
     <footer>
       Metaphorex {corpusVersion} &middot;
       <a href="https://github.com/metaphorex/metaphorex">GitHub</a> &middot;
