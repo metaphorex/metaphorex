@@ -178,12 +178,12 @@ If the token is NOT set, use default auth (no prefix needed).
    ```bash
    uv run scripts/validate_manifest.py playbooks/<project-name>/manifest.json
    ```
-   Fix any errors (invalid kind, ALL-CAPS names, identical source/target
-   frames, invalid source values) before proceeding. The validator checks:
+   Fix any errors before proceeding. The validator checks:
    - `kind` must be one of: metaphor, pattern, archetype, paradigm, mental-model
    - `name` must be title case (not ALL-CAPS, not lowercase)
    - `source_frame` and `target_frame` must not be identical
    - `source` must be one of: archive, llm
+   - Category slugs must reference actual files in `catalog/categories/`
 11. Open a PR with: playbook + scripts + manifest
 12. Add the `in-progress` label to the parent issue to claim it
 13. Post a run summary comment on the parent issue

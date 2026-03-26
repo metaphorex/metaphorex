@@ -7,6 +7,14 @@
 Usage:
     uv run scripts/validate_manifest.py playbooks/*/manifest.json
     uv run scripts/validate_manifest.py playbooks/dead-metaphors/manifest.json
+
+Checks:
+    - Required fields present (slug, name, kind, source)
+    - kind is a valid entry kind
+    - name is title case (not ALL-CAPS, not lowercase)
+    - source is 'archive' or 'llm'
+    - source_frame and target_frame are not identical
+    - Category slugs reference actual files in catalog/categories/
 """
 
 from __future__ import annotations
@@ -14,6 +22,9 @@ from __future__ import annotations
 import json
 import sys
 from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+CATEGORIES_DIR = ROOT / "catalog" / "categories"
 
 VALID_KINDS = {
     "metaphor",
@@ -40,7 +51,12 @@ def is_title_case(name: str) -> bool:
     return has_upper and has_lower
 
 
-def validate_manifest(path: Path) -> list[str]:
+def category_slugs() -> set[str]:
+    """Return the set of valid category slugs from catalog/categories/*.md filenames."""
+    return {f.stem for f in CATEGORIES_DIR.glob("*.md")}
+
+
+def validate_manifest(path: Path, valid_categories: set[str]) -> list[str]:
     """Validate a single manifest file. Returns a list of error strings."""
     errors: list[str] = []
     prefix = str(path)
@@ -112,10 +128,20 @@ def validate_manifest(path: Path) -> list[str]:
                 f"('{source_frame}')"
             )
 
+        # category slug validation
+        for cat in candidate.get("categories", []):
+            if cat not in valid_categories:
+                errors.append(
+                    f"{cpfx}: category '{cat}' "
+                    f"does not exist in catalog/categories/"
+                )
+
     return errors
 
 
 def main() -> None:
+    valid_cats = category_slugs()
+
     if len(sys.argv) < 2:
         print(__doc__.strip())
         sys.exit(1)
@@ -127,7 +153,7 @@ def main() -> None:
         if not path.exists():
             all_errors.append(f"{path}: file not found")
             continue
-        all_errors.extend(validate_manifest(path))
+        all_errors.extend(validate_manifest(path, valid_cats))
 
     if all_errors:
         print(f"{len(all_errors)} error(s):\n")
