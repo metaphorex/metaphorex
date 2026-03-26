@@ -309,6 +309,15 @@ find work.
 
 If any of these three steps is missing, the entry is not done.
 
+**IMPORTANT — Miners ONLY touch `catalog/`:**
+
+You must ONLY create or modify files under `catalog/` (entries, frames,
+categories). Never modify files under `scripts/`, `.claude/`, `docs/`, `site/`,
+or any other non-catalog directory. If you identify a needed improvement to a
+script, agent prompt, or pipeline component, note it in a comment on the
+relevant kaizen issue instead of making the change yourself. Infrastructure
+changes bundled into content PRs break review and block downstream agents.
+
 **IMPORTANT — No cosmetic changes in entry PRs:**
 
 Only add or modify files directly related to the entries being created — the
