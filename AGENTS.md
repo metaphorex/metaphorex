@@ -8,9 +8,15 @@ drafts, merged = published. Licensed CC BY-SA 4.0 (content), MIT (code).
 
 ```bash
 uv run scripts/validate.py validate   # zero-install, PEP 723 inline deps
+cd site && bun run build              # astro build + pagefind indexing
 ```
 
 Zero warnings, zero errors is the precedent. Fix all issues before merging.
+
+## Package Managers
+
+- **Python**: `uv` / `uvx` only (never pip, never venv)
+- **Node/site + scripts**: `bun` only (never npm, never yarn, never pnpm)
 
 ## Directory Structure
 
