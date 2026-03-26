@@ -81,6 +81,21 @@ def collect(proc: subprocess.Popen) -> list[dict]:
         return []
 
 
+def verify_issue_exists(repo: str, issue_number: int) -> bool:
+    """Check that an issue number resolves via REST API.
+
+    GraphQL subIssues can return phantom issue numbers (draft or
+    not-yet-merged sub-issues) that 404 on REST. This verifies the
+    issue actually exists before we surface it as actionable work.
+    """
+    result = subprocess.run(
+        ["gh", "api", f"repos/{repo}/issues/{issue_number}",
+         "--silent"],
+        capture_output=True, text=True,
+    )
+    return result.returncode == 0
+
+
 def survey(repo: str) -> dict:
     """Run all GitHub queries in parallel and return structured results."""
     owner, name = repo.split("/")
@@ -287,8 +302,17 @@ def survey(repo: str) -> dict:
                 continue
             if si.get("state") != "open":
                 continue
-            si_labels = [l["name"] for l in si.get("labels", [])]
             si_num = si["number"]
+            # Verify the sub-issue actually exists via REST.
+            # GraphQL subIssues can return phantom numbers that 404.
+            if not verify_issue_exists(repo, si_num):
+                print(
+                    f"warning: phantom sub-issue #{si_num} "
+                    f"(child of #{parent_num}) — skipping",
+                    file=sys.stderr,
+                )
+                continue
+            si_labels = [l["name"] for l in si.get("labels", [])]
             priority = parent_priority.get(parent_num, "normal")
             if "in-progress" not in si_labels:
                 unclaimed.append({
@@ -341,6 +365,15 @@ def survey(repo: str) -> dict:
             if tm:
                 matched_parent = prefix_to_parent.get(tm.group(1).lower())
         if matched_parent is None or matched_parent not in surveyed_parent_numbers:
+            continue
+
+        # Verify orphan sub-issue exists via REST (GraphQL can return phantoms)
+        if not verify_issue_exists(repo, inum):
+            print(
+                f"warning: phantom sub-issue #{inum} "
+                f"(orphan of #{matched_parent}) — skipping",
+                file=sys.stderr,
+            )
             continue
 
         si_labels = [l["name"] for l in issue.get("labels", {}).get("nodes", [])]
