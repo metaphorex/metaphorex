@@ -25,14 +25,14 @@ limits:
   - '[model] breaks because fire behavior is governed by physical laws (wind, slope, fuel) that make prediction tractable within hours, while organizational and software threats involve adversarial or emergent dynamics where the equivalent of "where is the fire going" has no reliable answer'
   - '[model] misleads when teams treat the four components as a checklist to be satisfied once at the start, rather than continuously maintained -- a safety zone that was adequate when conditions were assessed may become untenable as the situation evolves, and the model''s acronym format encourages static rather than dynamic evaluation'
 embodied_patterns:
+  - part-whole
+  - link
   - matching
-  - path
-  - boundary
 relation_types:
+  - coordinate
   - prevent
-  - decompose
 structure: hierarchy
-abstraction_level: generic
+abstraction_level: specific
 ---
 
 ## Transfers

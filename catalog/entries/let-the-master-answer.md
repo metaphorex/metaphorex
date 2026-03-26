@@ -26,13 +26,12 @@ transfers:
   - "[paradigm] provides the conceptual foundation for holding organizations rather than individuals accountable, enabling the entire vocabulary of corporate liability, command responsibility, and institutional negligence"
 updated: '2026-03-16'
 embodied_patterns:
-  - boundary
+  - link
   - force
-  - balance
+  - center-periphery
 relation_types:
   - cause
-  - prevent
-  - enable
+  - coordinate
 structure: hierarchy
 abstraction_level: generic
 ---

@@ -24,14 +24,14 @@ transfers:
 - '[model] carries the prediction that increasing operator force will degrade rather than improve results -- a forced plane chatters and tears grain, a forced framework produces brittle workarounds -- because the tool''s design encodes constraints that force violates'
 updated: '2026-03-21'
 embodied_patterns:
-  - part-whole
-  - matching
   - force
+  - matching
+  - removal
 relation_types:
-  - cause
+  - enable
   - transform
 structure: pipeline
-abstraction_level: generic
+abstraction_level: specific
 ---
 
 ## Transfers

@@ -27,15 +27,14 @@ limits:
   - '[source] misleads by implying that complexity is always a defect, when many domains require irreducible complexity -- a tax code cannot be minimalist without becoming unjust, and a programming language cannot be minimal without becoming inexpressive'
   - '[source] hides the survivorship bias in its own evidence: we see the successful minimalist designs (iPhone, Mies''s Farnsworth House) and not the many stripped-down designs that failed because they removed something essential, so the principle appears more reliable than it is'
 embodied_patterns:
-  - part-whole
-  - boundary
-  - container
+  - removal
+  - scale
+  - matching
 relation_types:
-  - cause
   - transform
-  - compete
-structure: hierarchy
-abstraction_level: specific
+  - select
+structure: transformation
+abstraction_level: generic
 ---
 
 ## Transfers

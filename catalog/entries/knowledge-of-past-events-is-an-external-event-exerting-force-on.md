@@ -30,14 +30,13 @@ limits:
   - '[source] a physical force has a single vector and magnitude, while the impact of learning about past events can simultaneously push in contradictory emotional directions (relief and grief at once)'
 embodied_patterns:
   - force
-  - scale
-  - balance
+  - path
+  - near-far
 relation_types:
   - cause
   - transform
-  - contain
-structure: equilibrium
-abstraction_level: generic
+structure: pipeline
+abstraction_level: primitive
 ---
 
 ## Transfers

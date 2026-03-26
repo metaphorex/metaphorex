@@ -25,11 +25,11 @@ updated: '2026-03-13'
 embodied_patterns:
   - force
   - scale
-  - balance
+  - center-periphery
 relation_types:
   - cause
-  - transform
-structure: equilibrium
+  - enable
+structure: hierarchy
 abstraction_level: generic
 ---
 

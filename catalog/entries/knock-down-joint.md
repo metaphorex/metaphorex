@@ -32,11 +32,11 @@ limits:
 embodied_patterns:
   - part-whole
   - matching
-  - force
+  - splitting
 relation_types:
-  - cause
-  - transform
-structure: pipeline
+  - coordinate
+  - enable
+structure: hierarchy
 abstraction_level: specific
 ---
 

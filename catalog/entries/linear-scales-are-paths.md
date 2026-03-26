@@ -28,8 +28,8 @@ limits:
   - '[source] travel along a path takes effort proportional to distance, but moving along an abstract scale involves no physical cost -- going from 1 to 100 is no harder than going from 1 to 2'
 embodied_patterns:
   - path
+  - scale
   - near-far
-  - force
 relation_types:
   - cause
   - transform

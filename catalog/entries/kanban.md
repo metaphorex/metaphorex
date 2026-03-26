@@ -29,13 +29,13 @@ limits:
   - "[paradigm] assumes that work items are roughly interchangeable and flow through a repeatable sequence of stations, but knowledge work varies enormously in size, complexity, and routing, making the factory-floor token system a poor fit without significant adaptation"
 embodied_patterns:
   - flow
+  - container
   - matching
-  - iteration
 relation_types:
-  - cause
-  - contain
+  - coordinate
+  - prevent
 structure: pipeline
-abstraction_level: generic
+abstraction_level: specific
 ---
 
 ## Transfers

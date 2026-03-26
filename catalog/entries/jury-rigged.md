@@ -24,12 +24,12 @@ transfers:
 - '[source] the standard for a jury rig was survival, not excellence -- it needed only enough sail area for steerage, mapping reduced adequacy standards onto solutions that work but barely'
 updated: '2026-03-14'
 embodied_patterns:
-  - force
-  - path
-  - boundary
+  - part-whole
+  - matching
+  - removal
 relation_types:
-  - cause
   - transform
+  - enable
 structure: transformation
 abstraction_level: specific
 ---

@@ -25,13 +25,13 @@ limits:
   - '[source] misleads by implying a just universe where suffering is always deserved (earned through prior bad karma), which can rationalize victim-blaming and indifference to structural injustice'
   - '[source] breaks because the original concept requires rebirth across multiple lifetimes for the ledger to balance, while the popular Western usage expects karma to close accounts within a single life, collapsing the cosmological timescale into an impossibly short window'
 embodied_patterns:
-  - force
+  - balance
   - path
-  - boundary
+  - accretion
 relation_types:
   - cause
-  - transform
-structure: transformation
+  - restore
+structure: cycle
 abstraction_level: generic
 ---
 

@@ -25,13 +25,13 @@ limits:
   - "[source] breaks because the mythological labyrinth has a single correct path and a single center, while real bureaucratic and systemic complexity typically has multiple overlapping paths, no center, and goals that shift as you navigate"
   - "[source] misleads because the metaphor implies the complexity is deliberate (someone designed this to trap you), encouraging paranoia about intentional obfuscation when most real complexity is emergent and unplanned"
 embodied_patterns:
-  - force
   - path
-  - boundary
+  - blockage
+  - container
 relation_types:
-  - enable
-  - accumulate
-structure: transformation
+  - prevent
+  - cause
+structure: pipeline
 abstraction_level: generic
 ---
 

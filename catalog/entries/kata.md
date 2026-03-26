@@ -26,14 +26,14 @@ limits:
   - "[paradigm] imports the martial-arts assumption of a single sensei-student relationship, which maps poorly onto organizations where coaching responsibilities are diffuse, contested, or absent"
 updated: '2026-03-18'
 embodied_patterns:
-  - force
+  - iteration
   - path
   - matching
 relation_types:
-  - cause
   - transform
-structure: transformation
-abstraction_level: generic
+  - accumulate
+structure: cycle
+abstraction_level: specific
 ---
 
 ## Transfers
