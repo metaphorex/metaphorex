@@ -293,6 +293,36 @@ If the token is NOT set, use default auth (no prefix needed).
 - ALWAYS include `--label needs-smelting` when running `gh pr create`
 - ALWAYS prefix `gh` commands with `GH_TOKEN="$M4X_MINER_TOKEN"`
 
+**Pre-PR Rebase & Frame Recency Check (REQUIRED before every PR):**
+
+Other miners may have merged frames since you branched. Before creating a PR,
+rebase onto the latest main to avoid conflicts and deduplicate frames:
+
+1. Fetch and rebase:
+   ```bash
+   git fetch origin main && git rebase origin/main
+   ```
+2. If the rebase has conflicts on frame or category files that already exist on
+   main, resolve by accepting main's version (`git checkout --ours <path>` then
+   `git add <path>`), then `git rebase --continue`. For entry files, prefer
+   your branch version (your new content).
+3. After rebase, check each frame file you created:
+   ```bash
+   git show origin/main:catalog/frames/<slug>.md 2>/dev/null && echo "EXISTS" || echo "NEW"
+   ```
+4. If a frame already exists on main, delete your copy (`git rm` it and amend
+   the commit) — the existing frame on main is authoritative. Only keep frame
+   files that are genuinely new.
+5. Re-run the validator after rebase:
+   ```bash
+   uv run scripts/validate.py validate
+   ```
+   Fix any errors before proceeding. The existing frame on main satisfies the
+   validator's "frame must exist" rule once rebased.
+6. Only after rebase and validation succeed, create the PR.
+
+This prevents stale-branch PRs that try to re-create frames already on main,
+which cause merge conflicts the Smelter cannot resolve.
 
 **Pre-PR Content Verification (REQUIRED before every `gh pr create`):**
 
