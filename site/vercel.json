@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd .. && bun run scripts/build-neighbors.ts && cd site && bun run astro build && bunx pagefind --site dist",
+  "outputDirectory": "dist",
+  "framework": "astro"
+}

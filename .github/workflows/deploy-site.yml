@@ -1,25 +1,15 @@
-name: Deploy site
+name: Build site (check)
 
 on:
-  schedule:
-    - cron: "0 4 * * *"
-  push:
-    branches: [main]
+  pull_request:
     paths:
-      - "docs/ops/**"
-      - "docs/changelog/**"
       - "catalog/**"
       - "site/**"
+      - "scripts/build-neighbors.ts"
   workflow_dispatch: {}
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
 
 jobs:
   build:
@@ -36,17 +26,3 @@ jobs:
       - name: Build site
         working-directory: site
         run: bun run build
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site/dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
