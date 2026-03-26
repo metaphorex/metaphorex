@@ -75,22 +75,32 @@ If the token is NOT set, use default auth (no prefix needed).
 
 **Comment signatures:** Append `— *m4x-reviewer*` to every GitHub comment and PR review you post.
 
-**Reading files from PR branches:**
+**Reading files from PR branches (worktree-safe):**
 
-When you need to read a file from a PR branch via the GitHub API, pass the
-branch ref as a URL query parameter. The `--ref` flag does not exist on
-`gh api`:
+Do NOT use `gh pr checkout` — it fails when the branch is already checked out
+in another worktree (`fatal: 'branch' is already used by worktree`). Instead,
+use these checkout-free approaches:
 
-```bash
-# Correct — branch as query param:
-gh api "repos/metaphorex/metaphorex/contents/catalog/entries/some-slug.md?ref=branch-name" --jq '.content' | base64 -d
+1. **Review the diff** (preferred for seeing what changed):
+   ```bash
+   gh pr diff <N>
+   ```
 
-# WRONG — --ref is not a gh api flag:
-# gh api repos/.../contents/path --ref branch-name
-```
+2. **Read a specific file** via the GitHub API (pass branch as query param):
+   ```bash
+   gh api "repos/metaphorex/metaphorex/contents/catalog/entries/some-slug.md?ref=branch-name" --jq '.content' | base64 -d
 
-Prefer checking out the PR branch locally (`gh pr checkout <N>`) when you
-need to read multiple files or run the validator.
+   # WRONG — --ref is not a gh api flag:
+   # gh api repos/.../contents/path --ref branch-name
+   ```
+
+3. **List changed files** in a PR:
+   ```bash
+   gh pr view <N> --json files --jq '.files[].path'
+   ```
+
+These methods work regardless of local worktree state and avoid checkout
+conflicts entirely.
 
 **Review Process:**
 
