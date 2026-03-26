@@ -1,0 +1,184 @@
+---
+import Base from "@/layouts/Base.astro";
+
+const TURNSTILE_SITE_KEY = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
+---
+
+<Base title="Suggest a Metaphor" description="Suggest a metaphor, pattern, or mental model for the Metaphorex catalog">
+  <h1>Suggest a Metaphor</h1>
+  <p>
+    Know a metaphor, pattern, or mental model that should be in the catalog?
+    Tell us about it. We'll review your suggestion and add it if it fits.
+  </p>
+
+  <form id="suggest-form" novalidate>
+    <label for="name">Name <span class="required">*</span></label>
+    <input
+      type="text"
+      id="name"
+      name="name"
+      required
+      placeholder="e.g. Argument Is War"
+      autocomplete="off"
+    />
+
+    <label for="description">What does it describe? <span class="required">*</span></label>
+    <textarea
+      id="description"
+      name="description"
+      required
+      rows="4"
+      placeholder="e.g. We talk about arguments using war language — winning, defending, attacking positions"
+    ></textarea>
+
+    <label for="source">Where did you encounter it?</label>
+    <input
+      type="text"
+      id="source"
+      name="source"
+      placeholder="e.g. Lakoff & Johnson, Metaphors We Live By"
+      autocomplete="off"
+    />
+
+    <label for="submitter">Your name or handle</label>
+    <input
+      type="text"
+      id="submitter"
+      name="submitter"
+      placeholder="Optional — for attribution"
+      autocomplete="off"
+    />
+
+    <!-- Honeypot — hidden from humans, bots fill it -->
+    <div aria-hidden="true" style="position:absolute;left:-9999px;">
+      <label for="website">Website</label>
+      <input type="text" id="website" name="website" tabindex="-1" autocomplete="off" />
+    </div>
+
+    <div
+      class="cf-turnstile"
+      data-sitekey={TURNSTILE_SITE_KEY}
+      data-callback="onTurnstileSuccess"
+      data-theme="light"
+    ></div>
+
+    <button type="submit" id="submit-btn" disabled>Submit suggestion</button>
+    <p id="form-status" class="muted" aria-live="polite"></p>
+  </form>
+
+  <script
+    src="https://challenges.cloudflare.com/turnstile/v0/api.js"
+    async
+    defer
+  ></script>
+
+  <script is:inline>
+    // Enable submit once Turnstile completes
+    window.onTurnstileSuccess = function () {
+      document.getElementById("submit-btn").disabled = false;
+    };
+
+    document.getElementById("suggest-form").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const form = e.target;
+      const btn = document.getElementById("submit-btn");
+      const status = document.getElementById("form-status");
+
+      btn.disabled = true;
+      status.textContent = "Submitting…";
+
+      const data = Object.fromEntries(new FormData(form));
+      // Include Turnstile token
+      const turnstileInput = form.querySelector("[name='cf-turnstile-response']");
+      if (turnstileInput) data["cf-turnstile-response"] = turnstileInput.value;
+
+      try {
+        const res = await fetch("/api/suggest", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(data),
+        });
+        const result = await res.json();
+        if (result.ok) {
+          status.textContent = "Thanks! Your suggestion has been submitted for review.";
+          form.reset();
+          // Reset Turnstile widget
+          if (window.turnstile) window.turnstile.reset();
+          btn.disabled = true; // Re-disable until next Turnstile pass
+        } else {
+          status.textContent = result.error || "Something went wrong. Please try again.";
+          btn.disabled = false;
+        }
+      } catch {
+        status.textContent = "Network error. Please try again.";
+        btn.disabled = false;
+      }
+    });
+  </script>
+
+  <style>
+    form {
+      margin-top: 1.5rem;
+    }
+    label {
+      display: block;
+      font-family: var(--font-heading);
+      font-weight: 600;
+      font-size: 0.9375rem;
+      margin-top: 1rem;
+      margin-bottom: 0.25rem;
+    }
+    .required {
+      color: #c33;
+    }
+    input[type="text"],
+    textarea {
+      display: block;
+      width: 100%;
+      font-family: var(--font-body);
+      font-size: 1rem;
+      padding: 0.5rem 0.6rem;
+      border: 1px solid var(--border);
+      border-radius: 0.25rem;
+      background: var(--bg);
+      color: var(--fg);
+    }
+    input[type="text"]:focus,
+    textarea:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 1px;
+      border-color: var(--accent);
+    }
+    textarea {
+      resize: vertical;
+      min-height: 5rem;
+    }
+    .cf-turnstile {
+      margin-top: 1.25rem;
+    }
+    button[type="submit"] {
+      display: inline-block;
+      margin-top: 1rem;
+      font-family: var(--font-heading);
+      font-size: 0.9375rem;
+      font-weight: 600;
+      padding: 0.5rem 1.5rem;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      border-radius: 0.25rem;
+      cursor: pointer;
+    }
+    button[type="submit"]:hover:not(:disabled) {
+      background: var(--accent-hover);
+    }
+    button[type="submit"]:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    #form-status {
+      margin-top: 0.75rem;
+      font-size: 0.9375rem;
+    }
+  </style>
+</Base>
