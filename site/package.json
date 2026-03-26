@@ -8,6 +8,8 @@
     "preview": "astro preview"
   },
   "dependencies": {
+    "@astrojs/vercel": "8",
+    "@octokit/rest": "^22.0.1",
     "@vercel/analytics": "^2.0.1",
     "astro": "^5"
   },
