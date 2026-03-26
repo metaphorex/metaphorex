@@ -22,13 +22,13 @@ limits:
   - "[model] treats all transactions as arm's-length exchanges between equals, ignoring power asymmetries"
   - "[model] provides moral cover for fraud by shifting blame from the deceiver to the deceived"
 embodied_patterns:
+  - boundary
+  - surface-depth
   - balance
-  - flow
-  - scale
 relation_types:
-  - cause
-  - transform
-structure: cycle
+  - prevent
+  - select
+structure: boundary
 abstraction_level: generic
 ---
 

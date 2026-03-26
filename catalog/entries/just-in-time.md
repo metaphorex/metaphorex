@@ -27,13 +27,13 @@ limits:
   - "[paradigm] the deliberate removal of buffers that exposes problems also removes the resilience that buffers provide, making the system fragile to disruptions it has not yet learned to prevent"
 embodied_patterns:
   - flow
-  - matching
+  - balance
   - iteration
 relation_types:
-  - cause
-  - transform
-structure: pipeline
-abstraction_level: generic
+  - coordinate
+  - prevent
+structure: equilibrium
+abstraction_level: specific
 ---
 
 ## Transfers

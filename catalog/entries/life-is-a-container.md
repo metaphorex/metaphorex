@@ -31,8 +31,8 @@ embodied_patterns:
   - boundary
   - flow
 relation_types:
+  - contain
   - cause
-  - transform
 structure: boundary
 abstraction_level: primitive
 ---

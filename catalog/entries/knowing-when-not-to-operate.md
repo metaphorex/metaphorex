@@ -29,11 +29,11 @@ limits:
   - '[source] In surgery, not operating has a clear meaning -- the patient is not cut open -- but in domains like management or policy, "not acting" is ambiguous because there are many possible actions and declining one does not foreclose others, making the surgical binary misleading'
   - '[source] The aphorism privileges the individual expert''s judgment as the mechanism of restraint, but in medicine the best protection against unnecessary surgery is systemic (second opinions, tumor boards, evidence-based guidelines), and the metaphor''s emphasis on individual wisdom obscures the need for institutional checks'
 embodied_patterns:
+  - removal
+  - boundary
   - matching
-  - surface-depth
-  - balance
 relation_types:
-  - compete
+  - prevent
   - select
 structure: boundary
 abstraction_level: specific

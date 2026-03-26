@@ -23,13 +23,13 @@ transfers:
 - '[model] predicts that a well-organized set of models makes ignorance legible -- gaps in coverage are visible, unlike a disorganized collection that hides its blind spots'
 updated: '2026-03-13'
 embodied_patterns:
+  - link
   - part-whole
-  - boundary
-  - container
+  - superimposition
 relation_types:
-  - cause
-  - transform
-structure: hierarchy
+  - coordinate
+  - enable
+structure: network
 abstraction_level: generic
 ---
 

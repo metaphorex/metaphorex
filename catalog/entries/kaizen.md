@@ -27,14 +27,13 @@ limits:
   - "[paradigm] assumes a stable-enough environment for incremental changes to accumulate before conditions shift; in rapidly disrupted markets, the increments may be invalidated faster than they can compound"
 updated: '2026-03-18'
 embodied_patterns:
-  - flow
-  - matching
   - iteration
+  - accretion
+  - path
 relation_types:
-  - cause
   - transform
-  - coordinate
-structure: pipeline
+  - accumulate
+structure: cycle
 abstraction_level: generic
 ---
 

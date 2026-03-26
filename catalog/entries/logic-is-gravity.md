@@ -29,13 +29,13 @@ limits:
   - '[source] gravity operates on passive objects that have no capacity to reinterpret the force acting on them, whereas logical agents can challenge definitions, reveal hidden assumptions, or change the rules of inference'
 embodied_patterns:
   - force
+  - path
   - scale
-  - balance
 relation_types:
   - cause
   - transform
-structure: equilibrium
-abstraction_level: generic
+structure: hierarchy
+abstraction_level: primitive
 ---
 
 ## Transfers

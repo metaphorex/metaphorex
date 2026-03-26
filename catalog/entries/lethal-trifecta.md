@@ -26,14 +26,14 @@ transfers:
   - "[paradigm] carries the fire triangle's insight that each condition is individually safe, reframing the security conversation from 'is this agent dangerous?' to 'which combination of capabilities does it have?'"
 updated: '2026-03-18'
 embodied_patterns:
+  - link
+  - part-whole
   - matching
-  - path
-  - boundary
 relation_types:
   - cause
-  - transform
-structure: hierarchy
-abstraction_level: generic
+  - prevent
+structure: network
+abstraction_level: specific
 ---
 
 ## Transfers

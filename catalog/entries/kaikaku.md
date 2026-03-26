@@ -24,14 +24,14 @@ limits:
   - "[model] romanticizes discontinuous change by giving it a name, potentially encouraging premature abandonment of incremental improvement by leaders who prefer dramatic action to patient compounding"
 updated: '2026-03-18'
 embodied_patterns:
-  - flow
-  - matching
-  - iteration
+  - force
+  - path
+  - splitting
 relation_types:
-  - cause
   - transform
-structure: pipeline
-abstraction_level: generic
+  - cause
+structure: transformation
+abstraction_level: specific
 ---
 
 ## Transfers

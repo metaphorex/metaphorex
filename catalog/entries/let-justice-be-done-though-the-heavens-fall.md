@@ -25,11 +25,11 @@ limits:
   - "[paradigm] misleads because it presents deontological commitment as costless to the speaker while the consequences fall on others, creating a structural asymmetry where the person invoking the principle bears none of the burden of the falling heavens"
 embodied_patterns:
   - force
-  - scale
-  - path
+  - boundary
+  - balance
 relation_types:
   - cause
-  - transform
+  - prevent
 structure: hierarchy
 abstraction_level: generic
 ---

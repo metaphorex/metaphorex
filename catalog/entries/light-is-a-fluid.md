@@ -28,13 +28,13 @@ limits:
   - '[source] fluid mixes when two streams converge (changing both), but light beams cross without interacting, preserving their independent properties'
 embodied_patterns:
   - flow
+  - container
   - path
-  - blockage
 relation_types:
   - cause
   - transform
 structure: pipeline
-abstraction_level: generic
+abstraction_level: primitive
 ---
 
 ## Transfers

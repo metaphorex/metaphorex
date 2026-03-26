@@ -29,14 +29,14 @@ transfers:
   - '[source] The sacrificial element must be plausibly intended (not obviously fake) so the reviewer experiences genuine discovery rather than suspecting manipulation'
 updated: '2026-03-21'
 embodied_patterns:
+  - center-periphery
   - force
-  - path
-  - matching
+  - flow
 relation_types:
   - cause
-  - transform
-structure: transformation
-abstraction_level: generic
+  - translate
+structure: pipeline
+abstraction_level: specific
 ---
 
 ## Transfers

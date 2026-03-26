@@ -30,8 +30,8 @@ embodied_patterns:
   - surface-depth
   - matching
 relation_types:
+  - enable
   - cause
-  - transform
 structure: boundary
 abstraction_level: primitive
 ---

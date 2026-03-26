@@ -27,10 +27,10 @@ transfers:
 updated: '2026-03-19'
 embodied_patterns:
   - part-whole
-  - boundary
-  - container
+  - matching
+  - superimposition
 relation_types:
-  - cause
+  - coordinate
   - transform
 structure: hierarchy
 abstraction_level: specific

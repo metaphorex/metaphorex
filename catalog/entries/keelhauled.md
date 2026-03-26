@@ -25,11 +25,11 @@ limits:
 embodied_patterns:
   - force
   - path
-  - boundary
+  - container
 relation_types:
   - cause
   - transform
-structure: transformation
+structure: pipeline
 abstraction_level: specific
 ---
 

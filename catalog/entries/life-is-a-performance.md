@@ -29,13 +29,13 @@ limits:
   - "[source] misleads because theater has a script written in advance, implying life events are predetermined"
   - "[source] obscures genuine feeling by framing all emotional expression as performance for an audience"
 embodied_patterns:
-  - force
-  - path
   - matching
+  - boundary
+  - surface-depth
 relation_types:
-  - enable
-  - translate
-structure: transformation
+  - transform
+  - coordinate
+structure: boundary
 abstraction_level: generic
 ---
 

@@ -32,10 +32,10 @@ limits:
 embodied_patterns:
   - path
   - near-far
-  - force
+  - boundary
 relation_types:
-  - prevent
-  - select
+  - cause
+  - transform
 structure: pipeline
 abstraction_level: primitive
 ---

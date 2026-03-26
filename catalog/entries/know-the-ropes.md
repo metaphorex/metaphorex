@@ -23,13 +23,13 @@ limits:
   - '[source] on a ship the ropes are physically fixed in location and finite in number, whereas organizational know-how involves shifting procedures and informal norms with no stable inventory'
   - '[source] shipboard rope knowledge can be taught by walking a novice through every line in a single tour, implying a bounded learning curve that most institutional knowledge does not have'
 embodied_patterns:
-  - force
+  - matching
   - path
-  - boundary
+  - link
 relation_types:
-  - cause
-  - transform
-structure: transformation
+  - enable
+  - coordinate
+structure: network
 abstraction_level: specific
 ---
 

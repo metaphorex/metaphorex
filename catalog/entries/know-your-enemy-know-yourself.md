@@ -23,14 +23,14 @@ limits:
   - '[model] assumes a bilateral adversarial structure with a discrete "enemy" whose capabilities can be assessed, and breaks in multi-agent environments where the competitive landscape is diffuse, shifting, and partially cooperative'
   - '[model] implies that sufficient knowledge produces certainty of outcome ("need not fear"), while in practice both self-assessment and adversary-assessment are probabilistic and subject to deception, self-deception, and rapid change'
 embodied_patterns:
-  - force
-  - path
-  - center-periphery
+  - matching
+  - surface-depth
+  - balance
 relation_types:
-  - cause
+  - enable
   - compete
 structure: competition
-abstraction_level: generic
+abstraction_level: specific
 ---
 
 ## Transfers

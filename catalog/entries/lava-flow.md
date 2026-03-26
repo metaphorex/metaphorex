@@ -26,14 +26,14 @@ limits:
   - '[source] lava flows are natural and directionless -- they have no author or intent -- whereas legacy code was written by people making deliberate (if now-forgotten) design choices'
   - '[source] geological lava is chemically homogeneous within a single flow, while legacy code layers may use entirely different languages, frameworks, and paradigms'
 embodied_patterns:
-  - force
-  - path
-  - matching
+  - flow
+  - accretion
+  - blockage
 relation_types:
-  - cause
+  - accumulate
   - prevent
-structure: transformation
-abstraction_level: generic
+structure: growth
+abstraction_level: specific
 ---
 
 ## Transfers

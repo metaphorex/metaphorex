@@ -28,14 +28,14 @@ transfers:
   - '[source] Kittens multiply quickly and unnoticeably -- a single indulged bit breeds similar indulgences until the work is overrun, mapping onto how one unjustified inclusion establishes a precedent that weakens editorial discipline throughout'
 updated: '2026-03-21'
 embodied_patterns:
+  - removal
   - force
-  - path
   - matching
 relation_types:
+  - prevent
   - cause
-  - transform
-structure: transformation
-abstraction_level: generic
+structure: competition
+abstraction_level: specific
 ---
 
 ## Transfers

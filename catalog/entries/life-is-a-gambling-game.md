@@ -28,13 +28,13 @@ limits:
   - '[source] gambling games have explicit odds that can be calculated, while most life decisions involve Knightian uncertainty where the probability distribution itself is unknown'
   - '[source] a gambling loss is cleanly quantified (you lose your stake), whereas life setbacks often have cascading, qualitative consequences that resist measurement'
 embodied_patterns:
+  - splitting
+  - balance
   - force
-  - path
-  - matching
 relation_types:
-  - cause
-  - transform
-structure: transformation
+  - select
+  - compete
+structure: competition
 abstraction_level: generic
 ---
 

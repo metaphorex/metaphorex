@@ -22,13 +22,13 @@ transfers:
 - '[source] drift is always in one direction -- toward the hazard -- mapping onto situations where the default trajectory leads toward failure without active corrective effort'
 updated: '2026-03-14'
 embodied_patterns:
-  - force
-  - path
+  - container
   - boundary
+  - balance
 relation_types:
-  - cause
-  - transform
-structure: transformation
+  - enable
+  - contain
+structure: boundary
 abstraction_level: specific
 ---
 
