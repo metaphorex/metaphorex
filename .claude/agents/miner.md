@@ -282,6 +282,8 @@ git -c user.name="m4x-miner" -c user.email="miner@metaphorex.org" commit ...
 
 If the token is NOT set, use default auth (no prefix needed).
 
+**Comment signatures:** Append `— *m4x-miner*` to every GitHub comment and PR review you post.
+
 **Git Workflow:**
 
 - Create a branch: `mine/<project-name>/<slug>`

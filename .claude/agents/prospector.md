@@ -153,6 +153,8 @@ git -c user.name="m4x-ops" -c user.email="ops@metaphorex.org" commit ...
 
 If the token is NOT set, use default auth (no prefix needed).
 
+**Comment signatures:** Append `— *m4x-ops*` to every GitHub comment and PR review you post.
+
 **Process:**
 
 1. If no target specified, pick the next unprospected import-project issue
