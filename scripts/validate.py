@@ -7,15 +7,17 @@
 """Metaphorex content validator and extractor.
 
 Usage:
-    uv run scripts/validate.py validate          # validate all content
-    uv run scripts/validate.py validate catalog/entries/ # validate specific dir
-    uv run scripts/validate.py extract            # emit JSON to stdout
+    uv run scripts/validate.py validate                  # validate all content
+    uv run scripts/validate.py validate catalog/entries/  # validate specific dir
+    uv run scripts/validate.py extract                    # emit JSON to stdout
+    uv run scripts/validate.py check-deletions            # detect catalog file deletions vs origin/main
 """
 
 from __future__ import annotations
 
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -409,8 +411,39 @@ def extract() -> list[dict]:
     return results
 
 
+def check_deletions() -> list[str]:
+    """Detect catalog file deletions relative to origin/main.
+
+    Runs git diff to find any .md files deleted from catalog/entries/ or
+    catalog/frames/. Returns a list of error messages (empty = clean).
+    """
+    errors: list[str] = []
+    try:
+        result = subprocess.run(
+            [
+                "git", "diff", "origin/main", "--name-only", "--diff-filter=D",
+                "--", "catalog/entries/", "catalog/frames/",
+            ],
+            capture_output=True,
+            text=True,
+            cwd=ROOT,
+            check=True,
+        )
+    except (subprocess.CalledProcessError, FileNotFoundError) as exc:
+        errors.append(f"check-deletions: failed to run git diff: {exc}")
+        return errors
+
+    deleted = [line.strip() for line in result.stdout.splitlines() if line.strip()]
+    for path in deleted:
+        errors.append(
+            f"PR deletes catalog file {path} "
+            "— likely a phantom deletion from an unrebased branch"
+        )
+    return errors
+
+
 def main() -> None:
-    if len(sys.argv) < 2 or sys.argv[1] not in ("validate", "extract"):
+    if len(sys.argv) < 2 or sys.argv[1] not in ("validate", "extract", "check-deletions"):
         print(__doc__.strip())
         sys.exit(1)
 
@@ -437,6 +470,17 @@ def main() -> None:
         data = extract()
         json.dump(data, sys.stdout, indent=2)
         print()
+
+    elif command == "check-deletions":
+        errors = check_deletions()
+        if errors:
+            print(f"{len(errors)} phantom deletion(s) detected:\n")
+            for e in errors:
+                print(f"  - {e}")
+            sys.exit(1)
+        else:
+            print("No catalog deletions detected.")
+            sys.exit(0)
 
 
 if __name__ == "__main__":
