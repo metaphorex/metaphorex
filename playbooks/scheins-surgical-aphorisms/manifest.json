@@ -1,0 +1,260 @@
+{
+  "project": "scheins-surgical-aphorisms",
+  "project_issue": 1229,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://www.wanderings.net/notebook/Main/HouseOfGodLaws",
+    "https://libraryguides.mayo.edu/historicalunit/aphorisms",
+    "https://litfl.com/eponymictionary/oslerisms/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2760177/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC1422679/",
+    "https://en.wikipedia.org/wiki/Zebra_(medicine)"
+  ],
+  "candidates": [
+    {
+      "slug": "triage",
+      "name": "Triage",
+      "kind": "dead-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "organizational-behavior"],
+      "source": "archive",
+      "archive_ref": "Dominique Jean Larrey, PMC2760177: 'It is necessary to begin always with the most dangerously injured, without regard to rank or distinction.'",
+      "description": "Military-surgical sorting system that became the default metaphor for any prioritization under resource scarcity. Used ubiquitously in business, software (bug triage), disaster management, and customer support. The medical origin imports urgency, life-or-death stakes, and the uncomfortable reality that some cases must be abandoned."
+    },
+    {
+      "slug": "differential-diagnosis",
+      "name": "Differential Diagnosis",
+      "kind": "dead-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "cognitive-science"],
+      "source": "llm",
+      "description": "The systematic process of distinguishing a condition from others with similar presentations. Migrated into debugging, root cause analysis, troubleshooting, and strategic analysis. The medical framing imports the discipline of maintaining multiple hypotheses simultaneously and eliminating them through evidence."
+    },
+    {
+      "slug": "hoofbeats-think-horses",
+      "name": "When You Hear Hoofbeats, Think Horses Not Zebras",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "cognitive-science"],
+      "source": "archive",
+      "archive_ref": "Theodore Woodward (1940s), Wikipedia Zebra_(medicine); LITFL",
+      "description": "Encodes base-rate reasoning: prefer common explanations over exotic ones. Used in debugging, investing, security analysis, and everyday reasoning. The medical origin grounds it in diagnostic discipline where chasing rare diagnoses wastes time and resources. The counter-aphorism ('when you hear hoofbeats in Africa, think zebras') encodes context-sensitivity."
+    },
+    {
+      "slug": "first-do-no-harm",
+      "name": "First, Do No Harm",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "ethics-and-morality",
+      "categories": ["health-and-medicine", "ethics-and-morality"],
+      "source": "archive",
+      "archive_ref": "Traditional, misattributed to Hippocrates. Latin 'primum non nocere.' Discussed in Wikipedia Primum_non_nocere.",
+      "description": "The constraint that intervention must not make things worse. Migrated into technology ethics, regulation, software deployment, and policy design. The medical framing imports the asymmetry between action and inaction: the doctor who does nothing and the patient worsens is less culpable than the doctor who acts and causes harm."
+    },
+    {
+      "slug": "second-opinion",
+      "name": "Second Opinion",
+      "kind": "dead-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "cognitive-science"],
+      "source": "llm",
+      "description": "The practice of consulting an independent expert to verify a diagnosis. So thoroughly dead as metaphor that people use it in everyday contexts (getting a second opinion on a contractor, a code review, a legal matter) without any awareness of its medical origin. Imports the assumption that expert judgment is fallible and that independent verification reduces error."
+    },
+    {
+      "slug": "treat-the-patient-not-the-test",
+      "name": "Treat the Patient, Not the Test",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "systems-thinking"],
+      "source": "archive",
+      "archive_ref": "Traditional surgical aphorism, attested in Schein (Ch. 36) and surgical folklore.",
+      "description": "The warning against optimizing for metrics rather than outcomes. Maps directly onto Goodhart's Law territory: when the test becomes the target, it ceases to be a good test. Used in education (teach to the student not the exam), business (serve the customer not the KPI), and software (fix the bug not the failing test)."
+    },
+    {
+      "slug": "all-bleeding-stops",
+      "name": "All Bleeding Eventually Stops",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "philosophy"],
+      "source": "archive",
+      "archive_ref": "Traditional surgical aphorism, 'First Axiom of Orthopaedics.' Attested in multiple sources including Schein.",
+      "description": "Dark surgical humor encoding a double truth: either you stop the bleeding (competence) or the patient runs out of blood (failure). Maps onto crisis management, financial hemorrhage, organizational attrition. The dark ambiguity is the point: every crisis ends, but the question is whether it ends well or catastrophically."
+    },
+    {
+      "slug": "tincture-of-time",
+      "name": "The Tincture of Time",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "philosophy"],
+      "source": "llm",
+      "description": "Framing 'waiting' as an active therapeutic intervention by giving it the linguistic form of a prescription (a tincture). Encodes the wisdom that not every problem requires immediate action -- sometimes the best intervention is no intervention. Used in parenting, management, writing, and personal development."
+    },
+    {
+      "slug": "never-let-the-sun-set-on-undrained-pus",
+      "name": "Never Let the Sun Set on Undrained Pus",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "organizational-behavior"],
+      "source": "archive",
+      "archive_ref": "Traditional surgical aphorism, attested in Campbell BJS 2013 and Schein.",
+      "description": "The counter-principle to tincture-of-time: some problems fester and must be addressed immediately. Maps onto conflict resolution (don't let resentments accumulate), technical debt (fix infections before they spread), and management (address toxic situations before they metastasize). The visceral medical imagery makes the urgency unforgettable."
+    },
+    {
+      "slug": "a-chance-to-cut-is-a-chance-to-cure",
+      "name": "A Chance to Cut Is a Chance to Cure",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "philosophy"],
+      "source": "archive",
+      "archive_ref": "Traditional surgical aphorism, has own Wikipedia article. Attested in Schein and multiple PMC sources.",
+      "description": "The action-bias of the surgeon: if you can intervene, you should. Encodes the preference for decisive action over watchful waiting. Maps onto entrepreneurship, military strategy, and engineering. The aphorism is simultaneously a statement of confidence and a warning about professional bias toward intervention."
+    },
+    {
+      "slug": "take-your-own-pulse",
+      "name": "Take Your Own Pulse First",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "psychology"],
+      "source": "archive",
+      "archive_ref": "House of God Law III: 'At a cardiac arrest, the first procedure is to take your own pulse.' Verified at wanderings.net/notebook/Main/HouseOfGodLaws",
+      "description": "Composure-under-pressure: assess your own state before acting in a crisis. The medical specificity (cardiac arrest, pulse) makes the structural transfer vivid. Used in crisis management, leadership, first response, and any high-stakes decision-making where panic degrades performance."
+    },
+    {
+      "slug": "the-retrospectoscope",
+      "name": "The Retrospectoscope",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "cognitive-science"],
+      "source": "archive",
+      "archive_ref": "Medical coinage, Wiktionary entry exists. AMA Journal of Ethics 2007. Medical-dictionary.thefreedictionary.com entry.",
+      "description": "A fictional diagnostic instrument that works only in hindsight. Brilliantly encodes hindsight bias by giving it the form of a medical device -- making the cognitive distortion tangible and mockable. Used in morbidity and mortality conferences, post-mortems, incident reviews. The '-scope' suffix imports the authority of medical instrumentation while subverting it."
+    },
+    {
+      "slug": "the-patient-is-the-one-with-the-disease",
+      "name": "The Patient Is the One with the Disease",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "psychology"],
+      "source": "archive",
+      "archive_ref": "House of God Law IV. Verified at wanderings.net/notebook/Main/HouseOfGodLaws",
+      "description": "Professional boundary-setting: the helper must maintain distance from the helped. Encodes the risk of over-identification. Maps onto therapy, social work, management consulting, and any advisory role where emotional entanglement degrades judgment."
+    },
+    {
+      "slug": "do-as-much-nothing-as-possible",
+      "name": "Do as Much Nothing as Possible",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "philosophy"],
+      "source": "archive",
+      "archive_ref": "House of God Law XIII: 'The delivery of good medical care is to do as much nothing as possible.' Verified at wanderings.net/notebook/Main/HouseOfGodLaws",
+      "description": "The paradox of therapeutic restraint: the best care is often the least intervention. Related to tincture-of-time but more radical -- not 'wait and see' but 'actively choose inaction.' Maps onto management (don't micromanage), regulation (light-touch governance), and software (YAGNI, less is more)."
+    },
+    {
+      "slug": "side-effects",
+      "name": "Side Effects",
+      "kind": "dead-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "systems-thinking"],
+      "source": "llm",
+      "description": "The spatial metaphor of 'side' effects frames unintended consequences as peripheral to the main action. So dead that people say 'side effects of the policy' without any awareness of the pharmacological origin. The medical framing imports a specific topology: there is a primary intended effect and secondary unintended ones, arranged hierarchically."
+    },
+    {
+      "slug": "vital-signs",
+      "name": "Vital Signs",
+      "kind": "dead-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "organizational-behavior"],
+      "source": "llm",
+      "description": "The medical practice of monitoring a small set of critical indicators (pulse, temperature, blood pressure, respiration) as a proxy for overall health. Migrated into business dashboards, system monitoring, economic indicators. The medical framing imports the assumption that a few key metrics can represent the state of a complex system."
+    },
+    {
+      "slug": "prognosis-as-forecast",
+      "name": "Prognosis",
+      "kind": "dead-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "economics-and-finance"],
+      "source": "llm",
+      "description": "Medical prediction of disease course, now used for any forward-looking assessment ('the prognosis for the company is poor'). The medical origin imports the framing of the subject as a patient -- something being observed and assessed rather than an agent with choices. When we say 'the prognosis for the economy,' we subtly position the economy as a body that may recover or die."
+    },
+    {
+      "slug": "surgical-precision",
+      "name": "Surgical Precision",
+      "kind": "dead-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine"],
+      "source": "llm",
+      "description": "The metaphor of surgery as the paradigm of precise, targeted action. Used in military strikes ('surgical strike'), business restructuring, and any context requiring targeted intervention with minimal collateral damage. The medical framing imports the assumption that precision is possible and that the 'surgeon' has complete knowledge of the anatomy being cut."
+    },
+    {
+      "slug": "see-one-do-one-teach-one",
+      "name": "See One, Do One, Teach One",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "education",
+      "categories": ["health-and-medicine", "education-and-learning"],
+      "source": "archive",
+      "archive_ref": "William Halsted's training paradigm, attested in 33charts.com and NIST document.",
+      "description": "Halsted's surgical training model compressing the entire learning cycle into three repetitions. Encodes experiential learning, apprenticeship, and the assumption that teaching consolidates understanding. Used in corporate training, coding bootcamps, and craft traditions. The compression is both its power (learn fast) and its limit (three repetitions may not be enough for complex skills)."
+    },
+    {
+      "slug": "if-you-dont-look-you-wont-find",
+      "name": "If You Don't Look, You Won't Find",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "cognitive-science"],
+      "source": "archive",
+      "archive_ref": "House of God Law X variant; Osler: 'We miss more by not seeing than we do by not knowing.' LITFL Oslerisms.",
+      "description": "The diagnostic principle that unexamined domains contain undiscovered pathology. Osler's version emphasizes observation over knowledge. Maps onto software testing (untested code has undiscovered bugs), auditing, security (unscanned systems have undetected vulnerabilities), and scientific research. The medical framing imports the moral dimension: not looking is a choice with consequences."
+    },
+    {
+      "slug": "the-cure-is-worse-than-the-disease",
+      "name": "The Cure Is Worse Than the Disease",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "philosophy"],
+      "source": "llm",
+      "description": "The iatrogenic principle: treatment can cause more harm than the condition it addresses. Encodes the risk of intervention and the importance of cost-benefit analysis. Used in regulation, policy, software fixes (regression bugs), and organizational change. Related to first-do-no-harm but more specific: it addresses the case where harm has already occurred through well-intentioned action."
+    },
+    {
+      "slug": "young-doctors-kill-old-doctors-let-die",
+      "name": "Young Doctors Kill, Old Doctors Let Die",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "psychology"],
+      "source": "archive",
+      "archive_ref": "James Gregory (1753-1821), attested in PMC2760177: 'Young men kill their patients; old men let them die.'",
+      "description": "Encodes the expertise-action curve: novices err through excessive intervention, experts err through excessive restraint. Maps onto management (new managers micromanage, experienced ones under-manage), engineering (junior engineers over-engineer, seniors under-specify), and any domain where the dominant failure mode shifts with experience."
+    },
+    {
+      "slug": "knowing-when-not-to-operate",
+      "name": "A Good Surgeon Knows When Not to Operate",
+      "kind": "conceptual-metaphor",
+      "source_frame": "medicine",
+      "target_frame": "decision-making",
+      "categories": ["health-and-medicine", "philosophy"],
+      "source": "archive",
+      "archive_ref": "Theodor Kocher, PMC2760177: 'A good surgeon is a doctor who can operate and knows when not to operate.'",
+      "description": "The highest form of expertise is restraint. The surgeon who can operate but chooses not to exercises a harder judgment than the one who simply operates. Maps onto any domain where the expert's most valuable skill is deciding not to act: the programmer who decides not to add a feature, the general who decides not to engage, the manager who decides not to intervene."
+    }
+  ]
+}
