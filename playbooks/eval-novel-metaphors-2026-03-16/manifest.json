@@ -1,0 +1,190 @@
+{
+  "project": "eval-novel-metaphors-2026-03-16",
+  "project_issue": 1547,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://github.com/metaphorex/metaphorex/issues/1547"
+  ],
+  "candidates": [
+    {
+      "slug": "services-are-autonomous-workers",
+      "name": "Services Are Autonomous Workers",
+      "kind": "metaphor",
+      "source_frame": "organizational-structure",
+      "target_frame": "software-engineering",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps service boundaries and contracts to employment relationships, negotiations, and workplace autonomy. Each microservice is an independent worker with a job description (API contract) and the right to refuse unreasonable requests."
+    },
+    {
+      "slug": "messages-are-physical-mail",
+      "name": "Messages Are Physical Mail",
+      "kind": "metaphor",
+      "source_frame": "logistics",
+      "target_frame": "network-communication",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps message passing to physical mail delivery with weight, packaging, transit time, and delivery guarantees. Messages have size, require envelopes (serialization), travel through sorting centers (message brokers), and can be lost in transit."
+    },
+    {
+      "slug": "databases-are-warehouses",
+      "name": "Databases Are Warehouses",
+      "kind": "metaphor",
+      "source_frame": "logistics",
+      "target_frame": "data-processing",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps data storage to physical inventory management with spatial boundaries, access patterns, and capacity limits. Already embedded in the term 'data warehouse' but extends to shelving (indexing), forklifts (queries), and loading docks (ETL)."
+    },
+    {
+      "slug": "microservices-are-biological-cells",
+      "name": "Microservices Are Biological Cells",
+      "kind": "metaphor",
+      "source_frame": "biology",
+      "target_frame": "software-engineering",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Maps service lifecycles and boundaries to cellular biology with membranes (API boundaries), metabolism (resource consumption), mitosis (scaling), and specialized cell types (service roles)."
+    },
+    {
+      "slug": "failure-isolation-is-quarantine",
+      "name": "Failure Isolation Is Quarantine",
+      "kind": "metaphor",
+      "source_frame": "contagion",
+      "target_frame": "software-engineering",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Maps failure containment patterns to disease quarantine with contagion (cascading failures), infection (corrupted state), and isolation protocols (circuit breakers, bulkheads)."
+    },
+    {
+      "slug": "microservices-are-city-districts",
+      "name": "Microservices Are City Districts",
+      "kind": "metaphor",
+      "source_frame": "governance",
+      "target_frame": "software-engineering",
+      "categories": ["software-engineering", "systems-thinking"],
+      "source": "archive",
+      "description": "Maps service organization to city neighborhoods with local governance (team ownership), infrastructure (shared platforms), zoning (service boundaries), and inter-district transit (API gateways)."
+    },
+    {
+      "slug": "influence-is-physical-force",
+      "name": "Influence Is Physical Force",
+      "kind": "metaphor",
+      "source_frame": "physics",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Maps organizational influence to measurable force with vectors (direction of push), magnitude (strength of persuasion), resistance (institutional inertia), and equilibrium (political stalemate)."
+    },
+    {
+      "slug": "technical-decisions-are-territory",
+      "name": "Technical Decisions Are Territory",
+      "kind": "metaphor",
+      "source_frame": "governance",
+      "target_frame": "decision-making",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Maps decision-making authority to territorial control with boundaries (team scope), jurisdiction (ownership), sovereignty (veto power), and border disputes (cross-team conflicts)."
+    },
+    {
+      "slug": "scaling-is-dilution",
+      "name": "Scaling Is Dilution",
+      "kind": "metaphor",
+      "source_frame": "fluid-dynamics",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Maps organizational growth to weakening concentration where original culture, values, or expertise become progressively diluted as headcount increases. Each new hire adds volume without adding the original solute."
+    },
+    {
+      "slug": "technical-decisions-are-judicial-rulings",
+      "name": "Technical Decisions Are Judicial Rulings",
+      "kind": "metaphor",
+      "source_frame": "governance",
+      "target_frame": "decision-making",
+      "categories": ["software-engineering", "organizational-behavior"],
+      "source": "archive",
+      "description": "Maps engineering choices to legal precedents requiring authority and formal process to overturn. Past decisions become binding precedent. Should reference the BDFL concept (Guido van Rossum, Linus Torvalds)."
+    },
+    {
+      "slug": "organizational-memory-is-archaeological-layers",
+      "name": "Organizational Memory Is Archaeological Layers",
+      "kind": "metaphor",
+      "source_frame": "geology",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "Maps knowledge history to stratified layers where older information is buried deeper and harder to access. Recent decisions sit on the surface; founding principles and original rationale require excavation."
+    },
+    {
+      "slug": "roles-are-theatrical-costumes",
+      "name": "Roles Are Theatrical Costumes",
+      "kind": "metaphor",
+      "source_frame": "performance",
+      "target_frame": "access-control",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps role assignment to costume changes -- temporary, external identities that can be put on or taken off. A user 'wears' the admin role rather than 'being' an admin, emphasizing the separability of identity and privilege."
+    },
+    {
+      "slug": "audit-trails-are-forensic-footprints",
+      "name": "Audit Trails Are Forensic Footprints",
+      "kind": "metaphor",
+      "source_frame": "surveillance",
+      "target_frame": "network-security",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps system logs to physical traces that investigators use to reconstruct past events and identify actors. Every action leaves an indelible mark; the investigator works backward from evidence to reconstruct the crime."
+    },
+    {
+      "slug": "system-administration-is-feudal-lordship",
+      "name": "System Administration Is Feudal Lordship",
+      "kind": "metaphor",
+      "source_frame": "governance",
+      "target_frame": "access-control",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps admin privileges to sovereign rule with arbitrary power to grant or revoke access at will. The root user is the feudal lord; delegated admins are vassals; regular users are serfs bound to the land (their authorized resources)."
+    },
+    {
+      "slug": "permission-delegation-is-genetic-inheritance",
+      "name": "Permission Delegation Is Genetic Inheritance",
+      "kind": "metaphor",
+      "source_frame": "reproduction",
+      "target_frame": "access-control",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps permission passing to DNA transmission through hierarchical lineages with inherited traits. Child processes inherit parent permissions; some traits (privileges) are dominant, others recessive (disabled by default)."
+    },
+    {
+      "slug": "security-violations-are-trespassing",
+      "name": "Security Violations Are Trespassing",
+      "kind": "metaphor",
+      "source_frame": "physical-security",
+      "target_frame": "network-security",
+      "categories": ["software-engineering"],
+      "source": "archive",
+      "description": "Maps unauthorized access to illegal entry into physical spaces with boundaries and penalties. Already deeply embedded in security language: firewalls, perimeter defense, intrusion detection, breach."
+    },
+    {
+      "slug": "model-outputs-are-prophecies",
+      "name": "Model Outputs Are Prophecies",
+      "kind": "metaphor",
+      "source_frame": "religion",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse"],
+      "source": "archive",
+      "description": "Maps predictive outputs to divine revelations about predetermined futures requiring interpretation. The model speaks in mysterious ways; its pronouncements require a priesthood of data scientists to interpret."
+    },
+    {
+      "slug": "production-data-is-food",
+      "name": "Production Data Is Food",
+      "kind": "metaphor",
+      "source_frame": "food-and-cooking",
+      "target_frame": "artificial-intelligence",
+      "categories": ["ai-discourse"],
+      "source": "archive",
+      "description": "Maps data ingestion to biological consumption where data feeds and nourishes the model's growth. Models are hungry, data is their diet, garbage in is junk food, and overfitting is overfeeding."
+    }
+  ]
+}
