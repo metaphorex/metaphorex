@@ -1,0 +1,214 @@
+{
+  "project": "firefighting-maxims",
+  "project_issue": 1355,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://www.nwcg.gov/6mfs/operational-engagement/10-standard-firefighting-orders",
+    "https://www.nwcg.gov/publications/18-watch-out-situations-pms-118",
+    "https://www.nps.gov/articles/firefighting-orders-watchout-situations.htm",
+    "https://www.fireengineering.com/firefighting/the-niosh-5-beyond-firefighter-line-of-duty-deaths/",
+    "https://www.firerescue1.com/leadership/articles/the-impact-of-alan-brunacini-MSfWicvv5wuyjKPZ/"
+  ],
+  "candidates": [
+    {
+      "slug": "ten-standard-fire-orders",
+      "name": "Ten Standard Fire Orders",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "The 10 orders as a complete decision framework: a ranked checklist where situational awareness precedes action, and the final order ('fight fire aggressively, having provided for safety first') encodes the fundamental tension between mission and safety. The ordering itself -- observe, orient, communicate, then act -- maps onto OODA and incident command in software, medicine, and military operations."
+    },
+    {
+      "slug": "fight-fire-aggressively-having-provided-for-safety-first",
+      "name": "Fight Fire Aggressively, Having Provided for Safety First",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["organizational-behavior", "systems-thinking"],
+      "source": "archive",
+      "description": "Standard Fire Order #10 -- the capstone order that subordinates aggression to preparation. The comma is load-bearing: aggression is not optional (you must fight), but it is conditioned (only after safety is established). Transfers to incident response, startup culture, and any domain where 'move fast and break things' needs a safety clause."
+    },
+    {
+      "slug": "know-what-your-fire-is-doing",
+      "name": "Know What Your Fire Is Doing at All Times",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Standard Fire Order #2 -- continuous situational awareness of the threat you are actively engaging. 'Your fire' personalizes the threat: you own it, you must track it. Transfers to incident response (know the state of your outage), security (know what your attacker is doing), and project management (know the status of your risks)."
+    },
+    {
+      "slug": "base-actions-on-current-and-expected-fire-behavior",
+      "name": "Base All Actions on Current and Expected Behavior of the Fire",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "Standard Fire Order #3 -- act on what the fire IS doing and what it WILL do, not on what you wish it were doing. The dual requirement (current AND expected) forces planning under uncertainty. Transfers to any domain where actors must respond to dynamic, adversarial, or emergent conditions."
+    },
+    {
+      "slug": "lces",
+      "name": "LCES (Lookouts, Communications, Escape Routes, Safety Zones)",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "The four-component safety protocol that must be established before engaging. Each component addresses a distinct failure mode: L (detection), C (information flow), E (retreat path), S (fallback position). The protocol transfers wholesale to incident response, high-risk deployments, and crisis management: before you engage, ensure you can detect problems, communicate, retreat, and survive."
+    },
+    {
+      "slug": "risk-a-lot-to-save-a-lot",
+      "name": "Risk a Lot to Save a Lot, Risk a Little to Save a Little, Risk Nothing to Save Nothing",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["organizational-behavior", "ethics-and-morality"],
+      "source": "archive",
+      "description": "Brunacini's three-tier risk calculus from NFPA 1500. Encodes the principle that acceptable risk is proportional to what can be saved -- not to institutional momentum, ego, or sunk cost. The third tier ('risk nothing to save nothing') is the hardest to internalize: when the situation is already lost, aggressive action is reckless, not brave. Transfers to triage, resource allocation, and sunk-cost reasoning."
+    },
+    {
+      "slug": "eighteen-watch-out-situations",
+      "name": "18 Watch Out Situations",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "The companion to the 10 Orders: a catalog of 18 specific dangerous conditions, each derived from fatality investigations. The list functions as a pre-mortem checklist -- if any of these conditions are present, reassess. The concept of enumerating known-dangerous conditions from past failures transfers to aviation checklists, surgical safety protocols, and software incident playbooks."
+    },
+    {
+      "slug": "niosh-5",
+      "name": "The NIOSH 5",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "organizational-behavior",
+      "categories": ["systems-thinking", "organizational-behavior"],
+      "source": "archive",
+      "description": "The five recurring causal factors in firefighter fatalities identified by NIOSH: improper risk assessment, lack of incident command, lack of accountability, inadequate communications, failure to follow SOPs. These are system failures, not individual errors. The pattern of extracting recurring causal factors from fatality investigations transfers to aviation (NTSB), medicine (sentinel events), and software (incident postmortems)."
+    },
+    {
+      "slug": "good-luck-reinforces-bad-habits",
+      "name": "Good Luck Reinforces Bad Habits",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["psychology", "systems-thinking"],
+      "source": "archive",
+      "description": "NIOSH insight that surviving a risky action does not validate the decision. The near-miss that produced no injury is treated as a success, reinforcing the behavior that created the risk. Outcome bias applied to life-safety decisions. Transfers to security ('we have never been breached' is not evidence of good security), finance (survivorship bias), and engineering (untested disaster recovery)."
+    },
+    {
+      "slug": "tradition-unimpeded-by-progress",
+      "name": "200 Years of Tradition Unimpeded by Progress",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "archive",
+      "description": "The fire service's self-aware institutional critique: tradition persists because it provides identity and cohesion, even when it actively prevents safety improvements. The aphorism acknowledges that institutional resistance to change is not ignorance but identity. Transfers to any field where tradition and professional identity conflict with evidence-based improvement."
+    },
+    {
+      "slug": "incident-command-system",
+      "name": "Incident Command System",
+      "kind": "paradigm",
+      "source_frame": "fire-safety",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "systems-thinking"],
+      "source": "archive",
+      "description": "The scalable command structure developed after 1970s California wildfires exposed coordination failures. ICS provides modular expansion (one IC can scale to hundreds of responders), unified terminology, and clear span of control. Adopted by FEMA for all-hazards response. Migrated to software incident command (PagerDuty IC role), hospital mass-casualty management, and corporate crisis response."
+    },
+    {
+      "slug": "two-in-two-out",
+      "name": "Two In, Two Out",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "systems-thinking"],
+      "source": "llm",
+      "description": "OSHA/NFPA rule: at least two firefighters must enter an IDLH atmosphere together, with at least two more outside ready to rescue them. Encodes the principle that no one operates alone in dangerous environments, and that rescue capacity must exist before engagement. Transfers to pair programming, buddy systems in diving and military operations, and the general principle that high-risk work requires dedicated backup."
+    },
+    {
+      "slug": "everyone-goes-home",
+      "name": "Everyone Goes Home",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "ethics-and-morality"],
+      "source": "archive",
+      "description": "The National Fallen Firefighters Foundation's cultural change program: the explicit declaration that no property is worth a firefighter's life. 'Everyone Goes Home' reframes the fire service's traditional heroic identity -- where dying in the line of duty was honorable -- into a safety-first culture where preventing deaths IS the mission. Transfers to any high-risk profession where a culture of sacrifice must be replaced by a culture of safety."
+    },
+    {
+      "slug": "size-up",
+      "name": "Size-Up",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "llm",
+      "description": "The systematic assessment of an incident before committing resources. Size-up answers: What do I have? What is it doing? Where is it going? What do I need? The practice of disciplined assessment before action transfers to software incident triage, medical assessment (ABCDE), and military reconnaissance. Watch Out #1 ('fire not scouted and sized up') makes the failure to size up an explicit danger signal."
+    },
+    {
+      "slug": "anchor-point",
+      "name": "Anchor Point",
+      "kind": "metaphor",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "In wildland firefighting, an anchor point is a barrier (road, stream, burned area) from which fireline construction begins, ensuring the fire cannot outflank the line. Watch Out #8 flags constructing line without an anchor point. The metaphor transfers to project management (start from a known-good state), security (build defenses from a trusted base), and argumentation (anchor your position to established facts)."
+    },
+    {
+      "slug": "safety-zone",
+      "name": "Safety Zone",
+      "kind": "metaphor",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "A pre-identified area where firefighters can survive a burnover without shelter or equipment. The safety zone is not where you work -- it is where you retreat to when work becomes untenable. The concept transfers to financial reserves, rollback procedures in deployments, and any domain where a 'safe state' must be pre-identified before engaging in risky operations."
+    },
+    {
+      "slug": "escape-route",
+      "name": "Escape Route",
+      "kind": "metaphor",
+      "source_frame": "fire-safety",
+      "target_frame": "decision-making",
+      "categories": ["systems-thinking"],
+      "source": "archive",
+      "description": "A pre-planned path from the work area to the safety zone, identified and communicated before engagement. Standard Fire Order #4 requires escape routes be 'made known' -- not just identified but communicated. The concept encodes the principle that retreat must be planned before advance. Transfers to software rollback plans, financial exit strategies, and military withdrawal routes."
+    },
+    {
+      "slug": "mayday",
+      "name": "Mayday",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "communication",
+      "categories": ["organizational-behavior"],
+      "source": "llm",
+      "description": "The emergency distress call indicating a firefighter is lost, trapped, or in imminent danger. Declaring mayday triggers immediate priority response and resource reallocation. The concept encodes the principle that there must be an unambiguous, culturally sanctioned signal for 'I need help now' that overrides all other communication. Transfers to aviation, incident response (SEV-0), and any system where escalation must be instantaneous and unambiguous."
+    },
+    {
+      "slug": "freelancing",
+      "name": "Freelancing (Fireground)",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior", "systems-thinking"],
+      "source": "llm",
+      "description": "Operating outside the incident command structure -- taking independent action without coordination, communication, or accountability. Freelancing is a NIOSH-identified contributing factor in firefighter fatalities. The term encodes the insight that individual initiative without coordination is not heroism but a system failure. Transfers to software (cowboy coding, unauthorized production changes) and organizational behavior generally."
+    },
+    {
+      "slug": "rehab",
+      "name": "Rehab (Fireground Rehabilitation)",
+      "kind": "mental-model",
+      "source_frame": "fire-safety",
+      "target_frame": "organizational-behavior",
+      "categories": ["organizational-behavior"],
+      "source": "llm",
+      "description": "Mandatory rest, hydration, and medical monitoring of firefighters during extended operations. Rehab is not optional and not a sign of weakness -- it is a commanded rotation to prevent degraded decision-making from fatigue. The concept transfers to on-call rotation policies, mandatory breaks in surgery, and any high-stakes domain where fatigue management is a system responsibility, not an individual choice."
+    }
+  ]
+}
