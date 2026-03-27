@@ -1,0 +1,175 @@
+{
+  "project": "hauser-reich-directing",
+  "project_issue": 1232,
+  "source_type": "archive",
+  "archive_urls": [
+    "https://www.goodreads.com/work/quotes/246935-notes-on-directing",
+    "https://www.leadershipnow.com/leadershop/9780802717085.html",
+    "https://fluidself.org/books/art/impro",
+    "https://jamesclear.com/book-summaries/impro",
+    "https://taylorpearson.me/bookreview/impro-johnstone-notes/",
+    "https://blas.com/impro/",
+    "https://dramatics.org/understanding-viewpoints/",
+    "https://www.studiobinder.com/blog/walter-murch-rule-of-six/",
+    "https://nofilmschool.com/2016/11/6-rules-good-cutting-according-oscar-winning-editor-walter-murch"
+  ],
+  "candidates": [
+    {
+      "slug": "director-as-obstetrician",
+      "name": "Director as Obstetrician",
+      "kind": "metaphor",
+      "source_frame": "medicine",
+      "target_frame": "theatrical-directing",
+      "categories": ["creative-leadership"],
+      "source": "archive",
+      "archive_url": "https://www.goodreads.com/work/quotes/246935-notes-on-directing",
+      "description": "The director is not the parent of the play but the obstetrician -- present at its birth for clinical reasons, whose job is first to do no harm. Reframes creative leadership as stewardship rather than authorship."
+    },
+    {
+      "slug": "every-scene-is-a-chase-scene",
+      "name": "Every Scene Is a Chase Scene",
+      "kind": "metaphor",
+      "source_frame": "pursuit-and-escape",
+      "target_frame": "theatrical-directing",
+      "categories": ["creative-leadership"],
+      "source": "llm",
+      "description": "Character A wants something from Character B who does not want to give it. Recasts all dramatic (and human) interaction as want-driven negotiation, transferring to sales, management, teaching, and design."
+    },
+    {
+      "slug": "give-actions-not-emotions",
+      "name": "Give Actions Not Emotions",
+      "kind": "mental-model",
+      "source_frame": "theatrical-directing",
+      "target_frame": "feedback-and-communication",
+      "categories": ["creative-leadership"],
+      "source": "llm",
+      "description": "Do not tell the actor what to feel; give them something to do. Transfers to management (specify behaviors not attitudes), teaching (assign tasks not mindsets), and design (affordances not intentions)."
+    },
+    {
+      "slug": "talk-to-the-character-not-the-actor",
+      "name": "Talk to the Character Not the Actor",
+      "kind": "mental-model",
+      "source_frame": "theatrical-directing",
+      "target_frame": "feedback-and-communication",
+      "categories": ["creative-leadership"],
+      "source": "llm",
+      "description": "Address feedback to the role, not the person. Preserves psychological safety by separating identity from performance. Transfers to code review (critique the code not the coder) and management."
+    },
+    {
+      "slug": "you-cannot-create-results-only-conditions",
+      "name": "You Cannot Create Results Only Conditions",
+      "kind": "mental-model",
+      "source_frame": "theatrical-directing",
+      "target_frame": "leadership-and-management",
+      "categories": ["creative-leadership", "systems-thinking"],
+      "source": "llm",
+      "description": "The director sets conditions for discovery rather than prescribing outcomes. Transfers to management, teaching, parenting, and system design -- anywhere indirect control outperforms direct command."
+    },
+    {
+      "slug": "casting-is-ninety-percent",
+      "name": "Casting Is Ninety Percent",
+      "kind": "mental-model",
+      "source_frame": "theatrical-directing",
+      "target_frame": "leadership-and-management",
+      "categories": ["creative-leadership"],
+      "source": "archive",
+      "archive_url": "https://www.leadershipnow.com/leadershop/9780802717085.html",
+      "description": "Sixty to ninety percent of directing is casting. Once you have the right people, much of the work is done. Transfers directly to hiring as the dominant leadership decision."
+    },
+    {
+      "slug": "character-is-conduct",
+      "name": "Character Is Conduct",
+      "kind": "mental-model",
+      "source_frame": "theatrical-directing",
+      "target_frame": "judgment-and-evaluation",
+      "categories": ["creative-leadership"],
+      "source": "archive",
+      "archive_url": "https://www.goodreads.com/work/quotes/246935-notes-on-directing",
+      "description": "We know people primarily by what they do, not what they or others say about them. Aristotle's insight applied to directing: judge character by action. Transfers to hiring, performance evaluation, and trust-building."
+    },
+    {
+      "slug": "just-tell-the-story",
+      "name": "Just Tell the Story",
+      "kind": "mental-model",
+      "source_frame": "theatrical-directing",
+      "target_frame": "communication",
+      "categories": ["creative-leadership"],
+      "source": "llm",
+      "description": "Tell the story as believably and excitingly as possible. Whatever does not tell the story should be subject to a very fishy examination. A ruthless editing principle that transfers to writing, presenting, and product design."
+    },
+    {
+      "slug": "rehearsal-is-not-performance",
+      "name": "Rehearsal Is Not Performance",
+      "kind": "metaphor",
+      "source_frame": "theatrical-directing",
+      "target_frame": "learning-and-development",
+      "categories": ["creative-leadership"],
+      "source": "llm",
+      "description": "Rehearsal requires a different psychology than performance -- a safe space for experimentation, failure, and discovery. Transfers to prototyping, staging environments, practice sessions, and psychological safety."
+    },
+    {
+      "slug": "status-transactions",
+      "name": "Status Transactions",
+      "kind": "metaphor",
+      "source_frame": "economics",
+      "target_frame": "social-dynamics",
+      "categories": ["improvisation", "social-dynamics"],
+      "source": "archive",
+      "archive_url": "https://fluidself.org/books/art/impro",
+      "description": "Johnstone's insight that every human interaction is a status transaction -- status as something you do, not something you are. Every movement and inflection implies a status level. Transfers to negotiation, management, and social design."
+    },
+    {
+      "slug": "offers-and-blocks",
+      "name": "Offers and Blocks",
+      "kind": "metaphor",
+      "source_frame": "improvisation",
+      "target_frame": "collaboration",
+      "categories": ["improvisation", "creative-leadership"],
+      "source": "archive",
+      "archive_url": "https://fluidself.org/books/art/impro",
+      "description": "An offer is any action a partner can accept or reject. Blocking is aggression that prevents scene development. Acceptance allows scenes to generate themselves. Transfers to brainstorming, collaboration, and innovation culture."
+    },
+    {
+      "slug": "the-magic-if",
+      "name": "The Magic If",
+      "kind": "mental-model",
+      "source_frame": "theatrical-directing",
+      "target_frame": "imagination-and-creativity",
+      "categories": ["acting-technique"],
+      "source": "archive",
+      "archive_url": "https://www.backstage.com/magazine/article/the-definitive-guide-to-the-stanislavsky-acting-technique-65716/",
+      "description": "Stanislavski's technique: 'What would I do IF I were in these circumstances?' Converts intellectual analysis into embodied imagination. Transfers to empathy exercises, scenario planning, design thinking, and user-centered design."
+    },
+    {
+      "slug": "the-rule-of-six",
+      "name": "The Rule of Six",
+      "kind": "mental-model",
+      "source_frame": "film-editing",
+      "target_frame": "decision-making",
+      "categories": ["creative-leadership"],
+      "source": "archive",
+      "archive_url": "https://nofilmschool.com/2016/11/6-rules-good-cutting-according-oscar-winning-editor-walter-murch",
+      "description": "Murch's six ranked criteria for an ideal cut: emotion (51%), story, rhythm, eye-trace, planarity, spatial continuity. The hierarchy is the insight -- emotion outweighs everything else combined. Transfers to any prioritized decision framework."
+    },
+    {
+      "slug": "the-duty-is-to-the-text",
+      "name": "The Duty Is to the Text",
+      "kind": "mental-model",
+      "source_frame": "theatrical-directing",
+      "target_frame": "creative-process",
+      "categories": ["creative-leadership"],
+      "source": "llm",
+      "description": "The director serves the play, not their own vision. Reframes creative ego as subordinate to the problem being solved. Transfers to engineering (serve the user not your architecture), consulting (serve the client not your methodology)."
+    },
+    {
+      "slug": "the-ensemble",
+      "name": "The Ensemble",
+      "kind": "mental-model",
+      "source_frame": "theatrical-directing",
+      "target_frame": "team-dynamics",
+      "categories": ["creative-leadership"],
+      "source": "llm",
+      "description": "Team coherence over individual brilliance. The ensemble produces emergent work no individual could achieve alone. Transfers to sports teams, engineering teams, and any collaborative creative endeavor."
+    }
+  ]
+}
