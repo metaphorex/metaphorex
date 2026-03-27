@@ -141,6 +141,32 @@ hostile conditions.
 - "Our retrospectives are the team's immune system" -- positioning
   continuous improvement as a biological defense mechanism
 
+## Origin Story
+
+The living-system framing of Agile has roots predating the Agile
+Manifesto itself. Jim Highsmith's *Adaptive Software Development* (2000)
+explicitly imported complex adaptive systems theory from biology and
+ecology into software methodology, arguing that software projects behave
+more like organisms in an ecosystem than like machines on an assembly
+line. Highsmith drew on the Santa Fe Institute's work on complexity to
+position adaptation, collaboration, and learning as biological necessities
+rather than process preferences. When the seventeen signatories gathered
+at Snowbird in February 2001, these living-system assumptions pervaded
+the resulting Manifesto without being named directly: "responding to
+change over following a plan" is an ecological principle dressed in
+project-management language; "individuals and interactions over processes
+and tools" privileges the organic over the mechanical. The framing gained
+its force from the contrast with what preceded it. Through the 1990s,
+heavyweight methodologies like the Rational Unified Process and CMMI
+treated software development as an industrial process -- a machine to be
+optimized through better specification, tighter controls, and more
+comprehensive documentation. The living-system metaphor offered a
+counter-narrative: the problem was not insufficient control but
+insufficient adaptation. By recasting the development team as an organism
+rather than a factory, Agile proponents could argue that the rigidity of
+waterfall was not just inefficient but categorically wrong -- a
+misunderstanding of the kind of system a software project is.
+
 ## References
 
 - Beck, K. et al. *Manifesto for Agile Software Development* (2001) --
