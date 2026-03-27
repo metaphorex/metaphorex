@@ -33,8 +33,13 @@ do runs in the main conversation so the user sees progress immediately.
    | Needs assay | 1 | PR #48 |
    | Needs miner fix | 0 | — |
    | Needs enrichment | 3 | #1465, #1466, #1467 |
+   | Prospect PRs need review | 5 | PR #1697, #1698... |
+   | Approved but blocked | 1 | PR #2294 (conflict) |
+   | Completed parents to close | 3 | #1355, #1356, #1357 |
    | Unclaimed issues | 12 | design-patterns (12) |
    | Needs prospecting | 1 | #7 |
+   | Dangling entries | 75 | boiling-frog (4), feedback-loop (4)... |
+   | Dangling frames | 16 | health-and-disease (4)... |
    ```
 
 4. If `total_actionable` is 0, say "No actionable work found." and stop.
@@ -77,6 +82,61 @@ issue. This is how the pipeline improves itself.
 |-------|---------------|-------|-----------|
 | Fixer | fixer | opus | worktree |
 
+## Phase A.7 — Housekeeping
+
+Before dispatching production agents, pitboss handles lightweight cleanup
+directly (no agent dispatch needed):
+
+1. **Close completed parents** — if `completed_parents` is non-empty, close
+   each issue with a summary comment:
+   ```bash
+   gh issue close <N> --repo metaphorex/metaphorex \
+     --comment "All <total> sub-issues mined and merged. Closing as complete."
+   ```
+   Report in the round summary: "Closed N completed parent issues"
+
+2. **Resolve approved-but-blocked PRs** — if `approved_blocked` is non-empty,
+   for each blocked PR:
+   - Check the block reason (`mergeStateStatus`):
+     - `DIRTY` (merge conflict): attempt a rebase in a worktree, or
+       dispatch a miner agent to rebase and force-push the branch
+     - `BLOCKED` (failing checks): check the CI status and report in
+       the round summary — don't auto-fix CI failures
+   - If rebase succeeds, auto-merge will pick it up on the next cycle
+
+3. **Close superseded prospect PRs** — if any `needs_survey_pr` items have
+   the same parent issue as another prospect PR (e.g., `prospect/foo` and
+   `prospect/foo-v2`), close the older one with a comment linking to the
+   replacement.
+
+4. **File dangling reference issues** — if `dangling_entries` has >=10 items
+   and no open "Dangling references" import-project issue exists:
+   - Create one import-project issue titled
+     "Import project: Dangling references — N entries referenced but not yet created"
+   - List the top 20 most-referenced missing entries in the body
+   - Add `import-project` label
+   - This issue will be picked up by the normal prospecting → surveying →
+     mining flow
+
+   If an open dangling-references issue already exists, update its body with
+   the current count (if changed by >=10 since last update). Don't create
+   duplicates.
+
+5. **Create missing frames** — if `dangling_frames` is non-empty, create
+   the missing frame files directly (frames are cheap, no PR needed):
+   ```bash
+   # For each missing frame slug, create a minimal frame file
+   cat > catalog/frames/<slug>.md <<'EOF'
+   ---
+   slug: <slug>
+   name: <Human Readable Name>
+   roles: []
+   related: []
+   ---
+   EOF
+   ```
+   Commit and push to main. Report: "Created N missing frames"
+
 ## Phase B — Dispatch with TaskCreate spinners
 
 For each category of work, dispatch agents using `Agent` with
@@ -110,6 +170,13 @@ so the user sees progress.
    - If `needs_miner_fix` is non-empty: TaskCreate "Fixing flagged PRs...",
      then dispatch `metaphorex-agents:miner` with model `opus`,
      isolation `worktree`
+   - **Prospect PR review** — if `needs_survey_pr` is non-empty: TaskCreate
+     "Reviewing prospect PRs...", then dispatch `metaphorex-agents:surveyor`
+     with model `sonnet`. Pass the list of prospect PR numbers to review.
+     The surveyor reads the playbook, validates the manifest against
+     archives, and labels the PR `approved` or `needs-rework`.
+     On approval, also add `surveyed` label to the parent issue and
+     create sub-issues from the manifest.
    - **Surveying** — if `needs_survey` is non-empty: TaskCreate
      "Surveying playbooks...", then dispatch `metaphorex-agents:surveyor`
      with model `sonnet`. Runs scraping scripts, verifies manifest against
@@ -197,6 +264,9 @@ sections: Work, Highlights, and Kaizen.
 - Smelted: PR #55 → needs-assay
 - Assayed: PR #48 → approved + auto-merge
 - Mined: 5 issues → PR #123 opened
+- Prospect PRs reviewed: 3 (2 approved, 1 needs-rework)
+- Completed parents closed: 5
+- Dangling frames created: 4
 - Remaining: 12 unclaimed issues
 
 ### Highlights
@@ -266,6 +336,8 @@ summary covering the entire session:
 - Duplicates closed: N
 - Projects surveyed/approved: N
 - Sub-issues created: N
+- Completed parents closed: N
+- Dangling frames created: N
 
 ### Improvements Made
 - (list each structural fix with before/after impact)
