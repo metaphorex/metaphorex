@@ -1,5 +1,4 @@
 {
-  "buildCommand": "cd .. && bun run scripts/build-neighbors.ts && cd site && bun run astro build && bunx pagefind --site dist",
-  "outputDirectory": "dist",
+  "buildCommand": "cd .. && bun run scripts/build-neighbors.ts && cd site && bun run astro build && bunx pagefind --site .vercel/output/static",
   "framework": "astro"
 }
