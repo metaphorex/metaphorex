@@ -153,6 +153,13 @@ def survey(repo: str) -> dict:
         "--json", "number,title,labels",
         "--limit", "20",
     ])
+    # Nugget issues: standalone work items outside import-project hierarchy
+    pr_nuggets = gh_query([
+        "issue", "list", "-R", repo,
+        "--label", "nugget",
+        "--state", "open",
+        "--json", "number,title,labels",
+    ])
 
     # Use GraphQL for issues — native sub-issue parent field tells us
     # which issues are top-level projects vs sub-issues, no label needed.
@@ -207,6 +214,10 @@ def survey(repo: str) -> dict:
                 kaizen_needs_human.append(item)
             elif not (label_names & triage_labels):
                 kaizen_untriaged.append(item)
+
+    # Collect nugget data now (process must be consumed before it goes stale);
+    # classification into unclaimed/stale deferred until referenced_by_pr is built.
+    nugget_issues_raw = collect(pr_nuggets)
 
     # Classify issues into parents (top-level projects) vs sub-issues.
     # Uses GraphQL `parent` field for native sub-issue linkage, with
@@ -313,6 +324,17 @@ def survey(repo: str) -> dict:
     for pr in pr_data:
         for field in (pr.get("body", ""), pr.get("title", "")):
             referenced_by_pr.update(int(m) for m in _closes_re.findall(field or ""))
+
+    # Classify nugget issues: unclaimed (no in-progress) vs stale (in-progress, no PR)
+    nuggets_unclaimed = []
+    nuggets_stale = []
+    for i in nugget_issues_raw:
+        label_names = {l["name"] for l in i.get("labels", [])}
+        item = {"number": i["number"], "title": i["title"]}
+        if "in-progress" not in label_names:
+            nuggets_unclaimed.append(item)
+        elif i["number"] not in referenced_by_pr:
+            nuggets_stale.append(item)
 
     unclaimed = []
     stale_in_progress = []
@@ -507,6 +529,8 @@ def survey(repo: str) -> dict:
         "kaizen_ready": kaizen_ready,
         "kaizen_needs_human": kaizen_needs_human,
         "kaizen_untriaged": kaizen_untriaged,
+        "nuggets_unclaimed": nuggets_unclaimed,
+        "nuggets_stale": nuggets_stale,
         "needs_prospecting": needs_prospecting,
         "prospected_projects": prospected_projects,
         "total_actionable": (
@@ -515,6 +539,7 @@ def survey(repo: str) -> dict:
             + len(unclaimed) + len(stale_in_progress)
             + len(needs_prospecting) + len(needs_survey_pr)
             + len(completed_parents) + len(approved_blocked)
+            + len(nuggets_unclaimed) + len(nuggets_stale)
         ),
     }
     return result
