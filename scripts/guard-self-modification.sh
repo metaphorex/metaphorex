@@ -13,10 +13,12 @@
 #   .claude/CLAUDE.md         — root instructions (not in this repo, but guard anyway)
 #   CLAUDE.md                 — project-level root instructions
 #   .claude/skills/**         — skill definitions (human-authored)
-#   .claude/commands/**       — slash commands (human-authored)
 #   .claude/hooks/**          — hook definitions (guards guarding the guards)
 #   hooks/hooks.json          — plugin hook config
 #   .github/workflows/**      — CI/CD pipelines
+#
+# ALLOWED (co-authored with agents):
+#   .claude/commands/**       — slash commands (pitboss updates dispatch logic)
 #
 # Install: add as PreToolUse hook matching "Write|Edit" in settings.json
 # Kill switch: delete this script or remove the hook entry
@@ -33,7 +35,7 @@ elif [ "$tool_name" = "Bash" ]; then
   # Check if bash command targets a guarded file via redirect or sed -i
   command=$(echo "$input" | jq -r '.tool_input.command // empty')
   # Only check commands that look like writes to guarded paths
-  if echo "$command" | grep -qE '(settings.*\.json|CLAUDE\.md|\.claude/skills|\.claude/commands|\.claude/hooks|hooks\.json|\.github/workflows)'; then
+  if echo "$command" | grep -qE '(settings.*\.json|CLAUDE\.md|\.claude/skills|\.claude/hooks|hooks\.json|\.github/workflows)'; then
     if echo "$command" | grep -qE '(>|>>|sed\s+-i|tee\s|cat\s.*>|echo\s.*>|mv\s|cp\s)'; then
       echo '{"hookSpecificOutput":{"permissionDecision":"deny"},"systemMessage":"BLOCKED by guard-self-modification.sh: bash command appears to write to a governance file. Agent prompts (.claude/agents/*.md) and scripts (scripts/) are the only self-modifiable paths. See docs/kaizen-self-improvement.md."}' >&2
       exit 2
@@ -70,10 +72,6 @@ case "$file_path" in
   .claude/skills/*|.claude/skills/**)
     blocked=true
     reason="skill definitions — human-authored"
-    ;;
-  .claude/commands/*|.claude/commands/**)
-    blocked=true
-    reason="slash commands — human-authored"
     ;;
   .claude/hooks/*|hooks/hooks.json)
     blocked=true

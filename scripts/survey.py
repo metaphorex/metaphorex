@@ -127,6 +127,18 @@ def survey(repo: str) -> dict:
         "--label", "in-progress",
         "--json", "number,title",
     ])
+    # Prospect PRs: open PRs on prospect/* branches needing review
+    pr_prospect = gh_query([
+        "pr", "list", "-R", repo,
+        "--json", "number,title,headRefName,labels",
+        "--limit", "50",
+    ])
+    # Approved but possibly blocked PRs
+    pr_approved = gh_query([
+        "pr", "list", "-R", repo,
+        "--label", "approved",
+        "--json", "number,title,mergeable,mergeStateStatus",
+    ])
     kaizen_pipeline = gh_query([
         "issue", "list", "-R", repo,
         "--label", "kaizen:pipeline",
@@ -154,6 +166,27 @@ def survey(repo: str) -> dict:
     enrichment = [{"number": p["number"], "title": p["title"]} for p in collect(pr_enrichment)]
     miner_fix = [{"number": p["number"], "title": p["title"]} for p in collect(pr_miner_fix)]
     in_progress = [{"number": p["number"], "title": p["title"]} for p in collect(pr_in_progress)]
+
+    # Prospect PRs needing survey/review (on prospect/* branches, no approved/needs-rework label)
+    reviewed_labels = {"approved", "needs-rework", "needs-miner-fix", "needs-smelting", "needs-assay"}
+    needs_survey_pr = []
+    for pr in collect(pr_prospect):
+        head = pr.get("headRefName", "")
+        if not head.startswith("prospect/"):
+            continue
+        pr_labels = {l["name"] for l in pr.get("labels", [])}
+        if pr_labels & reviewed_labels:
+            continue
+        needs_survey_pr.append({"number": pr["number"], "title": pr["title"]})
+
+    # Approved PRs that are blocked (merge conflicts or failing checks)
+    approved_blocked = []
+    for pr in collect(pr_approved):
+        status = pr.get("mergeStateStatus", "")
+        mergeable = pr.get("mergeable", "")
+        if status == "DIRTY" or mergeable == "CONFLICTING":
+            approved_blocked.append({"number": pr["number"], "title": pr["title"]})
+
     # Merge kaizen from both labels (gh --label uses AND, so we query separately)
     # Classify by triage status based on labels
     seen_kaizen: set[int] = set()
@@ -283,6 +316,9 @@ def survey(repo: str) -> dict:
 
     unclaimed = []
     stale_in_progress = []
+    # Track which parents have sub-issues and which have any open ones
+    parents_with_subs: dict[int, int] = {}   # parent# → total sub-issue count
+    parents_with_open: set[int] = set()       # parents that have ≥1 open sub-issue
 
     for parent_num in surveyed_parent_numbers:
         result_rest = subprocess.run(
@@ -293,15 +329,16 @@ def survey(repo: str) -> dict:
         if result_rest.returncode != 0:
             continue
         # Parse JSONL output (--jq .[] emits one object per line)
-        for line in result_rest.stdout.strip().split("\n"):
-            if not line.strip():
-                continue
+        sub_lines = [l for l in result_rest.stdout.strip().split("\n") if l.strip()]
+        parents_with_subs[parent_num] = len(sub_lines)
+        for line in sub_lines:
             try:
                 si = json.loads(line)
             except json.JSONDecodeError:
                 continue
             if si.get("state") != "open":
                 continue
+            parents_with_open.add(parent_num)
             si_num = si["number"]
             # Verify the sub-issue actually exists via REST.
             # GraphQL subIssues can return phantom numbers that 404.
@@ -378,6 +415,7 @@ def survey(repo: str) -> dict:
 
         si_labels = [l["name"] for l in issue.get("labels", {}).get("nodes", [])]
         priority = parent_priority.get(matched_parent, "normal")
+        parents_with_open.add(matched_parent)  # orphan is open → parent not complete
         if "in-progress" not in si_labels:
             unclaimed.append({
                 "number": inum,
@@ -396,16 +434,75 @@ def survey(repo: str) -> dict:
     unclaimed.sort(key=lambda x: (0 if x["priority"] == "high" else 1, x["number"]))
     stale_in_progress.sort(key=lambda x: (0 if x["priority"] == "high" else 1, x["number"]))
 
+    # Detect completed parents: surveyed projects where ALL sub-issues are
+    # closed. Uses data already collected during sub-issue fetch above.
+    completed_parents = []
+    for parent_num in surveyed_parent_numbers:
+        total = parents_with_subs.get(parent_num, 0)
+        if total == 0:
+            continue  # no sub-issues yet — not complete, just not started
+        if parent_num in parents_with_open:
+            continue  # still has open sub-issues
+        completed_parents.append({
+            "number": parent_num,
+            "title": next(
+                (p["title"] for p in prospected_projects
+                 if p["number"] == parent_num),
+                f"#{parent_num}",
+            ),
+            "sub_issues_total": total,
+        })
+
+    # Dangling references: entries/frames referenced but not yet in catalog.
+    # Run the validator and parse warnings for missing related entries/frames.
+    dangling_entries: dict[str, int] = {}  # slug → reference count
+    dangling_frames: dict[str, int] = {}
+    try:
+        val_result = subprocess.run(
+            ["uv", "run", "scripts/validate.py", "validate"],
+            capture_output=True, text=True, timeout=60,
+        )
+        _dangling_entry_re = re.compile(
+            r"related entry '([^']+)' not found"
+        )
+        _dangling_frame_re = re.compile(
+            r"(?:related|broader) frame '([^']+)' not found"
+        )
+        for line in val_result.stderr.splitlines() + val_result.stdout.splitlines():
+            m = _dangling_entry_re.search(line)
+            if m:
+                dangling_entries[m.group(1)] = dangling_entries.get(m.group(1), 0) + 1
+            m = _dangling_frame_re.search(line)
+            if m:
+                dangling_frames[m.group(1)] = dangling_frames.get(m.group(1), 0) + 1
+    except (subprocess.TimeoutExpired, FileNotFoundError):
+        pass  # validator not available — skip dangling detection
+
+    # Sort dangling by reference count descending
+    dangling_entries_list = sorted(
+        [{"slug": k, "refs": v} for k, v in dangling_entries.items()],
+        key=lambda x: -x["refs"],
+    )
+    dangling_frames_list = sorted(
+        [{"slug": k, "refs": v} for k, v in dangling_frames.items()],
+        key=lambda x: -x["refs"],
+    )
+
     result = {
         "needs_smelting": smelting,
         "needs_assay": assay,
         "needs_enrichment": enrichment,
         "needs_miner_fix": miner_fix,
         "needs_survey": needs_survey,
+        "needs_survey_pr": needs_survey_pr,
         "needs_rework": needs_rework,
         "in_progress": in_progress,
         "unclaimed": unclaimed,
         "stale_in_progress": stale_in_progress,
+        "completed_parents": completed_parents,
+        "approved_blocked": approved_blocked,
+        "dangling_entries": dangling_entries_list,
+        "dangling_frames": dangling_frames_list,
         "kaizen_open": kaizen_open,
         "kaizen_ready": kaizen_ready,
         "kaizen_needs_human": kaizen_needs_human,
@@ -416,7 +513,8 @@ def survey(repo: str) -> dict:
             len(smelting) + len(assay) + len(enrichment) + len(miner_fix)
             + len(needs_survey) + len(needs_rework)
             + len(unclaimed) + len(stale_in_progress)
-            + len(needs_prospecting)
+            + len(needs_prospecting) + len(needs_survey_pr)
+            + len(completed_parents) + len(approved_blocked)
         ),
     }
     return result
